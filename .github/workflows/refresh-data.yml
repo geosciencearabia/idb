@@ -1,0 +1,53 @@
+name: Refresh data
+
+on:
+  # Run nightly at 02:00 UTC
+  schedule:
+    - cron: "0 21 * * *"
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Refresh data (fail-safe wrapper)
+        run: npm run refresh:data
+
+      - name: Commit and push updated data (if any)
+        run: |
+          # Exit early only when absolutely nothing changed (including untracked files)
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage only existing paths; avoid failing on optional dirs like backups
+          git add data src/data public/author-data || true
+          if [ -d backups ]; then
+            git add backups
+          fi
+
+          git commit -m "chore: refresh data from OpenAlex [skip ci]" || exit 0
+          git push
