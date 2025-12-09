@@ -15,10 +15,23 @@ type TopicSortField = "name" | "publications" | "citations";
 
 const PAGE_SIZE = 15;
 
+// Normalize names so minor dash/diacritic differences don't break equality
+const normalizeName = (raw: string) => {
+  if (!raw) return "";
+  let s = raw.trim().toLowerCase();
+  s = s.normalize("NFD").replace(/\p{M}+/gu, "");
+  s = s.replace(/[\u2010-\u2015]/g, "-");
+  s = s.replace(/[.,']/g, "");
+  s = s.replace(/\s+/g, " ");
+  return s;
+};
+
 const TopicsPage = () => {
   const navigate = useNavigate();
   const [searchParams] = useSearchParams();
   const authorFilter = searchParams.get("author") || "";
+  const fromYearParam = searchParams.get("fromYear");
+  const toYearParam = searchParams.get("toYear");
 
   const [sortBy, setSortBy] = useState<TopicSortField>("publications");
   const [sortOrder, setSortOrder] = useState<"asc" | "desc">("desc");
@@ -41,9 +54,17 @@ useEffect(() => {
   const minYear = allYears[0];
   const maxYear = allYears[allYears.length - 1];
 
-  setStartYear((prev) => (prev == null ? minYear : prev));
-  setEndYear((prev) => (prev == null ? maxYear : prev));
-  }, [allYears]);
+  setStartYear((prev) => {
+    if (prev != null) return prev;
+    if (fromYearParam) return Number(fromYearParam);
+    return minYear;
+  });
+  setEndYear((prev) => {
+    if (prev != null) return prev;
+    if (toYearParam) return Number(toYearParam);
+    return maxYear;
+  });
+  }, [allYears, fromYearParam, toYearParam]);
 
 
   useEffect(() => {
@@ -66,8 +87,17 @@ useEffect(() => {
       idByName.set(t.name, t.id);
     }
 
+    const normalizedAuthor = normalizeName(authorFilter);
+
     for (const work of worksTable) {
-      if (authorFilter && !(work.allAuthors || []).includes(authorFilter)) continue;
+      if (
+        normalizedAuthor &&
+        !(work.allAuthors || []).some(
+          (name) => normalizeName(name) === normalizedAuthor,
+        )
+      ) {
+        continue;
+      }
       if (!work.year) continue;
       if (from != null && work.year < from) continue;
       if (to != null && work.year > to) continue;

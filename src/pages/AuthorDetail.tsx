@@ -245,12 +245,20 @@ export default function AuthorDetail() {
   };
 
 
+  const getPublicationSortValue = (w: (typeof filteredWorks)[number]) => {
+    if (w.publicationDate) {
+      const t = Date.parse(w.publicationDate);
+      if (!Number.isNaN(t)) return t;
+    }
+    return w.year ?? 0;
+  };
+
   const sortedWorks = useMemo(() => {
     const items = [...filteredWorks];
     items.sort((a, b) => {
       const dir = sortOrder === "asc" ? 1 : -1;
       if (sortBy === "year") {
-        return ((a.year ?? 0) - (b.year ?? 0)) * dir;
+        return (getPublicationSortValue(a) - getPublicationSortValue(b)) * dir;
       }
       return ((a.citations ?? 0) - (b.citations ?? 0)) * dir;
     });
