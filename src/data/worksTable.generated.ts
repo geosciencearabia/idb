@@ -2363,6 +2363,377 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W2053123825",
+    "doi": "https://doi.org/10.1016/j.yqres.2011.10.008",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5066910018",
+      "A5038867039",
+      "A5054841487",
+      "A5103217857",
+      "A5010436195",
+      "A5069819120",
+      "A5047559025",
+      "A5021382014"
+    ],
+    "firstAuthorLastName": "Wood",
+    "allAuthors": [
+      "Warren W. Wood",
+      "Richard M. Bailey",
+      "Brian A. Hampton",
+      "Thomas F. Kraemer",
+      "Zhong Lu",
+      "David W. Clark",
+      "Rhodri H.R. James",
+      "Khalid Al Ramadan"
+    ],
+    "title": "Rapid late Pleistocene/Holocene uplift and coastal evolution of the southern Arabian (Persian) Gulf",
+    "publicationDate": "2011-12-14",
+    "year": 2011,
+    "venue": "Quaternary Research",
+    "citations": 41,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Geological formations and processes",
+      "Aeolian processes and effects"
+    ],
+    "institutions": [
+      "Michigan State University",
+      "University of Oxford",
+      "United States Geological Survey",
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3129777047",
+    "doi": "https://doi.org/10.47894/mpal.66.2.07",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5103499964",
+      "A5021382014",
+      "A5027167326",
+      "A5080748045"
+    ],
+    "firstAuthorLastName": "Hughes",
+    "allAuthors": [
+      "Geraint W. Hughes",
+      "Khalid Al Ramadan",
+      "Mahmoud Nazgah",
+      "Abdulkarim Al-Hussaini"
+    ],
+    "title": "Foraminifera from the Aruma Formation of Central Saudi Arabia",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "Micropaleontology",
+    "citations": 7,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies",
+      "Marine Biology and Ecology Research"
+    ],
+    "institutions": [
+      "German Oceanographic Museum",
+      "Natural History Museum",
+      "King Fahd University of Petroleum and Minerals",
+      "Saudi Aramco (United States)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4251869326",
+    "doi": "https://doi.org/10.22587/ajbas.2019.13.10.8",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5021382014",
+      "A5094790259",
+      "A5076965818",
+      "A5084570764"
+    ],
+    "firstAuthorLastName": "Ramadan",
+    "allAuthors": [
+      "Khalid Al Ramadan",
+      "Jamal Elatresh",
+      "Alzain Alzain",
+      "Ümit Tokeşer"
+    ],
+    "title": "An Analysis of Factors affecting Learners' attitudes towards theIntegration of E-learning into the Higher Education System inLibya: Case Study; Misurata University",
+    "publicationDate": "2019-01-01",
+    "year": 2019,
+    "venue": "AUSTRALIAN JOURNAL OF BASIC AND APPLIED SCIENCES",
+    "citations": 6,
+    "topics": [
+      "Online and Blended Learning"
+    ],
+    "institutions": [
+      "Kastamonu University",
+      "Misurata University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2254901902",
+    "doi": "https://doi.org/10.7494/geotour.2014.37.3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5035815399",
+      "A5103606618",
+      "A5021382014"
+    ],
+    "firstAuthorLastName": "Kaminski",
+    "allAuthors": [
+      "Michael A. Kaminski",
+      "Abdulaziz Al Shaibani",
+      "Khalid Al Ramadan"
+    ],
+    "title": "The White Volcanoes of Harrat Khaybar, north of Al-Madinah",
+    "publicationDate": "2014-01-01",
+    "year": 2014,
+    "venue": "Geotourism/Geoturystyka",
+    "citations": 2,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Methane Hydrates and Related Phenomena",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4246434093",
+    "doi": "https://doi.org/10.22587/ajbas.2019.13.10.14",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5095476073",
+      "A5021382014",
+      "A5084570764"
+    ],
+    "firstAuthorLastName": "Elattresh",
+    "allAuthors": [
+      "Jamal Elattresh",
+      "Khalid Al Ramadan",
+      "Ümit Tokeşer"
+    ],
+    "title": "Factors Effecting Information Security Management and theirimpacts on Organization performance in the work environment:Case study; Hatif Libya Company ( HLC )",
+    "publicationDate": "2019-01-01",
+    "year": 2019,
+    "venue": "AUSTRALIAN JOURNAL OF BASIC AND APPLIED SCIENCES",
+    "citations": 2,
+    "topics": [
+      "Information and Cyber Security"
+    ],
+    "institutions": [
+      "Kastamonu University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4231640444",
+    "doi": "https://doi.org/10.22587/ajbas.2019.13.5.5",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5021382014",
+      "A5094790259",
+      "A5076965818",
+      "A5084570764"
+    ],
+    "firstAuthorLastName": "Ramadan",
+    "allAuthors": [
+      "Khalid Al Ramadan",
+      "Jamal Elatresh",
+      "Alzain Alzain",
+      "Ümit Tokeşer"
+    ],
+    "title": "Investigating Instructors’ Attitude towards the Adoption of ELearning Technology in Libyan Higher Education Institutes: Case Study; Misurata University",
+    "publicationDate": "2019-01-01",
+    "year": 2019,
+    "venue": "AUSTRALIAN JOURNAL OF BASIC AND APPLIED SCIENCES",
+    "citations": 1,
+    "topics": [
+      "Technology-Enhanced Education Studies",
+      "Online and Blended Learning"
+    ],
+    "institutions": [
+      "Kastamonu University",
+      "Misurata University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1987587938",
+    "doi": "https://doi.org/10.1190/1.3255764",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5102780937",
+      "A5021382014"
+    ],
+    "firstAuthorLastName": "Hussain",
+    "allAuthors": [
+      "Maaruf Hussain",
+      "Khalid Al Ramadan"
+    ],
+    "title": "Microfacies approach to reservoir‐related outcrop analogy studies of Wadi Waqb member.",
+    "publicationDate": "2009-01-01",
+    "year": 2009,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Methane Hydrates and Related Phenomena"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2175841689",
+    "doi": "https://doi.org/10.3997/2214-4609-pdb.248.328",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5021382014",
+      "A5057027693",
+      "A5011794675"
+    ],
+    "firstAuthorLastName": "Ramadan",
+    "allAuthors": [
+      "Khalid Al Ramadan",
+      "S. Morad",
+      "Essam El-Khoriby"
+    ],
+    "title": "Integrated Diagenesis and Sequence Stratigraphic Study of Tidal Sandstones: the Adedia Formation (Cambro-Ordovician), Sinai, Egypt",
+    "publicationDate": "2010-01-01",
+    "year": 2010,
+    "venue": "GEO 2010",
+    "citations": 0,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Methane Hydrates and Related Phenomena"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2565148508",
+    "doi": "https://doi.org/10.3997/2214-4609-pdb.248.291",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5083679919",
+      "A5036048747",
+      "A5078353329",
+      "A5021382014"
+    ],
+    "firstAuthorLastName": "Busbait",
+    "allAuthors": [
+      "Emad A. Busbait",
+      "Ishak Ishak",
+      "Langhorne B. Smith",
+      "Khalid Al Ramadan"
+    ],
+    "title": "Carbonate/Evaporite Sequence Stratigraphy of the Subsurface Late Jurassic Arab-C Member, Khursaniyah Field, Eastern Saudi Arabia",
+    "publicationDate": "2010-01-01",
+    "year": 2010,
+    "venue": "GEO 2010",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3091193032",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5062234351",
+      "A5035815399",
+      "A5074883327",
+      "A5021382014",
+      "A5044235421",
+      "A5070748180"
+    ],
+    "firstAuthorLastName": "Arslan",
+    "allAuthors": [
+      "Muhammad Arslan",
+      "Michael A. Kaminski",
+      "Bassam Tawabini",
+      "Khalid Al Ramadan",
+      "Lamidi Babalola",
+      "Fabrizio Frontalini"
+    ],
+    "title": "Benthic Foraminifera along a depth transect in western Bahrain: seasonal variations and environmental assessment",
+    "publicationDate": "2015-04-01",
+    "year": 2015,
+    "venue": "EGU General Assembly Conference Abstracts",
+    "citations": 0,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Geological and Geophysical Studies Worldwide"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4237079557",
+    "doi": "https://doi.org/10.1002/essoar.10504584.1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5077467560",
+      "A5008213975",
+      "A5017749705",
+      "A5013919197",
+      "A5021382014",
+      "A5054922583",
+      "A5038432622",
+      "A5077816186"
+    ],
+    "firstAuthorLastName": "Hanafy",
+    "allAuthors": [
+      "Sherif M. Hanafy",
+      "Pantelis Soupios",
+      "Alexandros Stampolidis",
+      "Christian Koch",
+      "Khalid Al Ramadan",
+      "Abdullatif Al‐Shuhail",
+      "Theis I. Sølling",
+      "Ignatius Argadestya"
+    ],
+    "title": "Comprehensive Geophysical study at Wabar crater, Rub Al-Khali desert, Saudi Arabia",
+    "publicationDate": "2020-10-29",
+    "year": 2020,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Methane Hydrates and Related Phenomena",
+      "earthquake and tectonic studies",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Aristotle University of Thessaloniki",
+      "University of Copenhagen"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W3209280369",
     "doi": "https://doi.org/10.47894/mpal.64.4.04",
     "program": "",
@@ -11300,6 +11671,411 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Birkbeck, University of London",
       "Desert Research Institute",
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2067784425",
+    "doi": "https://doi.org/10.7306/gq.1081",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5104094821",
+      "A5077100287",
+      "A5081283983"
+    ],
+    "firstAuthorLastName": "Al‐Ramadan",
+    "allAuthors": [
+      "Khalid Al‐Ramadan",
+      "Ahmet Doğan",
+      "M. Şenalp"
+    ],
+    "title": "Sedimentology and diagenesis of the Miocene Nutaysh Member of the Burqan Formation in the Midyan area (northwestern Saudi Arabia)",
+    "publicationDate": "2012-03-28",
+    "year": 2012,
+    "venue": "Geological Quarterly",
+    "citations": 15,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Marymount University",
+      "Society of Economic Geologists"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4313537603",
+    "doi": "https://doi.org/10.1016/j.earscirev.2022.104297",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5081623474",
+      "A5101591748",
+      "A5104094821",
+      "A5050789580",
+      "A5089736361"
+    ],
+    "firstAuthorLastName": "Hussain",
+    "allAuthors": [
+      "Arif Hussain",
+      "Emma A. Morris",
+      "Khalid Al‐Ramadan",
+      "Patrick M. Shannon",
+      "Peter D. W. Haughton"
+    ],
+    "title": "Hybrid event beds (HEBs) and the ‘greywacke problem’ revisited",
+    "publicationDate": "2022-12-25",
+    "year": 2022,
+    "venue": "Earth-Science Reviews",
+    "citations": 13,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Methane Hydrates and Related Phenomena"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Utah",
+      "University College Dublin"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3122970365",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2021.104915",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5080748045",
+      "A5078743538",
+      "A5104094821",
+      "A5043958071",
+      "A5030587820"
+    ],
+    "firstAuthorLastName": "Al-Hussaini",
+    "allAuthors": [
+      "Abdulkarim Al-Hussaini",
+      "Mahmoud Alnazghah",
+      "Khalid Al‐Ramadan",
+      "Mohammed Fallatah",
+      "Camilo A. Polo"
+    ],
+    "title": "Asymmetrical wave-dominated siliciclastic shorelines with evidence of along-strike variability of sedimentary processes: A revised interpretation for the Toarcian Marrat red beds, central Arabia",
+    "publicationDate": "2021-01-18",
+    "year": 2021,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 12,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)",
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3128211510",
+    "doi": "https://doi.org/10.1029/2020ea001432",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5077467560",
+      "A5008213975",
+      "A5017749705",
+      "A5013919197",
+      "A5104094821",
+      "A5054922583",
+      "A5038432622",
+      "A5077816186"
+    ],
+    "firstAuthorLastName": "Hanafy",
+    "allAuthors": [
+      "Sherif M. Hanafy",
+      "Pantelis Soupios",
+      "Alexandros Stampolidis",
+      "Christian Koch",
+      "Khalid Al‐Ramadan",
+      "Abdullatif Al‐Shuhail",
+      "Theis I. Sølling",
+      "Ignatius Argadestya"
+    ],
+    "title": "Comprehensive Geophysical Study at Wabar Crater, Rub Al‐Khali Desert, Saudi Arabia",
+    "publicationDate": "2021-09-01",
+    "year": 2021,
+    "venue": "Earth and Space Science",
+    "citations": 10,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Methane Hydrates and Related Phenomena",
+      "Geophysical Methods and Applications"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Aristotle University of Thessaloniki",
+      "University of Copenhagen"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3198961371",
+    "doi": "https://doi.org/10.1029/2020ea001582",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5047530160",
+      "A5082826691",
+      "A5104094821"
+    ],
+    "firstAuthorLastName": "Radwan",
+    "allAuthors": [
+      "Omar Radwan",
+      "John Humphrey",
+      "Khalid Al‐Ramadan"
+    ],
+    "title": "Quartz Crystallinity Index of Arabian Sands and Sandstones",
+    "publicationDate": "2021-09-01",
+    "year": 2021,
+    "venue": "Earth and Space Science",
+    "citations": 5,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4307637027",
+    "doi": "https://doi.org/10.2110/jsr.2021.112",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5076343814",
+      "A5033042201",
+      "A5030587820",
+      "A5104094821"
+    ],
+    "firstAuthorLastName": "Algheryafi",
+    "allAuthors": [
+      "Hasan Algheryafi",
+      "César Viseras",
+      "Camilo A. Polo",
+      "Khalid Al‐Ramadan"
+    ],
+    "title": "Facies architecture and paleogeography evolution of regressive wave-dominated shorelines transitioning into tide-dominated estuaries: Early Devonian Subbat Member, Jauf Formation, Saudi Arabia",
+    "publicationDate": "2022-10-26",
+    "year": 2022,
+    "venue": "Journal of Sedimentary Research",
+    "citations": 4,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Saudi Aramco (Saudi Arabia)",
+      "Universidad de Granada"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1975890505",
+    "doi": "https://doi.org/10.1007/bf03182089",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5102780937",
+      "A5104094821"
+    ],
+    "firstAuthorLastName": "Hussain",
+    "allAuthors": [
+      "Maaruf Hussain",
+      "Khalid Al‐Ramadan"
+    ],
+    "title": "Microfacies analysis of Wadi Waqb member (Miocene) in Wadi Aynunah, northwest of Saudi Arabia",
+    "publicationDate": "2009-12-01",
+    "year": 2009,
+    "venue": "Carbonates and Evaporites",
+    "citations": 10,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1556228986",
+    "doi": "https://doi.org/10.1002/9781118485347.ch12",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5104094821",
+      "A5057027693",
+      "A5026361100"
+    ],
+    "firstAuthorLastName": "Al‐Ramadan",
+    "allAuthors": [
+      "Khalid Al‐Ramadan",
+      "S. Morad",
+      "Piret Plink‐Björklund"
+    ],
+    "title": "Distribution of Diagenetic Alterations in Relationship to Depositional Facies and Sequence Stratigraphy of a Wave‐ and Tide‐Dominated Siliciclastic Shoreline Complex: Upper Cretaceous Chimney Rock Sandstones, Wyoming and Utah, USA",
+    "publicationDate": "2013-01-11",
+    "year": 2013,
+    "venue": "",
+    "citations": 20,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Colorado School of Mines"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2965871639",
+    "doi": "https://doi.org/10.1130/abs/2019am-330972",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5013433204",
+      "A5058862006",
+      "A5088439801",
+      "A5104094821",
+      "A5044235421",
+      "A5082826691",
+      "A5100690031",
+      "A5001052278",
+      "A5061005201"
+    ],
+    "firstAuthorLastName": "Jones",
+    "allAuthors": [
+      "Katherine Jones",
+      "Daniel J. Lehrmann",
+      "Michele Morsilli",
+      "Khalid Al‐Ramadan",
+      "Lamidi Babalola",
+      "John Humphrey",
+      "Xiaowei Li",
+      "Pulkit Singh",
+      "Jonathan L. Payne"
+    ],
+    "title": "TIMING AND CAUSES OF THE DROWNING AND BACK STEP OF THE APULIA CARBONATE PLATFORM (MONTE SACRO SEQUENCE, GARGANO PROMONTORY, SOUTHERN ITALY)",
+    "publicationDate": "2019-01-01",
+    "year": 2019,
+    "venue": "Abstracts with programs - Geological Society of America",
+    "citations": 0,
+    "topics": [
+      "Geological formations and processes",
+      "Geological Formations and Processes Exploration",
+      "Geological Modeling and Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3046916387",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5027541537",
+      "A5104094821"
+    ],
+    "firstAuthorLastName": "Abu-Khamsin",
+    "allAuthors": [
+      "Sidqi A. Abu-Khamsin",
+      "Khalid Al‐Ramadan"
+    ],
+    "title": "Illitization of Smectite in Sandstones - The Permian Unayzah Reservoir, Saudi Arabia",
+    "publicationDate": "2014-05-01",
+    "year": 2014,
+    "venue": "EGU General Assembly Conference Abstracts",
+    "citations": 0,
+    "topics": [
+      "Clay minerals and soil interactions"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4411972762",
+    "doi": "https://doi.org/10.1080/01431161.2025.2526000",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5026749097",
+      "A5059881838",
+      "A5104094821"
+    ],
+    "firstAuthorLastName": "Hammam",
+    "allAuthors": [
+      "Ahmed Hammam",
+      "Ardiansyah Koeshidayatullah",
+      "Khalid Al‐Ramadan"
+    ],
+    "title": "Unraveling factors controlling spectral characteristics and spectrofacies in carbonate rocks: a case study from the upper Jurassic carbonate sequence, Central Saudi Arabia",
+    "publicationDate": "2025-07-03",
+    "year": 2025,
+    "venue": "International Journal of Remote Sensing",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Remote-Sensing Image Classification"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4414226470",
+    "doi": "https://doi.org/10.2118/227370-ms",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5085007251",
+    "allAuthorOpenAlexIds": [
+      "A5085007251",
+      "A5106908772",
+      "A5074883327",
+      "A5104094821",
+      "A5103082989"
+    ],
+    "firstAuthorLastName": "Gaduwang",
+    "allAuthors": [
+      "Adamu Kimayim Gaduwang",
+      "Bassam Tawabini",
+      "Khalid Al‐Ramadan",
+      "Ardiansyah Koeshidayatullah"
+    ],
+    "title": "Depositional Facies Controls on the Geomechanical Properties of the Middle Jurassic Tuwaiq Mountain Formation",
+    "publicationDate": "2025-09-16",
+    "year": 2025,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geochemical Analysis",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": [
       "King Fahd University of Petroleum and Minerals"
     ]
   }

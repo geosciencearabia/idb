@@ -32,7 +32,7 @@ export const authors: AuthorRecord[] = [
     "affiliate2": "",
     "affiliate3": "",
     "email": "abdullah.alqubalee@kfupm.edu.sa",
-    "orcid": "",
+    "orcid": "0000-0002-0543-9026",
     "totalPublications": 45,
     "totalCitations": 385,
     "hIndex": 12
@@ -41,7 +41,9 @@ export const authors: AuthorRecord[] = [
     "authorId": "idb0001-alramadan-khalid",
     "openAlexId": "A5085007251",
     "openAlexIds": [
-      "A5085007251"
+      "A5085007251",
+      "A5104094821",
+      "A5021382014"
     ],
     "name": "Khalid Al-Ramadan",
     "groupId": "",
@@ -51,8 +53,8 @@ export const authors: AuthorRecord[] = [
     "affiliate3": "",
     "email": "ramadank@kfupm.edu.sa",
     "orcid": "",
-    "totalPublications": 143,
-    "totalCitations": 2135,
+    "totalPublications": 173,
+    "totalCitations": 2297,
     "hIndex": 24
   },
   {
