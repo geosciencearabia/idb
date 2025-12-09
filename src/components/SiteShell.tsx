@@ -121,6 +121,13 @@ export const SiteShell = ({ children }: SiteShellProps) => {
               <Button
                 asChild
                 size="xs"
+                variant={location.pathname === "/contact" ? "secondary" : "ghost"}
+              >
+                <Link to="/contact">Contact us</Link>
+              </Button>
+              <Button
+                asChild
+                size="xs"
                 variant={location.pathname === "/about" ? "secondary" : "ghost"}
               >
                 <Link to="/about">About</Link>
