@@ -49,5 +49,5 @@ jobs:
             git add backups
           fi
 
-          git commit -m "chore: refresh data from OpenAlex [skip ci]" || exit 0
+          git commit -m "chore: refresh data from OpenAlex" || exit 0
           git push
