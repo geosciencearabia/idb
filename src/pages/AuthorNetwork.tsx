@@ -30,6 +30,11 @@ const normalizeName = (raw: string) => {
   return s;
 };
 
+const normalizeOpenAlexId = (raw?: string | null) => {
+  if (!raw) return "";
+  return raw.replace(/^https?:\/\/(www\.)?openalex\.org\//i, "").trim();
+};
+
   export default function AuthorNetwork() {
   const { id } = useParams();
   const navigate = useNavigate();
@@ -47,12 +52,36 @@ const normalizeName = (raw: string) => {
   const [visibleCount, setVisibleCount] = useState(15);
   const [searchQuery, setSearchQuery] = useState("");
 
+  const localAuthor = useMemo(
+    () =>
+      authors.find(
+        (a) =>
+          a.authorId === id ||
+          normalizeOpenAlexId(a.openAlexId) === normalizeOpenAlexId(id) ||
+          (a.openAlexIds || []).some((alt) => normalizeOpenAlexId(alt) === normalizeOpenAlexId(id)),
+      ) || null,
+    [id],
+  );
+
+  const resolvedOpenAlexId = useMemo(() => {
+    if (localAuthor) {
+      const primary = normalizeOpenAlexId(localAuthor.openAlexId);
+      if (primary) return primary;
+      const alt = (localAuthor.openAlexIds || [])
+        .map((raw) => normalizeOpenAlexId(raw))
+        .find(Boolean);
+      if (alt) return alt;
+    }
+    const direct = normalizeOpenAlexId(id);
+    return direct || null;
+  }, [id, localAuthor]);
+
   useEffect(() => {
-    if (!id) return;
+    if (!id || !resolvedOpenAlexId) return;
 
     const baseUrl =
       typeof import.meta.env.BASE_URL === "string" ? import.meta.env.BASE_URL : "/";
-    const authorDataUrl = `${baseUrl.replace(/\/$/, "/")}author-data/${id}.json`;
+    const authorDataUrl = `${baseUrl.replace(/\/$/, "/")}author-data/${resolvedOpenAlexId}.json`;
 
     const run = async () => {
       setIsLoading(true);
@@ -73,7 +102,7 @@ const normalizeName = (raw: string) => {
     };
 
     run();
-  }, [id]);
+  }, [id, resolvedOpenAlexId]);
 
   const allYears = useMemo(() => {
     const years = new Set<number>();
@@ -108,13 +137,15 @@ useEffect(() => {
   }, [works, allYears, startYear, endYear]);
 
   const coAuthors = useMemo<CoAuthorRow[]>(() => {
-    if (!id) return [];
+    if (!id || !resolvedOpenAlexId) return [];
 
     const byKey = new Map<string, CoAuthorRow>();
 
     for (const work of filteredWorks) {
       const authorships = work.authorships ?? [];
-      const focalPresent = authorships.some((a) => (a.author?.id || "").endsWith(id));
+      const focalPresent = authorships.some((a) =>
+        (a.author?.id || "").endsWith(resolvedOpenAlexId || ""),
+      );
       if (!focalPresent) continue;
 
       const yearCitations = work.cited_by_count ?? 0;
@@ -169,7 +200,7 @@ useEffect(() => {
     const rows = Array.from(byKey.values());
     rows.sort((a, b) => b.jointPublications - a.jointPublications);
     return rows;
-  }, [filteredWorks, id]);
+  }, [filteredWorks, id, resolvedOpenAlexId]);
 
   const filteredCoAuthors = useMemo(() => {
     const q = searchQuery.trim().toLowerCase();
@@ -225,19 +256,33 @@ useEffect(() => {
     }
   };
 
-  const title = details?.display_name || id || "Co-author network";
+  const title = details?.display_name || localAuthor?.name || id || "Co-author network";
 
   const handleExportCsv = () => {
     if (!sortedCoAuthors.length) return;
+
+    const escape = (value: unknown) => {
+      const str = value == null ? "" : String(value);
+      if (str === "") return "";
+      const cleaned = str.replace(/\r?\n/g, " ");
+      if (/[",]/.test(cleaned)) {
+        return `"${cleaned.replace(/"/g, '""')}"`;
+      }
+      return cleaned;
+    };
 
     const lines: string[] = [
       "author_id,author_name,institutions,joint_publications,total_citations",
     ];
     sortedCoAuthors.forEach((row) => {
-      const safeName = row.name.replace(/"/g, '""');
-      const safeInst = row.institutions.replace(/"/g, '""');
       lines.push(
-        `${row.id},"${safeName}","${safeInst}",${row.jointPublications},${row.totalCitations}`,
+        [
+          escape(row.id),
+          escape(row.name),
+          escape(row.institutions),
+          escape(row.jointPublications),
+          escape(row.totalCitations),
+        ].join(","),
       );
     });
 

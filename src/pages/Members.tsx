@@ -12,14 +12,12 @@ import { toast } from "@/components/ui/use-toast";
 import { Input } from "@/components/ui/input";
 import { makeWorkKey, normalizeOpenAlexId } from "@/lib/utils";
 
-type MemberSortField = "name" | "program" | "publications" | "citations" | "hIndex";
+type MemberSortField = "name" | "publications" | "citations" | "hIndex";
 
 interface MemberRow {
   id: string;
   name: string;
   email: string;
-  program: string;
-  affiliations: string;
   publications: number;
   citations: number;
   hIndex: number;
@@ -68,7 +66,7 @@ const Members = () => {
     const from = startYear ?? allYears[0];
     const to = endYear ?? allYears[allYears.length - 1];
 
-    type Bucket = { citationsList: number[]; seenWorkKeys: Set<string> };
+    type Bucket = { citationsList: number[]; seenWorkKeys: Set<string>; institutions: Set<string> };
     const temp = new Map<string, Bucket>();
 
     worksTable.forEach((work) => {
@@ -107,18 +105,26 @@ const Members = () => {
         if (perWorkSeen.has(key)) return;
         perWorkSeen.add(key);
 
-        const bucket = temp.get(key) ?? { citationsList: [], seenWorkKeys: new Set<string>() };
+        const bucket =
+          temp.get(key) ??
+          { citationsList: [], seenWorkKeys: new Set<string>(), institutions: new Set<string>() };
         if (bucket.seenWorkKeys.has(workKey)) {
           temp.set(key, bucket);
           return;
         }
         bucket.seenWorkKeys.add(workKey);
         bucket.citationsList.push(citations);
+        (work.institutions || []).forEach((inst) => {
+          if (inst) bucket.institutions.add(inst);
+        });
         temp.set(key, bucket);
       });
     });
 
-    const result = new Map<string, { publications: number; citations: number; hIndex: number }>();
+    const result = new Map<
+      string,
+      { publications: number; citations: number; hIndex: number; institutions: string[] }
+    >();
 
     for (const [key, value] of temp) {
       const pubs = value.seenWorkKeys.size;
@@ -129,7 +135,12 @@ const Members = () => {
         if (sorted[i] >= i + 1) h = i + 1;
         else break;
       }
-      result.set(key, { publications: pubs, citations, hIndex: h });
+      result.set(key, {
+        publications: pubs,
+        citations,
+        hIndex: h,
+        institutions: Array.from(value.institutions),
+      });
     }
 
     return result;
@@ -137,9 +148,6 @@ const Members = () => {
 
   const rows = useMemo<MemberRow[]>(() => {
     return authors.map((author) => {
-      const affiliates = [author.affiliate1, author.affiliate2, author.affiliate3]
-        .filter(Boolean)
-        .join(", ");
       const normalizedId = normalizeOpenAlexId(author.openAlexId);
       const fallbackName = author.name.trim().toLowerCase();
       const key = normalizedId ? `id:${normalizedId}` : fallbackName ? `name:${fallbackName}` : null;
@@ -149,8 +157,6 @@ const Members = () => {
         id: author.authorId,
         name: author.name,
         email: author.email,
-        program: author.groupId || "",
-        affiliations: affiliates,
         publications: metrics ? metrics.publications : 0,
         citations: metrics ? metrics.citations : 0,
         hIndex: metrics ? metrics.hIndex : author.hIndex,
@@ -165,14 +171,7 @@ const Members = () => {
     const query = searchQuery.trim().toLowerCase();
     if (query) {
       next = next.filter((row) => {
-        const haystack = [
-          row.name,
-          row.email,
-          row.program,
-          row.affiliations,
-        ]
-          .join(" ")
-          .toLowerCase();
+        const haystack = [row.name, row.email].join(" ").toLowerCase();
         return haystack.includes(query);
       });
     }
@@ -187,8 +186,6 @@ const Members = () => {
       switch (sortBy) {
         case "name":
           return a.name.localeCompare(b.name) * dir;
-        case "program":
-          return a.program.localeCompare(b.program) * dir;
         case "publications":
           return (a.publications - b.publications) * dir;
         case "citations":
@@ -233,7 +230,7 @@ const Members = () => {
       setSortOrder((prev) => (prev === "asc" ? "desc" : "asc"));
     } else {
       setSortBy(field);
-      setSortOrder(field === "name" || field === "program" ? "asc" : "desc");
+      setSortOrder(field === "name" ? "asc" : "desc");
     }
   };
 
@@ -260,8 +257,6 @@ const Members = () => {
     const headers = [
       "author_name",
       "email",
-      "program",
-      "affiliations",
       "publications",
       "citations",
       "h_index",
@@ -284,8 +279,6 @@ const Members = () => {
         [
           escape(row.name),
           escape(row.email),
-          escape(row.program),
-          escape(row.affiliations),
           escape(row.publications),
           escape(row.citations),
           escape(row.hIndex),
@@ -419,17 +412,6 @@ const Members = () => {
                       </button>
                     </TableHead>
                     <TableHead className="hidden sm:table-cell">Email</TableHead>
-                    <TableHead className="hidden sm:table-cell">
-                      <button
-                        type="button"
-                        className="flex items-center gap-1 bg-transparent p-0 text-xs font-medium text-muted-foreground hover:text-foreground border-0 focus-visible:outline-none"
-                        onClick={() => toggleSort("program")}
-                      >
-                        Program / Affiliation(s)
-                        <ArrowUpDown className="h-3 w-3" />
-                      </button>
-                    </TableHead>
-
                     <TableHead className="hidden md:table-cell text-right">
                       <button
                         type="button"
@@ -484,12 +466,6 @@ const Members = () => {
 
                           {/* Mobile compact line */}
                           <div className="mt-1 flex flex-wrap items-center gap-x-2 gap-y-0.5 text-[11px] text-muted-foreground md:hidden">
-                            {(row.program || row.affiliations) && (
-                              <span>
-                                {row.program}
-                                {row.affiliations ? ` / ${row.affiliations}` : ""}
-                              </span>
-                            )}
                             <span>•</span>
                             <Link
                               to={buildMemberPublicationsPath(row.name)}
@@ -513,11 +489,6 @@ const Members = () => {
                       <TableCell className="text-muted-foreground hidden sm:table-cell">
                         {row.email}
                       </TableCell>
-                      <TableCell className="text-muted-foreground hidden sm:table-cell">
-                        {row.program}
-                        {row.affiliations ? ` / ${row.affiliations}` : ""}
-                      </TableCell>
-
                       <TableCell className="hidden md:table-cell text-right cell-compact font-medium text-foreground">
                         {row.publications > 0 ? (
                           <Link

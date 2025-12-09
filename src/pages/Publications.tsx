@@ -252,7 +252,7 @@ const PublicationsPage = ({ mode = "publications" }: PublicationsPageProps) => {
   const handleExportCsv = () => {
     if (!sorted.length) return;
 
-  const headers = ["title", "year", "topics", "institutions", "venue", "citations"];
+    const headers = ["title", "authors", "year", "topics", "institutions", "venue", "citations"];
 
     const escape = (value: unknown) => {
       const str = value == null ? "" : String(value);
@@ -264,13 +264,22 @@ const PublicationsPage = ({ mode = "publications" }: PublicationsPageProps) => {
       return cleaned;
     };
 
+    const getExportYear = (w: (typeof worksTable)[number]) => {
+      if (w.publicationDate) {
+        const d = new Date(w.publicationDate);
+        if (!Number.isNaN(d.getTime())) return d.getFullYear();
+      }
+      return w.year ?? "";
+    };
+
     const lines = [headers.join(",")];
 
     for (const w of sorted) {
       lines.push(
         [
           escape(w.title || ""),
-          escape(w.year ?? ""),
+          escape((w.allAuthors || []).join("|")),
+          escape(getExportYear(w)),
           escape((w.topics || []).join("|")),
           escape((w.institutions || []).join("|")),
           escape(w.venue || ""),

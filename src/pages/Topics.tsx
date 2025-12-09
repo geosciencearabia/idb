@@ -353,7 +353,12 @@ useEffect(() => {
                         <div className="flex flex-col gap-1">
                           <div className="flex items-center gap-2">
                             <Tags className="h-3 w-3 text-primary" />
-                            <span>{row.name}</span>
+                            <Link
+                              to={buildTopicPublicationsPath(row.name)}
+                              className="text-primary hover:underline"
+                            >
+                              {row.name}
+                            </Link>
                           </div>
 
                           {/* Mobile compact line */}

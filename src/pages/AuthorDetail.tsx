@@ -288,12 +288,20 @@ export default function AuthorDetail() {
       return cleaned;
     };
 
+    const exportYear = (work: (typeof worksTable)[number]) => {
+      if (work.publicationDate) {
+        const d = new Date(work.publicationDate);
+        if (!Number.isNaN(d.getTime())) return d.getFullYear();
+      }
+      return work.year ?? "";
+    };
+
     const lines = [headers.join(",")];
     for (const w of sortedWorks) {
       lines.push(
         [
           escape(w.title || ""),
-          escape(w.year ?? ""),
+          escape(exportYear(w)),
           escape(w.venue || ""),
           escape(w.citations ?? 0),
         ].join(","),
