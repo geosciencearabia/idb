@@ -54,7 +54,7 @@ const Contact = () => {
                 <div>
                   <h2 className="text-xl font-semibold text-foreground">Add content to the dashboard</h2>
                   <p className="text-sm text-muted-foreground">
-                    Submit your publications or institutional updates so they can be included.
+                    Share your publication details so they can be included.
                   </p>
                 </div>
               </div>

@@ -1,115 +1,118 @@
 import { SiteShell } from "@/components/SiteShell";
+import {
+  Info,
+  ListChecks,
+  Database,
+  Layers,
+  AlertTriangle,
+  Rocket,
+  BookOpen,
+  Shield,
+} from "lucide-react";
 
 const About = () => {
   return (
     <SiteShell>
-      <main className="container mx-auto px-4 py-8 max-w-3xl space-y-6">
+      <main className="container mx-auto px-4 py-10 max-w-3xl space-y-8">
         <section className="space-y-4">
-          <h1 className="text-3xl font-bold text-foreground mb-2">About</h1>
+          <h1 className="text-3xl font-bold text-foreground mt-2 flex items-center gap-3">
+            <Info className="h-7 w-7 text-primary" />
+            <span>About GeoArabia Dashboard</span>
+          </h1>
           <p className="text-muted-foreground">
-            The Integrative Dashboard is a web-based visualization tool designed to support research exploration,
-            collaboration mapping, and knowledge discovery across research programs. It was created by{" "}
-            <a
-              href="https://qubalee.com/about"
-              target="_blank"
-              rel="noreferrer"
-              className="text-primary underline"
-            >
-              Dr. Abdullah Alqubalee
-            </a>
-            . All numbers and charts on the main pages (topics, institutions, members, and publications)
-            are computed from CSV files that are generated from cached OpenAlex bibliographic data.
+            GeoArabia Dashboard is built on the Integrative Dashboard (IDB) platform and follows the Web-based Interactive Integrated Platform (WIIP) approach for customizing open-source tools for geoscience data. It provides an offline, data-driven view of research activity across topics, institutions, members, and publications using precomputed tables.
           </p>
-          <p className="text-muted-foreground">In practical terms, you can use the dashboard to:</p>
-          <ul className="list-disc pl-6 space-y-1 text-muted-foreground text-sm">
-            <li>Explore publication and citation output by topic, institution, and member.</li>
-            <li>See how topical coverage and institutional collaboration patterns evolve over time.</li>
-            <li>Inspect individual publications and follow links out to their persistent identifiers.</li>
-            <li>Navigate between summary metrics, detailed tables, and co-author network views.</li>
-          </ul>
-        </section>
-
-        <section className="space-y-3">
-          <h2 className="text-xl font-semibold text-foreground">Data pipeline</h2>
-          <ul className="list-disc pl-6 space-y-1 text-muted-foreground text-sm">
-            <li>Authors and their identifying info are defined in simple CSV files under the data folder.</li>
-            <li>
-              Node scripts download and cache each author&apos;s works from the OpenAlex data source,
-              then export consolidated CSV tables for works, topics, institutions, and author-level metrics.
-            </li>
-            <li>
-              During the build step, these CSVs are converted into generated TypeScript tables that
-              are loaded by the dashboard at runtime. All visible counts (publications, citations,
-              topics, institutions, and member statistics) are derived from these tables.
-            </li>
-            <li>Co-author visualizations use cached JSON snapshots stored under the author-data folder.</li>
-            <li>
-              An RSS feed of recent publications is generated from the works CSV and published as{" "}
-              <code>/rss.xml</code>, which can be subscribed to from most feed readers.
-            </li>
-            <li>
-              Year-range, topic, institution, and author filters in the interface slice this
-              precomputed data so all interactions remain fast and local, without live API calls.
-            </li>
-          </ul>
-        </section>
-
-        <section className="space-y-3">
-          <h2 className="text-xl font-semibold text-foreground">Data limitations</h2>
-          <ul className="list-disc pl-6 space-y-1 text-muted-foreground text-sm">
-            <li>Recorded names may differ from source records, and publication name spellings can vary.</li>
-            <li>Similar or identical author names can appear worldwide and may be difficult to disambiguate.</li>
-            <li>An individual author may publish under multiple name variants over time.</li>
-            <li>Last-name spelling can be inconsistent (for example, adding or removing a hyphen or accent).</li>
-            <li>
-              Co-author graphs are based on cached OpenAlex snapshots and may include works that are
-              not present in the current CSV tables, or omit very recent updates from the source.
-            </li>
-          </ul>
-        </section>
-
-        <section className="space-y-3">
-          <h2 className="text-xl font-semibold text-foreground">Future enhancements</h2>
-          <ul className="list-disc pl-6 space-y-1 text-muted-foreground text-sm">
-            <li>
-              Store all derived data in a lightweight, offline database (for example, SQLite) to
-              make updates and queries faster as the dataset grows.
-            </li>
-            <li>
-              Integrate journal- and venue-ranking information so publications can be filtered and
-              summarized by journal quality tiers.
-            </li>
-            <li>
-              Provide richer analysis views that let users define custom criteria (programs, years,
-              topics, institutions, journal ranks) and generate tailored summary charts and tables.
-            </li>
-          </ul>
-        </section>
-
-        <section>
-          <p className="text-muted-foreground mb-6">
-            For questions, feedback, or suggestions about this dashboard or the underlying data, please
-            contact the Digital Geosciences team at{" "}
-            <a
-              href="mailto:info@digitalgeosciences.com"
-              className="text-primary underline"
-            >
-              info@digitalgeosciences.com
-            </a>
+          <p className="text-muted-foreground">
+            All counts, charts, and tables come from locally cached bibliographic data sourced from OpenAlex (Priem et al., 2022), keeping the experience fast and available even without live API calls.
           </p>
-
+          <h2 className="text-xl font-semibold text-foreground mt-4 mb-2 flex items-center gap-2">
+            <ListChecks className="h-5 w-5 text-primary" />
+            <span>Use the dashboard to</span>
+          </h2>
+          <ul className="list-disc pl-6 space-y-1 text-muted-foreground text-sm">
+            <li>Trace publication and citation output by topic, institution, and member across years.</li>
+            <li>Compare collaboration patterns and explore co-author networks for individual researchers.</li>
+            <li>Open publication records (DOI, URL) directly from the tables and detail views.</li>
+            <li>Slice precomputed data by year range, topic, institution, or author without waiting on remote queries.</li>
+          </ul>
         </section>
+
         <section className="space-y-3">
-          <h2 className="text-xl font-semibold text-foreground">Disclaimer</h2>
+          <h2 className="text-xl font-semibold text-foreground mt-4 mb-2 flex items-center gap-2">
+            <Database className="h-5 w-5 text-primary" />
+            <span>How the data is built</span>
+          </h2>
+          <ul className="list-disc pl-6 space-y-1 text-muted-foreground text-sm">
+            <li>Author identities live in CSV config at <code>data/config/authors-source.csv</code>.</li>
+            <li>Node scripts cache each author&apos;s works from OpenAlex, then generate consolidated CSVs for works, topics, institutions, and member metrics (Priem et al., 2022).</li>
+            <li>During the build step, those CSVs become generated TypeScript tables that the app loads at runtime.</li>
+            <li>Co-author network views use cached JSON snapshots stored alongside the generated data.</li>
+            <li>An RSS feed of recent works is created from the same tables and published at <code>/rss.xml</code>.</li>
+          </ul>
+        </section>
+
+        <section className="space-y-3">
+          <h2 className="text-xl font-semibold text-foreground mt-4 mb-2 flex items-center gap-2">
+            <Layers className="h-5 w-5 text-primary" />
+            <span>Platform context</span>
+          </h2>
+          <ul className="list-disc pl-6 space-y-1 text-muted-foreground text-sm">
+            <li>The dashboard aligns with the WIIP customization approach for integrating heterogeneous geological data into interactive web tools (Alqubalee, 2025).</li>
+            <li>IDB serves as the visualization layer for program-level, institutional, and author-centric analytics.</li>
+          </ul>
+        </section>
+
+
+        <section className="space-y-3">
+          <h2 className="text-xl font-semibold text-foreground mt-4 mb-2 flex items-center gap-2">
+            <AlertTriangle className="h-5 w-5 text-primary" />
+            <span>Data limitations</span>
+          </h2>
+          <ul className="list-disc pl-6 space-y-1 text-muted-foreground text-sm">
+            <li>Name spellings may vary between sources, and similar author names can be hard to disambiguate.</li>
+            <li>Authors sometimes publish under multiple name variants, which can affect counts.</li>
+            <li>Co-author graphs reflect cached OpenAlex snapshots and may not include the most recent updates.</li>
+            <li>Topic counts represent unique topics attached to works, not the number of works themselves.</li>
+          </ul>
+        </section>
+
+        <section className="space-y-3">
+          <h2 className="text-xl font-semibold text-foreground mt-4 mb-2 flex items-center gap-2">
+            <Rocket className="h-5 w-5 text-primary" />
+            <span>Future enhancements</span>
+          </h2>
+          <ul className="list-disc pl-6 space-y-1 text-muted-foreground text-sm">
+            <li>Persist derived data in a lightweight offline database (for example, SQLite) to speed up large refreshes.</li>
+            <li>Add journal and venue quality signals so results can be filtered or summarized by ranking tier.</li>
+            <li>Offer richer analysis views that let users define custom year, topic, institution, and member slices.</li>
+          </ul>
+        </section>
+
+        <section className="space-y-3">
+          <h2 className="text-xl font-semibold text-foreground mt-4 mb-2 flex items-center gap-2">
+            <BookOpen className="h-5 w-5 text-primary" />
+            <span>References</span>
+          </h2>
+          <ul className="list-disc pl-6 space-y-1 text-muted-foreground text-sm">
+            <li>
+              Priem, J., Piwowar, H., & Orr, R. (2022). OpenAlex: A fully-open index of scholarly works, authors, venues, institutions, and concepts. ArXiv. <a className="text-primary underline" href="https://arxiv.org/abs/2205.01833" target="_blank" rel="noreferrer">https://arxiv.org/abs/2205.01833</a>
+            </li>
+            <li>
+              Alqubalee, A. (2025, April 8). WIIP: An Approach for Leveraging Geological Data Heterogeneity through Customization of Open-Source Software. ALQUBALEE Notes. <a className="text-primary underline" href="https://qubalee.github.io/posts/2025/04/wiip/" target="_blank" rel="noreferrer">https://qubalee.github.io/posts/2025/04/wiip/</a>
+            </li>
+          </ul>
+        </section>
+
+
+        <section className="space-y-3">
+          <h2 className="text-xl font-semibold text-foreground mt-4 mb-2 flex items-center gap-2">
+            <Shield className="h-5 w-5 text-primary" />
+            <span>Disclaimer</span>
+          </h2>
           <p className="text-sm text-muted-foreground">
-            This dashboard is based on experimental, locally cached bibliographic data.
-            Counts, classifications, and affiliations may contain errors or omissions.
-            The dashboard is intended for exploration and internal insight only and
-            should not be used for formal evaluation, assessment, or decision‑making
-            about individual researchers or programs.
+            The dashboard relies on experimental, locally cached bibliographic data. Counts, classifications, and affiliations may contain errors or omissions. Use it for exploration and internal insight only; it should not be used for formal evaluation, assessment, or decision-making about individual researchers or programs.
           </p>
         </section>
-
       </main>
     </SiteShell>
   );
