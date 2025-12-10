@@ -152,14 +152,6 @@ const PublicationsPage = ({ mode = "publications" }: PublicationsPageProps) => {
       ) {
         return false;
       }
-      if (
-        coAuthorFilter &&
-        !(w.allAuthors || []).some(
-          (name) => name.toLowerCase() === coAuthorFilter.toLowerCase(),
-        )
-      ) {
-        return false;
-      }
 
       if (query) {
         const haystack = [

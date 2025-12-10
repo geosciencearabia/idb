@@ -1,7 +1,7 @@
 name: Refresh data
 
 on:
-  # Run nightly at 02:00 UTC
+  # Run nightly at 21:00 UTC (midnight KSA)
   schedule:
     - cron: "0 21 * * *"
   # Allow manual trigger from the Actions tab
@@ -32,6 +32,13 @@ jobs:
       - name: Refresh data (fail-safe wrapper)
         run: npm run refresh:data
 
+      - name: Regenerate feeds
+        run: |
+          node scripts/generate-rss.cjs
+          if [ -f scripts/generate-feed.cjs ]; then
+            node scripts/generate-feed.cjs
+          fi
+
       - name: Commit and push updated data (if any)
         run: |
           # Exit early only when absolutely nothing changed (including untracked files)
@@ -44,7 +51,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           # Stage only existing paths; avoid failing on optional dirs like backups
-          git add data src/data public/author-data || true
+          git add data src/data public/author-data public/rss.xml public/feed.xml || true
           if [ -d backups ]; then
             git add backups
           fi

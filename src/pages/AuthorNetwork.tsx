@@ -228,8 +228,13 @@ useEffect(() => {
           return 0;
       }
     });
-      return rows;
-    }, [filteredCoAuthors, sortBy, sortOrder]);
+    return rows;
+  }, [filteredCoAuthors, sortBy, sortOrder]);
+
+  const visibleRows = useMemo(
+    () => sortedCoAuthors.slice(0, visibleCount),
+    [sortedCoAuthors, visibleCount],
+  );
 
     const totalCoAuthors = coAuthors.length;
     const totalJointPublications = coAuthors.reduce(
@@ -257,6 +262,17 @@ useEffect(() => {
   };
 
   const title = details?.display_name || localAuthor?.name || id || "Co-author network";
+
+  const goToPublications = (row: CoAuthorRow, mode: "publications" | "citations") => {
+    const search = new URLSearchParams();
+    if (details?.display_name) {
+      search.set("author", details.display_name);
+    }
+    if (row.name) search.set("coauthor", row.name);
+    if (startYear != null) search.set("fromYear", String(startYear));
+    if (endYear != null) search.set("toYear", String(endYear));
+    navigate(`/${mode}?${search.toString()}`);
+  };
 
   const handleExportCsv = () => {
     if (!sortedCoAuthors.length) return;
@@ -459,7 +475,64 @@ useEffect(() => {
                   </div>
                 )}
 
-                <div className="overflow-x-auto rounded-md border border-border/60 bg-card/40">
+                {/* Mobile cards */}
+                <div className="md:hidden space-y-3">
+                  {visibleRows.map((row) => (
+                    <div
+                      key={row.id}
+                      className="rounded-md border border-border/60 bg-card/40 p-4 shadow-sm"
+                    >
+                      <div className="flex items-start gap-3">
+                        <User className="mt-0.5 h-4 w-4 text-primary" />
+                        <div className="flex-1 space-y-1">
+                          <div className="font-semibold text-foreground">
+                            {row.hasProfile ? (
+                              <button
+                                type="button"
+                                className="text-left text-primary hover:underline"
+                                onClick={() => navigate(`/author/${row.id}`)}
+                              >
+                                {row.name}
+                              </button>
+                            ) : (
+                              row.name
+                            )}
+                          </div>
+                          <div className="text-xs text-muted-foreground">
+                            {row.institutions || "Not specified"}
+                          </div>
+                          <div className="flex flex-wrap gap-4 text-xs text-muted-foreground">
+                            <button
+                              type="button"
+                              className="flex items-center gap-1 text-primary hover:underline"
+                              onClick={() => {
+                                goToPublications(row, "publications");
+                              }}
+                            >
+                              <span className="font-semibold">{row.jointPublications}</span>
+                              <span className="text-muted-foreground">joint pubs</span>
+                            </button>
+                            <button
+                              type="button"
+                              className="flex items-center gap-1 text-primary hover:underline"
+                              onClick={() => {
+                                goToPublications(row, "citations");
+                              }}
+                            >
+                              <span className="font-semibold text-foreground">
+                                {row.totalCitations}
+                              </span>
+                              <span className="text-muted-foreground">citations</span>
+                            </button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+
+                {/* Desktop table */}
+                <div className="hidden overflow-x-auto rounded-md border border-border/60 bg-card/40 md:block">
                   <Table className="text-sm">
                     <TableHeader>
                       <TableRow>
@@ -502,7 +575,7 @@ useEffect(() => {
                       </TableRow>
                     </TableHeader>
                     <TableBody>
-                      {sortedCoAuthors.slice(0, visibleCount).map((row) => (
+                      {visibleRows.map((row) => (
                         <TableRow
                           key={row.id}
                           className={row.hasProfile ? "cursor-pointer hover:bg-muted/40" : ""}
@@ -530,7 +603,7 @@ useEffect(() => {
                             </div>
                           </TableCell>
                           <TableCell className="text-muted-foreground">
-                            {row.institutions || "—"}
+                            {row.institutions || "Not specified"}
                           </TableCell>
                           <TableCell className="text-right">
                             <button
@@ -538,22 +611,23 @@ useEffect(() => {
                               className="text-primary hover:underline"
                               onClick={(e) => {
                                 e.stopPropagation();
-                                const search = new URLSearchParams();
-                                if (details?.display_name) {
-                                  search.set("author", details.display_name);
-                                }
-                                if (row.name) search.set("coauthor", row.name);
-                                if (startYear != null)
-                                  search.set("fromYear", String(startYear));
-                                if (endYear != null) search.set("toYear", String(endYear));
-                                navigate(`/publications?${search.toString()}`);
+                                goToPublications(row, "publications");
                               }}
                             >
                               {row.jointPublications}
                             </button>
                           </TableCell>
                           <TableCell className="text-right">
-                            {row.totalCitations}
+                            <button
+                              type="button"
+                              className="text-primary hover:underline"
+                              onClick={(e) => {
+                                e.stopPropagation();
+                                goToPublications(row, "citations");
+                              }}
+                            >
+                              {row.totalCitations}
+                            </button>
                           </TableCell>
                         </TableRow>
                       ))}

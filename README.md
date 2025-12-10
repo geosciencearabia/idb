@@ -80,4 +80,4 @@ The refresh sequence needs internet access while it updates the cache. Once gene
 - `npm run refresh:data` – regenerate all derived data tables from source CSV and cached works
 
 ## Questions and support
-For questions, feedback, or suggestions about the dashboard or its data pipeline, contact the GeoArabia team at `info@geoarabia.com`.
+For questions, feedback, or suggestions about the dashboard or its data pipeline, contact the GeoArabia team at `info@digitalgeosciences.com`.
