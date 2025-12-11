@@ -16,6 +16,12 @@ export default function AuthorManagement() {
   const [loadingWorks, setLoadingWorks] = useState<Record<string, boolean>>({});
   const { toast } = useToast();
 
+  const normalizeOpenAlexId = (raw?: string | null) => {
+    if (!raw) return "";
+    const parts = raw.split("/");
+    return parts[parts.length - 1] || raw;
+  };
+
   const handleSearch = async () => {
     if (!searchQuery.trim()) return;
 
@@ -109,7 +115,10 @@ export default function AuthorManagement() {
             {searchResults.map((author) => {
               const works = workPreviews[author.id];
               const isLoading = loadingWorks[author.id];
-              const openAlexUrl = author.id?.replace("https://api.openalex.org", "https://openalex.org");
+              const openAlexId = normalizeOpenAlexId(author.id);
+              const openAlexUrl = openAlexId
+                ? `https://openalex.org/${openAlexId}`
+                : author.id?.replace("https://api.openalex.org", "https://openalex.org");
               return (
                 <Card key={author.id} className="border border-border/60">
                   <CardContent className="p-4 space-y-3">
@@ -135,11 +144,11 @@ export default function AuthorManagement() {
                           <button
                             type="button"
                             className="inline-flex items-center gap-1 underline"
-                            onClick={() => navigator.clipboard?.writeText(author.id).catch(() => {})}
-                            title="Copy OpenAlex ID"
+                            onClick={() => navigator.clipboard?.writeText(openAlexId || author.id).catch(() => {})}
+                            title="Click to copy the OpenAlex ID"
                           >
                             <Link2 className="h-3 w-3" />
-                            Copy ID
+                            {openAlexId || "ID n/a"}
                           </button>
                         </div>
                       </div>
