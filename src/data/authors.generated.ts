@@ -58,42 +58,6 @@ export const authors: AuthorRecord[] = [
     "hIndex": 24
   },
   {
-    "authorId": "idb0027-bello-abdulwahab",
-    "openAlexId": "A5014657720",
-    "openAlexIds": [
-      "A5014657720"
-    ],
-    "name": "Abdulwahab Bello",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "abdulwahab.bello@kfupm.edu.sa",
-    "orcid": "",
-    "totalPublications": 62,
-    "totalCitations": 509,
-    "hIndex": 13
-  },
-  {
-    "authorId": "idb0029-salisu-anas",
-    "openAlexId": "A5072935704",
-    "openAlexIds": [
-      "A5072935704"
-    ],
-    "name": "Anas Salisu",
-    "groupId": "",
-    "groupName": "",
-    "affiliate1": "",
-    "affiliate2": "",
-    "affiliate3": "",
-    "email": "anas.salisu@kfupm.edu.sa",
-    "orcid": "",
-    "totalPublications": 16,
-    "totalCitations": 107,
-    "hIndex": 7
-  },
-  {
     "authorId": "idb0002-collins-alan",
     "openAlexId": "A5046466285",
     "openAlexIds": [
@@ -128,5 +92,113 @@ export const authors: AuthorRecord[] = [
     "totalPublications": 58,
     "totalCitations": 1923,
     "hIndex": 22
+  },
+  {
+    "authorId": "idb0004-vecoli-marco",
+    "openAlexId": "A5039685767",
+    "openAlexIds": [
+      "A5039685767"
+    ],
+    "name": "Marco Vecoli",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "marco.vecoli@aramco.com",
+    "orcid": "",
+    "totalPublications": 132,
+    "totalCitations": 2971,
+    "hIndex": 33
+  },
+  {
+    "authorId": "idb0005-el-ghali-mohamed",
+    "openAlexId": "A5044806143",
+    "openAlexIds": [
+      "A5044806143"
+    ],
+    "name": "Mohamed El-Ghali",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "m.moustafa@squ.edu.om",
+    "orcid": "",
+    "totalPublications": 88,
+    "totalCitations": 1281,
+    "hIndex": 20
+  },
+  {
+    "authorId": "idb0006-babalola-lamidi",
+    "openAlexId": "A5044235421",
+    "openAlexIds": [
+      "A5044235421"
+    ],
+    "name": "Lamidi Babalola",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "lameed61@gmail.com",
+    "orcid": "",
+    "totalPublications": 75,
+    "totalCitations": 580,
+    "hIndex": 13
+  },
+  {
+    "authorId": "idb0007-abouelresh-mohamed",
+    "openAlexId": "A5039010638",
+    "openAlexIds": [
+      "A5039010638"
+    ],
+    "name": "Mohamed Abouelresh",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "abouelresh@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 49,
+    "totalCitations": 949,
+    "hIndex": 14
+  },
+  {
+    "authorId": "idb0008-abdullatif-osman",
+    "openAlexId": "A5028390167",
+    "openAlexIds": [
+      "A5028390167"
+    ],
+    "name": "Osman Abdullatif",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "abdullatifosman52@gmail.com",
+    "orcid": "",
+    "totalPublications": 151,
+    "totalCitations": 1120,
+    "hIndex": 17
+  },
+  {
+    "authorId": "idb0009-osman-mutasim",
+    "openAlexId": "A5035421092",
+    "openAlexIds": [
+      "A5035421092"
+    ],
+    "name": "Mutasim Osman",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "mutasimsami@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 40,
+    "totalCitations": 52,
+    "hIndex": 4
   }
 ];

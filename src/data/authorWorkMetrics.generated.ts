@@ -9,136 +9,6 @@ export interface AuthorWorkMetric {
 
 export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
-    "authorId": "A5014657720",
-    "year": 2022,
-    "citations": 24
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2023,
-    "citations": 19
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2022,
-    "citations": 15
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2021,
-    "citations": 8
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2024,
-    "citations": 8
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2022,
-    "citations": 8
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2023,
-    "citations": 8
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2023,
-    "citations": 7
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2025,
-    "citations": 4
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2017,
-    "citations": 11
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2024,
-    "citations": 6
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2023,
-    "citations": 5
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2024,
-    "citations": 3
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2024,
-    "citations": 3
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2024,
-    "citations": 2
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2024,
-    "citations": 2
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2025,
-    "citations": 2
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 1989,
-    "citations": 4
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2023,
-    "citations": 2
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2025,
-    "citations": 1
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2025,
-    "citations": 1
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2023,
-    "citations": 0
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2023,
-    "citations": 0
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2024,
-    "citations": 0
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2025,
-    "citations": 0
-  },
-  {
-    "authorId": "A5014657720",
-    "year": 2025,
-    "citations": 0
-  },
-  {
     "authorId": "A5085007251",
     "year": 2011,
     "citations": 41
@@ -174,6 +44,241 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "citations": 0
   },
   {
+    "authorId": "A5028390167",
+    "year": 2022,
+    "citations": 201
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2016,
+    "citations": 32
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 1983,
+    "citations": 42
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2019,
+    "citations": 19
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2014,
+    "citations": 16
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 1997,
+    "citations": 15
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2014,
+    "citations": 6
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2017,
+    "citations": 3
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2018,
+    "citations": 2
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2022,
+    "citations": 2
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2022,
+    "citations": 1
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2017,
+    "citations": 3
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2019,
+    "citations": 2
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2015,
+    "citations": 1
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2014,
+    "citations": 1
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2015,
+    "citations": 0
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2016,
+    "citations": 1
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2019,
+    "citations": 1
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2019,
+    "citations": 1
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2010,
+    "citations": 1
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2019,
+    "citations": 1
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2018,
+    "citations": 0
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 1983,
+    "citations": 0
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 1999,
+    "citations": 0
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2016,
+    "citations": 0
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2019,
+    "citations": 0
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2019,
+    "citations": 0
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2019,
+    "citations": 0
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2017,
+    "citations": 0
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2017,
+    "citations": 0
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2018,
+    "citations": 0
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2013,
+    "citations": 0
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2017,
+    "citations": 0
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2018,
+    "citations": 0
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2022,
+    "citations": 0
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2022,
+    "citations": 0
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2022,
+    "citations": 0
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2019,
+    "citations": 0
+  },
+  {
+    "authorId": "A5028390167",
+    "year": 2024,
+    "citations": 0
+  },
+  {
+    "authorId": "A5035421092",
+    "year": 2025,
+    "citations": 3
+  },
+  {
+    "authorId": "A5035421092",
+    "year": 2025,
+    "citations": 1
+  },
+  {
+    "authorId": "A5035421092",
+    "year": 2020,
+    "citations": 0
+  },
+  {
+    "authorId": "A5035421092",
+    "year": 2022,
+    "citations": 0
+  },
+  {
+    "authorId": "A5035421092",
+    "year": 2022,
+    "citations": 0
+  },
+  {
+    "authorId": "A5035421092",
+    "year": 2022,
+    "citations": 0
+  },
+  {
+    "authorId": "A5035421092",
+    "year": 2024,
+    "citations": 0
+  },
+  {
+    "authorId": "A5035421092",
+    "year": 2025,
+    "citations": 0
+  },
+  {
     "authorId": "A5035537771",
     "year": 2020,
     "citations": 33
@@ -195,6 +300,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5035537771",
+    "year": 2023,
+    "citations": 19
+  },
+  {
+    "authorId": "A5035537771",
     "year": 2019,
     "citations": 23
   },
@@ -211,6 +321,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5035537771",
     "year": 2024,
+    "citations": 6
+  },
+  {
+    "authorId": "A5035537771",
+    "year": 2024,
     "citations": 4
   },
   {
@@ -235,6 +350,746 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5035537771",
+    "year": 2025,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039010638",
+    "year": 2017,
+    "citations": 172
+  },
+  {
+    "authorId": "A5039010638",
+    "year": 2019,
+    "citations": 48
+  },
+  {
+    "authorId": "A5039010638",
+    "year": 2019,
+    "citations": 37
+  },
+  {
+    "authorId": "A5039010638",
+    "year": 2017,
+    "citations": 31
+  },
+  {
+    "authorId": "A5039010638",
+    "year": 2019,
+    "citations": 28
+  },
+  {
+    "authorId": "A5039010638",
+    "year": 2020,
+    "citations": 26
+  },
+  {
+    "authorId": "A5039010638",
+    "year": 2020,
+    "citations": 23
+  },
+  {
+    "authorId": "A5039010638",
+    "year": 2024,
+    "citations": 8
+  },
+  {
+    "authorId": "A5039010638",
+    "year": 2024,
+    "citations": 7
+  },
+  {
+    "authorId": "A5039010638",
+    "year": 2020,
+    "citations": 25
+  },
+  {
+    "authorId": "A5039010638",
+    "year": 2018,
+    "citations": 7
+  },
+  {
+    "authorId": "A5039010638",
+    "year": 2022,
+    "citations": 5
+  },
+  {
+    "authorId": "A5039010638",
+    "year": 2024,
+    "citations": 3
+  },
+  {
+    "authorId": "A5039010638",
+    "year": 2017,
+    "citations": 6
+  },
+  {
+    "authorId": "A5039010638",
+    "year": 2014,
+    "citations": 1
+  },
+  {
+    "authorId": "A5039010638",
+    "year": 2014,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039010638",
+    "year": 2019,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039010638",
+    "year": 2025,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2008,
+    "citations": 210
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2009,
+    "citations": 167
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2012,
+    "citations": 141
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2016,
+    "citations": 78
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2013,
+    "citations": 76
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2007,
+    "citations": 71
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2011,
+    "citations": 59
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2011,
+    "citations": 58
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2007,
+    "citations": 56
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2020,
+    "citations": 53
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2009,
+    "citations": 44
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2007,
+    "citations": 44
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2017,
+    "citations": 39
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2018,
+    "citations": 37
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2017,
+    "citations": 34
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2018,
+    "citations": 27
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2000,
+    "citations": 63
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2012,
+    "citations": 31
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2010,
+    "citations": 29
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2017,
+    "citations": 19
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2017,
+    "citations": 19
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2001,
+    "citations": 18
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2014,
+    "citations": 16
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2022,
+    "citations": 7
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2023,
+    "citations": 5
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2007,
+    "citations": 35
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2004,
+    "citations": 24
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2007,
+    "citations": 21
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2010,
+    "citations": 20
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2010,
+    "citations": 17
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2017,
+    "citations": 13
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2017,
+    "citations": 12
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2018,
+    "citations": 9
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2017,
+    "citations": 6
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2014,
+    "citations": 5
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2001,
+    "citations": 38
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2004,
+    "citations": 16
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 1997,
+    "citations": 11
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2015,
+    "citations": 8
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2015,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2013,
+    "citations": 5
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2016,
+    "citations": 4
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2019,
+    "citations": 3
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2024,
+    "citations": 1
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2001,
+    "citations": 12
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2001,
+    "citations": 7
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2005,
+    "citations": 5
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2008,
+    "citations": 1
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2011,
+    "citations": 1
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2017,
+    "citations": 1
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2008,
+    "citations": 1
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2004,
+    "citations": 19
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2002,
+    "citations": 6
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2003,
+    "citations": 4
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2007,
+    "citations": 3
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2005,
+    "citations": 3
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2003,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2013,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2005,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2014,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2015,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2008,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2003,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2016,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2001,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2016,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2010,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2014,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2000,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2006,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2016,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2009,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2018,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2001,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2014,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2018,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2018,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2010,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2016,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2006,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2010,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2005,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2025,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2025,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2025,
+    "citations": 0
+  },
+  {
+    "authorId": "A5039685767",
+    "year": 2000,
+    "citations": 0
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2020,
+    "citations": 27
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2018,
+    "citations": 24
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2021,
+    "citations": 10
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2013,
+    "citations": 16
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2018,
+    "citations": 9
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2019,
+    "citations": 6
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2013,
+    "citations": 12
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2021,
+    "citations": 5
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2020,
+    "citations": 3
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2021,
+    "citations": 4
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2021,
+    "citations": 1
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2022,
+    "citations": 2
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2011,
+    "citations": 0
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2011,
+    "citations": 0
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2019,
+    "citations": 0
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2017,
+    "citations": 0
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2016,
+    "citations": 0
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2020,
+    "citations": 0
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2018,
+    "citations": 0
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2019,
+    "citations": 0
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2021,
+    "citations": 0
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2021,
+    "citations": 0
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2022,
+    "citations": 0
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2022,
+    "citations": 0
+  },
+  {
+    "authorId": "A5044235421",
+    "year": 2022,
+    "citations": 0
+  },
+  {
+    "authorId": "A5044806143",
+    "year": 2013,
+    "citations": 89
+  },
+  {
+    "authorId": "A5044806143",
+    "year": 2009,
+    "citations": 48
+  },
+  {
+    "authorId": "A5044806143",
+    "year": 2020,
+    "citations": 36
+  },
+  {
+    "authorId": "A5044806143",
+    "year": 2023,
+    "citations": 20
+  },
+  {
+    "authorId": "A5044806143",
+    "year": 2011,
+    "citations": 38
+  },
+  {
+    "authorId": "A5044806143",
+    "year": 2022,
+    "citations": 6
+  },
+  {
+    "authorId": "A5044806143",
+    "year": 2024,
+    "citations": 4
+  },
+  {
+    "authorId": "A5044806143",
+    "year": 2024,
+    "citations": 3
+  },
+  {
+    "authorId": "A5044806143",
+    "year": 2023,
+    "citations": 1
+  },
+  {
+    "authorId": "A5044806143",
+    "year": 2024,
+    "citations": 1
+  },
+  {
+    "authorId": "A5044806143",
+    "year": 2025,
+    "citations": 1
+  },
+  {
+    "authorId": "A5044806143",
+    "year": 2022,
+    "citations": 1
+  },
+  {
+    "authorId": "A5044806143",
+    "year": 2023,
+    "citations": 0
+  },
+  {
+    "authorId": "A5044806143",
+    "year": 2021,
+    "citations": 0
+  },
+  {
+    "authorId": "A5044806143",
+    "year": 2024,
+    "citations": 0
+  },
+  {
+    "authorId": "A5044806143",
+    "year": 2024,
+    "citations": 0
+  },
+  {
+    "authorId": "A5044806143",
+    "year": 2025,
+    "citations": 0
+  },
+  {
+    "authorId": "A5044806143",
+    "year": 2025,
+    "citations": 0
+  },
+  {
+    "authorId": "A5044806143",
     "year": 2025,
     "citations": 0
   },
@@ -1399,21 +2254,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "citations": 0
   },
   {
-    "authorId": "A5072935704",
-    "year": 2024,
-    "citations": 4
-  },
-  {
-    "authorId": "A5072935704",
-    "year": 2024,
-    "citations": 4
-  },
-  {
-    "authorId": "A5072935704",
-    "year": 2025,
-    "citations": 2
-  },
-  {
     "authorId": "A5081811780",
     "year": 2000,
     "citations": 331
@@ -1655,11 +2495,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5085007251",
-    "year": 2009,
-    "citations": 48
-  },
-  {
-    "authorId": "A5085007251",
     "year": 2017,
     "citations": 29
   },
@@ -1696,6 +2531,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5085007251",
     "year": 2022,
+    "citations": 15
+  },
+  {
+    "authorId": "A5085007251",
+    "year": 2022,
     "citations": 12
   },
   {
@@ -1721,12 +2561,22 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5085007251",
     "year": 2022,
+    "citations": 8
+  },
+  {
+    "authorId": "A5085007251",
+    "year": 2022,
     "citations": 7
   },
   {
     "authorId": "A5085007251",
     "year": 2024,
     "citations": 6
+  },
+  {
+    "authorId": "A5085007251",
+    "year": 2025,
+    "citations": 4
   },
   {
     "authorId": "A5085007251",
@@ -1760,8 +2610,8 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5085007251",
-    "year": 2019,
-    "citations": 6
+    "year": 2023,
+    "citations": 5
   },
   {
     "authorId": "A5085007251",
@@ -1781,6 +2631,16 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5085007251",
     "year": 2024,
+    "citations": 4
+  },
+  {
+    "authorId": "A5085007251",
+    "year": 2024,
+    "citations": 3
+  },
+  {
+    "authorId": "A5085007251",
+    "year": 2024,
     "citations": 3
   },
   {
@@ -1795,18 +2655,8 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5085007251",
-    "year": 2020,
-    "citations": 3
-  },
-  {
-    "authorId": "A5085007251",
     "year": 2017,
     "citations": 2
-  },
-  {
-    "authorId": "A5085007251",
-    "year": 2021,
-    "citations": 1
   },
   {
     "authorId": "A5085007251",
@@ -1835,11 +2685,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5085007251",
-    "year": 2019,
-    "citations": 0
-  },
-  {
-    "authorId": "A5085007251",
     "year": 2020,
     "citations": 0
   },
@@ -1850,16 +2695,6 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5085007251",
-    "year": 2021,
-    "citations": 0
-  },
-  {
-    "authorId": "A5085007251",
-    "year": 2021,
-    "citations": 0
-  },
-  {
-    "authorId": "A5085007251",
     "year": 2022,
     "citations": 0
   },
@@ -1870,12 +2705,12 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   },
   {
     "authorId": "A5085007251",
-    "year": 2022,
+    "year": 2023,
     "citations": 0
   },
   {
     "authorId": "A5085007251",
-    "year": 2022,
+    "year": 2023,
     "citations": 0
   },
   {
@@ -1906,6 +2741,11 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
   {
     "authorId": "A5085007251",
     "year": 2020,
+    "citations": 0
+  },
+  {
+    "authorId": "A5085007251",
+    "year": 2024,
     "citations": 0
   },
   {
@@ -1957,6 +2797,31 @@ export const authorWorkMetrics: AuthorWorkMetric[] = [
     "authorId": "A5085007251",
     "year": 2021,
     "citations": 5
+  },
+  {
+    "authorId": "A5085007251",
+    "year": 2024,
+    "citations": 4
+  },
+  {
+    "authorId": "A5085007251",
+    "year": 2025,
+    "citations": 2
+  },
+  {
+    "authorId": "A5085007251",
+    "year": 2025,
+    "citations": 2
+  },
+  {
+    "authorId": "A5085007251",
+    "year": 2025,
+    "citations": 0
+  },
+  {
+    "authorId": "A5085007251",
+    "year": 2025,
+    "citations": 0
   },
   {
     "authorId": "A5085007251",
