@@ -34,13 +34,19 @@ export default function AuthorManagement() {
         return;
       }
     } catch (err) {
-      // fall through to fallback prompt
+      // fall through to manual fallback
     }
+
     try {
-      const ok = window.prompt("Copy this OpenAlex ID:", id);
-      if (ok !== null) {
-        toast({ title: "OpenAlex ID ready to copy", description: id });
-      }
+      const textarea = document.createElement("textarea");
+      textarea.value = id;
+      textarea.style.position = "fixed";
+      textarea.style.top = "-1000px";
+      document.body.appendChild(textarea);
+      textarea.select();
+      document.execCommand("copy");
+      document.body.removeChild(textarea);
+      toast({ title: "Copied OpenAlex ID", description: id });
     } catch (err) {
       toast({ title: "Could not copy ID", description: id, variant: "destructive" });
     }
