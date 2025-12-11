@@ -22,6 +22,30 @@ export default function AuthorManagement() {
     return parts[parts.length - 1] || raw;
   };
 
+  const handleCopyId = async (id?: string | null) => {
+    if (!id) {
+      toast({ title: "No ID available", variant: "destructive" });
+      return;
+    }
+    try {
+      if (navigator?.clipboard?.writeText) {
+        await navigator.clipboard.writeText(id);
+        toast({ title: "Copied OpenAlex ID", description: id });
+        return;
+      }
+    } catch (err) {
+      // fall through to fallback prompt
+    }
+    try {
+      const ok = window.prompt("Copy this OpenAlex ID:", id);
+      if (ok !== null) {
+        toast({ title: "OpenAlex ID ready to copy", description: id });
+      }
+    } catch (err) {
+      toast({ title: "Could not copy ID", description: id, variant: "destructive" });
+    }
+  };
+
   const handleSearch = async () => {
     if (!searchQuery.trim()) return;
 
@@ -131,7 +155,7 @@ export default function AuthorManagement() {
                             {author.last_known_institution.country_code ? ` (${author.last_known_institution.country_code})` : ""}
                           </div>
                         )}
-                        <div className="flex items-center gap-2 text-xs text-primary">
+                        <div className="flex items-center gap-2 text-xs text-primary flex-wrap">
                           <a
                             href={openAlexUrl}
                             target="_blank"
@@ -143,12 +167,12 @@ export default function AuthorManagement() {
                           <span className="text-muted-foreground">·</span>
                           <button
                             type="button"
-                            className="inline-flex items-center gap-1 underline"
-                            onClick={() => navigator.clipboard?.writeText(openAlexId || author.id).catch(() => {})}
+                            className="inline-flex items-center gap-2 rounded-md border border-primary/30 bg-primary/10 px-2 py-1 font-semibold text-primary hover:bg-primary/20 focus:outline-none focus:ring-2 focus:ring-primary/50"
+                            onClick={() => handleCopyId(openAlexId || author.id)}
                             title="Click to copy the OpenAlex ID"
                           >
                             <Link2 className="h-3 w-3" />
-                            {openAlexId || "ID n/a"}
+                            <span className="font-mono">{openAlexId || "ID n/a"}</span>
                           </button>
                         </div>
                       </div>
