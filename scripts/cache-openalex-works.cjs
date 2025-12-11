@@ -19,6 +19,7 @@ const outDir = path.join(ROOT, "public", "author-data");
 const BASE_URL = "https://api.openalex.org";
 
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+const MAILTO = process.env.OPENALEX_MAILTO || "research@example.com";
 
 const fetchJson = async (url) => {
   const res = await fetch(url);
@@ -26,6 +27,27 @@ const fetchJson = async (url) => {
     throw new Error(`HTTP ${res.status} for ${url}`);
   }
   return res.json();
+};
+
+const fetchAllWorksForAuthor = async (openAlexId) => {
+  const results = [];
+  let cursor = "*";
+
+  while (cursor) {
+    const url = `${BASE_URL}/works?filter=author.id:${openAlexId}&per-page=200&cursor=${encodeURIComponent(
+      cursor,
+    )}&mailto=${encodeURIComponent(MAILTO)}`;
+    const page = await fetchJson(url);
+    results.push(...(page.results || []));
+    const nextCursor =
+      (page.meta && (page.meta.next_cursor || page.meta.next)) || null;
+    cursor = nextCursor && nextCursor !== cursor ? nextCursor : null;
+
+    // Be polite to the API between pages
+    if (cursor) await delay(200);
+  }
+
+  return results;
 };
 
 const run = async () => {
@@ -47,17 +69,16 @@ const run = async () => {
       const outFile = path.join(outDir, `${openAlexId}.json`);
 
       try {
-        const detailsUrl = `${BASE_URL}/authors/${openAlexId}?mailto=research@example.com`;
-        const worksUrl = `${BASE_URL}/works?filter=author.id:${openAlexId}&per-page=200&mailto=research@example.com`;
+        const detailsUrl = `${BASE_URL}/authors/${openAlexId}?mailto=${encodeURIComponent(MAILTO)}`;
 
-        const [details, worksResp] = await Promise.all([
+        const [details, works] = await Promise.all([
           fetchJson(detailsUrl),
-          fetchJson(worksUrl),
+          fetchAllWorksForAuthor(openAlexId),
         ]);
 
         const payload = {
           details,
-          works: worksResp.results || [],
+          works,
         };
 
         fs.writeFileSync(outFile, JSON.stringify(payload, null, 2), "utf8");

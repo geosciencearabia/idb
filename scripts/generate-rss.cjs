@@ -117,7 +117,7 @@ const main = () => {
     return by - ay;
   });
 
-  const maxItems = 50;
+  const maxItems = 100;
   const items = sorted.slice(0, maxItems);
 
   const siteUrl =

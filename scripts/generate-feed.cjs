@@ -11,7 +11,7 @@ const ROOT = path.resolve(__dirname, "..");
 const worksPath = path.join(ROOT, "data", "works.csv");
 const outPath = path.join(ROOT, "public", "feed.xml");
 const MAILTO = process.env.OPENALEX_MAILTO || "research@example.com";
-const MAX_ITEMS = Number(process.env.FEED_LIMIT || 50);
+const MAX_ITEMS = Number(process.env.FEED_LIMIT || 100);
 const REQUEST_DELAY_MS = Number(process.env.FEED_REQUEST_DELAY || 200);
 
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));

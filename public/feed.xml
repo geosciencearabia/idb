@@ -4,8 +4,25 @@
     <title>Integrative Dashboard - OpenAlex Feed</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Thu, 11 Dec 2025 11:41:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 12:39:50 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Where were the mountains and how big were they?</title>
+      <link>https://doi.org/10.31223/x54t9b</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416916178</guid>
+      <dc:creator>Alan S. Collins</dc:creator>
+      <description>Abstract: Constraining past topography and the shape of Earth’s surface is the next frontier in palaeogeography and full-plate tectonic modelling. Mountains are highly dynamic on geological time scales, growing in response to tectonic processes such as subduction and continent collision, and eroding as they are exposed to precipitation and time. Mountain ranges regulate atmospheric circulation and enforce a first order control on dissolved river loads and the transport of sediments to sedimentary basins. Because of this, mountains and the changing elevation of Earth’s surface are essential to understanding how the wider Earth system has evolved through time. Here we present a computational full-Earth, forward model of palaeotopography and palaeobathymetry from 1 Ga to present-day. We use an existing full- plate tectonic model, which traces the evolution of tectonic plate boundaries, to automatically isolate specific tectonic environments that are associated with mountain building, such as continental arcs, continental collisions, rifts and large igneous provinces. Our model separates Earth’s continental surface into a set of equally spaced nodes, so that each node can record its own unique topographic evolution, independent of the nodes around it. Once these regions have been identified, we simulate their growth, and decay, over the last 1 Ga, using parameters and limits derived from the present-day expression of topography on Earth. Our model produces a set of maps at 1° resolution an…&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Isotope constraints on nutrient supply, bio-productivity and redox dynamics in the Mesoproterozoic McArthur Basin, Australia: Insights from δ114Cd, δ13C and δ15N proxies</title>
+      <link>https://doi.org/10.1016/j.epsl.2025.119744</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416512369</guid>
+      <dc:creator>Yaser Noorian, Juraj Farkaš, Alan S. Collins, Eva E. Stüeken, S. R. Walker, Wei Wen Wong</dc:creator>
+      <dc:publisher>Earth and Planetary Science Letters</dc:publisher>
+      <description>Venue: Earth and Planetary Science Letters&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
     <item>
       <title>Not much to show for it: Late Pleistocene dynamics of migrating megadunes in the Rub’ al-Khali, Saudi Arabia, indicate minimal preservation of their deposits</title>
       <link>https://doi.org/10.1130/g53651.1</link>
@@ -23,6 +40,24 @@
       <dc:creator>Yusuf Abdullahi Abdulkarim, Abdulwahab Muhammad Bello, Khalid Al–Ramadan</dc:creator>
       <dc:publisher>Journal of African Earth Sciences</dc:publisher>
       <description>Venue: Journal of African Earth Sciences&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Intermittent connectivity determines the oxygenation in the Favenc and lower Wilton packages of the greater McArthur Basin, northern Australia</title>
+      <link>https://doi.org/10.1080/08120099.2025.2559364</link>
+      <pubDate>Sun, 12 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415095084</guid>
+      <dc:creator>Darwinaji Subarkah, Morgan Blades, Alan S. Collins, Juraj Farkaš, Georgina Virgo</dc:creator>
+      <dc:publisher>Australian Journal of Earth Sciences</dc:publisher>
+      <description>Venue: Australian Journal of Earth Sciences&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>On Using Large Language Models to Enhance Clinically-Driven Missing Data Recovery Algorithms in Electronic Health Records</title>
+      <link>https://doi.org/10.48550/arxiv.2510.03844</link>
+      <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414970434</guid>
+      <dc:creator>Sarah C. Lotspeich, Alan S. Collins, Brian J. Wells, Ashish K. Khanna, Joseph Rigdon, Lucy D’Agostino McGowan</dc:creator>
+      <dc:publisher>arXiv (Cornell University)</dc:publisher>
+      <description>Abstract: Objective: Electronic health records (EHR) data are prone to missingness and errors. Previously, we devised an &quot;enriched&quot; chart review protocol where a &quot;roadmap&quot; of auxiliary diagnoses (anchors) was used to recover missing values in EHR data (e.g., a diagnosis of impaired glycemic control might imply that a missing hemoglobin A1c value would be considered unhealthy). Still, chart reviews are expensive and time-intensive, which limits the number of patients whose data can be reviewed. Now, we investigate the accuracy and scalability of a roadmap-driven algorithm, based on ICD-10 codes (International Classification of Diseases, 10th revision), to mimic expert chart reviews and recover missing values. Materials and Methods: In addition to the clinicians&apos; original roadmap from our previous work, we consider new versions that were iteratively refined using large language models (LLM) in conjunction with clinical expertise to expand the list of auxiliary diagnoses. Using chart reviews for 100 patients from the EHR at an extensive learning health system, we examine algorithm performance with different roadmaps. Using the larger study of $1000$ patients, we applied the final algorithm, which used a roadmap with clinician-approved additions from the LLM. Results: The algorithm recovered as much, if not more, missing data as the expert chart reviewers, depending on the roadmap. Discussion: Clinically-driven algorithms (enhanced by LLM) can recover missing EHR data with similar accuracy…&#10;Venue: arXiv (Cornell University)&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Clay-driven dolomitization at moderate to high temperatures: Evidence from hydrothermal experiments</title>
@@ -49,6 +84,20 @@
       <guid isPermaLink="false">https://openalex.org/W4414226470</guid>
       <dc:creator>Adamu Kimayim Gaduwang, Bassam Tawabini, Khalid Al‐Ramadan, Ardiansyah Koeshidayatullah</dc:creator>
       <description>Abstract: The geomechanical properties of rocks are crucial for understanding reservoir behavior and variations in quality, particularly in complex carbonate systems. While various approaches, such as well logs and seismic data, have been employed to characterize these properties in carbonate formations, achieving accurate results from these proxies remains challenging. The Middle Jurassic Tuwaiq Mountain Formation (TMF) in Saudi Arabia is of significant importance for both conventional and unconventional hydrocarbon exploration. However, limited research exists on the influence of depositional facies on the geomechanical properties of the TMF and the resulting implications for reservoir quality and heterogeneity. Thus, this study examines the rock mechanical behavior, geochemical composition, petrophysical properties,lithofacies and their interrelationships within the TMF. In the study area, TMF consists of three principal depositional facies, which are bioclastic Wackstone, peloidal grainstoneand bioclastic-peloidal packstone. The maximum and minimum average values for uniaxial compressive strength (UCS), compressional and shear wave velocities measured were 148MPa and 34MPa; 5924m/s and 3307m/s; 3135m/s and 1861m/s, respectively. The average porosity values obtained are ranging from a minimum of 2.3% to a maximum of 19.2%. The highest value of the UCS were recorded from the bioclastic wackstone depositional facies with relatively high organic matter content and the peloidal grainsto…&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Dating of marine authigenic minerals via in situ Rb Sr, U Pb, and Lu–Hf: A case study from the Georgina Basin, Australia</title>
+      <link>https://doi.org/10.1016/j.chemgeo.2025.123042</link>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414010659</guid>
+      <dc:creator>Zhufu Shao, Juraj Farkaš, Stijn Glorie, Alan S. Collins, Sarah Gilbert, Darwinaji Subarkah</dc:creator>
+      <dc:publisher>Chemical Geology</dc:publisher>
+      <category>Authigenic</category>
+      <category>Geology</category>
+      <category>Geochemistry</category>
+      <category>Structural basin</category>
+      <category>In situ</category>
+      <description>Topics: Authigenic, Geology, Geochemistry, Structural basin, In situ&#10;Venue: Chemical Geology&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Experimental Investigation of Kaolinite–Zeolite Transformation: Insights from Al-Habala Area Saprolite, Abha, Saudi Arabia</title>
@@ -161,6 +210,33 @@
       <description>Topics: Biology, Phanerozoic, Biodiversity, Biomass (ecology), Macroevolution&#10;Venue: Current Biology&#10;Year: 2025&#10;Citations: 1</description>
     </item>
     <item>
+      <title>Controls on organic-rich shale formation in the Mesoproterozoic Beetaloo Sub-basin, Northern Territory, Australia: insights from biogeochemistry and mineralogy</title>
+      <link>https://doi.org/10.1016/j.precamres.2025.107869</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4411466226</guid>
+      <dc:creator>Yaser Noorian, Juraj Farkaš, Alan S. Collins, Claudio Delle Piane, Tony Hall</dc:creator>
+      <dc:publisher>Precambrian Research</dc:publisher>
+      <category>Geology</category>
+      <category>Oil shale</category>
+      <category>Biogeochemistry</category>
+      <category>Geochemistry</category>
+      <category>Structural basin</category>
+      <description>Topics: Geology, Oil shale, Biogeochemistry, Geochemistry, Structural basin&#10;Venue: Precambrian Research&#10;Year: 2025&#10;Citations: 2</description>
+    </item>
+    <item>
+      <title>In situ Rb–Sr dating and REE analysis of glauconites and detrital feldspars from the Ediacaran/Cambrian strata: Centralian and Adelaide Superbasins, Australia</title>
+      <link>https://doi.org/10.1016/j.precamres.2025.107851</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4411195411</guid>
+      <dc:creator>Cecilia Loyola, Juraj Farkaš, Alan S. Collins, Sarah Gilbert, Charles Verdel, Stefan Löhr, Glenn A. Brock, Graham A. Shields, Andre Baldermann, Ahmad Redaa, Morgan Blades, Darwinaji Subarkah, Caleb Bishop, Sarah Giles, Nicholas Christie‐Blick, Peter Haines</dc:creator>
+      <dc:publisher>Precambrian Research</dc:publisher>
+      <category>Geology</category>
+      <category>Geochemistry</category>
+      <category>Paleontology</category>
+      <category>K–Ar dating</category>
+      <description>Topics: Geology, Geochemistry, Paleontology, K–Ar dating&#10;Venue: Precambrian Research&#10;Year: 2025&#10;Citations: 1</description>
+    </item>
+    <item>
       <title>Experimental development of chlorite: insights from a kaolinite precursor</title>
       <link>https://doi.org/10.2110/jsr.2024.099</link>
       <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
@@ -266,6 +342,20 @@
       <description>Abstract: Discriminating carbonate lithofacies demands extensive fieldwork and costly geochemical analysis which is often constrained by outcrop accessibility and the number of studied sections. To overcome these challenges, the present work employs integration between spaceborne multispectral and lab hyperspectral datasets for the late Jurassic carbonate lithofacies discrimination and spectral characteristics. Carbonate minerals spectra show diagnostic absorption features in the shortwave infrared (SWIR) while impurities features exist in the visible near-infrared (VNIR)- SWIR wavelength region. Several chemical and physical factors affect the position and depth of carbonate minerals absorption features. In this study, Hanifa Formation in Central Saudi Arabia has gained economic significance as a key conventional and unconventional reservoir which is divided into Hawtah and Ulayyah members. The Minimum Noise Fraction (MNF) and Principal Component Analysis (PCA) image processing techniques were utilized on ASTER and Sentinel 2A multispectral data successfully differentiated the Hawtah member into three units and the Ulayyah member into twelve units for the first time which was verified by detailed microfacies analysis. Hyperspectral laboratory measurements of the newly identified units have characterized their absorption features, leading to the classification of four distinct spectrofacies within the Hanifa Formation. Each absorption feature corresponds to a specific mineralogy which …&#10;Topics: Characterization (materials science), Carbonate, Geology, High resolution, Resolution (logic)&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
+      <title>The Betsiaka Group in northern Madagascar: a palaeoproterozoic terrane along the northern margin of the Bemarivo Domain</title>
+      <link>https://doi.org/10.1144/sp550-2024-59</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4407905835</guid>
+      <dc:creator>Imboarina T. Rasaona, L. Edwards, Alan S. Collins, Amos Fety Michel Rakotondrazafy, Wilfried Bauer</dc:creator>
+      <dc:publisher>Geological Society London Special Publications</dc:publisher>
+      <category>Terrane</category>
+      <category>Geology</category>
+      <category>Margin (machine learning)</category>
+      <category>Group (periodic table)</category>
+      <category>Domain (mathematical analysis)</category>
+      <description>Abstract: The Betsiaka Group, located on the northern edge of the Bemarivo Domain in northern Madagascar, consists of metamorphic felsic rocks, amphibolite, and impure marbles. These rocks are overlain by the Permo-Triassic sedimentary cover to the NW and are separated by a normal fault from the Neoproterozoic volcanic rocks of the Bemarivo Domain to the SE. This study aims to determine the provenance and geodynamic evolution of the Betsiaka Group. Orthoamphibolites are associated with siliciclastic sedimentary rocks and exhibit geochemical characteristics of back-arc basin basalts. A quartzite from the Betsiaka Group contains detrital zircon with a youngest single grain U–Pb age of 1771 ± 28 Ma, with peaks at 2500 and 1850 Ma. An orthogneiss intruding this group has concordant zircon grains interpreted to date the protolith&apos;s crystallization at 841 ± 3.2 Ma. The detrital zircon age pattern corresponds to that of the Aravalli Craton in India, suggesting that the northern Madagascar crustal fragment may have been formed off the coast of NW India between 1770 and 1000 Ma. This fragment could have been connected with other crustal fragments, now part of the SE Arabian plate, showing similar detrital zircon patterns in Neoproterozoic sedimentary rocks and sharing a calc-alkaline magmatism around 840 Ma.&#10;Topics: Terrane, Geology, Margin (machine learning), Group (periodic table), Domain (mathematical analysis)&#10;Venue: Geological Society London Special Publications&#10;Year: 2025&#10;Citations: 1</description>
+    </item>
+    <item>
       <title>Biomarker signatures in host rocks and their co-occurring fossil plants from northern Scotland</title>
       <link>https://doi.org/10.1016/j.orggeochem.2025.104948</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 GMT</pubDate>
@@ -292,6 +382,62 @@
       <category>Carbonate</category>
       <category>Geomechanics</category>
       <description>Abstract: Abstract The interplay between depositional and diagenetic processes controls the distribution of geomechanical properties in carbonate rocks. Understanding the distribution of geomechanical properties in rocks is crucial for analyzing the behavior of unconventional carbonate reservoirs during hydraulic fracturing. In Saudi Arabia, the exceptionally exposed Middle Jurassic Tuwaiq Mountain Formation (TMF) represents an important analog of its subsurface-equivalent unconventional reservoir. In this formation, petrographical, rock physical (Vp, Vs, Poisson’s Ratio, and Φ), and geomechanical (uniaxial compressive strength (UCS) and Dynamic Elastic Modulus (Ed)) analyses were integrated to examine how sedimentary microfacies controls the variation of geomechanical properties and thus, reservoir quality and heterogeneity in carbonate successions. Petrographic observations reveal that the TMF comprises three sedimentary microfacies including peloidal grainstone, bioclastic-peloidal packstone, and bioclastic wackestone. An integrated analysis indicates that these microfacies shows distinct petrophysical and geomechanical properties. The peloidal grainstone shows the highest average porosity of 15.4% and lowest average UCS value of 34Mpa, while the bioclastic wackestone exhibit the lowest average porosity of 2.8%, Poisson Ratio (0.26) and highest average UCS value of 148Mpa. Among the three microfacies, the bioclastic wackestone shows the highest average Vp value (5635.5 m/s) and Vs v…&#10;Topics: Outcrop, Geology, Offshore geotechnical engineering, Carbonate, Geomechanics&#10;Venue: Journal of Petroleum Exploration and Production Technology&#10;Year: 2025&#10;Citations: 2</description>
+    </item>
+    <item>
+      <title>Did the Planet’s First Latitudinally-Constrained Glaciation (Mid Ediacaran) Create a Surface to Abyssal Current and Oxidise the Deep Oceans?</title>
+      <link>https://doi.org/10.7185/gold2025.29853</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415510174</guid>
+      <dc:creator>Alan S. Collins, Andrew Merdith, Jonathon Leonard, Stephen J. Hunter, Ben Mills</dc:creator>
+      <description>Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Novel in situ Rb-Sr constraints on the timing of early diagenesis and pre-metamorphic alteration history from the Lubambe-Mingomba deposit, Central African Copperbelt</title>
+      <link>https://doi.org/10.7185/gold2025.29954</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415510358</guid>
+      <dc:creator>Victor Vincent, Koen Torremans, Darwinaji Subarkah, Sarah C. Gilbert, Juraj Farkaš, Alan S. Collins, Jon Stacey, Aileen Doran, Simon W. Jones, Murray W. Hitzman</dc:creator>
+      <description>Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Tracing Redox Histories of Ancient Marine Shales: Insights from Proterozoic Deposits of Central India and the North Australian Craton.</title>
+      <link>https://doi.org/10.7185/gold2025.28981</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415510602</guid>
+      <dc:creator>Achal Khanna, Alan S. Collins, Morgan Blades, Stefan Löhr, April N. Abbott</dc:creator>
+      <description>Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Complex redox evolution of Proterozoic Earth’s surface environments recorded in the greater McArthur Basin.</title>
+      <link>https://doi.org/10.7185/gold2025.28866</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415510662</guid>
+      <dc:creator>Darwinaji Subarkah, Alan S. Collins, Morgan Blades, Juraj Farkaš, Rui Li, Georgina Virgo</dc:creator>
+      <description>Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>A Multi-Proxy Isotope and REE Analysis of the Neoproterozoic Marine Carbonates Hosting Cu Mineralization: Implications for Fluid Sources and Alteration Footprint at the Nifty Deposit in the Yeneena Basin, Western Australia</title>
+      <link>https://doi.org/10.7185/gold2025.28699</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415510944</guid>
+      <dc:creator>Elnaz Khazaie, Alan S. Collins, Juraj Farkaš, Stefan Löhr, Morgan Blades</dc:creator>
+      <description>Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>A link between primary productivity and marine redox in the Mesoproterozoic McArthur Basin, Australia: Insights from Cd isotopes</title>
+      <link>https://doi.org/10.7185/gold2025.28685</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415510966</guid>
+      <dc:creator>Yaser Noorian Madavan, Juraj Farkaš, Alan S. Collins, Samantha Walker, Robert Frei, Claudio Delle Piane, Robert Klaebe</dc:creator>
+      <description>Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Potassium Isotope Variations (δ &lt;sup&gt;41&lt;/sup&gt; K) in Cambrian Glauconites from Australia and China: Insights into Paleo-Seawater and Diagenetic Alteration</title>
+      <link>https://doi.org/10.7185/gold2025.27917</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415511668</guid>
+      <dc:creator>Zhufu Shao, Juraj Farkaš, Xin‐Yuan Zheng, Alan S. Collins, Stefan Löhr</dc:creator>
+      <description>Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Meteorite impacts in quartz sand: An overview study of the resulting rock types</title>
@@ -325,6 +471,20 @@
       <description>Topics: Geology, Ordovician, Volcano, Paleontology, Geochemistry&#10;Venue: Journal of Asian Earth Sciences&#10;Year: 2024&#10;Citations: 1</description>
     </item>
     <item>
+      <title>The Wattie Group of the Birrindudu Basin, northern Australia: a witness to the denudation of the Nuna-forming Isan/Chewings Orogeny</title>
+      <link>https://doi.org/10.1080/08120099.2024.2427102</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4405177212</guid>
+      <dc:creator>Achal Khanna, Morgan Blades, Alan S. Collins</dc:creator>
+      <dc:publisher>Australian Journal of Earth Sciences</dc:publisher>
+      <category>Geology</category>
+      <category>Provenance</category>
+      <category>Detritus</category>
+      <category>Sedimentary depositional environment</category>
+      <category>Zircon</category>
+      <description>Topics: Geology, Provenance, Detritus, Sedimentary depositional environment, Zircon&#10;Venue: Australian Journal of Earth Sciences&#10;Year: 2024&#10;Citations: 2</description>
+    </item>
+    <item>
       <title>Linking provenance and diagenesis to reservoir quality evolution of sandstones: The Paleocene-Eocene Kerri-Kerri Formation, northeastern Nigeria</title>
       <link>https://doi.org/10.1016/j.marpetgeo.2024.107227</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 GMT</pubDate>
@@ -337,6 +497,48 @@
       <category>Paleontology</category>
       <category>Clastic rock</category>
       <description>Topics: Diagenesis, Geology, Provenance, Paleontology, Clastic rock&#10;Venue: Marine and Petroleum Geology&#10;Year: 2024&#10;Citations: 7</description>
+    </item>
+    <item>
+      <title>Structural evolution of the resource-rich Proterozoic western greater McArthur Basin: A focus on the Daly Waters Fault Zone, northern Australia</title>
+      <link>https://doi.org/10.1016/j.precamres.2024.107616</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4404711863</guid>
+      <dc:creator>Johann Soares, Rosalind King, Simon Holford, Alan S. Collins</dc:creator>
+      <dc:publisher>Precambrian Research</dc:publisher>
+      <category>Proterozoic</category>
+      <category>Geology</category>
+      <category>Structural basin</category>
+      <category>Fault (geology)</category>
+      <category>Resource (disambiguation)</category>
+      <description>Topics: Proterozoic, Geology, Structural basin, Fault (geology), Resource (disambiguation)&#10;Venue: Precambrian Research&#10;Year: 2024&#10;Citations: 2</description>
+    </item>
+    <item>
+      <title>Porphyry Cu-Mo mineralization at Anabama Hill, Delamerian Orogen, South Australia: Fertility assessment implied from epidote and chlorite chemistry</title>
+      <link>https://doi.org/10.2138/am-2024-9471</link>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4404181031</guid>
+      <dc:creator>Wei Hong, Adrian Fabris, Sarah C. Gilbert, Stacey Curtis, T. Wise, Alan S. Collins</dc:creator>
+      <dc:publisher>American Mineralogist</dc:publisher>
+      <category>Epidote</category>
+      <category>Chlorite</category>
+      <category>Mineralization (soil science)</category>
+      <category>Geochemistry</category>
+      <category>Geology</category>
+      <description>Abstract: Abstract Porphyry-style hydrothermal alteration has long been recognized in the Delamerian Orogen, Southeastern Australia. However, the fertility of porphyry prospects in this belt, including the Anabama Hill, remains elusive, due to intermittent exploration activities and sparse exposure. Recent significant discoveries of porphyry-epithermal Cu-Au deposits in the adjacent Stavely Arc have led to renewed exploration interest. Reinvestigation of the Anabama Hill drill cores highlights that K-feldspar-rich and epidote-chlorite-dominated alterations are superimposed by extensive quartz-pyrite±chalcopyrite±molybdenite veins with white mica-quartz selvedges, related to early-middle Ordovician granitic stocks. Granodiorite and diorite hosts have diagnostic geochemical characteristics, including high Sr/Y, V/Sc ratios, and listric-shaped REE trends, implying amphibole-leading fractionation due to high water contents in primitive melts. LA-ICP-MS analyses show that characteristic element compositions, e.g., high Fe, Sr, Pb, U, and Bi and low Mg and REEs in the Anabama Hill epidote, and high Mn, Zn, Zr, and U and low Ca, Ba, and Pb in the chlorite, suggest the two minerals resulting from propylitic alteration rather than metamorphism. Compared to well-mineralized porphyry deposits, the epidote shows high Bi, Cu, Sr, Ti, Zr, and U, and the chlorite is high in Ti/Sr and Al/Si ratios, implying that they are most likely deposit-proximal or near a heat center. This is supported by intermed…&#10;Topics: Epidote, Chlorite, Mineralization (soil science), Geochemistry, Geology&#10;Venue: American Mineralogist&#10;Year: 2024&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Origin and Significance of Age Variability in the Glauconite Reference Material &lt;scp&gt;GL&lt;/scp&gt;‐O: Implications for &lt;i&gt;In Situ&lt;/i&gt; Rb‐Sr Geochronology</title>
+      <link>https://doi.org/10.1111/ggr.12588</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4404127892</guid>
+      <dc:creator>Stefan Löhr, Elnaz Khazaie, Juraj Farkaš, Andre Baldermann, Sarah Gilbert, Roland Maas, Darwinaji Subarkah, Morgan Blades, Alan S. Collins</dc:creator>
+      <dc:publisher>Geostandards and Geoanalytical Research</dc:publisher>
+      <category>Glauconite</category>
+      <category>Geochronology</category>
+      <category>In situ</category>
+      <category>Geology</category>
+      <category>Geochemistry</category>
+      <description>Abstract: Stratigraphic ages from conventional glauconite geochronology are commonly younger than those obtained via high temperature chronometers. The widely used glauconite reference material GL‐O, for example, has a K‐Ar age (95.03 ± 1.11 Ma) ~ 5 Ma younger than its expected stratigraphic age. To identify the influences on glauconite ages and assess the suitability of GL‐O as a reference material for in situ Rb‐Sr geochronology, we separated GL‐O grains based on colour and morphology. Each fraction was characterised petrographically and compositionally before in situ Rb‐Sr dating. Separate aliquots were dated via conventional isotope dilution (ID) Rb‐Sr geochronology. We find a ~ 10 Ma spread in the in situ Rb‐Sr ages of GL‐O fractions, where more rapid maturation and isotopic closure of darker grains yields ages closer to the depositional age, whereas smaller, more porous light green grains show evidence for delayed maturation leading to continued Rb uptake during burial as well as Sr isotope exchange with connate fluids. Discrepancies between ID and in situ Rb‐Sr ages are explained by (i) core‐rim age zonation, (ii) the presence of alteration resistant, Sr‐rich apatite inclusions, (iii) differences in laser‐induced fractionation. We recommend additional purification steps before use of GL‐O as reference material for in situ Rb‐Sr geochronology.&#10;Topics: Glauconite, Geochronology, In situ, Geology, Geochemistry&#10;Venue: Geostandards and Geoanalytical Research&#10;Year: 2024&#10;Citations: 0</description>
     </item>
     <item>
       <title>High-Resolution Carbon Isotopic Records from the Ediacaran Sequence in Saudi Arabia: Implications to Shuram Anomaly and Petroleum Prospectivity</title>
@@ -378,6 +580,19 @@
       <category>Sedimentary depositional environment</category>
       <category>Paleontology</category>
       <description>Topics: Geology, Diagenesis, Devonian, Sedimentary depositional environment, Paleontology&#10;Venue: Marine and Petroleum Geology&#10;Year: 2024&#10;Citations: 10</description>
+    </item>
+    <item>
+      <title>Veja 1,8 bilhão de anos de atividade das placas tectônicas da Terra em uma nova animação</title>
+      <link>https://doi.org/10.64628/ade.d3qng7tcq</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4413540496</guid>
+      <dc:creator>Alan S. Collins</dc:creator>
+      <category>Nova (rocket)</category>
+      <category>Physics</category>
+      <category>Humanities</category>
+      <category>Geology</category>
+      <category>Art</category>
+      <description>Topics: Nova (rocket), Physics, Humanities, Geology, Art&#10;Year: 2024&#10;Citations: 0</description>
     </item>
     <item>
       <title>An assessment of the environmental radiation risk from the petrologic units of north-eastern Nigeria; an insight from aero-radiometric data interpretation</title>
@@ -422,6 +637,33 @@
       <description>Topics: Mineralization (soil science), Calcium carbonate, Carbonate, Calcium, Geology&#10;Venue: Geoenergy Science and Engineering&#10;Year: 2024&#10;Citations: 8</description>
     </item>
     <item>
+      <title>Corrigendum to ‘The Derim Derim Dolerite, greater McArthur Basin, Australia: Using subsurface data to characterise a Mesoproterozoic magma plumbing system’ [Mar. Petrol. Geol., 169 (2024)]</title>
+      <link>https://doi.org/10.1016/j.marpetgeo.2024.107099</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4402464216</guid>
+      <dc:creator>Alice S. Hall, Simon Holford, Nick Schofield, Mark Bunch, Alan S. Collins, Morgan Blades, Darwinaji Subarkah</dc:creator>
+      <dc:publisher>Marine and Petroleum Geology</dc:publisher>
+      <category>Geology</category>
+      <category>Geochemistry</category>
+      <category>Structural basin</category>
+      <category>Magma</category>
+      <category>Earth science</category>
+      <description>Topics: Geology, Geochemistry, Structural basin, Magma, Earth science&#10;Venue: Marine and Petroleum Geology&#10;Year: 2024&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Witness 1.8 billion years of tectonic plates dance across Earth’s surface in a new animation</title>
+      <link>https://doi.org/10.64628/aa.mxtscuvqf</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4413541724</guid>
+      <dc:creator>Alan S. Collins</dc:creator>
+      <category>Dance</category>
+      <category>Witness</category>
+      <category>Earth (classical element)</category>
+      <category>Animation</category>
+      <category>Billion years</category>
+      <description>Topics: Dance, Witness, Earth (classical element), Animation, Billion years&#10;Year: 2024&#10;Citations: 0</description>
+    </item>
+    <item>
       <title>Earth’s tectonic and plate boundary evolution over 1.8 billion years</title>
       <link>https://doi.org/10.1016/j.gsf.2024.101922</link>
       <pubDate>Sat, 31 Aug 2024 00:00:00 GMT</pubDate>
@@ -434,6 +676,20 @@
       <category>Earth (classical element)</category>
       <category>Earth science</category>
       <description>Topics: Billion years, Plate tectonics, Geology, Earth (classical element), Earth science&#10;Venue: Geoscience Frontiers&#10;Year: 2024&#10;Citations: 10</description>
+    </item>
+    <item>
+      <title>The Derim Derim Dolerite, greater McArthur Basin, Australia: Using subsurface data to characterise a mesoproterozoic magma plumbing system</title>
+      <link>https://doi.org/10.1016/j.marpetgeo.2024.107072</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4402014446</guid>
+      <dc:creator>Alice S. Hall, Simon Holford, Nick Schofield, Mark Bunch, Alan S. Collins, Morgan Blades, Darwinaji Subarkah</dc:creator>
+      <dc:publisher>Marine and Petroleum Geology</dc:publisher>
+      <category>Geology</category>
+      <category>Geochemistry</category>
+      <category>Magma</category>
+      <category>Structural basin</category>
+      <category>Petrology</category>
+      <description>Abstract: Open Access via the Elsevier Agreement. This work was carried out during a research visit to the University of Adelaide, and forms part of a PhD study undertaken as part of the Centre of Doctoral Training (CDT) in Geoscience and the Low Carbon Energy Transition. Seismic interpretation was undertaken using SLB Petrel software, for which the academic licences were kindly provided by SLB and are gratefully acknowledged. Francesco Mazzarini and an anonymous reviewer are thanked for their detailed constructive review that improved this manuscript.&#10;Topics: Geology, Geochemistry, Magma, Structural basin, Petrology&#10;Venue: Marine and Petroleum Geology&#10;Year: 2024&#10;Citations: 1</description>
     </item>
     <item>
       <title>Diagenesis and reservoir quality evolution of estuarine sandstones: Insights from the Cenomanian-Turonian Yolde Formation, northern Benue Trough, NE Nigeria</title>
@@ -617,6 +873,19 @@
       <description>Abstract: Abstract The Dahal Hit cavern in Central Saudi Arabia is the only locality where the Tithonian Hith Anhydrite Formation is exposed in the Middle East. In 2010, a 28.5-m interval in the 90-m-thick Hith Formation was logged and described in the cavern as part of a study to evaluate its sedimentological and sequence-stratigraphic architecture and to identify potential high-permeability layers within the seal of the world’s most prolific petroleum system. Seven facies types were interpreted as reflecting sabkha (subaerial) or salina (subaqueous) settings, and their vertical stacking patterns revealed that the logged interval consists of three transgressive–regressive cycles and part of a fourth cycle. The cavern was revisited in 2016 but only to find that the water level had risen by about 50 m rendering further geological studies impossible. The higher level of the water suggests that the cavern was flooded by the flow in the subsurface of treated sewage water released into a former quarry. The quarry is situated about 10 km southeast of the cavern, and the storage of water in it started in 2008. The flow pathways to the Dahal Hit cavern are apparently well-connected karsts, caverns, and high-permeability flow zones present in dolomite layers.&#10;Topics: Geology, Anhydrite, Outcrop, Facies, Sabkha&#10;Venue: Arabian Journal of Geosciences&#10;Year: 2024&#10;Citations: 4</description>
     </item>
     <item>
+      <title>Direct dating of global Cryogenian sections by in situ U&amp;amp;#8211;Pb mapping of carbonates</title>
+      <link>https://doi.org/10.5194/egusphere-egu24-14298</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4392759757</guid>
+      <dc:creator>Darwinaji Subarkah, Alan S. Collins, Stefan Löhr, Angus Nixon, Morgan Blades, Juraj Farkaš, Jarred Lloyd, Robert Klaebe, Sarah Gilbert, Georgina Virgo</dc:creator>
+      <category>In situ</category>
+      <category>Geology</category>
+      <category>Geochemistry</category>
+      <category>Mineralogy</category>
+      <category>Chemistry</category>
+      <description>Abstract: The Cryogenian period represents a critical interval in Earth&amp;amp;#8217;s history, characterized by drastic tectonic and environmental changes. Evidence of low-altitude glacial deposits from this time has been recognized globally, alluding to the most extensive icehouse regimes known on our planet. These conditions of successive global freezing and warming during the Neoproterozoic have been dubbed as &amp;amp;#8216;Snowball Earth&amp;amp;#8217; events. Importantly, the Cryogenian may have played a key role in the accelerated evolution of early life, as microorganisms became more complex and abundant after this period. Consequently, it is important to constrain the absolute timing, duration, and termination of these glacial and interglacial events. Despite their significance, robust, direct dating of Cryogenian sections remains challenging. The most accurate way to constrain these units is through dating of interbedded volcanics. However, they are not present across all sections globally, making correlations difficult to establish.As such, we present a novel strategy to address this issue by directly dating a broad array of Cryogenian carbonates through an in situ U-Pb mapping approach. Our case study includes inter-glacial and post-glacial carbonates from sections in Australia, Oman, and Greenland. We show that this method allows for the concurrent collection of geochemical, petrographic, and geochronological information at sufficient precision to address key geological questions. G…&#10;Topics: In situ, Geology, Geochemistry, Mineralogy, Chemistry&#10;Year: 2024&#10;Citations: 0</description>
+    </item>
+    <item>
       <title>Precambrian mixed clastic-carbonate systems of Saudi Arabia: Integrated sedimentological, micropaleontological and geochemical characterization</title>
       <link>https://doi.org/10.5194/egusphere-egu24-11651</link>
       <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
@@ -642,6 +911,17 @@
       <description>Abstract: The global transition to a low-carbon energy future has ignited interest in hydrogen as a clean and versatile energy carrier. Saudi Arabia contains, vast tracts of mantle-dominated Neoproterozoic ophiolites overlain by a sedimentary cover in the east. Our research explores the untapped potential of Saudi Arabia&amp;amp;#8217;s ophiolite serpentinites as a possible source of hydrogen generation through serpentinization and related processes. H2 is derived from serpentinization, which primarily involves the hydration of minerals rich in iron and magnesium, (e.g., olivine), resulting in the formation of serpentine and H2. &amp;amp;#160;We have conducted a comprehensive assessment of serpentinites in the Arabian Shield employing the Geographic Information System (GIS) to locate, Arabian ophiolites with the largest ultramafic segments. Ophiolites studied include Jabal Ess, Jabal Wask, Bi&amp;amp;#8217;r Tululah, and Jabal Tharwah. Subsequent to ophiolite identification, we delineated fractures and measured fracture density to provide insight into the potential of serpentinite fractures on the amount of hydrogen seepage and the rate of hydrogen production. The results of our quantitative fracture density analysis and their relation to the volume and rate of hydrogen production will be discussed. A complimentary H2 anomaly survey will ground-truth the results of this study.&#10;Topics: Production (economics), Business, Economics, Macroeconomics&#10;Year: 2024&#10;Citations: 0</description>
     </item>
     <item>
+      <title>Evidences for Neoproterozoic fragments with Indian origin in Oman and northern Madagascar</title>
+      <link>https://doi.org/10.5194/egusphere-egu24-1308</link>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4392596750</guid>
+      <dc:creator>Wilfried Bauer, Imboarina T. Rasaona, Joachim Jacobs, Alan S. Collins, L. Edwards, Ivan Callegari, Andreas Scharf</dc:creator>
+      <category>Geology</category>
+      <category>Geography</category>
+      <category>Paleontology</category>
+      <description>Abstract: Newly obtained geochemical and geochronological data from the Saih Hatat Dome in northeastern Oman and the Betsiaka Group in northern Madagascar reveal compelling similarities in the Neoproterozoic geological evolution of these geographically distant regions. The Saih Hatat Dome serves as a tectonic window with a NW-SE extension of&#10;Topics: Geology, Geography, Paleontology&#10;Year: 2024&#10;Citations: 1</description>
+    </item>
+    <item>
       <title>Revisiting the Impact of Diagenesis across the Permo-Triassic Boundary: Insights from the Khuff Carbonates, Saudi Arabia</title>
       <link>https://doi.org/10.5194/egusphere-egu24-4503</link>
       <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
@@ -653,6 +933,352 @@
       <category>Boundary (topology)</category>
       <category>Earth science</category>
       <description>Abstract: During the Permo-Triassic time, an extensive epeiric carbonate platform (Khuff Formation) developed on the Arabian Plate. Besides becoming one of the world&amp;amp;#8217;s most prolific hydrocarbon reservoirs, the Khuff carbonates also recorded major shifts in physiochemical, biological, and environmental conditions associated with the Permo-Triassic mass extinction. However, recognition and expression of this catastrophic event in the Arabian Plate were unresolved due to ambiguous geochemical signals. Pervasive diagenesis has been interpreted as one of the major causes of creating such mixed geochemical signals, yet the origin and timing of diagenetic processes remain enigmatic. In this study, we used measurements of elemental concentrations and isotope ratios to help distinguish the geochemical signatures of Permo-Triassic environmental change from diagenetic influences related to dolomitization and dissolution-cementation. The geochemical results suggest that most of the primary signals have been altered by meteoric-driven diagenesis as shown from the REE pattern. Dolomitization occurred early, under near-surface conditions, driven primarily by modified Lower Triassic seawater. The &amp;amp;#948;18OVPDB and &amp;amp;#948;13CVPDB values fall within the expected range of Triassic seawater, 0.5 to -2.8&amp;amp;#8240; and 1.6 to 3.1&amp;amp;#8240;, respectively. This interpretation is corroborated by the calculated clumped isotope (&amp;amp;#916;47) temperature of around 34oC. The formation of oomold…&#10;Topics: Diagenesis, Geology, Paleontology, Boundary (topology), Earth science&#10;Year: 2024&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>The tectonic setting of the late Ediacaran eastern Arabian basement (ca. 550 Ma): New geochronological and geochemical constraints from the basements of Oman and the United Arab Emirates</title>
+      <link>https://doi.org/10.1016/j.gr.2024.02.002</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4391782960</guid>
+      <dc:creator>Francesco Arboit, Andrea Ceriani, Alan S. Collins, Dominik Hennhoefer, Simone Pilia, Alessandro Decarlis</dc:creator>
+      <dc:publisher>Gondwana Research</dc:publisher>
+      <category>Geology</category>
+      <category>Tectonics</category>
+      <category>Basement</category>
+      <category>Geochemistry</category>
+      <category>Paleontology</category>
+      <description>Topics: Geology, Tectonics, Basement, Geochemistry, Paleontology&#10;Venue: Gondwana Research&#10;Year: 2024&#10;Citations: 6</description>
+    </item>
+    <item>
+      <title>Duration of Sturtian “Snowball Earth” glaciation linked to exceptionally low mid-ocean ridge outgassing</title>
+      <link>https://doi.org/10.1130/g51669.1</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4391616708</guid>
+      <dc:creator>Adriana Dutkiewicz, Andrew Merdith, Alan S. Collins, Ben Mather, Lauren Ilano, Sabin Zahirovic, R. Dietmar Müller</dc:creator>
+      <dc:publisher>Geology</dc:publisher>
+      <category>Snowball Earth</category>
+      <category>Glacial period</category>
+      <category>Geology</category>
+      <category>Continental drift</category>
+      <category>Paleontology</category>
+      <description>Abstract: Abstract The Sturtian “Snowball Earth” glaciation (ca. 717–661 Ma) is regarded as the most extreme interval of icehouse climate in Earth’s history. The exact trigger and sustention mechanisms for this long-lived global glaciation remain obscure. The most widely debated causes are silicate weathering of the ca. 718 Ma Franklin large igneous province (LIP) and changes in the length and degassing of continental arcs. A new generation of two independent Neoproterozoic full-plate tectonic models now allows us to quantify the role of tectonics in initiating and sustaining the Sturtian glaciation. We find that continental arc length remains relatively constant from 850 Ma until the end of the glaciation in both models and is unlikely to play a role. The two plate motion models diverge in their predictions of the timing and progression of Rodinia break-up, ocean-basin age, ocean-basement depth, sea-level evolution, and mid-ocean ridge (MOR) carbon outflux. One model predicts MOR outflux and ocean basin volume–driven sea level lower than during the Late Cenozoic glaciation, while the other predicts outgassing and sea level exceeding those of the Late Cretaceous hothouse climate. The second model would preclude a major glaciation, while the first model implies that the trigger for the Sturtian glaciation could have been a combination of an extremely low MOR outflux (~9 Mt C/yr) and Franklin LIP weathering. Such minimal outflux could have maintained an icehouse state for 57 m.y. when si…&#10;Topics: Snowball Earth, Glacial period, Geology, Continental drift, Paleontology&#10;Venue: Geology&#10;Year: 2024&#10;Citations: 19</description>
+    </item>
+    <item>
+      <title>Source rock potential, thermal maturity, and depositional environment of the Ordovician Ra’an Shale Member, central Saudi Arabia</title>
+      <link>https://doi.org/10.1016/j.jaesx.2024.100174</link>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4391286506</guid>
+      <dc:creator>Faisal AlGhamdi, Lamidi Babalola, Abdullah Alqubalee, Israa S. Abu‐Mahfouz, Bandar Alotaibi, Mohammed Abouelresh</dc:creator>
+      <dc:publisher>Journal of Asian Earth Sciences X</dc:publisher>
+      <category>Siltstone</category>
+      <category>Geology</category>
+      <category>Sedimentary depositional environment</category>
+      <category>Petrography</category>
+      <category>Oil shale</category>
+      <description>Abstract: The Ordovician Ra’an Shale Member of the Qassim Formation in Saudi Arabia has potential as an unconventional hydrocarbon play. This shale unit, however, has not been studied in detail for its geochemical characteristics, thermal maturity, and reservoir quality. This study aims to investigate this shale member from a well-exposed section at Khashm Ra’an in the Qassim region, central Saudi Arabia. Detailed fieldwork followed by comprehensive geochemical and petrographic analyses were conducted to evaluate the hydrocarbon potential and interpret the depositional setting of this shale member. Integration of field sedimentological description, sample description and thin section petrography facilitated the identification of partially burrowed laminated fish-bearing shale, bioturbated siltstone, graptolite-bearing shale, shale/siltstone and sandstone/shale interbeds in the investigated outcrop. The intervals were sandwiched between the bioturbated sandstone of the underlying Kahfah Sandstone and the overlying Quwarah Formation. These lithofacies are interpreted to have been deposited in a shallow marine depositional setting. The preservation of graptolite in some intervals indicates low bottom dissolved oxygen conditions. The mineralogical analysis indicated that clay minerals, quartz, and feldspars are the major mineralogical components in the study samples. Based on mineralogical compositions, the studied samples were classified into three main lithofacies types; silica-rich argi…&#10;Topics: Siltstone, Geology, Sedimentary depositional environment, Petrography, Oil shale&#10;Venue: Journal of Asian Earth Sciences X&#10;Year: 2024&#10;Citations: 3</description>
+    </item>
+    <item>
+      <title>Mineralogy and Geochemistry of the Paleocene–Eocene Palana Formation in Western Rajasthan, India: Insights for Sedimentary Paleoenvironmental Conditions and Volcanic Activity</title>
+      <link>https://doi.org/10.3390/min14020126</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4391167607</guid>
+      <dc:creator>Mohammed Hail Hakimi, Alok Kumar, Abdullah Alqubalee, Alok K. Singh, Mohammed Almobarky, Afikah Rahim, Mohammad Alqudah, Aref Lashin, Khairul Azlan Mustapha, Waqas Naseem</dc:creator>
+      <dc:publisher>Minerals</dc:publisher>
+      <category>Geology</category>
+      <category>Organic matter</category>
+      <category>Geochemistry</category>
+      <category>Total organic carbon</category>
+      <category>Anoxic waters</category>
+      <description>Abstract: Organic-rich shale rocks from the Paleocene–Eocene Palana Formation in western Rajasthan, India, were systematically investigated based on inorganic and organic geochemistry combined with microscopic examinations to evaluate the sedimentary paleoenvironmental conditions and volcanic activity and their impact on the high organic carbon accumulation. The Palana shales are categorized by high organic matter (OM) and sulfur contents, with total values up to 36.23 wt.% and 2.24 wt.%, respectively. The richness of phytoplankton algae (i.e., telalginite and lamalginite) together with redox-sensitive trace elements further suggests a marine setting and anoxic environmental conditions during the Paleocene–Eocene. The significant low oxygen conditions may contribute to enhancing the preservation of organic matter during deposition. The mineralogical and inorganic geochemical indicators demonstrate that the Palana organic-rich shale facies was accumulated in a warm and humid climate with moderate salinity stratification conditions in the water columns, thereby contributing to the high bioproductivity of the phytoplankton algae blooms within the photic zone. The presence of significant contents of zeolite derived from volcanic material together with silica minerals such as apophyllite and tridymite in most of the Palana organic-rich shales indicates a volcanic origin and supports hydrothermal activities during the Paleocene–Eocene period. These volcanic activities in this case are consid…&#10;Topics: Geology, Organic matter, Geochemistry, Total organic carbon, Anoxic waters&#10;Venue: Minerals&#10;Year: 2024&#10;Citations: 5</description>
+    </item>
+    <item>
+      <title>Coupling data-driven geochemical analysis and ensemble machine learning for automatic identification of oceanic anoxic events</title>
+      <link>https://doi.org/10.1016/j.jseaes.2024.106027</link>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4391070881</guid>
+      <dc:creator>S. Allam, Khalid Al–Ramadan, Ardiansyah Koeshidayatullah</dc:creator>
+      <dc:publisher>Journal of Asian Earth Sciences</dc:publisher>
+      <category>Cretaceous</category>
+      <category>Anoxic waters</category>
+      <category>Geology</category>
+      <category>Paleontology</category>
+      <category>Phanerozoic</category>
+      <description>Topics: Cretaceous, Anoxic waters, Geology, Paleontology, Phanerozoic&#10;Venue: Journal of Asian Earth Sciences&#10;Year: 2024&#10;Citations: 4</description>
+    </item>
+    <item>
+      <title>Controls on mechanical properties of a carbonate mudstone: Insights from non-destructive techniques and geochemical data</title>
+      <link>https://doi.org/10.1016/j.marpetgeo.2024.106702</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4390685983</guid>
+      <dc:creator>Baqer Albensaad, Septriandi A. Chan, John Humphrey, Abdullah Alqubalee, Ammar El‐Husseiny, Yaser Alzayer</dc:creator>
+      <dc:publisher>Marine and Petroleum Geology</dc:publisher>
+      <category>Geology</category>
+      <category>Porosity</category>
+      <category>Terrigenous sediment</category>
+      <category>Mineralogy</category>
+      <category>Diagenesis</category>
+      <description>Abstract: This study quantifies geomechanical properties of carbonate mudrocks in the Arabian intra-shelf basin, focusing on different sedimentologic zones (proximal to distal). Core-based mechanical properties were obtained through unconfined conditions. Micro Rebound Testing (MRT) was conducted on 700′ ft of core at 0.5 ft intervals to capture high-resolution rock hardness (HLD), unconfined compressive strength (UCS), and static Young&apos;s Modulus (E). Additional tests validated log-based parameters, including impulse hammer, acoustic velocity testing for (E), P-wave and S-wave velocities (Vp and Vs), scratch testing, and XRF/XRD analyses for mineralogical and elemental variability impact on mechanical properties. Multivariate statistical analysis correlates mechanical properties with elemental data, showing direct proportionality to calcium percentage, (E), Vp, and Vs, while inversely correlated to aluminum, iron, sulfur, and total organic carbon (TOC), especially in distal zones. Porosity, as measured by neutron porosity log, is a significant control on mechanical properties, with higher porosity resulting in lower mechanical properties at any given calcium percentage. Variations in geomechanical properties within each zone are principally controlled by depositional environments, sediment supply, diagenesis, and a pycnocline dividing the water column into anoxic, dysoxic (or suboxic), and oxic conditions. Zone 1A and 4 exhibit high brittleness characterized by high Ca-calcite, HLD, (E…&#10;Topics: Geology, Porosity, Terrigenous sediment, Mineralogy, Diagenesis&#10;Venue: Marine and Petroleum Geology&#10;Year: 2024&#10;Citations: 4</description>
+    </item>
+    <item>
+      <title>Provenance history, depositional conditions andtectonic settings during late Cenomanian – early Turonian time in the Gongola Sub-Basin of the Upper Benue Trough Nigeria: Evidence from major and trace elements geochemistry of the Kanawa shales from the Pindiga Formation</title>
+      <link>https://doi.org/10.1016/j.jafrearsci.2024.105168</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4390667796</guid>
+      <dc:creator>Usman Abubakar, Simon V. Hohl, Musa Bappah Usman, Abubakar Sadiq Maigari, Milan Stafford Tchouatcha, R. P. TABALE, Abdulwahab Muhammad Bello, Auwalu Dalha, Shehu Mukkafa</dc:creator>
+      <dc:publisher>Journal of African Earth Sciences</dc:publisher>
+      <category>Geology</category>
+      <category>Provenance</category>
+      <category>Sedimentary depositional environment</category>
+      <category>Geochemistry</category>
+      <category>Cenomanian</category>
+      <description>Topics: Geology, Provenance, Sedimentary depositional environment, Geochemistry, Cenomanian&#10;Venue: Journal of African Earth Sciences&#10;Year: 2024&#10;Citations: 9</description>
+    </item>
+    <item>
+      <title>Carbonate factory response through the MECO (Middle Eocene Climate Optimum) event: Insight from the Apulia Carbonate Platform, Gargano Promontory, Italy</title>
+      <link>https://doi.org/10.1016/j.sedgeo.2023.106575</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4390618494</guid>
+      <dc:creator>Claudia Morabito, Cesare Andrea Papazzoni, Daniel J. Lehrmann, Jonathan L. Payne, Khalid Al–Ramadan, Michele Morsilli</dc:creator>
+      <dc:publisher>Sedimentary Geology</dc:publisher>
+      <category>Geology</category>
+      <category>Carbonate</category>
+      <category>Foraminifera</category>
+      <category>Benthic zone</category>
+      <category>Paleontology</category>
+      <description>Abstract: During the Eocene, shallow-water carbonate systems were significantly impacted by climate fluctuations and&amp;#13;\nhyperthermal events. Following the peak temperatures of the Early Eocene Climatic Optimum (EECO), a general&amp;#13;\ncooling trend began, with short-lived (⁓200 kyr) warming events occurring alongside it. In the early Bartonian&amp;#13;\n(around 40.1 Ma), a warming event known as the Middle Eocene Climatic Optimum (MECO) occurred, lasting&amp;#13;\napproximately 500,000 years. In this scenario, the types and calcification rates of marine organisms such as corals&amp;#13;\nand larger benthic foraminifera (LBF) were influenced by global CO2 and oceanographic changes, which had a&amp;#13;\nmajor effect on photic carbonate factories. To better understand the effects of these factors on carbonate&amp;#13;\nfactories, a detailed study of shallow-water facies types, distributions, and evolution was conducted. The Middle&amp;#13;\nEocene Monte Saraceno sequence, located on the eastern margin of the Apulia Carbonate Platform (Gargano&amp;#13;\nPromontory, southern Italy), was selected as a case study to investigate the relationships between carbonate factory&amp;#13;\ntypes and climatic changes around theMECO event. This study identified twodistinct intervalswith different&amp;#13;\nmodes of carbonate production, separated by a sharp boundary. The lower interval consists of clinostratified,&amp;#13;\nthick beds of rudstone to floatstone, mostly made up of various large Nummulites tests, indicating an early&amp;#13;\nBar…&#10;Topics: Geology, Carbonate, Foraminifera, Benthic zone, Paleontology&#10;Venue: Sedimentary Geology&#10;Year: 2024&#10;Citations: 6</description>
+    </item>
+    <item>
+      <title>Diagenetic Controls on Reservoir Porosity of Aeolian and Fluvial Deposits: A Case Study from Permo-Carboniferous Sandstones of Saudi Arabia</title>
+      <link>https://doi.org/10.1007/s13369-023-08590-2</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4390510283</guid>
+      <dc:creator>Abdulwahab Muhammad Bello, Abduljamiu O. Amao, Abdullah Alqubalee, Murtada Al-Hashem, Houssin Albarri, Mohammed Al‐Masrahy, Khalid Al‐Ramadan, Lamidi Babalola</dc:creator>
+      <dc:publisher>Arabian Journal for Science and Engineering</dc:publisher>
+      <category>Geology</category>
+      <category>Illite</category>
+      <category>Diagenesis</category>
+      <category>Cementation (geology)</category>
+      <category>Authigenic</category>
+      <description>Topics: Geology, Illite, Diagenesis, Cementation (geology), Authigenic&#10;Venue: Arabian Journal for Science and Engineering&#10;Year: 2024&#10;Citations: 6</description>
+    </item>
+    <item>
+      <title>Genesis of Grain-Coating Clays and Their Effect on the Development of Feldspar Overgrowths: A Case Study of the Late Cambrian to Early Ordovician Barik Formation Sandstone Reservoir, Haushi-Huqf Region, Central Oman</title>
+      <link>https://doi.org/10.1007/978-3-031-48758-3_8</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4392964788</guid>
+      <dc:creator>Mohamed A. K. El‐Ghali, İftikhar Ahmed Abbasi, Olga Shelukhina, Mohamed S. H. Moustafa, Arshad Ali, Osman Salad Hersi, Shahad Al Mahrooqi, Khalid Al–Ramadan, Abdulwahab Muhammad Bello, Hezam Al-Awah, Abdullah Alqubalee</dc:creator>
+      <dc:publisher>Advances in Science, Technology &amp; Innovation/Advances in science, technology &amp; innovation</dc:publisher>
+      <category>Ordovician</category>
+      <category>Geology</category>
+      <category>Feldspar</category>
+      <category>Geochemistry</category>
+      <category>Petrology</category>
+      <description>Topics: Ordovician, Geology, Feldspar, Geochemistry, Petrology&#10;Venue: Advances in Science, Technology &amp; Innovation/Advances in science, technology &amp; innovation&#10;Year: 2024&#10;Citations: 3</description>
+    </item>
+    <item>
+      <title>Depositional and Diagenetic Controls on the Reservoir Quality of Marginal Marine Sandstones: An Example from the Early Devonian Subbat Member, Jauf Formation, Northwest Saudi Arabia</title>
+      <link>https://doi.org/10.2139/ssrn.4929753</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4401685941</guid>
+      <dc:creator>Anas Muhammad Salisu, Hasan Algheryafi, Abdulwahab Muhammad Bello, Abduljamiu O. Amao, Bandar Alotaibi, Khalid Al–Ramadan</dc:creator>
+      <dc:publisher>SSRN Electronic Journal</dc:publisher>
+      <category>Diagenesis</category>
+      <category>Devonian</category>
+      <category>Sedimentary depositional environment</category>
+      <category>Geology</category>
+      <category>Paleontology</category>
+      <description>Topics: Diagenesis, Devonian, Sedimentary depositional environment, Geology, Paleontology&#10;Venue: SSRN Electronic Journal&#10;Year: 2024&#10;Citations: 1</description>
+    </item>
+    <item>
+      <title>Mid- to Late Neoproterozoic Development and Provenance of the Adelaide Superbasin</title>
+      <link>https://doi.org/10.55575/tektonika2024.2.2.65</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4403134328</guid>
+      <dc:creator>Jarred Lloyd, Alan S. Collins, Morgan Blades, Sarah Gilbert, Jacob A. Mulder, Kathryn Amos</dc:creator>
+      <dc:publisher>Tektonika</dc:publisher>
+      <category>Provenance</category>
+      <category>Geology</category>
+      <category>Paleontology</category>
+      <category>Earth science</category>
+      <description>Abstract: Late Tonian sequences of the Adelaide Superbasin were witness to the birth of the proto-Pacific Ocean during the breakup of Rodinia. Understanding the sedimentology and provenance of these rocks from across the basin is key to understanding their deposition over c. 70 million years, the local palaeogeography, and leads to a better understanding of the early development of the proto-Pacific Ocean. While the sedimentology of the Burra Group is well studied in most areas, provenance studies on these sequences using detrital zircon have been limited in scope and lack both spatial and temporal diversity. We begin to address this knowledge gap. Samples were taken from across the Adelaide Superbasin to understand both spatial and temporal related changes in provenance. Our findings highlight the necessity of this approach by uncovering both subtle, and abrupt significant changes in detrital zircon spectra for coeval samples from across the basin, and up-sequence in local areas. Our results highlight significant changes in provenance c. 790 Ma in the north of the basin, and c. 740 Ma in the south of the basin. This suggests a southward advancement of the rift basin, gradually opening to southerly sediment supply. We posit the existence of an unrecognised source of c. 1000–900 Ma zircon to the north or northeast of the basin to account for latest Stenian to earliest Tonian detrital zircon in the Myrtle Springs Formation. Additionally, we explore the comparison of coeval Tasmanian and …&#10;Topics: Provenance, Geology, Paleontology, Earth science&#10;Venue: Tektonika&#10;Year: 2024&#10;Citations: 1</description>
+    </item>
+    <item>
+      <title>Vase-shaped microfossils and possible trochamminid foraminifera from the Ediacaran Dhaiqa Formation of Saudi Arabia</title>
+      <link>https://doi.org/10.29041/strat.21.1.04</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4392889256</guid>
+      <dc:creator>Muhammad Hammad Malik, Ardiansyah Koeshidayatullah, Adhipa Herlambang, Khalid Al–Ramadan, Michael A. Kaminski</dc:creator>
+      <dc:publisher>Stratigraphy</dc:publisher>
+      <category>Facies</category>
+      <category>Geology</category>
+      <category>Foraminifera</category>
+      <category>Outcrop</category>
+      <category>Sedimentary depositional environment</category>
+      <description>Abstract: We report the first discovery of vase-shaped microfossils (VSMs) and possible multichambered foraminifera from the Ediacaran rocks of Saudi Arabia. The Ediacaran successions of Saudi Arabia are well exposed in the northwestern and central part of the Arabian plate but are relatively understudied due to the lack of economic potential. The exposures can be found in different small sedimentary basins distributed along the flanks of Najd Fault system of the western Arabian Plate. The Dhaiqa sub-basin located near the historic city of Al-Ula contains some of the best exposures of Ediacaran Mattar and Dhaiqa Formations with collective exposure almost 400 m thick. These formations (especially the Dhaiqa Formation) were investigated to describe sedimentary facies, depositional environment, and possible microfossils. This study focuses on the identification of vase-shaped microfossils and possible trochamminid foraminifera of Ediacaran age that are herein recognized for the first time in Saudi Arabia. Outcrop samples were thin-sectioned and analyzed to reveal nine sedimentary facies belonging to four facies associations. The observed microfossils were found in a total of four samples from the cherty/siliceous carbonate and sandy microbialite facies. The microfossils are observed to be associated with diagenetic chert, which is abundant in these facies. The two facies contain a sparse microfossil assemblage with vase-shaped microfossils, which are single-chambered microfossils of uncer…&#10;Topics: Facies, Geology, Foraminifera, Outcrop, Sedimentary depositional environment&#10;Venue: Stratigraphy&#10;Year: 2024&#10;Citations: 3</description>
+    </item>
+    <item>
+      <title>A Predective Framework for Sequence Stratigraphy Analysis Using Stable Isotopes of Platform Carbonates</title>
+      <link>https://doi.org/10.3997/2214-4609.2024634057</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4401966288</guid>
+      <dc:creator>Daniel Muñoz‐López, Ardiansyah Koeshidayatullah, Telm Bover‐Arnal, Adhipa Herlambang, Juan Diego Martín‐Martín, R. Salas, John Humphrey, Khalid Al–Ramadan</dc:creator>
+      <category>Sequence stratigraphy</category>
+      <category>Stratigraphy</category>
+      <category>Sequence (biology)</category>
+      <category>Geology</category>
+      <category>Stable isotope ratio</category>
+      <description>Topics: Sequence stratigraphy, Stratigraphy, Sequence (biology), Geology, Stable isotope ratio&#10;Year: 2024&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Shale Electrokinetic Property and Colloidal Stability: Potential for Subsurface CO&lt;sub&gt;2&lt;/sub&gt; Storage</title>
+      <link>https://doi.org/10.1021/acs.energyfuels.3c03960</link>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4390401119</guid>
+      <dc:creator>Isah Mohammed, Ahmed Al‐Yaseri, Abdulwahab Muhammad Bello, Dhafer Al Shehri, Mohamed Mahmoud</dc:creator>
+      <dc:publisher>Energy &amp; Fuels</dc:publisher>
+      <category>Oil shale</category>
+      <category>Electrokinetic phenomena</category>
+      <category>Colloid</category>
+      <category>Zeta potential</category>
+      <category>Surface charge</category>
+      <description>Abstract: Shale reservoirs and their capacity to store absorbed greenhouse gases, mainly CO2, have come to the forefront of scientific discourse as a result of the global effort to alleviate concerns about the increase in global temperature. Many nations and companies have started several programs to analyze the security and viability of storage to do this. There is a dearth of information about shale&apos;s electrokinetic properties despite the vast amount of literature on shale exploration, its composition, and enhanced gas recovery from shale. This characteristic determines how the shale sample reacts to various fluids, its wetting state, and how it preferentially reacts with some gases (CO2 over CH4). Eagle Ford shale sample&apos;s electrokinetic properties (surface charge and colloidal stability) are presented in connection to its capacity as a CO2 storage system for the first time. Zeta potential measurements were used to determine this, and the impact of salinity in freshwater and marine environments was examined. Results indicate that the Eagle Ford shale sample is colloidally unstable and negatively charged in both marine and freshwater environments. Furthermore, the sample is a strong candidate for the release of cations for CO2 mineralization due to its colloidal stability. The sample&apos;s mineralogy, total organic content, and the environment pH, on the other hand, determine its surface charge and colloidal stability. Furthermore, the results demonstrate that the Eagle Ford shale sample…&#10;Topics: Oil shale, Electrokinetic phenomena, Colloid, Zeta potential, Surface charge&#10;Venue: Energy &amp; Fuels&#10;Year: 2023&#10;Citations: 2</description>
+    </item>
+    <item>
+      <title>Experimental simulation of organic matter transformation processes in source rocks from Bazhenov Formation (Russia, West Siberia)</title>
+      <link>https://doi.org/10.1190/image2023-3910416.1</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4389721692</guid>
+      <dc:creator>Dina Gafurova, Abduljamiu O. Amao, A. G. Kalmykov, Khalid Al–Ramadan</dc:creator>
+      <category>Maturity (psychological)</category>
+      <category>Source rock</category>
+      <category>Geology</category>
+      <category>Scope (computer science)</category>
+      <category>Cracking</category>
+      <description>Abstract: Recent experiments showed that the volume of releasing hydrocarbons is primarily controlled by a series of parameters, such as organic matter maturity, its nature and distribution in the rock volume, as well as the rocks composition and structure. The main scope of the study is to understand the process of pore space formation, by simulation of physical processes. The modelling of natural and experimental cracking mechanism in rocks could reveal the distinctions in different approaches as well as to make a prediction of potential cracking in oil shales.&#10;Topics: Maturity (psychological), Source rock, Geology, Scope (computer science), Cracking&#10;Year: 2023&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Mineralogy and Geochemistry of the Paleocene-Eocene Palana Formation in Western Rajasthan, India: Insights for Sedimentary Paleoenvironmental Conations and Volcanic Activity</title>
+      <link>https://doi.org/10.20944/preprints202311.1550.v1</link>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4388960641</guid>
+      <dc:creator>Mohammed Hail Hakimi, Alok Kumar, Abdullah Alqubalee, Alok K. Singh, Mohammed Almobarky, Afikah Rahim, Mohammad Alqudah, Aref Lashin, Khairul Azlan Mustapha, Waqas Naseem</dc:creator>
+      <dc:publisher>Preprints.org</dc:publisher>
+      <category>Geology</category>
+      <category>Anoxic waters</category>
+      <category>Photic zone</category>
+      <category>Organic matter</category>
+      <category>Geochemistry</category>
+      <description>Abstract: Organic-rich shale deposits of the Paleocene-Eocene Palana Formation in western Rajasthan, India were systematically analyzed based on the elemental composition and organic geochemistry combined with microscopic examinations to evaluate the sedimentary paleoenvironmental conations and volcanic activity and their impact on the high organic carbon accumulation. The Palana shales are categorized by high OM and sulfur contents with total values up to 36.23 wt. % and 2.24 wt. %, respectively, suggesting marine setting and anoxic environmental conditions during the Paleocene-Eocene period. The richness of phytoplankton algae (i.e., telalginite and lamalginite) together with redox-sensitive trace elements further suggests anoxic environmental conditions. The significant low oxygen conditions may contributes to enhance preservation of organic matter during deposition. The mineralogical and inorganic geochemical indicators demonstrate that the Palana organic-rich shale facies was accumulated in warm and humid climate and low salinity stratification conditions of the water columns, thereby contributing to high bioproductivity of the phytoplankton algae blooms within the photic zone. The presence of the high concentrations of Fe-rich silica minerals such as olivine in most of the Palana organic-rich shales facility volcanic origin and supports hydrothermal activities during the Paleocene-Eocene period. These volcanic activities in this case are considered influx of large masses of nutri…&#10;Topics: Geology, Anoxic waters, Photic zone, Organic matter, Geochemistry&#10;Venue: Preprints.org&#10;Year: 2023&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Depositional and sequence stratigraphic controls on diagenesis in the Upper Cambrian-Lower Ordovician Barik Formation, central Oman: Implications for prediction of reservoir porosity in a hybrid-energy delta system</title>
+      <link>https://doi.org/10.1016/j.marpetgeo.2023.106611</link>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4388923668</guid>
+      <dc:creator>Mohamed A. K. El‐Ghali, Olga Shelukhina, İftikhar Ahmed Abbasi, Mohamed S. H. Moustafa, Osman Salad Hersi, Numair Ahmed Siddiqui, Khalid Al–Ramadan, Abdullah Alqubalee, Abdulwahab Muhammad Bello, Abduljamiu O. Amao</dc:creator>
+      <dc:publisher>Marine and Petroleum Geology</dc:publisher>
+      <category>Geology</category>
+      <category>Diagenesis</category>
+      <category>Arenite</category>
+      <category>Cementation (geology)</category>
+      <category>Sedimentary depositional environment</category>
+      <description>Topics: Geology, Diagenesis, Arenite, Cementation (geology), Sedimentary depositional environment&#10;Venue: Marine and Petroleum Geology&#10;Year: 2023&#10;Citations: 27</description>
+    </item>
+    <item>
+      <title>Characteristics, distribution, and origin of ferruginous deposits within the Late Ordovician glaciogenic setting of Arabia</title>
+      <link>https://doi.org/10.1038/s41598-023-45563-9</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4387996609</guid>
+      <dc:creator>Abdullah Alqubalee, Anas Muhammad Salisu, Abdulwahab Muhammad Bello, Abdulkarim Al-Hussaini, Khalid Al–Ramadan</dc:creator>
+      <dc:publisher>Scientific Reports</dc:publisher>
+      <category>Geology</category>
+      <category>Sedimentary depositional environment</category>
+      <category>Facies</category>
+      <category>Geochemistry</category>
+      <category>Petrography</category>
+      <description>Topics: Geology, Sedimentary depositional environment, Facies, Geochemistry, Petrography&#10;Venue: Scientific Reports&#10;Year: 2023&#10;Citations: 6</description>
+    </item>
+    <item>
+      <title>Impact of kaolinite and iron oxide cements on resistivity and quality of low resistivity pay sandstones</title>
+      <link>https://doi.org/10.1016/j.marpetgeo.2023.106568</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4388205616</guid>
+      <dc:creator>Anas Muhammad Salisu, Abdullah Alqubalee, Abdulwahab Muhammad Bello, Abdulkarim Al-Hussaini, Abdulrauf R. Adebayo, Abduljamiu O. Amao, Khalid Al–Ramadan</dc:creator>
+      <dc:publisher>Marine and Petroleum Geology</dc:publisher>
+      <category>Electrical resistivity and conductivity</category>
+      <category>Geology</category>
+      <category>Kaolinite</category>
+      <category>Mineralogy</category>
+      <category>Geochemistry</category>
+      <description>Topics: Electrical resistivity and conductivity, Geology, Kaolinite, Mineralogy, Geochemistry&#10;Venue: Marine and Petroleum Geology&#10;Year: 2023&#10;Citations: 19</description>
+    </item>
+    <item>
+      <title>Depositional and diagenetic controls on the reservoir quality of Early Miocene syn-rift deep-marine sandstones, NW Saudi Arabia</title>
+      <link>https://doi.org/10.1016/j.jseaes.2023.105880</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4387760936</guid>
+      <dc:creator>Muhammad Naveed Butt, Stephen G. Franks, Arif Hussain, Abduljamiu O. Amao, Abdulwahab Muhammad Bello, Khalid Al–Ramadan</dc:creator>
+      <dc:publisher>Journal of Asian Earth Sciences</dc:publisher>
+      <category>Geology</category>
+      <category>Diagenesis</category>
+      <category>Facies</category>
+      <category>Sedimentary depositional environment</category>
+      <category>Conglomerate</category>
+      <description>Topics: Geology, Diagenesis, Facies, Sedimentary depositional environment, Conglomerate&#10;Venue: Journal of Asian Earth Sciences&#10;Year: 2023&#10;Citations: 18</description>
+    </item>
+    <item>
+      <title>Delineation of aquifer systems and aquifer vulnerability using geoelectrical parameters: A case study of Ashaka cement factory</title>
+      <link>https://doi.org/10.1016/j.rines.2023.100003</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4386865693</guid>
+      <dc:creator>Ibrahim Abdulkarim Kwami, Ahmad Isah Haruna, Shehu Mukkafa, Abubakar Sadiq Maigari, Abdulwahab Muhammad Bello, Musa Bappah Usman, A.D. Umar, I.O. Justus, Alishba Sadiq, Muhammad Umar</dc:creator>
+      <dc:publisher>Results in Earth Sciences</dc:publisher>
+      <category>Aquifer</category>
+      <category>Geology</category>
+      <category>Lithology</category>
+      <category>Hydraulic conductivity</category>
+      <category>Borehole</category>
+      <description>Abstract: The rapid growth of population in the sub-Sahara Africa, coupled with increasing industrial activities leads to greater demand for safe water for domestic use. Thus, aquifer system and vulnerability studies is of paramount important and a responsibilities of current researchers. This study intends to delineate aquifer systems and aquifer vulnerability using geoelectrical parameters around Ashaka cement industry. The Ashaka area is part of the Gongola Sub-basin of the Upper Benue Trough that include sandstone, shale, and limestone. The oldest stratigraphic units is Bima Formation which occurs on the floor and is overlain by Pindiga Formation. To delineate the aquifer systems and evaluate the vulnerability of aquifers around the research location, 35 Vertical Electrical soundings were undertaken. The Vertical Electrical Soundings measurements results suggests a maximum of five geo electrical layers which indicates that the aquiferours layer lies between fourth to fifth layers. The transmissivity values ranges from moderate (110.137 m2/day) to high (893.57 m2/day) potentials and the hydraulic conductivity ranges between 4.551 m/day and 29.789 m/day with an average of 17.650 m/day. Correlation of borehole lithology with the interpreted lithologies from the VES revealed that the aquifer systems are unconfined to semi-confined, consisting of sandstone and weathered limestone of various thicknesses. Longitudinal conductance was computed to evaluate the aquifer vulnerability which sh…&#10;Topics: Aquifer, Geology, Lithology, Hydraulic conductivity, Borehole&#10;Venue: Results in Earth Sciences&#10;Year: 2023&#10;Citations: 8</description>
+    </item>
+    <item>
+      <title>A tale of two Arabian Cenozoic ooids: Factors controlling the differential growth of ooids across the Arabian Plate</title>
+      <link>https://doi.org/10.1016/j.jafrearsci.2023.105046</link>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4386575067</guid>
+      <dc:creator>Ardiansyah Koeshidayatullah, Abduljamiu O. Amao, Adhipa Herlambang, Khalid Al–Ramadan</dc:creator>
+      <dc:publisher>Journal of African Earth Sciences</dc:publisher>
+      <category>Ooid</category>
+      <category>Geology</category>
+      <category>Paleontology</category>
+      <category>Cenozoic</category>
+      <category>Holocene</category>
+      <description>Topics: Ooid, Geology, Paleontology, Cenozoic, Holocene&#10;Venue: Journal of African Earth Sciences&#10;Year: 2023&#10;Citations: 1</description>
+    </item>
+    <item>
+      <title>Metallogenic Setting and Temporal Evolution of Porphyry Cu-Mo Mineralization and Alteration in the Delamerian Orogen, South Australia: Insights From Zircon U-Pb, Molybdenite Re-Os, and In Situ White Mica Rb-Sr Geochronology</title>
+      <link>https://doi.org/10.5382/econgeo.5012</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4386279642</guid>
+      <dc:creator>Wei Hong, Adrian Fabris, T. Wise, Alan S. Collins, Sarah Gilbert, David Selby, Stacey Curtis, Anthony Reid</dc:creator>
+      <dc:publisher>Economic Geology</dc:publisher>
+      <category>Molybdenite</category>
+      <category>Zircon</category>
+      <category>Geochemistry</category>
+      <category>Geology</category>
+      <category>Mineralization (soil science)</category>
+      <description>Abstract: Abstract Paleozoic porphyry-style hydrothermal alteration and mineralization has previously been recognized within the Delamerian orogen, South Australia, where porphyry prospects include Anabama Hill, Netley Hill, and Bendigo. However, limited exploration due in part to thick postmineralization cover hinders the understanding of the temporal context, metallogenic setting, and mineral potential of the porphyry systems along the Proterozoic continental margin of Australia. In this study, we have characterized the hydrothermal alteration and mineralization of these porphyry occurrences. Zircon U-Pb, molybdenite Re-Os, and white mica Rb-Sr ages have been determined to constrain the timing for emplacement of magmatic intrusions, precipitation of metal-bearing sulfides, and duration of hydrothermal alteration in the Delamerian orogenic belt. Zircon U-Pb laser ablation-inductively coupled plasma-mass spectrometry (LA-ICP-MS) analyses of nine granitoids reveal that the intrusive rocks were emplaced mostly between 485 and 465 Ma, whereas three intrusions at Bendigo have zircon U-Pb ages of 490 to 480 Ma. Molybdenite isotope dilution-negative thermal ion mass spectrometry (ID-NTIMS) Re-Os dating of the four prospects identifies two porphyry Cu-Mo mineralization events at 480 and 470 to 460 Ma, respectively. Nineteen white mica Rb-Sr LA-ICP-MS/MS (tandem mass spectrometers) analyses return an age range between 455 and 435 Ma for phyllic alteration at the Anabama Hill and Netley Hill pr…&#10;Topics: Molybdenite, Zircon, Geochemistry, Geology, Mineralization (soil science)&#10;Venue: Economic Geology&#10;Year: 2023&#10;Citations: 6</description>
+    </item>
+    <item>
+      <title>Earth&apos;s tectonic and plate boundary evolution over 1.8 billion years</title>
+      <link>https://doi.org/10.31223/x5cw96</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4386089920</guid>
+      <dc:creator>Xianzhi Cao, Alan S. Collins, Sergei Pisarevsky, Nicolas Flament, Sanzhong Li, Derrick Hasterok, R. Dietmar Müller</dc:creator>
+      <category>Supercontinent</category>
+      <category>Rodinia</category>
+      <category>Plate tectonics</category>
+      <category>Geology</category>
+      <category>Gondwana</category>
+      <description>Abstract: Understanding the intricate relationships between the solid Earth and its surface systems in deep time necessitates comprehensive full-plate tectonic reconstructions that include evolving plate boundaries and oceanic plates. In particular, a tectonic reconstruction that spans multiple supercontinent cycles is important to understand the long-term evolution of Earth&apos;s interior, surface environments and mineral resources. Here we present a new full-plate tectonic reconstruction from 1.8 Ga to present that combines and refines three published models: one full-plate tectonicmodel spanning 1 Ga to present, and two continental-drift models focused on the late Paleoproterozoic to Mesoproterozoic eras. Our model is constrained by geological and geophysical data, and presented as a relative plate motion model in a palaeomagnetic reference frame. The model encompasses three supercontinents, Nuna (Columbia),Rodinia, and Gondwana/Pangea, and more than two complete supercontinent cycles, covering ~40% of the Earth’s history. Our refinements to the base models are focussed on times before 1.0 Ga, with minor changes for the Neoproterozoic. For times between 1.8 Ga and 1.0 Ga, the root mean square speeds for all plates range between 4 and 10 cm/yr, and the net lithospheric rotation is below 0.9°/Myr, which are kinematically consistent with post-Pangean plate tectonic constraints. The time spans of the existence of Nuna and Rodinia are updated to between 1.6 Ga (1.65 Ga in the base model) and…&#10;Topics: Supercontinent, Rodinia, Plate tectonics, Geology, Gondwana&#10;Year: 2023&#10;Citations: 3</description>
     </item>
   </channel>
 </rss>

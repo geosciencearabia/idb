@@ -11946,6 +11946,7572 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4235632935",
+    "doi": "https://doi.org/10.31223/osf.io/x46vc",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5044168243",
+      "A5073201023",
+      "A5047873001",
+      "A5090122630",
+      "A5001633563",
+      "A5024022389",
+      "A5004188350",
+      "A5037801456"
+    ],
+    "firstAuthorLastName": "Armistead",
+    "allAuthors": [
+      "Sheree Armistead",
+      "Alan S. Collins",
+      "Ahmad Redaa",
+      "Gilby Jepson",
+      "Jack Gillespie",
+      "Sarah Gilbert",
+      "Morgan Blades",
+      "John Foden",
+      "Theodore Razakamanana"
+    ],
+    "title": "Structural evolution and medium-temperature thermochronology of central Madagascar: implications for Gondwana amalgamation",
+    "publicationDate": "2019-01-07",
+    "year": 2019,
+    "venue": "",
+    "citations": 5,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geology and Paleoclimatology Research",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Geological Survey of Canada",
+      "Laurentian University",
+      "King Abdulaziz University",
+      "University of Arizona",
+      "Curtin University",
+      "University of Toliara"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4307897292",
+    "doi": "https://doi.org/10.1029/2022gc010559",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5090128717",
+      "A5057911678",
+      "A5090069519",
+      "A5032161414",
+      "A5001961127",
+      "A5022653889",
+      "A5056104477"
+    ],
+    "firstAuthorLastName": "Nixon",
+    "allAuthors": [
+      "Angus Nixon",
+      "Stijn Glorie",
+      "Nicholas Fernie",
+      "Martin Hand",
+      "Alexander T. De Vries Van Leeuwen",
+      "Alan S. Collins",
+      "Derrick Hasterok",
+      "Geoff Fraser"
+    ],
+    "title": "Intracontinental Fault Reactivation in High Heat Production Areas of Central Australia: Insights From Apatite Fission Track Thermochronology",
+    "publicationDate": "2022-10-31",
+    "year": 2022,
+    "venue": "Geochemistry Geophysics Geosystems",
+    "citations": 5,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "University of South Australia",
+      "Geoscience Australia"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4308732197",
+    "doi": "https://doi.org/10.1144/sp531-2022-162",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5077453916",
+      "A5044168243",
+      "A5004188350",
+      "A5003363361",
+      "A5004333485"
+    ],
+    "firstAuthorLastName": "Archibald",
+    "allAuthors": [
+      "Donnelly B. Archibald",
+      "Alan S. Collins",
+      "Sheree Armistead",
+      "John Foden",
+      "Justin L. Payne",
+      "Théodore Razakamanana"
+    ],
+    "title": "Zircon U–Pb, oxygen and hafnium isotopic characteristics of the Neoarchean–Paleoproterozoic Betsiboka Suite, Madagascar: tracing source to sink pathways in Proterozoic and Phanerozoic provenance studies",
+    "publicationDate": "2022-11-08",
+    "year": 2022,
+    "venue": "Geological Society London Special Publications",
+    "citations": 4,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "St. Francis Xavier University",
+      "University of Tasmania",
+      "University of South Australia",
+      "University of Toliara"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4388740406",
+    "doi": "https://doi.org/10.2139/ssrn.4635624",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5019411628",
+      "A5090128717",
+      "A5001633563",
+      "A5024022389",
+      "A5010761014",
+      "A5066504483",
+      "A5047567431"
+    ],
+    "firstAuthorLastName": "Subarkah",
+    "allAuthors": [
+      "Darwinaji Subarkah",
+      "Angus Nixon",
+      "Sarah Gilbert",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Alexander Simpson",
+      "Jarred Lloyd",
+      "Juraj Farkaš"
+    ],
+    "title": "Double Dating Sedimentary Sequences Using New Applications of In-Situ Laser Ablation Analysis",
+    "publicationDate": "2023-01-01",
+    "year": 2023,
+    "venue": "SSRN Electronic Journal",
+    "citations": 3,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "British Geological Survey"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4404711863",
+    "doi": "https://doi.org/10.1016/j.precamres.2024.107616",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5011916442",
+      "A5011312843",
+      "A5012615845"
+    ],
+    "firstAuthorLastName": "Soares",
+    "allAuthors": [
+      "Johann Soares",
+      "Rosalind King",
+      "Simon Holford",
+      "Alan S. Collins"
+    ],
+    "title": "Structural evolution of the resource-rich Proterozoic western greater McArthur Basin: A focus on the Daly Waters Fault Zone, northern Australia",
+    "publicationDate": "2024-11-26",
+    "year": 2024,
+    "venue": "Precambrian Research",
+    "citations": 2,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4411466226",
+    "doi": "https://doi.org/10.1016/j.precamres.2025.107869",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5044557317",
+      "A5047567431",
+      "A5063218145",
+      "A5043614434"
+    ],
+    "firstAuthorLastName": "Noorian",
+    "allAuthors": [
+      "Yaser Noorian",
+      "Juraj Farkaš",
+      "Alan S. Collins",
+      "Claudio Delle Piane",
+      "Tony Hall"
+    ],
+    "title": "Controls on organic-rich shale formation in the Mesoproterozoic Beetaloo Sub-basin, Northern Territory, Australia: insights from biogeochemistry and mineralogy",
+    "publicationDate": "2025-06-19",
+    "year": 2025,
+    "venue": "Precambrian Research",
+    "citations": 2,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2025585515",
+    "doi": "https://doi.org/10.1144/gsl.sp.2006.260.01.10",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5030180603",
+      "A5110347666",
+      "A5111931439"
+    ],
+    "firstAuthorLastName": "Danelian",
+    "allAuthors": [
+      "Taniel Danelian",
+      "Alastair H.F. Robertson",
+      "Alan S. Collins",
+      "André Poisson"
+    ],
+    "title": "Biochronology of Jurassic and Early Cretaceous radiolarites from the Lycian Mélange (SW Turkey) and implications for the evolution of the Northern Neotethyan ocean",
+    "publicationDate": "2006-01-01",
+    "year": 2006,
+    "venue": "Geological Society London Special Publications",
+    "citations": 11,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Sorbonne Université",
+      "University of Edinburgh",
+      "The University of Adelaide",
+      "Université Paris Cité",
+      "Université Paris-Sud"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2053378967",
+    "doi": "https://doi.org/10.1016/j.jsg.2006.01.005",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5002671147",
+      "A5013586007"
+    ],
+    "firstAuthorLastName": "Clark",
+    "allAuthors": [
+      "Chris Clark",
+      "Andreas Schmidt Mumm",
+      "Alan S. Collins"
+    ],
+    "title": "A coupled micro- and macrostructural approach to the analysis of fluid induced brecciation, Curnamona Province, South Australia",
+    "publicationDate": "2006-04-05",
+    "year": 2006,
+    "venue": "Journal of Structural Geology",
+    "citations": 10,
+    "topics": [
+      "earthquake and tectonic studies",
+      "Geological and Geochemical Analysis",
+      "Rock Mechanics and Modeling"
+    ],
+    "institutions": [
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2013259253",
+    "doi": "https://doi.org/10.1016/j.gr.2011.09.001",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5018060646",
+      "A5065024034",
+      "A5033825059"
+    ],
+    "firstAuthorLastName": "Tohver",
+    "allAuthors": [
+      "E. Tohver",
+      "Alan S. Collins",
+      "Marly Babinski",
+      "Ricardo I.F. Trindade"
+    ],
+    "title": "Assembling two easy pieces: the geology of western Gondwana and plate tectonic theory - An introduction to the special volume",
+    "publicationDate": "2011-09-17",
+    "year": 2011,
+    "venue": "Gondwana Research",
+    "citations": 8,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "The University of Western Australia",
+      "The University of Adelaide",
+      "Universidade de São Paulo",
+      "Museu de Astronomia e Ciências Afins"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2322187523",
+    "doi": "https://doi.org/10.1144/0016-76492010-008",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5015745455",
+      "A5011781531",
+      "A5051311923"
+    ],
+    "firstAuthorLastName": "McGee",
+    "allAuthors": [
+      "Ben McGee",
+      "David Giles",
+      "David E. Kelsey",
+      "Alan S. Collins"
+    ],
+    "title": "Protolith heterogeneity as a factor controlling the feedback between deformation, metamorphism and melting in a granulite-hosted gold deposit",
+    "publicationDate": "2010-10-19",
+    "year": 2010,
+    "venue": "Journal of the Geological Society",
+    "citations": 8,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4235545832",
+    "doi": "https://doi.org/10.31223/x56k7s",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5024022389",
+      "A5051523448",
+      "A5004188350"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Andrew Merdith",
+      "John Foden"
+    ],
+    "title": "Closure of the Proterozoic Mozambique Ocean was instigated by a late Tonian plate reorganization event",
+    "publicationDate": "2021-03-02",
+    "year": 2021,
+    "venue": "",
+    "citations": 5,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Centre National de la Recherche Scientifique",
+      "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
+      "Université Claude Bernard Lyon 1",
+      "École Normale Supérieure de Lyon"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2742401667",
+    "doi": "https://doi.org/10.17491/jgsi/2006/680202",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5103396638",
+      "A5059998115",
+      "A5113567621"
+    ],
+    "firstAuthorLastName": "Karkhanis",
+    "allAuthors": [
+      "Suresh N. Karkhanis",
+      "G. Parthasarathy",
+      "Alan S. Collins",
+      "T.R.K. Chetty"
+    ],
+    "title": "Natural Graphite from Neoproterozoic Psammitic Gneiss, Inanalo Mountain, Southern Madagascar",
+    "publicationDate": "2006-08-01",
+    "year": 2006,
+    "venue": "Journal of the Geological Society of India",
+    "citations": 4,
+    "topics": [
+      "Clay minerals and soil interactions",
+      "Polymer Nanocomposites and Properties",
+      "Graphite, nuclear technology, radiation studies"
+    ],
+    "institutions": [
+      "National Geophysical Research Institute",
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4220654480",
+    "doi": "https://doi.org/10.31223/x50g9n",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5066504483",
+      "A5072138858",
+      "A5089532212",
+      "A5024022389",
+      "A5057807377",
+      "A5060603963"
+    ],
+    "firstAuthorLastName": "Lloyd",
+    "allAuthors": [
+      "Jarred Lloyd",
+      "W.V. Preiss",
+      "Alan S. Collins",
+      "Georgina Virgo",
+      "Morgan Blades",
+      "Sarah C. Gilbert",
+      "Kathryn Amos"
+    ],
+    "title": "Geochronology and formal stratigraphy of the Sturtian Glaciation in the Adelaide Superbasin",
+    "publicationDate": "2022-03-24",
+    "year": 2022,
+    "venue": "",
+    "citations": 3,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Polar Research and Ecology",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4280654126",
+    "doi": "https://doi.org/10.31223/x5s92d",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5067737483",
+      "A5040267151",
+      "A5024022389",
+      "A5073636321",
+      "A5100453363",
+      "A5047567431",
+      "A5103376172",
+      "A5034043583",
+      "A5033161682",
+      "A5066324594"
+    ],
+    "firstAuthorLastName": "Cox",
+    "allAuthors": [
+      "Grant M. Cox",
+      "Alan S. Collins",
+      "A.J.M. Jarrett",
+      "Morgan Blades",
+      "April Shannon",
+      "Bo Yang",
+      "Juraj Farkaš",
+      "Phillip Hall",
+      "Brendan J. O’Hara",
+      "David M. Close",
+      "Elizabeth T. Baruch"
+    ],
+    "title": "A very unconventional hydrocarbon play: the Mesoproterozoic Velkerri Formation of Northern Australia",
+    "publicationDate": "2022-05-16",
+    "year": 2022,
+    "venue": "",
+    "citations": 3,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Geoscience Australia",
+      "Origin Energy (Australia)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4386089920",
+    "doi": "https://doi.org/10.31223/x5cw96",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5006928995",
+      "A5110038075",
+      "A5038326726",
+      "A5041468811",
+      "A5022653889",
+      "A5042746575"
+    ],
+    "firstAuthorLastName": "Cao",
+    "allAuthors": [
+      "Xianzhi Cao",
+      "Alan S. Collins",
+      "Sergei Pisarevsky",
+      "Nicolas Flament",
+      "Sanzhong Li",
+      "Derrick Hasterok",
+      "R. Dietmar Müller"
+    ],
+    "title": "Earth's tectonic and plate boundary evolution over 1.8 billion years",
+    "publicationDate": "2023-08-23",
+    "year": 2023,
+    "venue": "",
+    "citations": 3,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geomagnetism and Paleomagnetism Studies",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "The University of Sydney"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2090204781",
+    "doi": "https://doi.org/10.1016/s1342-937x(05)70672-9",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins"
+    ],
+    "title": "The Tectonic Architecture of Central Madagascar: Implication on the Evolution of the East African Orogeny",
+    "publicationDate": "2001-04-01",
+    "year": 2001,
+    "venue": "Gondwana Research",
+    "citations": 12,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies Worldwide"
+    ],
+    "institutions": [
+      "Curtin University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4253095169",
+    "doi": "https://doi.org/10.1002/(sici)1099-1034(199901/06)34:1/2<107::aid-gj817>3.3.co;2-c",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5048940107"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins",
+      "Alastair H. F. Robertson"
+    ],
+    "title": "Evolution of the Lycian Allochthon, western Turkey, as a north‐facing Late Palaeozoic to Mesozoic rift and passive continental margin",
+    "publicationDate": "1999-01-01",
+    "year": 1999,
+    "venue": "Geological Journal",
+    "citations": 5,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "University of Edinburgh"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3142383893",
+    "doi": "https://doi.org/10.1080/08120099.2021.1890639",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5043614434",
+      "A5001288080",
+      "A5043756168",
+      "A5017216672"
+    ],
+    "firstAuthorLastName": "Hall",
+    "allAuthors": [
+      "Tony Hall",
+      "David M. McKirdy",
+      "Galen P. Halverson",
+      "J. B. Jago",
+      "Alan S. Collins"
+    ],
+    "title": "Biogeochemical status of the Paleo-Pacific Ocean: clues from the early Cambrian of South Australia",
+    "publicationDate": "2021-03-28",
+    "year": 2021,
+    "venue": "Australian Journal of Earth Sciences",
+    "citations": 4,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geochemistry and Elemental Analysis",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "University of South Australia"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4243208837",
+    "doi": "https://doi.org/10.31223/osf.io/mgpf4",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5044168243",
+      "A5082680064",
+      "A5064904455"
+    ],
+    "firstAuthorLastName": "Armistead",
+    "allAuthors": [
+      "Sheree Armistead",
+      "Alan S. Collins",
+      "Solomon Buckman",
+      "Rachel M. Atkins"
+    ],
+    "title": "Age and geochemistry of the Boucaut Volcanics in the Neoproterozoic Adelaide Rift Complex, South Australia",
+    "publicationDate": "2020-07-09",
+    "year": 2020,
+    "venue": "",
+    "citations": 4,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Geological Survey of Canada",
+      "Laurentian University",
+      "University of Wollongong"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3048915660",
+    "doi": "https://doi.org/10.1002/essoar.10503959.1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5044168243",
+      "A5060932213",
+      "A5023895706",
+      "A5044567678",
+      "A5004333485",
+      "A5003363361",
+      "A5004188350"
+    ],
+    "firstAuthorLastName": "Armistead",
+    "allAuthors": [
+      "Sheree Armistead",
+      "Alan S. Collins",
+      "Renata da Silva Schmitt",
+      "Raisa Costa",
+      "Bert De Waele",
+      "Théodore Razakamanana",
+      "Justin L. Payne",
+      "John Foden"
+    ],
+    "title": "Proterozoic basin evolution and tectonic geography of Madagascar during the Nuna/Columbia Supercontinent",
+    "publicationDate": "2020-08-12",
+    "year": 2020,
+    "venue": "",
+    "citations": 3,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geological formations and processes",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Geological Survey of Canada",
+      "Laurentian University",
+      "The University of Adelaide",
+      "Universidade Federal do Rio de Janeiro",
+      "University of Toliara",
+      "University of South Australia"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4200331932",
+    "doi": "https://doi.org/10.5194/gchron-3-545-2021",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5072486753",
+      "A5054756549",
+      "A5011312843"
+    ],
+    "firstAuthorLastName": "Richards",
+    "allAuthors": [
+      "Lachlan Richards",
+      "Fred Jourdan",
+      "Alan S. Collins",
+      "Rosalind King"
+    ],
+    "title": "Deformation recorded in polyhalite from evaporite detachments revealed by <sup>40</sup> Ar ∕  <sup>39</sup> Ar dating",
+    "publicationDate": "2021-12-13",
+    "year": 2021,
+    "venue": "Geochronology",
+    "citations": 2,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geology and Paleoclimatology Research",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Curtin University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4405177212",
+    "doi": "https://doi.org/10.1080/08120099.2024.2427102",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5109058462",
+      "A5024022389"
+    ],
+    "firstAuthorLastName": "Khanna",
+    "allAuthors": [
+      "Achal Khanna",
+      "Morgan Blades",
+      "Alan S. Collins"
+    ],
+    "title": "The Wattie Group of the Birrindudu Basin, northern Australia: a witness to the denudation of the Nuna-forming Isan/Chewings Orogeny",
+    "publicationDate": "2024-12-09",
+    "year": 2024,
+    "venue": "Australian Journal of Earth Sciences",
+    "citations": 2,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4403134328",
+    "doi": "https://doi.org/10.55575/tektonika2024.2.2.65",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5066504483",
+      "A5024022389",
+      "A5001633563",
+      "A5043271710",
+      "A5060603963"
+    ],
+    "firstAuthorLastName": "Lloyd",
+    "allAuthors": [
+      "Jarred Lloyd",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Sarah Gilbert",
+      "Jacob A. Mulder",
+      "Kathryn Amos"
+    ],
+    "title": "Mid- to Late Neoproterozoic Development and Provenance of the Adelaide Superbasin",
+    "publicationDate": "2024-01-01",
+    "year": 2024,
+    "venue": "Tektonika",
+    "citations": 1,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4407905835",
+    "doi": "https://doi.org/10.1144/sp550-2024-59",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5027133412",
+      "A5057218060",
+      "A5009254056",
+      "A5063046891"
+    ],
+    "firstAuthorLastName": "Rasaona",
+    "allAuthors": [
+      "Imboarina T. Rasaona",
+      "L. Edwards",
+      "Alan S. Collins",
+      "Amos Fety Michel Rakotondrazafy",
+      "Wilfried Bauer"
+    ],
+    "title": "The Betsiaka Group in northern Madagascar: a palaeoproterozoic terrane along the northern margin of the Bemarivo Domain",
+    "publicationDate": "2025-02-24",
+    "year": 2025,
+    "venue": "Geological Society London Special Publications",
+    "citations": 1,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Paleontology and Evolutionary Biology",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "German University of Technology",
+      "The University of Adelaide",
+      "Laboratoire de Mathématiques d'Orsay",
+      "University of Antananarivo"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4411195411",
+    "doi": "https://doi.org/10.1016/j.precamres.2025.107851",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5010409030",
+      "A5047567431",
+      "A5001633563",
+      "A5049260361",
+      "A5089879286",
+      "A5034819594",
+      "A5086493697",
+      "A5023085486",
+      "A5073201023",
+      "A5024022389",
+      "A5019411628",
+      "A5015701755",
+      "A5048008981",
+      "A5003452705",
+      "A5073130700"
+    ],
+    "firstAuthorLastName": "Loyola",
+    "allAuthors": [
+      "Cecilia Loyola",
+      "Juraj Farkaš",
+      "Alan S. Collins",
+      "Sarah Gilbert",
+      "Charles Verdel",
+      "Stefan Löhr",
+      "Glenn A. Brock",
+      "Graham A. Shields",
+      "Andre Baldermann",
+      "Ahmad Redaa",
+      "Morgan Blades",
+      "Darwinaji Subarkah",
+      "Caleb Bishop",
+      "Sarah Giles",
+      "Nicholas Christie‐Blick",
+      "Peter Haines"
+    ],
+    "title": "In situ Rb–Sr dating and REE analysis of glauconites and detrital feldspars from the Ediacaran/Cambrian strata: Centralian and Adelaide Superbasins, Australia",
+    "publicationDate": "2025-06-11",
+    "year": 2025,
+    "venue": "Precambrian Research",
+    "citations": 1,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2013467572",
+    "doi": "https://doi.org/10.1016/s1342-937x(05)70272-0",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5069826985",
+      "A5111850139",
+      "A5006319293",
+      "A5108424379",
+      "A5050298271",
+      "A5004333485"
+    ],
+    "firstAuthorLastName": "Kröner",
+    "allAuthors": [
+      "Alfred Kröner",
+      "Brian F. Windley",
+      "P. Jaecke",
+      "Alan S. Collins",
+      "T. S. Brewer",
+      "A. A. Nemchin",
+      "Théodore Razakamanana"
+    ],
+    "title": "New Zircon Ages for Precambrian Granites, Gneisses and Granulites from Central and Southern Madagascar: Significance for Correlations in East Gondwana",
+    "publicationDate": "1999-07-01",
+    "year": 1999,
+    "venue": "Gondwana Research",
+    "citations": 20,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "Johannes Gutenberg University Mainz",
+      "University of Leicester",
+      "Max Planck Institute for Chemistry",
+      "Curtin University",
+      "University of Toliara"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2095998101",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5113387562",
+      "A5022665336",
+      "A5075859960",
+      "A5051352780",
+      "A5004866626"
+    ],
+    "firstAuthorLastName": "Kakar",
+    "allAuthors": [
+      "Muhammad Ishaq Kakar",
+      "Khalid Mahmood",
+      "Andrew C. Kerr",
+      "Alan S. Collins",
+      "M. Tahir Shah",
+      "Aimal Khan Kasi"
+    ],
+    "title": "Geochemistry and petrogenesis of the volcanic rocks from Bagh complex, northern Balochistan, Pakistan",
+    "publicationDate": "2012-01-01",
+    "year": 2012,
+    "venue": "Spectrum Research Repository (Concordia University)",
+    "citations": 5,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W1997168774",
+    "doi": "https://doi.org/10.1111/j.1755-6724.2012.00610.x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5112280139",
+      "A5009944961",
+      "A5081201473"
+    ],
+    "firstAuthorLastName": "Badr",
+    "allAuthors": [
+      "M Jamshidi Badr",
+      "Fariborz Masoudi",
+      "Alan S. Collins",
+      "Ali Sorbi"
+    ],
+    "title": "Mineralogical Evidence for Regional Metamorphism Overprinted by Contact Metamorphism",
+    "publicationDate": "2012-02-01",
+    "year": 2012,
+    "venue": "Acta Geologica Sinica - English Edition",
+    "citations": 4,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "Payame Noor University",
+      "Shahid Beheshti University",
+      "The University of Adelaide",
+      "Islamic Azad University, Karaj"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2034899063",
+    "doi": "https://doi.org/10.1016/s1342-937x(05)70465-2",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5069826985",
+      "A5034668230",
+      "A5090220489",
+      "A5056017293",
+      "A5041530921"
+    ],
+    "firstAuthorLastName": "Kröner",
+    "allAuthors": [
+      "Alfred Kröner",
+      "Alan S. Collins",
+      "E. Hegner",
+      "S. Muhongo",
+      "Arne P. Willner",
+      "K.V. Wilbert Kehelpannala"
+    ],
+    "title": "Has the East African Orogen Played Any Role in the Formation and Breakup of the Supercontinent Rodinia and the Amalgamation of Gondwana? New Evidence from Field Relationship and Isotopic Data",
+    "publicationDate": "2001-10-01",
+    "year": 2001,
+    "venue": "Gondwana Research",
+    "citations": 4,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "High-pressure geophysics and materials"
+    ],
+    "institutions": [
+      "Johannes Gutenberg University Mainz",
+      "Curtin University",
+      "University of Dar es Salaam",
+      "Ruhr University Bochum",
+      "National Institute of Fundamental Studies"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2793661267",
+    "doi": "https://doi.org/10.1071/aseg2018abw9_3c",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5047567431",
+      "A5044298532",
+      "A5067737483",
+      "A5021513703",
+      "A5079957257",
+      "A5071472151",
+      "A5007174492"
+    ],
+    "firstAuthorLastName": "Farkaš",
+    "allAuthors": [
+      "Juraj Farkaš",
+      "Maxwell M. Bullen",
+      "Grant M. Cox",
+      "Alan S. Collins",
+      "William M. Giuliano",
+      "Sandra Menpes",
+      "Juergen Gusterhuber",
+      "Belinda Smith"
+    ],
+    "title": "Isotope Constraints on Intra-Basin Correlation and Depositional Settings of the Mid-Proterozoic Carbonates and Organic-Rich Shales in the Greater McArthur Basin, Northern Territory, Australia",
+    "publicationDate": "2018-02-28",
+    "year": 2018,
+    "venue": "ASEG Extended Abstracts",
+    "citations": 4,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Methane Hydrates and Related Phenomena",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Geological Survey Department"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2117295580",
+    "doi": "https://doi.org/10.1071/aseg2006ab027",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5034246104",
+      "A5069920487",
+      "A5032161414",
+      "A5097668725",
+      "A5010251200",
+      "A5044165080",
+      "A5110126443"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins",
+      "M. Santosh",
+      "Louise Kropinski",
+      "Martin Hand",
+      "Clark Chris",
+      "K. Saieev",
+      "Stacey McKenzie",
+      "Peter D. Kinny"
+    ],
+    "title": "The Mozambique Ocean Suture in Southern India: Age and Significance of Granulites in the Palghat-Cauvery Shear Zone System",
+    "publicationDate": "2006-12-01",
+    "year": 2006,
+    "venue": "ASEG Extended Abstracts",
+    "citations": 3,
+    "topics": [
+      "Geological formations and processes",
+      "Geological Formations and Processes Exploration",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Akebono (Japan)",
+      "Kōchi University",
+      "Curtin University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3025986585",
+    "doi": "https://doi.org/10.1071/aj19118",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5040267151",
+      "A5112530801",
+      "A5031228808",
+      "A5013478318",
+      "A5103642290",
+      "A5073636321",
+      "A5068273780",
+      "A5077043211",
+      "A5017189049",
+      "A5073106035",
+      "A5110916147",
+      "A5021231680",
+      "A5088519187"
+    ],
+    "firstAuthorLastName": "Jarrett",
+    "allAuthors": [
+      "A.J.M. Jarrett",
+      "Adam E. H. Bailey",
+      "Christopher J. Boreham",
+      "Tehani Palu",
+      "Lisa Hall",
+      "April Shannon",
+      "Alan S. Collins",
+      "Galina Vinnichenko",
+      "Jochen J. Brocks",
+      "Zhongsheng Li",
+      "Tim J. Munson",
+      "Sally Edwards",
+      "Lidena Carr",
+      "Paul Henson"
+    ],
+    "title": "A geochemical investigation into the resource potential of the Lawn Hill Platform, northern Australia",
+    "publicationDate": "2020-05-15",
+    "year": 2020,
+    "venue": "The APPEA Journal",
+    "citations": 3,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geophysical Studies",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": [
+      "Geoscience Australia",
+      "The University of Adelaide",
+      "Australian National University",
+      "Commonwealth Scientific and Industrial Research Organisation",
+      "Northern Territory Geological Survey",
+      "Government of the Northern Territory",
+      "Geological Survey of Western Australia"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1538644570",
+    "doi": "https://doi.org/10.18814/epiiugs/2013/v36i3/005",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5077566641",
+      "A5071005837",
+      "A5100739023",
+      "A5069826985",
+      "A5048462822",
+      "A5038346415"
+    ],
+    "firstAuthorLastName": "Safonova",
+    "allAuthors": [
+      "Inna Safonova",
+      "Reimar Seltmann",
+      "Min Sun",
+      "Alfred Kröner",
+      "E. V. Kislov",
+      "В. П. Ковач",
+      "Alan S. Collins"
+    ],
+    "title": "Continental Construction in Central Asia (IGCP-592): Scientific Results and Meetings in 2012",
+    "publicationDate": "2013-09-01",
+    "year": 2013,
+    "venue": "Episodes",
+    "citations": 2,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geological Studies and Exploration",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "Russian Academy of Sciences",
+      "Natural History Museum",
+      "University of Hong Kong",
+      "Johannes Gutenberg University Mainz",
+      "Geological Institute",
+      "Institute of Precambrian Geology and Geochronology",
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3179264689",
+    "doi": "https://doi.org/10.5194/gchron-2021-16",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5072486753",
+      "A5054756549",
+      "A5011312843"
+    ],
+    "firstAuthorLastName": "Richards",
+    "allAuthors": [
+      "Lachlan Richards",
+      "Fred Jourdan",
+      "Alan S. Collins",
+      "Rosalind King"
+    ],
+    "title": "Deformation recorded in polyhalite from evaporite detachments revealed by <sup>40</sup> Ar/ <sup>39</sup> Ar dating",
+    "publicationDate": "2021-05-28",
+    "year": 2021,
+    "venue": "",
+    "citations": 2,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Curtin University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2332198941",
+    "doi": "https://doi.org/10.1190/ice2015-2210784",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5035215595",
+      "A5000343935",
+      "A5011312843",
+      "A5084273448"
+    ],
+    "firstAuthorLastName": "Arboit",
+    "allAuthors": [
+      "Francesco Arboit",
+      "Khalid Amrouch",
+      "Alan S. Collins",
+      "Rosalind King",
+      "C.K. Morley"
+    ],
+    "title": "Determination of Stress and Strain Evolution From Faults and Calcite Twins on the Western Margin of the Indochina Block",
+    "publicationDate": "2015-09-16",
+    "year": 2015,
+    "venue": "International Conference and Exhibition, Melbourne, Australia 13-16 September 2015",
+    "citations": 1,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "earthquake and tectonic studies",
+      "Geotechnical and Geomechanical Engineering"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "UCL Australia",
+      "Chiang Mai University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3080179469",
+    "doi": "https://doi.org/10.5194/egusphere-egu2020-3184",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5066504483",
+      "A5024022389",
+      "A5014308365",
+      "A5060603963",
+      "A5079379016",
+      "A5027800100",
+      "A5103931603",
+      "A5080580201",
+      "A5045941951",
+      "A5112558625"
+    ],
+    "firstAuthorLastName": "Lloyd",
+    "allAuthors": [
+      "Jarred Lloyd",
+      "Morgan Blades",
+      "John W. Counts",
+      "Alan S. Collins",
+      "Kathryn Amos",
+      "James Hall",
+      "Stephen Hore",
+      "Benjamin P. Wade",
+      "Ashleigh Job",
+      "Sameh Shahin",
+      "Matthew Drabsch"
+    ],
+    "title": "The State-of-play of geochronology and provenance in the Neoproterozoic Adelaide Rift Complex",
+    "publicationDate": "2020-03-09",
+    "year": 2020,
+    "venue": "",
+    "citations": 1,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "UCL Australia",
+      "University College Dublin",
+      "Geological Survey of Western Australia"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W337725462",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5035239523",
+      "A5022010176",
+      "A5034256027",
+      "A5037863930",
+      "A5061373922"
+    ],
+    "firstAuthorLastName": "Signorella",
+    "allAuthors": [
+      "Julia D. Signorella",
+      "Andrew deWet",
+      "J. E. Bleacher",
+      "Alan S. Collins",
+      "Z. Schierl",
+      "B. Schwans"
+    ],
+    "title": "Volcanic or Fluvial Channels on Ascraeus Mons: Focus on the Source Area of Sinuous Channels on the Southeast Rift Apron",
+    "publicationDate": "2012-03-19",
+    "year": 2012,
+    "venue": "43rd Lunar and Planetary Science Conference",
+    "citations": 1,
+    "topics": [
+      "Astro and Planetary Science",
+      "Planetary Science and Exploration",
+      "Marine and environmental studies"
+    ],
+    "institutions": [
+      "Franklin & Marshall College",
+      "Goddard Space Flight Center",
+      "College of Wooster",
+      "Whitman College",
+      "Trinity University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4221131347",
+    "doi": "https://doi.org/10.31223/x5n63h",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5066504483",
+      "A5024022389",
+      "A5057807377",
+      "A5060603963"
+    ],
+    "firstAuthorLastName": "Lloyd",
+    "allAuthors": [
+      "Jarred Lloyd",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Sarah C. Gilbert",
+      "Kathryn Amos"
+    ],
+    "title": "Late Tonian development and provenance of the Adelaide Superbasin",
+    "publicationDate": "2022-03-22",
+    "year": 2022,
+    "venue": "",
+    "citations": 1,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4234768227",
+    "doi": "https://doi.org/10.1007/s00531-013-0865-9",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5024390412"
+    ],
+    "firstAuthorLastName": "Sen",
+    "allAuthors": [
+      "Koushik Sen",
+      "Alan S. Collins"
+    ],
+    "title": "Reply to comment on “Dextral transpression and late-Eocene magmatism in the trans-Himalayan Ladakh Batholith (North India): implications for tectono-magmatic evolution of the Indo-Eurasian collisional arc”",
+    "publicationDate": "2013-02-17",
+    "year": 2013,
+    "venue": "International Journal of Earth Sciences",
+    "citations": 1,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "Wadia Institute of Himalayan Geology",
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4235384198",
+    "doi": "https://doi.org/10.1016/j.jsg.2014.03.007",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5024390412",
+      "A5003653150"
+    ],
+    "firstAuthorLastName": "Sen",
+    "allAuthors": [
+      "Koushik Sen",
+      "Barun K. Mukherjee",
+      "Alan S. Collins"
+    ],
+    "title": "Reply to comment on “Interplay of deformation and magmatism in the Pangong Transpressional Zone, Eastern Ladakh, India: Implications for remobilization of the trans-Himalayan magmatic arc and initiation of the Karakoram Fault”",
+    "publicationDate": "2014-04-03",
+    "year": 2014,
+    "venue": "Journal of Structural Geology",
+    "citations": 1,
+    "topics": [
+      "earthquake and tectonic studies",
+      "Geological and Geochemical Analysis",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Wadia Institute of Himalayan Geology",
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4248047243",
+    "doi": "https://doi.org/10.31223/osf.io/btahm",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5044168243",
+      "A5051523448",
+      "A5003363361",
+      "A5067737483",
+      "A5004188350",
+      "A5037801456",
+      "A5044567678"
+    ],
+    "firstAuthorLastName": "Armistead",
+    "allAuthors": [
+      "Sheree Armistead",
+      "Alan S. Collins",
+      "Andrew Merdith",
+      "Justin L. Payne",
+      "Grant M. Cox",
+      "John Foden",
+      "Theodore Razakamanana",
+      "Bert De Waele"
+    ],
+    "title": "Evolving marginal terranes during Neoproterozoic supercontinent reorganisation: constraints from the Bemarivo Domain in northern Madagascar",
+    "publicationDate": "2018-11-30",
+    "year": 2018,
+    "venue": "",
+    "citations": 1,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
+      "Université Claude Bernard Lyon 1",
+      "University of South Australia",
+      "University of Toliara",
+      "Curtin University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4248420114",
+    "doi": "https://doi.org/10.31223/osf.io/3mjc2",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5066504483",
+      "A5024022389",
+      "A5014308365",
+      "A5060603963",
+      "A5104033695",
+      "A5071289544",
+      "A5027800100",
+      "A5001881816",
+      "A5045941951"
+    ],
+    "firstAuthorLastName": "Lloyd",
+    "allAuthors": [
+      "Jarred Lloyd",
+      "Morgan Blades",
+      "John W. Counts",
+      "Alan S. Collins",
+      "Kathryn Amos",
+      "Ben Wade",
+      "Jim W. Hall",
+      "Stephen Hore",
+      "A. Murray Ball",
+      "Sameh Shahin"
+    ],
+    "title": "Neoproterozoic Geochronology and Provenance of the Adelaide Superbasin",
+    "publicationDate": "2020-07-08",
+    "year": 2020,
+    "venue": "",
+    "citations": 1,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4293084548",
+    "doi": "https://doi.org/10.5194/gchron-2022-8",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5019411628",
+      "A5033656235",
+      "A5060896718",
+      "A5024022389",
+      "A5047567431",
+      "A5057807377",
+      "A5012615845"
+    ],
+    "firstAuthorLastName": "Subarkah",
+    "allAuthors": [
+      "Darwinaji Subarkah",
+      "Angus Leslie Nixon",
+      "Mónica Blanco Jiménez",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Juraj Farkaš",
+      "Sarah C. Gilbert",
+      "Simon Holford"
+    ],
+    "title": "Constraining the geothermal parameters of in situ Rb–Sr dating on Proterozoic shales and its subsequent applications",
+    "publicationDate": "2022-03-23",
+    "year": 2022,
+    "venue": "",
+    "citations": 1,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Geological and Geochemical Analysis",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "Australian Resources Research Centre",
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4384434982",
+    "doi": "https://doi.org/10.36404/ovuf8939",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5090128717",
+      "A5057911678",
+      "A5022653889",
+      "A5090069519",
+      "A5056104477"
+    ],
+    "firstAuthorLastName": "Nixon",
+    "allAuthors": [
+      "Angus Nixon",
+      "Stijn Glorie",
+      "Derrick Hasterok",
+      "Alan S. Collins",
+      "Nicholas Fernie",
+      "Geoff Fraser"
+    ],
+    "title": "Low-temperature thermal history of the McArthur Basin: Influence of the Cambrian Kalkarindji Large Igneous Province on hydrocarbon maturation",
+    "publicationDate": "2022-08-30",
+    "year": 2022,
+    "venue": "",
+    "citations": 1,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Geoscience Australia"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4385268212",
+    "doi": "https://doi.org/10.57035/journals/sdk.2023.e11.1083",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5089532212",
+      "A5024022389",
+      "A5060603963"
+    ],
+    "firstAuthorLastName": "Virgo",
+    "allAuthors": [
+      "Georgina Virgo",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Kathryn Amos"
+    ],
+    "title": "Tectonic, eustatic and climate controls on facies architecture during the transition to the Neoproterozoic icehouse in the Adelaide Superbasin, Australia",
+    "publicationDate": "2023-07-26",
+    "year": 2023,
+    "venue": "Sedimentologika",
+    "citations": 1,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4392596750",
+    "doi": "https://doi.org/10.5194/egusphere-egu24-1308",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5063046891",
+      "A5027133412",
+      "A5049718033",
+      "A5057218060",
+      "A5062082901",
+      "A5048099379"
+    ],
+    "firstAuthorLastName": "Bauer",
+    "allAuthors": [
+      "Wilfried Bauer",
+      "Imboarina T. Rasaona",
+      "Joachim Jacobs",
+      "Alan S. Collins",
+      "L. Edwards",
+      "Ivan Callegari",
+      "Andreas Scharf"
+    ],
+    "title": "Evidences for Neoproterozoic fragments with Indian origin in Oman and northern Madagascar",
+    "publicationDate": "2024-03-08",
+    "year": 2024,
+    "venue": "",
+    "citations": 1,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Paleontology and Stratigraphy of Fossils",
+      "Paleontology and Evolutionary Biology"
+    ],
+    "institutions": [
+      "University of Bergen",
+      "The University of Adelaide",
+      "Sultan Qaboos University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4402014446",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2024.107072",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5069795728",
+      "A5012615845",
+      "A5033647499",
+      "A5061086644",
+      "A5024022389",
+      "A5019411628"
+    ],
+    "firstAuthorLastName": "Hall",
+    "allAuthors": [
+      "Alice S. Hall",
+      "Simon Holford",
+      "Nick Schofield",
+      "Mark Bunch",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Darwinaji Subarkah"
+    ],
+    "title": "The Derim Derim Dolerite, greater McArthur Basin, Australia: Using subsurface data to characterise a mesoproterozoic magma plumbing system",
+    "publicationDate": "2024-08-29",
+    "year": 2024,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 1,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W808853040",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5037863930",
+      "A5035239523",
+      "A5061373922",
+      "A5002926293",
+      "A5034256027"
+    ],
+    "firstAuthorLastName": "Schierl",
+    "allAuthors": [
+      "Z. Schierl",
+      "Julia D. Signorella",
+      "Alan S. Collins",
+      "B. Schwans",
+      "Andrew P. de Wet",
+      "J. E. Bleacher"
+    ],
+    "title": "Origin of Sinuous Channels on the SW Apron of Ascraeus Mons and the Surrounding Plains, Mars",
+    "publicationDate": "2012-03-19",
+    "year": 2012,
+    "venue": "NASA Technical Reports Server (NASA)",
+    "citations": 1,
+    "topics": [
+      "Astro and Planetary Science",
+      "Planetary Science and Exploration",
+      "Space Exploration and Technology"
+    ],
+    "institutions": [
+      "Whitman College"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2338345998",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins"
+    ],
+    "title": "Tectonic evolution of Tethys in the Lycian Taurides, southwest Anatolia",
+    "publicationDate": "1997-01-01",
+    "year": 1997,
+    "venue": "Edinburgh Research Archive (University of Edinburgh)",
+    "citations": 9,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Marine and environmental studies",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2031795169",
+    "doi": "https://doi.org/10.1016/j.jseaes.2005.02.008",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5041530921"
+    ],
+    "firstAuthorLastName": "Kehelpannala",
+    "allAuthors": [
+      "K.V. Wilbert Kehelpannala",
+      "Alan S. Collins"
+    ],
+    "title": "The role of Sri Lanka and associated continental blocks in the assembly and break-up of Rodinia and Gondwana: Introduction",
+    "publicationDate": "2006-03-14",
+    "year": 2006,
+    "venue": "Journal of Asian Earth Sciences",
+    "citations": 1,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "High-pressure geophysics and materials"
+    ],
+    "institutions": [
+      "National Institute of Fundamental Studies",
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3016319398",
+    "doi": "https://doi.org/10.11636/133863",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5082196586",
+      "A5059818051",
+      "A5086324359",
+      "A5031155093",
+      "A5022004794",
+      "A5046213672",
+      "A5112414946"
+    ],
+    "firstAuthorLastName": "Bodorkos",
+    "allAuthors": [
+      "S. Bodorkos",
+      "Bo Yang",
+      "Alan S. Collins",
+      "James L. Crowley",
+      "S.W. Denzyszyn",
+      "Jonathan C. Claoué-Long",
+      "J. R. Anderson",
+      "C. W. Magee"
+    ],
+    "title": "Precise U–Pb baddeleyite dating of the Derim Derim Dolerite: evidence for episodic mafic magmatism in the greater McArthur Basin",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "",
+    "citations": 1,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3160797806",
+    "doi": "https://doi.org/10.17632/8hbjskw3xn.1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5052352208",
+      "A5084273448",
+      "A5011312843",
+      "A5052648518",
+      "A5057911678"
+    ],
+    "firstAuthorLastName": "Dew",
+    "allAuthors": [
+      "Romana E.C. Dew",
+      "C.K. Morley",
+      "Alan S. Collins",
+      "Rosalind King",
+      "Noreen J. Evans",
+      "Stijn Glorie"
+    ],
+    "title": "Data from the coupled detrital zircon U–Pb and Hf case study of the Sibumasu Terrane in northwest Thailand",
+    "publicationDate": "2021-02-25",
+    "year": 2021,
+    "venue": "OPAL (Open@LaTrobe) (La Trobe University)",
+    "citations": 1,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies",
+      "High-pressure geophysics and materials"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4393642271",
+    "doi": "https://doi.org/10.5281/zenodo.6586972",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5022653889",
+      "A5109698223",
+      "A5032161414",
+      "A5063283012",
+      "A5056452960",
+      "A5057911678"
+    ],
+    "firstAuthorLastName": "Hasterok",
+    "allAuthors": [
+      "Derrick Hasterok",
+      "Jaqueline Halpin",
+      "Alan S. Collins",
+      "Martin Hand",
+      "Corné Kreemer",
+      "Matthew Gard",
+      "Stijn Glorie"
+    ],
+    "title": "New maps of global geologic provinces and tectonic plates: global tectonics data and QGIS project file",
+    "publicationDate": "2022-03-19",
+    "year": 2022,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "citations": 1,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological Studies and Exploration",
+      "Geological Modeling and Analysis"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "University of Tasmania",
+      "University of Nevada, Reno",
+      "Geoscience Australia"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4394262262",
+    "doi": "https://doi.org/10.6084/m9.figshare.18131420",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5066504483",
+      "A5024022389",
+      "A5060603963",
+      "A5057807377"
+    ],
+    "firstAuthorLastName": "Lloyd",
+    "allAuthors": [
+      "Jarred Lloyd",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Kathryn Amos",
+      "Sarah C. Gilbert"
+    ],
+    "title": "Callanna Group detrital zircon dataset (Lloyd et al.)",
+    "publicationDate": "2022-01-01",
+    "year": 2022,
+    "venue": "",
+    "citations": 1,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geochemical Analysis",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394519668",
+    "doi": "https://doi.org/10.6084/m9.figshare.11806179.v3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5066504483",
+      "A5024022389",
+      "A5060603963",
+      "A5103931603",
+      "A5014308365",
+      "A5027800100",
+      "A5080580201",
+      "A5071289544",
+      "A5045941951",
+      "A5095032375"
+    ],
+    "firstAuthorLastName": "Lloyd",
+    "allAuthors": [
+      "Jarred Lloyd",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Kathryn Amos",
+      "Benjamin P. Wade",
+      "John W. Counts",
+      "Stephen Hore",
+      "Ashleigh Job",
+      "Jim W. Hall",
+      "Sameh Shahin",
+      "Matt Drabsch"
+    ],
+    "title": "Database of Neoproterozoic U-Pb geochronology and Hf isotopic data for the Adelaide Superbasin",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "",
+    "citations": 1,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W1504999780",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5036704673",
+      "A5034256027",
+      "A5037863930",
+      "A5061373922"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins",
+      "Andrew de Wet",
+      "J. E. Bleacher",
+      "Z. Schierl",
+      "B. Schwans"
+    ],
+    "title": "A Comparison and Analog-Based Analysis of Sinuous Channels on the Rift Aprons of Ascraeus Mons and Pavonis Mons Volcanoes, Mars",
+    "publicationDate": "2012-03-19",
+    "year": 2012,
+    "venue": "43rd Lunar and Planetary Science Conference",
+    "citations": 0,
+    "topics": [
+      "Planetary Science and Exploration",
+      "Astro and Planetary Science",
+      "Space Exploration and Technology"
+    ],
+    "institutions": [
+      "College of Wooster",
+      "Franklin & Marshall College",
+      "Goddard Space Flight Center",
+      "Whitman College",
+      "Trinity University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1991944860",
+    "doi": "https://doi.org/10.1016/j.gexplo.2008.11.008",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5045496181",
+      "A5032161414",
+      "A5002671147",
+      "A5067605509"
+    ],
+    "firstAuthorLastName": "Raimondo",
+    "allAuthors": [
+      "Tom Raimondo",
+      "Martin Hand",
+      "Chris Clark",
+      "Kevin Faure",
+      "Alan S. Collins"
+    ],
+    "title": "Sources, thermal conditions and mechanisms of fluid ingress during regional rehydration of Alice Springs Orogeny intracratonic shear systems",
+    "publicationDate": "2008-11-24",
+    "year": 2008,
+    "venue": "Journal of Geochemical Exploration",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Curtin University",
+      "GNS Science"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2005842758",
+    "doi": "https://doi.org/10.1016/s1342-937x(05)71100-x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins"
+    ],
+    "title": "A Report on the International Field Workshop to the Southern Granulite Terrane of India (February 18–25, 2004) organized by the National Geophysical Research Institute, Hyderabad",
+    "publicationDate": "2004-10-01",
+    "year": 2004,
+    "venue": "Gondwana Research",
+    "citations": 0,
+    "topics": [
+      "earthquake and tectonic studies",
+      "Earthquake Detection and Analysis",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "The University of Western Australia"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2015414355",
+    "doi": "https://doi.org/10.1016/j.gr.2012.12.015",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5083930531",
+      "A5034246104",
+      "A5109375716"
+    ],
+    "firstAuthorLastName": "Patranabis‐Deb",
+    "allAuthors": [
+      "Sarbani Patranabis‐Deb",
+      "Alan S. Collins",
+      "M. Santosh",
+      "Diana Plavsa"
+    ],
+    "title": "International Association for Gondwana Research (IAGR) 2012 Annual Convention and 9th International Symposium on Gondwana to Asia",
+    "publicationDate": "2013-01-23",
+    "year": 2013,
+    "venue": "Gondwana Research",
+    "citations": 0,
+    "topics": [],
+    "institutions": [
+      "Indian Statistical Institute",
+      "The University of Adelaide",
+      "China University of Geosciences (Beijing)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2044019118",
+    "doi": "https://doi.org/10.1016/j.gr.2011.10.002",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins"
+    ],
+    "title": "International association for Gondwana Research Annual Convention and 9th international symposium on Gondwana to Asia–Adelaide 2012",
+    "publicationDate": "2011-10-15",
+    "year": 2011,
+    "venue": "Gondwana Research",
+    "citations": 0,
+    "topics": [],
+    "institutions": [
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2092446514",
+    "doi": "https://doi.org/10.1007/s12594-012-0015-1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5036202375"
+    ],
+    "firstAuthorLastName": "Fitzsimons",
+    "allAuthors": [
+      "I. C. W. Fitzsimons",
+      "Alan S. Collins"
+    ],
+    "title": "Supercontinent Dynamics: India and Gondwana, 8th International Symposium on Gondwana to Asia –",
+    "publicationDate": "2012-01-01",
+    "year": 2012,
+    "venue": "Journal of the Geological Society of India",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geological and Geochemical Analysis",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": [
+      "Curtin University",
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2286501304",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5045496181",
+      "A5002671147",
+      "A5032161414",
+      "A5067605509"
+    ],
+    "firstAuthorLastName": "Raimondo",
+    "allAuthors": [
+      "Tom Raimondo",
+      "Chris Clark",
+      "Martin Hand",
+      "Kevin Faure",
+      "Alan S. Collins"
+    ],
+    "title": "Deep intracontinental fluid flow in the Alice Springs Orogen, central Australia",
+    "publicationDate": "2009-01-01",
+    "year": 2009,
+    "venue": "Adelaide Research & Scholarship (AR&S) (University of Adelaide)",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2333061307",
+    "doi": "https://doi.org/10.1190/ice2015-2210918",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5110352971",
+      "A5108678086",
+      "A5103643061",
+      "A5057911678",
+      "A5052648518",
+      "A5003363361",
+      "A5048112525",
+      "A5012615845"
+    ],
+    "firstAuthorLastName": "Hall",
+    "allAuthors": [
+      "James W. Hall",
+      "M. S. Reddy",
+      "Jarred Lloyd",
+      "Stijn Glorie",
+      "Noreen J. Evans",
+      "Justin L. Payne",
+      "Alan S. Collins",
+      "Anthony Reid",
+      "Simon Holford"
+    ],
+    "title": "Tracing the Exhumation of Central Southern Australia and Fingerprinting Detrital Pathways and Sediment Sinks in the Ceduna Basin",
+    "publicationDate": "2015-09-16",
+    "year": 2015,
+    "venue": "International Conference and Exhibition, Melbourne, Australia 13-16 September 2015",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geological Studies and Exploration",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Curtin University",
+      "University of South Australia",
+      "Department of State Development"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2528312921",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5045496181",
+      "A5002619351",
+      "A5068416552",
+      "A5111620838",
+      "A5063897229"
+    ],
+    "firstAuthorLastName": "Raimondo",
+    "allAuthors": [
+      "Tom Raimondo",
+      "Alan S. Collins",
+      "M. Hand",
+      "Althea Walker-Hallam",
+      "Hugh Smithies",
+      "P. Evins"
+    ],
+    "title": "A kinematic, metamorphic and geochronological framework for intracratonic reworking in the Western Musgrave Block, Central Australia: Evidence for lower crustal extrusion",
+    "publicationDate": "2008-01-01",
+    "year": 2008,
+    "venue": "Adelaide Research & Scholarship (AR&S) (University of Adelaide)",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geological and Geochemical Analysis",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2555350899",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5008537331",
+      "A5033788286",
+      "A5108360662",
+      "A5080505752",
+      "A5029483594"
+    ],
+    "firstAuthorLastName": "Kryza",
+    "allAuthors": [
+      "Ryszard Kryza",
+      "Jan Zalasiewicz",
+      "Richard J. Merriman",
+      "Alan S. Collins",
+      "Simon J. Kemp",
+      "WR Grace Australia"
+    ],
+    "title": "P-T Paths within the Variscan Accretionary Prism Based on Illite Crystallinity and b Dimensions of Micas from Metamudrocks of the Kaczawa Mountains, SW Poland",
+    "publicationDate": "2002-01-01",
+    "year": 2002,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "High-pressure geophysics and materials",
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2775627266",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5007718824",
+      "A5008317826"
+    ],
+    "firstAuthorLastName": "Ustaömer",
+    "allAuthors": [
+      "Tı̇mur Ustaömer",
+      "Tı̇mur Ustaömer",
+      "Alan S. Collins",
+      "Jörg Reischpeitsch"
+    ],
+    "title": "Eocene continental arc magmatism along the southern Eurasian margin: New U-Pb LA-ICPMS Sm-Nd and whole-rock geochemical data from Marmara Island NW Turkey",
+    "publicationDate": "2007-08-29",
+    "year": 2007,
+    "venue": "Adelaide Research & Scholarship (AR&S) (University of Adelaide)",
+    "citations": 0,
+    "topics": [
+      "Hermeneutics and Narrative Identity",
+      "Aging, Elder Care, and Social Issues",
+      "Health, Medicine and Society"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2786725933",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5002671147",
+      "A5048235604",
+      "A5051311923",
+      "A5003363361",
+      "A5034246104",
+      "A5032161414"
+    ],
+    "firstAuthorLastName": "Clark",
+    "allAuthors": [
+      "Chris Clark",
+      "Alan S. Collins",
+      "B. Wade",
+      "David E. Kelsey",
+      "Justin L. Payne",
+      "M. Santosh",
+      "Martin Hand"
+    ],
+    "title": "Coupling accessory mineral chemistry and geochronology with calculated phase diagrams: An example from the UHT Palghat Cauvery shear system Southern India",
+    "publicationDate": "2006-01-01",
+    "year": 2006,
+    "venue": "Adelaide Research & Scholarship (AR&S) (University of Adelaide)",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2792658454",
+    "doi": "https://doi.org/10.1071/aseg2018abm3_2g",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5079379016",
+      "A5057911678",
+      "A5048112525",
+      "A5054756549",
+      "A5052648518"
+    ],
+    "firstAuthorLastName": "Hall",
+    "allAuthors": [
+      "James Hall",
+      "Stijn Glorie",
+      "Anthony Reid",
+      "Alan S. Collins",
+      "Fred Jourdan",
+      "Noreen J. Evans"
+    ],
+    "title": "Thermochronological history of the northern Olympic Domain of the Gawler Craton; correlations between cooling ages and mineralising systems",
+    "publicationDate": "2018-02-28",
+    "year": 2018,
+    "venue": "ASEG Extended Abstracts",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Geological Survey of Western Australia",
+      "Curtin University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2900685185",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5047567431",
+      "A5067737483",
+      "A5024022389",
+      "A5001633563",
+      "A5103931603",
+      "A5060822821",
+      "A5020783605",
+      "A5109912097",
+      "A5066470145",
+      "A5008770363",
+      "A5060011939",
+      "A5012558935"
+    ],
+    "firstAuthorLastName": "Farkaš",
+    "allAuthors": [
+      "Juraj Farkaš",
+      "Grant M. Cox",
+      "Morgan Blades",
+      "Sarah Gilbert",
+      "Benjamin P. Wade",
+      "Alan S. Collins",
+      "Thomas Zack",
+      "Stephan Loehr",
+      "David J. Chittleborough",
+      "Hamed Al Sarakhi",
+      "Ahmad Reeda",
+      "Lise Jensen",
+      "Fred Fryer"
+    ],
+    "title": "In-situ Rb-Sr dating of authigenic clays from soils and sediments: potential and limitations",
+    "publicationDate": "2018-01-01",
+    "year": 2018,
+    "venue": "Adelaide Research & Scholarship (AR&S) (University of Adelaide)",
+    "citations": 0,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Geological formations and processes",
+      "Archaeology and ancient environmental studies"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "University of Gothenburg",
+      "Agilent Technologies (Australia)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2905939454",
+    "doi": "https://doi.org/10.1016/j.jseaes.2018.12.014",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5060145218",
+      "A5011312843",
+      "A5084273448",
+      "A5089879286"
+    ],
+    "firstAuthorLastName": "Hansberry",
+    "allAuthors": [
+      "Rowan Hansberry",
+      "Alan S. Collins",
+      "Rosalind King",
+      "C.K. Morley",
+      "Stefan Löhr"
+    ],
+    "title": "Combining finite strain analysis and illite crystallinity to examine strain variation in a shale detachment zone",
+    "publicationDate": "2018-12-26",
+    "year": 2018,
+    "venue": "Journal of Asian Earth Sciences",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "High-pressure geophysics and materials"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Chiang Mai University",
+      "Macquarie University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2911293861",
+    "doi": "https://doi.org/10.6084/m9.figshare.7660733.v1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5011450580",
+      "A5002671147",
+      "A5057911678",
+      "A5013933429",
+      "A5050798817"
+    ],
+    "firstAuthorLastName": "Alessio",
+    "allAuthors": [
+      "Brandon L. Alessio",
+      "Alan S. Collins",
+      "Chris Clark",
+      "Stijn Glorie",
+      "Pete R. Siegfried",
+      "Richard Taylor"
+    ],
+    "title": "Figure S1. Zircon CL. Age, origin and palaeogeography of the Southern Irumide Belt, Zambia",
+    "publicationDate": "2019-01-01",
+    "year": 2019,
+    "venue": "OPAL (Open@LaTrobe) (La Trobe University)",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2914242046",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5021900196"
+    ],
+    "firstAuthorLastName": "Brick",
+    "allAuthors": [
+      "Rachael A. Brick",
+      "Alan S. Collins"
+    ],
+    "title": "High-pressure rocks in the Palaeoproterozoic; geodynamic evolution of 2.0 Ga eclogites in the Usagaran Orogen, Tanzania",
+    "publicationDate": "2007-07-27",
+    "year": 2007,
+    "venue": "Abstracts - Geological Society of Australia",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2982959498",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5045182939",
+      "A5079395428",
+      "A5111770135"
+    ],
+    "firstAuthorLastName": "Buchan",
+    "allAuthors": [
+      "Craig Buchan",
+      "Alan S. Collins",
+      "Steven M. Reddy",
+      "A. H. Mruma"
+    ],
+    "title": "The 2.0 Ga Usagaran eclogites, Tanzania: the onset of modern plate tectonics or a continuation of the norm?",
+    "publicationDate": "2003-04-01",
+    "year": 2003,
+    "venue": "EGS - AGU - EUG Joint Assembly",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geological Studies and Exploration",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2990530421",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5060145218",
+      "A5108407552",
+      "A5084273448"
+    ],
+    "firstAuthorLastName": "Hansberry",
+    "allAuthors": [
+      "Rowan Hansberry",
+      "Ros King",
+      "Alan S. Collins",
+      "C.K. Morley"
+    ],
+    "title": "Detachments in Shale: Controlling Characteristics on Fold-Thrust Belt Style",
+    "publicationDate": "2013-04-01",
+    "year": 2013,
+    "venue": "EGU General Assembly Conference Abstracts",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Drilling and Well Engineering",
+      "Reservoir Engineering and Simulation Methods"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2992885961",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5047567431",
+      "A5068114276",
+      "A5049260361",
+      "A5086390670",
+      "A5079259216",
+      "A5060822821",
+      "A5037863244",
+      "A5037575663",
+      "A5045079494",
+      "A5067737483"
+    ],
+    "firstAuthorLastName": "Farkaš",
+    "allAuthors": [
+      "Juraj Farkaš",
+      "Angus Love",
+      "Charles Verdel",
+      "Anton Eisenhauer",
+      "Ana Kolevica",
+      "Thomas Zack",
+      "Christine Edgoose",
+      "Dorothy Close",
+      "Verity Normington",
+      "Grant M. Cox",
+      "Alan S. Collins"
+    ],
+    "title": "Links between silicate-carbonate weathering, climate and the origin of Neoproterozoic cap carbonates: New constraints from stable and radiogenic Sr isotope records (δ88/86Sr and 87Sr/86Sr) from the Amadeus Basin, Australia",
+    "publicationDate": "2018-04-01",
+    "year": 2018,
+    "venue": "EGU General Assembly Conference Abstracts",
+    "citations": 0,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2994693438",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5016853073",
+      "A5004188350"
+    ],
+    "firstAuthorLastName": "Cooke",
+    "allAuthors": [
+      "Ben Cooke",
+      "John Foden",
+      "Alan S. Collins"
+    ],
+    "title": "Insights into the Oxidation State of Arc Magmas from the Xenolith Suite Sangeang Api Volcano, Eastern Indonesia.",
+    "publicationDate": "2018-04-01",
+    "year": 2018,
+    "venue": "EGU General Assembly Conference Abstracts",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2995037098",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5024022389",
+      "A5067737483",
+      "A5011450580",
+      "A5004188350",
+      "A5051523448",
+      "A5009869062",
+      "A5042746575"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Grant M. Cox",
+      "Brandon L. Alessio",
+      "John Foden",
+      "Andrew Merdith",
+      "Simon Williams",
+      "R. Dietmar Müller"
+    ],
+    "title": "Neoproterozoic Arabia - The Angudan/Malagasy orogenic collision of Neoproterozoic India with Africa in a plate kinematic framework",
+    "publicationDate": "2018-04-01",
+    "year": 2018,
+    "venue": "EGUGA",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geophysical Studies",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2999920078",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5051523448",
+      "A5009869062",
+      "A5089281652",
+      "A5042746575"
+    ],
+    "firstAuthorLastName": "Merdith",
+    "allAuthors": [
+      "Andrew Merdith",
+      "Simon Williams",
+      "Sascha Brune",
+      "Alan S. Collins",
+      "R. Dietmar Müller"
+    ],
+    "title": "A plate tectonic interpretation of the supercontinent cycle: measuring subduction length, rift length and connectedness of continental lithosphere",
+    "publicationDate": "2018-04-01",
+    "year": 2018,
+    "venue": "EGUGA",
+    "citations": 0,
+    "topics": [
+      "Geological Studies and Exploration",
+      "Geological and Geochemical Analysis",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3001375088",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5044168243",
+      "A5073201023",
+      "A5004188350",
+      "A5004333485"
+    ],
+    "firstAuthorLastName": "Armistead",
+    "allAuthors": [
+      "Sheree Armistead",
+      "Alan S. Collins",
+      "Ahmad Redaa",
+      "John Foden",
+      "Théodore Razakamanana"
+    ],
+    "title": "Deciphering key events of Neoproterozoic orogenesis in Madagascar: insights from structure and multiple thermochronometers",
+    "publicationDate": "2018-04-01",
+    "year": 2018,
+    "venue": "EGU General Assembly Conference Abstracts",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3004028021",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5009015433",
+      "A5063537632",
+      "A5039096193",
+      "A5089578866"
+    ],
+    "firstAuthorLastName": "Thiel",
+    "allAuthors": [
+      "Stephan Thiel",
+      "Jared Peacock",
+      "Kate Selway",
+      "Alan S. Collins",
+      "Graham Heinson"
+    ],
+    "title": "Magnetotelluric survey across the Vestfold Hills, East Antarctica",
+    "publicationDate": "2012-12-01",
+    "year": 2012,
+    "venue": "AGUFM",
+    "citations": 0,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Geochemistry and Geologic Mapping",
+      "Geophysical and Geoelectrical Methods"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3004754263",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5011450580",
+      "A5057911678",
+      "A5002671147",
+      "A5051311923",
+      "A5050798817"
+    ],
+    "firstAuthorLastName": "Alessio",
+    "allAuthors": [
+      "Brandon L. Alessio",
+      "Alan S. Collins",
+      "Stijn Glorie",
+      "Chris Clark",
+      "David E. Kelsey",
+      "Richard Taylor"
+    ],
+    "title": "Identifying the tectono-metamorphic overprints of a Gondwana forming collision: a structural and thermobarometric transect of the Southern Irumide and Zambezi belts, Zambia",
+    "publicationDate": "2018-04-01",
+    "year": 2018,
+    "venue": "EGU General Assembly Conference Abstracts",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geological and Geochemical Analysis",
+      "Geological formations and processes"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3013682707",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5051523448",
+      "A5024022389",
+      "A5009869062",
+      "A5110038075",
+      "A5067737483",
+      "A5011450580",
+      "A5044168243",
+      "A5004188350",
+      "A5042746575",
+      "A5002671147"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins",
+      "Andrew Merdith",
+      "Morgan Blades",
+      "Simon Williams",
+      "Sergei Pisarevsky",
+      "Grant M. Cox",
+      "Brandon L. Alessio",
+      "Sheree Armistead",
+      "John Foden",
+      "R. Dietmar Müller",
+      "Chris Clark"
+    ],
+    "title": "A Full Plate Topological Animation for the Neoproterozoic: a requirement for understanding the feedback between the solid Earth and the greater Earth System",
+    "publicationDate": "2018-04-01",
+    "year": 2018,
+    "venue": "EGUGA",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3017699199",
+    "doi": "https://doi.org/10.25909/5e804d92586df",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5059818051",
+      "A5067737483",
+      "A5024022389",
+      "A5040267151",
+      "A5073266134",
+      "A5047567431",
+      "A5057911678"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins",
+      "Bo Yang",
+      "Grant M. Cox",
+      "Morgan Blades",
+      "A.J.M. Jarrett",
+      "Steven W. Denyszyn",
+      "Juraj Farkaš",
+      "Stijn Glorie"
+    ],
+    "title": "Yang et al accepted manuscript - BRe - Kyalla geochem.pdf",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "OPAL (Open@LaTrobe) (La Trobe University)",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3018219226",
+    "doi": "https://doi.org/10.25909/5e802913de826",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5024022389",
+      "A5112199180",
+      "A5019411628",
+      "A5090128717",
+      "A5047567431",
+      "A5057911678",
+      "A5003363361",
+      "A5004188350"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Bo Yang",
+      "Darwinaji Subarkah",
+      "Angus Nixon",
+      "Juraj Farkaš",
+      "Stijn Glorie",
+      "Justin L. Payne",
+      "John Foden"
+    ],
+    "title": "AGES 2020 poster ARC Linkage team.pdf",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "OPAL (Open@LaTrobe) (La Trobe University)",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3020459510",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5059818051",
+      "A5067737483",
+      "A5073106035",
+      "A5020895561"
+    ],
+    "firstAuthorLastName": "Yang",
+    "allAuthors": [
+      "Bo Yang",
+      "Alan S. Collins",
+      "Grant M. Cox",
+      "Tim J. Munson",
+      "T. M. Smith"
+    ],
+    "title": "Multi-proxy provenance analysis of the hydrocarbon-bearing upper Roper Group, Beetaloo Sub-basin, Northern Territory, Australia",
+    "publicationDate": "2018-04-01",
+    "year": 2018,
+    "venue": "EGUGA",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological formations and processes",
+      "Geological Modeling and Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3021000990",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5090122630",
+      "A5057911678",
+      "A5047873001",
+      "A5032194855",
+      "A5112524048"
+    ],
+    "firstAuthorLastName": "Gillespie",
+    "allAuthors": [
+      "Jack Gillespie",
+      "Stijn Glorie",
+      "Gilby Jepson",
+      "Ф.И. Жимулев",
+      "Wei Xiao",
+      "Alan S. Collins"
+    ],
+    "title": "Bridging the Tianshan-Altai thermochronology gap: a new regional dataset for Central Asia",
+    "publicationDate": "2018-01-01",
+    "year": 2018,
+    "venue": "Adelaide Research & Scholarship (AR&S) (University of Adelaide)",
+    "citations": 0,
+    "topics": [
+      "Tree-ring climate responses",
+      "Geology and Paleoclimatology Research",
+      "Rangeland Management and Livestock Ecology"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3021864129",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5072486753",
+      "A5011312843",
+      "A5090788691",
+      "A5084273448"
+    ],
+    "firstAuthorLastName": "Richards",
+    "allAuthors": [
+      "Lachlan Richards",
+      "Rosalind King",
+      "Alan S. Collins",
+      "Guillaume Backé",
+      "C.K. Morley"
+    ],
+    "title": "Evaporite Detachment Characteristics and their controls on Fold-Thrust Belt Style: an Example from the Amadeus Basin, Central Australia",
+    "publicationDate": "2013-04-01",
+    "year": 2013,
+    "venue": "EGUGA",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3027971813",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5044168243",
+      "A5060932213",
+      "A5023895706",
+      "A5004188350",
+      "A5004333485"
+    ],
+    "firstAuthorLastName": "Armistead",
+    "allAuthors": [
+      "Sheree Armistead",
+      "Alan S. Collins",
+      "Renata da Silva Schmitt",
+      "Raisa Costa",
+      "John Foden",
+      "Théodore Razakamanana"
+    ],
+    "title": "Detrital provenance of the Itremo Group in central Madagascar using trace elements and Hf isotopes in zircon",
+    "publicationDate": "2018-04-01",
+    "year": 2018,
+    "venue": "EGU General Assembly Conference Abstracts",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies Worldwide"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3034093348",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5024022389",
+      "A5051523448",
+      "A5067737483",
+      "A5009869062"
+    ],
+    "firstAuthorLastName": "Blades",
+    "allAuthors": [
+      "Morgan Blades",
+      "Andrew Merdith",
+      "Alan S. Collins",
+      "Grant M. Cox",
+      "Simon Williams"
+    ],
+    "title": "The potential climatic impacts of Ediacaran tectonics.",
+    "publicationDate": "2018-04-01",
+    "year": 2018,
+    "venue": "EGU General Assembly Conference Abstracts",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3043633650",
+    "doi": "https://doi.org/10.5194/egusphere-egu2020-12458",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5019411628",
+      "A5024022389",
+      "A5047567431",
+      "A5059818051",
+      "A5067737483",
+      "A5040267151",
+      "A5058223761",
+      "A5073636321",
+      "A5066898281",
+      "A5010684136",
+      "A5073106035"
+    ],
+    "firstAuthorLastName": "Subarkah",
+    "allAuthors": [
+      "Darwinaji Subarkah",
+      "Morgan Blades",
+      "Alan S. Collins",
+      "Juraj Farkaš",
+      "Bo Yang",
+      "Grant M. Cox",
+      "A.J.M. Jarrett",
+      "Eilidh Cassidy",
+      "April Shannon",
+      "Savannah Liebelt",
+      "Gareth McFazdean",
+      "Tim J. Munson"
+    ],
+    "title": "Shale and carbonate geochemistry of the Proterozoic greater McArthur Basin, Australia.",
+    "publicationDate": "2020-03-09",
+    "year": 2020,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geochemistry and Geologic Mapping",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": [
+      "ChemCentre",
+      "The University of Adelaide",
+      "Geoscience Australia",
+      "Department of Primary Industry and Resources"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3048028396",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5052145913",
+      "A5069247964"
+    ],
+    "firstAuthorLastName": "Gutiérrez‐Alonso",
+    "allAuthors": [
+      "Gabriel Gutiérrez‐Alonso",
+      "Daniel Pastor‐Galán",
+      "Alan S. Collins"
+    ],
+    "title": "Strike-slip accomodation during the development of the Cantabrian and Central-Iberian oroclines: 40Ar*/39Ar geochronological ages of major shear zones.",
+    "publicationDate": "2013-04-01",
+    "year": 2013,
+    "venue": "EGU General Assembly Conference Abstracts",
+    "citations": 0,
+    "topics": [
+      "Archaeological and Geological Studies",
+      "Geological and Geophysical Studies Worldwide",
+      "Archaeological and Historical Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3083220409",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5051523448",
+      "A5009869062",
+      "A5110038075",
+      "A5042746575"
+    ],
+    "firstAuthorLastName": "Merdith",
+    "allAuthors": [
+      "Andrew Merdith",
+      "Alan S. Collins",
+      "Simon Williams",
+      "Sergei Pisarevsky",
+      "R. Dietmar Müller"
+    ],
+    "title": "A Plate Tectonic Model for the Neoproterozoic with Evolving Plate Boundaries",
+    "publicationDate": "2017-04-01",
+    "year": 2017,
+    "venue": "EGU General Assembly Conference Abstracts",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geological Studies and Exploration",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3083706518",
+    "doi": "https://doi.org/10.5194/egusphere-egu2020-3173",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5024022389",
+      "A5004188350",
+      "A5044168243",
+      "A5004333485",
+      "A5011450580",
+      "A5051523448"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins",
+      "Morgan Blades",
+      "John Foden",
+      "Sheree Armistead",
+      "Théodore Razakamanana",
+      "Brandon L. Alessio",
+      "Andrew Merdith"
+    ],
+    "title": "Pannotia didn&amp;#8217;t exist, but the &amp;#8220;Pannotian geodynamic cell&amp;#8221; formed as the Mozambique Ocean closed and Gondwana amalgamated&amp;#8212;the view from Arabia and the East African Orogen",
+    "publicationDate": "2020-03-09",
+    "year": 2020,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Geological Survey of Canada",
+      "Laurentian University",
+      "University of Toliara",
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3084047190",
+    "doi": "https://doi.org/10.5194/egusphere-egu2020-12412",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5024022389",
+      "A5059818051",
+      "A5050901848",
+      "A5058223761",
+      "A5003363361",
+      "A5047567431",
+      "A5057911678",
+      "A5073106035"
+    ],
+    "firstAuthorLastName": "Blades",
+    "allAuthors": [
+      "Morgan Blades",
+      "Alan S. Collins",
+      "Bo Yang",
+      "Cris Cruz",
+      "Eilidh Cassidy",
+      "Justin L. Payne",
+      "Juraj Farkaš",
+      "Stijn Glorie",
+      "Tim J. Munson"
+    ],
+    "title": "Using detrital geochronology to unravel the Proterozoic greater McArthur Basin of Northern Australia",
+    "publicationDate": "2020-03-09",
+    "year": 2020,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "University of South Australia",
+      "Department of Primary Industry and Resources"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3086979468",
+    "doi": "https://doi.org/10.5194/egusphere-egu2020-3171",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5024022389",
+      "A5051523448",
+      "A5004188350"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Andrew Merdith",
+      "John Foden"
+    ],
+    "title": "A late Tonian plate reorganization event: Using a deep-time full-plate global model to unravel Neoproterozoic tectonic convulsions",
+    "publicationDate": "2020-03-09",
+    "year": 2020,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geological and Geochemical Analysis",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3092525168",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5069826985",
+      "A5036202375",
+      "A5004333485",
+      "A5111850139"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins",
+      "Alfred Kröner",
+      "I. C. W. Fitzsimons",
+      "Théodore Razakamanana",
+      "Brian F. Windley"
+    ],
+    "title": "Detrital footprint of the Mozambique ocean: U/Pb SHRIMP and Pb evaporation zircon geochronology of metasedimentary gneisses in eastern Madagascar",
+    "publicationDate": "2003-04-01",
+    "year": 2003,
+    "venue": "EGS - AGU - EUG Joint Assembly",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3095720033",
+    "doi": "https://doi.org/10.1130/abs/2020am-356703",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5059818051",
+      "A5024022389",
+      "A5073106035",
+      "A5003363361",
+      "A5057911678",
+      "A5047567431"
+    ],
+    "firstAuthorLastName": "Yang",
+    "allAuthors": [
+      "Bo Yang",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Tim J. Munson",
+      "Justin L. Payne",
+      "Stijn Glorie",
+      "Juraj Farkaš"
+    ],
+    "title": "DETRITAL ZIRCON PROVENANCE RECORD OF BASIN TECTONIC GEOGRAPHY: IMPLICATIONS FROM THE MESOPROTEROZOIC WILTON PACKAGE, GREATER MCARTHUR BASIN, NORTHERN AUSTRALIA",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "Abstracts with programs - Geological Society of America",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geochemistry and Geologic Mapping",
+      "Geological formations and processes"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3096307688",
+    "doi": "https://doi.org/10.1130/abs/2020am-355642",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5019411628",
+      "A5024022389",
+      "A5058223761",
+      "A5001633563",
+      "A5047567431",
+      "A5073201023",
+      "A5109404382",
+      "A5040267151",
+      "A5060822821"
+    ],
+    "firstAuthorLastName": "Subarkah",
+    "allAuthors": [
+      "Darwinaji Subarkah",
+      "Morgan Blades",
+      "Eilidh Cassidy",
+      "Sarah Gilbert",
+      "Alan S. Collins",
+      "Juraj Farkaš",
+      "Ahmad Redaa",
+      "Stefan Loehr",
+      "A.J.M. Jarrett",
+      "Thomas Zack"
+    ],
+    "title": "IN-SITU RB-SR DATING AND ELEMENTAL FINGERPRINTING OF SHALES AND DOLERITE BY LA-ICP-MS/MS",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "Abstracts with programs - Geological Society of America",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3096661076",
+    "doi": "https://doi.org/10.1130/abs/2020am-356719",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5066504483",
+      "A5067668902",
+      "A5024022389",
+      "A5089532212",
+      "A5060603963"
+    ],
+    "firstAuthorLastName": "Lloyd",
+    "allAuthors": [
+      "Jarred Lloyd",
+      "Erica Van der Wolff",
+      "Erica Van der Wolff",
+      "Morgan Blades",
+      "Morgan Blades",
+      "Georgina Virgo",
+      "Georgina Virgo",
+      "Alan S. Collins",
+      "Alan S. Collins",
+      "Kathryn Amos",
+      "Kathryn Amos"
+    ],
+    "title": "DETRITAL ZIRCON AGE AND PROVENANCE OF THE TONIAN-CRYOGENIAN OF THE ADELAIDE SUPERBASIN",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "Abstracts with programs - Geological Society of America",
+    "citations": 0,
+    "topics": [
+      "Marine and environmental studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3097110721",
+    "doi": "https://doi.org/10.1130/abs/2020am-356682",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5089532212",
+      "A5060603963",
+      "A5047567431",
+      "A5024022389",
+      "A5066504483"
+    ],
+    "firstAuthorLastName": "Virgo",
+    "allAuthors": [
+      "Georgina Virgo",
+      "Alan S. Collins",
+      "Alan S. Collins",
+      "Kathryn Amos",
+      "Kathryn Amos",
+      "Juraj Farkaš",
+      "Juraj Farkaš",
+      "Morgan Blades",
+      "Morgan Blades",
+      "Jarred Lloyd",
+      "Jarred Lloyd"
+    ],
+    "title": "DESCENDING INTO THE “SNOWBALL”: IMPROVING INTERPRETATIONS OF TONIAN AND CRYOGENIAN PALAEOENVIRONMENTS WITH DETAILED SEDIMENTOLOGY AND GEOCHEMISTRY",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "Abstracts with programs - Geological Society of America",
+    "citations": 0,
+    "topics": [
+      "Geological formations and processes",
+      "Maritime and Coastal Archaeology"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3184444537",
+    "doi": "https://doi.org/10.1130/abs/2020am-350711",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5079751043",
+      "A5082530407",
+      "A5005574367",
+      "A5087721813",
+      "A5082580478"
+    ],
+    "firstAuthorLastName": "Kunzmann",
+    "allAuthors": [
+      "Marcus Kunzmann",
+      "Vincent Crombez",
+      "Octavian Catuneanu",
+      "Teagan Blaikie",
+      "Gregor Barth",
+      "Alan S. Collins"
+    ],
+    "title": "SEQUENCE STRATIGRAPHY OF THE CA. 1730 MA WOLLOGORANG FORMATION, MCARTHUR BASIN, AUSTRALIA",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "Abstracts with programs - Geological Society of America",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3186708845",
+    "doi": "https://doi.org/10.7185/gold2021.6489",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5047567431",
+      "A5004449689",
+      "A5055202997",
+      "A5070963259",
+      "A5037863244"
+    ],
+    "firstAuthorLastName": "Farkaš",
+    "allAuthors": [
+      "Juraj Farkaš",
+      "Chris Holmden",
+      "Qudsiya Al-Busaidi",
+      "Susanne Schmid",
+      "Alan S. Collins",
+      "Christine Edgoose"
+    ],
+    "title": "Ca and Sr isotope constraints on the origin of the late Cambrian SPICE excursion: Insights from the sedimentary record of the Amadeus Basin, Central Australia",
+    "publicationDate": "2021-01-01",
+    "year": 2021,
+    "venue": "Goldschmidt2021 abstracts",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "University of Saskatchewan",
+      "Commonwealth Scientific and Industrial Research Organisation",
+      "Mineral Resources",
+      "Northern Territory Geological Survey",
+      "Government of the Northern Territory",
+      "United States Geological Survey"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3202539065",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5040267151",
+      "A5013965255",
+      "A5019323167",
+      "A5110302049",
+      "A5089347587",
+      "A5019411628",
+      "A5108702039",
+      "A5062524985"
+    ],
+    "firstAuthorLastName": "Jarrett",
+    "allAuthors": [
+      "A.J.M. Jarrett",
+      "D.C. Champion",
+      "J. P. Thorne",
+      "DL Huston",
+      "Evgeniy Bastrakov",
+      "Alan S. Collins",
+      "Darwinaji Subarkah",
+      "T. J. Munson",
+      "Sam Spinks"
+    ],
+    "title": "Shale geochemistry as an exploration tool for base-metals (Zn-Pb-Ag ± Cu), critical minerals and hydrocarbons in northern Australia",
+    "publicationDate": "2020-12-01",
+    "year": 2020,
+    "venue": "AGU Fall Meeting Abstracts",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Mineral Processing and Grinding",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3212051368",
+    "doi": "https://doi.org/10.7185/gold2021.6588",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5047567431",
+      "A5055476815",
+      "A5007120945",
+      "A5031327977",
+      "A5062524985",
+      "A5024022389",
+      "A5039962635",
+      "A5066898281"
+    ],
+    "firstAuthorLastName": "Farkaš",
+    "allAuthors": [
+      "Juraj Farkaš",
+      "Robert Klaebe",
+      "Geremiah Toledo",
+      "J. Stromberg",
+      "Sam Spinks",
+      "Morgan Blades",
+      "Alan S. Collins",
+      "Robert Frei",
+      "Savannah Liebelt"
+    ],
+    "title": "Chromium isotopes as a proxy for redox conditions on early Earth: Insights from Australian sedimentary rock records",
+    "publicationDate": "2021-01-01",
+    "year": 2021,
+    "venue": "Goldschmidt2021 abstracts",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Elemental Analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Isotope Analysis in Ecology"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Commonwealth Scientific and Industrial Research Organisation",
+      "Mineral Resources",
+      "University of Copenhagen"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3212231705",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5049260361",
+      "A5085524944"
+    ],
+    "firstAuthorLastName": "Verdel",
+    "allAuthors": [
+      "Charles Verdel",
+      "M. J. Campbell",
+      "Alan S. Collins"
+    ],
+    "title": "Links Between the Ediacaran Zircon Geochemistry Anomaly and Extension-Related Magmatism in Gondwana",
+    "publicationDate": "2020-12-01",
+    "year": 2020,
+    "venue": "AGU Fall Meeting Abstracts",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4205122128",
+    "doi": "https://doi.org/10.46427/gold2020.692",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5047567431",
+      "A5055476815",
+      "A5007120945",
+      "A5039962635",
+      "A5089879286",
+      "A5075774703",
+      "A5067737483",
+      "A5024022389",
+      "A5019411628"
+    ],
+    "firstAuthorLastName": "Farkaš",
+    "allAuthors": [
+      "Juraj Farkaš",
+      "Robert Klaebe",
+      "Alan S. Collins",
+      "Geremiah Toledo",
+      "Robert Frei",
+      "Stefan Löhr",
+      "Sean T. Murray",
+      "Grant M. Cox",
+      "Morgan Blades",
+      "Darwinaji Subarkah"
+    ],
+    "title": "Fractionated Cr Isotopes in the Late Paleoprotorozoic Marine Carbonates from the McArthur Basin, Australia: A Record of Oxic Paleo-Seawater or a Later Diagenetic Fluid-Flow Event?",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "Goldschmidt Abstracts",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Elemental Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Radioactive element chemistry and processing"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "University of Copenhagen",
+      "Macquarie University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4206366312",
+    "doi": "https://doi.org/10.5194/gchron-2021-16-rc3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5072486753",
+      "A5054756549",
+      "A5011312843"
+    ],
+    "firstAuthorLastName": "Richards",
+    "allAuthors": [
+      "Lachlan Richards",
+      "Fred Jourdan",
+      "Alan S. Collins",
+      "Rosalind King"
+    ],
+    "title": "Comment on gchron-2021-16",
+    "publicationDate": "2021-07-02",
+    "year": 2021,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Methane Hydrates and Related Phenomena",
+      "Solid-state spectroscopy and crystallography",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Curtin University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4212968114",
+    "doi": "https://doi.org/10.31223/x5nh0g",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5066504483",
+      "A5024022389",
+      "A5001633563",
+      "A5060603963"
+    ],
+    "firstAuthorLastName": "Lloyd",
+    "allAuthors": [
+      "Jarred Lloyd",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Sarah Gilbert",
+      "Kathryn Amos"
+    ],
+    "title": "Early evolution of the Adelaide Superbasin",
+    "publicationDate": "2022-02-17",
+    "year": 2022,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies",
+      "Geological formations and processes"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4221118282",
+    "doi": "https://doi.org/10.5194/gchron-2022-8-supplement",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5019411628",
+      "A5033656235",
+      "A5060896718",
+      "A5024022389",
+      "A5047567431",
+      "A5001633563",
+      "A5012615845"
+    ],
+    "firstAuthorLastName": "Subarkah",
+    "allAuthors": [
+      "Darwinaji Subarkah",
+      "Angus Leslie Nixon",
+      "Mónica Blanco Jiménez",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Juraj Farkaš",
+      "Sarah Gilbert",
+      "Simon Holford"
+    ],
+    "title": "Supplementary material to \"Constraining the geothermal parameters of in situ Rb–Sr dating on Proterozoic shales and its subsequent applications\"",
+    "publicationDate": "2022-03-23",
+    "year": 2022,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4225405238",
+    "doi": "https://doi.org/10.5194/gchron-2022-8-rc1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5019411628",
+      "A5033656235",
+      "A5038161148",
+      "A5024022389",
+      "A5099353310",
+      "A5001633563",
+      "A5012615845"
+    ],
+    "firstAuthorLastName": "Subarkah",
+    "allAuthors": [
+      "Darwinaji Subarkah",
+      "Angus Leslie Nixon",
+      "Monica Jimenez",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Juraj FarkaÅ¡",
+      "Sarah Gilbert",
+      "Simon Holford"
+    ],
+    "title": "Comment on gchron-2022-8",
+    "publicationDate": "2022-05-04",
+    "year": 2022,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "Australian Resources Research Centre",
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4230778286",
+    "doi": "https://doi.org/10.46427/gold2020.197",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5015701755",
+      "A5067737483",
+      "A5079751043",
+      "A5073636321",
+      "A5024022389",
+      "A5077043211",
+      "A5060334504"
+    ],
+    "firstAuthorLastName": "Bishop",
+    "allAuthors": [
+      "Caleb Bishop",
+      "Grant M. Cox",
+      "Marcus Kunzmann",
+      "April Shannon",
+      "Morgan Blades",
+      "Jochen J. Brocks",
+      "Alan S. Collins",
+      "David E. A. Giles"
+    ],
+    "title": "Linking Neoproterozoic Oxygenation to the Marinoan Glaciation and Radiation of Eukaryotes",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "Goldschmidt Abstracts",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Methane Hydrates and Related Phenomena",
+      "Protist diversity and phylogeny"
+    ],
+    "institutions": [
+      "Australian National University",
+      "The University of Adelaide",
+      "Australian Resources Research Centre",
+      "Commonwealth Scientific and Industrial Research Organisation",
+      "Mineral Resources",
+      "University of Gothenburg",
+      "University of South Australia"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4238045073",
+    "doi": "https://doi.org/10.5194/gchron-2021-16-supplement",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5072486753",
+      "A5054756549",
+      "A5011312843"
+    ],
+    "firstAuthorLastName": "Richards",
+    "allAuthors": [
+      "Lachlan Richards",
+      "Fred Jourdan",
+      "Alan S. Collins",
+      "Rosalind King"
+    ],
+    "title": "Supplementary material to \"Deformation recorded in polyhalite from evaporite detachments revealed by <sup>40</sup> Ar/ <sup>39</sup> Ar dating\"",
+    "publicationDate": "2021-05-28",
+    "year": 2021,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Methane Hydrates and Related Phenomena",
+      "Geology and Paleoclimatology Research",
+      "Astro and Planetary Science"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4240760776",
+    "doi": "https://doi.org/10.5194/se-2020-31-rc1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins"
+    ],
+    "title": "Review of Gibson and Edwards",
+    "publicationDate": "2020-04-17",
+    "year": 2020,
+    "venue": "",
+    "citations": 0,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4244895546",
+    "doi": "https://doi.org/10.1017/s1068280500003543",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5094480201"
+    ],
+    "firstAuthorLastName": "Editor",
+    "allAuthors": [
+      "Peter Parks Editor",
+      "Alan S. Collins"
+    ],
+    "title": "AGE volume 31 issue 1 Cover and Front matter",
+    "publicationDate": "2002-04-01",
+    "year": 2002,
+    "venue": "Agricultural and Resource Economics Review",
+    "citations": 0,
+    "topics": [],
+    "institutions": [
+      "Rutgers, The State University of New Jersey"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4245101745",
+    "doi": "https://doi.org/10.31223/x59s38",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5023895706",
+      "A5060932213",
+      "A5044168243",
+      "A5017488325",
+      "A5077453916",
+      "A5037801456"
+    ],
+    "firstAuthorLastName": "Costa",
+    "allAuthors": [
+      "Raisa Costa",
+      "Renata da Silva Schmitt",
+      "Alan S. Collins",
+      "Sheree Armistead",
+      "Igor Vasconcelos Gomes",
+      "Donnelly B. Archibald",
+      "Theodore Razakamanana"
+    ],
+    "title": "Tectonic evolution of an Early Cryogenian late-magmatic basin in central Madagascar",
+    "publicationDate": "2021-01-28",
+    "year": 2021,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geochemistry and Elemental Analysis"
+    ],
+    "institutions": [
+      "Universidade Federal do Rio de Janeiro",
+      "The University of Adelaide",
+      "Geological Survey of Canada",
+      "Laurentian University",
+      "St. Francis Xavier University",
+      "University of Toliara"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4249558019",
+    "doi": "https://doi.org/10.1017/s1068280500008285",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5034297666",
+      "A5094448185",
+      "A5094688221",
+      "A5037375405",
+      "A5103468743",
+      "A5075554589",
+      "A5064446812",
+      "A5075242969",
+      "A5070530888",
+      "A5052665971",
+      "A5094688216",
+      "A5094412921",
+      "A5094688217",
+      "A5110908774",
+      "A5112835259",
+      "A5095255405",
+      "A5095255406",
+      "A5094688218",
+      "A5112738894",
+      "A5074024551",
+      "A5003347923",
+      "A5112736489",
+      "A5030600137",
+      "A5095255407",
+      "A5112787439",
+      "A5112816397",
+      "A5047928870",
+      "A5113708535",
+      "A5102472750",
+      "A5095255408",
+      "A5113996344"
+    ],
+    "firstAuthorLastName": "Kaiser",
+    "allAuthors": [
+      "Harry M. Kaiser",
+      "Alan S. Collins",
+      "Narea Secretaryffreasurer",
+      "Una Moneypenny",
+      "Jeremy Clark",
+      "Ramu Govindasamy",
+      "Tim Kelsey",
+      "Howard D. Leathers",
+      "Andrew J. Plantinga",
+      "Kevin Boyle",
+      "Jorge Fernandez‐Cornejo",
+      "Usda Conrado",
+      "Gempesaw Ii",
+      "John Delaware",
+      "New Halstead",
+      "Daniel Hampshire",
+      "Alberto Lass",
+      "New Manalo",
+      "Kellie Curry",
+      "Raper Shah",
+      "Qingbin Wang",
+      "Silvia Weyerbrock",
+      "James A. Dunn",
+      "Loren W. Tauer",
+      "Kevin Cornell",
+      "Alan Boyle",
+      "West Collins",
+      "J. S. Mackenzie",
+      "Gregory L. Poe",
+      "Cornell Small",
+      "Stephen Rutgers",
+      "Robert N. Smith"
+    ],
+    "title": "AGE volume 28 issue 2 Cover and Front matter",
+    "publicationDate": "1999-10-01",
+    "year": 1999,
+    "venue": "Agricultural and Resource Economics Review",
+    "citations": 0,
+    "topics": [],
+    "institutions": [
+      "Cornell University",
+      "West Virginia University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4282978103",
+    "doi": "https://doi.org/10.5194/gchron-2022-8-rc2",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5019411628",
+      "A5090128717",
+      "A5038161148",
+      "A5024022389",
+      "A5099353310",
+      "A5001633563",
+      "A5012615845",
+      "A5040267151"
+    ],
+    "firstAuthorLastName": "Subarkah",
+    "allAuthors": [
+      "Darwinaji Subarkah",
+      "Angus Nixon",
+      "Monica Jimenez",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Juraj FarkaÅ¡",
+      "Sarah Gilbert",
+      "Simon Holford",
+      "A.J.M. Jarrett"
+    ],
+    "title": "Comment on gchron-2022-8",
+    "publicationDate": "2022-06-15",
+    "year": 2022,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geochemistry and Geologic Mapping",
+      "Isotope Analysis in Ecology"
+    ],
+    "institutions": [
+      "Australian Resources Research Centre",
+      "The University of Adelaide",
+      "Northern Territory Geological Survey",
+      "Government of the Northern Territory"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4283073568",
+    "doi": "https://doi.org/10.36404/hlzs1614",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5010536123",
+      "A5044450860",
+      "A5047567431",
+      "A5057807377",
+      "A5054176615",
+      "A5073201023",
+      "A5058223761",
+      "A5060822821"
+    ],
+    "firstAuthorLastName": "Subarka",
+    "allAuthors": [
+      "Darwinaji Subarka",
+      "Morgan L Blades",
+      "Alan S. Collins",
+      "Juraj Farkaš",
+      "Sarah C. Gilbert",
+      "Stefan C Löhr",
+      "Ahmad Redaa",
+      "Eilidh Cassidy",
+      "Thomas Zack"
+    ],
+    "title": "Unravelling the histories of Proterozoic shales through in situ Rb-Sr dating &amp; trace element laser ablation analysis",
+    "publicationDate": "2022-03-23",
+    "year": 2022,
+    "venue": "PESA News",
+    "citations": 0,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4298334678",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5018030381",
+      "A5009900697",
+      "A5058446084",
+      "A5046339937"
+    ],
+    "firstAuthorLastName": "Gaillou",
+    "allAuthors": [
+      "Éloïse Gaillou",
+      "Wuyi Wang",
+      "J. E. King",
+      "Alan S. Collins",
+      "Moses Thomas"
+    ],
+    "title": "THE WITTELSBACH-GRAFF AND HOPE DIAMONDS: NOT CUT FROM THE SAME ROUGH",
+    "publicationDate": "2010-07-01",
+    "year": 2010,
+    "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "citations": 0,
+    "topics": [
+      "Nuclear Materials and Properties",
+      "High Temperature Alloys and Creep"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4299551285",
+    "doi": "https://doi.org/10.17615/jhjg-5m68",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5068597847",
+      "A5015685233",
+      "A5049494646",
+      "A5010851373",
+      "A5067200603",
+      "A5044567678",
+      "A5069826985"
+    ],
+    "firstAuthorLastName": "Cox",
+    "allAuthors": [
+      "Rónadh Cox",
+      "Drew S. Coleman",
+      "Carla B. Chokel",
+      "Stephen Deoreo",
+      "Joseph L. Wooden",
+      "Alan S. Collins",
+      "Bert De Waele",
+      "Alfred Kröner"
+    ],
+    "title": "Proterozoic Tectonostratigraphy and Paleogeography of Central Madagascar Derived from Detrital Zircon U‐Pb Age Populations",
+    "publicationDate": "2021-07-03",
+    "year": 2021,
+    "venue": "UNC Libraries",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Crystal Structures and Properties"
+    ],
+    "institutions": [
+      "University of North Carolina at Chapel Hill"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4312352945",
+    "doi": "https://doi.org/10.46427/gold2022.9391",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5041836853",
+      "A5024022389",
+      "A5022653889",
+      "A5085824509",
+      "A5057807377",
+      "A5064341140",
+      "A5073351225"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins",
+      "Flynn Cameron",
+      "Morgan Blades",
+      "Derrick Hasterok",
+      "Alexander I. F. Simpson",
+      "Sarah C. Gilbert",
+      "Chris D. Clark",
+      "Sean Makin"
+    ],
+    "title": "Size is everything: reconstructing the East African Orogen—a Gondwanan supermountain—as a critical step to modelling the Neoproterozoic earth system",
+    "publicationDate": "2022-01-01",
+    "year": 2022,
+    "venue": "Goldschmidt2022 abstracts",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Curtin University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4312443310",
+    "doi": "https://doi.org/10.46427/gold2022.10706",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5019411628",
+      "A5047567431",
+      "A5024022389",
+      "A5089532212",
+      "A5084629164"
+    ],
+    "firstAuthorLastName": "Subarkah",
+    "allAuthors": [
+      "Darwinaji Subarkah",
+      "Alan S. Collins",
+      "Juraj Farkaš",
+      "Morgan Blades",
+      "Georgina Virgo",
+      "Yuexiao Shao"
+    ],
+    "title": "Reconstructing ancient palaeoenvironments from the Mid-Proterozoic packages of the greater McArthur Basin, Northern Australia",
+    "publicationDate": "2022-01-01",
+    "year": 2022,
+    "venue": "Goldschmidt2022 abstracts",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "UCL Australia"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4312446946",
+    "doi": "https://doi.org/10.46427/gold2022.10650",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5073201023",
+      "A5047567431",
+      "A5057807377",
+      "A5089879286",
+      "A5090486808",
+      "A5009228905",
+      "A5024022389",
+      "A5023085486",
+      "A5042828801",
+      "A5062781095"
+    ],
+    "firstAuthorLastName": "Redaa",
+    "allAuthors": [
+      "Ahmad Redaa",
+      "Juraj Farkaš",
+      "Sarah C. Gilbert",
+      "Alan S. Collins",
+      "Stefan Löhr",
+      "Davood Vasegh",
+      "Marnie Forster",
+      "Morgan Blades",
+      "Andre Baldermann",
+      "Martin Dietzel",
+      "Dieter Garbe‐Schönberg"
+    ],
+    "title": "Assessment of Mica-Mg and GL-O nano-powders as reference materials for in-situ Rb-Sr dating by LA-ICP-MS/MS",
+    "publicationDate": "2022-01-01",
+    "year": 2022,
+    "venue": "Goldschmidt2022 abstracts",
+    "citations": 0,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "earthquake and tectonic studies",
+      "Geomagnetism and Paleomagnetism Studies"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "King Abdulaziz University",
+      "Australian National University",
+      "Graz University of Technology",
+      "Christian-Albrechts-Universität zu Kiel"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4312516620",
+    "doi": "https://doi.org/10.2139/ssrn.4292810",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5066324594",
+      "A5089879286",
+      "A5059295869",
+      "A5027209373"
+    ],
+    "firstAuthorLastName": "Baruch",
+    "allAuthors": [
+      "Elizabeth T. Baruch",
+      "Stefan Löhr",
+      "Shujun Han",
+      "David N. Dewhurst",
+      "Alan S. Collins"
+    ],
+    "title": "Comparing “Apples” and “Oranges” in the Woodford Shale: Pitfalls of the Thermal Maturity Gradient Approach for Constraining Evolution of Mudrock Porosity",
+    "publicationDate": "2022-01-01",
+    "year": 2022,
+    "venue": "SSRN Electronic Journal",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Enhanced Oil Recovery Techniques"
+    ],
+    "institutions": [
+      "Macquarie University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4312893213",
+    "doi": "https://doi.org/10.46427/gold2022.12852",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5089532212",
+      "A5060603963",
+      "A5047567431",
+      "A5024022389",
+      "A5019411628"
+    ],
+    "firstAuthorLastName": "Virgo",
+    "allAuthors": [
+      "Georgina Virgo",
+      "Alan S. Collins",
+      "Kathryn Amos",
+      "Juraj Farkaš",
+      "Morgan Blades",
+      "Darwinaji Subarkah"
+    ],
+    "title": "Descending into the “snowball”: Improving interpretations of Tonian–Cryogenian palaeoenvironments with sedimentology and multiproxy geochemistry",
+    "publicationDate": "2022-01-01",
+    "year": 2022,
+    "venue": "Goldschmidt2022 abstracts",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "UCL Australia"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4313196509",
+    "doi": "https://doi.org/10.46427/gold2022.10661",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5010409030",
+      "A5047567431",
+      "A5049260361",
+      "A5001633563",
+      "A5071130952",
+      "A5048601337",
+      "A5089879286",
+      "A5034819594",
+      "A5048192484",
+      "A5037863244",
+      "A5073201023",
+      "A5024022389"
+    ],
+    "firstAuthorLastName": "Loyola",
+    "allAuthors": [
+      "Cecilia Loyola",
+      "Juraj Farkaš",
+      "Charles Verdel",
+      "Sarah Gilbert",
+      "Lance Holmes",
+      "Emma Hissey",
+      "Stefan Löhr",
+      "Glenn A. Brock",
+      "Graham Shields",
+      "Christine Edgoose",
+      "Ahmad Redaa",
+      "Morgan Blades",
+      "Alan S. Collins"
+    ],
+    "title": "In situ Rb–Sr dating and trace element analysis of glauconite-rich strata from the Arumbera Sandstone, Amadeus Basin",
+    "publicationDate": "2022-01-01",
+    "year": 2022,
+    "venue": "Goldschmidt2022 abstracts",
+    "citations": 0,
+    "topics": [
+      "Geological Formations and Processes Exploration",
+      "Image Processing and 3D Reconstruction",
+      "Planetary Science and Exploration"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Northern Territory Geological Survey",
+      "Government of the Northern Territory",
+      "United States Geological Survey",
+      "Macquarie University",
+      "University College London"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4315817132",
+    "doi": "https://doi.org/10.53841/bpstalk.2006.1.54.30",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins"
+    ],
+    "title": "BPS – History and Philosophy of Psychology Section 20th Annual Conference",
+    "publicationDate": "2006-07-01",
+    "year": 2006,
+    "venue": "Psych-Talk",
+    "citations": 0,
+    "topics": [
+      "Academic and Historical Perspectives in Psychology",
+      "Scientific Research and Philosophical Inquiry"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4319225893",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106161",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5066324594",
+      "A5089879286",
+      "A5066087367",
+      "A5027209373"
+    ],
+    "firstAuthorLastName": "Baruch",
+    "allAuthors": [
+      "Elizabeth T. Baruch",
+      "Stefan Löhr",
+      "Shujun Han",
+      "David N. Dewhurst",
+      "Alan S. Collins"
+    ],
+    "title": "Comparing “apples” and “oranges” in the Woodford Shale: Pitfalls of the thermal maturity gradient approach for constraining evolution of mudrock porosity",
+    "publicationDate": "2023-02-04",
+    "year": 2023,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Atmospheric and Environmental Gas Dynamics"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Macquarie University",
+      "Research Institute of Petroleum Exploration and Development",
+      "Commonwealth Scientific and Industrial Research Organisation"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4384434979",
+    "doi": "https://doi.org/10.36404/qdud3478",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5024022389",
+      "A5047567431",
+      "A5019411628",
+      "A5090128717",
+      "A5057911678",
+      "A5059818051",
+      "A5012615845",
+      "A5011312843",
+      "A5007191033",
+      "A5001633563",
+      "A5102896077",
+      "A5021016261",
+      "A5092477562",
+      "A5040267151",
+      "A5044266873",
+      "A5004698545",
+      "A5038326726",
+      "A5022653889",
+      "A5042746575",
+      "A5110038075",
+      "A5041468811",
+      "A5039962635"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Juraj Farkaš",
+      "Darwinaji Subarkah",
+      "Angus Nixon",
+      "Stijn Glorie",
+      "Bo Yang",
+      "Simon Holford",
+      "Rosalind King",
+      "Carl Spandler",
+      "Sarah Gilbert",
+      "Deepak Apte",
+      "Joelson Lima Soares",
+      "Yaser Noorian Madavan",
+      "A.J.M. Jarrett",
+      "T. Munson",
+      "Xu Cao",
+      "Nicolas Flament",
+      "Derrick Hasterok",
+      "R. Dietmar Müller",
+      "Sergei Pisarevsky",
+      "Sanzhong Li",
+      "Robert Frei"
+    ],
+    "title": "The Proterozoic greater McArthur Basin – New ways of looking at a frontier resource-rich basin",
+    "publicationDate": "2022-08-30",
+    "year": 2022,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geochemistry and Geologic Mapping",
+      "Geological formations and processes"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4384435016",
+    "doi": "https://doi.org/10.36404/dyhy1639",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5019411628",
+      "A5090128717",
+      "A5060896718",
+      "A5024022389",
+      "A5047567431",
+      "A5001633563",
+      "A5012615845"
+    ],
+    "firstAuthorLastName": "Subarkah",
+    "allAuthors": [
+      "Darwinaji Subarkah",
+      "Angus Nixon",
+      "Mónica Blanco Jiménez",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Juraj Farkaš",
+      "Sarah Gilbert",
+      "Simon Holford"
+    ],
+    "title": "Geothermal parameters of in situ Rb–Sr dating on Proterozoic shales and its applications",
+    "publicationDate": "2022-08-30",
+    "year": 2022,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Isotope Analysis in Ecology",
+      "Archaeology and ancient environmental studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4384435027",
+    "doi": "https://doi.org/10.36404/fiwq4275",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5047567431",
+      "A5089879286",
+      "A5049260361",
+      "A5024022389",
+      "A5004449689",
+      "A5070963259",
+      "A5084629164",
+      "A5019411628",
+      "A5055476815",
+      "A5092477576"
+    ],
+    "firstAuthorLastName": "Farkaš",
+    "allAuthors": [
+      "Juraj Farkaš",
+      "Alan S. Collins",
+      "Stefan Löhr",
+      "Charles Verdel",
+      "Morgan Blades",
+      "Chris Holmden",
+      "Susanne Schmid",
+      "Yuexiao Shao",
+      "Darwinaji Subarkah",
+      "Robert Klaebe",
+      "Shaun Yardley"
+    ],
+    "title": "New metal isotope techniques to explore past depositional environments of the Centralian Superbasin, Australia",
+    "publicationDate": "2022-08-30",
+    "year": 2022,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4386010514",
+    "doi": "https://doi.org/10.2307/jj.5993280.17",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5051523448"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins",
+      "Andrew Merdith"
+    ],
+    "title": "A map that fills a 500-million-year gap in Earth’s history",
+    "publicationDate": "2017-10-30",
+    "year": 2017,
+    "venue": "MUP eBooks",
+    "citations": 0,
+    "topics": [
+      "Marine and environmental studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4389562867",
+    "doi": "https://doi.org/10.7185/gold2023.16352",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5067271273",
+      "A5047567431",
+      "A5057911678",
+      "A5019411628",
+      "A5001633563",
+      "A5089879286",
+      "A5049260361",
+      "A5055438021",
+      "A5007191033"
+    ],
+    "firstAuthorLastName": "Shao",
+    "allAuthors": [
+      "Zhufu Shao",
+      "Juraj Farkaš",
+      "Alan S. Collins",
+      "Stijn Glorie",
+      "Darwinaji Subarkah",
+      "Sarah Gilbert",
+      "Stefan Löhr",
+      "Charles Verdel",
+      "Diana Zivak",
+      "Carl Spandler"
+    ],
+    "title": "In-situ triple dating (Rb-Sr, Lu-Hf, U-Pb) of carbonate-hosted glauconite and bioapatite from the Middle Cambrian Georgina Basin, Australia",
+    "publicationDate": "2023-01-01",
+    "year": 2023,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Northern Territory Geological Survey"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4389562870",
+    "doi": "https://doi.org/10.7185/gold2023.16367",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5047567431",
+      "A5019090884",
+      "A5073201023",
+      "A5089879286",
+      "A5057807377",
+      "A5024022389",
+      "A5060822821"
+    ],
+    "firstAuthorLastName": "Farkaš",
+    "allAuthors": [
+      "Juraj Farkaš",
+      "Chris Carson",
+      "Ahmad Redaa",
+      "Stefan Löhr",
+      "Sarah C. Gilbert",
+      "Morgan Blades",
+      "Alan S. Collins",
+      "Thomas Zack"
+    ],
+    "title": "A novel method for dating of ancient marine volcanic rocks: Constraints from in-situ Rb-Sr dating of authigenic green clays formed in vesicles of the late Paleoproterozoic lavas from NT, Australia",
+    "publicationDate": "2023-01-01",
+    "year": 2023,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Geological formations and processes",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Geoscience Australia",
+      "University of Gothenburg"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4389562887",
+    "doi": "https://doi.org/10.7185/gold2023.16311",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5010409030",
+      "A5047567431",
+      "A5049260361",
+      "A5089879286",
+      "A5001633563",
+      "A5071130952",
+      "A5034819594",
+      "A5048192484",
+      "A5037863244",
+      "A5073201023",
+      "A5024022389",
+      "A5015701755",
+      "A5048008981",
+      "A5003452705",
+      "A5073130700"
+    ],
+    "firstAuthorLastName": "Loyola",
+    "allAuthors": [
+      "Cecilia Loyola",
+      "Juraj Farkaš",
+      "Charles Verdel",
+      "Stefan Löhr",
+      "Sarah Gilbert",
+      "Lance Holmes",
+      "Glenn A. Brock",
+      "Graham Shields",
+      "Christine Edgoose",
+      "Ahmad Redaa",
+      "Morgan Blades",
+      "Alan S. Collins",
+      "Caleb Bishop",
+      "Sarah Giles",
+      "Nicholas Christie‐Blick",
+      "Peter Haines"
+    ],
+    "title": "In situ Rb-Sr dating and REE patterns of Ediacaran glauconites and detrital feldspars from the Centralian Superbasin and the Flinders Ranges, Australia",
+    "publicationDate": "2023-01-01",
+    "year": 2023,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "Northern Territory Geological Survey",
+      "Macquarie University",
+      "University College London",
+      "King Abdulaziz University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4389562990",
+    "doi": "https://doi.org/10.7185/gold2023.16317",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5108884910",
+      "A5047567431",
+      "A5019411628",
+      "A5003363361",
+      "A5001633563",
+      "A5024022389",
+      "A5085176067",
+      "A5024622332",
+      "A5104211889"
+    ],
+    "firstAuthorLastName": "Zheng",
+    "allAuthors": [
+      "Ruiqi Zheng",
+      "Juraj Farkaš",
+      "Alan S. Collins",
+      "Darwinaji Subarkah",
+      "Justin L. Payne",
+      "Sarah Gilbert",
+      "Morgan Blades",
+      "Liam Courtney‐Davies",
+      "Erick Ramanaïdou",
+      "Davie Giles"
+    ],
+    "title": "New constraints on the origin and post-depositional history of Neoproterozoic Breamar ironstones from South Australia: Insights from micro-scale mineral mapping and in-situ Rb-Sr dating of illite and U-Pb dating of hematite",
+    "publicationDate": "2023-01-01",
+    "year": 2023,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "University of South Australia",
+      "Commonwealth Scientific and Industrial Research Organisation",
+      "Health Sciences and Nutrition",
+      "University of Colorado Boulder",
+      "University of Colorado System"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4389563200",
+    "doi": "https://doi.org/10.7185/gold2023.16372",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5019411628",
+      "A5090128717",
+      "A5057807377",
+      "A5024022389",
+      "A5089532212",
+      "A5010761014",
+      "A5067271273",
+      "A5047567431"
+    ],
+    "firstAuthorLastName": "Subarkah",
+    "allAuthors": [
+      "Darwinaji Subarkah",
+      "Angus Nixon",
+      "Alan S. Collins",
+      "Sarah C. Gilbert",
+      "Morgan Blades",
+      "Georgina Virgo",
+      "Alexander Simpson",
+      "Zhufu Shao",
+      "Juraj Farkaš"
+    ],
+    "title": "New ways to date old rocks: novel applications of in situ geochronology to constrain the sedimentary archive",
+    "publicationDate": "2023-01-01",
+    "year": 2023,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Pleistocene-Era Hominins and Archaeology",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4392759757",
+    "doi": "https://doi.org/10.5194/egusphere-egu24-14298",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5019411628",
+      "A5089879286",
+      "A5090128717",
+      "A5024022389",
+      "A5047567431",
+      "A5066504483",
+      "A5055476815",
+      "A5001633563",
+      "A5089532212"
+    ],
+    "firstAuthorLastName": "Subarkah",
+    "allAuthors": [
+      "Darwinaji Subarkah",
+      "Alan S. Collins",
+      "Stefan Löhr",
+      "Angus Nixon",
+      "Morgan Blades",
+      "Juraj Farkaš",
+      "Jarred Lloyd",
+      "Robert Klaebe",
+      "Sarah Gilbert",
+      "Georgina Virgo"
+    ],
+    "title": "Direct dating of global Cryogenian sections by in situ U&amp;#8211;Pb mapping of carbonates",
+    "publicationDate": "2024-03-09",
+    "year": 2024,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Methane Hydrates and Related Phenomena",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4393463067",
+    "doi": "https://doi.org/10.5281/zenodo.5093930",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5022653889",
+      "A5109698223",
+      "A5032161414",
+      "A5063283012",
+      "A5057911678",
+      "A5056452960"
+    ],
+    "firstAuthorLastName": "Hasterok",
+    "allAuthors": [
+      "Derrick Hasterok",
+      "Jaqueline Halpin",
+      "Alan S. Collins",
+      "Martin Hand",
+      "Corné Kreemer",
+      "Stijn Glorie",
+      "Matthew Gard"
+    ],
+    "title": "New maps of global geologic provinces and tectonic plates: global tectonics data and QGIS project file",
+    "publicationDate": "2022-03-19",
+    "year": 2022,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological Studies and Exploration",
+      "Geological Modeling and Analysis"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "University of Tasmania",
+      "University of Nevada, Reno",
+      "Geoscience Australia"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4393528116",
+    "doi": "https://doi.org/10.5281/zenodo.5093929",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5022653889",
+      "A5109698223",
+      "A5032161414",
+      "A5063283012",
+      "A5056452960",
+      "A5057911678"
+    ],
+    "firstAuthorLastName": "Hasterok",
+    "allAuthors": [
+      "Derrick Hasterok",
+      "Jaqueline Halpin",
+      "Alan S. Collins",
+      "Martin Hand",
+      "Corné Kreemer",
+      "Matthew Gard",
+      "Stijn Glorie"
+    ],
+    "title": "New maps of global geologic provinces and tectonic plates: global tectonics data and QGIS project file",
+    "publicationDate": "2022-03-19",
+    "year": 2022,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological Studies and Exploration",
+      "Geological Modeling and Analysis"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "University of Tasmania",
+      "University of Nevada, Reno",
+      "Geoscience Australia"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4394066259",
+    "doi": "https://doi.org/10.6084/m9.figshare.5195581",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5077453916",
+      "A5004188350",
+      "A5003363361",
+      "A5046845730",
+      "A5030177136",
+      "A5004333485"
+    ],
+    "firstAuthorLastName": "Archibald",
+    "allAuthors": [
+      "Donnelly B. Archibald",
+      "Alan S. Collins",
+      "John Foden",
+      "Justin L. Payne",
+      "P.H. Macey",
+      "Peter Holden",
+      "Théodore Razakamanana"
+    ],
+    "title": "U–Pb Data. Stenian–Tonian arc magmatism in west–central Madagascar: the genesis of the Dabolava Suite",
+    "publicationDate": "2017-01-01",
+    "year": 2017,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Paleontology and Evolutionary Biology"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394076159",
+    "doi": "https://doi.org/10.6084/m9.figshare.7660730",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5011450580",
+      "A5002671147",
+      "A5057911678",
+      "A5013933429",
+      "A5050798817"
+    ],
+    "firstAuthorLastName": "Alessio",
+    "allAuthors": [
+      "Brandon L. Alessio",
+      "Alan S. Collins",
+      "Chris Clark",
+      "Stijn Glorie",
+      "Pete R. Siegfried",
+      "Richard Taylor"
+    ],
+    "title": "Table S5. Trace element analyses. Age, origin and palaeogeography of the Southern Irumide Belt, Zambia",
+    "publicationDate": "2019-01-01",
+    "year": 2019,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394103681",
+    "doi": "https://doi.org/10.6084/m9.figshare.13234196",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5090128717",
+      "A5057911678",
+      "A5051964737",
+      "A5056298558",
+      "A5082011068",
+      "A5103931603",
+      "A5056104477"
+    ],
+    "firstAuthorLastName": "Nixon",
+    "allAuthors": [
+      "Angus Nixon",
+      "Stijn Glorie",
+      "Alan S. Collins",
+      "Jo Whelan",
+      "Barry L. Reno",
+      "Martin Danišík",
+      "Benjamin P. Wade",
+      "Geoff Fraser"
+    ],
+    "title": "Appendix 3: Apatite fission track data. Footprints of the Alice Springs Orogeny preserved in far northern Australia: An application of multi-kinetic thermochronology in the Pine Creek Orogen and Arnhem Province",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394114940",
+    "doi": "https://doi.org/10.6084/m9.figshare.21501447",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5077453916",
+      "A5044168243",
+      "A5004188350",
+      "A5003363361",
+      "A5004333485"
+    ],
+    "firstAuthorLastName": "Archibald",
+    "allAuthors": [
+      "Donnelly B. Archibald",
+      "Alan S. Collins",
+      "Sheree Armistead",
+      "John Foden",
+      "Justin L. Payne",
+      "Théodore Razakamanana"
+    ],
+    "title": "S3: Zircon U–Pb, oxygen and hafnium isotopic characteristics of the Neoarchaean–Palaeoproterozoic Betsiboka Suite, Madagascar: tracing source to sink pathways in Proterozoic and Phanerozoic provenance studies",
+    "publicationDate": "2022-01-01",
+    "year": 2022,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394115825",
+    "doi": "https://doi.org/10.6084/m9.figshare.5195593",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5077453916",
+      "A5004188350",
+      "A5003363361",
+      "A5046845730",
+      "A5030177136",
+      "A5004333485"
+    ],
+    "firstAuthorLastName": "Archibald",
+    "allAuthors": [
+      "Donnelly B. Archibald",
+      "Alan S. Collins",
+      "John Foden",
+      "Justin L. Payne",
+      "P.H. Macey",
+      "Peter Holden",
+      "Théodore Razakamanana"
+    ],
+    "title": "MC-LA-ICP-MS zircon Hf isotope compositions. Stenian–Tonian arc magmatism in west–central Madagascar: the genesis of the Dabolava Suite",
+    "publicationDate": "2017-01-01",
+    "year": 2017,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394120024",
+    "doi": "https://doi.org/10.6084/m9.figshare.7880405",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5100453371",
+      "A5024022389",
+      "A5012629503",
+      "A5003363361",
+      "A5073106035",
+      "A5067737483",
+      "A5057911678"
+    ],
+    "firstAuthorLastName": "Yang",
+    "allAuthors": [
+      "Bo Yang",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "N. Capogreco",
+      "Justin L. Payne",
+      "Tim J. Munson",
+      "Grant M. Cox",
+      "Stijn Glorie"
+    ],
+    "title": "Appendices 2 and 3. Sample description and concordia plot. Middle-late Mesoproterozoic tectonic geography of the North Australia Craton: U–Pb and Hf isotopes of detrital zircon grains in the Beetaloo Sub basin, Northern Territory, Australia.",
+    "publicationDate": "2019-01-01",
+    "year": 2019,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394126204",
+    "doi": "https://doi.org/10.6084/m9.figshare.14547392",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5090122630",
+      "A5057911678",
+      "A5047873001",
+      "A5032194855",
+      "A5028666796",
+      "A5082011068"
+    ],
+    "firstAuthorLastName": "Gillespie",
+    "allAuthors": [
+      "Jack Gillespie",
+      "Stijn Glorie",
+      "Gilby Jepson",
+      "Ф.И. Жимулев",
+      "Dmitriy Gurevich",
+      "Martin Danišík",
+      "Alan S. Collins"
+    ],
+    "title": "Table S4. Inherited structure as a control on late Paleozoic and Mesozoic exhumation of the Tarbagatai Mountains, southeastern Kazakhstan",
+    "publicationDate": "2021-01-01",
+    "year": 2021,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394160728",
+    "doi": "https://doi.org/10.6084/m9.figshare.23207099",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5100453377",
+      "A5024022389",
+      "A5054756549"
+    ],
+    "firstAuthorLastName": "Yang",
+    "allAuthors": [
+      "Bo Yang",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Fred Jourdan"
+    ],
+    "title": "Orogens and detritus: unravelling the Mesoproterozoic tectonic geography of northern Australia through coupled detrital thermo- and geo-chronometers",
+    "publicationDate": "2023-01-01",
+    "year": 2023,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394177494",
+    "doi": "https://doi.org/10.6084/m9.figshare.21501441",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5077453916",
+      "A5044168243",
+      "A5004188350",
+      "A5003363361",
+      "A5004333485"
+    ],
+    "firstAuthorLastName": "Archibald",
+    "allAuthors": [
+      "Donnelly B. Archibald",
+      "Alan S. Collins",
+      "Sheree Armistead",
+      "John Foden",
+      "Justin L. Payne",
+      "Théodore Razakamanana"
+    ],
+    "title": "S2: Zircon U–Pb, oxygen and hafnium isotopic characteristics of the Neoarchaean–Palaeoproterozoic Betsiboka Suite, Madagascar: tracing source to sink pathways in Proterozoic and Phanerozoic provenance studies",
+    "publicationDate": "2022-01-01",
+    "year": 2022,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394182827",
+    "doi": "https://doi.org/10.6084/m9.figshare.11806179.v2",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5066504483",
+      "A5024022389",
+      "A5060603963",
+      "A5103931603",
+      "A5014308365",
+      "A5027800100",
+      "A5080580201",
+      "A5079379016",
+      "A5045941951",
+      "A5095032375"
+    ],
+    "firstAuthorLastName": "Lloyd",
+    "allAuthors": [
+      "Jarred Lloyd",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Kathryn Amos",
+      "Benjamin P. Wade",
+      "John W. Counts",
+      "Stephen Hore",
+      "Ashleigh Job",
+      "James Hall",
+      "Sameh Shahin",
+      "Matt Drabsch"
+    ],
+    "title": "Neoproterozoic geochronology and provenance of the Adelaide Rift Complex – a summary of knowledge (dataset)",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394201475",
+    "doi": "https://doi.org/10.6084/m9.figshare.5195587",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5077453916",
+      "A5004188350",
+      "A5003363361",
+      "A5046845730",
+      "A5030177136",
+      "A5004333485"
+    ],
+    "firstAuthorLastName": "Archibald",
+    "allAuthors": [
+      "Donnelly B. Archibald",
+      "Alan S. Collins",
+      "John Foden",
+      "Justin L. Payne",
+      "P.H. Macey",
+      "Peter Holden",
+      "Théodore Razakamanana"
+    ],
+    "title": "SHRIMP II oxygen isotope results from zircon. Stenian–Tonian arc magmatism in west–central Madagascar: the genesis of the Dabolava Suite",
+    "publicationDate": "2017-01-01",
+    "year": 2017,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394203729",
+    "doi": "https://doi.org/10.6084/m9.figshare.7660727",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5011450580",
+      "A5002671147",
+      "A5057911678",
+      "A5013933429",
+      "A5050798817"
+    ],
+    "firstAuthorLastName": "Alessio",
+    "allAuthors": [
+      "Brandon L. Alessio",
+      "Alan S. Collins",
+      "Chris Clark",
+      "Stijn Glorie",
+      "Pete R. Siegfried",
+      "Richard Taylor"
+    ],
+    "title": "Table S1. Sample and zircon descriptions. Age, origin and palaeogeography of the Southern Irumide Belt, Zambia",
+    "publicationDate": "2019-01-01",
+    "year": 2019,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394206605",
+    "doi": "https://doi.org/10.6084/m9.figshare.7660715",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5011450580",
+      "A5002671147",
+      "A5057911678",
+      "A5013933429",
+      "A5050798817"
+    ],
+    "firstAuthorLastName": "Alessio",
+    "allAuthors": [
+      "Brandon L. Alessio",
+      "Alan S. Collins",
+      "Chris Clark",
+      "Stijn Glorie",
+      "Pete R. Siegfried",
+      "Richard Taylor"
+    ],
+    "title": "Table S4. Zircon REE. Age, origin and palaeogeography of the Southern Irumide Belt, Zambia",
+    "publicationDate": "2019-01-01",
+    "year": 2019,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394210902",
+    "doi": "https://doi.org/10.6084/m9.figshare.19150607",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5066504483",
+      "A5024022389",
+      "A5057807377",
+      "A5060603963"
+    ],
+    "firstAuthorLastName": "Lloyd",
+    "allAuthors": [
+      "Jarred Lloyd",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Sarah C. Gilbert",
+      "Kathryn Amos"
+    ],
+    "title": "Burra Group, Yerelina Subgroup, and Pound Subgroup detrital zircon dataset (Lloyd et al.)",
+    "publicationDate": "2022-01-01",
+    "year": 2022,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geochemical Analysis",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394225239",
+    "doi": "https://doi.org/10.6084/m9.figshare.3454244",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5045182939"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins",
+      "Craig Buchan"
+    ],
+    "title": "Provenance and age constraints of the South Stack Group, Anglesey, UK: U–Pb SIMS detrital zircon data.",
+    "publicationDate": "2016-01-01",
+    "year": 2016,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geochemical Analysis",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394242701",
+    "doi": "https://doi.org/10.6084/m9.figshare.5195605",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5077453916",
+      "A5004188350",
+      "A5003363361",
+      "A5046845730",
+      "A5030177136",
+      "A5004333485"
+    ],
+    "firstAuthorLastName": "Archibald",
+    "allAuthors": [
+      "Donnelly B. Archibald",
+      "Alan S. Collins",
+      "John Foden",
+      "Justin L. Payne",
+      "P.H. Macey",
+      "Peter Holden",
+      "Théodore Razakamanana"
+    ],
+    "title": "Nd, Sm, and Sr isotope data. Stenian–Tonian arc magmatism in west–central Madagascar: the genesis of the Dabolava Suite",
+    "publicationDate": "2017-01-01",
+    "year": 2017,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394246357",
+    "doi": "https://doi.org/10.6084/m9.figshare.21501444",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5077453916",
+      "A5044168243",
+      "A5004188350",
+      "A5003363361",
+      "A5004333485"
+    ],
+    "firstAuthorLastName": "Archibald",
+    "allAuthors": [
+      "Donnelly B. Archibald",
+      "Alan S. Collins",
+      "Sheree Armistead",
+      "John Foden",
+      "Justin L. Payne",
+      "Théodore Razakamanana"
+    ],
+    "title": "S4: Zircon U–Pb, oxygen and hafnium isotopic characteristics of the Neoarchaean–Palaeoproterozoic Betsiboka Suite, Madagascar: tracing source to sink pathways in Proterozoic and Phanerozoic provenance studies",
+    "publicationDate": "2022-01-01",
+    "year": 2022,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394255453",
+    "doi": "https://doi.org/10.6084/m9.figshare.18131432",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5066504483",
+      "A5024022389",
+      "A5001633563",
+      "A5060603963"
+    ],
+    "firstAuthorLastName": "Lloyd",
+    "allAuthors": [
+      "Jarred Lloyd",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Sarah Gilbert",
+      "Kathryn Amos"
+    ],
+    "title": "LA-ICP-MS detrital zircon standards results",
+    "publicationDate": "2022-01-01",
+    "year": 2022,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Mineralogy and Gemology Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394265011",
+    "doi": "https://doi.org/10.6084/m9.figshare.21624162",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5019411628",
+      "A5066504483",
+      "A5024022389",
+      "A5001942958"
+    ],
+    "firstAuthorLastName": "Subarkah",
+    "allAuthors": [
+      "Darwinaji Subarkah",
+      "Jarred Lloyd",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Carmen Krapf"
+    ],
+    "title": "Drillhole SR13/2 in-situ Rb–Sr shale geochronology (Sturt Formation)",
+    "publicationDate": "2022-01-01",
+    "year": 2022,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological Studies and Exploration",
+      "Geotechnical and Geomechanical Engineering",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4394271231",
+    "doi": "https://doi.org/10.6084/m9.figshare.11806179.v1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5066504483",
+      "A5024022389",
+      "A5060603963",
+      "A5103931603",
+      "A5014308365",
+      "A5027800100",
+      "A5080580201",
+      "A5079379016",
+      "A5045941951",
+      "A5095032375"
+    ],
+    "firstAuthorLastName": "Lloyd",
+    "allAuthors": [
+      "Jarred Lloyd",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Kathryn Amos",
+      "Benjamin P. Wade",
+      "John W. Counts",
+      "Stephen Hore",
+      "Ashleigh Job",
+      "James Hall",
+      "Sameh Shahin",
+      "Matt Drabsch"
+    ],
+    "title": "Neoproterozoic geochronology and provenance of the Adelaide Rift Complex – a summary of knowledge (dataset)",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394308899",
+    "doi": "https://doi.org/10.6084/m9.figshare.5195590",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5077453916",
+      "A5004188350",
+      "A5003363361",
+      "A5046845730",
+      "A5030177136",
+      "A5004333485"
+    ],
+    "firstAuthorLastName": "Archibald",
+    "allAuthors": [
+      "Donnelly B. Archibald",
+      "Alan S. Collins",
+      "John Foden",
+      "Justin L. Payne",
+      "P.H. Macey",
+      "Peter Holden",
+      "Théodore Razakamanana"
+    ],
+    "title": "Whole-rock geochemical data. Stenian–Tonian arc magmatism in west–central Madagascar: the genesis of the Dabolava Suite",
+    "publicationDate": "2017-01-01",
+    "year": 2017,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394330052",
+    "doi": "https://doi.org/10.6084/m9.figshare.13234205",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5090128717",
+      "A5057911678",
+      "A5051964737",
+      "A5056298558",
+      "A5082011068",
+      "A5103931603",
+      "A5056104477"
+    ],
+    "firstAuthorLastName": "Nixon",
+    "allAuthors": [
+      "Angus Nixon",
+      "Stijn Glorie",
+      "Alan S. Collins",
+      "Jo Whelan",
+      "Barry L. Reno",
+      "Martin Danišík",
+      "Benjamin P. Wade",
+      "Geoff Fraser"
+    ],
+    "title": "Appendix 2: Apatite geochemistry data. Footprints of the Alice Springs Orogeny preserved in far northern Australia: An application of multi-kinetic thermochronology in the Pine Creek Orogen and Arnhem Province",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geochemical Analysis",
+      "Mineralogy and Gemology Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394330903",
+    "doi": "https://doi.org/10.6084/m9.figshare.13234202",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5090128717",
+      "A5057911678",
+      "A5051964737",
+      "A5056298558",
+      "A5082011068",
+      "A5103931603",
+      "A5056104477"
+    ],
+    "firstAuthorLastName": "Nixon",
+    "allAuthors": [
+      "Angus Nixon",
+      "Stijn Glorie",
+      "Alan S. Collins",
+      "Jo Whelan",
+      "Barry L. Reno",
+      "Martin Danišík",
+      "Benjamin P. Wade",
+      "Geoff Fraser"
+    ],
+    "title": "Appendix 4: Apatite (U–Th–Sm)/He data. Footprints of the Alice Springs Orogeny preserved in far northern Australia: An application of multi-kinetic thermochronology in the Pine Creek Orogen and Arnhem Province",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geochemical Analysis",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394345635",
+    "doi": "https://doi.org/10.6084/m9.figshare.5195596",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5077453916",
+      "A5004188350",
+      "A5003363361",
+      "A5046845730",
+      "A5030177136",
+      "A5004333485"
+    ],
+    "firstAuthorLastName": "Archibald",
+    "allAuthors": [
+      "Donnelly B. Archibald",
+      "Alan S. Collins",
+      "John Foden",
+      "Justin L. Payne",
+      "P.H. Macey",
+      "Peter Holden",
+      "Théodore Razakamanana"
+    ],
+    "title": "Zircon standard data. Stenian–Tonian arc magmatism in west–central Madagascar: the genesis of the Dabolava Suite",
+    "publicationDate": "2017-01-01",
+    "year": 2017,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geotourism and Geoheritage Conservation",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394355663",
+    "doi": "https://doi.org/10.6084/m9.figshare.3454388",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5111623849",
+      "A5045182939",
+      "A5051304579",
+      "A5019621375",
+      "A5016116764"
+    ],
+    "firstAuthorLastName": "Strachan",
+    "allAuthors": [
+      "R. A. Strachan",
+      "Alan S. Collins",
+      "Craig Buchan",
+      "R. Damian Nance",
+      "J. Brendan Murphy",
+      "R. S. D’Lemos"
+    ],
+    "title": "Terrane analysis along a Neoproterozoic active margin of Gondwana: insights from U–Pb zircon geochronology",
+    "publicationDate": "2016-01-01",
+    "year": 2016,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394359999",
+    "doi": "https://doi.org/10.6084/m9.figshare.14547389",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5090122630",
+      "A5057911678",
+      "A5047873001",
+      "A5032194855",
+      "A5028666796",
+      "A5082011068"
+    ],
+    "firstAuthorLastName": "Gillespie",
+    "allAuthors": [
+      "Jack Gillespie",
+      "Stijn Glorie",
+      "Gilby Jepson",
+      "Ф.И. Жимулев",
+      "Dmitriy Gurevich",
+      "Martin Danišík",
+      "Alan S. Collins"
+    ],
+    "title": "Table S5. Inherited structure as a control on late Paleozoic and Mesozoic exhumation of the Tarbagatai Mountains, southeastern Kazakhstan",
+    "publicationDate": "2021-01-01",
+    "year": 2021,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394361529",
+    "doi": "https://doi.org/10.6084/m9.figshare.10265285",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5024022389",
+      "A5011450580",
+      "A5004188350",
+      "A5003363361",
+      "A5057911678",
+      "A5030177136",
+      "A5077183618",
+      "A5081695998"
+    ],
+    "firstAuthorLastName": "Blades",
+    "allAuthors": [
+      "Morgan Blades",
+      "Brandon L. Alessio",
+      "Alan S. Collins",
+      "John Foden",
+      "Justin L. Payne",
+      "Stijn Glorie",
+      "Peter Holden",
+      "B. Thorpe",
+      "Salah Al‐Khirbash"
+    ],
+    "title": "Supp Table 2: Oxygen. Unravelling the Neoproterozoic Accretionary History of Oman, Using an Array of Isotopic Systems in Zircon.",
+    "publicationDate": "2019-01-01",
+    "year": 2019,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394363736",
+    "doi": "https://doi.org/10.6084/m9.figshare.7660724",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5011450580",
+      "A5002671147",
+      "A5057911678",
+      "A5013933429",
+      "A5050798817"
+    ],
+    "firstAuthorLastName": "Alessio",
+    "allAuthors": [
+      "Brandon L. Alessio",
+      "Alan S. Collins",
+      "Chris Clark",
+      "Stijn Glorie",
+      "Pete R. Siegfried",
+      "Richard Taylor"
+    ],
+    "title": "Table S2. U–Pb analyses. Age, origin and palaeogeography of the Southern Irumide Belt, Zambia",
+    "publicationDate": "2019-01-01",
+    "year": 2019,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geological formations and processes",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394383748",
+    "doi": "https://doi.org/10.6084/m9.figshare.21501450",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5077453916",
+      "A5044168243",
+      "A5004188350",
+      "A5003363361",
+      "A5004333485"
+    ],
+    "firstAuthorLastName": "Archibald",
+    "allAuthors": [
+      "Donnelly B. Archibald",
+      "Alan S. Collins",
+      "Sheree Armistead",
+      "John Foden",
+      "Justin L. Payne",
+      "Théodore Razakamanana"
+    ],
+    "title": "S5: Zircon U–Pb, oxygen and hafnium isotopic characteristics of the Neoarchaean–Palaeoproterozoic Betsiboka Suite, Madagascar: tracing source to sink pathways in Proterozoic and Phanerozoic provenance studies",
+    "publicationDate": "2022-01-01",
+    "year": 2022,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394388818",
+    "doi": "https://doi.org/10.6084/m9.figshare.10265273",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5024022389",
+      "A5011450580",
+      "A5004188350",
+      "A5003363361",
+      "A5057911678",
+      "A5030177136",
+      "A5077183618",
+      "A5081695998"
+    ],
+    "firstAuthorLastName": "Blades",
+    "allAuthors": [
+      "Morgan Blades",
+      "Brandon L. Alessio",
+      "Alan S. Collins",
+      "John Foden",
+      "Justin L. Payne",
+      "Stijn Glorie",
+      "Peter Holden",
+      "B. Thorpe",
+      "Salah Al‐Khirbash"
+    ],
+    "title": "Supp Table 3: Hf. Unravelling the Neoproterozoic Accretionary History of Oman, Using an Array of Isotopic Systems in Zircon.",
+    "publicationDate": "2019-01-01",
+    "year": 2019,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394419642",
+    "doi": "https://doi.org/10.6084/m9.figshare.5195584",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5077453916",
+      "A5004188350",
+      "A5003363361",
+      "A5046845730",
+      "A5030177136",
+      "A5004333485"
+    ],
+    "firstAuthorLastName": "Archibald",
+    "allAuthors": [
+      "Donnelly B. Archibald",
+      "Alan S. Collins",
+      "John Foden",
+      "Justin L. Payne",
+      "P.H. Macey",
+      "Peter Holden",
+      "Théodore Razakamanana"
+    ],
+    "title": "Summary of zircon properties. Stenian–Tonian arc magmatism in west–central Madagascar: the genesis of the Dabolava Suite",
+    "publicationDate": "2017-01-01",
+    "year": 2017,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Mineralogy and Gemology Studies",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394427189",
+    "doi": "https://doi.org/10.6084/m9.figshare.11806179",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5066504483",
+      "A5024022389",
+      "A5060603963",
+      "A5103931603",
+      "A5014308365",
+      "A5027800100",
+      "A5080580201",
+      "A5079379016",
+      "A5045941951",
+      "A5112466144"
+    ],
+    "firstAuthorLastName": "Lloyd",
+    "allAuthors": [
+      "Jarred Lloyd",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Kathryn Amos",
+      "Benjamin P. Wade",
+      "John W. Counts",
+      "Stephen Hore",
+      "Ashleigh Job",
+      "James Hall",
+      "Sameh Shahin",
+      "Matt Drabsch"
+    ],
+    "title": "Database of Neoproterozoic U-Pb geochronology and Hf isotopic data for the Adelaide Superbasin",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394442002",
+    "doi": "https://doi.org/10.6084/m9.figshare.14331435",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5043614434",
+      "A5001288080",
+      "A5043756168",
+      "A5017216672"
+    ],
+    "firstAuthorLastName": "Hall",
+    "allAuthors": [
+      "Tony Hall",
+      "David M. McKirdy",
+      "Galen P. Halverson",
+      "J. B. Jago",
+      "Alan S. Collins"
+    ],
+    "title": "Biogeochemical status of the Paleo-Pacific Ocean: clues from the early Cambrian of South Australia",
+    "publicationDate": "2021-01-01",
+    "year": 2021,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geophysical Studies",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394455011",
+    "doi": "https://doi.org/10.6084/m9.figshare.7660721",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5011450580",
+      "A5002671147",
+      "A5057911678",
+      "A5013933429",
+      "A5050798817"
+    ],
+    "firstAuthorLastName": "Alessio",
+    "allAuthors": [
+      "Brandon L. Alessio",
+      "Alan S. Collins",
+      "Chris Clark",
+      "Stijn Glorie",
+      "Pete R. Siegfried",
+      "Richard Taylor"
+    ],
+    "title": "Table S3. Lu–Hf analyses. Age, origin and palaeogeography of the Southern Irumide Belt, Zambia",
+    "publicationDate": "2019-01-01",
+    "year": 2019,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geological formations and processes",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394474844",
+    "doi": "https://doi.org/10.6084/m9.figshare.11791968",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5044168243",
+      "A5073201023",
+      "A5047873001",
+      "A5090122630",
+      "A5001633563",
+      "A5024022389",
+      "A5004188350",
+      "A5004333485"
+    ],
+    "firstAuthorLastName": "Armistead",
+    "allAuthors": [
+      "Sheree Armistead",
+      "Alan S. Collins",
+      "Ahmad Redaa",
+      "Gilby Jepson",
+      "Jack Gillespie",
+      "Sarah Gilbert",
+      "Morgan Blades",
+      "John Foden",
+      "Théodore Razakamanana"
+    ],
+    "title": "Supplementary C: Isotopic data for geo/thermochronology. Structural evolution and medium-temperature thermochronology of central Madagascar: implications for Gondwana amalgamation",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394481069",
+    "doi": "https://doi.org/10.6084/m9.figshare.10265276",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5024022389",
+      "A5011450580",
+      "A5004188350",
+      "A5003363361",
+      "A5057911678",
+      "A5030177136",
+      "A5077183618",
+      "A5081695998"
+    ],
+    "firstAuthorLastName": "Blades",
+    "allAuthors": [
+      "Morgan Blades",
+      "Brandon L. Alessio",
+      "Alan S. Collins",
+      "John Foden",
+      "Justin L. Payne",
+      "Stijn Glorie",
+      "Peter Holden",
+      "B. Thorpe",
+      "Salah Al‐Khirbash"
+    ],
+    "title": "Supp Table 4: Detrital. Unravelling the Neoproterozoic Accretionary History of Oman, Using an Array of Isotopic Systems in Zircon.",
+    "publicationDate": "2019-01-01",
+    "year": 2019,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394483835",
+    "doi": "https://doi.org/10.6084/m9.figshare.9918623",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5024022389",
+      "A5011450580",
+      "A5004188350",
+      "A5003363361",
+      "A5057911678",
+      "A5030177136",
+      "A5077183618",
+      "A5081695998"
+    ],
+    "firstAuthorLastName": "Blades",
+    "allAuthors": [
+      "Morgan Blades",
+      "Brandon L. Alessio",
+      "Alan S. Collins",
+      "John Foden",
+      "Justin L. Payne",
+      "Stijn Glorie",
+      "Peter Holden",
+      "B. Thorpe",
+      "Salah Al‐Khirbash"
+    ],
+    "title": "Supp Table 2: Oxygen. Unravelling the Neoproterozoic Accretionary History of Oman, Using an Array of Isotopic Systems in Zircon.",
+    "publicationDate": "2019-01-01",
+    "year": 2019,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394512921",
+    "doi": "https://doi.org/10.6084/m9.figshare.10265288",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5024022389",
+      "A5011450580",
+      "A5004188350",
+      "A5003363361",
+      "A5057911678",
+      "A5030177136",
+      "A5077183618",
+      "A5081695998"
+    ],
+    "firstAuthorLastName": "Blades",
+    "allAuthors": [
+      "Morgan Blades",
+      "Brandon L. Alessio",
+      "Alan S. Collins",
+      "John Foden",
+      "Justin L. Payne",
+      "Stijn Glorie",
+      "Peter Holden",
+      "B. Thorpe",
+      "Salah Al‐Khirbash"
+    ],
+    "title": "Supp Table 1: U–Pb igneous. Unravelling the Neoproterozoic Accretionary History of Oman, Using an Array of Isotopic Systems in Zircon.",
+    "publicationDate": "2019-01-01",
+    "year": 2019,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394537903",
+    "doi": "https://doi.org/10.6084/m9.figshare.19181144",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5066504483",
+      "A5024022389",
+      "A5057807377",
+      "A5060603963"
+    ],
+    "firstAuthorLastName": "Lloyd",
+    "allAuthors": [
+      "Jarred Lloyd",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Sarah C. Gilbert",
+      "Kathryn Amos"
+    ],
+    "title": "Yudnamutana Subgroup detrital zircon dataset (Lloyd et al.)",
+    "publicationDate": "2022-01-01",
+    "year": 2022,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geochemical Analysis",
+      "Geological Modeling and Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394540382",
+    "doi": "https://doi.org/10.6084/m9.figshare.9918626",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5024022389",
+      "A5011450580",
+      "A5004188350",
+      "A5003363361",
+      "A5057911678",
+      "A5030177136",
+      "A5077183618",
+      "A5081695998"
+    ],
+    "firstAuthorLastName": "Blades",
+    "allAuthors": [
+      "Morgan Blades",
+      "Brandon L. Alessio",
+      "Alan S. Collins",
+      "John Foden",
+      "Justin L. Payne",
+      "Stijn Glorie",
+      "Peter Holden",
+      "B. Thorpe",
+      "Salah Al‐Khirbash"
+    ],
+    "title": "Supp Table 1: U–Pb igneous. Unravelling the Neoproterozoic Accretionary History of Oman, Using an Array of Isotopic Systems in Zircon.",
+    "publicationDate": "2019-01-01",
+    "year": 2019,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394546243",
+    "doi": "https://doi.org/10.6084/m9.figshare.9918614",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5024022389",
+      "A5011450580",
+      "A5004188350",
+      "A5003363361",
+      "A5057911678",
+      "A5030177136",
+      "A5077183618",
+      "A5081695998"
+    ],
+    "firstAuthorLastName": "Blades",
+    "allAuthors": [
+      "Morgan Blades",
+      "Brandon L. Alessio",
+      "Alan S. Collins",
+      "John Foden",
+      "Justin L. Payne",
+      "Stijn Glorie",
+      "Peter Holden",
+      "B. Thorpe",
+      "Salah Al‐Khirbash"
+    ],
+    "title": "Supp Table 4: Detrital. Unravelling the Neoproterozoic Accretionary History of Oman, Using an Array of Isotopic Systems in Zircon.",
+    "publicationDate": "2019-01-01",
+    "year": 2019,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394556147",
+    "doi": "https://doi.org/10.6084/m9.figshare.14547386",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5090122630",
+      "A5057911678",
+      "A5047873001",
+      "A5032194855",
+      "A5028666796",
+      "A5082011068"
+    ],
+    "firstAuthorLastName": "Gillespie",
+    "allAuthors": [
+      "Jack Gillespie",
+      "Stijn Glorie",
+      "Gilby Jepson",
+      "Ф.И. Жимулев",
+      "Dmitriy Gurevich",
+      "Martin Danišík",
+      "Alan S. Collins"
+    ],
+    "title": "Table S3. Inherited structure as a control on late Paleozoic and Mesozoic exhumation of the Tarbagatai Mountains, southeastern Kazakhstan",
+    "publicationDate": "2021-01-01",
+    "year": 2021,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394562908",
+    "doi": "https://doi.org/10.6084/m9.figshare.9918611",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5024022389",
+      "A5011450580",
+      "A5004188350",
+      "A5003363361",
+      "A5057911678",
+      "A5030177136",
+      "A5077183618",
+      "A5081695998"
+    ],
+    "firstAuthorLastName": "Blades",
+    "allAuthors": [
+      "Morgan Blades",
+      "Brandon L. Alessio",
+      "Alan S. Collins",
+      "John Foden",
+      "Justin L. Payne",
+      "Stijn Glorie",
+      "Peter Holden",
+      "B. Thorpe",
+      "Salah Al‐Khirbash"
+    ],
+    "title": "Supp Table 3: Hf. Unravelling the Neoproterozoic Accretionary History of Oman, Using an Array of Isotopic Systems in Zircon.",
+    "publicationDate": "2019-01-01",
+    "year": 2019,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4402464216",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2024.107099",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5069795728",
+      "A5012615845",
+      "A5033647499",
+      "A5061086644",
+      "A5024022389",
+      "A5019411628"
+    ],
+    "firstAuthorLastName": "Hall",
+    "allAuthors": [
+      "Alice S. Hall",
+      "Simon Holford",
+      "Nick Schofield",
+      "Mark Bunch",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Darwinaji Subarkah"
+    ],
+    "title": "Corrigendum to ‘The Derim Derim Dolerite, greater McArthur Basin, Australia: Using subsurface data to characterise a Mesoproterozoic magma plumbing system’ [Mar. Petrol. Geol., 169 (2024)]",
+    "publicationDate": "2024-09-11",
+    "year": 2024,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4404127892",
+    "doi": "https://doi.org/10.1111/ggr.12588",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5089879286",
+      "A5085927292",
+      "A5047567431",
+      "A5023085486",
+      "A5001633563",
+      "A5086411272",
+      "A5019411628",
+      "A5024022389"
+    ],
+    "firstAuthorLastName": "Löhr",
+    "allAuthors": [
+      "Stefan Löhr",
+      "Elnaz Khazaie",
+      "Juraj Farkaš",
+      "Andre Baldermann",
+      "Sarah Gilbert",
+      "Roland Maas",
+      "Darwinaji Subarkah",
+      "Morgan Blades",
+      "Alan S. Collins"
+    ],
+    "title": "Origin and Significance of Age Variability in the Glauconite Reference Material <scp>GL</scp>‐O: Implications for <i>In Situ</i> Rb‐Sr Geochronology",
+    "publicationDate": "2024-11-07",
+    "year": 2024,
+    "venue": "Geostandards and Geoanalytical Research",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Clay minerals and soil interactions",
+      "Geomagnetism and Paleomagnetism Studies"
+    ],
+    "institutions": [
+      "Macquarie University",
+      "The University of Adelaide",
+      "Graz University of Technology",
+      "Nawi Graz",
+      "The University of Melbourne"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4404181031",
+    "doi": "https://doi.org/10.2138/am-2024-9471",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5078847976",
+      "A5044014541",
+      "A5057807377",
+      "A5031694777",
+      "A5108202199"
+    ],
+    "firstAuthorLastName": "Hong",
+    "allAuthors": [
+      "Wei Hong",
+      "Adrian Fabris",
+      "Sarah C. Gilbert",
+      "Stacey Curtis",
+      "T. Wise",
+      "Alan S. Collins"
+    ],
+    "title": "Porphyry Cu-Mo mineralization at Anabama Hill, Delamerian Orogen, South Australia: Fertility assessment implied from epidote and chlorite chemistry",
+    "publicationDate": "2024-11-08",
+    "year": 2024,
+    "venue": "American Mineralogist",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Mine drainage and remediation techniques",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "Geological Survey of Western Australia",
+      "The University of Adelaide",
+      "University of Tasmania",
+      "University of South Australia"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4413523127",
+    "doi": "https://doi.org/10.64628/aa.dcpd6w4ad",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5066504483",
+      "A5089532212"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins",
+      "Jarred Lloyd",
+      "Georgina Virgo"
+    ],
+    "title": "How algae conquered the world – and other epic stories hidden in the rocks of the Flinders Ranges",
+    "publicationDate": "2023-08-06",
+    "year": 2023,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "History of Science and Natural History",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4413540496",
+    "doi": "https://doi.org/10.64628/ade.d3qng7tcq",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins"
+    ],
+    "title": "Veja 1,8 bilhão de anos de atividade das placas tectônicas da Terra em uma nova animação",
+    "publicationDate": "2024-10-02",
+    "year": 2024,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4413541724",
+    "doi": "https://doi.org/10.64628/aa.mxtscuvqf",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins"
+    ],
+    "title": "Witness 1.8 billion years of tectonic plates dance across Earth’s surface in a new animation",
+    "publicationDate": "2024-09-06",
+    "year": 2024,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological Modeling and Analysis"
+    ],
+    "institutions": [
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4413609802",
+    "doi": "https://doi.org/10.64628/aa.jwdddnxgu",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5047873001",
+      "A5090122630"
+    ],
+    "firstAuthorLastName": "Jepson",
+    "allAuthors": [
+      "Gilby Jepson",
+      "Alan S. Collins",
+      "Jack Gillespie"
+    ],
+    "title": "How Eurasia’s Tianshan mountains set a stage that changed the world",
+    "publicationDate": "2018-11-02",
+    "year": 2018,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4413619284",
+    "doi": "https://doi.org/10.64628/aa.cwyd3pafa",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5051523448"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins",
+      "Andrew Merdith"
+    ],
+    "title": "A map that fills a 500-million year gap in Earth’s history",
+    "publicationDate": "2017-06-26",
+    "year": 2017,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Marine and environmental studies"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "The University of Sydney"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4413620200",
+    "doi": "https://doi.org/10.64628/aa.w4umvpgv4",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5067737483"
+    ],
+    "firstAuthorLastName": "Cox",
+    "allAuthors": [
+      "Grant M. Cox",
+      "Alan S. Collins"
+    ],
+    "title": "A time capsule containing 118 trillion cubic feet of gas is buried in northern Australia",
+    "publicationDate": "2017-07-10",
+    "year": 2017,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Atmospheric and Environmental Gas Dynamics",
+      "Methane Hydrates and Related Phenomena"
+    ],
+    "institutions": [
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4413672297",
+    "doi": "https://doi.org/10.64628/aa.kd9njancy",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins"
+    ],
+    "title": "Curious Kids: How do scientists work out how old the Earth is?",
+    "publicationDate": "2018-01-23",
+    "year": 2018,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Space Science and Extraterrestrial Life"
+    ],
+    "institutions": [
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4413731416",
+    "doi": "https://doi.org/10.64628/aa.63mghnfwm",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5052352208"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins",
+      "Romana E.C. Dew"
+    ],
+    "title": "When Thailand and Australia were closer neighbours, tectonically speaking",
+    "publicationDate": "2018-10-19",
+    "year": 2018,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "High-pressure geophysics and materials"
+    ],
+    "institutions": [
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4414010659",
+    "doi": "https://doi.org/10.1016/j.chemgeo.2025.123042",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5067271273",
+      "A5047567431",
+      "A5057911678",
+      "A5001633563",
+      "A5019411628"
+    ],
+    "firstAuthorLastName": "Shao",
+    "allAuthors": [
+      "Zhufu Shao",
+      "Juraj Farkaš",
+      "Stijn Glorie",
+      "Alan S. Collins",
+      "Sarah Gilbert",
+      "Darwinaji Subarkah"
+    ],
+    "title": "Dating of marine authigenic minerals via in situ Rb Sr, U Pb, and Lu–Hf: A case study from the Georgina Basin, Australia",
+    "publicationDate": "2025-09-05",
+    "year": 2025,
+    "venue": "Chemical Geology",
+    "citations": 0,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Elemental Analysis",
+      "Radioactive element chemistry and processing"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4414970434",
+    "doi": "https://doi.org/10.48550/arxiv.2510.03844",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5084269022",
+      "A5012688014",
+      "A5101848703",
+      "A5041657541",
+      "A5070177612"
+    ],
+    "firstAuthorLastName": "Lotspeich",
+    "allAuthors": [
+      "Sarah C. Lotspeich",
+      "Alan S. Collins",
+      "Brian J. Wells",
+      "Ashish K. Khanna",
+      "Joseph Rigdon",
+      "Lucy D’Agostino McGowan"
+    ],
+    "title": "On Using Large Language Models to Enhance Clinically-Driven Missing Data Recovery Algorithms in Electronic Health Records",
+    "publicationDate": "2025-10-04",
+    "year": 2025,
+    "venue": "arXiv (Cornell University)",
+    "citations": 0,
+    "topics": [
+      "Machine Learning in Healthcare"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4415095084",
+    "doi": "https://doi.org/10.1080/08120099.2025.2559364",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5019411628",
+      "A5024022389",
+      "A5047567431",
+      "A5089532212"
+    ],
+    "firstAuthorLastName": "Subarkah",
+    "allAuthors": [
+      "Darwinaji Subarkah",
+      "Morgan Blades",
+      "Alan S. Collins",
+      "Juraj Farkaš",
+      "Georgina Virgo"
+    ],
+    "title": "Intermittent connectivity determines the oxygenation in the Favenc and lower Wilton packages of the greater McArthur Basin, northern Australia",
+    "publicationDate": "2025-10-12",
+    "year": 2025,
+    "venue": "Australian Journal of Earth Sciences",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "Australian Resources Research Centre",
+      "The University of Adelaide"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4415510174",
+    "doi": "https://doi.org/10.7185/gold2025.29853",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5051523448",
+      "A5042992264",
+      "A5078231161",
+      "A5081631274"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins",
+      "Andrew Merdith",
+      "Jonathon Leonard",
+      "Stephen J. Hunter",
+      "Ben Mills"
+    ],
+    "title": "Did the Planet’s First Latitudinally-Constrained Glaciation (Mid Ediacaran) Create a Surface to Abyssal Current and Oxidise the Deep Oceans?",
+    "publicationDate": "2025-01-01",
+    "year": 2025,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Methane Hydrates and Related Phenomena",
+      "Astro and Planetary Science"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4415510358",
+    "doi": "https://doi.org/10.7185/gold2025.29954",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5071444965",
+      "A5013600091",
+      "A5019411628",
+      "A5057807377",
+      "A5047567431",
+      "A5068557314",
+      "A5065273864",
+      "A5074658559",
+      "A5089414113"
+    ],
+    "firstAuthorLastName": "Vincent",
+    "allAuthors": [
+      "Victor Vincent",
+      "Koen Torremans",
+      "Darwinaji Subarkah",
+      "Sarah C. Gilbert",
+      "Juraj Farkaš",
+      "Alan S. Collins",
+      "Jon Stacey",
+      "Aileen Doran",
+      "Simon W. Jones",
+      "Murray W. Hitzman"
+    ],
+    "title": "Novel in situ Rb-Sr constraints on the timing of early diagenesis and pre-metamorphic alteration history from the Lubambe-Mingomba deposit, Central African Copperbelt",
+    "publicationDate": "2025-01-01",
+    "year": 2025,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geophysical Studies",
+      "Geomagnetism and Paleomagnetism Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4415510602",
+    "doi": "https://doi.org/10.7185/gold2025.28981",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5109058462",
+      "A5024022389",
+      "A5089879286",
+      "A5078107190"
+    ],
+    "firstAuthorLastName": "Khanna",
+    "allAuthors": [
+      "Achal Khanna",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Stefan Löhr",
+      "April N. Abbott"
+    ],
+    "title": "Tracing Redox Histories of Ancient Marine Shales: Insights from Proterozoic Deposits of Central India and the North Australian Craton.",
+    "publicationDate": "2025-01-01",
+    "year": 2025,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geochemistry and Geologic Mapping",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4415510662",
+    "doi": "https://doi.org/10.7185/gold2025.28866",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5019411628",
+      "A5024022389",
+      "A5047567431",
+      "A5100448602",
+      "A5089532212"
+    ],
+    "firstAuthorLastName": "Subarkah",
+    "allAuthors": [
+      "Darwinaji Subarkah",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Juraj Farkaš",
+      "Rui Li",
+      "Georgina Virgo"
+    ],
+    "title": "Complex redox evolution of Proterozoic Earth’s surface environments recorded in the greater McArthur Basin.",
+    "publicationDate": "2025-01-01",
+    "year": 2025,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4415510944",
+    "doi": "https://doi.org/10.7185/gold2025.28699",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5085927292",
+      "A5047567431",
+      "A5089879286",
+      "A5024022389"
+    ],
+    "firstAuthorLastName": "Khazaie",
+    "allAuthors": [
+      "Elnaz Khazaie",
+      "Alan S. Collins",
+      "Juraj Farkaš",
+      "Stefan Löhr",
+      "Morgan Blades"
+    ],
+    "title": "A Multi-Proxy Isotope and REE Analysis of the Neoproterozoic Marine Carbonates Hosting Cu Mineralization: Implications for Fluid Sources and Alteration Footprint at the Nifty Deposit in the Yeneena Basin, Western Australia",
+    "publicationDate": "2025-01-01",
+    "year": 2025,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geochemistry and Geologic Mapping",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4415510966",
+    "doi": "https://doi.org/10.7185/gold2025.28685",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5092477562",
+      "A5047567431",
+      "A5033068092",
+      "A5039962635",
+      "A5063218145",
+      "A5055476815"
+    ],
+    "firstAuthorLastName": "Madavan",
+    "allAuthors": [
+      "Yaser Noorian Madavan",
+      "Juraj Farkaš",
+      "Alan S. Collins",
+      "Samantha Walker",
+      "Robert Frei",
+      "Claudio Delle Piane",
+      "Robert Klaebe"
+    ],
+    "title": "A link between primary productivity and marine redox in the Mesoproterozoic McArthur Basin, Australia: Insights from Cd isotopes",
+    "publicationDate": "2025-01-01",
+    "year": 2025,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geochemistry and Elemental Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4415511668",
+    "doi": "https://doi.org/10.7185/gold2025.27917",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5067271273",
+      "A5047567431",
+      "A5051570237",
+      "A5089879286"
+    ],
+    "firstAuthorLastName": "Shao",
+    "allAuthors": [
+      "Zhufu Shao",
+      "Juraj Farkaš",
+      "Xin‐Yuan Zheng",
+      "Alan S. Collins",
+      "Stefan Löhr"
+    ],
+    "title": "Potassium Isotope Variations (δ <sup>41</sup> K) in Cambrian Glauconites from Australia and China: Insights into Paleo-Seawater and Diagenetic Alteration",
+    "publicationDate": "2025-01-01",
+    "year": 2025,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Groundwater and Isotope Geochemistry",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4416512369",
+    "doi": "https://doi.org/10.1016/j.epsl.2025.119744",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5044557317",
+      "A5047567431",
+      "A5074674276",
+      "A5102747494",
+      "A5025525244"
+    ],
+    "firstAuthorLastName": "Noorian",
+    "allAuthors": [
+      "Yaser Noorian",
+      "Juraj Farkaš",
+      "Alan S. Collins",
+      "Eva E. Stüeken",
+      "S. R. Walker",
+      "Wei Wen Wong"
+    ],
+    "title": "Isotope constraints on nutrient supply, bio-productivity and redox dynamics in the Mesoproterozoic McArthur Basin, Australia: Insights from δ114Cd, δ13C and δ15N proxies",
+    "publicationDate": "2025-11-21",
+    "year": 2025,
+    "venue": "Earth and Planetary Science Letters",
+    "citations": 0,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4416916178",
+    "doi": "https://doi.org/10.31223/x54t9b",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins"
+    ],
+    "title": "Where were the mountains and how big were they?",
+    "publicationDate": "2025-12-02",
+    "year": 2025,
+    "venue": "",
+    "citations": 0,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W939704536",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5052145913",
+      "A5046493662",
+      "A5024263885",
+      "A5010111647"
+    ],
+    "firstAuthorLastName": "Gutiérrez‐Alonso",
+    "allAuthors": [
+      "Gabriel Gutiérrez‐Alonso",
+      "Javier Fernández‐Suárez",
+      "Alan S. Collins",
+      "Isabel Abad",
+      "Fernando Nieto"
+    ],
+    "title": "What is it underneath the core of the Asturian Arc? Detital mica ages finish Eduard Suess tale",
+    "publicationDate": "2005-01-01",
+    "year": 2005,
+    "venue": "DIGITAL.CSIC (Spanish National Research Council (CSIC))",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies Worldwide",
+      "Archaeological and Historical Studies",
+      "Archaeological and Geological Studies"
+    ],
+    "institutions": [
+      "Universidad de Salamanca"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4401646659",
     "doi": "https://doi.org/10.1021/acsomega.4c02592",
     "program": "",
