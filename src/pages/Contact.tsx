@@ -1,4 +1,4 @@
-import { Mail, Send, Users } from "lucide-react";
+import { Mail, Send, Users, Link as LinkIcon } from "lucide-react";
 import { SiteShell } from "@/components/SiteShell";
 import { Button } from "@/components/ui/button";
 
@@ -47,30 +47,30 @@ const Contact = () => {
             </section>
 
             <section className="rounded-xl border border-border/60 bg-card/50 p-6 shadow-sm">
-              <div className="flex items-center gap-3">
-                <div className="flex h-10 w-10 items-center justify-center rounded-full bg-primary/10 text-primary">
-                  <Send className="h-5 w-5" />
-                </div>
-                <div>
+                <div className="flex items-center gap-3">
+                  <div className="flex h-10 w-10 items-center justify-center rounded-full bg-primary/10 text-primary">
+                    <Send className="h-5 w-5" />
+                  </div>
+                  <div>
                   <h2 className="text-xl font-semibold text-foreground">Add content to the dashboard</h2>
                   <p className="text-sm text-muted-foreground">
                     Share your publication details so they can be included.
                   </p>
                 </div>
               </div>
-              <div className="mt-4">
-                <Button
-                  asChild
-                  size="lg"
-                  variant="outline"
-                  className="hover:border-orange-500 hover:bg-orange-500 hover:text-white"
-                >
+              <div className="mt-4 grid grid-cols-1 gap-3 sm:grid-cols-2">
+                <Button asChild size="lg" variant="outline" className="w-full">
                   <a
                     href="https://docs.google.com/forms/d/e/1FAIpQLSdpA038sbSonMbDhbkO0onfOq6pTAJ_3jVIoZxJiG-dyyezEw/viewform"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Open submission form
+                    Submit your details
+                  </a>
+                </Button>
+                <Button asChild size="lg" variant="outline" className="w-full">
+                  <a href="/authors" className="inline-flex items-center justify-center gap-2">
+                    Find your OA ID
                   </a>
                 </Button>
               </div>
