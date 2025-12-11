@@ -92,5 +92,41 @@ export const authors: AuthorRecord[] = [
     "totalPublications": 16,
     "totalCitations": 107,
     "hIndex": 7
+  },
+  {
+    "authorId": "idb0002-collins-alan",
+    "openAlexId": "A5046466285",
+    "openAlexIds": [
+      "A5046466285"
+    ],
+    "name": "Alan Collins",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "alan.collins@adelaide.edu.au",
+    "orcid": "",
+    "totalPublications": 407,
+    "totalCitations": 18772,
+    "hIndex": 68
+  },
+  {
+    "authorId": "idb0003-al-husseini-moujahed",
+    "openAlexId": "A5081811780",
+    "openAlexIds": [
+      "A5081811780"
+    ],
+    "name": "Moujahed Al-Husseini",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "moujaheda@gmail.com",
+    "orcid": "",
+    "totalPublications": 58,
+    "totalCitations": 1923,
+    "hIndex": 22
   }
 ];
