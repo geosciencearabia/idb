@@ -15,7 +15,7 @@
     "cache:openalex-works": "node scripts/cache-openalex-works.cjs",
     "generate:feed": "node scripts/generate-feed.cjs",
     "clean:author-cache": "node scripts/clean-author-cache.cjs",
-    "generate:works": "node scripts/export-works.cjs && node scripts/generate-works-table.cjs && node scripts/generate-program-topics-institutions.cjs && node scripts/generate-author-work-metrics.cjs && node scripts/generate-rss.cjs",
+    "generate:works": "node scripts/export-works.cjs && node scripts/generate-works-table.cjs && node scripts/generate-topic-institution-stats.cjs && node scripts/generate-author-work-metrics.cjs && node scripts/generate-rss.cjs",
     "refresh:data": "npm run update:authors:openalex && npm run generate:authors && npm run clean:author-cache && npm run cache:openalex-works && npm run generate:works && npm run generate:feed",
     "refresh:all": "npm run refresh:data && npm run build",
     "preview": "vite preview"

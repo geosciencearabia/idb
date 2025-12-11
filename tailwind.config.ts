@@ -4,6 +4,20 @@ import tailwindcssAnimate from "tailwindcss-animate";
 export default {
   darkMode: ["class"],
   content: ["./pages/**/*.{ts,tsx}", "./components/**/*.{ts,tsx}", "./app/**/*.{ts,tsx}", "./src/**/*.{ts,tsx}"],
+  safelist: [
+    // Announcement bar colors
+    "bg-red-600",
+    "text-white",
+    "font-semibold",
+    "bg-amber-50",
+    "text-amber-900",
+    "bg-rose-50",
+    "text-rose-900",
+    "bg-teal-50",
+    "text-teal-900",
+    "bg-slate-100",
+    "text-slate-900",
+  ],
   prefix: "",
   theme: {
     container: {
