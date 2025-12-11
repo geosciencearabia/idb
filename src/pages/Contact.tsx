@@ -69,7 +69,7 @@ const Contact = () => {
                   </a>
                 </Button>
                 <Button asChild size="lg" variant="outline" className="w-full">
-                  <a href="/authors" className="inline-flex items-center justify-center gap-2">
+                  <a href="/idb/#/authors" className="inline-flex items-center justify-center gap-2">
                     Find your OA ID
                   </a>
                 </Button>
