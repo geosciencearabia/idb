@@ -341,6 +341,9 @@ useEffect(() => {
                   </>
                 )}
               </div>
+              <div className="px-3 pb-2 text-xs text-muted-foreground">
+                Showing {visibleRows.length.toLocaleString()} of {sorted.length.toLocaleString()} topics
+              </div>
               <Table>
                 <TableHeader>
                   <TableRow>

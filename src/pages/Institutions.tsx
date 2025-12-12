@@ -232,10 +232,19 @@ useEffect(() => {
   return (
     <SiteShell>
       <main className="container mx-auto px-4 py-6 space-y-4">
-        <Button variant="ghost" onClick={() => navigate("/")}>
-          <ArrowLeft className="mr-2 h-4 w-4" />
-          Back to dashboard
-        </Button>
+        <div className="flex flex-wrap gap-2">
+          <Button variant="ghost" onClick={() => navigate("/")}>
+            <ArrowLeft className="mr-2 h-4 w-4" />
+            Back to dashboard
+          </Button>
+          <Button
+            variant="ghost"
+            onClick={() => navigate(-1)}
+            className="px-2 text-xs"
+          >
+            Back to previous
+          </Button>
+        </div>
 
         <Card className="border-border/60">
           <CardHeader className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
@@ -332,6 +341,9 @@ useEffect(() => {
                 )}
               </div>
 
+              <div className="px-3 pb-2 text-xs text-muted-foreground">
+                Showing {visibleRows.length.toLocaleString()} of {sorted.length.toLocaleString()} institutions
+              </div>
               <Table>
                 <TableHeader>
                   <TableRow>
