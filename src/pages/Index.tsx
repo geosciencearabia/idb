@@ -511,6 +511,16 @@ const Index = () => {
                   <TrendingUp className="h-5 w-5 text-primary" />
                   <span>Topic stats</span>
                 </CardTitle>
+                <div className="flex flex-wrap items-center gap-4 text-xs text-muted-foreground">
+                  <div className="flex items-center gap-2">
+                    <span className="inline-block h-2 w-2 rounded-sm bg-[#22c55e]" />
+                    <span>Topics (unique topics)</span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <span className="inline-block h-2 w-2 rounded-sm bg-[#7c3aed]" />
+                    <span>Publications</span>
+                  </div>
+                </div>
               </CardHeader>
               <CardContent>
                 <div className="h-[260px] w-full">
@@ -542,16 +552,6 @@ const Index = () => {
                       />
                     </BarChart>
                   </ResponsiveContainer>
-                </div>
-                <div className="mt-3 flex items-center gap-4 text-xs text-muted-foreground">
-                  <div className="flex items-center gap-2">
-                    <span className="inline-block h-2 w-2 rounded-sm bg-[#22c55e]" />
-                    <span>Topics (unique topics)</span>
-                  </div>
-                  <div className="flex items-center gap-2">
-                    <span className="inline-block h-2 w-2 rounded-sm bg-[#7c3aed]" />
-                    <span>Publications</span>
-                  </div>
                 </div>
               </CardContent>
             </Card>
