@@ -326,5 +326,77 @@ export const authors: AuthorRecord[] = [
     "totalPublications": 158,
     "totalCitations": 2766,
     "hIndex": 31
+  },
+  {
+    "authorId": "idb0017-benaafi-mohammed",
+    "openAlexId": "A5034568196",
+    "openAlexIds": [
+      "A5034568196"
+    ],
+    "name": "Mohammed Benaafi",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "benaafi@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 71,
+    "totalCitations": 894,
+    "hIndex": 19
+  },
+  {
+    "authorId": "idb0018-al-khirbash-salah",
+    "openAlexId": "A5081695998",
+    "openAlexIds": [
+      "A5081695998"
+    ],
+    "name": "Salah Al-Khirbash",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "khirbash@squ.edu.om",
+    "orcid": "",
+    "totalPublications": 46,
+    "totalCitations": 923,
+    "hIndex": 16
+  },
+  {
+    "authorId": "idb0019-hakimi-mohammed",
+    "openAlexId": "A5029716563",
+    "openAlexIds": [
+      "A5029716563"
+    ],
+    "name": "Mohammed Hakimi",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "ibnalhakimi@yahoo.com",
+    "orcid": "",
+    "totalPublications": 220,
+    "totalCitations": 4355,
+    "hIndex": 39
+  },
+  {
+    "authorId": "idb0020-al-laboun-abdulaziz",
+    "openAlexId": "A5061320565",
+    "openAlexIds": [
+      "A5061320565"
+    ],
+    "name": "Abdulaziz Al-Laboun",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "ibnlaboun@yahoo.com",
+    "orcid": "",
+    "totalPublications": 17,
+    "totalCitations": 265,
+    "hIndex": 8
   }
 ];
