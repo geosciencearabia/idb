@@ -418,12 +418,12 @@ export const authors: AuthorRecord[] = [
     "hIndex": 19
   },
   {
-    "authorId": "idb0022-al?shuhail-abdullatif",
+    "authorId": "idb0022-al-shuhail-abdullatif",
     "openAlexId": "A5054922583",
     "openAlexIds": [
       "A5054922583"
     ],
-    "name": "Abdullatif Al?Shuhail",
+    "name": "Abdullatif Al-Shuhail",
     "groupId": "",
     "groupName": "",
     "affiliate1": "",
