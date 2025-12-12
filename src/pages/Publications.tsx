@@ -15,6 +15,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { SiteShell } from "@/components/SiteShell";
 import { worksTable } from "@/data/worksTable.generated";   // <- keep this one
+import { filterWorks } from "@/lib/blacklist";
 import { toast } from "@/components/ui/use-toast";
 import { Input } from "@/components/ui/input";
 import { Checkbox } from "@/components/ui/checkbox";
@@ -122,13 +123,14 @@ const PublicationsPage = ({ mode = "publications" }: PublicationsPageProps) => {
 
 
   const filtered = useMemo(() => {
+    const baseWorks = filterWorks(worksTable);
     const from = startYear ?? (allYears.length ? allYears[0] : undefined);
     const to = endYear ?? (allYears.length ? allYears[allYears.length - 1] : undefined);
 
     const query = searchQuery.trim().toLowerCase();
     const seenDois = new Set<string>();
 
-    return worksTable.filter((w) => {
+    return baseWorks.filter((w) => {
       if (!w.year) return false;
       if (!includeNoVenue && !w.venue) return false;
       if (from != null && w.year < from) return false;
@@ -160,6 +162,7 @@ const PublicationsPage = ({ mode = "publications" }: PublicationsPageProps) => {
           String(w.year ?? ""),
           (w.topics || []).join(" "),
           (w.institutions || []).join(" "),
+          (w.allAuthors || []).join(" "), // allow searching by author names
         ]
           .join(" ")
           .toLowerCase();

@@ -11,6 +11,7 @@ import { worksTable } from "@/data/worksTable.generated";
 import { SiteShell } from "@/components/SiteShell";
 import { toast } from "@/components/ui/use-toast";
 import { dedupeWorks } from "@/lib/utils";
+import { filterWorks } from "@/lib/blacklist";
 import {
   Bar,
   BarChart,
@@ -56,16 +57,20 @@ export default function AuthorDetail() {
 
   const name = displayName || localAuthor?.name || "Author details";
 
+  const cleanWorksTable = useMemo(() => {
+    return filterWorks(worksTable, localAuthor?.authorId);
+  }, [localAuthor]);
+
   const authorWorks = useMemo(() => {
     const targetOpenAlexId = localAuthor?.openAlexId || id;
     if (!targetOpenAlexId) {
       return [] as (typeof worksTable)[number][];
     }
 
-    return worksTable.filter((w) =>
+    return cleanWorksTable.filter((w) =>
       (w.allAuthorOpenAlexIds || []).includes(targetOpenAlexId),
     );
-  }, [id, localAuthor]);
+  }, [id, localAuthor, cleanWorksTable]);
 
   const uniqueAuthorWorks = useMemo(
     () => dedupeWorks(authorWorks),

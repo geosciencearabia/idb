@@ -66,6 +66,31 @@ export const getAuthorWorks = async (authorId: string): Promise<OpenAlexWork[]> 
   return data.results;
 };
 
+export const searchWorksByTitle = async (
+  authorId: string,
+  query: string,
+): Promise<OpenAlexWork[]> => {
+  const response = await fetch(
+    `${BASE_URL}/works?filter=author.id:${authorId}&search=${encodeURIComponent(query)}&per-page=40&mailto=research@example.com`,
+  );
+
+  if (!response.ok) throw new Error("Failed to search works by title");
+
+  const data = await response.json();
+  return data.results;
+};
+
+export const searchWorksGlobalByTitle = async (query: string): Promise<OpenAlexWork[]> => {
+  const response = await fetch(
+    `${BASE_URL}/works?search=${encodeURIComponent(query)}&per-page=40&mailto=research@example.com`,
+  );
+
+  if (!response.ok) throw new Error("Failed to search works by title");
+
+  const data = await response.json();
+  return data.results;
+};
+
 export const getAuthorDetails = async (authorId: string): Promise<OpenAlexAuthor> => {
   const response = await fetch(
     `${BASE_URL}/authors/${authorId}?mailto=research@example.com`

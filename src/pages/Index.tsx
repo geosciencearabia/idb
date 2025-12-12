@@ -5,6 +5,7 @@ import { authors } from "@/data/authors.generated";
 import { useNavigate } from "react-router-dom";
 import { SiteShell } from "@/components/SiteShell";
 import { worksTable } from "@/data/worksTable.generated";
+import { filterWorks } from "@/lib/blacklist";
 import dashboardConfigJson from "@/data/dashboardConfig.json";
 import {
   Bar,
@@ -74,13 +75,15 @@ const Index = () => {
   const navigate = useNavigate();
 
   const memberCount = authors.length;
+  const cleanWorks = useMemo(() => filterWorks(worksTable), []);
+
   const allYears = useMemo(() => {
     const years = new Set<number>();
-    worksTable.forEach((w) => {
+    cleanWorks.forEach((w) => {
       if (typeof w.year === "number") years.add(w.year);
     });
     return Array.from(years).sort((a, b) => a - b);
-  }, []);
+  }, [cleanWorks]);
 
   const [startYear, setStartYear] = useState<number | null>(null);
   const [endYear, setEndYear] = useState<number | null>(null);
@@ -127,23 +130,23 @@ const Index = () => {
     if (!allYears.length) return 0;
     const from = startYear ?? allYears[0];
     const to = endYear ?? allYears[allYears.length - 1];
-    return worksTable.reduce((count, work) => {
+    return cleanWorks.reduce((count, work) => {
       if (typeof work.year !== "number") return count;
       if (work.year < from || work.year > to) return count;
       return count + 1;
     }, 0);
-  }, [allYears, startYear, endYear]);
+  }, [allYears, startYear, endYear, cleanWorks]);
 
   const totalCitationsInRange = useMemo(() => {
     if (!allYears.length) return 0;
     const from = startYear ?? allYears[0];
     const to = endYear ?? allYears[allYears.length - 1];
-    return worksTable.reduce((sum, work) => {
+    return cleanWorks.reduce((sum, work) => {
       if (typeof work.year !== "number") return sum;
       if (work.year < from || work.year > to) return sum;
       return sum + (work.citations || 0);
     }, 0);
-  }, [allYears, startYear, endYear]);
+  }, [allYears, startYear, endYear, cleanWorks]);
 
   const topicsTotals = useMemo(() => {
     if (!allYears.length) return { total: 0, current: 0, previous: 0, currentYear: null as number | null, previousYear: null as number | null };
@@ -283,7 +286,7 @@ const Index = () => {
     const counts = new Map<string, number>();
     const from = startYear ?? (allYears.length ? allYears[0] : undefined);
     const to = endYear ?? (allYears.length ? allYears[allYears.length - 1] : undefined);
-    for (const work of worksTable) {
+    for (const work of cleanWorks) {
       if (work.year && from != null && work.year < from) continue;
       if (work.year && to != null && work.year > to) continue;
       (work.topics || []).forEach((t) => {
@@ -295,7 +298,7 @@ const Index = () => {
       .sort((a, b) => b[1] - a[1])
       .slice(0, 20)
       .map(([name, count]) => ({ name, count }));
-  }, [allYears, startYear, endYear]);
+  }, [allYears, startYear, endYear, cleanWorks]);
 
   const buildRangeParams = () => {
     const from = startYear ?? (allYears.length ? allYears[0] : undefined);

@@ -5,6 +5,7 @@ import { ArrowLeft, ArrowUpDown, Download, FileText, Link as LinkIcon, Search, T
 import { SiteShell } from "@/components/SiteShell";
 import { topicStats } from "@/data/topicInstitutionStats.generated";
 import { worksTable } from "@/data/worksTable.generated";
+import { filterWorks } from "@/lib/blacklist";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { Button } from "@/components/ui/button";
@@ -38,13 +39,15 @@ const TopicsPage = () => {
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const [searchQuery, setSearchQuery] = useState("");
 
+  const cleanWorks = useMemo(() => filterWorks(worksTable), []);
+
   const allYears = useMemo(() => {
     const years = new Set<number>();
-    for (const w of worksTable) {
+    for (const w of cleanWorks) {
       if (w.year && w.year > 0) years.add(w.year);
     }
     return Array.from(years).sort((a, b) => a - b);
-  }, []);
+  }, [cleanWorks]);
 
   const [startYear, setStartYear] = useState<number | null>(null);
   const [endYear, setEndYear] = useState<number | null>(null);
@@ -89,7 +92,7 @@ useEffect(() => {
 
     const normalizedAuthor = normalizeName(authorFilter);
 
-    for (const work of worksTable) {
+    for (const work of cleanWorks) {
       if (
         normalizedAuthor &&
         !(work.allAuthors || []).some(
@@ -118,7 +121,7 @@ useEffect(() => {
     }
 
     return Array.from(byName.values());
-  }, [authorFilter, startYear, endYear, allYears]);
+  }, [authorFilter, startYear, endYear, allYears, cleanWorks]);
 
   const buildYearRange = () => {
     const from = startYear ?? (allYears.length ? allYears[0] : undefined);
