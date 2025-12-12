@@ -82,7 +82,7 @@ const About = () => {
             <span>Future enhancements</span>
           </h2>
           <ul className="list-disc pl-6 space-y-1 text-muted-foreground text-sm">
-            <li>Persist derived data in a lightweight offline database (for example, SQLite) to speed up large refreshes.</li>
+            <li>Persist derived data in a lightweight offline database to speed up large refreshes.</li>
             <li>Add journal and venue quality signals so results can be filtered or summarized by ranking tier.</li>
             <li>Offer richer analysis views that let users define custom year, topic, institution, and member slices.</li>
           </ul>
