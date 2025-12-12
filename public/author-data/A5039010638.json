@@ -5,12 +5,12 @@
     "display_name": "Mohamed O. Abouelresh",
     "display_name_alternatives": [
       "Mohamed O. Abouelresh",
-      "M. Abouelresh",
-      "M.. Abouelresh",
-      "M.O. Abouelresh",
-      "M.O. Abouelresh*",
       "Mohamed Abouelresh",
-      "Mohamed Omar Abouelresh"
+      "M.O. Abouelresh*",
+      "M.O. Abouelresh",
+      "M.. Abouelresh",
+      "Mohamed Omar Abouelresh",
+      "M. Abouelresh"
     ],
     "works_count": 49,
     "cited_by_count": 949,
@@ -24,42 +24,6 @@
       "orcid": "https://orcid.org/0000-0002-4373-8713"
     },
     "affiliations": [
-      {
-        "institution": {
-          "id": "https://openalex.org/I114794399",
-          "ror": "https://ror.org/02m82p074",
-          "display_name": "Suez Canal University",
-          "country_code": "EG",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I114794399"
-          ]
-        },
-        "years": [
-          2011
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I130009713",
-          "ror": "https://ror.org/00ndhrx30",
-          "display_name": "Suez University",
-          "country_code": "EG",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I130009713"
-          ]
-        },
-        "years": [
-          2021,
-          2019,
-          2017,
-          2016,
-          2015,
-          2013,
-          2011
-        ]
-      },
       {
         "institution": {
           "id": "https://openalex.org/I134085113",
@@ -88,17 +52,23 @@
       },
       {
         "institution": {
-          "id": "https://openalex.org/I4210143841",
-          "ror": "https://ror.org/03ypap427",
-          "display_name": "Saudi Aramco (Saudi Arabia)",
-          "country_code": "SA",
-          "type": "company",
+          "id": "https://openalex.org/I130009713",
+          "ror": "https://ror.org/00ndhrx30",
+          "display_name": "Suez University",
+          "country_code": "EG",
+          "type": "education",
           "lineage": [
-            "https://openalex.org/I4210143841"
+            "https://openalex.org/I130009713"
           ]
         },
         "years": [
-          2021
+          2021,
+          2019,
+          2017,
+          2016,
+          2015,
+          2013,
+          2011
         ]
       },
       {
@@ -115,9 +85,50 @@
         "years": [
           2021
         ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I4210143841",
+          "ror": "https://ror.org/03ypap427",
+          "display_name": "Saudi Aramco (Saudi Arabia)",
+          "country_code": "SA",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210143841"
+          ]
+        },
+        "years": [
+          2021
+        ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I114794399",
+          "ror": "https://ror.org/02m82p074",
+          "display_name": "Suez Canal University",
+          "country_code": "EG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I114794399"
+          ]
+        },
+        "years": [
+          2011
+        ]
       }
     ],
-    "last_known_institutions": [],
+    "last_known_institutions": [
+      {
+        "id": "https://openalex.org/I134085113",
+        "ror": "https://ror.org/03yez3163",
+        "display_name": "King Fahd University of Petroleum and Minerals",
+        "country_code": "SA",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I134085113"
+        ]
+      }
+    ],
     "topics": [
       {
         "id": "https://openalex.org/T10399",
@@ -214,7 +225,7 @@
       {
         "id": "https://openalex.org/T12456",
         "display_name": "Geotourism and Geoheritage Conservation",
-        "value": 0.0002097,
+        "value": 0.0003955,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -231,7 +242,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000624,
+        "value": 0.0000662,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -246,26 +257,9 @@
         }
       },
       {
-        "id": "https://openalex.org/T10635",
-        "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0000528,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2210",
-          "display_name": "Mechanical Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T12603",
         "display_name": "NMR spectroscopy and applications",
-        "value": 0.0000525,
+        "value": 0.0000587,
         "subfield": {
           "id": "https://openalex.org/subfields/3106",
           "display_name": "Nuclear and High Energy Physics"
@@ -280,16 +274,33 @@
         }
       },
       {
-        "id": "https://openalex.org/T11284",
-        "display_name": "Coal Properties and Utilization",
-        "value": 0.0000382,
+        "id": "https://openalex.org/T10635",
+        "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+        "value": 0.0000544,
         "subfield": {
-          "id": "https://openalex.org/subfields/2212",
-          "display_name": "Ocean Engineering"
+          "id": "https://openalex.org/subfields/2210",
+          "display_name": "Mechanical Engineering"
         },
         "field": {
           "id": "https://openalex.org/fields/22",
           "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12083",
+        "display_name": "Karst Systems and Hydrogeology",
+        "value": 0.0000479,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -334,7 +345,7 @@
         "year": 2012,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 249
+        "cited_by_count": 252
       },
       {
         "year": 2013,
@@ -358,63 +369,72 @@
         "year": 2016,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 48
+        "cited_by_count": 49
       },
       {
         "year": 2017,
         "works_count": 3,
         "oa_works_count": 0,
-        "cited_by_count": 203
+        "cited_by_count": 209
       },
       {
         "year": 2018,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 6
+        "cited_by_count": 7
       },
       {
         "year": 2019,
         "works_count": 10,
         "oa_works_count": 1,
-        "cited_by_count": 161
+        "cited_by_count": 164
       },
       {
         "year": 2020,
         "works_count": 4,
         "oa_works_count": 1,
-        "cited_by_count": 72
+        "cited_by_count": 74
       },
       {
         "year": 2021,
         "works_count": 3,
         "oa_works_count": 2,
-        "cited_by_count": 48
+        "cited_by_count": 51
       },
       {
         "year": 2022,
         "works_count": 4,
         "oa_works_count": 1,
-        "cited_by_count": 32
+        "cited_by_count": 34
       },
       {
         "year": 2023,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 20
+        "cited_by_count": 31
       },
       {
         "year": 2024,
         "works_count": 5,
         "oa_works_count": 2,
-        "cited_by_count": 18
+        "cited_by_count": 28
       },
       {
         "year": 2025,
-        "works_count": 1,
+        "works_count": 3,
         "oa_works_count": 0,
         "cited_by_count": 0
       }
     ],
+    "longest_name": "Mohamed Omar Abouelresh",
+    "parsed_longest_name": {
+      "first": "mohamed",
+      "middle": "omar",
+      "last": "abouelresh",
+      "suffix": "",
+      "nickname": ""
+    },
+    "block_key": "m abouelresh",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039010638",
     "updated_date": "2025-11-06T23:17:08.748858",
     "created_date": "2019-08-13"

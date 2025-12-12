@@ -34,7 +34,7 @@ export const authors: AuthorRecord[] = [
     "email": "abdullah.alqubalee@kfupm.edu.sa",
     "orcid": "0000-0002-0543-9026",
     "totalPublications": 45,
-    "totalCitations": 385,
+    "totalCitations": 390,
     "hIndex": 12
   },
   {
@@ -54,7 +54,7 @@ export const authors: AuthorRecord[] = [
     "email": "ramadank@kfupm.edu.sa",
     "orcid": "",
     "totalPublications": 173,
-    "totalCitations": 2297,
+    "totalCitations": 2299,
     "hIndex": 24
   },
   {
@@ -71,9 +71,9 @@ export const authors: AuthorRecord[] = [
     "affiliate3": "",
     "email": "alan.collins@adelaide.edu.au",
     "orcid": "",
-    "totalPublications": 407,
-    "totalCitations": 18772,
-    "hIndex": 68
+    "totalPublications": 410,
+    "totalCitations": 18839,
+    "hIndex": 69
   },
   {
     "authorId": "idb0003-al-husseini-moujahed",
@@ -90,7 +90,7 @@ export const authors: AuthorRecord[] = [
     "email": "moujaheda@gmail.com",
     "orcid": "",
     "totalPublications": 58,
-    "totalCitations": 1923,
+    "totalCitations": 1925,
     "hIndex": 22
   },
   {
@@ -108,7 +108,7 @@ export const authors: AuthorRecord[] = [
     "email": "marco.vecoli@aramco.com",
     "orcid": "",
     "totalPublications": 132,
-    "totalCitations": 2971,
+    "totalCitations": 2973,
     "hIndex": 33
   },
   {
@@ -125,8 +125,8 @@ export const authors: AuthorRecord[] = [
     "affiliate3": "",
     "email": "m.moustafa@squ.edu.om",
     "orcid": "",
-    "totalPublications": 88,
-    "totalCitations": 1281,
+    "totalPublications": 89,
+    "totalCitations": 1284,
     "hIndex": 20
   },
   {
@@ -144,7 +144,7 @@ export const authors: AuthorRecord[] = [
     "email": "lameed61@gmail.com",
     "orcid": "",
     "totalPublications": 75,
-    "totalCitations": 580,
+    "totalCitations": 584,
     "hIndex": 13
   },
   {
@@ -180,7 +180,7 @@ export const authors: AuthorRecord[] = [
     "email": "abdullatifosman52@gmail.com",
     "orcid": "",
     "totalPublications": 151,
-    "totalCitations": 1120,
+    "totalCitations": 1124,
     "hIndex": 17
   },
   {
@@ -198,7 +198,133 @@ export const authors: AuthorRecord[] = [
     "email": "mutasimsami@kfupm.edu.sa",
     "orcid": "",
     "totalPublications": 40,
-    "totalCitations": 52,
+    "totalCitations": 53,
     "hIndex": 4
+  },
+  {
+    "authorId": "idb0010-bello-abdulwahab",
+    "openAlexId": "A5014657720",
+    "openAlexIds": [
+      "A5014657720"
+    ],
+    "name": "Abdulwahab Bello",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "abdulwahab.bello@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 62,
+    "totalCitations": 510,
+    "hIndex": 13
+  },
+  {
+    "authorId": "idb0011-salisu-anas",
+    "openAlexId": "A5072935704",
+    "openAlexIds": [
+      "A5072935704"
+    ],
+    "name": "Anas Salisu",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "anas.salisu@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 16,
+    "totalCitations": 108,
+    "hIndex": 7
+  },
+  {
+    "authorId": "idb0012-alfataierge-ezzedeen",
+    "openAlexId": "A5052123503",
+    "openAlexIds": [
+      "A5052123503"
+    ],
+    "name": "Ezzedeen Alfataierge",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "EZZEDEEN.ALFATAIERGE@aramco.com",
+    "orcid": "",
+    "totalPublications": 27,
+    "totalCitations": 71,
+    "hIndex": 5
+  },
+  {
+    "authorId": "idb0013-kanfar-rayan",
+    "openAlexId": "A5071165005",
+    "openAlexIds": [
+      "A5071165005"
+    ],
+    "name": "Rayan Kanfar",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "rayan.kanfar@aramco.com",
+    "orcid": "",
+    "totalPublications": 7,
+    "totalCitations": 80,
+    "hIndex": 4
+  },
+  {
+    "authorId": "idb0014-afifi-abdulkader",
+    "openAlexId": "A5074794653",
+    "openAlexIds": [
+      "A5074794653"
+    ],
+    "name": "Abdulkader Afifi",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "abdulkader.alafifi@kaust.edu.sa",
+    "orcid": "",
+    "totalPublications": 75,
+    "totalCitations": 1675,
+    "hIndex": 15
+  },
+  {
+    "authorId": "idb0015-alouani-rabah",
+    "openAlexId": "A5051221143",
+    "openAlexIds": [
+      "A5051221143"
+    ],
+    "name": "Rabah Alouani",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "rabah.alouani@fsb.ucar.tn",
+    "orcid": "",
+    "totalPublications": 19,
+    "totalCitations": 187,
+    "hIndex": 7
+  },
+  {
+    "authorId": "idb0016-stephenson-michael",
+    "openAlexId": "A5040147688",
+    "openAlexIds": [
+      "A5040147688"
+    ],
+    "name": "Michael Stephenson",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "mikepalyno@me.com",
+    "orcid": "",
+    "totalPublications": 158,
+    "totalCitations": 2766,
+    "hIndex": 31
   }
 ];

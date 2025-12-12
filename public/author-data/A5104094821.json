@@ -5,11 +5,11 @@
     "display_name": "Khalid Al‐Ramadan",
     "display_name_alternatives": [
       "Khalid Al‐Ramadan",
-      "Khalid A. Al‐Ramadan",
       "Khalid AL-RAMADAN",
       "Khalid Al-Ramadan",
+      "Khalid Al‑Ramadan",
       "Khalid Al-ramadan",
-      "Khalid Al‑Ramadan"
+      "Khalid A. Al‐Ramadan"
     ],
     "works_count": 19,
     "cited_by_count": 103,
@@ -23,6 +23,21 @@
       "orcid": null
     },
     "affiliations": [
+      {
+        "institution": {
+          "id": "https://openalex.org/I53276908",
+          "ror": "https://ror.org/0008kv292",
+          "display_name": "Marymount University",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I53276908"
+          ]
+        },
+        "years": [
+          2012
+        ]
+      },
       {
         "institution": {
           "id": "https://openalex.org/I134085113",
@@ -42,21 +57,6 @@
           2013,
           2009
         ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I53276908",
-          "ror": "https://ror.org/0008kv292",
-          "display_name": "Marymount University",
-          "country_code": "US",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I53276908"
-          ]
-        },
-        "years": [
-          2012
-        ]
       }
     ],
     "last_known_institutions": [
@@ -66,7 +66,9 @@
         "display_name": "King Fahd University of Petroleum and Minerals",
         "country_code": "SA",
         "type": "education",
-        "lineage": null
+        "lineage": [
+          "https://openalex.org/I134085113"
+        ]
       }
     ],
     "topics": [
@@ -107,24 +109,6 @@
         }
       },
       {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "count": 6,
-        "score": 0.9994000196456909,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T10017",
         "display_name": "Geology and Paleoclimatology Research",
         "count": 6,
@@ -143,80 +127,10 @@
         }
       },
       {
-        "id": "https://openalex.org/T13177",
-        "display_name": "Geological and Geophysical Studies",
-        "count": 3,
-        "score": 0.9993000030517578,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      }
-    ],
-    "topic_share": [
-      {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "value": 0.0000259,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
-        "id": "https://openalex.org/T11278",
-        "display_name": "Calcium Carbonate Crystallization and Inhibition",
-        "value": 0.0000214,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2502",
-          "display_name": "Biomaterials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/25",
-          "display_name": "Materials Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000208,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000183,
+        "count": 6,
+        "score": 0.9994000196456909,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -233,7 +147,8 @@
       {
         "id": "https://openalex.org/T11852",
         "display_name": "Clay minerals and soil interactions",
-        "value": 0.0000151,
+        "count": 3,
+        "score": 0.9988999962806702,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -241,6 +156,93 @@
         "field": {
           "id": "https://openalex.org/fields/25",
           "display_name": "Materials Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "topic_share": [
+      {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "value": 0.0000335,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11278",
+        "display_name": "Calcium Carbonate Crystallization and Inhibition",
+        "value": 0.0000283,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2502",
+          "display_name": "Biomaterials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/25",
+          "display_name": "Materials Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "value": 0.0000263,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11852",
+        "display_name": "Clay minerals and soil interactions",
+        "value": 0.0000248,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2502",
+          "display_name": "Biomaterials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/25",
+          "display_name": "Materials Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "value": 0.0000221,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -285,13 +287,13 @@
         "year": 2012,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 14
+        "cited_by_count": 15
       },
       {
         "year": 2013,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 18
+        "cited_by_count": 20
       },
       {
         "year": 2014,
@@ -309,27 +311,36 @@
         "year": 2021,
         "works_count": 3,
         "oa_works_count": 2,
-        "cited_by_count": 26
+        "cited_by_count": 27
       },
       {
         "year": 2022,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 15
+        "cited_by_count": 17
       },
       {
         "year": 2024,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 9
+        "cited_by_count": 10
       },
       {
         "year": 2025,
-        "works_count": 5,
+        "works_count": 7,
         "oa_works_count": 3,
-        "cited_by_count": 0
+        "cited_by_count": 4
       }
     ],
+    "longest_name": "Khalid A. Al‐Ramadan",
+    "parsed_longest_name": {
+      "first": "khalid",
+      "middle": "a",
+      "last": "al‐ramadan",
+      "suffix": "",
+      "nickname": ""
+    },
+    "block_key": "k al‐ramadan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5104094821",
     "updated_date": "2025-11-28T02:08:47.144824",
     "created_date": "2019-08-13"
@@ -771,8 +782,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -1934,8 +1945,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -2659,8 +2670,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -3542,8 +3553,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5400000214576721
         }
       ],
@@ -6646,8 +6657,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -12099,8 +12110,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -12657,8 +12668,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8600000143051147
         }
       ],
@@ -13493,8 +13504,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8399999737739563
         }
       ],

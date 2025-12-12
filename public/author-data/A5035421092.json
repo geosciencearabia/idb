@@ -5,15 +5,15 @@
     "display_name": "Mutasim Osman",
     "display_name_alternatives": [
       "Mutasim Osman",
-      "M. Osman",
-      "M. S. Osman",
       "M.S. Osman",
+      "M. Osman",
       "Mudather A. M. Osman",
+      "Mutasim Sami Osman",
       "Mutasim S. Osman",
-      "Mutasim Sami Osman"
+      "M. S. Osman"
     ],
     "works_count": 40,
-    "cited_by_count": 52,
+    "cited_by_count": 53,
     "summary_stats": {
       "2yr_mean_citedness": 0.5384615384615384,
       "h_index": 4,
@@ -24,6 +24,21 @@
       "orcid": "https://orcid.org/0000-0002-6344-9257"
     },
     "affiliations": [
+      {
+        "institution": {
+          "id": "https://openalex.org/I90097577",
+          "ror": "https://ror.org/04k46b490",
+          "display_name": "Red Sea University",
+          "country_code": "SD",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I90097577"
+          ]
+        },
+        "years": [
+          2025
+        ]
+      },
       {
         "institution": {
           "id": "https://openalex.org/I134085113",
@@ -48,39 +63,28 @@
           2015,
           2014
         ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I90097577",
-          "ror": "https://ror.org/04k46b490",
-          "display_name": "Red Sea University",
-          "country_code": "SD",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I90097577"
-          ]
-        },
-        "years": [
-          2025
-        ]
       }
     ],
     "last_known_institutions": [
-      {
-        "id": "https://openalex.org/I134085113",
-        "ror": "https://ror.org/03yez3163",
-        "display_name": "King Fahd University of Petroleum and Minerals",
-        "country_code": "SA",
-        "type": "education",
-        "lineage": null
-      },
       {
         "id": "https://openalex.org/I90097577",
         "ror": "https://ror.org/04k46b490",
         "display_name": "Red Sea University",
         "country_code": "SD",
         "type": "education",
-        "lineage": null
+        "lineage": [
+          "https://openalex.org/I90097577"
+        ]
+      },
+      {
+        "id": "https://openalex.org/I134085113",
+        "ror": "https://ror.org/03yez3163",
+        "display_name": "King Fahd University of Petroleum and Minerals",
+        "country_code": "SA",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I134085113"
+        ]
       }
     ],
     "topics": [
@@ -179,7 +183,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000562,
+        "value": 0.0000595,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -194,26 +198,9 @@
         }
       },
       {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "value": 0.0000317,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.000022,
+        "value": 0.0000491,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -228,16 +215,16 @@
         }
       },
       {
-        "id": "https://openalex.org/T10635",
-        "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0000186,
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "value": 0.000041,
         "subfield": {
-          "id": "https://openalex.org/subfields/2210",
-          "display_name": "Mechanical Engineering"
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -247,7 +234,7 @@
       {
         "id": "https://openalex.org/T10110",
         "display_name": "earthquake and tectonic studies",
-        "value": 0.0000162,
+        "value": 0.0000205,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -260,15 +247,26 @@
           "id": "https://openalex.org/domains/3",
           "display_name": "Physical Sciences"
         }
+      },
+      {
+        "id": "https://openalex.org/T10635",
+        "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+        "value": 0.0000192,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2210",
+          "display_name": "Mechanical Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
       }
     ],
     "x_concepts": [
-      {
-        "id": "104873425",
-        "wikidata": "https://www.wikidata.org/wiki/Q205768",
-        "display_name": "Sedimentology",
-        "score": 0.4808962345123291
-      },
       {
         "id": "104873425",
         "wikidata": "https://www.wikidata.org/wiki/Q205768",
@@ -279,7 +277,7 @@
         "id": "104873425",
         "wikidata": "https://www.wikidata.org/wiki/Q205768",
         "display_name": "Sedimentology",
-        "score": 0.64471435546875
+        "score": 0.4808962345123291
       },
       {
         "id": "104873425",
@@ -292,6 +290,12 @@
         "wikidata": "https://www.wikidata.org/wiki/Q205768",
         "display_name": "Sedimentology",
         "score": 0.9174939393997192
+      },
+      {
+        "id": "104873425",
+        "wikidata": "https://www.wikidata.org/wiki/Q205768",
+        "display_name": "Sedimentology",
+        "score": 0.64471435546875
       }
     ],
     "counts_by_year": [
@@ -305,13 +309,13 @@
         "year": 2015,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 11
+        "cited_by_count": 12
       },
       {
         "year": 2016,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 19
+        "cited_by_count": 20
       },
       {
         "year": 2017,
@@ -365,9 +369,18 @@
         "year": 2025,
         "works_count": 7,
         "oa_works_count": 2,
-        "cited_by_count": 3
+        "cited_by_count": 6
       }
     ],
+    "longest_name": "Mudather A. M. Osman",
+    "parsed_longest_name": {
+      "first": "mudather",
+      "middle": "a m",
+      "last": "osman",
+      "suffix": "",
+      "nickname": ""
+    },
+    "block_key": "m osman",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5035421092",
     "updated_date": "2025-11-23T05:10:03.516525",
     "created_date": "2023-12-06"
@@ -1083,8 +1096,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 26,
       "referenced_works": [
@@ -2191,8 +2204,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 71,
       "referenced_works": [
@@ -3422,8 +3435,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 105,
       "referenced_works": [
@@ -4810,8 +4823,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 117,
       "referenced_works": [
@@ -6158,8 +6171,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 81,
       "referenced_works": [
@@ -6728,8 +6741,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 36,
       "referenced_works": [
@@ -7689,8 +7702,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 39,
       "referenced_works": [
@@ -8330,8 +8343,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 1,
       "referenced_works": [
@@ -9301,8 +9314,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 8,
       "referenced_works": [
@@ -10827,8 +10840,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 23,
       "referenced_works": [
@@ -11937,8 +11950,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -12543,8 +12556,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 15,
       "referenced_works": [
@@ -14024,8 +14037,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -14492,8 +14505,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -15421,8 +15434,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -16308,8 +16321,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -17109,8 +17122,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -17899,8 +17912,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -18281,8 +18294,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -18627,8 +18640,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -19016,8 +19029,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -19474,8 +19487,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -20514,8 +20527,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -21352,8 +21365,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -21796,8 +21809,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -22121,8 +22134,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -23010,8 +23023,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -23900,8 +23913,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -24207,8 +24220,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -25244,8 +25257,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -25540,8 +25553,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -25902,8 +25915,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -26325,8 +26338,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -26704,8 +26717,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -28112,8 +28125,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -29201,8 +29214,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -30283,8 +30296,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 102,
       "referenced_works": [
@@ -31363,8 +31376,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -32395,8 +32408,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 166,
       "referenced_works": [
@@ -33044,8 +33057,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 64,
       "referenced_works": [
