@@ -398,5 +398,95 @@ export const authors: AuthorRecord[] = [
     "totalPublications": 17,
     "totalCitations": 265,
     "hIndex": 8
+  },
+  {
+    "authorId": "idb0021-amao-abduljamiu",
+    "openAlexId": "A5027197211",
+    "openAlexIds": [
+      "A5027197211"
+    ],
+    "name": "Abduljamiu Amao",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "amao@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 149,
+    "totalCitations": 1119,
+    "hIndex": 19
+  },
+  {
+    "authorId": "idb0022-al?shuhail-abdullatif",
+    "openAlexId": "A5054922583",
+    "openAlexIds": [
+      "A5054922583"
+    ],
+    "name": "Abdullatif Al?Shuhail",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "ashuhail@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 173,
+    "totalCitations": 1230,
+    "hIndex": 21
+  },
+  {
+    "authorId": "idb0023-al-lehyani-ayman",
+    "openAlexId": "A5059100961",
+    "openAlexIds": [
+      "A5059100961"
+    ],
+    "name": "Ayman Al-Lehyani",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "allehyani@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 7,
+    "totalCitations": 83,
+    "hIndex": 3
+  },
+  {
+    "authorId": "idb0024-saraih-nabil",
+    "openAlexId": "A5088388992",
+    "openAlexIds": [
+      "A5088388992"
+    ],
+    "name": "Nabil Saraih",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "nabil.saraih@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 11,
+    "totalCitations": 68,
+    "hIndex": 3
+  },
+  {
+    "authorId": "idb0025-abdlmutalib-ammar",
+    "openAlexId": "A5006844997",
+    "openAlexIds": [
+      "A5006844997"
+    ],
+    "name": "Ammar Abdlmutalib",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "ammar.mohammed@kfupm.edu.sa",
+    "orcid": "",
+    "totalPublications": 29,
+    "totalCitations": 117,
+    "hIndex": 7
   }
 ];

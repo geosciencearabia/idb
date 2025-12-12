@@ -4,7 +4,7 @@
     <title>Integrative Dashboard - OpenAlex Feed</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Fri, 12 Dec 2025 13:51:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 16:17:01 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Where were the mountains and how big were they?</title>
@@ -31,6 +31,15 @@
       <dc:creator>Amer M. Al-Sabri, Salah Al‐Khirbash</dc:creator>
       <dc:publisher>Maǧallaẗ ǧāmiʿaẗ al-Sulṭān Qābūs li-l-ʿulūm/Sultan Qaboos University journal for science</dc:publisher>
       <description>Venue: Maǧallaẗ ǧāmiʿaẗ al-Sulṭān Qābūs li-l-ʿulūm/Sultan Qaboos University journal for science&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Seismic characterization of inland and coastal sabkhas using VP, VS, seismic anisotropy, and attenuation</title>
+      <link>https://doi.org/10.1038/s41598-025-29863-w</link>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4416764301</guid>
+      <dc:creator>Mohammed Y. Ali, Fateh Bouchaala, Ammar El‐Husseiny, Abdullatif Al‐Shuhail, Sherif M. Hanafy, Jun Matsushima</dc:creator>
+      <dc:publisher>Scientific Reports</dc:publisher>
+      <description>Venue: Scientific Reports&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Mechanism of Thermogenic Gas Formation From the Cracking of Oil‐Kerogen of the Lower Cretaceous Organic‐Rich Shales in the Lower Indus Basin, Pakistan: Implication From Geochemical and 1‐D Basin Modelling Analysis</title>
@@ -113,6 +122,15 @@
       <description>Abstract: Groundwater level predictive monitoring is necessary to address accelerated aquifer depletion and ensure sustainable management under increasing climatic and anthropogenic pressures. This study uses machine learning approaches to model groundwater level (GWL) dynamics in six observation wells in the Ruataniwha Basin, New Zealand. These models are enhanced with seasonal decomposition techniques. This study uses both static properties and dynamic variables to capture hydrogeological heterogeneity. Random Forest (RF) and Support Vector Machine (SVM), with seasonal decomposition preprocessing, were developed for GWL modelling. The models were trained on 80% of the dataset and tested using the remaining 20% of the data. Model accuracy was assessed using five statistical metrics: mean absolute error (MAE), root mean square error (RMSE), the coefficient of determination (R2), mean absolute percent error (MAPE), and percent bias (PBIAS). Model uncertainty was analyzed using Bayesian Model Averaging combined with the p-factor and d-factor at the 95% confidence level. The results demonstrate that both models delivered strong predictive performance across training, testing, and full period evaluations. However, the RF model demonstrated a marginally superior predictive accuracy by achieving lower errors (MAE: 0.013–0.174; RMSE: 0.04–0.283), better bias control (PBIAS ≈ 0%), and slightly tighter error bounds in most wells. Uncertainty quantification revealed that models provided a minimu…&#10;Venue: Hydrology&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
+      <title>Leveraging stable diffusion to reconstruct missing core intervals</title>
+      <link>https://doi.org/10.1038/s41598-025-20817-w</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415407716</guid>
+      <dc:creator>Xin Liu, Umair bin Waheed, Korhan Ayrancı, Ammar Abdlmutalib</dc:creator>
+      <dc:publisher>Scientific Reports</dc:publisher>
+      <description>Abstract: Core-based data provide critical insights into subsurface reservoir characterization by offering direct observations of rock formations, including lithology, sedimentary structures, and minerals. However, core analysis is frequently compromised by missing intervals resulting from extraction damage, handling losses, and the common practice of drilling inch-size plugs for laboratory analysis. These gaps create significant interpretation challenges, particularly in heterogeneous formations where spatial continuity is essential for accurate reservoir modeling. Given the high operational costs and strategic value of core data, developing reliable methods for reconstructing missing core sections represents a crucial advancement in reservoir evaluation. This study investigates the application of Stable Diffusion Model (SDM) for core interval/plug reconstruction, building on its proven success in conditioned image inpainting tasks. Through systematic evaluation across diverse depositional environments, we demonstrate SDM&apos;s effectiveness in reconstructing homogeneous intervals and gradual facies transition zones, while testing its limitations in handling complex heterogeneous zones with abrupt facies changes. The model shows strengths in restoring sedimentary textures and bedding architectures but faces challenges in accurately predicting the locations of sharp facies boundaries. Our approach enhances the utility of incomplete core images, and the findings along with the proposed pote…&#10;Venue: Scientific Reports&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
       <title>Intermittent connectivity determines the oxygenation in the Favenc and lower Wilton packages of the greater McArthur Basin, northern Australia</title>
       <link>https://doi.org/10.1080/08120099.2025.2559364</link>
       <pubDate>Sun, 12 Oct 2025 00:00:00 GMT</pubDate>
@@ -129,6 +147,24 @@
       <dc:creator>Arshad Ali, Mohamed A. K. El‐Ghali, Tomoyuki Shibata, Masako Yoshikawa, Mohamed S. H. Moustafa, İftikhar Ahmed Abbasi, Leonardo Brandão Nogueira</dc:creator>
       <dc:publisher>Arabian Journal of Geosciences</dc:publisher>
       <description>Venue: Arabian Journal of Geosciences&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Sustainable hierarchical porous carbon from sugarcane bagasse for high-performance zinc-ion hybrid supercapacitors</title>
+      <link>https://doi.org/10.1016/j.biombioe.2025.108450</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4415000454</guid>
+      <dc:creator>Nabila Dewi Saidhah, Yuda Prima Hardianto, Abdulmajid A. Mirghni, Ananda Sholeh Rifky Hakim, Syed Shaheen Shah, Ade Siyanti Nurul Hidayah, Abduljamiu O. Amao, Markus Diantoro, Md. Abdul Aziz</dc:creator>
+      <dc:publisher>Biomass and Bioenergy</dc:publisher>
+      <description>Venue: Biomass and Bioenergy&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Accurate velocity estimation from surface-consistent residual statics</title>
+      <link>https://doi.org/10.1038/s41598-025-18730-3</link>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414913886</guid>
+      <dc:creator>Ahmad Mazli Muhammad, Paul Edigbue, Sherif M. Hanafy, Umair bin Waheed, Abdullatif Al‐Shuhail</dc:creator>
+      <dc:publisher>Scientific Reports</dc:publisher>
+      <description>Venue: Scientific Reports&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>On Using Large Language Models to Enhance Clinically-Driven Missing Data Recovery Algorithms in Electronic Health Records</title>
@@ -194,6 +230,14 @@
       <description>Venue: International Journal of Coal Geology&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
+      <title>Mechanically Robust 3D-Printed Proxies for Permeability Measurement of Burrowed Strata</title>
+      <link>https://doi.org/10.2118/227338-ms</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414602920</guid>
+      <dc:creator>S.A. Hamed, Hassan A. Eltom, Abduljamiu O. Amao, Ammar El‐Husseiny, Mohammed Zaki Al-Abdul-Jabbar</dc:creator>
+      <description>Abstract: Abstract Quantifying and accurately measuring bulk permeability in bioturbated strata remains a significant challenge, primarily due to the difficulty of obtaining representative samples that adequately capture connected networks controlling fluid flow. These representative volumes often exceed the laboratory-scale testing. Previously, permeability assessments for such large samples have relied on numerical simulations, where direct permeability measurements for these large burrowed strata remain challenging. However, recent advancements in computed tomography (CT) imaging and 3D printing technologies have enabled high-resolution reconstruction of burrow networks, which can then be scaled down to laboratory-compatible sizes. Despite this progress, issues persist, particularly with 3D-printed replicas produced via fused deposition modeling (FDM). These models frequently fail under the confining pressures applied during permeability testing due to structural deficiencies and fluid leakage. After the failure of ten FDM-printed replicas, this study identifies critical parameters for achieving mechanically robust replicas. Specifically, Polyethylene Terephthalate Glycol) PETG (filament demonstrated markedly superior load-bearing capacity and pressure tolerance compared to Polylactic Acid PLA, significantly minimizing sample failure. Furthermore, the use of 100% matrix infill was found to be crucial for maintaining structural integrity, despite the longer print times required. Fina…&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
       <title>Enhancing oil recovery using SeMAR chemical solutions: a case study from Hemiar oilfield in the Masila Basin, Eastern Yemen</title>
       <link>https://doi.org/10.1007/s13202-025-02051-2</link>
       <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
@@ -244,6 +288,30 @@
       <description>Abstract: Abstract This paper introduces a novel method for enhancing drillbit tracking using passive seismic recordings. The method leverages surface passive seismic-while-drilling data, cross-correlated with pilot recordings from various locations along the drill string, to accurately focus, interpret, locate, and visualize drillbit positions. This approach offers an independent and precise estimation of well positions. The method interprets these images as probability distribution functions to simultaneously estimate locations and positional uncertainties. The proposed technique addresses the limitations of traditional well placement methods by providing high-resolution drillbit source images and continuous positional updates. This is particularly advantageous in complex geological settings where precise well placement is critical. The method&apos;s ability to deliver accurate drillbit locations without being confined to a spatial grid enhances its applicability across various drilling scenarios. Both synthetic and field data tests validate the method’s efficacy, demonstrating its robustness and reliability. The results indicate that this seismic-based approach can serve as a complementary technique to traditional magnetic and gyro Measurement While Drilling (MWD) technologies, potentially mitigating cumulative errors and improving overall well placement accuracy.&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
+      <title>Prediction of Near-Surface Velocity from Seismic Traveltimes Data Using Machine Learning</title>
+      <link>https://doi.org/10.2118/227562-ms</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414226638</guid>
+      <dc:creator>Ahmed Salem, Sherif M. Hanafy, Pantelis Soupios, Abdullatif Al‐Shuhail</dc:creator>
+      <description>Abstract: Abstract Accurate determination of near-surface velocity is essential for calculating static corrections for seismic data, as neglecting shallow velocity can lead to significant misplacement of deeper seismic reflectors. However, traditional methods for inverting refracted traveltimes data are often computationally intensive and time-consuming. To overcome these limitations, we present a novel machine learning-based inversion framework that predicts the thickness and velocity of near-surface layers from refracted traveltimes data. Our approach utilizes a data-driven methodology to approximate the relationship between seismic traveltimes and corresponding velocity and thickness, reducing ambiguities in seismic inversion results, particularly without sufficient prior information. We trained a deep neural network (DNN) model using synthetic traveltimes datasets and evaluated its performance on synthetic and real-world data. The results demonstrate that the proposed approach can accurately estimate layer thicknesses and velocities with high consistency between predicted and actual values. Furthermore, applying the machine learning approach to a field dataset acquired over a dune in Saudi Arabia, comprising 37 receivers at 2 m intervals, yielded results consistent with borehole data. The proposed machine learning framework offers several advantages over traditional inversion techniques, including automatically identifying valuable inversion information without prior knowledge, avo…&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Reserve Estimation Based on Post-Stack Seismic Inversion via Multilayer Perceptron, Random Forest, and Extra Tree Regression Algorithms</title>
+      <link>https://doi.org/10.2118/227369-ms</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414227379</guid>
+      <dc:creator>Lutfi Mulyadi Surachman, Abdulazeez Abdulraheem, SanLinn I. Kaka, Abdullatif Al‐Shuhail</dc:creator>
+      <description>Abstract: Abstract This study presents an enhanced reserve estimation approach that mitigates the limitations of conventional inversion methods, thereby facilitating more informed decision-making during exploration. The training process used acoustic impedance (AI) logs as the target variable and depth, two-way travel time, and seismic attributes at the well log scale as inputs. The models employed multilayer perceptrons, random forests, and extra tree regressions to predict the AI, which was then compared to the BLIMP (band-limited impedance inversion) data. The methodology emphasizes selecting suitable cutoffs or thresholds of porosity and permeability for optimal performance. Using cutoff values that match porosity and permeability extremes reduces error and improves reservoir parameter estimation for net pay. The hydrocarbon pore volume is subsequently computed, followed by the estimation of reserves and economic value. Compared with the available cited ground truth data (1.8310e+11 STB and 3.9549e+12 SAR), the ETR results in more accurate reserves and values (1.7174e+11 STB and 3.7096e+12 SAR). These results are also supported by the ETR&apos;s empirical value (a=0.1584) being closest to the value of the ground truth (a=0.1585). We conclude that, compared with the ground truth, the ML models exhibit varying performance, with the accurate trend of ETR &amp;amp;gt; RFR &amp;amp;gt; MLPR. In contrast, the values of the BLIMP are smaller than those of the ETR, provided that the threshold choices m…&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Explaining Deep Learning Models in Full Waveform Inversion: Enhancing Transparency in Seismic Data Interpretation</title>
+      <link>https://doi.org/10.2118/227264-ms</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414264349</guid>
+      <dc:creator>Paul Edigbue, Abdullatif Al‐Shuhail, Sherif M. Hanafy</dc:creator>
+      <description>Abstract: Abstract We present a physics-informed neural network approach for full-waveform inversion (FWI) that embeds a Deep Image Prior (DIP) U-Net within the inversion loop and applies explainable AI (XAI) methods to interpret the learned model. Starting from a decimated Marmousi velocity model, we generate synthetic seismic data via 2D acoustic wave propagation. A smoothed version of the true model initializes a randomly initialized U-Net (the DIP), which is pretrained to replicate the smoothed model. Thereafter, the DIP&apos;s weights replace the cell-wise velocity parameters in FWI, and an iterative optimizer adjusts these weights to minimize discrepancies between observed and simulated waveforms. The resulting high-resolution velocity model arises from physics-constrained learning. To reveal the network&apos;s decision process, we compute attribution maps using SHapley Additive exPlanations (SHAP), Integrated Gradients, and occlusion sensitivity. These maps highlight the spatial features; primarily high-contrast layers and anomalies that drive the DIP&apos;s output. Comparative analyses of true vs. predicted models, residuals, and combined depth/lateral sensitivity profiles confirm that the deep model captures essential subsurface structures. This framework enhances transparency in seismic inversion by linking data-driven models to geophysical knowledge, thus bridging the gap between &quot;black-box&quot; deep learning and interpretable imaging.&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
       <title>Geothermal Potential of the Yanbu Basin in Saudi Arabia: Insights from Reservoir Modeling and Simulations</title>
       <link>https://doi.org/10.2118/227306-ms</link>
       <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
@@ -258,6 +326,14 @@
       <guid isPermaLink="false">https://openalex.org/W4414227501</guid>
       <dc:creator>Tihana Pensa, Guillaume Baby, Thomas Teillet, Antoine Delaunay, Abdulkader M. Afifi</dc:creator>
       <description>Abstract: Abstract This study investigates Middle Miocene carbonate platform outcrops along the Arabian margin of the Red Sea. These platforms, formed on footwalls of major rift faults, serve as analogues for fault-block carbonate reservoirs. The study focuses on platform geometry, facies distribution, and diagenetic features, which are relevant for exploration models and reservoir characterization. The study integrates field observations, satellite imagery, and stratigraphic analysis across an 800 km stretch of coastline. The platforms are dated to the Late Burdigalian to Early Langhian (16-14 Ma) and rest unconformably on Precambrian basement and syn-rift sedimentary rocks. Structural control results in elongated fringing platform geometries aligned with fault scarps of normal faults. Fore-reef coral-algal rudstone facies are well preserved, whereas back-reef deposits are preserved only in some locations. Diagenetic alterations include marine cementation, meteoric dissolution, dolomitization, and localized Mississippi Valley-Type (MVT) mineralization with Zn, Pb, Cu sulfides, barite, and Mn oxides. These features reflect multiple diagenetic stages and variable fluid histories. The platforms exhibit consistent structural and sedimentological patterns along the margin, highlighting the influence of tectonic setting on carbonate development. The results support the application of these outcrops as analogues for subsurface systems in rift-related carbonate plays.&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Evaluating the CO2 Storage Potential of Scoriaceous Basalts in Saudi Arabia: Implications for the Saudi Green Initiative</title>
+      <link>https://doi.org/10.2118/226846-ms</link>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414232775</guid>
+      <dc:creator>Mobeen Murtaza, M. de S. Campos, Hasan Javed Khan, Scott Whattam, Manzar Fawad, Muhammad Shahzad Kamal, Nabil A. Saraih, Israa S. Abu‐Mahfouz</dc:creator>
+      <description>Abstract: Abstract While CO2 mineralization is a crucial area of research for climate change mitigation, the potential of Saudi Arabian scoriaceous basalts has remained largely unexplored. In this study, we aim to assess these unique basalts as a potential CO2 sink by conducting a longer aging study and, paving the way for Saudi Arabia and regions with similar geological formations to actively contribute to carbon sequestration and emission reduction, supporting sustainable development goals (SDGs) on Climate Action. Scoriaceous basalts were sourced from the Harrat Uwayrid volcanic field in western Saudi Arabia. To simulate CO2 mineralization conditions, these samples were aged in a brine-CO2 environment at 50°C and 1450 psi over three months. Advanced imaging techniques, including micro-CT and scanning electron microscopy (SEM), were employed to evaluate the mineralization potential and structural alterations within the basalt. Pre- and post-aging assessments provided detailed insights into the mineralization process occurring within the basalt groundmass, enabling a comprehensive understanding of the changes induced by CO2 exposure. The Micro-CT analysis showed a significant increase in porosity for the scoriaceous basalt sample after three months in a brine-CO2 environment, with porosity rising from an initial 5.72% to 14.89%. Furthermore, it showed that precipitation occurred along the sites of dissolution. SEM imaging showed clear signs of etching and dissolution, indicating the e…&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Depositional Facies Controls on the Geomechanical Properties of the Middle Jurassic Tuwaiq Mountain Formation</title>
@@ -293,6 +369,19 @@
       <category>Philosophy</category>
       <category>Linguistics</category>
       <description>Abstract: Abstract Distributed acoustic sensing (DAS) is increasingly used for vertical seismic profiling (VSP) due to its high spatial sampling density and reduced costs relative to conventional geophone-based methods. This paper presents a large-scale dual-well DAS VSP survey and a comprehensive workflow for data conditioning and early-arrival full-waveform inversion (FWI) implemented using the deep learning (DL) framework PyTorch. Two adjacent wells, 4 km deep and 1.5 km apart, were instrumented with fiber on tubing. Dense land acquisition spanning 4.5 km along the line connecting the wells features a single dual-fiber interrogator and high levels of noise driven by the arid environment. We present a fully automated workflow that allows processing of such data introducing zero-offset supergather that is kinematically inverted for initial model building and synthetic-driven muting strategy to mitigate the effect of the noise. We also introduce pressure to strain-acceleration transform to accommodate DAS simulations using an acoustic solver and source function centroid constraints to adaptively update the source function throughout the iterations while preserving the source timing. Our results confirm the feasibility of combining DAS data and a DL framework for high-resolution velocity inversion in a desert environment with fiber deployed on tubing.&#10;Topics: Geology, Dual (grammatical number), Philosophy, Linguistics&#10;Venue: The Leading Edge&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Seismic Properties of Coastal and Inland Sabkhas: Implications for Static Corrections</title>
+      <link>https://doi.org/10.1029/2024ea003813</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4414021823</guid>
+      <dc:creator>A. Eleslambouly, Mohammed Y. Ali, Ammar El‐Husseiny, Abdullatif Al‐Shuhail, Fateh Bouchaala, Sherif M. Hanafy, Jun Matsushima</dc:creator>
+      <dc:publisher>Earth and Space Science</dc:publisher>
+      <category>Geology</category>
+      <category>Seismology</category>
+      <category>Geophysics</category>
+      <category>Oceanography</category>
+      <description>Abstract: Abstract Sabkha environments are a prevalent topographic feature in arid coastal areas. Along the Arabian Gulf, sabkhas overlie substantial hydrocarbon reservoirs and exhibit intricate lithological characteristics and an extremely shallow water table. These factors contribute to elevated seismic velocities and signal distortion. Static correction, a crucial initial step in seismic reflection processing, is employed to mitigate the impact of shallow surface layers. In this study, we investigate the variations in seismic properties along the uppermost part of mature and developing sabkhas. We employed high‐resolution seismic experiments with geophone spacing of 10 cm to explore the upper tens of centimeters. Conventional surveys with a 2 m spacing complement this approach to investigate deeper layers. Both sabkhas exhibit a unique characteristic of a partially saturated zone, which affects the seismic velocity, leading to lower velocities and consequently influencing the accuracy of the static correction. The high‐resolution surveys demonstrated superior accuracy to conventional approaches in determining the top of the partial saturation zone and hardground layer, hence resulting in a more reliable velocity delineation. Moreover, velocities derived from conventional, replacement, and tomogram approaches resulted in unreliable static corrections in mature coastal sabkha compared with developing inland sabkha, attributed to the considerable geological complexity that is character…&#10;Topics: Geology, Seismology, Geophysics, Oceanography&#10;Venue: Earth and Space Science&#10;Year: 2025&#10;Citations: 1</description>
     </item>
     <item>
       <title>Siliceous-rich mudstone lithofacies as shale oil and gas potential: a case study of the Early Cretaceous Sembar Shale Formation in the southern Indus Basin, Pakistan</title>
@@ -433,6 +522,34 @@
       <description>Topics: Mineralization (soil science), Hydrogen sulfide, Sulfide, Environmental science, Hydrogen&#10;Venue: Energy&#10;Year: 2025&#10;Citations: 1</description>
     </item>
     <item>
+      <title>Application of gravimetric CO2 monitoring on synthetic data from the Ghawar field, Saudi Arabia</title>
+      <link>https://doi.org/10.1038/s41598-025-12429-1</link>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4412707715</guid>
+      <dc:creator>Almir Miftakhutdinov, Abdullatif Al‐Shuhail</dc:creator>
+      <dc:publisher>Scientific Reports</dc:publisher>
+      <category>Gravimetric analysis</category>
+      <category>Plume</category>
+      <category>Gravimetry</category>
+      <category>Brine</category>
+      <category>Environmental science</category>
+      <description>Topics: Gravimetric analysis, Plume, Gravimetry, Brine, Environmental science&#10;Venue: Scientific Reports&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Automated identification of sedimentary structures in core images using object detection algorithms</title>
+      <link>https://doi.org/10.1371/journal.pone.0327738</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4412493990</guid>
+      <dc:creator>Ammar Abdlmutalib, Korhan Ayrancı, Umair bin Waheed, Hamad D Alhajri, James A. MacEachern, Mohammed N Al-Khabbaz</dc:creator>
+      <dc:publisher>PLoS ONE</dc:publisher>
+      <category>Convolutional neural network</category>
+      <category>Identification (biology)</category>
+      <category>Artificial intelligence</category>
+      <category>Computer science</category>
+      <category>Siliciclastic</category>
+      <description>Abstract: Manual interpretation of sedimentary structures in core-based analyses is critical for understanding subsurface geology but remains time-intensive, expert-dependent, and susceptible to bias. This study investigates the use of convolutional neural networks (CNNs) to automate structure identification in core images, focusing on siliciclastic deposits from deltaic, shoreface, fluvial, and lacustrine environments. Two object detection models—YOLOv4 and Faster R-CNN—were trained on annotated datasets comprising 15 sedimentary structure types. YOLOv4 achieved high precision (up to 95%) with faster training and shorter inference times (3.2 s/image) compared to Faster R-CNN (2.5 s/image) under consistent batch size and hardware conditions. Although Faster R-CNN reached a higher mean average precision (94.44%), it exhibited lower recall, particularly for frequently occurring structures. Both models faced challenges in distinguishing morphologically similar features, such as mud drapes and bioturbated media. Performance declined slightly in tests involving previously unseen datasets (Split III), indicating limitations in generalization across varied core imagery. Despite these challenges, the results demonstrate the promise of deep learning for streamlining core interpretation, reducing manual effort, and enhancing reproducibility. This study establishes a robust framework for advancing automated facies analysis in sedimentological research and geoscientific applications.&#10;Topics: Convolutional neural network, Identification (biology), Artificial intelligence, Computer science, Siliciclastic&#10;Venue: PLoS ONE&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
       <title>Benthic foraminiferal diversity in the Arabian Gulf: spatial patterns in a basin-wide assessment</title>
       <link>https://doi.org/10.1371/journal.pone.0327033</link>
       <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
@@ -487,6 +604,34 @@
       <category>Sequence (biology)</category>
       <category>Carbonate platform</category>
       <description>Topics: Carbonate, Carbonate rock, Geology, Sequence (biology), Carbonate platform&#10;Venue: International Journal of Remote Sensing&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Acoustic impedance inversion via voting stacked regression (VStaR) algorithms</title>
+      <link>https://doi.org/10.1038/s41598-025-06332-y</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4411866371</guid>
+      <dc:creator>Lutfi Mulyadi Surachman, SanLinn I. Kaka, Abdullatif Al‐Shuhail</dc:creator>
+      <dc:publisher>Scientific Reports</dc:publisher>
+      <category>Voting</category>
+      <category>Computer science</category>
+      <category>Inversion (geology)</category>
+      <category>Algorithm</category>
+      <category>Regression</category>
+      <description>Abstract: In this study, we focused on improving acoustic impedance (AI) in seismic exploration. AI is a crucial parameter estimated by multiplying the density of a material by the velocity of an acoustic wave passing through it. A low AI in sandstones and carbonates often indicates high porosity, which enhances hydrocarbon accumulation. Accurate AI estimation is thus critical for reliable hydrocarbon exploration. To refine the AI estimation, we used stacking and voting regression algorithms, with depth, two-way travel time (TWTT), and nine seismic attributes as inputs. All models were implemented using scikit-learn . The VStaR model achieved superior predictive performance ([Formula: see text]= 0.9973) and yielded a more accurate fitting parameter (a = 0.1584) in the acoustic impedance-porosity transformation compared to the VSR ([Formula: see text]= 0.9775, a = 0.1583). The VSR approach made the voting of a top-performing base model with two less predictive base models, as used in the existing literature. Relative to the true and BLIMP-derived impedance, the fitting accuracy followed the order of true &gt; VStaR &gt; VSR &gt; BLIMP. While VStaR required longer computation time (≈ 400 s), it reduced RMSE by 14.74% compared to the top-performing base model. VStaR outperformed all evaluated models based on MSE, RMSE, and [Formula: see text] metrics. The novelty of the VStaR method based on hyperparameters lies in its superior performance in obtaining a more precise prediction of acoustic impedan…&#10;Topics: Voting, Computer science, Inversion (geology), Algorithm, Regression&#10;Venue: Scientific Reports&#10;Year: 2025&#10;Citations: 3</description>
+    </item>
+    <item>
+      <title>Seismic stratigraphy and evolution of mesozoic deposits in the central Arabian basin</title>
+      <link>https://doi.org/10.1038/s41598-025-05349-7</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4411866663</guid>
+      <dc:creator>Dicky Harishidayat, Abdullatif Al‐Shuhail, Abdullatif Al‐Shuhail</dc:creator>
+      <dc:publisher>Scientific Reports</dc:publisher>
+      <category>Mesozoic</category>
+      <category>Stratigraphy</category>
+      <category>Geology</category>
+      <category>Structural basin</category>
+      <category>Paleontology</category>
+      <description>Abstract: The Central Arabian Basin is a sedimentary basin that contains a significant number of hydrocarbon reserves. In addition, the Mesozoic succession has the most petroleum system elements. However, publicly available subsurface data for the Central Arabian Basin are scarce. Therefore, our study successfully utilizes wellbore and 2D seismic reflection data from the Central Arabian Basin to reveal the sedimentary processes, depositional environment, and evolution of Mesozoic deposits. Six horizons with onlap and truncation seismic reflection termination, hummocky, subparallel, onlap fill, and chaotic structures with recognizable stratal pattern seismic reflection configurations are interpreted. The lithologies of the Mesozoic deposits are limestone, dolomite, anhydrite, sandstone, and shales. The Mesozoic deposits in the study area were deposited in the shallow marine environment of an intrashelf basin with tidal channels, reefs and transgressive shale depositional elements. Our workflow provides an interpretation of the stratigraphic evolution and depositional environment of Mesozoic deposits in the Central Arabian Basin and could also be applied to a basin with a similar geological setting worldwide.&#10;Topics: Mesozoic, Stratigraphy, Geology, Structural basin, Paleontology&#10;Venue: Scientific Reports&#10;Year: 2025&#10;Citations: 1</description>
     </item>
     <item>
       <title>Enhanced electrochemical performance and boron removal capacity of Mg-Al layered double hydroxide composite for membrane-free capacitive deionization applications</title>
@@ -654,6 +799,20 @@
       <description>Abstract: The Middle and Upper Permian is an important succession in the Arabian Peninsula due to its economic value, with it containing oilfields, the supergiant Khuff gas reservoir and new carbon dioxide storage opportunities. Until now this succession has had no public domain palynostratigraphic scheme. The Oman and Saudi Arabia Palynological Zonation (OSPZ) scheme for the Cisuralian and Guadalupian was established in 2003 but its six zones terminated within the Guadalupian because in central and southern Arabia the succession above is carbonate-dominated with poor palynomorph preservation. The Lopingian clastic-dominated succession of the Levant now provides further palynostratigraphic information to allow a tentative interval palynozonation. Thus, the base of the new OSPZ7 interval biozone is defined at the first appearance datum (FAD) of Protohaploxypinus uttingii ; the base of OSPZ8 by the FAD of Falcisporites stabilis ; and OSPZ9 by the FAD of Pretricolpipollenites bharadwajii . Foraminiferal dates from the marine parts of the Saad, Arqov and Sheizaf formations in boreholes in Israel allow tentative ages to be suggested: OSPZ8 mid-Wuchiapingian and OSPZ9 late Wuchiapingian–Changhsingian. Correlation with Australian, South American and Chinese successions broadly supports these ages. Marine units in Jordan contain foraminifera and conodonts that give an upper age limit of early Induan for OSPZ9.&#10;Topics: Geology, Permian, Peninsula, Palaeogeography, Paleontology&#10;Venue: Petroleum Geoscience&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
+      <title>Comparative study of laboratory and portable spot permeability measurements in bioturbated carbonate strata</title>
+      <link>https://doi.org/10.1038/s41598-025-00697-w</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4410159041</guid>
+      <dc:creator>Ayman Al-Lehyani, Hassan A. Eltom, Abdullatif Al‐Shuhail, Eassa Abdullah, Ammar El‐Husseiny</dc:creator>
+      <dc:publisher>Scientific Reports</dc:publisher>
+      <category>Permeability (electromagnetism)</category>
+      <category>Accuracy and precision</category>
+      <category>Mathematics</category>
+      <category>Biological system</category>
+      <category>Statistics</category>
+      <description>Abstract: Abstract In bioturbated strata, defining and obtaining a representative elementary volume for permeability measurements presents significant challenges. To address this, spot permeability is often used as an alternative method to estimate the bulk permeability of these complex strata. However, laboratory measurements of spot permeability require steady-state nitrogen gas injection and careful sample preparation including slab cutting which makes the process both time-consuming and resource-intensive. Alternatively, field measurements using portable devices offer a more cost-effective, straightforward, and real-time approach for assessing permeability in situ. To evaluate the accuracy of portable devices in measuring spot permeability in bioturbated strata, we compare and contrast permeability measurements on the same rock samples (from the Hanifa Formation in central Saudi Arabia) using two different techniques: the sophisticated laboratory-based AutoScan system and the portable TinyPerm 3 field device both from New England Research (NER). Two sets of permeability data comprising 64 measurements were obtained and analyzed graphically using Whisker Box Plots, Bland-Altman Plot, Curve Matching, and Cross Plots, as well as statistically through correlation analysis and analysis of variance (ANOVA). The graphical analysis revealed no substantial difference in permeability measured by the two methods, a finding further supported by ANOVA results, which indicated no statistically s…&#10;Topics: Permeability (electromagnetism), Accuracy and precision, Mathematics, Biological system, Statistics&#10;Venue: Scientific Reports&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
       <title>Facies analysis and depositional model of the Lower Aptian Carbonates: an example from the Lower Shu’aiba and the equivalent Upper Qishn formations, North and Central Oman</title>
       <link>https://doi.org/10.1007/s13146-025-01081-5</link>
       <pubDate>Tue, 06 May 2025 00:00:00 GMT</pubDate>
@@ -668,6 +827,20 @@
       <description>Topics: Geology, Aptian, Sedimentary depositional environment, Facies, Geochemistry&#10;Venue: Carbonates and Evaporites&#10;Year: 2025&#10;Citations: 3</description>
     </item>
     <item>
+      <title>Hydrogen losses in gas reservoir in the presence of CH4 cushion gas: Insight into geochemical, petrophysical and geomechanical analysis</title>
+      <link>https://doi.org/10.1016/j.est.2025.116805</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4410079140</guid>
+      <dc:creator>Nasiru Salahu Muhammed, Bashirul Haq, Dhafer Al Shehri, Abduljamiu O. Amao</dc:creator>
+      <dc:publisher>Journal of Energy Storage</dc:publisher>
+      <category>Petrophysics</category>
+      <category>Geology</category>
+      <category>Petroleum engineering</category>
+      <category>Cushion</category>
+      <category>Petrology</category>
+      <description>Topics: Petrophysics, Geology, Petroleum engineering, Cushion, Petrology&#10;Venue: Journal of Energy Storage&#10;Year: 2025&#10;Citations: 1</description>
+    </item>
+    <item>
       <title>Analysis of Performance Grades for Polymer-Modified Asphalt: A Technical Note</title>
       <link>https://doi.org/10.1007/s42947-025-00552-1</link>
       <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
@@ -680,6 +853,34 @@
       <category>Composite material</category>
       <category>Polymer</category>
       <description>Topics: Asphalt, Materials science, Structural material, Composite material, Polymer&#10;Venue: International Journal of Pavement Research and Technology&#10;Year: 2025&#10;Citations: 1</description>
+    </item>
+    <item>
+      <title>Enhancing the accuracy of seismic velocity in near-surface layers through Laplacian spectra analysis of weighted graphs</title>
+      <link>https://doi.org/10.1038/s41598-025-00107-1</link>
+      <pubDate>Sat, 03 May 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4410049630</guid>
+      <dc:creator>Monther Rashed Alfuraidan, Abdullatif Al‐Shuhail, Sherif M. Hanafy, Ibrahim O. Sarumi</dc:creator>
+      <dc:publisher>Scientific Reports</dc:publisher>
+      <category>Surface (topology)</category>
+      <category>Spectral line</category>
+      <category>Geology</category>
+      <category>Computer science</category>
+      <category>Laplace operator</category>
+      <description>Abstract: Shallow seismic surveys can play an important role in sustainable urban planning as well as monitoring of geological changes, contributing to climate resilience and the sustainable management of terrestrial ecosystems. A typical seismic layout involves devices (essentially senders and receivers) that transmit signals among themselves. Such layouts can be modeled by a graph using the notions of vertices and edges. In this paper, we propose a regression model to estimate seismic velocity in common near surface settings from spectra data of the normalized Laplacian matrix of the graph representing the seismic layout. The method is validated through tests on both synthetic and real seismic datasets, demonstrating exceptional accuracy. For the synthetic dataset, our model achieved about 99 % accuracy in velocity estimation. Remarkably, when applied to a real dataset acquired over a sabkha (salty soil) in eastern Saudi Arabia, it estimated the second layer&apos;s velocity within 0.3% of the value determined by traditional methods, performed by an experienced geophysicist. In comparison to conventional velocity analysis approaches, the proposed method requires only one or few traces. In addition, it does not require picking of first arrivals, which can be costly and often inaccurate.&#10;Topics: Surface (topology), Spectral line, Geology, Computer science, Laplace operator&#10;Venue: Scientific Reports&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Integrative Analysis of Mechanical Heterogeneity in Organic-Rich Shales: Bridging Nano- and Macroscale Properties for an Enhanced Geomechanical Understanding</title>
+      <link>https://doi.org/10.1007/s13369-025-10180-3</link>
+      <pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4409859601</guid>
+      <dc:creator>Dandi Alvayed, Saad Alafnan, Murtada Saleh Aljawad, Abduljamiu O. Amao</dc:creator>
+      <dc:publisher>Arabian Journal for Science and Engineering</dc:publisher>
+      <category>Bridging (networking)</category>
+      <category>Materials science</category>
+      <category>Nano-</category>
+      <category>Nanotechnology</category>
+      <category>Composite material</category>
+      <description>Topics: Bridging (networking), Materials science, Nano-, Nanotechnology, Composite material&#10;Venue: Arabian Journal for Science and Engineering&#10;Year: 2025&#10;Citations: 1</description>
     </item>
     <item>
       <title>Anorthosite dissolution as a function of pH at 60 and 120 °C: Implications for subsurface carbon mineralization</title>
@@ -765,6 +966,20 @@
       <description>Topics: Paleozoic, Geology, Geochemistry, Iron ore, Mineralogy&#10;Venue: Energy &amp; Fuels&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
+      <title>The genus Hantkenina in Saudi Arabia: Implications for biostratigraphy and paleoecology across the Bartonian–Priabonian transition</title>
+      <link>https://doi.org/10.1016/j.revmic.2025.100844</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4409425286</guid>
+      <dc:creator>Asmaa Korin, S. Allam, John Humphrey, Abduljamiu O. Amao, Korhan Ayrancı, Mohammad Najjar, Ahmed A. Bahameem, Iyad S. Zalmout, Abdullah Memesh, Michael A. Kaminski</dc:creator>
+      <dc:publisher>Revue de Micropaléontologie</dc:publisher>
+      <category>Biostratigraphy</category>
+      <category>Paleoecology</category>
+      <category>Paleontology</category>
+      <category>Genus</category>
+      <category>Biology</category>
+      <description>Topics: Biostratigraphy, Paleoecology, Paleontology, Genus, Biology&#10;Venue: Revue de Micropaléontologie&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
       <title>Diagenesis and reservoir quality of the Lower Aptian Carbonates: an example from lower Shu’aiba and the equivalent Upper Qishn formations, Sultanate of Oman</title>
       <link>https://doi.org/10.1007/s13146-025-01082-4</link>
       <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
@@ -805,6 +1020,20 @@
       <description>Abstract: To understand Earth&apos;s history, a comprehensive time scale integrating available stratigraphic information is crucial. The middle Eocene to late Oligocene offers abundant stratigraphic information, including foraminiferal and magnetostratigraphic data. However, traditional biostratigraphy uses only a small fraction (1–10 %) of foraminifera as markers, reducing the time scale&apos;s temporal resolution and lacking a quantitative method to assess the chronologic significance of both mearker and non-marker biotic events. This study employs the quantitative stratigraphic method, Constrained Optimization (CONOP), using 11 reference sections to create a high-resolution magneto-foraminiferal time scale for the middle Eocene–late Oligocene. The new composite sequence improves temporal resolution by nearly tenfold over traditional methods, incorporating 409 additional biotic events while aligning closely with established markers. Two evaluation factors, diachrony and centrality, were developed to assess the temporal consistency of events among different locations and geographic ranges. Findings reveal that the chronological significance of small benthic foraminifera, planktonic foraminifera, and foraminiferal zonal species events increases sequentially. Conversely, larger benthic foraminiferal events are affected by endemism, complicating their evaluation. Incorporating magnetostratigraphic data into CONOP enhances the robustness and accuracy of stratigraphic correlation. Our approach offer…&#10;Topics: Chronology, Geology, Paleontology&#10;Venue: Palaeogeography Palaeoclimatology Palaeoecology&#10;Year: 2025&#10;Citations: 1</description>
     </item>
     <item>
+      <title>Seismic Event Detection and First Arrival Picking Using Continuous Wavelet Transform and Machine Learning Techniques</title>
+      <link>https://doi.org/10.1007/s13369-025-10121-0</link>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4409191406</guid>
+      <dc:creator>Paul Edigbue, Abdullatif Al‐Shuhail, Ahmad Mazli Muhammad, Sherif M. Hanafy</dc:creator>
+      <dc:publisher>Arabian Journal for Science and Engineering</dc:publisher>
+      <category>Event (particle physics)</category>
+      <category>Continuous wavelet transform</category>
+      <category>Wavelet</category>
+      <category>Wavelet transform</category>
+      <category>Computer science</category>
+      <description>Topics: Event (particle physics), Continuous wavelet transform, Wavelet, Wavelet transform, Computer science&#10;Venue: Arabian Journal for Science and Engineering&#10;Year: 2025&#10;Citations: 2</description>
+    </item>
+    <item>
       <title>Tectonic evolution of the crustal section of the Neoproterozoic Jabal Ess ophiolite-arc complex, Midyan terrane, NW Arabian Shield</title>
       <link>https://doi.org/10.1016/j.precamres.2025.107765</link>
       <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
@@ -831,6 +1060,20 @@
       <category>Quaternary</category>
       <category>Holocene</category>
       <description>Abstract: Abstract Abundant geomorphological, biological, and isotopic records show that Arabia repeatedly underwent significant climate-driven environmental changes during late Quaternary humid periods. Precisely mapping how the enhancement and expansion of the African Monsoon during these humid periods have affected landscape evolution and human occupation dynamics in Arabia remains a scientific challenge. Here we reconstruct an ancient water-sculpted landscape consisting of lake and river deposits, coupled with a large outlet valley in the Rub’ al Khali Desert of Saudi Arabia. During the peak of the Holocene Humid Period or before, intense rainfall reactivated alluvial floodplains and filled a ~1100 km² topographic depression, which eventually breached, carving a deep ~150 km-long valley. Coupling geologic reconstructions with transient Earth system model simulations shows that this hydrological activity was linked to higher seasonal precipitation punctuated by repeated heavy events. Analysis of lacustrine and fluvial sedimentary deposits implies sediment routing across distances of up to 1000 km from the Asir Mountains. Our results indicate that such intense flooding challenges the conventional view of simple, weak, and linear landscape stabilization following increased rainfall in Arabia. Our findings highlight the crucial role of an enhanced African Monsoon in driving rapid landscape transformations in the Arabian Desert.&#10;Topics: Fluvial, Monsoon, Geology, Quaternary, Holocene&#10;Venue: Communications Earth &amp; Environment&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Advancing shale geochemistry: Predicting major oxides and trace elements using machine learning in well-log analysis of the Horn River Group shales</title>
+      <link>https://doi.org/10.1016/j.coal.2025.104767</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4409106236</guid>
+      <dc:creator>Ammar Abdlmutalib, Korhan Ayrancı, Umair bin Waheed, Nicholas B. Harris, Tian Dong</dc:creator>
+      <dc:publisher>International Journal of Coal Geology</dc:publisher>
+      <category>Geology</category>
+      <category>Oil shale</category>
+      <category>Group (periodic table)</category>
+      <category>Geochemistry</category>
+      <category>TRACE (psycholinguistics)</category>
+      <description>Topics: Geology, Oil shale, Group (periodic table), Geochemistry, TRACE (psycholinguistics)&#10;Venue: International Journal of Coal Geology&#10;Year: 2025&#10;Citations: 2</description>
     </item>
     <item>
       <title>Robotics and automation applications across the seismic value chain: A new era is emerging</title>
@@ -938,288 +1181,6 @@
       <category>Geology</category>
       <category>Clay minerals</category>
       <description>Abstract: The diagenetic transformation of detrital clay minerals significantly influences sandstone reservoir quality, with fluid chemistry and temperature playing key roles in dictating transformation pathways during burial diagenesis. While these processes are well-documented in basinal settings, the diagenetic alterations of sediments in dynamic environments like estuaries remain underexplored. This study investigates the impact of fluid composition on the transformation of modern estuarine sediments through hydrothermal experiments using sediments from the Gironde estuary, SW France. A range of natural and synthetic solutions including seawater (SW), 0.1 M KCl (SF1), 0.1 M NaCl, KCl, CaCl2·2H2O, MgCl2·6H2O (SF2), estuarine water (EW), and 0.1 M Na2CO3 (SF3) were used under temperatures from 50 °C to 250 °C for 14 days, with a fixed fluid-to-sediment ratio of 10:1. The results revealed distinct mineralogical transformations driven by fluid composition. Dissolution of detrital feldspars and clay materials began at lower temperatures (&amp;lt;100 °C). The authigenic formation of smectite and its subsequent illitization in K-rich fluids (SW, SF1) occurred between 150 °C and 250 °C, replicating potassium-driven illitization processes observed in natural sandstones. Additionally, chlorite formation occurred through the conversion of smectite in SF2 and EW. Geochemical analysis showed that SF2 produced Mg-rich chlorites, while EW yielded Fe-rich chlorites. This aligns with diagenetic trends …&#10;Topics: Diagenesis, Estuary, Geochemistry, Geology, Clay minerals&#10;Venue: Minerals&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Characterization of the Miocene Turbidite Sandstone Reservoirs in the Burqan Formation, Red Sea Region: Insights from Outcrop and Structural Analyses</title>
-      <link>https://doi.org/10.5194/egusphere-egu25-19835</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4408490171</guid>
-      <dc:creator>Mutasim Osman, Osman Abdullatif</dc:creator>
-      <category>Outcrop</category>
-      <category>Turbidite</category>
-      <category>Geology</category>
-      <category>Geochemistry</category>
-      <category>Geomorphology</category>
-      <description>Abstract: One of the important hydrocarbon reservoir targets in the Midyan Basin, Northwest of Saudi Arabia along the Red Sea is the deep-sea sandstone turbidites of the Miocene Burqan Formation. This study leverages well-exposed outcrops to comprehensively assess the reservoir characteristics of this formation. A multi-faceted approach integrating field observations (sedimentology, stratigraphy, structural geology) with detailed measurements and advanced techniques (photomosaics, LiDAR) was employed to characterize reservoir heterogeneity, quality, and architecture. Fieldwork encompassed vertical and lateral outcrop profiling across a 25 km transect, capturing the spatial distribution and geometry of sandstone bodies. LiDAR facilitated high-resolution documentation of sedimentological, stratigraphic, and structural features, including strata geometry, fault networks, and fracture distributions. Laboratory analyses complemented field observations, examining lithofacies textures, composition, and petrophysical properties. Results demonstrate significant lateral and vertical variability in reservoir characteristics. Sandstone body thicknesses decrease from proximal (1.5-5 m) to distal zones (0.4-1 m), accompanied by an increasing shale-to-sandstone ratio. Sandstone bodies exhibit lateral extents ranging from 80 to over 130 meters. Lithofacies include conglomerates, pebbly sandstones, and coarse- to medium-grained sandstones, interbedded with finer-grained units. Proximal regions display …&#10;Topics: Outcrop, Turbidite, Geology, Geochemistry, Geomorphology&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Modeling Benthic Foraminiferal Diversity in the Arabian Gulf: Species Distribution and Environmental Controls in a Basin-Wide Assessment</title>
-      <link>https://doi.org/10.5194/egusphere-egu25-20615</link>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4408483615</guid>
-      <dc:creator>Abduljamiu O. Amao, Khalid Al–Ramadan, Michael A. Kaminski, Fabrizio Frontalini</dc:creator>
-      <category>Benthic zone</category>
-      <category>Oceanography</category>
-      <category>Diversity (politics)</category>
-      <category>Structural basin</category>
-      <category>Distribution (mathematics)</category>
-      <description>Abstract: Using extensive datasets of benthic foraminiferal occurrences, we investigate spatial patterns of species diversity across the Arabian Gulf and assess how environmental gradients influence these distributions through species distribution modeling approaches. We evaluate the effectiveness of stacked species distribution models in predicting foraminiferal diversity patterns and identifying potential diversity hotspots across the Arabian Gulf basin. We compiled a comprehensive dataset of benthic foraminiferal occurrences from published literature and public databases, encompassing more than 492 species from nine orders. Using an ensemble of species distribution models, we predict the spatial patterns of individual species and stack these predictions to estimate foraminiferal species richness across the basin. We validated model predictions using independent datasets and assessed the relative importance of environmental variables. Our stacked species distribution models showed high performance (mean AUC &amp;gt; 0.94, TSS &amp;gt; 0.8, Kappa &amp;gt; 0.82), revealing a clear north-south gradient in foraminiferal species richness. The highest diversity was observed in the northern part of the Gulf, contrasting with typical latitudinal diversity gradients. Bathymetry and dissolved oxygen emerged as primary drivers of foraminiferal distributions (10.50% and 8.55% contribution respectively), followed by iron concentration and salinity. The eastern part of the Gulf displayed higher diversity comp…&#10;Topics: Benthic zone, Oceanography, Diversity (politics), Structural basin, Distribution (mathematics)&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Pharmaceutical Pollution in Urban Coastal Watersheds of Eastern Saudi Arabia: Implications for Sustainable Water Resource Management &amp;amp;#160;</title>
-      <link>https://doi.org/10.5194/egusphere-egu25-2030</link>
-      <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4408444630</guid>
-      <dc:creator>Mohammed Benaafi</dc:creator>
-      <category>Pollution</category>
-      <category>Resource (disambiguation)</category>
-      <category>Water resource management</category>
-      <category>Environmental planning</category>
-      <category>Water resources</category>
-      <description>Abstract: Pharmaceutical pollution in urban water poses a significant threat to coastal ecosystems, particularly in regions with rapid urbanization. This study investigates the source, occurrence, and distribution of pharmaceutical compounds (PCs) in agriculture runoff and treated wastewater (TWW) used for irrigation within urban coastal zones in eastern Saudi Arabia. Water samples were collected from TWW irrigation (2 samples) and agriculture runoff channels (10 samples) to identify and quantify the pharmaceutical pollution. The agricultural runoff samples were collected from fields irrigated with TWW and fields irrigated by groundwater (GW) for comparative study. Water samples were analyzed for 50 PCs using Liquid Chromatography-Mass Spectrometry with Direct Injection (LCMS&amp;amp;#8211;DI) and followed the&amp;amp;#160; US EPA Method 1694. The results show that 12 PCs were detected in both water sources, including caffeine, carbamazepine, iohexol, sulfamethazine, valsartan, atenolol, diclofenac, furosemide, gabapentin, hydrochlorothiazide, naproxen, and paracetamol. Among those compounds, &amp;amp;#160;caffeine, iohexol, valsartan, sulfamethazine, and gabapentin were detected with frequencies of 100%, 60%, 50%, 30%, and 20%, respectively. The remaining compounds were detected with a frequency of&#10;Topics: Pollution, Resource (disambiguation), Water resource management, Environmental planning, Water resources&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>High-resolution Spectral Characterization of Heterogenous Carbonate Lithofacies and their Controlling Factors</title>
-      <link>https://doi.org/10.5194/egusphere-egu25-329</link>
-      <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4408446371</guid>
-      <dc:creator>Ahmed Hammam, Ardiansyah Koeshidayatullah, Khalid Al–Ramadan</dc:creator>
-      <category>Characterization (materials science)</category>
-      <category>Carbonate</category>
-      <category>Geology</category>
-      <category>High resolution</category>
-      <category>Resolution (logic)</category>
-      <description>Abstract: Discriminating carbonate lithofacies demands extensive fieldwork and costly geochemical analysis which is often constrained by outcrop accessibility and the number of studied sections. To overcome these challenges, the present work employs integration between spaceborne multispectral and lab hyperspectral datasets for the late Jurassic carbonate lithofacies discrimination and spectral characteristics. Carbonate minerals spectra show diagnostic absorption features in the shortwave infrared (SWIR) while impurities features exist in the visible near-infrared (VNIR)- SWIR wavelength region. Several chemical and physical factors affect the position and depth of carbonate minerals absorption features. In this study, Hanifa Formation in Central Saudi Arabia has gained economic significance as a key conventional and unconventional reservoir which is divided into Hawtah and Ulayyah members. The Minimum Noise Fraction (MNF) and Principal Component Analysis (PCA) image processing techniques were utilized on ASTER and Sentinel 2A multispectral data successfully differentiated the Hawtah member into three units and the Ulayyah member into twelve units for the first time which was verified by detailed microfacies analysis. Hyperspectral laboratory measurements of the newly identified units have characterized their absorption features, leading to the classification of four distinct spectrofacies within the Hanifa Formation. Each absorption feature corresponds to a specific mineralogy which …&#10;Topics: Characterization (materials science), Carbonate, Geology, High resolution, Resolution (logic)&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>A freshwater palynological assemblage from the Hirnantian of Saudi Arabia</title>
-      <link>https://doi.org/10.1016/j.revpalbo.2025.105322</link>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4408318991</guid>
-      <dc:creator>Paul K. Strother, Marco Vecoli, Christian Cesari, Charles H. Wellman</dc:creator>
-      <dc:publisher>Review of Palaeobotany and Palynology</dc:publisher>
-      <category>Assemblage (archaeology)</category>
-      <category>Palynology</category>
-      <category>Geology</category>
-      <category>Paleontology</category>
-      <category>Ecology</category>
-      <description>Topics: Assemblage (archaeology), Palynology, Geology, Paleontology, Ecology&#10;Venue: Review of Palaeobotany and Palynology&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>The Amlah terrane, Yemen – a missing link in the Neoproterozoic tectonic collage of the Arabian Shield</title>
-      <link>https://doi.org/10.1144/sp550-2024-128</link>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4408303375</guid>
-      <dc:creator>Martin J. Whitehouse, Michael J. Flowerdew, Andreas Petersson, Salah Al‐Khirbash, Douglas B. Stoeser</dc:creator>
-      <dc:publisher>Geological Society London Special Publications</dc:publisher>
-      <category>Terrane</category>
-      <category>Geology</category>
-      <category>Shield</category>
-      <category>Tectonics</category>
-      <category>Paleontology</category>
-      <description>Abstract: The Amlah terrane, NW Yemen, comprises a suite of calc-alkaline tonalitic to granodioritic gneisses bounded by mafic volcanic and probable ophiolites. Occupying a key location between the largely juvenile arc terranes of the Saudi Arabian Shield and their correlatives in NW Yemen to the west and continentally influenced terranes of central Yemen to the east, it allows evaluation of models for the final assembly of the Arabian Shield. A field, geochemical, isotopic and geochronological study was undertaken in order to constrain the evolution of the Amlah terrane and its tectonic setting. Calc-alkaline gneisses dated between c. 760 and 670 Ma have Nd- and Pb-isotopic signatures indicative of minor involvement of older continental crust in their petrogenesis. Syn- and post-tectonic intrusions dated between c. 635 and 605 Ma show that suturing of the Amlah terrane was complete by around 640 Ma. These data are used to infer that the Amlah terrane developed as an Andean-style marginal arc on an extended western margin of the Paleoproterozoic continental Abas terrane. The western margin of the Amlah terrane is interpreted as the continuation into Yemen of the Nabitah suture Zone, which separates eastern (oceanic) and western (continent-influenced) arc terranes in Saudi Arabia.&#10;Topics: Terrane, Geology, Shield, Tectonics, Paleontology&#10;Venue: Geological Society London Special Publications&#10;Year: 2025&#10;Citations: 4</description>
-    </item>
-    <item>
-      <title>Geochemical Characteristics and 1‐D Basin Modelling Study of the Early Cretaceous and Paleogene Succession in the Southern Indus Basin, Southern Pakistan</title>
-      <link>https://doi.org/10.1002/gj.5169</link>
-      <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4408342704</guid>
-      <dc:creator>Adeeb Ahmed, Mohammed Hail Hakimi, Samina Jahandad, Aref Lashin, Afikah Rahim, Waqas Naseem, Danis K. Nurgaliev, Muhammad Asif Khan, Muhammad Nofal Munir</dc:creator>
-      <dc:publisher>Geological Journal</dc:publisher>
-      <category>Indus</category>
-      <category>Paleogene</category>
-      <category>Ecological succession</category>
-      <category>Geology</category>
-      <category>Structural basin</category>
-      <description>Abstract: ABSTRACT Early Cretaceous and Paleogene shale and limestone sediments in the southern Indus Basin were investigated by geochemical data and 1‐D basin modelling. Most of the shales from the Early Cretaceous and Paleogene formations exhibit total organic carbon (TOC) content between 0.51 wt. % and 6.06 wt. %, overall, indicating organic matter richness capable of generating hydrocarbons. However, the limestone samples of the Paleogene formations have lower TOC values in the range of 0.36–0.97 wt.%, inferring poor to fair petroleum source rock. The studied shale and limestone sections exhibit also varying hydrogen indices (HI) ranging from 27 to 430 mg HC/g TOC and different kerogen pathways, ranging from Type II to Type IV. Generally, most of the samples with the Lower Cretaceous and Paleogene formations consist mainly of hydrogen‐poor Type III and IV kerogens, with HI values range from 27 to 206 mg HC/g TOC, while some other samples belonging to the Paleogene formations exhibit Types II and II/III kerogen (HI from 219 to 430 mg HC/g TOC). The dominance of such kerogen shows the presence of oil‐ and gas‐prone source rocks, with high potential for gas generation. Maturity‐related indicator of Rock‐Eval T max shows different thermal maturity levels, ranging from immature to post‐mature. Most of the Lower Cretaceous Goru shales are more mature than other Paleogene sediments, and rank from main oil to gas generation windows, reaching the generation efficiency. This is probably attr…&#10;Topics: Indus, Paleogene, Ecological succession, Geology, Structural basin&#10;Venue: Geological Journal&#10;Year: 2025&#10;Citations: 1</description>
-    </item>
-    <item>
-      <title>The Betsiaka Group in northern Madagascar: a palaeoproterozoic terrane along the northern margin of the Bemarivo Domain</title>
-      <link>https://doi.org/10.1144/sp550-2024-59</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4407905835</guid>
-      <dc:creator>Imboarina T. Rasaona, L. Edwards, Alan S. Collins, Amos Fety Michel Rakotondrazafy, Wilfried Bauer</dc:creator>
-      <dc:publisher>Geological Society London Special Publications</dc:publisher>
-      <category>Terrane</category>
-      <category>Geology</category>
-      <category>Margin (machine learning)</category>
-      <category>Group (periodic table)</category>
-      <category>Domain (mathematical analysis)</category>
-      <description>Abstract: The Betsiaka Group, located on the northern edge of the Bemarivo Domain in northern Madagascar, consists of metamorphic felsic rocks, amphibolite, and impure marbles. These rocks are overlain by the Permo-Triassic sedimentary cover to the NW and are separated by a normal fault from the Neoproterozoic volcanic rocks of the Bemarivo Domain to the SE. This study aims to determine the provenance and geodynamic evolution of the Betsiaka Group. Orthoamphibolites are associated with siliciclastic sedimentary rocks and exhibit geochemical characteristics of back-arc basin basalts. A quartzite from the Betsiaka Group contains detrital zircon with a youngest single grain U–Pb age of 1771 ± 28 Ma, with peaks at 2500 and 1850 Ma. An orthogneiss intruding this group has concordant zircon grains interpreted to date the protolith&apos;s crystallization at 841 ± 3.2 Ma. The detrital zircon age pattern corresponds to that of the Aravalli Craton in India, suggesting that the northern Madagascar crustal fragment may have been formed off the coast of NW India between 1770 and 1000 Ma. This fragment could have been connected with other crustal fragments, now part of the SE Arabian plate, showing similar detrital zircon patterns in Neoproterozoic sedimentary rocks and sharing a calc-alkaline magmatism around 840 Ma.&#10;Topics: Terrane, Geology, Margin (machine learning), Group (periodic table), Domain (mathematical analysis)&#10;Venue: Geological Society London Special Publications&#10;Year: 2025&#10;Citations: 1</description>
-    </item>
-    <item>
-      <title>Tracking the trace element pollution and associated health risk in urban coastal groundwater, eastern Saudi Arabia</title>
-      <link>https://doi.org/10.1016/j.ocecoaman.2025.107591</link>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4407686865</guid>
-      <dc:creator>Mohammed Benaafi, Bassam Tawabini, Shehzada Muhammad Sajid Jillani, Ali Mohammed Babalghaith, Isam H. Aljundi</dc:creator>
-      <dc:publisher>Ocean &amp; Coastal Management</dc:publisher>
-      <category>Groundwater</category>
-      <category>Water resource management</category>
-      <category>Pollution</category>
-      <category>Trace element</category>
-      <category>Environmental science</category>
-      <description>Topics: Groundwater, Water resource management, Pollution, Trace element, Environmental science&#10;Venue: Ocean &amp; Coastal Management&#10;Year: 2025&#10;Citations: 3</description>
-    </item>
-    <item>
-      <title>Tracing the Neovolcanic zone along the sediment-covered regions of the Red Sea Rift</title>
-      <link>https://doi.org/10.1038/s41598-025-89332-2</link>
-      <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4407567744</guid>
-      <dc:creator>Jonas Preine, Nico Augustin, Neil C. Mitchell, F.M. van der Zwan, Annne-C Wölfl, Martin Schade, Yousif A. Izzeldin, Mutasim Osman, Christian Hübscher</dc:creator>
-      <dc:publisher>Scientific Reports</dc:publisher>
-      <category>Geology</category>
-      <category>Rift</category>
-      <category>Volcano</category>
-      <category>Caldera</category>
-      <category>Volcanism</category>
-      <description>Topics: Geology, Rift, Volcano, Caldera, Volcanism&#10;Venue: Scientific Reports&#10;Year: 2025&#10;Citations: 1</description>
-    </item>
-    <item>
-      <title>Soft computing approaches for predicting boron contamination in arid sandstone groundwater</title>
-      <link>https://doi.org/10.1007/s12145-025-01754-8</link>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4407294064</guid>
-      <dc:creator>Mohammed Benaafi, Mojeed O. Oyedeji, Nezar M. Alyazidi</dc:creator>
-      <dc:publisher>Earth Science Informatics</dc:publisher>
-      <category>Arid</category>
-      <category>Contamination</category>
-      <category>Groundwater</category>
-      <category>Boron</category>
-      <category>Groundwater contamination</category>
-      <description>Topics: Arid, Contamination, Groundwater, Boron, Groundwater contamination&#10;Venue: Earth Science Informatics&#10;Year: 2025&#10;Citations: 1</description>
-    </item>
-    <item>
-      <title>Biomarker signatures in host rocks and their co-occurring fossil plants from northern Scotland</title>
-      <link>https://doi.org/10.1016/j.orggeochem.2025.104948</link>
-      <pubDate>Sun, 09 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4407281527</guid>
-      <dc:creator>Olumuyiwa T. Akinsanpe, Adebola O. Akinsanpe, Solomon A. Adekola, Oluwaseye Peter Oyetade, Waheed Gbenga Akande, Musa Bappah Usman, Abdulwahab Muhammad Bello, Uzochukwu Kingsley Benjamin, Adeniyi O. Olusanya, Chikezie Emele</dc:creator>
-      <dc:publisher>Organic Geochemistry</dc:publisher>
-      <category>Biomarker</category>
-      <category>Geology</category>
-      <category>Host (biology)</category>
-      <category>Geochemistry</category>
-      <category>Paleontology</category>
-      <description>Topics: Biomarker, Geology, Host (biology), Geochemistry, Paleontology&#10;Venue: Organic Geochemistry&#10;Year: 2025&#10;Citations: 1</description>
-    </item>
-    <item>
-      <title>Intelligent seismic workflows: The power of generative AI and language models</title>
-      <link>https://doi.org/10.1190/tle44020142.1</link>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4407066027</guid>
-      <dc:creator>Rayan Kanfar, Abdulmohsen Alali, Thierry-Laurent Tonellot, Hussain Salim, Oleg Ovcharenko</dc:creator>
-      <dc:publisher>The Leading Edge</dc:publisher>
-      <category>Generative grammar</category>
-      <category>Workflow</category>
-      <category>Computer science</category>
-      <category>Power (physics)</category>
-      <category>Natural language processing</category>
-      <description>Abstract: Abstract Advanced seismic data processing involves specialized methods often implemented through various software, requiring extensive expertise and time from geoscientists to execute geophysical workflows. Recently, large language models (LLMs) have demonstrated the ability to understand natural language, reason about domain-specific topics, and assist users through complex tasks. In this paper, we introduce an LLM-based autonomous agent for seismic data processing, focusing on full-waveform sonic data workflows. The proposed agent is shown to reliably understand user queries, select appropriate tools, and execute geophysical tasks such as bandpass filtering, data clipping, and frequency spectrum analysis. Safeguards and guardrails are incorporated into the agent to ensure operation within defined parameters, maintaining data security and integrity. By automating routine processes, the agent allows geoscientists to focus on higher-level decision-making while ensuring accuracy and consistency across geophysical tasks. As generative artificial intelligence evolves, integrating LLMs with other models has the potential to revolutionize seismic data analysis, making advanced geophysical tasks more accessible and scalable for users at all levels of expertise.&#10;Topics: Generative grammar, Workflow, Computer science, Power (physics), Natural language processing&#10;Venue: The Leading Edge&#10;Year: 2025&#10;Citations: 1</description>
-    </item>
-    <item>
-      <title>Microfacies control on geomechanical properties of unconventional carbonate reservoirs: insights from a middle jurassic outcrop analogue in Saudi Arabia</title>
-      <link>https://doi.org/10.1007/s13202-025-01930-y</link>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4407393621</guid>
-      <dc:creator>Adamu Kimayim Gaduwang, Daniel Muñoz‐López, Anas Muhammad Salisu, Bassam Tawabini, Khalid Al‐Ramadan, Ardiansyah Koeshidayatullah</dc:creator>
-      <dc:publisher>Journal of Petroleum Exploration and Production Technology</dc:publisher>
-      <category>Outcrop</category>
-      <category>Geology</category>
-      <category>Offshore geotechnical engineering</category>
-      <category>Carbonate</category>
-      <category>Geomechanics</category>
-      <description>Abstract: Abstract The interplay between depositional and diagenetic processes controls the distribution of geomechanical properties in carbonate rocks. Understanding the distribution of geomechanical properties in rocks is crucial for analyzing the behavior of unconventional carbonate reservoirs during hydraulic fracturing. In Saudi Arabia, the exceptionally exposed Middle Jurassic Tuwaiq Mountain Formation (TMF) represents an important analog of its subsurface-equivalent unconventional reservoir. In this formation, petrographical, rock physical (Vp, Vs, Poisson’s Ratio, and Φ), and geomechanical (uniaxial compressive strength (UCS) and Dynamic Elastic Modulus (Ed)) analyses were integrated to examine how sedimentary microfacies controls the variation of geomechanical properties and thus, reservoir quality and heterogeneity in carbonate successions. Petrographic observations reveal that the TMF comprises three sedimentary microfacies including peloidal grainstone, bioclastic-peloidal packstone, and bioclastic wackestone. An integrated analysis indicates that these microfacies shows distinct petrophysical and geomechanical properties. The peloidal grainstone shows the highest average porosity of 15.4% and lowest average UCS value of 34Mpa, while the bioclastic wackestone exhibit the lowest average porosity of 2.8%, Poisson Ratio (0.26) and highest average UCS value of 148Mpa. Among the three microfacies, the bioclastic wackestone shows the highest average Vp value (5635.5 m/s) and Vs v…&#10;Topics: Outcrop, Geology, Offshore geotechnical engineering, Carbonate, Geomechanics&#10;Venue: Journal of Petroleum Exploration and Production Technology&#10;Year: 2025&#10;Citations: 2</description>
-    </item>
-    <item>
-      <title>Depositional environment characteristics and mechanisms of organic carbon accumulation in the organic-rich siliceous-carbonate of the Late Devonian Domanik formation in the Volga-Ural Basin</title>
-      <link>https://doi.org/10.1016/j.marpetgeo.2025.107303</link>
-      <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4407029831</guid>
-      <dc:creator>Mohammed Hail Hakimi, Shadi A. Saeed, Ameen A. Al‐Muntaser, В. П. Морозов, Mikhail A. Varfolomeev, A.S. Khayuzkin, Aliia N. Khamieva, Aref Lashin, Afikah Rahim, Muneer A. Suwaid, Danis K. Nurgaliev, Rail Kadyrov, Ameer H. Al‐Rubaye, Igor Ognev, Nafis A. Nazimov</dc:creator>
-      <dc:publisher>Marine and Petroleum Geology</dc:publisher>
-      <category>Sedimentary depositional environment</category>
-      <category>Geology</category>
-      <category>Devonian</category>
-      <category>Carbonate</category>
-      <category>Geochemistry</category>
-      <description>Topics: Sedimentary depositional environment, Geology, Devonian, Carbonate, Geochemistry&#10;Venue: Marine and Petroleum Geology&#10;Year: 2025&#10;Citations: 1</description>
-    </item>
-    <item>
-      <title>Peridotite xenoliths of Harrat ar-Rahah-Uwayrid alkaline basalts, NW Saudi Arabia: fragments of a multiply metasomatized Neoproterozoic mantle</title>
-      <link>https://doi.org/10.1080/00206814.2025.2456493</link>
-      <pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4407035309</guid>
-      <dc:creator>Oktarian Iskandar, Scott Whattam, Jieun Seo, Jan C.M. De Hoog, Mutasim Osman, Svetoslav Georgiev</dc:creator>
-      <dc:publisher>International Geology Review</dc:publisher>
-      <category>Peridotite</category>
-      <category>Geology</category>
-      <category>Xenolith</category>
-      <category>Basalt</category>
-      <category>Geochemistry</category>
-      <description>Abstract: Numerous Upper Miocene to Quaternary harrats (basalt fields) litter western Saudi Arabia along the Red Sea between Jordan and Yemen and are related to the initial rifting of the Red Sea system at ~30–25 Ma. Many of these harrats contain alkaline scoria bombs and lesser lavas that bear mantle xenoliths, and one of these is Harrat Ar-Rahah-Uwayrid (HARU), which comprises a NW-SE oriented elongate volcanic field of ~7150 km&lt;sup&gt;2&lt;/sup&gt; and which extends for about ~230 km in NW Saudi Arabia. This study presents new whole-rock and mineral chemistry data of HARU mantle xenoliths to provide new insights into their petrogenesis and the nature of the subcontinental lithospheric mantle of Arabia. HARU xenoliths are mostly spinel lherzolite with lesser harzburgite and rare wehrlite. Xenoliths range from cm-scale to fist-size and are found primarily within Pleistocene basanite scoria bombs from cinder cones in the central HARU segment; others were recovered, for the first time, from the Upper Miocene alkali basalt and hawaiite lavas of the southern plateau. No distinctive features are apparent between peridotite xenoliths of the older and younger host rocks. Fo# of olivines from most of the HARU peridotite xenoliths ranges from 83.5 to 93.1, and spinel Cr# ranges widely from 0.09 to 0.59. Using &lt;i&gt;F =&lt;/i&gt; 10 ln(spinel Cr#) + 24, estimated degrees of partial melting are low to high, ranging from 2% to 19%. On the basis of coexisting olivine-orthopyroxene-spinel pairs, oxygen fugacity rang…&#10;Topics: Peridotite, Geology, Xenolith, Basalt, Geochemistry&#10;Venue: International Geology Review&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Decarbonizing Saudi Arabia energy and industrial sectors: Assessment of carbon capture cost</title>
-      <link>https://doi.org/10.1016/j.ccst.2025.100375</link>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4406872080</guid>
-      <dc:creator>Feras Rowaihy, Ali Hamieh, Naser Odeh, Mohamad Hejazi, Mohammed Al-Juaied, Abdulkader M. Afifi, Hussein Hoteit</dc:creator>
-      <dc:publisher>Carbon Capture Science &amp; Technology</dc:publisher>
-      <category>Carbon fibers</category>
-      <category>Natural resource economics</category>
-      <category>Energy sector</category>
-      <category>Business</category>
-      <category>Environmental science</category>
-      <description>Abstract: The global drive for net-zero emissions has highlighted carbon capture, utilization, and storage (CCUS) as a critical tool to reduce CO₂ emissions from energy and industrial sectors. Achieving climate goals necessitates a comprehensive understanding of regional CO₂ emission profiles and capture costs to inform effective decarbonization strategies. As one of the largest CO₂ emitters globally, Saudi Arabia has committed to achieving net-zero emissions by 2060. However, the economic implications of deploying CCUS within the Kingdom remain insufficiently explored. This work provides updated estimates of CO₂ emissions across key sectors in Saudi Arabia, including electricity, petrochemicals, refineries, cement, steel, ammonia production, and desalination, based on 2022 data. The CO2 capture costs are estimated by incorporating stationary emission plant data with reference cases from analogous industrial sectors, including capital expenditure (CAPEX) and operating expenditure (OPEX). The total capture cost per ton of CO2 is determined by combining these cost components using an established economic model and a custom-developed tool. The study constructs a comprehensive CO₂ capture cost curve for Saudi Arabia, highlighting the variability of capture costs across regions and industries. Our analysis indicates an average CO₂ capture cost of $69/tCO₂, with substantial variability across industries. Ammonia production emerges as the most cost-efficient at $11/tCO₂, driven by its high CO…&#10;Topics: Carbon fibers, Natural resource economics, Energy sector, Business, Environmental science&#10;Venue: Carbon Capture Science &amp; Technology&#10;Year: 2025&#10;Citations: 7</description>
-    </item>
-    <item>
-      <title>An experimental study of the mineral carbonation potential of the Jizan Group basalts</title>
-      <link>https://doi.org/10.1016/j.ijggc.2025.104323</link>
-      <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4406675261</guid>
-      <dc:creator>Abdirizak Omar, Mouadh Addassi, Davide Berno, Abdulwahab Alqahtani, Niccolò Menegoni, Serguey Arkadakskiy, Jakub Fedorik, Zeyad Ahmed, Noushad Kunnummal, Sigurður R. Gíslason, Thomas Finkbeiner, Abdulkader M. Afifi, Hussein Hoteit, Éric H. Oelkers</dc:creator>
-      <dc:publisher>International journal of greenhouse gas control</dc:publisher>
-      <category>Carbonation</category>
-      <category>Group (periodic table)</category>
-      <category>Mineral</category>
-      <category>Basalt</category>
-      <category>Geochemistry</category>
-      <description>Topics: Carbonation, Group (periodic table), Mineral, Basalt, Geochemistry&#10;Venue: International journal of greenhouse gas control&#10;Year: 2025&#10;Citations: 3</description>
-    </item>
-    <item>
-      <title>Seafloor through time: A quantitative assessment of the composition of sedimentary carbonates across the Phanerozoic</title>
-      <link>https://doi.org/10.1130/abs/2025am-10561</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4417217385</guid>
-      <dc:creator>Stanford University, Pulkit Singh, Jordan Ferre, Bridget Thrasher, Pedro Monarrez, Khalid Al-Ramadan, Dave Cantrell, Daniel Lehrmann, Jonathan Payne</dc:creator>
-      <dc:publisher>Abstracts with programs - Geological Society of America</dc:publisher>
-      <description>Venue: Abstracts with programs - Geological Society of America&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Evaluating the hydrocarbon generation potential of the Paleocene–Eocene carbonaceous rocks in the Barmer and Bikaner-Nagaur Basins, western Rajasthan, India</title>
-      <link>https://doi.org/10.31035/cg20230121</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4406712301</guid>
-      <dc:creator>Alok Kumar, Khairul Azlan Mustapha, Alok K. Singh, Mohammed Hail Hakimi, Ali Y. Kahal, Waqas Naseem, Hijaz Kamal Hasnan</dc:creator>
-      <dc:publisher>China Geology</dc:publisher>
-      <category>Geology</category>
-      <category>Geochemistry</category>
-      <description>Abstract: ABSTRACT: The Bikaner-Nagaur and Barmer Basins (Rajasthan) are the most important petroliferous sedimentary basins in India. For over a decade, the exploration and extraction of hydrocarbons in these basins. Paleocene-Eocene age rocks bear organic-rich sediments in these basins, including lignite and carbonaceous shale deposits. The present research investigates the source rock properties, petroleum potential and thermal maturity of the carbonaceous shale partings from the lignite mines of Gurha (Bikaner-Nagaur Basin) and Kapurdi (Barmer Basin) using petrographical and geochemical tools. The carbonaceous shales have high organic matter (OM), with considerable total organic carbon (TOC) contents ranging from 13% to 39%. Furthermore, they contain hydrogen-rich kerogen, including types II and II/III, as evidenced by the Rock-Eval and elemental analysis results. The existence of these kerogen types indicates the abundance of reactive (vitrinite and liptinite) macerals. However, the carbonaceous shales from the Bikaner–Nagaur Basin have oil generation potentials, with a high hydrogen index (up to 516 mg HC/g TOC) and a H/C ratio (up to 1.5) along with a significant presence of oil-prone liptinitic macerals. Apart from the geochemical and petrological results, the studied shales have low huminite reflectance (0.31%–0.48%), maximum temperature (S2 peak; Tmax) between 419°C and 429°C, and low production index values (PI: 0.01–0.03). These results indicate that these carbonaceous shal…&#10;Topics: Geology, Geochemistry&#10;Venue: China Geology&#10;Year: 2025&#10;Citations: 1</description>
-    </item>
-    <item>
-      <title>Geochemical Characteristics of Oils from the Orenburg Field in the SE Volga‐Ural Basin, Russia: Implications for the Molecular Structure of a Marine Type II Kerogen</title>
-      <link>https://doi.org/10.1111/jpg.12877</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4407060912</guid>
-      <dc:creator>Mohammed Hail Hakimi, Muneer A. Suwaid, Shadi A. Saeed, Ameen A. Al‐Muntaser, Mikhail A. Varfolomeev, Aliia N. Khamieva, Danis K. Nurgaliev, Mohammed A. Abdullah, Aref Lashin, Evgeniya V. Morozova, Б. И. Гареев, V. V. Andriyashin, Igor Ognev, Fatma Tahhan</dc:creator>
-      <dc:publisher>Journal of Petroleum Geology</dc:publisher>
-      <category>Kerogen</category>
-      <category>Volga region</category>
-      <category>Geology</category>
-      <category>Structural basin</category>
-      <category>Geochemistry</category>
-      <description>Abstract: ABSTRACT Six oil samples from an Upper Devonian carbonate reservoir in the Orenburg field in the SE Volga‐Ural Basin (Russia) were analyzed geochemically, together with extracts of five core samples of the Domanik Formation source rock (Frasnian‐Tournaisian) from a well located in the south of the basin. Biomarker analyses of saturated and aromatic oil fractions were combined with new data on the molecular structure of asphaltene in order to investigate source rock organic matter input, depositional environment, and thermal maturity. The studied oil samples have high API values (31°–37°) and saturated hydrocarbon contents up to 66%, suggesting that they were generated by a thermally mature source rock and consistent with high contents of С 6 –С 14 n‐ alkanes relative to C 15+ of the oil‐asphaltene fraction. The molecular structure of asphaltene derived from pyrolysis‐gas chromatograpy‐mass spectrometry (Py‐GC‐Ms) analyses also suggests that the oils were generated by a source rock containing marine Type II kerogen, consistent with the H/C atomic ratio up to 1.25. Bulk kinetic analyses of the asphaltene showed a relatively broad range of activation energies between 40 and 58 kcal/mol and a frequency factor (A) of 12E+14/1 s. The biomarker characteristics of aliphatic and aromatic fractions in the studied oils suggest that they were generated by carbonate‐rich source rocks containing organic matter of marine algal origin deposited under anoxic conditions. Furthermore, maturity‐…&#10;Topics: Kerogen, Volga region, Geology, Structural basin, Geochemistry&#10;Venue: Journal of Petroleum Geology&#10;Year: 2025&#10;Citations: 1</description>
     </item>
   </channel>
 </rss>
