@@ -510,39 +510,60 @@ export default function AuthorDetail() {
             </CardHeader>
             <CardContent className="space-y-6">
               <div>
-                <div className="mb-2 flex items-center gap-2 text-xs text-muted-foreground">
-                  <span className="font-semibold text-foreground">Year range:</span>
-                  <select
-                    className="h-7 rounded border border-border bg-background px-2 text-xs"
-                    value={startYear ?? ""}
-                    onChange={(e) => {
-                      const value = Number(e.target.value);
-                      setStartYear(value);
-                      if (endYear != null && value > endYear) setEndYear(value);
-                    }}
-                  >
-                    {allYears.map((y) => (
-                      <option key={y} value={y}>
-                        {y}
-                      </option>
-                    ))}
-                  </select>
-                  <span>to</span>
-                  <select
-                    className="h-7 rounded border border-border bg-background px-2 text-xs"
-                    value={endYear ?? ""}
-                    onChange={(e) => {
-                      const value = Number(e.target.value);
-                      setEndYear(value);
-                      if (startYear != null && value < startYear) setStartYear(value);
-                    }}
-                  >
-                    {allYears.map((y) => (
-                      <option key={y} value={y}>
-                        {y}
-                      </option>
-                    ))}
-                  </select>
+                <div className="mb-3 flex flex-col gap-3 text-xs text-muted-foreground sm:flex-row sm:items-center sm:justify-between">
+                  <div className="flex items-center gap-2">
+                    <span className="font-semibold text-foreground">Year range:</span>
+                    <select
+                      className="h-7 rounded border border-border bg-background px-2 text-xs"
+                      value={startYear ?? ""}
+                      onChange={(e) => {
+                        const value = Number(e.target.value);
+                        setStartYear(value);
+                        if (endYear != null && value > endYear) setEndYear(value);
+                      }}
+                    >
+                      {allYears.map((y) => (
+                        <option key={y} value={y}>
+                          {y}
+                        </option>
+                      ))}
+                    </select>
+                    <span>to</span>
+                    <select
+                      className="h-7 rounded border border-border bg-background px-2 text-xs"
+                      value={endYear ?? ""}
+                      onChange={(e) => {
+                        const value = Number(e.target.value);
+                        setEndYear(value);
+                        if (startYear != null && value < startYear) setStartYear(value);
+                      }}
+                    >
+                      {allYears.map((y) => (
+                        <option key={y} value={y}>
+                          {y}
+                        </option>
+                      ))}
+                    </select>
+                  </div>
+
+                  <div className="flex flex-wrap items-center gap-4">
+                    <div className="flex items-center gap-2">
+                      <span
+                        className="inline-block h-3 w-3 rounded-sm"
+                        style={{ backgroundColor: "hsl(var(--accent))" }}
+                        aria-hidden
+                      />
+                      <span className="text-foreground">Publications (bars)</span>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <span
+                        className="inline-block h-3 w-3 rounded-full border-2"
+                        style={{ borderColor: "hsl(var(--primary))" }}
+                        aria-hidden
+                      />
+                      <span className="text-foreground">Citations (line)</span>
+                    </div>
+                  </div>
                 </div>
                 <div className="h-56 w-full">
                   <ResponsiveContainer width="100%" height="100%">
