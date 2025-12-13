@@ -200,7 +200,7 @@ export const SiteShell = ({ children }: SiteShellProps) => {
             <div className="flex flex-col items-start sm:items-end gap-1 text-xs text-muted-foreground">
               <span>Last update: {formattedLastUpdated}</span>
               <div className="flex items-center gap-1">
-                <span>Powered by</span>
+                <span>Developed by</span>
                 <a
                   href="https://digitalgeosciences.com/"
                   target="_blank"
@@ -211,7 +211,7 @@ export const SiteShell = ({ children }: SiteShellProps) => {
                 </a>
               </div>
               <span className="text-muted-foreground">
-                Version 1.0.0
+                IDB (beta)
               </span>
             </div>
 
