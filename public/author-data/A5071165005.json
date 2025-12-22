@@ -1,0 +1,6343 @@
+{
+  "details": {
+    "id": "https://openalex.org/A5071165005",
+    "orcid": "https://orcid.org/0000-0003-4321-5573",
+    "display_name": "Rayan Kanfar",
+    "display_name_alternatives": [
+      "Rayan Kanfar",
+      "Kanfar, Rayan"
+    ],
+    "works_count": 7,
+    "cited_by_count": 80,
+    "summary_stats": {
+      "2yr_mean_citedness": 4.166666666666667,
+      "h_index": 4,
+      "i10_index": 2
+    },
+    "ids": {
+      "openalex": "https://openalex.org/A5071165005",
+      "orcid": "https://orcid.org/0000-0003-4321-5573"
+    },
+    "affiliations": [
+      {
+        "institution": {
+          "id": "https://openalex.org/I4210143841",
+          "ror": "https://ror.org/03ypap427",
+          "display_name": "Saudi Aramco (Saudi Arabia)",
+          "country_code": "SA",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210143841"
+          ]
+        },
+        "years": [
+          2025
+        ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I97018004",
+          "ror": "https://ror.org/00f54p054",
+          "display_name": "Stanford University",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I97018004"
+          ]
+        },
+        "years": [
+          2024,
+          2023,
+          2020
+        ]
+      }
+    ],
+    "last_known_institutions": [
+      {
+        "id": "https://openalex.org/I4210143841",
+        "ror": "https://ror.org/03ypap427",
+        "display_name": "Saudi Aramco (Saudi Arabia)",
+        "country_code": "SA",
+        "type": "company",
+        "lineage": [
+          "https://openalex.org/I4210143841"
+        ]
+      }
+    ],
+    "topics": [
+      {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "count": 3,
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10892",
+        "display_name": "Drilling and Well Engineering",
+        "count": 3,
+        "score": 0.9994000196456909,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2212",
+          "display_name": "Ocean Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10271",
+        "display_name": "Seismic Imaging and Inversion Techniques",
+        "count": 3,
+        "score": 0.9987999796867371,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11801",
+        "display_name": "Reservoir Engineering and Simulation Methods",
+        "count": 2,
+        "score": 0.9976999759674072,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2212",
+          "display_name": "Ocean Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11302",
+        "display_name": "CO2 Sequestration and Geologic Interactions",
+        "count": 2,
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2305",
+          "display_name": "Environmental Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "topic_share": [
+      {
+        "id": "https://openalex.org/T12083",
+        "display_name": "Karst Systems and Hydrogeology",
+        "value": 0.000024,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11302",
+        "display_name": "CO2 Sequestration and Geologic Interactions",
+        "value": 0.0000222,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2305",
+          "display_name": "Environmental Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10892",
+        "display_name": "Drilling and Well Engineering",
+        "value": 0.000011,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2212",
+          "display_name": "Ocean Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10271",
+        "display_name": "Seismic Imaging and Inversion Techniques",
+        "value": 0.0000103,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "value": 0.0000066,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "x_concepts": [
+      {
+        "id": "105795698",
+        "wikidata": "https://www.wikidata.org/wiki/Q12483",
+        "display_name": "Statistics",
+        "score": 0.19283217191696167
+      },
+      {
+        "id": "108583219",
+        "wikidata": "https://www.wikidata.org/wiki/Q197536",
+        "display_name": "Deep learning",
+        "score": 0.5632665157318115
+      },
+      {
+        "id": "108583219",
+        "wikidata": "https://www.wikidata.org/wiki/Q197536",
+        "display_name": "Deep learning",
+        "score": 0.555189847946167
+      },
+      {
+        "id": "11413529",
+        "wikidata": "https://www.wikidata.org/wiki/Q8366",
+        "display_name": "Algorithm",
+        "score": 0.4783205986022949
+      },
+      {
+        "id": "11413529",
+        "wikidata": "https://www.wikidata.org/wiki/Q8366",
+        "display_name": "Algorithm",
+        "score": 0.4225255846977234
+      }
+    ],
+    "counts_by_year": [
+      {
+        "year": 2020,
+        "works_count": 1,
+        "oa_works_count": 1,
+        "cited_by_count": 55
+      },
+      {
+        "year": 2023,
+        "works_count": 3,
+        "oa_works_count": 1,
+        "cited_by_count": 15
+      },
+      {
+        "year": 2024,
+        "works_count": 2,
+        "oa_works_count": 0,
+        "cited_by_count": 9
+      },
+      {
+        "year": 2025,
+        "works_count": 1,
+        "oa_works_count": 0,
+        "cited_by_count": 1
+      }
+    ],
+    "longest_name": "Kanfar, Rayan",
+    "parsed_longest_name": {
+      "first": "rayan",
+      "middle": "",
+      "last": "kanfar",
+      "suffix": "",
+      "nickname": ""
+    },
+    "block_key": "r kanfar",
+    "works_api_url": "https://api.openalex.org/works?filter=author.id:A5071165005",
+    "updated_date": "2025-12-11T00:21:10.989143",
+    "created_date": "2025-10-10"
+  },
+  "works": [
+    {
+      "id": "https://openalex.org/W3003329782",
+      "doi": "https://doi.org/10.2523/iptc-19693-ms",
+      "title": "Real-Time Well Log Prediction From Drilling Data Using Deep Learning",
+      "display_name": "Real-Time Well Log Prediction From Drilling Data Using Deep Learning",
+      "publication_year": 2020,
+      "publication_date": "2020-01-11",
+      "ids": {
+        "openalex": "https://openalex.org/W3003329782",
+        "doi": "https://doi.org/10.2523/iptc-19693-ms",
+        "mag": "3003329782"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2523/iptc-19693-ms",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2523/iptc-19693-ms",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4363607700",
+          "display_name": "International Petroleum Technology Conference",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Petroleum Technology Conference",
+        "raw_type": "proceedings-article"
+      },
+      "type": "preprint",
+      "indexed_in": [
+        "arxiv",
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://arxiv.org/pdf/2001.10156",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5071165005",
+            "display_name": "Rayan Kanfar",
+            "orcid": "https://orcid.org/0000-0003-4321-5573"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rayan Kanfar",
+          "raw_affiliation_strings": [
+            "Stanford University"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Stanford University",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5047369616",
+            "display_name": "Obai Shaikh",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Obai Shaikh",
+          "raw_affiliation_strings": [
+            "Stanford University"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Stanford University",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5045063118",
+            "display_name": "M. Yousefzadeh",
+            "orcid": "https://orcid.org/0000-0001-8644-1939"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mehrdad Yousefzadeh",
+          "raw_affiliation_strings": [
+            "Stanford University"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Stanford University",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5013088513",
+            "display_name": "Tapan Mukerji",
+            "orcid": "https://orcid.org/0000-0003-1711-1850"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tapan Mukerji",
+          "raw_affiliation_strings": [
+            "Stanford University"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Stanford University",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 19.43110441,
+      "has_fulltext": false,
+      "cited_by_count": 54,
+      "citation_normalized_percentile": {
+        "value": 0.99912485,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 97,
+        "max": 99
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10892",
+        "display_name": "Drilling and Well Engineering",
+        "score": 0.9994000196456909,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2212",
+          "display_name": "Ocean Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10892",
+          "display_name": "Drilling and Well Engineering",
+          "score": 0.9994000196456909,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.9987999796867371,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10635",
+          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+          "score": 0.998199999332428,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/wireline",
+          "display_name": "Wireline",
+          "score": 0.8947529196739197
+        },
+        {
+          "id": "https://openalex.org/keywords/drilling",
+          "display_name": "Drilling",
+          "score": 0.6551644802093506
+        },
+        {
+          "id": "https://openalex.org/keywords/convolutional-neural-network",
+          "display_name": "Convolutional neural network",
+          "score": 0.6252090334892273
+        },
+        {
+          "id": "https://openalex.org/keywords/workflow",
+          "display_name": "Workflow",
+          "score": 0.6076631546020508
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.5934056639671326
+        },
+        {
+          "id": "https://openalex.org/keywords/deep-learning",
+          "display_name": "Deep learning",
+          "score": 0.555189847946167
+        },
+        {
+          "id": "https://openalex.org/keywords/well-logging",
+          "display_name": "Well logging",
+          "score": 0.5316795706748962
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-neural-network",
+          "display_name": "Artificial neural network",
+          "score": 0.45492830872535706
+        },
+        {
+          "id": "https://openalex.org/keywords/feature-engineering",
+          "display_name": "Feature engineering",
+          "score": 0.4444938898086548
+        },
+        {
+          "id": "https://openalex.org/keywords/correlation-coefficient",
+          "display_name": "Correlation coefficient",
+          "score": 0.41429659724235535
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.32225245237350464
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-engineering",
+          "display_name": "Petroleum engineering",
+          "score": 0.31977739930152893
+        },
+        {
+          "id": "https://openalex.org/keywords/machine-learning",
+          "display_name": "Machine learning",
+          "score": 0.316497802734375
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.26690220832824707
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.14191707968711853
+        },
+        {
+          "id": "https://openalex.org/keywords/database",
+          "display_name": "Database",
+          "score": 0.0917176604270935
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2776951270",
+          "wikidata": "https://www.wikidata.org/wiki/Q8026910",
+          "display_name": "Wireline",
+          "level": 3,
+          "score": 0.8947529196739197
+        },
+        {
+          "id": "https://openalex.org/C25197100",
+          "wikidata": "https://www.wikidata.org/wiki/Q890886",
+          "display_name": "Drilling",
+          "level": 2,
+          "score": 0.6551644802093506
+        },
+        {
+          "id": "https://openalex.org/C81363708",
+          "wikidata": "https://www.wikidata.org/wiki/Q17084460",
+          "display_name": "Convolutional neural network",
+          "level": 2,
+          "score": 0.6252090334892273
+        },
+        {
+          "id": "https://openalex.org/C177212765",
+          "wikidata": "https://www.wikidata.org/wiki/Q627335",
+          "display_name": "Workflow",
+          "level": 2,
+          "score": 0.6076631546020508
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5934056639671326
+        },
+        {
+          "id": "https://openalex.org/C108583219",
+          "wikidata": "https://www.wikidata.org/wiki/Q197536",
+          "display_name": "Deep learning",
+          "level": 2,
+          "score": 0.555189847946167
+        },
+        {
+          "id": "https://openalex.org/C35817400",
+          "wikidata": "https://www.wikidata.org/wiki/Q2383566",
+          "display_name": "Well logging",
+          "level": 2,
+          "score": 0.5316795706748962
+        },
+        {
+          "id": "https://openalex.org/C50644808",
+          "wikidata": "https://www.wikidata.org/wiki/Q192776",
+          "display_name": "Artificial neural network",
+          "level": 2,
+          "score": 0.45492830872535706
+        },
+        {
+          "id": "https://openalex.org/C2778827112",
+          "wikidata": "https://www.wikidata.org/wiki/Q22245680",
+          "display_name": "Feature engineering",
+          "level": 3,
+          "score": 0.4444938898086548
+        },
+        {
+          "id": "https://openalex.org/C2780092901",
+          "wikidata": "https://www.wikidata.org/wiki/Q3433612",
+          "display_name": "Correlation coefficient",
+          "level": 2,
+          "score": 0.41429659724235535
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.32225245237350464
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.31977739930152893
+        },
+        {
+          "id": "https://openalex.org/C119857082",
+          "wikidata": "https://www.wikidata.org/wiki/Q2539",
+          "display_name": "Machine learning",
+          "level": 1,
+          "score": 0.316497802734375
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.26690220832824707
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.14191707968711853
+        },
+        {
+          "id": "https://openalex.org/C77088390",
+          "wikidata": "https://www.wikidata.org/wiki/Q8513",
+          "display_name": "Database",
+          "level": 1,
+          "score": 0.0917176604270935
+        },
+        {
+          "id": "https://openalex.org/C555944384",
+          "wikidata": "https://www.wikidata.org/wiki/Q249",
+          "display_name": "Wireless",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C76155785",
+          "wikidata": "https://www.wikidata.org/wiki/Q418",
+          "display_name": "Telecommunications",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C78519656",
+          "wikidata": "https://www.wikidata.org/wiki/Q101333",
+          "display_name": "Mechanical engineering",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.2523/iptc-19693-ms",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.2523/iptc-19693-ms",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4363607700",
+            "display_name": "International Petroleum Technology Conference",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Petroleum Technology Conference",
+          "raw_type": "proceedings-article"
+        },
+        {
+          "id": "pmh:oai:arXiv.org:2001.10156",
+          "is_oa": true,
+          "landing_page_url": "http://arxiv.org/abs/2001.10156",
+          "pdf_url": "https://arxiv.org/pdf/2001.10156",
+          "source": {
+            "id": "https://openalex.org/S4306400194",
+            "display_name": "arXiv (Cornell University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I205783295",
+            "host_organization_name": "Cornell University",
+            "host_organization_lineage": [
+              "https://openalex.org/I205783295"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:arXiv.org:2001.10156",
+        "is_oa": true,
+        "landing_page_url": "http://arxiv.org/abs/2001.10156",
+        "pdf_url": "https://arxiv.org/pdf/2001.10156",
+        "source": {
+          "id": "https://openalex.org/S4306400194",
+          "display_name": "arXiv (Cornell University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I205783295",
+          "host_organization_name": "Cornell University",
+          "host_organization_lineage": [
+            "https://openalex.org/I205783295"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "text"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.7099999785423279,
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "referenced_works_count": 30,
+      "referenced_works": [
+        "https://openalex.org/W2097117768",
+        "https://openalex.org/W6749825310",
+        "https://openalex.org/W6664676257",
+        "https://openalex.org/W6763485134",
+        "https://openalex.org/W4256129314",
+        "https://openalex.org/W6683397842",
+        "https://openalex.org/W2395611524",
+        "https://openalex.org/W6680587008",
+        "https://openalex.org/W6725438632",
+        "https://openalex.org/W2325473967",
+        "https://openalex.org/W6670542613",
+        "https://openalex.org/W6748862132",
+        "https://openalex.org/W2950220847",
+        "https://openalex.org/W3137695714",
+        "https://openalex.org/W2058832429",
+        "https://openalex.org/W2068181873",
+        "https://openalex.org/W2074176021",
+        "https://openalex.org/W2323841792",
+        "https://openalex.org/W2952276042",
+        "https://openalex.org/W4231033096",
+        "https://openalex.org/W2519091744",
+        "https://openalex.org/W2792764867",
+        "https://openalex.org/W2080383849",
+        "https://openalex.org/W1979518289",
+        "https://openalex.org/W2790390066",
+        "https://openalex.org/W15242090",
+        "https://openalex.org/W2949382160",
+        "https://openalex.org/W2512297284",
+        "https://openalex.org/W2160319921",
+        "https://openalex.org/W2952632681"
+      ],
+      "related_works": [
+        "https://openalex.org/W2002724804",
+        "https://openalex.org/W1975498718",
+        "https://openalex.org/W2595372513",
+        "https://openalex.org/W2369202302",
+        "https://openalex.org/W2931573676",
+        "https://openalex.org/W2053525194",
+        "https://openalex.org/W4256702463",
+        "https://openalex.org/W321620092",
+        "https://openalex.org/W2002707526",
+        "https://openalex.org/W1577789205"
+      ],
+      "abstract_inverted_index": {
+        "12": [
+          153
+        ],
+        "The": [
+          0,
+          138,
+          171,
+          210
+        ],
+        "objective": [
+          1
+        ],
+        "is": [
+          2,
+          52,
+          85,
+          103,
+          140,
+          212
+        ],
+        "to": [
+          3,
+          47,
+          99,
+          142,
+          215
+        ],
+        "study": [
+          4
+        ],
+        "the": [
+          5,
+          94,
+          134,
+          151,
+          156,
+          160,
+          164,
+          190,
+          193,
+          204
+        ],
+        "feasibility": [
+          6
+        ],
+        "of": [
+          7,
+          27,
+          150,
+          201,
+          220
+        ],
+        "predicting": [
+          8
+        ],
+        "subsurface": [
+          9,
+          31
+        ],
+        "rock": [
+          10
+        ],
+        "properties": [
+          11
+        ],
+        "in": [
+          12,
+          54,
+          163
+        ],
+        "wells": [
+          13,
+          154
+        ],
+        "from": [
+          14,
+          66,
+          155
+        ],
+        "real-time": [
+          15
+        ],
+        "drilling": [
+          16,
+          50,
+          67,
+          91
+        ],
+        "data.": [
+          17,
+          152
+        ],
+        "Geophysical": [
+          18
+        ],
+        "logs,": [
+          19
+        ],
+        "namely,": [
+          20
+        ],
+        "density,": [
+          21,
+          184
+        ],
+        "porosity": [
+          22
+        ],
+        "and": [
+          23,
+          34,
+          80,
+          112,
+          146,
+          186,
+          228
+        ],
+        "sonic": [
+          24,
+          187
+        ],
+        "logs": [
+          25
+        ],
+        "are": [
+          26,
+          40,
+          45,
+          167,
+          179
+        ],
+        "paramount": [
+          28
+        ],
+        "importance": [
+          29
+        ],
+        "for": [
+          30,
+          62,
+          78,
+          96,
+          109,
+          159,
+          169
+        ],
+        "resource": [
+          32
+        ],
+        "estimation": [
+          33
+        ],
+        "exploitation.": [
+          35
+        ],
+        "These": [
+          36
+        ],
+        "wireline": [
+          37,
+          63
+        ],
+        "petro-physical": [
+          38
+        ],
+        "measurements": [
+          39
+        ],
+        "selectively": [
+          41
+        ],
+        "deployed": [
+          42
+        ],
+        "as": [
+          43,
+          133,
+          223
+        ],
+        "they": [
+          44
+        ],
+        "expensive": [
+          46
+        ],
+        "acquire;": [
+          48
+        ],
+        "meanwhile,": [
+          49
+        ],
+        "information": [
+          51
+        ],
+        "recorded": [
+          53
+        ],
+        "every": [
+          55
+        ],
+        "drilled": [
+          56
+        ],
+        "well.": [
+          57
+        ],
+        "Hence": [
+          58
+        ],
+        "a": [
+          59,
+          107,
+          129,
+          198
+        ],
+        "predictive": [
+          60
+        ],
+        "tool": [
+          61
+        ],
+        "log": [
+          64
+        ],
+        "prediction": [
+          65
+        ],
+        "data": [
+          68,
+          75,
+          110
+        ],
+        "can": [
+          69
+        ],
+        "help": [
+          70
+        ],
+        "management": [
+          71
+        ],
+        "make": [
+          72
+        ],
+        "decisions": [
+          73
+        ],
+        "about": [
+          74
+        ],
+        "acquisition,": [
+          76
+        ],
+        "especially": [
+          77
+        ],
+        "delineation": [
+          79
+        ],
+        "production": [
+          81
+        ],
+        "wells.": [
+          82
+        ],
+        "This": [
+          83
+        ],
+        "problem": [
+          84,
+          102
+        ],
+        "non-linear": [
+          86
+        ],
+        "with": [
+          87,
+          128
+        ],
+        "strong": [
+          88
+        ],
+        "ineractions": [
+          89
+        ],
+        "between": [
+          90,
+          217
+        ],
+        "parameters;": [
+          92
+        ],
+        "hence": [
+          93
+        ],
+        "potential": [
+          95
+        ],
+        "deep": [
+          97,
+          135
+        ],
+        "learning": [
+          98,
+          136
+        ],
+        "address": [
+          100
+        ],
+        "this": [
+          101
+        ],
+        "explored.": [
+          104
+        ],
+        "We": [
+          105,
+          120
+        ],
+        "present": [
+          106
+        ],
+        "workflow": [
+          108
+        ],
+        "augmentation": [
+          111
+        ],
+        "feature": [
+          113
+        ],
+        "engineering": [
+          114
+        ],
+        "using": [
+          115
+        ],
+        "Distance-based": [
+          116
+        ],
+        "Global": [
+          117
+        ],
+        "Sensitivity": [
+          118
+        ],
+        "Analysis.": [
+          119
+        ],
+        "propose": [
+          121
+        ],
+        "an": [
+          122
+        ],
+        "Inception-based": [
+          123
+        ],
+        "Convolutional": [
+          124,
+          131
+        ],
+        "Neural": [
+          125
+        ],
+        "Network": [
+          126,
+          132
+        ],
+        "combined": [
+          127
+        ],
+        "Temporal": [
+          130
+        ],
+        "model.": [
+          137
+        ],
+        "model": [
+          139,
+          172,
+          211
+        ],
+        "designed": [
+          141
+        ],
+        "learn": [
+          143
+        ],
+        "both": [
+          144
+        ],
+        "low": [
+          145,
+          199
+        ],
+        "high": [
+          147
+        ],
+        "frequency": [
+          148
+        ],
+        "content": [
+          149
+        ],
+        "Equinor": [
+          157
+        ],
+        "dataset": [
+          158
+        ],
+        "Volve": [
+          161
+        ],
+        "field": [
+          162
+        ],
+        "North": [
+          165
+        ],
+        "Sea": [
+          166
+        ],
+        "used": [
+          168
+        ],
+        "learning.": [
+          170
+        ],
+        "predictions": [
+          173
+        ],
+        "not": [
+          174
+        ],
+        "only": [
+          175
+        ],
+        "capture": [
+          176
+        ],
+        "trends": [
+          177
+        ],
+        "but": [
+          178,
+          203
+        ],
+        "also": [
+          180
+        ],
+        "physically": [
+          181
+        ],
+        "consistent": [
+          182
+        ],
+        "across": [
+          183
+        ],
+        "porosity,": [
+          185
+        ],
+        "logs.": [
+          188
+        ],
+        "On": [
+          189
+        ],
+        "test": [
+          191
+        ],
+        "data,": [
+          192
+        ],
+        "mean": [
+          194
+        ],
+        "square": [
+          195
+        ],
+        "error": [
+          196
+        ],
+        "reaches": [
+          197
+        ],
+        "value": [
+          200
+        ],
+        "0.04": [
+          202
+        ],
+        "correlation": [
+          205
+        ],
+        "coefficient": [
+          206
+        ],
+        "plateaus": [
+          207
+        ],
+        "around": [
+          208
+        ],
+        "0.6.": [
+          209
+        ],
+        "able": [
+          213
+        ],
+        "however": [
+          214
+        ],
+        "differentiate": [
+          216
+        ],
+        "different": [
+          218
+        ],
+        "types": [
+          219
+        ],
+        "rocks": [
+          221
+        ],
+        "such": [
+          222
+        ],
+        "cemented": [
+          224
+        ],
+        "sandstone,": [
+          225
+        ],
+        "unconsolidated": [
+          226
+        ],
+        "sands,": [
+          227
+        ],
+        "shale.": [
+          229
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 12
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 14
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 4
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4402326942",
+      "doi": "https://doi.org/10.1016/j.cageo.2024.105711",
+      "title": "Learning CO<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si194.svg\" display=\"inline\" id=\"d1e1512\"><mml:msub><mml:mrow/><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:math> plume migration in faulted reservoirs with Graph Neural Networks",
+      "display_name": "Learning CO<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si194.svg\" display=\"inline\" id=\"d1e1512\"><mml:msub><mml:mrow/><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:math> plume migration in faulted reservoirs with Graph Neural Networks",
+      "publication_year": 2024,
+      "publication_date": "2024-09-07",
+      "ids": {
+        "openalex": "https://openalex.org/W4402326942",
+        "doi": "https://doi.org/10.1016/j.cageo.2024.105711"
+      },
+      "language": "lv",
+      "primary_location": {
+        "id": "doi:10.1016/j.cageo.2024.105711",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.cageo.2024.105711",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S61699894",
+          "display_name": "Computers & Geosciences",
+          "issn_l": "0098-3004",
+          "issn": [
+            "0098-3004",
+            "1873-7803"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Computers &amp; Geosciences",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5036781407",
+            "display_name": "Xin Ju",
+            "orcid": "https://orcid.org/0000-0003-4110-7472"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Xin Ju",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5047662931",
+            "display_name": "François P. Hamon",
+            "orcid": "https://orcid.org/0000-0001-8229-963X"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "François P. Hamon",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5007168661",
+            "display_name": "Gege Wen",
+            "orcid": "https://orcid.org/0000-0003-1668-3777"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Gege Wen",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5071165005",
+            "display_name": "Rayan Kanfar",
+            "orcid": "https://orcid.org/0000-0003-4321-5573"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Rayan Kanfar",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5027534318",
+            "display_name": "Mauricio Araya–Polo",
+            "orcid": "https://orcid.org/0000-0002-5537-1840"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mauricio Araya-Polo",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5033541460",
+            "display_name": "Hamdi A. Tchelepi",
+            "orcid": "https://orcid.org/0000-0002-3084-6635"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Hamdi A. Tchelepi",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 6,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 3630,
+        "currency": "USD",
+        "value_usd": 3630
+      },
+      "apc_paid": null,
+      "fwci": 3.48727605,
+      "has_fulltext": false,
+      "cited_by_count": 9,
+      "citation_normalized_percentile": {
+        "value": 0.89259924,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "193",
+        "issue": null,
+        "first_page": "105711",
+        "last_page": "105711"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11302",
+        "display_name": "CO2 Sequestration and Geologic Interactions",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2305",
+          "display_name": "Environmental Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10491",
+          "display_name": "Enhanced Oil Recovery Techniques",
+          "score": 0.9994999766349792,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.5545613765716553
+        },
+        {
+          "id": "https://openalex.org/keywords/scalable-vector-graphics",
+          "display_name": "Scalable Vector Graphics",
+          "score": 0.43883803486824036
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.1661686897277832
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.5545613765716553
+        },
+        {
+          "id": "https://openalex.org/C202629362",
+          "wikidata": "https://www.wikidata.org/wiki/Q2078",
+          "display_name": "Scalable Vector Graphics",
+          "level": 2,
+          "score": 0.43883803486824036
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.1661686897277832
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.cageo.2024.105711",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.cageo.2024.105711",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S61699894",
+            "display_name": "Computers & Geosciences",
+            "issn_l": "0098-3004",
+            "issn": [
+              "0098-3004",
+              "1873-7803"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Computers &amp; Geosciences",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.5600000023841858,
+          "id": "https://metadata.un.org/sdg/10",
+          "display_name": "Reduced inequalities"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "referenced_works_count": 52,
+      "referenced_works": [
+        "https://openalex.org/W3166111822",
+        "https://openalex.org/W4312617492",
+        "https://openalex.org/W6680598519",
+        "https://openalex.org/W2011364235",
+        "https://openalex.org/W6720006811",
+        "https://openalex.org/W2064572976",
+        "https://openalex.org/W2058738180",
+        "https://openalex.org/W3183994952",
+        "https://openalex.org/W6738964360",
+        "https://openalex.org/W2111546927",
+        "https://openalex.org/W4392059653",
+        "https://openalex.org/W3012977591",
+        "https://openalex.org/W1897549261",
+        "https://openalex.org/W2180023479",
+        "https://openalex.org/W2757850250",
+        "https://openalex.org/W2093652220",
+        "https://openalex.org/W2811208018",
+        "https://openalex.org/W2155117641",
+        "https://openalex.org/W2106176530",
+        "https://openalex.org/W2042377693",
+        "https://openalex.org/W1982388591",
+        "https://openalex.org/W6639824700",
+        "https://openalex.org/W6774033856",
+        "https://openalex.org/W6731918294",
+        "https://openalex.org/W6810581345",
+        "https://openalex.org/W4285133117",
+        "https://openalex.org/W1986714070",
+        "https://openalex.org/W2093509949",
+        "https://openalex.org/W3210813904",
+        "https://openalex.org/W3157798299",
+        "https://openalex.org/W3016309349",
+        "https://openalex.org/W2047137338",
+        "https://openalex.org/W3197308578",
+        "https://openalex.org/W4323904364",
+        "https://openalex.org/W2981461641",
+        "https://openalex.org/W4283010154",
+        "https://openalex.org/W3152893301",
+        "https://openalex.org/W2784733489",
+        "https://openalex.org/W1566030289",
+        "https://openalex.org/W4398251086",
+        "https://openalex.org/W2143093655",
+        "https://openalex.org/W4320341235",
+        "https://openalex.org/W3205927194",
+        "https://openalex.org/W4287122177",
+        "https://openalex.org/W2964321699",
+        "https://openalex.org/W3100968477",
+        "https://openalex.org/W4281565761",
+        "https://openalex.org/W4295728955",
+        "https://openalex.org/W4294558607",
+        "https://openalex.org/W1570210063",
+        "https://openalex.org/W4225370476",
+        "https://openalex.org/W4287645102"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2358969090",
+        "https://openalex.org/W3183425535",
+        "https://openalex.org/W2354624479",
+        "https://openalex.org/W2394137533",
+        "https://openalex.org/W2362190996",
+        "https://openalex.org/W2385461408",
+        "https://openalex.org/W2119089902",
+        "https://openalex.org/W2387643967"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4386380008",
+      "doi": "https://doi.org/10.1007/s11004-023-10088-4",
+      "title": "Stochastic Geomodeling of Karst Morphology by Dynamic Graph Dissolution",
+      "display_name": "Stochastic Geomodeling of Karst Morphology by Dynamic Graph Dissolution",
+      "publication_year": 2023,
+      "publication_date": "2023-09-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4386380008",
+        "doi": "https://doi.org/10.1007/s11004-023-10088-4"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/s11004-023-10088-4",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/s11004-023-10088-4",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210237802",
+          "display_name": "Mathematical Geosciences",
+          "issn_l": "1874-8953",
+          "issn": [
+            "1874-8953",
+            "1874-8961"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Mathematical Geosciences",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5071165005",
+            "display_name": "Rayan Kanfar",
+            "orcid": "https://orcid.org/0000-0003-4321-5573"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rayan Kanfar",
+          "raw_affiliation_strings": [
+            "Department of Energy Science and Engineering, Stanford University, 367 Panama Street, Stanford, CA, 94305-2220, USA"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Energy Science and Engineering, Stanford University, 367 Panama Street, Stanford, CA, 94305-2220, USA",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5013088513",
+            "display_name": "Tapan Mukerji",
+            "orcid": "https://orcid.org/0000-0003-1711-1850"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tapan Mukerji",
+          "raw_affiliation_strings": [
+            "Department of Energy Science and Engineering, Stanford University, 367 Panama Street, Stanford, CA, 94305-2220, USA"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Energy Science and Engineering, Stanford University, 367 Panama Street, Stanford, CA, 94305-2220, USA",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.45163063,
+      "has_fulltext": false,
+      "cited_by_count": 4,
+      "citation_normalized_percentile": {
+        "value": 0.78001123,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "56",
+        "issue": "6",
+        "first_page": "1207",
+        "last_page": "1231"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12083",
+        "display_name": "Karst Systems and Hydrogeology",
+        "score": 0.9991999864578247,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12083",
+          "display_name": "Karst Systems and Hydrogeology",
+          "score": 0.9991999864578247,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9692000150680542,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14392",
+          "display_name": "Geoscience and Mining Technology",
+          "score": 0.9635000228881836,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2213",
+            "display_name": "Safety, Risk, Reliability and Quality"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/karst",
+          "display_name": "Karst",
+          "score": 0.8406196236610413
+        },
+        {
+          "id": "https://openalex.org/keywords/graph",
+          "display_name": "Graph",
+          "score": 0.5768588185310364
+        },
+        {
+          "id": "https://openalex.org/keywords/cave",
+          "display_name": "Cave",
+          "score": 0.524128258228302
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.4820014536380768
+        },
+        {
+          "id": "https://openalex.org/keywords/clustering-coefficient",
+          "display_name": "Clustering coefficient",
+          "score": 0.44181177020072937
+        },
+        {
+          "id": "https://openalex.org/keywords/algorithm",
+          "display_name": "Algorithm",
+          "score": 0.4225255846977234
+        },
+        {
+          "id": "https://openalex.org/keywords/topology",
+          "display_name": "Topology (electrical circuits)",
+          "score": 0.38363680243492126
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.33801549673080444
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematical-optimization",
+          "display_name": "Mathematical optimization",
+          "score": 0.3364609181880951
+        },
+        {
+          "id": "https://openalex.org/keywords/theoretical-computer-science",
+          "display_name": "Theoretical computer science",
+          "score": 0.3299643397331238
+        },
+        {
+          "id": "https://openalex.org/keywords/biological-system",
+          "display_name": "Biological system",
+          "score": 0.3229357898235321
+        },
+        {
+          "id": "https://openalex.org/keywords/cluster-analysis",
+          "display_name": "Cluster analysis",
+          "score": 0.3120988607406616
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.276671439409256
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.13155999779701233
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.11973944306373596
+        },
+        {
+          "id": "https://openalex.org/keywords/combinatorics",
+          "display_name": "Combinatorics",
+          "score": 0.11617186665534973
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C182348080",
+          "wikidata": "https://www.wikidata.org/wiki/Q16817",
+          "display_name": "Karst",
+          "level": 2,
+          "score": 0.8406196236610413
+        },
+        {
+          "id": "https://openalex.org/C132525143",
+          "wikidata": "https://www.wikidata.org/wiki/Q141488",
+          "display_name": "Graph",
+          "level": 2,
+          "score": 0.5768588185310364
+        },
+        {
+          "id": "https://openalex.org/C171878925",
+          "wikidata": "https://www.wikidata.org/wiki/Q35509",
+          "display_name": "Cave",
+          "level": 2,
+          "score": 0.524128258228302
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.4820014536380768
+        },
+        {
+          "id": "https://openalex.org/C22047676",
+          "wikidata": "https://www.wikidata.org/wiki/Q898680",
+          "display_name": "Clustering coefficient",
+          "level": 3,
+          "score": 0.44181177020072937
+        },
+        {
+          "id": "https://openalex.org/C11413529",
+          "wikidata": "https://www.wikidata.org/wiki/Q8366",
+          "display_name": "Algorithm",
+          "level": 1,
+          "score": 0.4225255846977234
+        },
+        {
+          "id": "https://openalex.org/C184720557",
+          "wikidata": "https://www.wikidata.org/wiki/Q7825049",
+          "display_name": "Topology (electrical circuits)",
+          "level": 2,
+          "score": 0.38363680243492126
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.33801549673080444
+        },
+        {
+          "id": "https://openalex.org/C126255220",
+          "wikidata": "https://www.wikidata.org/wiki/Q141495",
+          "display_name": "Mathematical optimization",
+          "level": 1,
+          "score": 0.3364609181880951
+        },
+        {
+          "id": "https://openalex.org/C80444323",
+          "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+          "display_name": "Theoretical computer science",
+          "level": 1,
+          "score": 0.3299643397331238
+        },
+        {
+          "id": "https://openalex.org/C186060115",
+          "wikidata": "https://www.wikidata.org/wiki/Q30336093",
+          "display_name": "Biological system",
+          "level": 1,
+          "score": 0.3229357898235321
+        },
+        {
+          "id": "https://openalex.org/C73555534",
+          "wikidata": "https://www.wikidata.org/wiki/Q622825",
+          "display_name": "Cluster analysis",
+          "level": 2,
+          "score": 0.3120988607406616
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.276671439409256
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.13155999779701233
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.11973944306373596
+        },
+        {
+          "id": "https://openalex.org/C114614502",
+          "wikidata": "https://www.wikidata.org/wiki/Q76592",
+          "display_name": "Combinatorics",
+          "level": 1,
+          "score": 0.11617186665534973
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/s11004-023-10088-4",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/s11004-023-10088-4",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210237802",
+            "display_name": "Mathematical Geosciences",
+            "issn_l": "1874-8953",
+            "issn": [
+              "1874-8953",
+              "1874-8961"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Mathematical Geosciences",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/8",
+          "display_name": "Decent work and economic growth"
+        }
+      ],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "referenced_works_count": 36,
+      "referenced_works": [
+        "https://openalex.org/W2939373135",
+        "https://openalex.org/W4200622624",
+        "https://openalex.org/W2064451656",
+        "https://openalex.org/W2583920684",
+        "https://openalex.org/W3184390737",
+        "https://openalex.org/W627601976",
+        "https://openalex.org/W2131026050",
+        "https://openalex.org/W2134159742",
+        "https://openalex.org/W2026507537",
+        "https://openalex.org/W3018930473",
+        "https://openalex.org/W18847906",
+        "https://openalex.org/W1971937094",
+        "https://openalex.org/W2026119625",
+        "https://openalex.org/W2205745736",
+        "https://openalex.org/W2751364937",
+        "https://openalex.org/W2543672486",
+        "https://openalex.org/W2074726871",
+        "https://openalex.org/W3090636335",
+        "https://openalex.org/W2560013889",
+        "https://openalex.org/W1821143250",
+        "https://openalex.org/W2000318041",
+        "https://openalex.org/W1989757660",
+        "https://openalex.org/W3201152061",
+        "https://openalex.org/W2040956707",
+        "https://openalex.org/W1993728319",
+        "https://openalex.org/W1971861127",
+        "https://openalex.org/W2106990937",
+        "https://openalex.org/W4285093386",
+        "https://openalex.org/W1998837502",
+        "https://openalex.org/W2981265119",
+        "https://openalex.org/W6893670671",
+        "https://openalex.org/W2160303039",
+        "https://openalex.org/W2026158509",
+        "https://openalex.org/W2503676979",
+        "https://openalex.org/W71764628",
+        "https://openalex.org/W124181313"
+      ],
+      "related_works": [
+        "https://openalex.org/W3203010359",
+        "https://openalex.org/W4313729887",
+        "https://openalex.org/W2038007584",
+        "https://openalex.org/W3094143604",
+        "https://openalex.org/W2384980980",
+        "https://openalex.org/W2382993304",
+        "https://openalex.org/W2370628373",
+        "https://openalex.org/W2765397641",
+        "https://openalex.org/W4382363904",
+        "https://openalex.org/W4323896988"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4407066027",
+      "doi": "https://doi.org/10.1190/tle44020142.1",
+      "title": "Intelligent seismic workflows: The power of generative AI and language models",
+      "display_name": "Intelligent seismic workflows: The power of generative AI and language models",
+      "publication_year": 2025,
+      "publication_date": "2025-02-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4407066027",
+        "doi": "https://doi.org/10.1190/tle44020142.1"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1190/tle44020142.1",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1190/tle44020142.1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210172657",
+          "display_name": "The Leading Edge",
+          "issn_l": "1070-485X",
+          "issn": [
+            "1070-485X",
+            "1938-3789"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316678",
+          "host_organization_name": "Society of Exploration Geophysicists",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316678"
+          ],
+          "host_organization_lineage_names": [
+            "Society of Exploration Geophysicists"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Leading Edge",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5071165005",
+            "display_name": "Rayan Kanfar",
+            "orcid": "https://orcid.org/0000-0003-4321-5573"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rayan Kanfar",
+          "raw_affiliation_strings": [
+            "Saudi Aramco, Dhahran, Saudi Arabia.."
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia..",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5084495777",
+            "display_name": "Abdulmohsen Alali",
+            "orcid": "https://orcid.org/0000-0002-5128-992X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulmohsen Alali",
+          "raw_affiliation_strings": [
+            "Saudi Aramco, Dhahran, Saudi Arabia.."
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia..",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074737905",
+            "display_name": "Thierry-Laurent Tonellot",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Thierry-Laurent Tonellot",
+          "raw_affiliation_strings": [
+            "Saudi Aramco, Dhahran, Saudi Arabia.."
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia..",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110667503",
+            "display_name": "Hussain Salim",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hussain Salim",
+          "raw_affiliation_strings": [
+            "Saudi Aramco, Dhahran, Saudi Arabia.."
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia..",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5034973010",
+            "display_name": "Oleg Ovcharenko",
+            "orcid": "https://orcid.org/0000-0002-6717-8888"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210127875",
+              "display_name": "Nvidia (United States)",
+              "ror": "https://ror.org/03jdj4y14",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210127875"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Oleg Ovcharenko",
+          "raw_affiliation_strings": [
+            "NVIDIA Corp., Santa Clara, California, USA.."
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NVIDIA Corp., Santa Clara, California, USA..",
+              "institution_ids": [
+                "https://openalex.org/I4210127875"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 5,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 3.06327829,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.78650164,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 91,
+        "max": 95
+      },
+      "biblio": {
+        "volume": "44",
+        "issue": "2",
+        "first_page": "142",
+        "last_page": "151"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11801",
+        "display_name": "Reservoir Engineering and Simulation Methods",
+        "score": 0.9976999759674072,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2212",
+          "display_name": "Ocean Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11801",
+          "display_name": "Reservoir Engineering and Simulation Methods",
+          "score": 0.9976999759674072,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.9625999927520752,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10892",
+          "display_name": "Drilling and Well Engineering",
+          "score": 0.9570000171661377,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/generative-grammar",
+          "display_name": "Generative grammar",
+          "score": 0.699474573135376
+        },
+        {
+          "id": "https://openalex.org/keywords/workflow",
+          "display_name": "Workflow",
+          "score": 0.6618822813034058
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.6181352138519287
+        },
+        {
+          "id": "https://openalex.org/keywords/power",
+          "display_name": "Power (physics)",
+          "score": 0.41040849685668945
+        },
+        {
+          "id": "https://openalex.org/keywords/natural-language-processing",
+          "display_name": "Natural language processing",
+          "score": 0.4060376286506653
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.3854062855243683
+        },
+        {
+          "id": "https://openalex.org/keywords/database",
+          "display_name": "Database",
+          "score": 0.10456249117851257
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C39890363",
+          "wikidata": "https://www.wikidata.org/wiki/Q36108",
+          "display_name": "Generative grammar",
+          "level": 2,
+          "score": 0.699474573135376
+        },
+        {
+          "id": "https://openalex.org/C177212765",
+          "wikidata": "https://www.wikidata.org/wiki/Q627335",
+          "display_name": "Workflow",
+          "level": 2,
+          "score": 0.6618822813034058
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.6181352138519287
+        },
+        {
+          "id": "https://openalex.org/C163258240",
+          "wikidata": "https://www.wikidata.org/wiki/Q25342",
+          "display_name": "Power (physics)",
+          "level": 2,
+          "score": 0.41040849685668945
+        },
+        {
+          "id": "https://openalex.org/C204321447",
+          "wikidata": "https://www.wikidata.org/wiki/Q30642",
+          "display_name": "Natural language processing",
+          "level": 1,
+          "score": 0.4060376286506653
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.3854062855243683
+        },
+        {
+          "id": "https://openalex.org/C77088390",
+          "wikidata": "https://www.wikidata.org/wiki/Q8513",
+          "display_name": "Database",
+          "level": 1,
+          "score": 0.10456249117851257
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C62520636",
+          "wikidata": "https://www.wikidata.org/wiki/Q944",
+          "display_name": "Quantum mechanics",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1190/tle44020142.1",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1190/tle44020142.1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210172657",
+            "display_name": "The Leading Edge",
+            "issn_l": "1070-485X",
+            "issn": [
+              "1070-485X",
+              "1938-3789"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310316678",
+            "host_organization_name": "Society of Exploration Geophysicists",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316678"
+            ],
+            "host_organization_lineage_names": [
+              "Society of Exploration Geophysicists"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "The Leading Edge",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "referenced_works_count": 34,
+      "referenced_works": [
+        "https://openalex.org/W4200524223",
+        "https://openalex.org/W2890420857",
+        "https://openalex.org/W2988629521",
+        "https://openalex.org/W2896457183",
+        "https://openalex.org/W4401306886",
+        "https://openalex.org/W2982728689",
+        "https://openalex.org/W2113825554",
+        "https://openalex.org/W2135381173",
+        "https://openalex.org/W6603963165",
+        "https://openalex.org/W2122322116",
+        "https://openalex.org/W2898880790",
+        "https://openalex.org/W3007005426",
+        "https://openalex.org/W3148740559",
+        "https://openalex.org/W3027879771",
+        "https://openalex.org/W3034025869",
+        "https://openalex.org/W4392560653",
+        "https://openalex.org/W3109817817",
+        "https://openalex.org/W4387435265",
+        "https://openalex.org/W4384070556",
+        "https://openalex.org/W2145339207",
+        "https://openalex.org/W4399159751",
+        "https://openalex.org/W4286497158",
+        "https://openalex.org/W4389524506",
+        "https://openalex.org/W2970641574",
+        "https://openalex.org/W2999594695",
+        "https://openalex.org/W4405527282",
+        "https://openalex.org/W3114619467",
+        "https://openalex.org/W4393065402",
+        "https://openalex.org/W3149008029",
+        "https://openalex.org/W4386794445",
+        "https://openalex.org/W4304195432",
+        "https://openalex.org/W2559655401",
+        "https://openalex.org/W4386410789",
+        "https://openalex.org/W2990138404"
+      ],
+      "related_works": [
+        "https://openalex.org/W1981780420",
+        "https://openalex.org/W2182707996",
+        "https://openalex.org/W45233828",
+        "https://openalex.org/W2964988449",
+        "https://openalex.org/W2397952901",
+        "https://openalex.org/W2029380707",
+        "https://openalex.org/W188202134",
+        "https://openalex.org/W2380075625",
+        "https://openalex.org/W4255934811",
+        "https://openalex.org/W3204019825"
+      ],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "Advanced": [
+          1
+        ],
+        "seismic": [
+          2,
+          57,
+          148
+        ],
+        "data": [
+          3,
+          58,
+          64,
+          87,
+          108,
+          149
+        ],
+        "processing": [
+          4
+        ],
+        "involves": [
+          5
+        ],
+        "specialized": [
+          6
+        ],
+        "methods": [
+          7
+        ],
+        "often": [
+          8
+        ],
+        "implemented": [
+          9
+        ],
+        "through": [
+          10,
+          44
+        ],
+        "various": [
+          11
+        ],
+        "software,": [
+          12
+        ],
+        "requiring": [
+          13
+        ],
+        "extensive": [
+          14
+        ],
+        "expertise": [
+          15
+        ],
+        "and": [
+          16,
+          41,
+          79,
+          89,
+          94,
+          110,
+          128,
+          157
+        ],
+        "time": [
+          17
+        ],
+        "from": [
+          18
+        ],
+        "geoscientists": [
+          19,
+          119
+        ],
+        "to": [
+          20,
+          33,
+          71,
+          101,
+          120,
+          146
+        ],
+        "execute": [
+          21,
+          80
+        ],
+        "geophysical": [
+          22,
+          81,
+          131,
+          153
+        ],
+        "workflows.": [
+          23,
+          65
+        ],
+        "Recently,": [
+          24
+        ],
+        "large": [
+          25
+        ],
+        "language": [
+          26
+        ],
+        "models": [
+          27,
+          142
+        ],
+        "(LLMs)": [
+          28
+        ],
+        "have": [
+          29
+        ],
+        "demonstrated": [
+          30
+        ],
+        "the": [
+          31,
+          99,
+          116,
+          144
+        ],
+        "ability": [
+          32
+        ],
+        "understand": [
+          34,
+          73
+        ],
+        "natural": [
+          35
+        ],
+        "language,": [
+          36
+        ],
+        "reason": [
+          37
+        ],
+        "about": [
+          38
+        ],
+        "domain-specific": [
+          39
+        ],
+        "topics,": [
+          40
+        ],
+        "assist": [
+          42
+        ],
+        "users": [
+          43,
+          160
+        ],
+        "complex": [
+          45
+        ],
+        "tasks.": [
+          46,
+          132
+        ],
+        "In": [
+          47
+        ],
+        "this": [
+          48
+        ],
+        "paper,": [
+          49
+        ],
+        "we": [
+          50
+        ],
+        "introduce": [
+          51
+        ],
+        "an": [
+          52
+        ],
+        "LLM-based": [
+          53
+        ],
+        "autonomous": [
+          54
+        ],
+        "agent": [
+          55,
+          68,
+          100,
+          117
+        ],
+        "for": [
+          56,
+          159
+        ],
+        "processing,": [
+          59
+        ],
+        "focusing": [
+          60
+        ],
+        "on": [
+          61,
+          122
+        ],
+        "full-waveform": [
+          62
+        ],
+        "sonic": [
+          63
+        ],
+        "The": [
+          66
+        ],
+        "proposed": [
+          67
+        ],
+        "is": [
+          69
+        ],
+        "shown": [
+          70
+        ],
+        "reliably": [
+          72
+        ],
+        "user": [
+          74
+        ],
+        "queries,": [
+          75
+        ],
+        "select": [
+          76
+        ],
+        "appropriate": [
+          77
+        ],
+        "tools,": [
+          78
+        ],
+        "tasks": [
+          82,
+          154
+        ],
+        "such": [
+          83
+        ],
+        "as": [
+          84
+        ],
+        "bandpass": [
+          85
+        ],
+        "filtering,": [
+          86
+        ],
+        "clipping,": [
+          88
+        ],
+        "frequency": [
+          90
+        ],
+        "spectrum": [
+          91
+        ],
+        "analysis.": [
+          92
+        ],
+        "Safeguards": [
+          93
+        ],
+        "guardrails": [
+          95
+        ],
+        "are": [
+          96
+        ],
+        "incorporated": [
+          97
+        ],
+        "into": [
+          98
+        ],
+        "ensure": [
+          102
+        ],
+        "operation": [
+          103
+        ],
+        "within": [
+          104
+        ],
+        "defined": [
+          105
+        ],
+        "parameters,": [
+          106
+        ],
+        "maintaining": [
+          107
+        ],
+        "security": [
+          109
+        ],
+        "integrity.": [
+          111
+        ],
+        "By": [
+          112
+        ],
+        "automating": [
+          113
+        ],
+        "routine": [
+          114
+        ],
+        "processes,": [
+          115
+        ],
+        "allows": [
+          118
+        ],
+        "focus": [
+          121
+        ],
+        "higher-level": [
+          123
+        ],
+        "decision-making": [
+          124
+        ],
+        "while": [
+          125
+        ],
+        "ensuring": [
+          126
+        ],
+        "accuracy": [
+          127
+        ],
+        "consistency": [
+          129
+        ],
+        "across": [
+          130
+        ],
+        "As": [
+          133
+        ],
+        "generative": [
+          134
+        ],
+        "artificial": [
+          135
+        ],
+        "intelligence": [
+          136
+        ],
+        "evolves,": [
+          137
+        ],
+        "integrating": [
+          138
+        ],
+        "LLMs": [
+          139
+        ],
+        "with": [
+          140
+        ],
+        "other": [
+          141
+        ],
+        "has": [
+          143
+        ],
+        "potential": [
+          145
+        ],
+        "revolutionize": [
+          147
+        ],
+        "analysis,": [
+          150
+        ],
+        "making": [
+          151
+        ],
+        "advanced": [
+          152
+        ],
+        "more": [
+          155
+        ],
+        "accessible": [
+          156
+        ],
+        "scalable": [
+          158
+        ],
+        "at": [
+          161
+        ],
+        "all": [
+          162
+        ],
+        "levels": [
+          163
+        ],
+        "of": [
+          164
+        ],
+        "expertise.": [
+          165
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-12-11T00:21:10.989143",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4381247932",
+      "doi": "https://doi.org/10.48550/arxiv.2306.09648",
+      "title": "Learning CO$_2$ plume migration in faulted reservoirs with Graph Neural Networks",
+      "display_name": "Learning CO$_2$ plume migration in faulted reservoirs with Graph Neural Networks",
+      "publication_year": 2023,
+      "publication_date": "2023-06-16",
+      "ids": {
+        "openalex": "https://openalex.org/W4381247932",
+        "doi": "https://doi.org/10.48550/arxiv.2306.09648"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "pmh:oai:arXiv.org:2306.09648",
+        "is_oa": true,
+        "landing_page_url": "http://arxiv.org/abs/2306.09648",
+        "pdf_url": "https://arxiv.org/pdf/2306.09648",
+        "source": {
+          "id": "https://openalex.org/S4306400194",
+          "display_name": "arXiv (Cornell University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I205783295",
+          "host_organization_name": "Cornell University",
+          "host_organization_lineage": [
+            "https://openalex.org/I205783295"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "text"
+      },
+      "type": "preprint",
+      "indexed_in": [
+        "arxiv",
+        "datacite"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://arxiv.org/pdf/2306.09648",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5101867027",
+            "display_name": "Xin Ju",
+            "orcid": "https://orcid.org/0000-0003-2742-3719"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Ju, Xin",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5047662931",
+            "display_name": "François P. Hamon",
+            "orcid": "https://orcid.org/0000-0001-8229-963X"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Hamon, François P.",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5007168661",
+            "display_name": "Gege Wen",
+            "orcid": "https://orcid.org/0000-0003-1668-3777"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Wen, Gege",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5071165005",
+            "display_name": "Rayan Kanfar",
+            "orcid": "https://orcid.org/0000-0003-4321-5573"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Kanfar, Rayan",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5027534318",
+            "display_name": "Mauricio Araya–Polo",
+            "orcid": "https://orcid.org/0000-0002-5537-1840"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Araya-Polo, Mauricio",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5033541460",
+            "display_name": "Hamdi A. Tchelepi",
+            "orcid": "https://orcid.org/0000-0002-3084-6635"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Tchelepi, Hamdi A.",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 6,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": null,
+      "has_fulltext": false,
+      "cited_by_count": 11,
+      "citation_normalized_percentile": null,
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11302",
+        "display_name": "CO2 Sequestration and Geologic Interactions",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2305",
+          "display_name": "Environmental Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11588",
+          "display_name": "Atmospheric and Environmental Gas Dynamics",
+          "score": 0.9976000189781189,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2306",
+            "display_name": "Global and Planetary Change"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9959999918937683,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.6544598340988159
+        },
+        {
+          "id": "https://openalex.org/keywords/polygon-mesh",
+          "display_name": "Polygon mesh",
+          "score": 0.5984286069869995
+        },
+        {
+          "id": "https://openalex.org/keywords/deep-learning",
+          "display_name": "Deep learning",
+          "score": 0.5632665157318115
+        },
+        {
+          "id": "https://openalex.org/keywords/convolutional-neural-network",
+          "display_name": "Convolutional neural network",
+          "score": 0.5463488698005676
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-neural-network",
+          "display_name": "Artificial neural network",
+          "score": 0.5375425815582275
+        },
+        {
+          "id": "https://openalex.org/keywords/algorithm",
+          "display_name": "Algorithm",
+          "score": 0.4783205986022949
+        },
+        {
+          "id": "https://openalex.org/keywords/graph",
+          "display_name": "Graph",
+          "score": 0.4654330313205719
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-simulation",
+          "display_name": "Reservoir simulation",
+          "score": 0.4611857533454895
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.4087844491004944
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.2543542981147766
+        },
+        {
+          "id": "https://openalex.org/keywords/theoretical-computer-science",
+          "display_name": "Theoretical computer science",
+          "score": 0.23938912153244019
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-engineering",
+          "display_name": "Petroleum engineering",
+          "score": 0.14233684539794922
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.6544598340988159
+        },
+        {
+          "id": "https://openalex.org/C31487907",
+          "wikidata": "https://www.wikidata.org/wiki/Q1154597",
+          "display_name": "Polygon mesh",
+          "level": 2,
+          "score": 0.5984286069869995
+        },
+        {
+          "id": "https://openalex.org/C108583219",
+          "wikidata": "https://www.wikidata.org/wiki/Q197536",
+          "display_name": "Deep learning",
+          "level": 2,
+          "score": 0.5632665157318115
+        },
+        {
+          "id": "https://openalex.org/C81363708",
+          "wikidata": "https://www.wikidata.org/wiki/Q17084460",
+          "display_name": "Convolutional neural network",
+          "level": 2,
+          "score": 0.5463488698005676
+        },
+        {
+          "id": "https://openalex.org/C50644808",
+          "wikidata": "https://www.wikidata.org/wiki/Q192776",
+          "display_name": "Artificial neural network",
+          "level": 2,
+          "score": 0.5375425815582275
+        },
+        {
+          "id": "https://openalex.org/C11413529",
+          "wikidata": "https://www.wikidata.org/wiki/Q8366",
+          "display_name": "Algorithm",
+          "level": 1,
+          "score": 0.4783205986022949
+        },
+        {
+          "id": "https://openalex.org/C132525143",
+          "wikidata": "https://www.wikidata.org/wiki/Q141488",
+          "display_name": "Graph",
+          "level": 2,
+          "score": 0.4654330313205719
+        },
+        {
+          "id": "https://openalex.org/C2778668878",
+          "wikidata": "https://www.wikidata.org/wiki/Q6380338",
+          "display_name": "Reservoir simulation",
+          "level": 2,
+          "score": 0.4611857533454895
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.4087844491004944
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.2543542981147766
+        },
+        {
+          "id": "https://openalex.org/C80444323",
+          "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+          "display_name": "Theoretical computer science",
+          "level": 1,
+          "score": 0.23938912153244019
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.14233684539794922
+        },
+        {
+          "id": "https://openalex.org/C121684516",
+          "wikidata": "https://www.wikidata.org/wiki/Q7600677",
+          "display_name": "Computer graphics (images)",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "pmh:oai:arXiv.org:2306.09648",
+          "is_oa": true,
+          "landing_page_url": "http://arxiv.org/abs/2306.09648",
+          "pdf_url": "https://arxiv.org/pdf/2306.09648",
+          "source": {
+            "id": "https://openalex.org/S4306400194",
+            "display_name": "arXiv (Cornell University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I205783295",
+            "host_organization_name": "Cornell University",
+            "host_organization_lineage": [
+              "https://openalex.org/I205783295"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "text"
+        },
+        {
+          "id": "doi:10.48550/arxiv.2306.09648",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.48550/arxiv.2306.09648",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400194",
+            "display_name": "arXiv (Cornell University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I205783295",
+            "host_organization_name": "Cornell University",
+            "host_organization_lineage": [
+              "https://openalex.org/I205783295"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:arXiv.org:2306.09648",
+        "is_oa": true,
+        "landing_page_url": "http://arxiv.org/abs/2306.09648",
+        "pdf_url": "https://arxiv.org/pdf/2306.09648",
+        "source": {
+          "id": "https://openalex.org/S4306400194",
+          "display_name": "arXiv (Cornell University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I205783295",
+          "host_organization_name": "Cornell University",
+          "host_organization_lineage": [
+            "https://openalex.org/I205783295"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "text"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/10",
+          "display_name": "Reduced inequalities"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W1557607869",
+        "https://openalex.org/W2366350639",
+        "https://openalex.org/W4226493464",
+        "https://openalex.org/W4312417841",
+        "https://openalex.org/W3193565141",
+        "https://openalex.org/W3133861977",
+        "https://openalex.org/W2951211570",
+        "https://openalex.org/W3167935049",
+        "https://openalex.org/W3103566983",
+        "https://openalex.org/W3029198973"
+      ],
+      "abstract_inverted_index": {
+        "Deep-learning-based": [
+          0
+        ],
+        "surrogate": [
+          1,
+          37
+        ],
+        "models": [
+          2,
+          38
+        ],
+        "provide": [
+          3
+        ],
+        "an": [
+          4
+        ],
+        "efficient": [
+          5
+        ],
+        "complement": [
+          6
+        ],
+        "to": [
+          7,
+          82,
+          130,
+          144,
+          167
+        ],
+        "numerical": [
+          8
+        ],
+        "simulations": [
+          9
+        ],
+        "for": [
+          10,
+          32
+        ],
+        "subsurface": [
+          11,
+          172
+        ],
+        "flow": [
+          12,
+          173
+        ],
+        "problems": [
+          13
+        ],
+        "such": [
+          14
+        ],
+        "as": [
+          15
+        ],
+        "CO$_2$": [
+          16,
+          26
+        ],
+        "geological": [
+          17
+        ],
+        "storage.": [
+          18
+        ],
+        "Accurately": [
+          19
+        ],
+        "capturing": [
+          20
+        ],
+        "the": [
+          21,
+          61,
+          101,
+          131,
+          138,
+          156,
+          162
+        ],
+        "impact": [
+          22
+        ],
+        "of": [
+          23,
+          63,
+          104,
+          141,
+          164
+        ],
+        "faults": [
+          24,
+          176
+        ],
+        "on": [
+          25,
+          40,
+          84
+        ],
+        "plume": [
+          27
+        ],
+        "migration": [
+          28
+        ],
+        "remains": [
+          29
+        ],
+        "a": [
+          30,
+          53,
+          76,
+          111,
+          120,
+          124
+        ],
+        "challenge": [
+          31,
+          51
+        ],
+        "many": [
+          33
+        ],
+        "existing": [
+          34
+        ],
+        "deep": [
+          35
+        ],
+        "learning": [
+          36
+        ],
+        "based": [
+          39
+        ],
+        "Convolutional": [
+          41
+        ],
+        "Neural": [
+          42,
+          46,
+          65
+        ],
+        "Networks": [
+          43,
+          66
+        ],
+        "(CNNs)": [
+          44
+        ],
+        "or": [
+          45
+        ],
+        "Operators.": [
+          47
+        ],
+        "We": [
+          48,
+          93,
+          135
+        ],
+        "address": [
+          49
+        ],
+        "this": [
+          50
+        ],
+        "with": [
+          52,
+          75,
+          114,
+          174
+        ],
+        "graph-based": [
+          54,
+          71
+        ],
+        "neural": [
+          55
+        ],
+        "model": [
+          56,
+          69,
+          171
+        ],
+        "leveraging": [
+          57
+        ],
+        "recent": [
+          58
+        ],
+        "developments": [
+          59
+        ],
+        "in": [
+          60,
+          110,
+          155
+        ],
+        "field": [
+          62
+        ],
+        "Graph": [
+          64
+        ],
+        "(GNNs).": [
+          67
+        ],
+        "Our": [
+          68,
+          117
+        ],
+        "combines": [
+          70
+        ],
+        "convolution": [
+          72
+        ],
+        "Long-Short-Term-Memory": [
+          73
+        ],
+        "(GConvLSTM)": [
+          74
+        ],
+        "one-step": [
+          77
+        ],
+        "GNN": [
+          78
+        ],
+        "model,": [
+          79
+        ],
+        "MeshGraphNet": [
+          80
+        ],
+        "(MGN),": [
+          81
+        ],
+        "operate": [
+          83
+        ],
+        "complex": [
+          85,
+          175
+        ],
+        "unstructured": [
+          86
+        ],
+        "meshes": [
+          87
+        ],
+        "and": [
+          88,
+          107,
+          123,
+          149,
+          169,
+          177
+        ],
+        "limit": [
+          89
+        ],
+        "temporal": [
+          90,
+          102,
+          126
+        ],
+        "error": [
+          91,
+          127
+        ],
+        "accumulation.": [
+          92
+        ],
+        "demonstrate": [
+          94
+        ],
+        "that": [
+          95
+        ],
+        "our": [
+          96,
+          142
+        ],
+        "approach": [
+          97
+        ],
+        "can": [
+          98
+        ],
+        "accurately": [
+          99,
+          168
+        ],
+        "predict": [
+          100
+        ],
+        "evolution": [
+          103
+        ],
+        "gas": [
+          105
+        ],
+        "saturation": [
+          106
+        ],
+        "pore": [
+          108
+        ],
+        "pressure": [
+          109
+        ],
+        "synthetic": [
+          112
+        ],
+        "reservoir": [
+          113
+        ],
+        "impermeable": [
+          115
+        ],
+        "faults.": [
+          116
+        ],
+        "results": [
+          118
+        ],
+        "exhibit": [
+          119
+        ],
+        "better": [
+          121
+        ],
+        "accuracy": [
+          122
+        ],
+        "reduced": [
+          125
+        ],
+        "accumulation": [
+          128
+        ],
+        "compared": [
+          129
+        ],
+        "standard": [
+          132
+        ],
+        "MGN": [
+          133
+        ],
+        "model.": [
+          134
+        ],
+        "also": [
+          136
+        ],
+        "show": [
+          137
+        ],
+        "excellent": [
+          139
+        ],
+        "generalizability": [
+          140
+        ],
+        "algorithm": [
+          143
+        ],
+        "mesh": [
+          145
+        ],
+        "configurations,": [
+          146
+        ],
+        "boundary": [
+          147
+        ],
+        "conditions,": [
+          148
+        ],
+        "heterogeneous": [
+          150
+        ],
+        "permeability": [
+          151
+        ],
+        "fields": [
+          152
+        ],
+        "not": [
+          153
+        ],
+        "included": [
+          154
+        ],
+        "training": [
+          157
+        ],
+        "set.": [
+          158
+        ],
+        "This": [
+          159
+        ],
+        "work": [
+          160
+        ],
+        "highlights": [
+          161
+        ],
+        "potential": [
+          163
+        ],
+        "GNN-based": [
+          165
+        ],
+        "methods": [
+          166
+        ],
+        "rapidly": [
+          170
+        ],
+        "fractures.": [
+          178
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 6
+        }
+      ],
+      "updated_date": "2025-11-06T06:51:31.235846",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4389725159",
+      "doi": "https://doi.org/10.1190/image2023-3905116.1",
+      "title": "Spatial statistical analysis and geomodelling of banana holes using point patterns and generative adversarial networks",
+      "display_name": "Spatial statistical analysis and geomodelling of banana holes using point patterns and generative adversarial networks",
+      "publication_year": 2023,
+      "publication_date": "2023-12-14",
+      "ids": {
+        "openalex": "https://openalex.org/W4389725159",
+        "doi": "https://doi.org/10.1190/image2023-3905116.1"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1190/image2023-3905116.1",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1190/image2023-3905116.1",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Third International Meeting for Applied Geoscience &amp; Energy Expanded Abstracts",
+        "raw_type": "proceedings-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5071165005",
+            "display_name": "Rayan Kanfar",
+            "orcid": "https://orcid.org/0000-0003-4321-5573"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rayan Kanfar",
+          "raw_affiliation_strings": [
+            "Stanford University;"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Stanford University;",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5058656075",
+            "display_name": "Charles Breithaupt",
+            "orcid": "https://orcid.org/0000-0003-2762-6778"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210101890",
+              "display_name": "ExxonMobil (Germany)",
+              "ror": "https://ror.org/017qypp02",
+              "country_code": "DE",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210101890",
+                "https://openalex.org/I923382979"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Charles Breithaupt",
+          "raw_affiliation_strings": [
+            "ExxonMobil"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "ExxonMobil",
+              "institution_ids": [
+                "https://openalex.org/I4210101890"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5013088513",
+            "display_name": "Tapan Mukerji",
+            "orcid": "https://orcid.org/0000-0003-1711-1850"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tapan Mukerji",
+          "raw_affiliation_strings": [
+            "Stanford University;"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Stanford University;",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.31958763,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "34",
+        "issue": null,
+        "first_page": "1044",
+        "last_page": "1048"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11211",
+        "display_name": "3D Surveying and Cultural Heritage",
+        "score": 0.996399998664856,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11211",
+          "display_name": "3D Surveying and Cultural Heritage",
+          "score": 0.996399998664856,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10535",
+          "display_name": "Landslides and related hazards",
+          "score": 0.9840999841690063,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2308",
+            "display_name": "Management, Monitoring, Policy and Law"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14339",
+          "display_name": "Image Processing and 3D Reconstruction",
+          "score": 0.9760000109672546,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1707",
+            "display_name": "Computer Vision and Pattern Recognition"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/generative-grammar",
+          "display_name": "Generative grammar",
+          "score": 0.6580716371536255
+        },
+        {
+          "id": "https://openalex.org/keywords/cave",
+          "display_name": "Cave",
+          "score": 0.6527528166770935
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.5864328742027283
+        },
+        {
+          "id": "https://openalex.org/keywords/point",
+          "display_name": "Point (geometry)",
+          "score": 0.5693967342376709
+        },
+        {
+          "id": "https://openalex.org/keywords/statistical-analysis",
+          "display_name": "Statistical analysis",
+          "score": 0.45295393466949463
+        },
+        {
+          "id": "https://openalex.org/keywords/statistical-model",
+          "display_name": "Statistical model",
+          "score": 0.4324409067630768
+        },
+        {
+          "id": "https://openalex.org/keywords/adversarial-system",
+          "display_name": "Adversarial system",
+          "score": 0.4289611577987671
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.3683755397796631
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.24109655618667603
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.20703694224357605
+        },
+        {
+          "id": "https://openalex.org/keywords/statistics",
+          "display_name": "Statistics",
+          "score": 0.19283217191696167
+        },
+        {
+          "id": "https://openalex.org/keywords/geometry",
+          "display_name": "Geometry",
+          "score": 0.12552306056022644
+        },
+        {
+          "id": "https://openalex.org/keywords/archaeology",
+          "display_name": "Archaeology",
+          "score": 0.11286497116088867
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C39890363",
+          "wikidata": "https://www.wikidata.org/wiki/Q36108",
+          "display_name": "Generative grammar",
+          "level": 2,
+          "score": 0.6580716371536255
+        },
+        {
+          "id": "https://openalex.org/C171878925",
+          "wikidata": "https://www.wikidata.org/wiki/Q35509",
+          "display_name": "Cave",
+          "level": 2,
+          "score": 0.6527528166770935
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.5864328742027283
+        },
+        {
+          "id": "https://openalex.org/C28719098",
+          "wikidata": "https://www.wikidata.org/wiki/Q44946",
+          "display_name": "Point (geometry)",
+          "level": 2,
+          "score": 0.5693967342376709
+        },
+        {
+          "id": "https://openalex.org/C2986587452",
+          "wikidata": "https://www.wikidata.org/wiki/Q938438",
+          "display_name": "Statistical analysis",
+          "level": 2,
+          "score": 0.45295393466949463
+        },
+        {
+          "id": "https://openalex.org/C114289077",
+          "wikidata": "https://www.wikidata.org/wiki/Q3284399",
+          "display_name": "Statistical model",
+          "level": 2,
+          "score": 0.4324409067630768
+        },
+        {
+          "id": "https://openalex.org/C37736160",
+          "wikidata": "https://www.wikidata.org/wiki/Q1801315",
+          "display_name": "Adversarial system",
+          "level": 2,
+          "score": 0.4289611577987671
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.3683755397796631
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.24109655618667603
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.20703694224357605
+        },
+        {
+          "id": "https://openalex.org/C105795698",
+          "wikidata": "https://www.wikidata.org/wiki/Q12483",
+          "display_name": "Statistics",
+          "level": 1,
+          "score": 0.19283217191696167
+        },
+        {
+          "id": "https://openalex.org/C2524010",
+          "wikidata": "https://www.wikidata.org/wiki/Q8087",
+          "display_name": "Geometry",
+          "level": 1,
+          "score": 0.12552306056022644
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.11286497116088867
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1190/image2023-3905116.1",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1190/image2023-3905116.1",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Third International Meeting for Applied Geoscience &amp; Energy Expanded Abstracts",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "referenced_works_count": 12,
+      "referenced_works": [
+        "https://openalex.org/W1523068772",
+        "https://openalex.org/W4250310729",
+        "https://openalex.org/W3209996675",
+        "https://openalex.org/W3135021415",
+        "https://openalex.org/W2884975835",
+        "https://openalex.org/W128839062",
+        "https://openalex.org/W3107209249",
+        "https://openalex.org/W4285093386",
+        "https://openalex.org/W2948893225",
+        "https://openalex.org/W2559655401",
+        "https://openalex.org/W2612690371",
+        "https://openalex.org/W2999905431"
+      ],
+      "related_works": [
+        "https://openalex.org/W2350702655",
+        "https://openalex.org/W2319685803",
+        "https://openalex.org/W2026012944",
+        "https://openalex.org/W2359486277",
+        "https://openalex.org/W2289334277",
+        "https://openalex.org/W2785984867",
+        "https://openalex.org/W2355334280",
+        "https://openalex.org/W3122113541",
+        "https://openalex.org/W3123376079",
+        "https://openalex.org/W2062963425"
+      ],
+      "abstract_inverted_index": {
+        "Banana": [
+          0
+        ],
+        "hole": [
+          1,
+          76
+        ],
+        "cave": [
+          2
+        ],
+        "systems": [
+          3
+        ],
+        "can": [
+          4
+        ],
+        "be": [
+          5,
+          8,
+          15
+        ],
+        "reservoirs": [
+          6
+        ],
+        "to": [
+          7,
+          14,
+          52,
+          61,
+          89
+        ],
+        "targeted,": [
+          9
+        ],
+        "or": [
+          10,
+          32,
+          35
+        ],
+        "near-surface": [
+          11
+        ],
+        "drilling": [
+          12
+        ],
+        "hazards": [
+          13
+        ],
+        "avoided.": [
+          16
+        ],
+        "Modeling": [
+          17
+        ],
+        "the": [
+          18,
+          55,
+          81
+        ],
+        "spatial": [
+          19,
+          39
+        ],
+        "uncertainty": [
+          20
+        ],
+        "of": [
+          21,
+          57,
+          65,
+          80
+        ],
+        "these": [
+          22
+        ],
+        "caves": [
+          23
+        ],
+        "is": [
+          24,
+          42,
+          50
+        ],
+        "critical": [
+          25
+        ],
+        "for": [
+          26,
+          29,
+          74
+        ],
+        "developing": [
+          27
+        ],
+        "strategies": [
+          28
+        ],
+        "well": [
+          30
+        ],
+        "placement,": [
+          31
+        ],
+        "resource": [
+          33
+        ],
+        "production": [
+          34
+        ],
+        "storage.": [
+          36
+        ],
+        "First,": [
+          37
+        ],
+        "a": [
+          38,
+          63
+        ],
+        "statistical": [
+          40,
+          66
+        ],
+        "analysis": [
+          41,
+          49
+        ],
+        "performed": [
+          43
+        ],
+        "on": [
+          44
+        ],
+        "observed": [
+          45,
+          90
+        ],
+        "banana": [
+          46,
+          58,
+          75
+        ],
+        "holes.": [
+          47
+        ],
+        "This": [
+          48
+        ],
+        "done": [
+          51
+        ],
+        "better": [
+          53
+        ],
+        "understand": [
+          54
+        ],
+        "morphology": [
+          56
+        ],
+        "holes": [
+          59
+        ],
+        "and": [
+          60
+        ],
+        "create": [
+          62
+        ],
+        "reference": [
+          64
+        ],
+        "metrics.": [
+          67
+        ],
+        "Secondly,": [
+          68
+        ],
+        "deep": [
+          69
+        ],
+        "generative": [
+          70
+        ],
+        "models": [
+          71,
+          82
+        ],
+        "are": [
+          72,
+          83
+        ],
+        "explored": [
+          73
+        ],
+        "simulation.": [
+          77
+        ],
+        "The": [
+          78
+        ],
+        "performance": [
+          79
+        ],
+        "evaluated": [
+          84
+        ],
+        "by": [
+          85
+        ],
+        "comparing": [
+          86
+        ],
+        "their": [
+          87
+        ],
+        "realizations": [
+          88
+        ],
+        "caves.": [
+          91
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4392187405",
+      "doi": "https://doi.org/10.2523/iptc-24209-ms",
+      "title": "Well Placement Optimization for Avoiding Caves Using GANs and POMDPs",
+      "display_name": "Well Placement Optimization for Avoiding Caves Using GANs and POMDPs",
+      "publication_year": 2024,
+      "publication_date": "2024-02-12",
+      "ids": {
+        "openalex": "https://openalex.org/W4392187405",
+        "doi": "https://doi.org/10.2523/iptc-24209-ms"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2523/iptc-24209-ms",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2523/iptc-24209-ms",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4363607700",
+          "display_name": "International Petroleum Technology Conference",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Petroleum Technology Conference",
+        "raw_type": "proceedings-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5071165005",
+            "display_name": "Rayan Kanfar",
+            "orcid": "https://orcid.org/0000-0003-4321-5573"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rayan Kanfar",
+          "raw_affiliation_strings": [
+            "Energy Science & Engineering, Stanford University, Stanford, CA, USA"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Energy Science & Engineering, Stanford University, Stanford, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5094009936",
+            "display_name": "Lama El Halabi",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Lama El Halabi",
+          "raw_affiliation_strings": [
+            "Energy Science & Engineering, Stanford University, Stanford, CA, USA"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Energy Science & Engineering, Stanford University, Stanford, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5017218301",
+            "display_name": "Tyler R. Hall",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1302918504",
+              "display_name": "Planetary Science Institute",
+              "ror": "https://ror.org/05vvg9554",
+              "country_code": "US",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I1302918504"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tyler Hall",
+          "raw_affiliation_strings": [
+            "Earth & Planetary Sciences, Stanford University, Stanford, CA, USA"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth & Planetary Sciences, Stanford University, Stanford, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1302918504",
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5013088513",
+            "display_name": "Tapan Mukerji",
+            "orcid": "https://orcid.org/0000-0003-1711-1850"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1302918504",
+              "display_name": "Planetary Science Institute",
+              "ror": "https://ror.org/05vvg9554",
+              "country_code": "US",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I1302918504"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tapan Mukerji",
+          "raw_affiliation_strings": [
+            "Energy Science & Engineering, Earth & Planetary Sciences, Geophysics, Stanford University, Stanford, CA, USA"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Energy Science & Engineering, Earth & Planetary Sciences, Geophysics, Stanford University, Stanford, CA, USA",
+              "institution_ids": [
+                "https://openalex.org/I1302918504",
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.08358896,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10892",
+        "display_name": "Drilling and Well Engineering",
+        "score": 0.9945999979972839,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2212",
+          "display_name": "Ocean Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10892",
+          "display_name": "Drilling and Well Engineering",
+          "score": 0.9945999979972839,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.9932000041007996,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11801",
+          "display_name": "Reservoir Engineering and Simulation Methods",
+          "score": 0.9904999732971191,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.747212290763855
+        },
+        {
+          "id": "https://openalex.org/keywords/cave",
+          "display_name": "Cave",
+          "score": 0.6511847972869873
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematical-optimization",
+          "display_name": "Mathematical optimization",
+          "score": 0.34591659903526306
+        },
+        {
+          "id": "https://openalex.org/keywords/archaeology",
+          "display_name": "Archaeology",
+          "score": 0.07815656065940857
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.07688289880752563
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.05849558115005493
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.747212290763855
+        },
+        {
+          "id": "https://openalex.org/C171878925",
+          "wikidata": "https://www.wikidata.org/wiki/Q35509",
+          "display_name": "Cave",
+          "level": 2,
+          "score": 0.6511847972869873
+        },
+        {
+          "id": "https://openalex.org/C126255220",
+          "wikidata": "https://www.wikidata.org/wiki/Q141495",
+          "display_name": "Mathematical optimization",
+          "level": 1,
+          "score": 0.34591659903526306
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.07815656065940857
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.07688289880752563
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.05849558115005493
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2523/iptc-24209-ms",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.2523/iptc-24209-ms",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4363607700",
+            "display_name": "International Petroleum Technology Conference",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Petroleum Technology Conference",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "referenced_works_count": 22,
+      "referenced_works": [
+        "https://openalex.org/W1523068772",
+        "https://openalex.org/W3209996675",
+        "https://openalex.org/W3135021415",
+        "https://openalex.org/W6847101832",
+        "https://openalex.org/W2765811365",
+        "https://openalex.org/W6745560452",
+        "https://openalex.org/W6631190155",
+        "https://openalex.org/W3148740559",
+        "https://openalex.org/W7026488684",
+        "https://openalex.org/W1903029394",
+        "https://openalex.org/W6735913928",
+        "https://openalex.org/W2968389948",
+        "https://openalex.org/W4315498900",
+        "https://openalex.org/W6794190785",
+        "https://openalex.org/W2156770446",
+        "https://openalex.org/W4283771424",
+        "https://openalex.org/W1522301498",
+        "https://openalex.org/W4310632623",
+        "https://openalex.org/W4294643831",
+        "https://openalex.org/W2612690371",
+        "https://openalex.org/W3153319639",
+        "https://openalex.org/W2954742730"
+      ],
+      "related_works": [
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2901299260",
+        "https://openalex.org/W3142762518",
+        "https://openalex.org/W2188726033",
+        "https://openalex.org/W1909979144",
+        "https://openalex.org/W2809961252",
+        "https://openalex.org/W3036687156",
+        "https://openalex.org/W2367117503",
+        "https://openalex.org/W3010770177",
+        "https://openalex.org/W2014725245"
+      ],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "Exploration": [
+          1
+        ],
+        "for": [
+          2,
+          86,
+          145,
+          163
+        ],
+        "subsurface": [
+          3
+        ],
+        "resources,": [
+          4
+        ],
+        "such": [
+          5
+        ],
+        "as": [
+          6,
+          40,
+          79,
+          104
+        ],
+        "groundwater": [
+          7
+        ],
+        "and": [
+          8,
+          25,
+          64,
+          84,
+          135,
+          179
+        ],
+        "hydrocarbons,": [
+          9
+        ],
+        "involves": [
+          10
+        ],
+        "a": [
+          11,
+          80,
+          105,
+          119,
+          132,
+          146,
+          170
+        ],
+        "high": [
+          12
+        ],
+        "degree": [
+          13
+        ],
+        "of": [
+          14,
+          22,
+          28,
+          47,
+          67,
+          71,
+          97,
+          117,
+          172,
+          183
+        ],
+        "uncertainty.": [
+          15
+        ],
+        "This": [
+          16
+        ],
+        "is": [
+          17,
+          31,
+          74,
+          123,
+          128,
+          157,
+          166
+        ],
+        "because": [
+          18
+        ],
+        "the": [
+          19,
+          26,
+          101,
+          114,
+          152,
+          181
+        ],
+        "spatial": [
+          20,
+          115
+        ],
+        "distribution": [
+          21
+        ],
+        "targeted": [
+          23,
+          44
+        ],
+        "resources": [
+          24
+        ],
+        "geology": [
+          27
+        ],
+        "their": [
+          29
+        ],
+        "overburden": [
+          30
+        ],
+        "largely": [
+          32
+        ],
+        "unknown.": [
+          33
+        ],
+        "In": [
+          34
+        ],
+        "some": [
+          35
+        ],
+        "areas,": [
+          36
+        ],
+        "eogenetic": [
+          37
+        ],
+        "caves": [
+          38,
+          53,
+          178
+        ],
+        "known": [
+          39
+        ],
+        "banana": [
+          41
+        ],
+        "holes": [
+          42
+        ],
+        "overlay": [
+          43
+        ],
+        "resources.": [
+          45
+        ],
+        "Because": [
+          46
+        ],
+        "pressure": [
+          48
+        ],
+        "loss,": [
+          49
+        ],
+        "drilling": [
+          50,
+          93,
+          150,
+          176
+        ],
+        "into": [
+          51,
+          94,
+          177
+        ],
+        "these": [
+          52,
+          95
+        ],
+        "causes": [
+          54
+        ],
+        "operational": [
+          55
+        ],
+        "hazards": [
+          56
+        ],
+        "that": [
+          57,
+          91,
+          148,
+          174
+        ],
+        "lead": [
+          58
+        ],
+        "to": [
+          59,
+          75,
+          168
+        ],
+        "project": [
+          60
+        ],
+        "delays,": [
+          61
+        ],
+        "well": [
+          62,
+          77,
+          164
+        ],
+        "abandonment,": [
+          63
+        ],
+        "even": [
+          65
+        ],
+        "loss": [
+          66
+        ],
+        "life.": [
+          68
+        ],
+        "The": [
+          69,
+          125,
+          159
+        ],
+        "goal": [
+          70
+        ],
+        "this": [
+          72,
+          186
+        ],
+        "paper": [
+          73
+        ],
+        "formulate": [
+          76,
+          100
+        ],
+        "placement": [
+          78,
+          165
+        ],
+        "sequential": [
+          81,
+          161
+        ],
+        "decision-making": [
+          82
+        ],
+        "problem": [
+          83,
+          103
+        ],
+        "solve": [
+          85,
+          144
+        ],
+        "an": [
+          87
+        ],
+        "artificially": [
+          88
+        ],
+        "intelligent": [
+          89
+        ],
+        "agent": [
+          90
+        ],
+        "avoids": [
+          92,
+          175
+        ],
+        "types": [
+          96
+        ],
+        "caves.": [
+          98
+        ],
+        "We": [
+          99
+        ],
+        "decision": [
+          102,
+          109
+        ],
+        "partially": [
+          106
+        ],
+        "observable": [
+          107
+        ],
+        "Markov": [
+          108
+        ],
+        "process": [
+          110
+        ],
+        "(POMDP).": [
+          111
+        ],
+        "To": [
+          112,
+          143
+        ],
+        "model": [
+          113,
+          127
+        ],
+        "uncertainty": [
+          116
+        ],
+        "caves,": [
+          118
+        ],
+        "Generative": [
+          120
+        ],
+        "Adversarial": [
+          121
+        ],
+        "Network": [
+          122
+        ],
+        "used.": [
+          124
+        ],
+        "generative": [
+          126
+        ],
+        "trained": [
+          129
+        ],
+        "based": [
+          130
+        ],
+        "on": [
+          131
+        ],
+        "Light": [
+          133
+        ],
+        "Detection": [
+          134
+        ],
+        "Ranging": [
+          136
+        ],
+        "survey": [
+          137
+        ],
+        "from": [
+          138
+        ],
+        "San": [
+          139
+        ],
+        "Salvador": [
+          140
+        ],
+        "Island,": [
+          141
+        ],
+        "Bahamas.": [
+          142
+        ],
+        "policy": [
+          147
+        ],
+        "recommends": [
+          149
+        ],
+        "actions,": [
+          151
+        ],
+        "Fast": [
+          153
+        ],
+        "Informed": [
+          154
+        ],
+        "Bound": [
+          155
+        ],
+        "algorithm": [
+          156
+        ],
+        "explored.": [
+          158
+        ],
+        "proposed": [
+          160
+        ],
+        "approach": [
+          162
+        ],
+        "shown": [
+          167
+        ],
+        "recommend": [
+          169
+        ],
+        "sequence": [
+          171
+        ],
+        "actions": [
+          173
+        ],
+        "demonstrates": [
+          180
+        ],
+        "potential": [
+          182
+        ],
+        "POMDPs": [
+          184
+        ],
+        "in": [
+          185
+        ],
+        "problem.": [
+          187
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4417279471",
+      "doi": "https://doi.org/10.1016/j.geoen.2025.214342",
+      "title": "Pix2Geomodel: A next-generation reservoir geomodeling with property-to-property translation",
+      "display_name": "Pix2Geomodel: A next-generation reservoir geomodeling with property-to-property translation",
+      "publication_year": 2025,
+      "publication_date": "2025-12-12",
+      "ids": {
+        "openalex": "https://openalex.org/W4417279471",
+        "doi": "https://doi.org/10.1016/j.geoen.2025.214342"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.geoen.2025.214342",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.geoen.2025.214342",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4387285440",
+          "display_name": "Geoenergy Science and Engineering",
+          "issn_l": "2949-8910",
+          "issn": [
+            "2949-8910"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geoenergy Science and Engineering",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1016/j.geoen.2025.214342",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5013827317",
+            "display_name": "Abdulrahman Al‐Fakih",
+            "orcid": "https://orcid.org/0000-0001-7583-768X"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulrahman Al-Fakih",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5059881838",
+            "display_name": "Ardiansyah Koeshidayatullah",
+            "orcid": "https://orcid.org/0000-0001-7558-8783"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Ardiansyah Koeshidayatullah",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5120786628",
+            "display_name": "Nabil A. Saraih",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Nabil A. Saraih",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5013088513",
+            "display_name": "Tapan Mukerji",
+            "orcid": "https://orcid.org/0000-0003-1711-1850"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Tapan Mukerji",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5071165005",
+            "display_name": "Rayan Kanfar",
+            "orcid": "https://orcid.org/0000-0003-4321-5573"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Rayan Kanfar",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5084495777",
+            "display_name": "Abdulmohsen Alali",
+            "orcid": "https://orcid.org/0000-0002-5128-992X"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulmohsen Alali",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5024607591",
+            "display_name": "SanLinn I. Kaka",
+            "orcid": "https://orcid.org/0000-0003-1229-4627"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "SanLinn I. Kaka",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 7,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": null,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": null,
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "258",
+        "issue": null,
+        "first_page": "214342",
+        "last_page": "214342"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": null,
+      "topics": [],
+      "keywords": [],
+      "concepts": [],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.geoen.2025.214342",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.geoen.2025.214342",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4387285440",
+            "display_name": "Geoenergy Science and Engineering",
+            "issn_l": "2949-8910",
+            "issn": [
+              "2949-8910"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geoenergy Science and Engineering",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.geoen.2025.214342",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.geoen.2025.214342",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4387285440",
+          "display_name": "Geoenergy Science and Engineering",
+          "issn_l": "2949-8910",
+          "issn": [
+            "2949-8910"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geoenergy Science and Engineering",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "referenced_works_count": 40,
+      "referenced_works": [
+        "https://openalex.org/W4307552158",
+        "https://openalex.org/W2995831381",
+        "https://openalex.org/W3025658083",
+        "https://openalex.org/W4386591428",
+        "https://openalex.org/W2539188151",
+        "https://openalex.org/W2147318572",
+        "https://openalex.org/W4401020179",
+        "https://openalex.org/W4405405236",
+        "https://openalex.org/W4224033008",
+        "https://openalex.org/W4406978626",
+        "https://openalex.org/W4391446371",
+        "https://openalex.org/W1622545880",
+        "https://openalex.org/W1968163704",
+        "https://openalex.org/W3003301247",
+        "https://openalex.org/W76334744",
+        "https://openalex.org/W3176392714",
+        "https://openalex.org/W4399865106",
+        "https://openalex.org/W2606759614",
+        "https://openalex.org/W4379112940",
+        "https://openalex.org/W3096679580",
+        "https://openalex.org/W3102406053",
+        "https://openalex.org/W4379233128",
+        "https://openalex.org/W2899283552",
+        "https://openalex.org/W4403707593",
+        "https://openalex.org/W4409288082",
+        "https://openalex.org/W2019969451",
+        "https://openalex.org/W2025160327",
+        "https://openalex.org/W3109916085",
+        "https://openalex.org/W4285093386",
+        "https://openalex.org/W4412972888",
+        "https://openalex.org/W4364375188",
+        "https://openalex.org/W1537810918",
+        "https://openalex.org/W4385490607",
+        "https://openalex.org/W2585033147",
+        "https://openalex.org/W4404093812",
+        "https://openalex.org/W4362728171",
+        "https://openalex.org/W3034660000",
+        "https://openalex.org/W4221055588",
+        "https://openalex.org/W2948893225",
+        "https://openalex.org/W4402963373"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": null,
+      "counts_by_year": [],
+      "updated_date": "2025-12-21T01:58:51.020947",
+      "created_date": "2025-12-12T00:00:00"
+    }
+  ]
+}
