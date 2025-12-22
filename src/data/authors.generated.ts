@@ -830,5 +830,77 @@ export const authors: AuthorRecord[] = [
     "totalPublications": 171,
     "totalCitations": 4621,
     "hIndex": 35
+  },
+  {
+    "authorId": "idb0045-abed-abdulkader",
+    "openAlexId": "A5102809672",
+    "openAlexIds": [
+      "A5102809672"
+    ],
+    "name": "Abdulkader Abed",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "aabed@ju.edu.jo",
+    "orcid": "",
+    "totalPublications": 60,
+    "totalCitations": 1556,
+    "hIndex": 24
+  },
+  {
+    "authorId": "idb0046-melvin-john",
+    "openAlexId": "A5103799444",
+    "openAlexIds": [
+      "A5103799444"
+    ],
+    "name": "John Melvin",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "john.melvin@aramco.com",
+    "orcid": "",
+    "totalPublications": 36,
+    "totalCitations": 696,
+    "hIndex": 13
+  },
+  {
+    "authorId": "idb0047-polo-camilo",
+    "openAlexId": "A5030587820",
+    "openAlexIds": [
+      "A5030587820"
+    ],
+    "name": "Camilo Polo",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "camilo.polocamacho@aramco.com",
+    "orcid": "",
+    "totalPublications": 9,
+    "totalCitations": 177,
+    "hIndex": 4
+  },
+  {
+    "authorId": "idb0048-al-hussaini-abdulkarim",
+    "openAlexId": "A5080748045",
+    "openAlexIds": [
+      "A5080748045"
+    ],
+    "name": "Abdulkarim Al-Hussaini",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "abdulkarim.alhussaini@gmail.com",
+    "orcid": "",
+    "totalPublications": 14,
+    "totalCitations": 95,
+    "hIndex": 7
   }
 ];

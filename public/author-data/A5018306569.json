@@ -382,6 +382,899 @@
   },
   "works": [
     {
+      "id": "https://openalex.org/W4388818709",
+      "doi": "https://doi.org/10.1038/s41598-023-47681-w",
+      "title": "Experimental and digital investigations of heterogeneity in lower cretaceous carbonate reservoir using fractal and multifractal concepts",
+      "display_name": "Experimental and digital investigations of heterogeneity in lower cretaceous carbonate reservoir using fractal and multifractal concepts",
+      "publication_year": 2023,
+      "publication_date": "2023-11-20",
+      "ids": {
+        "openalex": "https://openalex.org/W4388818709",
+        "doi": "https://doi.org/10.1038/s41598-023-47681-w",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/37985862"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1038/s41598-023-47681-w",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s41598-023-47681-w",
+        "pdf_url": "https://www.nature.com/articles/s41598-023-47681-w.pdf",
+        "source": {
+          "id": "https://openalex.org/S196734849",
+          "display_name": "Scientific Reports",
+          "issn_l": "2045-2322",
+          "issn": [
+            "2045-2322"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Scientific Reports",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41598-023-47681-w.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5009481606",
+            "display_name": "Mohamed Soufiane Jouini",
+            "orcid": "https://orcid.org/0000-0001-9741-0636"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Mohamed Soufiane Jouini",
+          "raw_affiliation_strings": [
+            "Department of Mathematics, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Mathematics, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5081766026",
+            "display_name": "Abdulquadri O. Alabere",
+            "orcid": "https://orcid.org/0000-0002-1015-1094"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulquadri O. Alabere",
+          "raw_affiliation_strings": [
+            "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5018306569",
+            "display_name": "Mohammad Alsuwaidi",
+            "orcid": "https://orcid.org/0000-0002-2477-0654"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammad Alsuwaidi",
+          "raw_affiliation_strings": [
+            "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5057027693",
+            "display_name": "S. Morad",
+            "orcid": "https://orcid.org/0000-0002-8214-0896"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97699614",
+              "display_name": "Abu Dhabi National Oil (United Arab Emirates)",
+              "ror": "https://ror.org/010e8pt90",
+              "country_code": "AE",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I97699614"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sadoon Morad",
+          "raw_affiliation_strings": [
+            "Sukhoor Consulting Company, Abu Dhabi, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Sukhoor Consulting Company, Abu Dhabi, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I97699614"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5055256846",
+            "display_name": "Fateh Bouchaala",
+            "orcid": "https://orcid.org/0000-0003-2368-3302"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Fateh Bouchaala",
+          "raw_affiliation_strings": [
+            "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5052331702",
+            "display_name": "Osama Al Jallad",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Osama A. Al Jallad",
+          "raw_affiliation_strings": [
+            "Halliburton Service in the Middle East and Asia Pacific Areas, P.O. Box 57, Abu Dhabi, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Halliburton Service in the Middle East and Asia Pacific Areas, P.O. Box 57, Abu Dhabi, United Arab Emirates",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 6,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5009481606"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I176601375"
+      ],
+      "apc_list": {
+        "value": 1890,
+        "currency": "EUR",
+        "value_usd": 2190
+      },
+      "apc_paid": {
+        "value": 1890,
+        "currency": "EUR",
+        "value_usd": 2190
+      },
+      "fwci": 4.85154039,
+      "has_fulltext": true,
+      "cited_by_count": 21,
+      "citation_normalized_percentile": {
+        "value": 0.951438,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "13",
+        "issue": "1",
+        "first_page": "20306",
+        "last_page": "20306"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.9993000030517578,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9993000030517578,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12157",
+          "display_name": "Geochemistry and Geologic Mapping",
+          "score": 0.9936000108718872,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10635",
+          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+          "score": 0.9889000058174133,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/multifractal-system",
+          "display_name": "Multifractal system",
+          "score": 0.9286099076271057
+        },
+        {
+          "id": "https://openalex.org/keywords/fractal",
+          "display_name": "Fractal",
+          "score": 0.7389077544212341
+        },
+        {
+          "id": "https://openalex.org/keywords/asymmetry",
+          "display_name": "Asymmetry",
+          "score": 0.6145306825637817
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.5567907691001892
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.5203472971916199
+        },
+        {
+          "id": "https://openalex.org/keywords/homogeneous",
+          "display_name": "Homogeneous",
+          "score": 0.5143010020256042
+        },
+        {
+          "id": "https://openalex.org/keywords/porosity",
+          "display_name": "Porosity",
+          "score": 0.47131162881851196
+        },
+        {
+          "id": "https://openalex.org/keywords/degree",
+          "display_name": "Degree (music)",
+          "score": 0.46250292658805847
+        },
+        {
+          "id": "https://openalex.org/keywords/fractal-dimension",
+          "display_name": "Fractal dimension",
+          "score": 0.44086721539497375
+        },
+        {
+          "id": "https://openalex.org/keywords/petrophysics",
+          "display_name": "Petrophysics",
+          "score": 0.4179680347442627
+        },
+        {
+          "id": "https://openalex.org/keywords/mineralogy",
+          "display_name": "Mineralogy",
+          "score": 0.41633471846580505
+        },
+        {
+          "id": "https://openalex.org/keywords/materials-science",
+          "display_name": "Materials science",
+          "score": 0.2910078465938568
+        },
+        {
+          "id": "https://openalex.org/keywords/statistical-physics",
+          "display_name": "Statistical physics",
+          "score": 0.286461740732193
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.2377966046333313
+        },
+        {
+          "id": "https://openalex.org/keywords/geotechnical-engineering",
+          "display_name": "Geotechnical engineering",
+          "score": 0.19567078351974487
+        },
+        {
+          "id": "https://openalex.org/keywords/physics",
+          "display_name": "Physics",
+          "score": 0.11419850587844849
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematical-analysis",
+          "display_name": "Mathematical analysis",
+          "score": 0.0755455493927002
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C133905733",
+          "wikidata": "https://www.wikidata.org/wiki/Q2629238",
+          "display_name": "Multifractal system",
+          "level": 3,
+          "score": 0.9286099076271057
+        },
+        {
+          "id": "https://openalex.org/C40636538",
+          "wikidata": "https://www.wikidata.org/wiki/Q81392",
+          "display_name": "Fractal",
+          "level": 2,
+          "score": 0.7389077544212341
+        },
+        {
+          "id": "https://openalex.org/C38976095",
+          "wikidata": "https://www.wikidata.org/wiki/Q752641",
+          "display_name": "Asymmetry",
+          "level": 2,
+          "score": 0.6145306825637817
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5567907691001892
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.5203472971916199
+        },
+        {
+          "id": "https://openalex.org/C66882249",
+          "wikidata": "https://www.wikidata.org/wiki/Q169336",
+          "display_name": "Homogeneous",
+          "level": 2,
+          "score": 0.5143010020256042
+        },
+        {
+          "id": "https://openalex.org/C6648577",
+          "wikidata": "https://www.wikidata.org/wiki/Q622669",
+          "display_name": "Porosity",
+          "level": 2,
+          "score": 0.47131162881851196
+        },
+        {
+          "id": "https://openalex.org/C2775997480",
+          "wikidata": "https://www.wikidata.org/wiki/Q586277",
+          "display_name": "Degree (music)",
+          "level": 2,
+          "score": 0.46250292658805847
+        },
+        {
+          "id": "https://openalex.org/C26546657",
+          "wikidata": "https://www.wikidata.org/wiki/Q1412452",
+          "display_name": "Fractal dimension",
+          "level": 3,
+          "score": 0.44086721539497375
+        },
+        {
+          "id": "https://openalex.org/C46293882",
+          "wikidata": "https://www.wikidata.org/wiki/Q2080707",
+          "display_name": "Petrophysics",
+          "level": 3,
+          "score": 0.4179680347442627
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.41633471846580505
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.2910078465938568
+        },
+        {
+          "id": "https://openalex.org/C121864883",
+          "wikidata": "https://www.wikidata.org/wiki/Q677916",
+          "display_name": "Statistical physics",
+          "level": 1,
+          "score": 0.286461740732193
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.2377966046333313
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.19567078351974487
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.11419850587844849
+        },
+        {
+          "id": "https://openalex.org/C134306372",
+          "wikidata": "https://www.wikidata.org/wiki/Q7754",
+          "display_name": "Mathematical analysis",
+          "level": 1,
+          "score": 0.0755455493927002
+        },
+        {
+          "id": "https://openalex.org/C191897082",
+          "wikidata": "https://www.wikidata.org/wiki/Q11467",
+          "display_name": "Metallurgy",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C24890656",
+          "wikidata": "https://www.wikidata.org/wiki/Q82811",
+          "display_name": "Acoustics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C62520636",
+          "wikidata": "https://www.wikidata.org/wiki/Q944",
+          "display_name": "Quantum mechanics",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 5,
+      "locations": [
+        {
+          "id": "doi:10.1038/s41598-023-47681-w",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1038/s41598-023-47681-w",
+          "pdf_url": "https://www.nature.com/articles/s41598-023-47681-w.pdf",
+          "source": {
+            "id": "https://openalex.org/S196734849",
+            "display_name": "Scientific Reports",
+            "issn_l": "2045-2322",
+            "issn": [
+              "2045-2322"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319908",
+            "host_organization_name": "Nature Portfolio",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319908",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Nature Portfolio",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Scientific Reports",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:37985862",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37985862",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Scientific reports",
+          "raw_type": null
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:10661854",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10661854",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10661854/pdf/41598_2023_Article_47681.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Sci Rep",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:aff794d49607408ab50183c593039556",
+          "is_oa": false,
+          "landing_page_url": "https://doaj.org/article/aff794d49607408ab50183c593039556",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Scientific Reports, Vol 13, Iss 1, Pp 1-18 (2023)",
+          "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:pure.atira.dk:openaire_cris_publications/56797ad0-e787-4dc8-b073-6b4e03b6c566",
+          "is_oa": true,
+          "landing_page_url": "https://research.manchester.ac.uk/en/publications/56797ad0-e787-4dc8-b073-6b4e03b6c566",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400216",
+            "display_name": "Research Portal (King's College London)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I183935753",
+            "host_organization_name": "King's College London",
+            "host_organization_lineage": [
+              "https://openalex.org/I183935753"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Jouini, M S, Alabere, A O, Alsuwaidi, M, Morad, S, Bouchaala, F & Jallad, O A A 2023, 'Experimental and digital investigations of heterogeneity in lower cretaceous carbonate reservoir using fractal and multifractal concepts', Scientific Reports, vol. 13, 20306. https://doi.org/10.1038/s41598-023-47681-w",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1038/s41598-023-47681-w",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s41598-023-47681-w",
+        "pdf_url": "https://www.nature.com/articles/s41598-023-47681-w.pdf",
+        "source": {
+          "id": "https://openalex.org/S196734849",
+          "display_name": "Scientific Reports",
+          "issn_l": "2045-2322",
+          "issn": [
+            "2045-2322"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Scientific Reports",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.4399999976158142,
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "awards": [
+        {
+          "id": "https://openalex.org/G3057190137",
+          "display_name": null,
+          "funder_award_id": "FSU-2018-15",
+          "funder_id": "https://openalex.org/F4320322334",
+          "funder_display_name": "Khalifa University of Science, Technology and Research"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322334",
+          "display_name": "Khalifa University of Science, Technology and Research",
+          "ror": "https://ror.org/05hffr360"
+        }
+      ],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": false
+      },
+      "referenced_works_count": 47,
+      "referenced_works": [
+        "https://openalex.org/W2975842830",
+        "https://openalex.org/W4304587298",
+        "https://openalex.org/W2410565284",
+        "https://openalex.org/W2204769636",
+        "https://openalex.org/W2790137210",
+        "https://openalex.org/W3020718863",
+        "https://openalex.org/W2161798353",
+        "https://openalex.org/W2087249367",
+        "https://openalex.org/W2014528666",
+        "https://openalex.org/W1993853487",
+        "https://openalex.org/W2081123418",
+        "https://openalex.org/W2469086254",
+        "https://openalex.org/W2790154322",
+        "https://openalex.org/W2793922815",
+        "https://openalex.org/W2932246467",
+        "https://openalex.org/W2898847284",
+        "https://openalex.org/W3138895946",
+        "https://openalex.org/W2056986895",
+        "https://openalex.org/W2086419538",
+        "https://openalex.org/W2996650103",
+        "https://openalex.org/W3136453206",
+        "https://openalex.org/W2069863015",
+        "https://openalex.org/W2107172822",
+        "https://openalex.org/W2056915518",
+        "https://openalex.org/W2190108466",
+        "https://openalex.org/W2283921210",
+        "https://openalex.org/W3037512035",
+        "https://openalex.org/W4285261085",
+        "https://openalex.org/W4297548907",
+        "https://openalex.org/W2075375541",
+        "https://openalex.org/W2049660106",
+        "https://openalex.org/W2799806568",
+        "https://openalex.org/W2921239033",
+        "https://openalex.org/W4321243202",
+        "https://openalex.org/W4324044724",
+        "https://openalex.org/W4280592644",
+        "https://openalex.org/W2896601881",
+        "https://openalex.org/W2040705841",
+        "https://openalex.org/W2034939275",
+        "https://openalex.org/W2012842247",
+        "https://openalex.org/W1981090047",
+        "https://openalex.org/W2078206416",
+        "https://openalex.org/W2290720069",
+        "https://openalex.org/W2072736531",
+        "https://openalex.org/W2006311131",
+        "https://openalex.org/W2799668031",
+        "https://openalex.org/W3157737190"
+      ],
+      "related_works": [
+        "https://openalex.org/W2010006040",
+        "https://openalex.org/W282492026",
+        "https://openalex.org/W2394117909",
+        "https://openalex.org/W4212788579",
+        "https://openalex.org/W2896054214",
+        "https://openalex.org/W2355197944",
+        "https://openalex.org/W2017118246",
+        "https://openalex.org/W2354661593",
+        "https://openalex.org/W2382240109",
+        "https://openalex.org/W2368475191"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 13
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 8
+        }
+      ],
+      "updated_date": "2025-12-21T23:12:01.093139",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W3158594263",
       "doi": "https://doi.org/10.1016/j.sedgeo.2021.105925",
       "title": "Depositional and diagenetic controls on reservoir quality of microporous basinal lime mudstones (Aptian), United Arab Emirates",
@@ -1155,9 +2048,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5199999809265137,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5199999809265137
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -1174,8 +2067,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 75,
       "referenced_works": [
@@ -2048,16 +2941,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 56,
       "referenced_works": [
@@ -2874,16 +3767,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4099999964237213,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4099999964237213
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 48,
       "referenced_works": [
@@ -4086,9 +4979,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -4100,8 +4993,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 96,
       "referenced_works": [
@@ -4238,899 +5131,6 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4388818709",
-      "doi": "https://doi.org/10.1038/s41598-023-47681-w",
-      "title": "Experimental and digital investigations of heterogeneity in lower cretaceous carbonate reservoir using fractal and multifractal concepts",
-      "display_name": "Experimental and digital investigations of heterogeneity in lower cretaceous carbonate reservoir using fractal and multifractal concepts",
-      "publication_year": 2023,
-      "publication_date": "2023-11-20",
-      "ids": {
-        "openalex": "https://openalex.org/W4388818709",
-        "doi": "https://doi.org/10.1038/s41598-023-47681-w",
-        "pmid": "https://pubmed.ncbi.nlm.nih.gov/37985862"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1038/s41598-023-47681-w",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1038/s41598-023-47681-w",
-        "pdf_url": "https://www.nature.com/articles/s41598-023-47681-w.pdf",
-        "source": {
-          "id": "https://openalex.org/S196734849",
-          "display_name": "Scientific Reports",
-          "issn_l": "2045-2322",
-          "issn": [
-            "2045-2322"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319908",
-          "host_organization_name": "Nature Portfolio",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319908",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Nature Portfolio",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Scientific Reports",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj",
-        "pubmed"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://www.nature.com/articles/s41598-023-47681-w.pdf",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5009481606",
-            "display_name": "Mohamed Soufiane Jouini",
-            "orcid": "https://orcid.org/0000-0001-9741-0636"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I176601375",
-              "display_name": "Khalifa University of Science and Technology",
-              "ror": "https://ror.org/05hffr360",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Mohamed Soufiane Jouini",
-          "raw_affiliation_strings": [
-            "Department of Mathematics, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Mathematics, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5081766026",
-            "display_name": "Abdulquadri O. Alabere",
-            "orcid": "https://orcid.org/0000-0002-1015-1094"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I176601375",
-              "display_name": "Khalifa University of Science and Technology",
-              "ror": "https://ror.org/05hffr360",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdulquadri O. Alabere",
-          "raw_affiliation_strings": [
-            "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5018306569",
-            "display_name": "Mohammad Alsuwaidi",
-            "orcid": "https://orcid.org/0000-0002-2477-0654"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I176601375",
-              "display_name": "Khalifa University of Science and Technology",
-              "ror": "https://ror.org/05hffr360",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammad Alsuwaidi",
-          "raw_affiliation_strings": [
-            "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5057027693",
-            "display_name": "S. Morad",
-            "orcid": "https://orcid.org/0000-0002-8214-0896"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I97699614",
-              "display_name": "Abu Dhabi National Oil (United Arab Emirates)",
-              "ror": "https://ror.org/010e8pt90",
-              "country_code": "AE",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I97699614"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Sadoon Morad",
-          "raw_affiliation_strings": [
-            "Sukhoor Consulting Company, Abu Dhabi, United Arab Emirates"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Sukhoor Consulting Company, Abu Dhabi, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I97699614"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5055256846",
-            "display_name": "Fateh Bouchaala",
-            "orcid": "https://orcid.org/0000-0003-2368-3302"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I176601375",
-              "display_name": "Khalifa University of Science and Technology",
-              "ror": "https://ror.org/05hffr360",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Fateh Bouchaala",
-          "raw_affiliation_strings": [
-            "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5052331702",
-            "display_name": "Osama Al Jallad",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Osama A. Al Jallad",
-          "raw_affiliation_strings": [
-            "Halliburton Service in the Middle East and Asia Pacific Areas, P.O. Box 57, Abu Dhabi, United Arab Emirates"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Halliburton Service in the Middle East and Asia Pacific Areas, P.O. Box 57, Abu Dhabi, United Arab Emirates",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5009481606"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I176601375"
-      ],
-      "apc_list": {
-        "value": 1890,
-        "currency": "EUR",
-        "value_usd": 2190
-      },
-      "apc_paid": {
-        "value": 1890,
-        "currency": "EUR",
-        "value_usd": 2190
-      },
-      "fwci": 4.62051466,
-      "has_fulltext": true,
-      "cited_by_count": 20,
-      "citation_normalized_percentile": {
-        "value": 0.94816823,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 98,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "13",
-        "issue": "1",
-        "first_page": "20306",
-        "last_page": "20306"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9993000030517578,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9993000030517578,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.9936000108718872,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9889000058174133,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/multifractal-system",
-          "display_name": "Multifractal system",
-          "score": 0.9286099076271057
-        },
-        {
-          "id": "https://openalex.org/keywords/fractal",
-          "display_name": "Fractal",
-          "score": 0.7389077544212341
-        },
-        {
-          "id": "https://openalex.org/keywords/asymmetry",
-          "display_name": "Asymmetry",
-          "score": 0.6145306825637817
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5567907691001892
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate",
-          "display_name": "Carbonate",
-          "score": 0.5203472971916199
-        },
-        {
-          "id": "https://openalex.org/keywords/homogeneous",
-          "display_name": "Homogeneous",
-          "score": 0.5143010020256042
-        },
-        {
-          "id": "https://openalex.org/keywords/porosity",
-          "display_name": "Porosity",
-          "score": 0.47131162881851196
-        },
-        {
-          "id": "https://openalex.org/keywords/degree",
-          "display_name": "Degree (music)",
-          "score": 0.46250292658805847
-        },
-        {
-          "id": "https://openalex.org/keywords/fractal-dimension",
-          "display_name": "Fractal dimension",
-          "score": 0.44086721539497375
-        },
-        {
-          "id": "https://openalex.org/keywords/petrophysics",
-          "display_name": "Petrophysics",
-          "score": 0.4179680347442627
-        },
-        {
-          "id": "https://openalex.org/keywords/mineralogy",
-          "display_name": "Mineralogy",
-          "score": 0.41633471846580505
-        },
-        {
-          "id": "https://openalex.org/keywords/materials-science",
-          "display_name": "Materials science",
-          "score": 0.2910078465938568
-        },
-        {
-          "id": "https://openalex.org/keywords/statistical-physics",
-          "display_name": "Statistical physics",
-          "score": 0.286461740732193
-        },
-        {
-          "id": "https://openalex.org/keywords/mathematics",
-          "display_name": "Mathematics",
-          "score": 0.2377966046333313
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.19567078351974487
-        },
-        {
-          "id": "https://openalex.org/keywords/physics",
-          "display_name": "Physics",
-          "score": 0.11419850587844849
-        },
-        {
-          "id": "https://openalex.org/keywords/mathematical-analysis",
-          "display_name": "Mathematical analysis",
-          "score": 0.0755455493927002
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C133905733",
-          "wikidata": "https://www.wikidata.org/wiki/Q2629238",
-          "display_name": "Multifractal system",
-          "level": 3,
-          "score": 0.9286099076271057
-        },
-        {
-          "id": "https://openalex.org/C40636538",
-          "wikidata": "https://www.wikidata.org/wiki/Q81392",
-          "display_name": "Fractal",
-          "level": 2,
-          "score": 0.7389077544212341
-        },
-        {
-          "id": "https://openalex.org/C38976095",
-          "wikidata": "https://www.wikidata.org/wiki/Q752641",
-          "display_name": "Asymmetry",
-          "level": 2,
-          "score": 0.6145306825637817
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5567907691001892
-        },
-        {
-          "id": "https://openalex.org/C2780659211",
-          "wikidata": "https://www.wikidata.org/wiki/Q181699",
-          "display_name": "Carbonate",
-          "level": 2,
-          "score": 0.5203472971916199
-        },
-        {
-          "id": "https://openalex.org/C66882249",
-          "wikidata": "https://www.wikidata.org/wiki/Q169336",
-          "display_name": "Homogeneous",
-          "level": 2,
-          "score": 0.5143010020256042
-        },
-        {
-          "id": "https://openalex.org/C6648577",
-          "wikidata": "https://www.wikidata.org/wiki/Q622669",
-          "display_name": "Porosity",
-          "level": 2,
-          "score": 0.47131162881851196
-        },
-        {
-          "id": "https://openalex.org/C2775997480",
-          "wikidata": "https://www.wikidata.org/wiki/Q586277",
-          "display_name": "Degree (music)",
-          "level": 2,
-          "score": 0.46250292658805847
-        },
-        {
-          "id": "https://openalex.org/C26546657",
-          "wikidata": "https://www.wikidata.org/wiki/Q1412452",
-          "display_name": "Fractal dimension",
-          "level": 3,
-          "score": 0.44086721539497375
-        },
-        {
-          "id": "https://openalex.org/C46293882",
-          "wikidata": "https://www.wikidata.org/wiki/Q2080707",
-          "display_name": "Petrophysics",
-          "level": 3,
-          "score": 0.4179680347442627
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.41633471846580505
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.2910078465938568
-        },
-        {
-          "id": "https://openalex.org/C121864883",
-          "wikidata": "https://www.wikidata.org/wiki/Q677916",
-          "display_name": "Statistical physics",
-          "level": 1,
-          "score": 0.286461740732193
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0.2377966046333313
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.19567078351974487
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0.11419850587844849
-        },
-        {
-          "id": "https://openalex.org/C134306372",
-          "wikidata": "https://www.wikidata.org/wiki/Q7754",
-          "display_name": "Mathematical analysis",
-          "level": 1,
-          "score": 0.0755455493927002
-        },
-        {
-          "id": "https://openalex.org/C191897082",
-          "wikidata": "https://www.wikidata.org/wiki/Q11467",
-          "display_name": "Metallurgy",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C24890656",
-          "wikidata": "https://www.wikidata.org/wiki/Q82811",
-          "display_name": "Acoustics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C62520636",
-          "wikidata": "https://www.wikidata.org/wiki/Q944",
-          "display_name": "Quantum mechanics",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 5,
-      "locations": [
-        {
-          "id": "doi:10.1038/s41598-023-47681-w",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1038/s41598-023-47681-w",
-          "pdf_url": "https://www.nature.com/articles/s41598-023-47681-w.pdf",
-          "source": {
-            "id": "https://openalex.org/S196734849",
-            "display_name": "Scientific Reports",
-            "issn_l": "2045-2322",
-            "issn": [
-              "2045-2322"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310319908",
-            "host_organization_name": "Nature Portfolio",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319908",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Nature Portfolio",
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Scientific Reports",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmid:37985862",
-          "is_oa": false,
-          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37985862",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306525036",
-            "display_name": "PubMed",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Scientific reports",
-          "raw_type": null
-        },
-        {
-          "id": "pmh:oai:pubmedcentral.nih.gov:10661854",
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10661854",
-          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10661854/pdf/41598_2023_Article_47681.pdf",
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Sci Rep",
-          "raw_type": "Text"
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:aff794d49607408ab50183c593039556",
-          "is_oa": false,
-          "landing_page_url": "https://doaj.org/article/aff794d49607408ab50183c593039556",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Scientific Reports, Vol 13, Iss 1, Pp 1-18 (2023)",
-          "raw_type": "article"
-        },
-        {
-          "id": "pmh:oai:pure.atira.dk:openaire_cris_publications/56797ad0-e787-4dc8-b073-6b4e03b6c566",
-          "is_oa": true,
-          "landing_page_url": "https://research.manchester.ac.uk/en/publications/56797ad0-e787-4dc8-b073-6b4e03b6c566",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400216",
-            "display_name": "Research Portal (King's College London)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I183935753",
-            "host_organization_name": "King's College London",
-            "host_organization_lineage": [
-              "https://openalex.org/I183935753"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Jouini, M S, Alabere, A O, Alsuwaidi, M, Morad, S, Bouchaala, F & Jallad, O A A 2023, 'Experimental and digital investigations of heterogeneity in lower cretaceous carbonate reservoir using fractal and multifractal concepts', Scientific Reports, vol. 13, 20306. https://doi.org/10.1038/s41598-023-47681-w",
-          "raw_type": "article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1038/s41598-023-47681-w",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1038/s41598-023-47681-w",
-        "pdf_url": "https://www.nature.com/articles/s41598-023-47681-w.pdf",
-        "source": {
-          "id": "https://openalex.org/S196734849",
-          "display_name": "Scientific Reports",
-          "issn_l": "2045-2322",
-          "issn": [
-            "2045-2322"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319908",
-          "host_organization_name": "Nature Portfolio",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319908",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Nature Portfolio",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Scientific Reports",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4399999976158142
-        }
-      ],
-      "awards": [
-        {
-          "id": "https://openalex.org/G3057190137",
-          "display_name": null,
-          "funder_award_id": "FSU-2018-15",
-          "funder_id": "https://openalex.org/F4320322334",
-          "funder_display_name": "Khalifa University of Science, Technology and Research"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320322334",
-          "display_name": "Khalifa University of Science, Technology and Research",
-          "ror": "https://ror.org/05hffr360"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": true,
-        "pdf": true
-      },
-      "referenced_works_count": 47,
-      "referenced_works": [
-        "https://openalex.org/W2975842830",
-        "https://openalex.org/W4304587298",
-        "https://openalex.org/W2410565284",
-        "https://openalex.org/W2204769636",
-        "https://openalex.org/W2790137210",
-        "https://openalex.org/W3020718863",
-        "https://openalex.org/W2161798353",
-        "https://openalex.org/W2087249367",
-        "https://openalex.org/W2014528666",
-        "https://openalex.org/W1993853487",
-        "https://openalex.org/W2081123418",
-        "https://openalex.org/W2469086254",
-        "https://openalex.org/W2790154322",
-        "https://openalex.org/W2793922815",
-        "https://openalex.org/W2932246467",
-        "https://openalex.org/W2898847284",
-        "https://openalex.org/W3138895946",
-        "https://openalex.org/W2056986895",
-        "https://openalex.org/W2086419538",
-        "https://openalex.org/W2996650103",
-        "https://openalex.org/W3136453206",
-        "https://openalex.org/W2069863015",
-        "https://openalex.org/W2107172822",
-        "https://openalex.org/W2056915518",
-        "https://openalex.org/W2190108466",
-        "https://openalex.org/W2283921210",
-        "https://openalex.org/W3037512035",
-        "https://openalex.org/W4285261085",
-        "https://openalex.org/W4297548907",
-        "https://openalex.org/W2075375541",
-        "https://openalex.org/W2049660106",
-        "https://openalex.org/W2799806568",
-        "https://openalex.org/W2921239033",
-        "https://openalex.org/W4321243202",
-        "https://openalex.org/W4324044724",
-        "https://openalex.org/W4280592644",
-        "https://openalex.org/W2896601881",
-        "https://openalex.org/W2040705841",
-        "https://openalex.org/W2034939275",
-        "https://openalex.org/W2012842247",
-        "https://openalex.org/W1981090047",
-        "https://openalex.org/W2078206416",
-        "https://openalex.org/W2290720069",
-        "https://openalex.org/W2072736531",
-        "https://openalex.org/W2006311131",
-        "https://openalex.org/W2799668031",
-        "https://openalex.org/W3157737190"
-      ],
-      "related_works": [
-        "https://openalex.org/W2010006040",
-        "https://openalex.org/W282492026",
-        "https://openalex.org/W2394117909",
-        "https://openalex.org/W4212788579",
-        "https://openalex.org/W2896054214",
-        "https://openalex.org/W2355197944",
-        "https://openalex.org/W2017118246",
-        "https://openalex.org/W2354661593",
-        "https://openalex.org/W2382240109",
-        "https://openalex.org/W2368475191"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 12
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 8
-        }
-      ],
-      "updated_date": "2025-11-23T05:10:03.516525",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5846,9 +5846,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -5882,8 +5882,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 70,
       "referenced_works": [
@@ -7041,9 +7041,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.41999998688697815,
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.41999998688697815
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -7055,8 +7055,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 97,
       "referenced_works": [
@@ -7894,8 +7894,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 64,
       "referenced_works": [
@@ -8769,9 +8769,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -8783,8 +8783,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 124,
       "referenced_works": [
@@ -9696,8 +9696,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 46,
       "referenced_works": [
@@ -10956,8 +10956,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 95,
       "referenced_works": [
@@ -11620,16 +11620,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 69,
       "referenced_works": [
@@ -12902,16 +12902,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 47,
       "referenced_works": [
@@ -13962,9 +13962,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -13984,8 +13984,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 92,
       "referenced_works": [
@@ -14195,13 +14195,13 @@
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "2General Directorate of Scientific Research Center, Salahaddin University, Erbil 44002, The Kurdistan Region of Iraq, Iraq",
+              "raw_affiliation_string": "General Directorate of Scientific Research Center, Salahaddin University, Erbil 44002, The Kurdistan Region of Iraq, Iraq",
               "institution_ids": [
                 "https://openalex.org/I46208956"
               ]
             },
             {
-              "raw_affiliation_string": "General Directorate of Scientific Research Center, Salahaddin University, Erbil 44002, The Kurdistan Region of Iraq, Iraq",
+              "raw_affiliation_string": "2General Directorate of Scientific Research Center, Salahaddin University, Erbil 44002, The Kurdistan Region of Iraq, Iraq",
               "institution_ids": [
                 "https://openalex.org/I46208956"
               ]
@@ -14442,7 +14442,7 @@
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.89978999,
+        "value": 0.89970639,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14799,16 +14799,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.7699999809265137,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "referenced_works_count": 33,
       "referenced_works": [
@@ -15904,16 +15904,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 120,
       "referenced_works": [
@@ -16961,16 +16961,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8299999833106995,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 42,
       "referenced_works": [
@@ -17901,9 +17901,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -17942,8 +17942,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 89,
       "referenced_works": [
@@ -18337,7 +18337,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.95034855,
+        "value": 0.95033837,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18693,9 +18693,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8199999928474426,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -18715,8 +18715,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 166,
       "referenced_works": [
@@ -18872,20 +18872,20 @@
         "https://openalex.org/W2922434118",
         "https://openalex.org/W2154843998",
         "https://openalex.org/W4387807585",
-        "https://openalex.org/W1992259825",
-        "https://openalex.org/W2147958031",
-        "https://openalex.org/W3007636330",
-        "https://openalex.org/W4240512402",
         "https://openalex.org/W2097942121",
+        "https://openalex.org/W3007636330",
         "https://openalex.org/W326777781",
         "https://openalex.org/W2401462701",
-        "https://openalex.org/W2138290004",
-        "https://openalex.org/W3133223992",
         "https://openalex.org/W4288080458",
+        "https://openalex.org/W3133223992",
+        "https://openalex.org/W2138290004",
+        "https://openalex.org/W2161099967",
+        "https://openalex.org/W1992259825",
         "https://openalex.org/W2993418542",
-        "https://openalex.org/W2593379462",
         "https://openalex.org/W4306641722",
-        "https://openalex.org/W2161099967"
+        "https://openalex.org/W2147958031",
+        "https://openalex.org/W4240512402",
+        "https://openalex.org/W2593379462"
       ],
       "related_works": [
         "https://openalex.org/W4246644938",
@@ -19427,8 +19427,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 92,
       "referenced_works": [
@@ -20305,16 +20305,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 56,
       "referenced_works": [
@@ -20960,7 +20960,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.93778939,
+        "value": 0.93763849,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -21214,9 +21214,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7799999713897705,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7799999713897705
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -21228,8 +21228,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 105,
       "referenced_works": [
@@ -21327,17 +21327,17 @@
         "https://openalex.org/W4400105916",
         "https://openalex.org/W2115575384",
         "https://openalex.org/W2088769442",
-        "https://openalex.org/W2606470026",
+        "https://openalex.org/W3158958244",
         "https://openalex.org/W2223885932",
+        "https://openalex.org/W2164183394",
+        "https://openalex.org/W1574846977",
+        "https://openalex.org/W2606470026",
+        "https://openalex.org/W2165295168",
         "https://openalex.org/W2054584503",
         "https://openalex.org/W230353465",
-        "https://openalex.org/W2164183394",
-        "https://openalex.org/W2165295168",
-        "https://openalex.org/W4394575417",
-        "https://openalex.org/W2488318886",
-        "https://openalex.org/W3158958244",
         "https://openalex.org/W263369547",
-        "https://openalex.org/W1574846977"
+        "https://openalex.org/W4394575417",
+        "https://openalex.org/W2488318886"
       ],
       "related_works": [
         "https://openalex.org/W2758836683",
@@ -21970,9 +21970,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -21999,8 +21999,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 115,
       "referenced_works": [
@@ -23206,16 +23206,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5699999928474426,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5699999928474426
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 86,
       "referenced_works": [
@@ -24576,9 +24576,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.41999998688697815,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.41999998688697815
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -24590,8 +24590,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 130,
       "referenced_works": [
@@ -25360,8 +25360,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 3,
       "referenced_works": [
@@ -26660,8 +26660,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -27324,16 +27324,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.7699999809265137,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -28602,16 +28602,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.46000000834465027,
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.46000000834465027
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -29755,16 +29755,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -30700,16 +30700,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.6700000166893005,
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.6700000166893005
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -31248,16 +31248,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.6700000166893005,
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.6700000166893005
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -32110,16 +32110,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 33,
       "referenced_works": [
@@ -32871,16 +32871,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.44999998807907104,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.44999998807907104
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 46,
       "referenced_works": [
@@ -33809,16 +33809,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -35103,16 +35103,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -36176,9 +36176,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -36198,8 +36198,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 107,
       "referenced_works": [
@@ -36594,8 +36594,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 25,
       "referenced_works": [
@@ -37784,8 +37784,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 95,
       "referenced_works": [
@@ -38119,8 +38119,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -38428,8 +38428,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -38901,8 +38901,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 58,
       "referenced_works": [
