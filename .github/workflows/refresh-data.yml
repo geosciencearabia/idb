@@ -3,7 +3,7 @@ name: Refresh data
 on:
   # Run nightly at 21:00 UTC (midnight KSA)
   schedule:
-    - cron: "0 21 * * *"
+    - cron: "0 20 * * *"
   # Allow manual trigger from the Actions tab
   workflow_dispatch:
 
