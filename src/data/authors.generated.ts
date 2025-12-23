@@ -843,7 +843,7 @@ export const authors: AuthorRecord[] = [
     "affiliate1": "",
     "affiliate2": "",
     "affiliate3": "",
-    "email": "aabed@ju.edu.jo",
+    "email": "",
     "orcid": "",
     "totalPublications": 60,
     "totalCitations": 1556,
@@ -861,7 +861,7 @@ export const authors: AuthorRecord[] = [
     "affiliate1": "",
     "affiliate2": "",
     "affiliate3": "",
-    "email": "john.melvin@aramco.com",
+    "email": "",
     "orcid": "",
     "totalPublications": 36,
     "totalCitations": 696,
@@ -879,7 +879,7 @@ export const authors: AuthorRecord[] = [
     "affiliate1": "",
     "affiliate2": "",
     "affiliate3": "",
-    "email": "camilo.polocamacho@aramco.com",
+    "email": "",
     "orcid": "",
     "totalPublications": 9,
     "totalCitations": 177,
@@ -897,10 +897,46 @@ export const authors: AuthorRecord[] = [
     "affiliate1": "",
     "affiliate2": "",
     "affiliate3": "",
-    "email": "abdulkarim.alhussaini@gmail.com",
+    "email": "",
     "orcid": "",
     "totalPublications": 14,
     "totalCitations": 95,
     "hIndex": 7
+  },
+  {
+    "authorId": "idb0049-koeshidayatullah-ardiansyah",
+    "openAlexId": "A5059881838",
+    "openAlexIds": [
+      "A5059881838"
+    ],
+    "name": "Ardiansyah Koeshidayatullah",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "",
+    "orcid": "",
+    "totalPublications": 95,
+    "totalCitations": 1020,
+    "hIndex": 19
+  },
+  {
+    "authorId": "idb0050-herlambang-adhipa",
+    "openAlexId": "A5051302005",
+    "openAlexIds": [
+      "A5051302005"
+    ],
+    "name": "Adhipa Herlambang",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "",
+    "orcid": "",
+    "totalPublications": 30,
+    "totalCitations": 52,
+    "hIndex": 5
   }
 ];
