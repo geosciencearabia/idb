@@ -59309,6 +59309,1432 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2125021582",
+    "doi": "https://doi.org/10.1306/bdff8a24-1718-11d7-8645000102c1865d",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5032480623",
+      "A5048148221"
+    ],
+    "firstAuthorLastName": "Memariani",
+    "allAuthors": [
+      "Mahmoud Memariani",
+      "Denis Vaslet",
+      "Moujahed I. Husseini"
+    ],
+    "title": "The Lower Silurian Qalibah Formation of Saudi Arabia: An Important Hydrocarbon Source Rock (1)",
+    "publicationDate": "1992-01-01",
+    "year": 1992,
+    "venue": "AAPG Bulletin",
+    "citations": 161,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1968584894",
+    "doi": "https://doi.org/10.1016/s0016-6995(87)80071-2",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5084630459",
+      "A5061935584",
+      "A5113658841",
+      "A5051867931"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "Yves-Marie Le Nindre",
+      "Charles Mangold",
+      "Jacques Manivit",
+      "Denis Vaslet"
+    ],
+    "title": "Le Jurassique d'arabie saoudite centrale: Nouvellesdonnées sur la lithostratigraphie, les paléoenvironnements, les faunes d'Ammonites, les âges et les corrélations",
+    "publicationDate": "1987-01-01",
+    "year": 1987,
+    "venue": "Geobios",
+    "citations": 96,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Université Claude Bernard Lyon 1",
+      "Bureau de Recherches Géologiques et Minières"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2287111010",
+    "doi": "https://doi.org/10.2113/geoarabia100477",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5054427253",
+      "A5022478113",
+      "A5019328510",
+      "A5066243148",
+      "A5109129765",
+      "A5021604188",
+      "A5055304725",
+      "A5081811780"
+    ],
+    "firstAuthorLastName": "Vaslet",
+    "allAuthors": [
+      "Denis Vaslet",
+      "Yves-Michel Le Nindre",
+      "Daniel Vachard",
+      "Jean Broutin",
+      "Sylvie Crasquin",
+      "Martine Berthelin",
+      "Jérémie Gaillot",
+      "Mohammed Halawani",
+      "Moujahed Al-Husseini"
+    ],
+    "title": "The Permian-Triassic Khuff Formation of central Saudi Arabia",
+    "publicationDate": "2005-10-01",
+    "year": 2005,
+    "venue": "GeoArabia",
+    "citations": 86,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Paleontology and Stratigraphy of Fossils",
+      "Plant Diversity and Evolution"
+    ],
+    "institutions": [
+      "Bureau de Recherches Géologiques et Minières",
+      "Centre National de la Recherche Scientifique",
+      "Unité Évolution, Écologie et Paléontologie"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2320526590",
+    "doi": "https://doi.org/10.2113/gssgfbull.vi.6.1025",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5057145151",
+      "A5051867931",
+      "A5013428057"
+    ],
+    "firstAuthorLastName": "Nindre",
+    "allAuthors": [
+      "Y. M. Le Nindre",
+      "Jacques Manivit",
+      "Hélène Manivit",
+      "Denis Vaslet"
+    ],
+    "title": "Stratigraphie sequentielle du Jurassique et du Cretace en Arabie Saoudite",
+    "publicationDate": "1990-11-01",
+    "year": 1990,
+    "venue": "Bulletin de la Société Géologique de France",
+    "citations": 79,
+    "topics": [
+      "Geological and Geophysical Studies Worldwide",
+      "earthquake and tectonic studies",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "Bureau de Recherches Géologiques et Minières"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1580174060",
+    "doi": "https://doi.org/10.1111/j.1475-4983.2005.00476.x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5066243148",
+      "A5054427253"
+    ],
+    "firstAuthorLastName": "Crasquin",
+    "allAuthors": [
+      "Sylvie Crasquin",
+      "Denis Vaslet",
+      "Yves-Michel Le Nindre"
+    ],
+    "title": "OSTRACODS AS MARKERS OF THE PERMIAN/TRIASSIC BOUNDARY IN THE KHUFF FORMATION OF SAUDI ARABIA",
+    "publicationDate": "2005-07-01",
+    "year": 2005,
+    "venue": "Palaeontology",
+    "citations": 77,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils",
+      "Marine Biology and Ecology Research"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Sorbonne Université",
+      "Bureau de Recherches Géologiques et Minières"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2571373978",
+    "doi": "https://doi.org/10.2113/geoarabia060163",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5078456413",
+      "A5054427253",
+      "A5051867931"
+    ],
+    "firstAuthorLastName": "Fischer",
+    "allAuthors": [
+      "Jean-Claude Fischer",
+      "Yves-Michel Le Nindre",
+      "Jacques Manivit",
+      "Denis Vaslet"
+    ],
+    "title": "Jurassic Gastropod Faunas of Central Saudi Arabia",
+    "publicationDate": "2001-01-01",
+    "year": 2001,
+    "venue": "GeoArabia",
+    "citations": 67,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Marine Biology and Ecology Research",
+      "Marine Bivalve and Aquaculture Studies"
+    ],
+    "institutions": [
+      "Muséum national d'Histoire naturelle",
+      "Bureau de Recherches Géologiques et Minières"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2041622963",
+    "doi": "https://doi.org/10.1016/s0037-0738(02)00291-9",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5054427253",
+      "A5057960590",
+      "A5070549075",
+      "A5055304725"
+    ],
+    "firstAuthorLastName": "Nindre",
+    "allAuthors": [
+      "Yves-Michel Le Nindre",
+      "Denis Vaslet",
+      "Joël Le Métour",
+      "Jocelyn Bertrand",
+      "Mohammed Halawani"
+    ],
+    "title": "Subsidence modelling of the Arabian Platform from Permian to Paleogene outcrops",
+    "publicationDate": "2003-01-21",
+    "year": 2003,
+    "venue": "Sedimentary Geology",
+    "citations": 64,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Bureau de Recherches Géologiques et Minières",
+      "Université d'Orléans",
+      "Saudi Aramco (Saudi Arabia)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2581167478",
+    "doi": "https://doi.org/10.2113/geoarabia130251",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5054427253",
+      "A5017225514",
+      "A5081811780"
+    ],
+    "firstAuthorLastName": "Nindre",
+    "allAuthors": [
+      "Yves-Michel Le Nindre",
+      "Denis Vaslet",
+      "Sami S. Maddah",
+      "Moujahed Al-Husseini"
+    ],
+    "title": "Stratigraphy of the Valanginian? to Early Paleocene succession in central Saudi Arabia outcrops: Implications for regional Arabian sequence stratigraphy",
+    "publicationDate": "2008-04-01",
+    "year": 2008,
+    "venue": "GeoArabia",
+    "citations": 32,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "Bureau de Recherches Géologiques et Minières",
+      "United States Geological Survey"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2035689687",
+    "doi": "https://doi.org/10.1016/s0031-0182(03)00313-4",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5052512742",
+      "A5066761626",
+      "A5030444809",
+      "A5022478113",
+      "A5073888691",
+      "A5017562672",
+      "A5041538995",
+      "A5000986346",
+      "A5062385838",
+      "A5112438342",
+      "A5062723574"
+    ],
+    "firstAuthorLastName": "Izart",
+    "allAuthors": [
+      "Alain Izart",
+      "Randell Stephenson",
+      "Gian Battista Vai",
+      "Daniel Vachard",
+      "Yves Le Nindre",
+      "Denis Vaslet",
+      "Pierre-Jean Fauvel",
+      "Peter Süss",
+      "Olga L. Kossovaya",
+      "Zhong‐Qiang Chen",
+      "Alexander Maslo",
+      "S. Stovba"
+    ],
+    "title": "Sequence stratigraphy and correlation of late Carboniferous and Permian in the CIS, Europe, Tethyan area, North Africa, Arabia, China, Gondwanaland and the USA",
+    "publicationDate": "2003-06-30",
+    "year": 2003,
+    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "citations": 66,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Evolution and Paleontology Studies"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Vrije Universiteit Amsterdam",
+      "Bologna Research Area",
+      "Zambon (Italy)",
+      "Bureau de Recherches Géologiques et Minières",
+      "University of Bonn",
+      "A.P. Karpinsky Russian Geological Research Institute",
+      "Nanjing Institute of Geology and Paleontology",
+      "National Academy of Sciences of Ukraine"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2140709095",
+    "doi": "https://doi.org/10.1016/s0040-1951(96)00224-7",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5052512742",
+      "A5008464620",
+      "A5022478113",
+      "A5036030854",
+      "A5112438342"
+    ],
+    "firstAuthorLastName": "Izart",
+    "allAuthors": [
+      "Alain Izart",
+      "Céline Briand",
+      "Denis Vaslet",
+      "Daniel Vachard",
+      "Robert Coquel",
+      "Alexander Maslo"
+    ],
+    "title": "Stratigraphy and sequence stratigraphy of the Moscovian in the Donets basin",
+    "publicationDate": "1996-12-01",
+    "year": 1996,
+    "venue": "Tectonophysics",
+    "citations": 60,
+    "topics": [
+      "Geological Studies and Exploration",
+      "Geological Formations and Processes Exploration",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Bureau de Recherches Géologiques et Minières",
+      "Unité Évolution, Écologie et Paléontologie",
+      "Institute of Geological Sciences",
+      "National Academy of Sciences of Ukraine"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2954113145",
+    "doi": "https://doi.org/10.2113/geoarabia1004137",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5022478113",
+      "A5021604188",
+      "A5054427253"
+    ],
+    "firstAuthorLastName": "Vachard",
+    "allAuthors": [
+      "Daniel Vachard",
+      "Jérémie Gaillot",
+      "Denis Vaslet",
+      "Yves-Michel Le Nindre"
+    ],
+    "title": "Foraminifers and algae from the Khuff Formation (late Middle Permian-Early Triassic) of central Saudi Arabia",
+    "publicationDate": "2005-10-01",
+    "year": 2005,
+    "venue": "GeoArabia",
+    "citations": 53,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Paleontology and Evolutionary Biology",
+      "Evolution and Paleontology Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W1989814715",
+    "doi": "https://doi.org/10.1016/j.sedgeo.2008.10.007",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5087267351",
+      "A5006281942",
+      "A5072904044",
+      "A5113134771",
+      "A5079349772",
+      "A5015411092"
+    ],
+    "firstAuthorLastName": "Lasseur",
+    "allAuthors": [
+      "Éric Lasseur",
+      "François Guillocheau",
+      "Cécile Robin",
+      "Franck Hanot",
+      "Denis Vaslet",
+      "Renaud Couëffé",
+      "Didier Néraudeau"
+    ],
+    "title": "A relative water-depth model for the Normandy Chalk (Cenomanian–Middle Coniacian, Paris Basin, France) based on facies patterns of metre-scale cycles",
+    "publicationDate": "2008-10-29",
+    "year": 2008,
+    "venue": "Sedimentary Geology",
+    "citations": 44,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Géosciences Rennes",
+      "Université de Rennes",
+      "Bureau de Recherches Géologiques et Minières"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2971608975",
+    "doi": "https://doi.org/10.2113/geoarabia0704699",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5111895639",
+      "A5104831905",
+      "A5057776445",
+      "A5038238046",
+      "A5044930714"
+    ],
+    "firstAuthorLastName": "Philip",
+    "allAuthors": [
+      "Jean Philip",
+      "Jack Roger",
+      "Denis Vaslet",
+      "Fabrizio Cecca",
+      "Silvia Gardin",
+      "Abdullah Memesh"
+    ],
+    "title": "Sequence stratigraphy, biostratigraphy and paleontology of the Maastrichtian-Paleocene Aruma Formation in outcrop in Saudi Arabia",
+    "publicationDate": "2002-10-01",
+    "year": 2002,
+    "venue": "GeoArabia",
+    "citations": 26,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Bureau de Recherches Géologiques et Minières",
+      "Sorbonne Université",
+      "Université Paris 8",
+      "Université Paris Cité",
+      "University of Aden"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3157716230",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5020524306",
+      "A5066243148",
+      "A5033262911",
+      "A5104831905",
+      "A5022478113",
+      "A5081811780"
+    ],
+    "firstAuthorLastName": "Angiolini",
+    "allAuthors": [
+      "Lucia Angiolini",
+      "Sylvie Crasquin",
+      "Jean-Pierre Platel",
+      "Jack Roger",
+      "Daniel Vachard",
+      "Denis Vaslet",
+      "Moujahed Al-Husseini"
+    ],
+    "title": "Saiwan, Gharif and Khuff formations, Haushi-Huqf Uplift, Oman",
+    "publicationDate": "2004-01-01",
+    "year": 2004,
+    "venue": "",
+    "citations": 20,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Reservoir Engineering and Simulation Methods",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2127288366",
+    "doi": "https://doi.org/10.1016/s0012-821x(97)00047-2",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5007649810",
+      "A5018042007",
+      "A5108790044",
+      "A5110354764",
+      "A5055304725",
+      "A5074229448"
+    ],
+    "firstAuthorLastName": "Torcq",
+    "allAuthors": [
+      "F. Torcq",
+      "Jean Besse",
+      "Denis Vaslet",
+      "J. Marcoux",
+      "Luc-Emmanuel Ricou",
+      "Mohammed Halawani",
+      "M BASAHEL"
+    ],
+    "title": "Paleomagnetic results from Saudi Arabia and the Permo-Triassic Pangea configuration",
+    "publicationDate": "1997-05-01",
+    "year": 1997,
+    "venue": "Earth and Planetary Science Letters",
+    "citations": 61,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geological and Geochemical Analysis",
+      "Geomagnetism and Paleomagnetism Studies"
+    ],
+    "institutions": [
+      "Institut de physique du globe de Paris",
+      "Bureau de Recherches Géologiques et Minières"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2070255403",
+    "doi": "https://doi.org/10.1016/s0016-6995(87)80074-8",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5078476240",
+      "A5073888691",
+      "A5051867931"
+    ],
+    "firstAuthorLastName": "Dépêche",
+    "allAuthors": [
+      "Françoise Dépêche",
+      "Yves Le Nindre",
+      "Jacques Manivit",
+      "Denis Vaslet"
+    ],
+    "title": "Les Ostracodes du Jurassique D'arabie saoudite centrale: Systématique, Répartition Stratigraphique et Paléogéographique",
+    "publicationDate": "1987-01-01",
+    "year": 1987,
+    "venue": "Geobios",
+    "citations": 45,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Aquatic Invertebrate Ecology and Behavior"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Sorbonne Université",
+      "Bureau de Recherches Géologiques et Minières"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2188233270",
+    "doi": "https://doi.org/10.2113/geoarabia110155",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5066243148",
+      "A5054427253"
+    ],
+    "firstAuthorLastName": "Crasquin",
+    "allAuthors": [
+      "Sylvie Crasquin",
+      "Denis Vaslet",
+      "Yves-Michel Le Nindre"
+    ],
+    "title": "Ostracods of the Permian-Triassic Khuff Formation, Saudi Arabia: palaeoecology and palaeobiogeography",
+    "publicationDate": "2006-01-01",
+    "year": 2006,
+    "venue": "GeoArabia",
+    "citations": 23,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3127056474",
+    "doi": "https://doi.org/10.2113/geoarabia110365",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5109129765",
+      "A5019328510",
+      "A5054427253",
+      "A5055304725"
+    ],
+    "firstAuthorLastName": "Berthelin",
+    "allAuthors": [
+      "Martine Berthelin",
+      "Jean Broutin",
+      "Denis Vaslet",
+      "Yves-Michel Le Nindre",
+      "Mohammed Halawani"
+    ],
+    "title": "Mixed Late Permian floras and related palaeoenvironments in the Khuff Formation of central Saudi Arabia",
+    "publicationDate": "2006-07-01",
+    "year": 2006,
+    "venue": "GeoArabia",
+    "citations": 21,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2968599283",
+    "doi": "https://doi.org/10.2113/geoarabia110445",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5020524306",
+      "A5054427253",
+      "A5035478780"
+    ],
+    "firstAuthorLastName": "Angiolini",
+    "allAuthors": [
+      "Lucia Angiolini",
+      "Denis Vaslet",
+      "Yves-Michel Le Nindre",
+      "Miriam Zarbo"
+    ],
+    "title": "New records and new taxa of Permian brachiopods from the Khuff Formation, Midhnab Member, central Saudi Arabia",
+    "publicationDate": "2006-10-01",
+    "year": 2006,
+    "venue": "GeoArabia",
+    "citations": 8,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies",
+      "Marine Biology and Ecology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2979942938",
+    "doi": "https://doi.org/10.2113/geoarabia110391",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5110727110",
+      "A5054427253"
+    ],
+    "firstAuthorLastName": "Nicora",
+    "allAuthors": [
+      "Alda Nicora",
+      "Denis Vaslet",
+      "Yves-Michel Le Nindre"
+    ],
+    "title": "First record of Permian conodont<i>“jinogondolella”</i>cf.<i>altaduensis</i>from the Midhnab Member, Khuff Formation, Saudi Arabia",
+    "publicationDate": "2006-07-01",
+    "year": 2006,
+    "venue": "GeoArabia",
+    "citations": 7,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W1991037148",
+    "doi": "https://doi.org/10.2113/174.1.93",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5052512742",
+      "A5073888691",
+      "A5066761626",
+      "A5062723574"
+    ],
+    "firstAuthorLastName": "Izart",
+    "allAuthors": [
+      "Alain Izart",
+      "Yves Le Nindre",
+      "Randell Stephenson",
+      "Denis Vaslet",
+      "S. Stovba"
+    ],
+    "title": "Quantification of the control of sequences by tectonics and eustacy in the Dniepr-Donets Basin and on the Russian Platform during Carboniferous and Permian",
+    "publicationDate": "2003-01-01",
+    "year": 2003,
+    "venue": "Bulletin de la Société Géologique de France",
+    "citations": 21,
+    "topics": [
+      "Geological Formations and Processes Exploration",
+      "Geological and Geochemical Analysis",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Institut des Sciences de la Terre",
+      "Bureau de Recherches Géologiques et Minières",
+      "Vrije Universiteit Amsterdam"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1972891910",
+    "doi": "https://doi.org/10.1016/s1251-8050(00)88504-3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5065917909",
+      "A5104831905",
+      "A5055304725",
+      "A5005333967",
+      "A5074375426",
+      "A5044411118",
+      "A5072078512",
+      "A5029300869",
+      "A5035828063",
+      "A5045700188",
+      "A5077999279"
+    ],
+    "firstAuthorLastName": "Thomas",
+    "allAuthors": [
+      "Herbert Thomas",
+      "Jack Roger",
+      "Mohammed Halawani",
+      "Abdallah Memesh",
+      "Patrick Lebret",
+      "Chantal Bourdillon",
+      "Éric Buffetaut",
+      "Henri Cappetta",
+      "C. Cavelier",
+      "Didier B. Dutheil",
+      "Haiyan Tonge",
+      "Denis Vaslet"
+    ],
+    "title": "Late Paleocene to Early Eocene marine vertebrates from the Uppermost Aruma Formation (northern Saudi Arabia): implications for the K-T transition",
+    "publicationDate": "1999-12-01",
+    "year": 1999,
+    "venue": "Comptes Rendus de l Académie des Sciences - Series IIA - Earth and Planetary Science",
+    "citations": 18,
+    "topics": [
+      "Paleontology and Evolutionary Biology",
+      "Evolution and Paleontology Studies",
+      "Ichthyology and Marine Biology"
+    ],
+    "institutions": [
+      "Muséum national d'Histoire naturelle",
+      "Bureau de Recherches Géologiques et Minières",
+      "King Fahd University of Petroleum and Minerals",
+      "LIP6",
+      "Université de Montpellier",
+      "Centre National de la Recherche Scientifique"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2217680046",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5008464620",
+      "A5052512742",
+      "A5022478113",
+      "A5066295260",
+      "A5012409426",
+      "A5111446680",
+      "A5000986346",
+      "A5074268489"
+    ],
+    "firstAuthorLastName": "Briand",
+    "allAuthors": [
+      "Céline Briand",
+      "Alain Izart",
+      "Denis Vaslet",
+      "Daniel Vachard",
+      "Mariya KH. Makhlina",
+      "N. V. Goreva",
+      "Tatyana N. Isakova",
+      "Olga L. Kossovaya",
+      "Alina Jaroshenko"
+    ],
+    "title": "Stratigraphy and sequence stratigraphy of the Moscovian, Kasimovian and Gzhelian in the Moscow Basin",
+    "publicationDate": "1998-01-01",
+    "year": 1998,
+    "venue": "",
+    "citations": 16,
+    "topics": [
+      "Geological Studies and Exploration",
+      "Geotechnical and Geomechanical Engineering",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2972134149",
+    "doi": "https://doi.org/10.2113/geoarabia110181",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5107540602",
+      "A5054427253"
+    ],
+    "firstAuthorLastName": "Chirat",
+    "allAuthors": [
+      "Régis Chirat",
+      "Denis Vaslet",
+      "Yves-Michel Le Nindre"
+    ],
+    "title": "Nautiloids of the Permian-Triassic Khuff Formation, central Saudi Arabia",
+    "publicationDate": "2006-01-01",
+    "year": 2006,
+    "venue": "GeoArabia",
+    "citations": 13,
+    "topics": [
+      "Cephalopods and Marine Biology",
+      "Paleontology and Stratigraphy of Fossils",
+      "Marine Biology and Ecology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W28724452",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5054427253",
+      "A5106317363"
+    ],
+    "firstAuthorLastName": "Nindre",
+    "allAuthors": [
+      "Yves-Michel Le Nindre",
+      "Denis Vaslet",
+      "Robert Busnardo"
+    ],
+    "title": "Aptian ammonite of the Sallah Formation, central Saudi Arabia",
+    "publicationDate": "2010-01-01",
+    "year": 2010,
+    "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "citations": 7,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Marine and environmental studies"
+    ],
+    "institutions": [
+      "Bureau de Recherches Géologiques et Minières"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2049854591",
+    "doi": "https://doi.org/10.3997/2214-4609.20142795",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5044930714",
+      "A5057145151",
+      "A5006640587"
+    ],
+    "firstAuthorLastName": "Memesh",
+    "allAuthors": [
+      "Abdullah Memesh",
+      "Y. M. Le Nindre",
+      "Saleh M. Dini",
+      "Denis Vaslet"
+    ],
+    "title": "Pre-Buwaib and Late Valanginian Unconformities in Outcrop: Inherited Concepts, Facts, and Stratigraphic Consistency",
+    "publicationDate": "2012-12-09",
+    "year": 2012,
+    "venue": "Proceedings",
+    "citations": 4,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4381681826",
+    "doi": "https://doi.org/10.5802/crgeos.217",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5054427253",
+      "A5109445293",
+      "A5013388794",
+      "A5051867931",
+      "A5044930714",
+      "A5042844492"
+    ],
+    "firstAuthorLastName": "Nindre",
+    "allAuthors": [
+      "Yves-Michel Le Nindre",
+      "Denis Vaslet",
+      "Bruno Vrielynck",
+      "Leopold Krystyn",
+      "Jacques Manivit",
+      "Abdullah Memesh",
+      "Roger B. Davies"
+    ],
+    "title": "The Middle to Late Triassic of Central Saudi Arabia with emphasis on the Jilh Formation. Part I: lithostratigraphy, facies and paleoenvironments, palaeontology and biostratigraphic age calibration from outcrop studies",
+    "publicationDate": "2023-06-22",
+    "year": 2023,
+    "venue": "Comptes Rendus Géoscience",
+    "citations": 4,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2253479393",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5052512742",
+      "A5000986346",
+      "A5022478113"
+    ],
+    "firstAuthorLastName": "Izart",
+    "allAuthors": [
+      "Alain Izart",
+      "Olga L. Kossovaya",
+      "Daniel Vachard",
+      "Denis Vaslet"
+    ],
+    "title": "Stratigraphy, sedimentology and sequence stratigraphy of the Early Permian along the Kosva River (Gubakha area, Central Urals, Russia)",
+    "publicationDate": "1999-11-01",
+    "year": 1999,
+    "venue": "",
+    "citations": 5,
+    "topics": [
+      "Geological Studies and Exploration",
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "A.P. Karpinsky Russian Geological Research Institute",
+      "Bureau de Recherches Géologiques et Minières"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2089169648",
+    "doi": "https://doi.org/10.3997/2214-4609.201409151",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5075941004",
+      "A5051867931"
+    ],
+    "firstAuthorLastName": "Lindre",
+    "allAuthors": [
+      "Y. M. Le Lindre",
+      "Denis Vaslet",
+      "Jacques Manivit"
+    ],
+    "title": "Quantitative subsidence analysis of the Arabian shelf during the Jurassic",
+    "publicationDate": "1996-06-04",
+    "year": 1996,
+    "venue": "Proceedings",
+    "citations": 3,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geological and Geophysical Studies Worldwide",
+      "Marine and environmental studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4385358246",
+    "doi": "https://doi.org/10.5802/crgeos.227",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5054427253",
+      "A5042844492",
+      "A5071541848",
+      "A5013388794",
+      "A5109445293",
+      "A5044930714"
+    ],
+    "firstAuthorLastName": "Nindre",
+    "allAuthors": [
+      "Yves-Michel Le Nindre",
+      "Roger B. Davies",
+      "Benoît Issautier",
+      "Leopold Krystyn",
+      "Denis Vaslet",
+      "Bruno Vrielynck",
+      "Abdullah Memesh"
+    ],
+    "title": "The Middle to Late Triassic of Central Saudi Arabia with emphasis on the Jilh Formation. Part II: sequence stratigraphy, depositional and structural history, correlations and paleogeography",
+    "publicationDate": "2023-07-27",
+    "year": 2023,
+    "venue": "Comptes Rendus Géoscience",
+    "citations": 2,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Bureau de Recherches Géologiques et Minières",
+      "Geological Survey of Austria",
+      "University of Vienna",
+      "Institut des Sciences de la Terre de Paris"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W57810535",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5051867931",
+      "A5054427253"
+    ],
+    "firstAuthorLastName": "Vaslet",
+    "allAuthors": [
+      "Denis Vaslet",
+      "Jacques Manivit",
+      "Yves-Michel Le Nindre"
+    ],
+    "title": "Histoire géologique de la bordure occidentale de la plateforme arabe du paléozoïque inférieur au jurassique supérieur : (en 4 livres)",
+    "publicationDate": "1987-01-01",
+    "year": 1987,
+    "venue": "",
+    "citations": 11,
+    "topics": [
+      "Geological and Geophysical Studies Worldwide",
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W1969496698",
+    "doi": "https://doi.org/10.3997/2214-4609.201408493",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5030444809",
+      "A5052512742",
+      "A5019328510",
+      "A5085422147"
+    ],
+    "firstAuthorLastName": "Vai",
+    "allAuthors": [
+      "Gian Battista Vai",
+      "Alain Izart",
+      "Jean Broutin",
+      "B. S. Chuvasov",
+      "Denis Vaslet"
+    ],
+    "title": "Moscovian and Artinskian Maps Compared with Available Palinspastic Models",
+    "publicationDate": "1998-01-01",
+    "year": 1998,
+    "venue": "60th EAGE Conference and Exhibition",
+    "citations": 0,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Geological Formations and Processes Exploration",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2252368023",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5052512742",
+      "A5054427253",
+      "A5066761626",
+      "A5062723574"
+    ],
+    "firstAuthorLastName": "Izart",
+    "allAuthors": [
+      "Alain Izart",
+      "Yves-Michel Le Nindre",
+      "Randell Stephenson",
+      "Denis Vaslet",
+      "S. Stovba"
+    ],
+    "title": "Quantification of the control of sequences by tectonics and eustacy in the Dniepr-Donets Basin and on the Russian Platform",
+    "publicationDate": "2003-01-01",
+    "year": 2003,
+    "venue": "DSpace (Centre National De La Recherche Scientifique)",
+    "citations": 0,
+    "topics": [
+      "Geological Studies and Exploration",
+      "Mining and Gasification Technologies",
+      "Geological Formations and Processes Exploration"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2689493271",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329"
+    ],
+    "firstAuthorLastName": "Vaslet",
+    "allAuthors": [
+      "Denis Vaslet"
+    ],
+    "title": "Analyse structurale de la terminaison sud-orientale du massif de l'Argentera-Mercantour dans la région de Viève et Tende (Alpes-Maritimes)",
+    "publicationDate": "1978-01-13",
+    "year": 1978,
+    "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "citations": 0,
+    "topics": [],
+    "institutions": [
+      "Normandie Université",
+      "Université de Caen Normandie"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2749259613",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5040147688",
+      "A5020524306",
+      "A5014564274",
+      "A5004366843",
+      "A5052837329",
+      "A5088401966",
+      "A5110359922",
+      "A5036309577",
+      "A5057145151"
+    ],
+    "firstAuthorLastName": "Stephenson",
+    "allAuthors": [
+      "Michael H. Stephenson",
+      "Lucia Angiolini",
+      "D. P. F. Darbyshire",
+      "Melanie J. Leng",
+      "Fabrizio Berra",
+      "Gabriele Gambacorta",
+      "A. Nicora",
+      "Flavio Jadoul",
+      "Y. M. Le Nindre",
+      "Denis Vaslet"
+    ],
+    "title": "Strontium, Oxygen and Carbon isotopes to date and investigate Permian palaeoclimatic events in Arabia and to constrain the degree of diachroneity of the Khuff transgression",
+    "publicationDate": "2006-03-27",
+    "year": 2006,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2795262422",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5083118997"
+    ],
+    "firstAuthorLastName": "Vaslet",
+    "allAuthors": [
+      "Denis Vaslet",
+      "Philippe Feldmann"
+    ],
+    "title": "Quand un Microchilus en cache un autre : Micrichilus hirtellus (Sw) D. Dietr. (Goodyerinae), nouvelle espèce pour la flore de Guadeloupe, Dominique, Montserrat et Saint-Vincent (Petites Antilles)",
+    "publicationDate": "2012-01-01",
+    "year": 2012,
+    "venue": "Agritrop (Cirad)",
+    "citations": 0,
+    "topics": [
+      "Plant and animal studies",
+      "Plant Diversity and Evolution",
+      "Fern and Epiphyte Biology"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3093104488",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5087267351",
+      "A5006281942",
+      "A5072904044",
+      "A5113134771",
+      "A5079349772"
+    ],
+    "firstAuthorLastName": "Lasseur",
+    "allAuthors": [
+      "Éric Lasseur",
+      "François Guillocheau",
+      "Cécile Robin",
+      "Franck Hanot",
+      "Denis Vaslet",
+      "Renaud Couëffé"
+    ],
+    "title": "Sedimentology and sequence stratigraphy of the chalk (Upper cretaceous) of the Paris Basin",
+    "publicationDate": "2005-09-09",
+    "year": 2005,
+    "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies Worldwide",
+      "Geology and Paleoclimatology Research",
+      "Geological Formations and Processes Exploration"
+    ],
+    "institutions": [
+      "Géosciences Rennes",
+      "Bureau de Recherches Géologiques et Minières"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3159567963",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5058526940",
+      "A5020524306",
+      "A5080796115",
+      "A5004366843",
+      "A5052837329",
+      "A5088401966",
+      "A5036309577",
+      "A5110359922",
+      "A5054427253"
+    ],
+    "firstAuthorLastName": "Stephenson",
+    "allAuthors": [
+      "Mike Stephenson",
+      "Lucia Angiolini",
+      "F. A. Darbyshire",
+      "Melanie J. Leng",
+      "Fabrizio Berra",
+      "Gabriele Gambacorta",
+      "Flavio Jadoul",
+      "A. Nicora",
+      "Yves-Michel Le Nindre",
+      "Denis Vaslet"
+    ],
+    "title": "Strontium, oxygen and carbon isotopes to date and investigate Permian events in Arabia",
+    "publicationDate": "2007-01-01",
+    "year": 2007,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3164769664",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5011163986",
+      "A5081086956",
+      "A5015883885",
+      "A5068221180"
+    ],
+    "firstAuthorLastName": "Janjou",
+    "allAuthors": [
+      "Dominique Janjou",
+      "Denis Bonnefoy",
+      "Frank Hanot",
+      "Pierre Nehlig",
+      "Denis Vaslet"
+    ],
+    "title": "Le référentiel géologique de la France : harmonisation géologique et nomenclature litho-stratigraphique",
+    "publicationDate": "2002-01-01",
+    "year": 2002,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological Modeling and Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geophysical Studies Worldwide"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4294309255",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5087267351",
+      "A5006281942",
+      "A5072904044",
+      "A5113134771",
+      "A5079349772"
+    ],
+    "firstAuthorLastName": "Lasseur",
+    "allAuthors": [
+      "Éric Lasseur",
+      "François Guillocheau",
+      "Cécile Robin",
+      "Franck Hanot",
+      "Denis Vaslet",
+      "Renaud Couëffé"
+    ],
+    "title": "Sédimentologie et stratigraphie sequentielle de la craie (crétacé supérieur) du bassin de Paris",
+    "publicationDate": "2005-10-14",
+    "year": 2005,
+    "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "citations": 0,
+    "topics": [],
+    "institutions": [
+      "Géosciences Rennes",
+      "Bureau de Recherches Géologiques et Minières"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4299307649",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5038965329",
+    "allAuthorOpenAlexIds": [
+      "A5038965329",
+      "A5022478113",
+      "A5021604188",
+      "A5054427253"
+    ],
+    "firstAuthorLastName": "Vachard",
+    "allAuthors": [
+      "Daniel Vachard",
+      "Jérémie Gaillot",
+      "Denis Vaslet",
+      "Yves-Michel Le Nindre"
+    ],
+    "title": "Foraminifers and algae from the Khuff Formation (late Midle Permian-Early Triassic) of central Saudi Arabia",
+    "publicationDate": "2005-01-01",
+    "year": 2005,
+    "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Unité Évolution, Écologie et Paléontologie",
+      "Bureau de Recherches Géologiques et Minières"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2147937847",
     "doi": "https://doi.org/10.1306/04261110116",
     "program": "",
@@ -71138,48 +72564,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W2749259613",
-    "doi": "",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5040147688",
-    "allAuthorOpenAlexIds": [
-      "A5040147688",
-      "A5020524306",
-      "A5014564274",
-      "A5004366843",
-      "A5052837329",
-      "A5088401966",
-      "A5110359922",
-      "A5036309577",
-      "A5057145151",
-      "A5038965329"
-    ],
-    "firstAuthorLastName": "Stephenson",
-    "allAuthors": [
-      "Michael H. Stephenson",
-      "Lucia Angiolini",
-      "D. P. F. Darbyshire",
-      "Melanie J. Leng",
-      "Fabrizio Berra",
-      "Gabriele Gambacorta",
-      "A. Nicora",
-      "Flavio Jadoul",
-      "Y. M. Le Nindre",
-      "Denis Vaslet"
-    ],
-    "title": "Strontium, Oxygen and Carbon isotopes to date and investigate Permian palaeoclimatic events in Arabia and to constrain the degree of diachroneity of the Khuff transgression",
-    "publicationDate": "2006-03-27",
-    "year": 2006,
-    "venue": "",
-    "citations": 0,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geology and Paleoclimatology Research",
-      "Hydrocarbon exploration and reservoir analysis"
-    ],
-    "institutions": []
-  },
-  {
     "workId": "https://openalex.org/W2759826826",
     "doi": "",
     "program": "",
@@ -76210,46 +77594,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W2971608975",
-    "doi": "https://doi.org/10.2113/geoarabia0704699",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5044930714",
-    "allAuthorOpenAlexIds": [
-      "A5044930714",
-      "A5111895639",
-      "A5104831905",
-      "A5038965329",
-      "A5057776445",
-      "A5038238046"
-    ],
-    "firstAuthorLastName": "Philip",
-    "allAuthors": [
-      "Jean Philip",
-      "Jack Roger",
-      "Denis Vaslet",
-      "Fabrizio Cecca",
-      "Silvia Gardin",
-      "Abdullah Memesh"
-    ],
-    "title": "Sequence stratigraphy, biostratigraphy and paleontology of the Maastrichtian-Paleocene Aruma Formation in outcrop in Saudi Arabia",
-    "publicationDate": "2002-10-01",
-    "year": 2002,
-    "venue": "GeoArabia",
-    "citations": 26,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological and Geophysical Studies"
-    ],
-    "institutions": [
-      "Bureau de Recherches Géologiques et Minières",
-      "Sorbonne Université",
-      "Université Paris 8",
-      "Université Paris Cité",
-      "University of Aden"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W1496924522",
     "doi": "https://doi.org/10.2113/geoarabia170217",
     "program": "",
@@ -76603,113 +77947,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Taibah University",
       "Saudi Aramco (Saudi Arabia)"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2049854591",
-    "doi": "https://doi.org/10.3997/2214-4609.20142795",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5044930714",
-    "allAuthorOpenAlexIds": [
-      "A5044930714",
-      "A5057145151",
-      "A5006640587",
-      "A5038965329"
-    ],
-    "firstAuthorLastName": "Memesh",
-    "allAuthors": [
-      "Abdullah Memesh",
-      "Y. M. Le Nindre",
-      "Saleh M. Dini",
-      "Denis Vaslet"
-    ],
-    "title": "Pre-Buwaib and Late Valanginian Unconformities in Outcrop: Inherited Concepts, Facts, and Stratigraphic Consistency",
-    "publicationDate": "2012-12-09",
-    "year": 2012,
-    "venue": "Proceedings",
-    "citations": 4,
-    "topics": [
-      "Geological and Geophysical Studies",
-      "Geological formations and processes",
-      "Hydrocarbon exploration and reservoir analysis"
-    ],
-    "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W4381681826",
-    "doi": "https://doi.org/10.5802/crgeos.217",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5044930714",
-    "allAuthorOpenAlexIds": [
-      "A5044930714",
-      "A5054427253",
-      "A5038965329",
-      "A5109445293",
-      "A5013388794",
-      "A5051867931",
-      "A5042844492"
-    ],
-    "firstAuthorLastName": "Nindre",
-    "allAuthors": [
-      "Yves-Michel Le Nindre",
-      "Denis Vaslet",
-      "Bruno Vrielynck",
-      "Leopold Krystyn",
-      "Jacques Manivit",
-      "Abdullah Memesh",
-      "Roger B. Davies"
-    ],
-    "title": "The Middle to Late Triassic of Central Saudi Arabia with emphasis on the Jilh Formation. Part I: lithostratigraphy, facies and paleoenvironments, palaeontology and biostratigraphic age calibration from outcrop studies",
-    "publicationDate": "2023-06-22",
-    "year": 2023,
-    "venue": "Comptes Rendus Géoscience",
-    "citations": 4,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geological formations and processes",
-      "Geological and Geochemical Analysis"
-    ],
-    "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W4385358246",
-    "doi": "https://doi.org/10.5802/crgeos.227",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5044930714",
-    "allAuthorOpenAlexIds": [
-      "A5044930714",
-      "A5054427253",
-      "A5042844492",
-      "A5071541848",
-      "A5013388794",
-      "A5038965329",
-      "A5109445293"
-    ],
-    "firstAuthorLastName": "Nindre",
-    "allAuthors": [
-      "Yves-Michel Le Nindre",
-      "Roger B. Davies",
-      "Benoît Issautier",
-      "Leopold Krystyn",
-      "Denis Vaslet",
-      "Bruno Vrielynck",
-      "Abdullah Memesh"
-    ],
-    "title": "The Middle to Late Triassic of Central Saudi Arabia with emphasis on the Jilh Formation. Part II: sequence stratigraphy, depositional and structural history, correlations and paleogeography",
-    "publicationDate": "2023-07-27",
-    "year": 2023,
-    "venue": "Comptes Rendus Géoscience",
-    "citations": 2,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geological and Geochemical Analysis",
-      "Geological and Geophysical Studies"
-    ],
-    "institutions": [
-      "Bureau de Recherches Géologiques et Minières",
-      "Geological Survey of Austria",
-      "University of Vienna",
-      "Institut des Sciences de la Terre de Paris"
     ]
   },
   {
@@ -93943,6 +95180,36 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W2724564388",
+    "doi": "https://doi.org/10.2113/gssgfbull.s7-viii.3.347",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5051867931",
+    "allAuthorOpenAlexIds": [
+      "A5051867931",
+      "A5110891473",
+      "A5060495485",
+      "A5058952664"
+    ],
+    "firstAuthorLastName": "Mouterde",
+    "allAuthors": [
+      "R. Mouterde",
+      "Yves Kerrien",
+      "Jean Labourguigne",
+      "Jacques Manivit"
+    ],
+    "title": "Le Lias et le Bajocien de La Javie (Basses-Alpes)",
+    "publicationDate": "1966-01-01",
+    "year": 1966,
+    "venue": "Bulletin de la Société Géologique de France",
+    "citations": 4,
+    "topics": [
+      "Geological and Geophysical Studies Worldwide",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes"
+    ],
+    "institutions": []
+  },
+  {
     "workId": "https://openalex.org/W4210484148",
     "doi": "https://doi.org/10.3390/s22031027",
     "program": "",
@@ -94864,151 +96131,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W2287111010",
-    "doi": "https://doi.org/10.2113/geoarabia100477",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054427253",
-    "allAuthorOpenAlexIds": [
-      "A5054427253",
-      "A5038965329",
-      "A5022478113",
-      "A5019328510",
-      "A5066243148",
-      "A5109129765",
-      "A5021604188",
-      "A5055304725",
-      "A5081811780"
-    ],
-    "firstAuthorLastName": "Vaslet",
-    "allAuthors": [
-      "Denis Vaslet",
-      "Yves-Michel Le Nindre",
-      "Daniel Vachard",
-      "Jean Broutin",
-      "Sylvie Crasquin",
-      "Martine Berthelin",
-      "Jérémie Gaillot",
-      "Mohammed Halawani",
-      "Moujahed Al-Husseini"
-    ],
-    "title": "The Permian-Triassic Khuff Formation of central Saudi Arabia",
-    "publicationDate": "2005-10-01",
-    "year": 2005,
-    "venue": "GeoArabia",
-    "citations": 86,
-    "topics": [
-      "Geological and Geophysical Studies",
-      "Paleontology and Stratigraphy of Fossils",
-      "Plant Diversity and Evolution"
-    ],
-    "institutions": [
-      "Bureau de Recherches Géologiques et Minières",
-      "Centre National de la Recherche Scientifique",
-      "Unité Évolution, Écologie et Paléontologie"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W1580174060",
-    "doi": "https://doi.org/10.1111/j.1475-4983.2005.00476.x",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054427253",
-    "allAuthorOpenAlexIds": [
-      "A5054427253",
-      "A5066243148",
-      "A5038965329"
-    ],
-    "firstAuthorLastName": "Crasquin",
-    "allAuthors": [
-      "Sylvie Crasquin",
-      "Denis Vaslet",
-      "Yves-Michel Le Nindre"
-    ],
-    "title": "OSTRACODS AS MARKERS OF THE PERMIAN/TRIASSIC BOUNDARY IN THE KHUFF FORMATION OF SAUDI ARABIA",
-    "publicationDate": "2005-07-01",
-    "year": 2005,
-    "venue": "Palaeontology",
-    "citations": 77,
-    "topics": [
-      "Geology and Paleoclimatology Research",
-      "Paleontology and Stratigraphy of Fossils",
-      "Marine Biology and Ecology Research"
-    ],
-    "institutions": [
-      "Centre National de la Recherche Scientifique",
-      "Sorbonne Université",
-      "Bureau de Recherches Géologiques et Minières"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2571373978",
-    "doi": "https://doi.org/10.2113/geoarabia060163",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054427253",
-    "allAuthorOpenAlexIds": [
-      "A5054427253",
-      "A5078456413",
-      "A5051867931",
-      "A5038965329"
-    ],
-    "firstAuthorLastName": "Fischer",
-    "allAuthors": [
-      "Jean-Claude Fischer",
-      "Yves-Michel Le Nindre",
-      "Jacques Manivit",
-      "Denis Vaslet"
-    ],
-    "title": "Jurassic Gastropod Faunas of Central Saudi Arabia",
-    "publicationDate": "2001-01-01",
-    "year": 2001,
-    "venue": "GeoArabia",
-    "citations": 67,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Marine Biology and Ecology Research",
-      "Marine Bivalve and Aquaculture Studies"
-    ],
-    "institutions": [
-      "Muséum national d'Histoire naturelle",
-      "Bureau de Recherches Géologiques et Minières"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2041622963",
-    "doi": "https://doi.org/10.1016/s0037-0738(02)00291-9",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054427253",
-    "allAuthorOpenAlexIds": [
-      "A5054427253",
-      "A5038965329",
-      "A5057960590",
-      "A5070549075",
-      "A5055304725"
-    ],
-    "firstAuthorLastName": "Nindre",
-    "allAuthors": [
-      "Yves-Michel Le Nindre",
-      "Denis Vaslet",
-      "Joël Le Métour",
-      "Jocelyn Bertrand",
-      "Mohammed Halawani"
-    ],
-    "title": "Subsidence modelling of the Arabian Platform from Permian to Paleogene outcrops",
-    "publicationDate": "2003-01-21",
-    "year": 2003,
-    "venue": "Sedimentary Geology",
-    "citations": 64,
-    "topics": [
-      "Geological and Geophysical Studies",
-      "Geological and Geochemical Analysis",
-      "Paleontology and Stratigraphy of Fossils"
-    ],
-    "institutions": [
-      "Bureau de Recherches Géologiques et Minières",
-      "Université d'Orléans",
-      "Saudi Aramco (Saudi Arabia)"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W1542845244",
     "doi": "https://doi.org/10.2113/geoarabia190381",
     "program": "",
@@ -95112,39 +96234,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W2581167478",
-    "doi": "https://doi.org/10.2113/geoarabia130251",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054427253",
-    "allAuthorOpenAlexIds": [
-      "A5054427253",
-      "A5038965329",
-      "A5017225514",
-      "A5081811780"
-    ],
-    "firstAuthorLastName": "Nindre",
-    "allAuthors": [
-      "Yves-Michel Le Nindre",
-      "Denis Vaslet",
-      "Sami S. Maddah",
-      "Moujahed Al-Husseini"
-    ],
-    "title": "Stratigraphy of the Valanginian? to Early Paleocene succession in central Saudi Arabia outcrops: Implications for regional Arabian sequence stratigraphy",
-    "publicationDate": "2008-04-01",
-    "year": 2008,
-    "venue": "GeoArabia",
-    "citations": 32,
-    "topics": [
-      "Geological formations and processes",
-      "Paleontology and Stratigraphy of Fossils",
-      "Hydrocarbon exploration and reservoir analysis"
-    ],
-    "institutions": [
-      "Bureau de Recherches Géologiques et Minières",
-      "United States Geological Survey"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4231436524",
     "doi": "https://doi.org/10.2113/geoarabia200467",
     "program": "",
@@ -95184,36 +96273,6 @@ export const worksTable: WorkTableRecord[] = [
       "Technical University of Darmstadt",
       "Bureau de Recherches Géologiques et Minières"
     ]
-  },
-  {
-    "workId": "https://openalex.org/W2954113145",
-    "doi": "https://doi.org/10.2113/geoarabia1004137",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054427253",
-    "allAuthorOpenAlexIds": [
-      "A5054427253",
-      "A5022478113",
-      "A5021604188",
-      "A5038965329"
-    ],
-    "firstAuthorLastName": "Vachard",
-    "allAuthors": [
-      "Daniel Vachard",
-      "Jérémie Gaillot",
-      "Denis Vaslet",
-      "Yves-Michel Le Nindre"
-    ],
-    "title": "Foraminifers and algae from the Khuff Formation (late Middle Permian-Early Triassic) of central Saudi Arabia",
-    "publicationDate": "2005-10-01",
-    "year": 2005,
-    "venue": "GeoArabia",
-    "citations": 53,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Paleontology and Evolutionary Biology",
-      "Evolution and Paleontology Studies"
-    ],
-    "institutions": []
   },
   {
     "workId": "https://openalex.org/W1979422933",
@@ -95299,66 +96358,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W2188233270",
-    "doi": "https://doi.org/10.2113/geoarabia110155",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054427253",
-    "allAuthorOpenAlexIds": [
-      "A5054427253",
-      "A5066243148",
-      "A5038965329"
-    ],
-    "firstAuthorLastName": "Crasquin",
-    "allAuthors": [
-      "Sylvie Crasquin",
-      "Denis Vaslet",
-      "Yves-Michel Le Nindre"
-    ],
-    "title": "Ostracods of the Permian-Triassic Khuff Formation, Saudi Arabia: palaeoecology and palaeobiogeography",
-    "publicationDate": "2006-01-01",
-    "year": 2006,
-    "venue": "GeoArabia",
-    "citations": 23,
-    "topics": [
-      "Geology and Paleoclimatology Research",
-      "Paleontology and Stratigraphy of Fossils",
-      "Geological formations and processes"
-    ],
-    "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W3127056474",
-    "doi": "https://doi.org/10.2113/geoarabia110365",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054427253",
-    "allAuthorOpenAlexIds": [
-      "A5054427253",
-      "A5109129765",
-      "A5019328510",
-      "A5038965329",
-      "A5055304725"
-    ],
-    "firstAuthorLastName": "Berthelin",
-    "allAuthors": [
-      "Martine Berthelin",
-      "Jean Broutin",
-      "Denis Vaslet",
-      "Yves-Michel Le Nindre",
-      "Mohammed Halawani"
-    ],
-    "title": "Mixed Late Permian floras and related palaeoenvironments in the Khuff Formation of central Saudi Arabia",
-    "publicationDate": "2006-07-01",
-    "year": 2006,
-    "venue": "GeoArabia",
-    "citations": 21,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geological and Geophysical Studies",
-      "Geology and Paleoclimatology Research"
-    ],
-    "institutions": []
-  },
-  {
     "workId": "https://openalex.org/W1056795926",
     "doi": "https://doi.org/10.1016/j.crte.2015.06.006",
     "program": "",
@@ -95392,92 +96391,6 @@ export const worksTable: WorkTableRecord[] = [
       "Sustainable Europe Research Institute",
       "Bureau de Recherches Géologiques et Minières"
     ]
-  },
-  {
-    "workId": "https://openalex.org/W2968599283",
-    "doi": "https://doi.org/10.2113/geoarabia110445",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054427253",
-    "allAuthorOpenAlexIds": [
-      "A5054427253",
-      "A5020524306",
-      "A5038965329",
-      "A5035478780"
-    ],
-    "firstAuthorLastName": "Angiolini",
-    "allAuthors": [
-      "Lucia Angiolini",
-      "Denis Vaslet",
-      "Yves-Michel Le Nindre",
-      "Miriam Zarbo"
-    ],
-    "title": "New records and new taxa of Permian brachiopods from the Khuff Formation, Midhnab Member, central Saudi Arabia",
-    "publicationDate": "2006-10-01",
-    "year": 2006,
-    "venue": "GeoArabia",
-    "citations": 8,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geological and Geophysical Studies",
-      "Marine Biology and Ecology Research"
-    ],
-    "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W2979942938",
-    "doi": "https://doi.org/10.2113/geoarabia110391",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054427253",
-    "allAuthorOpenAlexIds": [
-      "A5054427253",
-      "A5110727110",
-      "A5038965329"
-    ],
-    "firstAuthorLastName": "Nicora",
-    "allAuthors": [
-      "Alda Nicora",
-      "Denis Vaslet",
-      "Yves-Michel Le Nindre"
-    ],
-    "title": "First record of Permian conodont<i>“jinogondolella”</i>cf.<i>altaduensis</i>from the Midhnab Member, Khuff Formation, Saudi Arabia",
-    "publicationDate": "2006-07-01",
-    "year": 2006,
-    "venue": "GeoArabia",
-    "citations": 7,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Paleontology and Stratigraphy of Fossils",
-      "Geology and Paleoclimatology Research"
-    ],
-    "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W2972134149",
-    "doi": "https://doi.org/10.2113/geoarabia110181",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054427253",
-    "allAuthorOpenAlexIds": [
-      "A5054427253",
-      "A5107540602",
-      "A5038965329"
-    ],
-    "firstAuthorLastName": "Chirat",
-    "allAuthors": [
-      "Régis Chirat",
-      "Denis Vaslet",
-      "Yves-Michel Le Nindre"
-    ],
-    "title": "Nautiloids of the Permian-Triassic Khuff Formation, central Saudi Arabia",
-    "publicationDate": "2006-01-01",
-    "year": 2006,
-    "venue": "GeoArabia",
-    "citations": 13,
-    "topics": [
-      "Cephalopods and Marine Biology",
-      "Paleontology and Stratigraphy of Fossils",
-      "Marine Biology and Ecology Research"
-    ],
-    "institutions": []
   },
   {
     "workId": "https://openalex.org/W2610793454",
@@ -95515,36 +96428,6 @@ export const worksTable: WorkTableRecord[] = [
       "Shell (Netherlands)",
       "University of Tübingen",
       "Technical University of Darmstadt",
-      "Bureau de Recherches Géologiques et Minières"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W28724452",
-    "doi": "",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054427253",
-    "allAuthorOpenAlexIds": [
-      "A5054427253",
-      "A5038965329",
-      "A5106317363"
-    ],
-    "firstAuthorLastName": "Nindre",
-    "allAuthors": [
-      "Yves-Michel Le Nindre",
-      "Denis Vaslet",
-      "Robert Busnardo"
-    ],
-    "title": "Aptian ammonite of the Sallah Formation, central Saudi Arabia",
-    "publicationDate": "2010-01-01",
-    "year": 2010,
-    "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
-    "citations": 7,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geology and Paleoclimatology Research",
-      "Marine and environmental studies"
-    ],
-    "institutions": [
       "Bureau de Recherches Géologiques et Minières"
     ]
   },
@@ -95673,34 +96556,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W57810535",
-    "doi": "",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054427253",
-    "allAuthorOpenAlexIds": [
-      "A5054427253",
-      "A5038965329",
-      "A5051867931"
-    ],
-    "firstAuthorLastName": "Vaslet",
-    "allAuthors": [
-      "Denis Vaslet",
-      "Jacques Manivit",
-      "Yves-Michel Le Nindre"
-    ],
-    "title": "Histoire géologique de la bordure occidentale de la plateforme arabe du paléozoïque inférieur au jurassique supérieur : (en 4 livres)",
-    "publicationDate": "1987-01-01",
-    "year": 1987,
-    "venue": "",
-    "citations": 11,
-    "topics": [
-      "Geological and Geophysical Studies Worldwide",
-      "Geological formations and processes",
-      "Paleontology and Stratigraphy of Fossils"
-    ],
-    "institutions": []
-  },
-  {
     "workId": "https://openalex.org/W2037835118",
     "doi": "https://doi.org/10.1016/j.egypro.2011.02.609",
     "program": "",
@@ -95761,38 +96616,6 @@ export const worksTable: WorkTableRecord[] = [
       "Hydrocarbon exploration and reservoir analysis",
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geophysical Studies"
-    ],
-    "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W2252368023",
-    "doi": "",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054427253",
-    "allAuthorOpenAlexIds": [
-      "A5054427253",
-      "A5052512742",
-      "A5066761626",
-      "A5038965329",
-      "A5062723574"
-    ],
-    "firstAuthorLastName": "Izart",
-    "allAuthors": [
-      "Alain Izart",
-      "Yves-Michel Le Nindre",
-      "Randell Stephenson",
-      "Denis Vaslet",
-      "S. Stovba"
-    ],
-    "title": "Quantification of the control of sequences by tectonics and eustacy in the Dniepr-Donets Basin and on the Russian Platform",
-    "publicationDate": "2003-01-01",
-    "year": 2003,
-    "venue": "DSpace (Centre National De La Recherche Scientifique)",
-    "citations": 0,
-    "topics": [
-      "Geological Studies and Exploration",
-      "Mining and Gasification Technologies",
-      "Geological Formations and Processes Exploration"
     ],
     "institutions": []
   },
@@ -95864,48 +96687,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Bureau de Recherches Géologiques et Minières"
     ]
-  },
-  {
-    "workId": "https://openalex.org/W3159567963",
-    "doi": "",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054427253",
-    "allAuthorOpenAlexIds": [
-      "A5054427253",
-      "A5058526940",
-      "A5020524306",
-      "A5080796115",
-      "A5004366843",
-      "A5052837329",
-      "A5088401966",
-      "A5036309577",
-      "A5110359922",
-      "A5038965329"
-    ],
-    "firstAuthorLastName": "Stephenson",
-    "allAuthors": [
-      "Mike Stephenson",
-      "Lucia Angiolini",
-      "F. A. Darbyshire",
-      "Melanie J. Leng",
-      "Fabrizio Berra",
-      "Gabriele Gambacorta",
-      "Flavio Jadoul",
-      "A. Nicora",
-      "Yves-Michel Le Nindre",
-      "Denis Vaslet"
-    ],
-    "title": "Strontium, oxygen and carbon isotopes to date and investigate Permian events in Arabia",
-    "publicationDate": "2007-01-01",
-    "year": 2007,
-    "venue": "",
-    "citations": 0,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological and Geophysical Studies"
-    ],
-    "institutions": []
   },
   {
     "workId": "https://openalex.org/W3196741789",
@@ -95986,39 +96767,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Bureau de Recherches Géologiques et Minières",
       "Aix-Marseille Université"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4299307649",
-    "doi": "",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054427253",
-    "allAuthorOpenAlexIds": [
-      "A5054427253",
-      "A5022478113",
-      "A5021604188",
-      "A5038965329"
-    ],
-    "firstAuthorLastName": "Vachard",
-    "allAuthors": [
-      "Daniel Vachard",
-      "Jérémie Gaillot",
-      "Denis Vaslet",
-      "Yves-Michel Le Nindre"
-    ],
-    "title": "Foraminifers and algae from the Khuff Formation (late Midle Permian-Early Triassic) of central Saudi Arabia",
-    "publicationDate": "2005-01-01",
-    "year": 2005,
-    "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
-    "citations": 0,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geological and Geophysical Studies",
-      "Geological formations and processes"
-    ],
-    "institutions": [
-      "Unité Évolution, Écologie et Paléontologie",
-      "Bureau de Recherches Géologiques et Minières"
     ]
   },
   {
@@ -115740,42 +116488,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
-    "workId": "https://openalex.org/W3157716230",
-    "doi": "",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5081811780",
-    "allAuthorOpenAlexIds": [
-      "A5081811780",
-      "A5020524306",
-      "A5066243148",
-      "A5033262911",
-      "A5104831905",
-      "A5022478113",
-      "A5038965329"
-    ],
-    "firstAuthorLastName": "Angiolini",
-    "allAuthors": [
-      "Lucia Angiolini",
-      "Sylvie Crasquin",
-      "Jean-Pierre Platel",
-      "Jack Roger",
-      "Daniel Vachard",
-      "Denis Vaslet",
-      "Moujahed Al-Husseini"
-    ],
-    "title": "Saiwan, Gharif and Khuff formations, Haushi-Huqf Uplift, Oman",
-    "publicationDate": "2004-01-01",
-    "year": 2004,
-    "venue": "",
-    "citations": 20,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Reservoir Engineering and Simulation Methods",
-      "Hydraulic Fracturing and Reservoir Analysis"
-    ],
-    "institutions": []
-  },
-  {
     "workId": "https://openalex.org/W2951871263",
     "doi": "https://doi.org/10.2113/geoarabia2004183",
     "program": "",
@@ -116761,6 +117473,3418 @@ export const worksTable: WorkTableRecord[] = [
     "citations": 0,
     "topics": [],
     "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2029445869",
+    "doi": "https://doi.org/10.1016/s0016-6995(94)80252-1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Atlas of mesozoic and cenozoic coastlines",
+    "publicationDate": "1994-01-01",
+    "year": 1994,
+    "venue": "Geobios",
+    "citations": 430,
+    "topics": [
+      "Geological Modeling and Analysis",
+      "Geological formations and processes",
+      "Methane Hydrates and Related Phenomena"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2006966458",
+    "doi": "https://doi.org/10.1016/s0031-0182(96)00157-5",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5112292787"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "Élie Cariou"
+    ],
+    "title": "Ammonite faunas and palaeobiogeography of the Himalayan belt during the Jurassic: Initiation of a Late Jurassic austral ammonite fauna",
+    "publicationDate": "1997-11-01",
+    "year": 1997,
+    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "citations": 71,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Marine Biology and Ecology Research"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Université Claude Bernard Lyon 1",
+      "Université de Poitiers"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4241752118",
+    "doi": "https://doi.org/10.1144/cev2p.2",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5038818609",
+      "A5019153528",
+      "A5036772661",
+      "A5068001956",
+      "A5025789583",
+      "A5037339394",
+      "A5001961554",
+      "A5003698677",
+      "A5001108064",
+      "A5044568829",
+      "A5043465473",
+      "A5033257000",
+      "A5075623910",
+      "A5001029020",
+      "A5084687478",
+      "A5086559300",
+      "A5070114935",
+      "A5045796351",
+      "A5107031467",
+      "A5015726777",
+      "A5113465675",
+      "A5054441748",
+      "A5112531313"
+    ],
+    "firstAuthorLastName": "Pieńkowski",
+    "allAuthors": [
+      "Grzegorz Pieńkowski",
+      "Michael Schudack",
+      "Pavel Bosák",
+      "Raymond Énay",
+      "Anna Feldman-Olszewska",
+      "Jan Golonka",
+      "Jacek Gutowski",
+      "G.F.W. Herngreen",
+      "Peter Jordan",
+      "Michał Krobicki",
+      "Bernard Lathuilière",
+      "Reinhold Leinfelder",
+      "Jozef Michalı́k",
+      "Eckhard Monnig",
+      "Nanna Noe‐Nygaard",
+      "József Pálfy",
+      "Anna Pint",
+      "Michael W. Rasser",
+      "Achim G. Reisdorf",
+      "Dieter U. Schmid",
+      "Günter Schweigert",
+      "Finn Surlyk",
+      "Andreas Wetzel",
+      "Theo E. Wong"
+    ],
+    "title": "Jurassic",
+    "publicationDate": "2018-07-27",
+    "year": 2018,
+    "venue": "",
+    "citations": 34,
+    "topics": [
+      "Geological Studies and Exploration",
+      "Geological Formations and Processes Exploration",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W1994320027",
+    "doi": "https://doi.org/10.1007/s10347-004-0035-4",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5113572525",
+      "A5110130149",
+      "A5109104692",
+      "A5036229728",
+      "A5002257432",
+      "A5041328041",
+      "A5113783964",
+      "A5110747383",
+      "A5017337735"
+    ],
+    "firstAuthorLastName": "Lathuili�re",
+    "allAuthors": [
+      "Bernard Lathuili�re",
+      "Christian Gaillard",
+      "Nad�ge Habrant",
+      "Y. Bodeur",
+      "Annick Boullier",
+      "Raymond �nay",
+      "Micheline Hanzo",
+      "Didier Marchand",
+      "Jacques Thierry",
+      "Winfried Werner"
+    ],
+    "title": "Coral zonation of an Oxfordian reef tract in the northern French Jura",
+    "publicationDate": "2005-01-24",
+    "year": 2005,
+    "venue": "Facies",
+    "citations": 59,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "École Nationale Supérieure des Mines de Nancy",
+      "Université Claude Bernard Lyon 1",
+      "Nantes Université",
+      "Université de franche-comté",
+      "Biogéosciences",
+      "Université de Bourgogne",
+      "Bayerische Staatssammlung für Paläontologie und Geologie"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2243805225",
+    "doi": "https://doi.org/10.18814/epiiugs/1997/v20i1/004",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5012777093"
+    ],
+    "firstAuthorLastName": "Pavia",
+    "allAuthors": [
+      "Giulio Pavia",
+      "Raymond Énay"
+    ],
+    "title": "Definition of the Aalenian-Bajocian Stage boundary",
+    "publicationDate": "1997-03-01",
+    "year": 1997,
+    "venue": "Episodes",
+    "citations": 54,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2000921130",
+    "doi": "https://doi.org/10.1016/j.geobios.2003.05.006",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5108387603"
+    ],
+    "firstAuthorLastName": "Yin",
+    "allAuthors": [
+      "Jiarun Yin",
+      "Raymond Énay"
+    ],
+    "title": "Tithonian ammonoid biostratigraphy in eastern Himalayan Tibet",
+    "publicationDate": "2004-09-01",
+    "year": 2004,
+    "venue": "Geobios",
+    "citations": 36,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "China University of Geosciences (Beijing)",
+      "Academia Sinica",
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2038411788",
+    "doi": "https://doi.org/10.1016/s0016-6995(00)80077-7",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5040276116",
+      "A5113658841",
+      "A5113097444",
+      "A5048462600"
+    ],
+    "firstAuthorLastName": "Soussi",
+    "allAuthors": [
+      "Mohamed Soussi",
+      "Charles Mangold",
+      "Raymond Énay",
+      "Mabrouk Boughdiri",
+      "Mohamed Hédi Ben Ismaïl"
+    ],
+    "title": "Le jurassique inférieur et moyen de la Tunisie septentrionale; corrélations avec l'axe Nord-Sud et paléogéographie",
+    "publicationDate": "2000-01-01",
+    "year": 2000,
+    "venue": "Geobios",
+    "citations": 30,
+    "topics": [
+      "Geological and Geophysical Studies Worldwide",
+      "Archaeological and Geological Studies",
+      "Archaeological and Historical Studies"
+    ],
+    "institutions": [
+      "University of Sfax",
+      "Université Claude Bernard Lyon 1",
+      "Tunis University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1969483030",
+    "doi": "https://doi.org/10.1111/j.1475-4983.2007.00648.x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5108387603",
+      "A5061872836",
+      "A5084687478"
+    ],
+    "firstAuthorLastName": "Yin",
+    "allAuthors": [
+      "Jiarun Yin",
+      "Paul L. Smith",
+      "József Pálfy",
+      "Raymond Énay"
+    ],
+    "title": "AMMONOIDS AND THE TRIASSIC/JURASSIC BOUNDARY IN THE HIMALAYAS OF SOUTHERN TIBET",
+    "publicationDate": "2007-05-01",
+    "year": 2007,
+    "venue": "Palaeontology",
+    "citations": 27,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Evolutionary Biology"
+    ],
+    "institutions": [
+      "China University of Geosciences (Beijing)",
+      "University of British Columbia",
+      "Hungarian Academy of Sciences",
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2982658177",
+    "doi": "https://doi.org/10.2113/geoarabia140117",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5113658841",
+      "A5073534648",
+      "A5103499964"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "Charles Mangold",
+      "Yves Alméras",
+      "Geraint W. Hughes"
+    ],
+    "title": "The Wadi ad Dawasir “delta”, central Saudi Arabia: A relative sea-level fall of Early Bathonian age",
+    "publicationDate": "2009-01-01",
+    "year": 2009,
+    "venue": "GeoArabia",
+    "citations": 25,
+    "topics": [
+      "Geological formations and processes",
+      "Marine and environmental studies",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3173931679",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Les faunes d’ammonites de l’Oxfordien au Tithonien et la biostratigraphie des Spiti-Shales (Callovien supérieur-Tithonien) de Thakkhola, Népal Central",
+    "publicationDate": "2009-01-01",
+    "year": 2009,
+    "venue": "",
+    "citations": 23,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils",
+      "Evolution and Paleontology Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2973012426",
+    "doi": "https://doi.org/10.1016/j.cretres.2019.104241",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "The Jurassic/Cretaceous system boundary is an impasse. Why do not go back to Oppel’s 1865 original an historic definition of the Tithonian?",
+    "publicationDate": "2019-09-10",
+    "year": 2019,
+    "venue": "Cretaceous Research",
+    "citations": 22,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W270704681",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5001616542",
+      "A5035887572",
+      "A5113783964",
+      "A5110747383",
+      "A5038445834",
+      "A5071044179",
+      "A5026644857",
+      "A5048329245",
+      "A5038238046",
+      "A5021727374",
+      "A5111966321",
+      "A5054987251",
+      "A5031640273"
+    ],
+    "firstAuthorLastName": "Pellenard",
+    "allAuthors": [
+      "Pierre Pellenard",
+      "Dominique Fortwengler",
+      "Didier Marchand",
+      "Jacques Thierry",
+      "Annachiara Bartolini",
+      "Slah Boulila",
+      "Pierre‐Yves Collin",
+      "Raymond Énay",
+      "Bruno Galbrun",
+      "Silvia Gardin",
+      "Vincent Huault",
+      "Émilia Huret",
+      "Mathieu Martinez",
+      "Carmela Chateau‐Smith"
+    ],
+    "title": "Integrated stratigraphy of the Oxfordian global stratotype section and point (GSSP) candidate in the Subalpine Basin (SE France)",
+    "publicationDate": "2014-01-01",
+    "year": 2014,
+    "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "citations": 16,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils",
+      "Pleistocene-Era Hominins and Archaeology"
+    ],
+    "institutions": [
+      "Biogéosciences",
+      "Université de Bourgogne",
+      "Centre de recherche en paléontologie - Paris",
+      "Institut des Sciences de la Terre de Paris",
+      "Centre National de la Recherche Scientifique",
+      "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
+      "Université Claude Bernard Lyon 1",
+      "Université Jean Monnet",
+      "École Normale Supérieure de Lyon",
+      "GeoRessources",
+      "Université de Lorraine",
+      "Agence Nationale pour la Gestion des Déchets Radioactifs",
+      "Laboratoire des Fluides Complexes et leurs Réservoirs",
+      "Laboratoire de Dynamique des Fluides"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2965506511",
+    "doi": "https://doi.org/10.17161/to.v0i0.11672",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5057544445"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "Michael K. Howarth"
+    ],
+    "title": "Treatise Online no. 120: Part L, Volume 3B, Chapter 7: Systematic Descriptions of the Perisphinctoidea",
+    "publicationDate": "2019-03-19",
+    "year": 2019,
+    "venue": "Treatise Online",
+    "citations": 7,
+    "topics": [
+      "Head and Neck Anomalies",
+      "Oropharyngeal Anatomy and Pathologies",
+      "Law, logistics, and international trade"
+    ],
+    "institutions": [
+      "Laboratoire de Sciences de la Terre",
+      "Université Claude Bernard Lyon 1",
+      "Natural History Museum"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2022629927",
+    "doi": "https://doi.org/10.1016/s0016-6995(72)80013-5",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Paleobiogeographie des ammonites du jurassique terminal (Tithonique/volgien/portlandien S.L.) et mobilite continentale",
+    "publicationDate": "1972-01-01",
+    "year": 1972,
+    "venue": "Geobios",
+    "citations": 57,
+    "topics": [
+      "Marine and environmental studies",
+      "Isotope Analysis in Ecology",
+      "Marine Biology and Environmental Chemistry"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2603528832",
+    "doi": "https://doi.org/10.2113/gssgfbull.162.1.27",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5071039263",
+      "A5003392843",
+      "A5013491048",
+      "A5114260129",
+      "A5077928962",
+      "A5044581746",
+      "A5048339986",
+      "A5029896161",
+      "A5074890603",
+      "A5101740007",
+      "A5022151281",
+      "A5109445293"
+    ],
+    "firstAuthorLastName": "Fourcade",
+    "allAuthors": [
+      "E. Fourcade",
+      "Jean Dercourt",
+      "Yahya Günay",
+      "Jacques Azéma",
+      "Hayriye Hale Kozlu",
+      "J.P. Bellier",
+      "Fabrice Cordey",
+      "Pierrick Cros",
+      "Patrick De Wever",
+      "Raymond Énay",
+      "J. Hernández",
+      "J. Lauer",
+      "Bruno Vrielynck"
+    ],
+    "title": "Stratigraphie et paleogeographie de la marge septentrionale de la plate-forme arabe au mesozoique (Turquie du sud-est)",
+    "publicationDate": "1991-01-01",
+    "year": 1991,
+    "venue": "Bulletin de la Société Géologique de France",
+    "citations": 46,
+    "topics": [
+      "Geological and Geophysical Studies Worldwide",
+      "Geological formations and processes",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "Institut des Matériaux, de Microélectronique et des Nanosciences de Provence",
+      "Centre National de la Recherche Scientifique",
+      "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
+      "Université Claude Bernard Lyon 1",
+      "Université Jean Monnet",
+      "École Normale Supérieure de Lyon"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2084700225",
+    "doi": "https://doi.org/10.1016/s1367-9120(99)00012-7",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5112292787"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "Élie Cariou"
+    ],
+    "title": "Jurassic ammonite faunas from Nepal and their bearing on the palaeobiogeography of the Himalayan belt",
+    "publicationDate": "1999-10-01",
+    "year": 1999,
+    "venue": "Journal of Asian Earth Sciences",
+    "citations": 34,
+    "topics": [
+      "Marine Biology and Ecology Research",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Université Claude Bernard Lyon 1",
+      "Université de Poitiers"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2094937650",
+    "doi": "https://doi.org/10.1016/s0016-6995(94)80136-3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5113658841"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "Charles Mangold"
+    ],
+    "title": "Première zonation par ammonitesdu Jurassique d'Arabie Séoudite, une référence pour la province arabique",
+    "publicationDate": "1994-12-01",
+    "year": 1994,
+    "venue": "Geobios",
+    "citations": 33,
+    "topics": [
+      "Marine and environmental studies",
+      "Geology and Paleoclimatology Research",
+      "Pleistocene-Era Hominins and Archaeology"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2084983154",
+    "doi": "https://doi.org/10.1016/s0016-6995(94)80226-2",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5003392843",
+      "A5111600467",
+      "A5057776445",
+      "A5114260129",
+      "A5064236729",
+      "A5028434039"
+    ],
+    "firstAuthorLastName": "Dercourt",
+    "allAuthors": [
+      "Jean Dercourt",
+      "Éric Fourcade",
+      "Fabrizio Cecca",
+      "Jacques Azéma",
+      "Raymond Énay",
+      "Jean-Paul Bassoullet",
+      "Nicolas Cottereau"
+    ],
+    "title": "Palaeoenvironment of the Jurassicsystem in the Western and Central Tethys (Toarcian, Callovian, Kimmeridgian, Tithonian): An overview",
+    "publicationDate": "1994-12-01",
+    "year": 1994,
+    "venue": "Geobios",
+    "citations": 21,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Sorbonne Université",
+      "Servizio Sanitario Nazionale",
+      "Université Claude Bernard Lyon 1",
+      "Université de Poitiers"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2480200951",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5035630470",
+      "A5108275654",
+      "A5112292787",
+      "A5001915270"
+    ],
+    "firstAuthorLastName": "Bardet",
+    "allAuthors": [
+      "Nathalie Bardet",
+      "Jean‐Michel Mazin",
+      "Élie Cariou",
+      "Raymond Énay",
+      "Jai Krishna"
+    ],
+    "title": "Les Plesiosauria du Jurassique supérieur de la province de Kachchh (Inde)",
+    "publicationDate": "1991-01-01",
+    "year": 1991,
+    "venue": "Comptes rendus de l'Académie des sciences. Série 2, Mécanique, Physique, Chimie, Sciences de l'univers, Sciences de la Terre",
+    "citations": 18,
+    "topics": [
+      "Paleontology and Evolutionary Biology",
+      "Fish Biology and Ecology Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3109317043",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5057776445",
+      "A5074906714"
+    ],
+    "firstAuthorLastName": "Cecca",
+    "allAuthors": [
+      "Fabrizio Cecca",
+      "Raymond Énay",
+      "Gérard Le Hégarat"
+    ],
+    "title": "L’Ardescien (Tithonique supérieur) de la région stratotypique : séries de référence et faunes (ammonites, calpionelles) de la bordure ardéchoise",
+    "publicationDate": "1989-01-01",
+    "year": 1989,
+    "venue": "",
+    "citations": 18,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2028260604",
+    "doi": "https://doi.org/10.1016/s1251-8050(99)80214-6",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5108387603",
+      "A5112121713"
+    ],
+    "firstAuthorLastName": "Yin",
+    "allAuthors": [
+      "Jiarun Yin",
+      "Raymond Énay",
+      "Xiaoqiao Wan"
+    ],
+    "title": "The first report of the Late Triassic-Early Jurassic passage beds in the Eastern Tethyan Himalaya",
+    "publicationDate": "1999-07-01",
+    "year": 1999,
+    "venue": "Comptes Rendus de l Académie des Sciences - Series IIA - Earth and Planetary Science",
+    "citations": 16,
+    "topics": [
+      "Paleontology and Evolutionary Biology",
+      "Paleontology and Stratigraphy of Fossils",
+      "Evolution and Paleontology Studies"
+    ],
+    "institutions": [
+      "China University of Geosciences (Beijing)",
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2083588700",
+    "doi": "https://doi.org/10.1016/s1251-8050(99)80020-2",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5113097444",
+      "A5074906714"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "Mabrouk Boughdiri",
+      "Gérard Le Hégarat"
+    ],
+    "title": "Durangites, Protacanthodiscus (Ammonitina) et formes voisines du Tithonien supérieur — Berriasien dans la Téthys méditerranéenne (SE France, Espagne, Algérie et Tunisie)",
+    "publicationDate": "1998-09-01",
+    "year": 1998,
+    "venue": "Comptes Rendus de l Académie des Sciences - Series IIA - Earth and Planetary Science",
+    "citations": 15,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Diatoms and Algae Research"
+    ],
+    "institutions": [
+      "Université Claude Bernard Lyon 1",
+      "Manouba University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2011459998",
+    "doi": "https://doi.org/10.1016/j.crpv.2006.01.007",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5104884901",
+      "A5035427451",
+      "A5042680247",
+      "A5055447429",
+      "A5049868891",
+      "A5083243052",
+      "A5072078512"
+    ],
+    "firstAuthorLastName": "Lœuff",
+    "allAuthors": [
+      "Jean Le Lœuff",
+      "Christian Gourrat",
+      "Patrice Landry",
+      "Lionel Hautier",
+      "Romain Liard",
+      "Christel Souillat",
+      "Éric Buffetaut",
+      "Raymond Énay"
+    ],
+    "title": "A Late Jurassic sauropod tracksite from Southern Jura (France)",
+    "publicationDate": "2006-04-07",
+    "year": 2006,
+    "venue": "Comptes Rendus Palevol",
+    "citations": 14,
+    "topics": [
+      "Paleontology and Evolutionary Biology",
+      "Evolution and Paleontology Studies",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Musée de l'Homme",
+      "Maison des Sciences de l'Homme",
+      "Centre National de la Recherche Scientifique",
+      "Institut des Sciences de l'Evolution de Montpellier",
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2999055568",
+    "doi": "https://doi.org/10.1016/j.gloplacha.2020.103127",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5014127453",
+      "A5000182708",
+      "A5001616542",
+      "A5076555974",
+      "A5103441451",
+      "A5013507683",
+      "A5025517046",
+      "A5091837089",
+      "A5009426352",
+      "A5028623333",
+      "A5108118684",
+      "A5008888557"
+    ],
+    "firstAuthorLastName": "Carmeille",
+    "allAuthors": [
+      "Mehdi Carmeille",
+      "Raphaël Bourillot",
+      "Pierre Pellenard",
+      "Victor Dupias",
+      "Johann Schnyder",
+      "Laurent Riquier",
+      "Olivier Mathieu",
+      "Marie‐Françoise Brunet",
+      "Raymond Énay",
+      "Vincent Grossi",
+      "Cécile Gaborieau",
+      "Philippe Razin",
+      "Pieter T. Visscher"
+    ],
+    "title": "Formation of microbial organic carbonates during the Late Jurassic from the Northern Tethys (Amu Darya Basin, Uzbekistan): Implications for Jurassic anoxic events",
+    "publicationDate": "2020-01-17",
+    "year": 2020,
+    "venue": "Global and Planetary Change",
+    "citations": 13,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geochemistry and Elemental Analysis"
+    ],
+    "institutions": [
+      "Biogéosciences",
+      "Université de Bourgogne",
+      "Institut des Sciences de la Terre de Paris",
+      "Sorbonne Paris Cité",
+      "Sorbonne Université",
+      "Institute of Paleoprimatology Human Paleontology Evolution and Paleoenvironments",
+      "Centre National de la Recherche Scientifique",
+      "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
+      "Université Claude Bernard Lyon 1",
+      "Université Jean Monnet",
+      "École Normale Supérieure de Lyon",
+      "Institut Polytechnique de Bordeaux",
+      "Institut de Mécanique et d'Ingénierie de Bordeaux"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2048669985",
+    "doi": "https://doi.org/10.1016/s1251-8050(00)01453-1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5108387603"
+    ],
+    "firstAuthorLastName": "Yin",
+    "allAuthors": [
+      "Jiarun Yin",
+      "Raymond Énay"
+    ],
+    "title": "The Earliest Jurassic psiloceratids in the Eastern Tethyan Himalaya, South Tibet",
+    "publicationDate": "2000-11-01",
+    "year": 2000,
+    "venue": "Comptes Rendus de l Académie des Sciences - Series IIA - Earth and Planetary Science",
+    "citations": 12,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Astro and Planetary Science"
+    ],
+    "institutions": [
+      "China University of Geosciences (Beijing)",
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4287110371",
+    "doi": "https://doi.org/10.5281/zenodo.5008788",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5113658841"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "Charles Mangold"
+    ],
+    "title": "Jurassic ammonites from Central Saudi Arabia (Jebel Tuwaiq and adjacent areas)",
+    "publicationDate": "2021-06-30",
+    "year": 2021,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "citations": 4,
+    "topics": [
+      "Marine and environmental studies",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2725561985",
+    "doi": "https://doi.org/10.2113/gssgfbull.i.5.679",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5112292787",
+      "A5110149544",
+      "A5113494156",
+      "A5113530843",
+      "A5114230647",
+      "A5110747383"
+    ],
+    "firstAuthorLastName": "Cariou",
+    "allAuthors": [
+      "Élie Cariou",
+      "D. Contini",
+      "J.‐L. Dommergues",
+      "Raymond Énay",
+      "Jacques Geyssant",
+      "C. Mangold",
+      "Jacques Thierry"
+    ],
+    "title": "Biogeographie des ammonites et evolution structurale de la Tethys au cours du Jurassique",
+    "publicationDate": "1985-09-01",
+    "year": 1985,
+    "venue": "Bulletin de la Société Géologique de France",
+    "citations": 78,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Pleistocene-Era Hominins and Archaeology",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Université de Poitiers"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1987162941",
+    "doi": "https://doi.org/10.1016/0031-0182(87)90043-5",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5114230647",
+      "A5071071692",
+      "A5056340458"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "C. Mangold",
+      "Renaud du Dresnay",
+      "Miloš Rakús"
+    ],
+    "title": "Arrivals of Arabian origin among the ammonite faunas of Morocco during the Bajocian-Bathonian",
+    "publicationDate": "1987-01-01",
+    "year": 1987,
+    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "citations": 21,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Isotope Analysis in Ecology"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Université Claude Bernard Lyon 1",
+      "Ministry of Energy, Mines, Water and Environment",
+      "State Geological Institute of Dionýz Štúr"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2022942026",
+    "doi": "https://doi.org/10.1016/s1631-0713(02)01867-9",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5012495811",
+      "A5040276116",
+      "A5113658841",
+      "A5002382844"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "Khaled El Asmi",
+      "Mohamed Soussi",
+      "Charles Mangold",
+      "Pierre Hantzpergue"
+    ],
+    "title": "Un Pachyerymnoceras arabique dans le Callovien supérieur du Dahar (Sud tunisien), nouvel élément de datation du membre Ghomrassène (formation Tataouine) ; corrélations avec l'Arabie Saoudite et le Moyen-Orient",
+    "publicationDate": "2002-12-01",
+    "year": 2002,
+    "venue": "Comptes Rendus Géoscience",
+    "citations": 19,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Geological and Geophysical Studies Worldwide"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Université Claude Bernard Lyon 1",
+      "Tunis University",
+      "University of Sfax"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2324889627",
+    "doi": "https://doi.org/10.2113/gssgfbull.s7-xviii.2.533",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Faunes anatoliennes (Ammonitina, Jurassique) et domaines biogeographiques nord et sud tethysiens",
+    "publicationDate": "1976-01-01",
+    "year": 1976,
+    "venue": "Bulletin de la Société Géologique de France",
+    "citations": 19,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Marine and environmental studies",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2335753855",
+    "doi": "https://doi.org/10.2113/gssgfbull.s7-xxii.4.581",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Indices d'emersion et d'influence continentales dans l'Oxfordien superieur-Kimmeridgien inferieur en France; Interpretation paleogeographique et consequences paleobiogeographiques",
+    "publicationDate": "1980-01-01",
+    "year": 1980,
+    "venue": "Bulletin de la Société Géologique de France",
+    "citations": 19,
+    "topics": [
+      "Evolution and Paleontology Studies",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W8606722",
+    "doi": "https://doi.org/10.1016/j.geobios.2006.01.003",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5073534648",
+      "A5103919369",
+      "A5021417075",
+      "A5113658841"
+    ],
+    "firstAuthorLastName": "Alméras",
+    "allAuthors": [
+      "Yves Alméras",
+      "Philippe Fauré",
+      "Serge Elmi",
+      "Raymond Énay",
+      "Charles Mangold"
+    ],
+    "title": "Zonation des brachiopodes du Jurassique moyen sur la marge sud de la Téthys occidentale (Maroc, Algérie occidentale)",
+    "publicationDate": "2007-01-01",
+    "year": 2007,
+    "venue": "Geobios",
+    "citations": 16,
+    "topics": [
+      "Pleistocene-Era Hominins and Archaeology",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies Worldwide"
+    ],
+    "institutions": [
+      "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
+      "Université Claude Bernard Lyon 1",
+      "Université Toulouse III - Paul Sabatier"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1560373638",
+    "doi": "https://doi.org/10.1111/j.1475-4983.2007.00734.x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5107540602",
+      "A5002382844",
+      "A5113658841"
+    ],
+    "firstAuthorLastName": "Chirat",
+    "allAuthors": [
+      "Régis Chirat",
+      "Raymond Énay",
+      "Pierre Hantzpergue",
+      "Charles Mangold"
+    ],
+    "title": "DEVELOPMENTAL INTEGRATION RELATED TO BUOYANCY CONTROL IN NAUTILOIDS: EVIDENCE FROM UNUSUAL SEPTAL APPROXIMATION AND ONTOGENETIC ALLOMETRIES IN A JURASSIC SPECIES",
+    "publicationDate": "2008-01-01",
+    "year": 2008,
+    "venue": "Palaeontology",
+    "citations": 14,
+    "topics": [
+      "Cephalopods and Marine Biology",
+      "Marine Biology and Ecology Research",
+      "Marine and fisheries research"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Institute of Paleoprimatology Human Paleontology Evolution and Paleoenvironments",
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2001904440",
+    "doi": "https://doi.org/10.1016/j.geobios.2004.01.001",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5002382844",
+      "A5040276116",
+      "A5113658841"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "Pierre Hantzpergue",
+      "Mohamed Soussi",
+      "Charles Mangold"
+    ],
+    "title": "La limite Kimméridgien–Tithonien et l'âge des formations du Jurassique supérieur de la Dorsale tunisienne, comparaisons avec l'Algérie et la Sicile",
+    "publicationDate": "2005-06-29",
+    "year": 2005,
+    "venue": "Geobios",
+    "citations": 14,
+    "topics": [
+      "Geological and Geophysical Studies Worldwide",
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Université Claude Bernard Lyon 1",
+      "Tunis El Manar University",
+      "Tunis University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1981349632",
+    "doi": "https://doi.org/10.1016/s0016-6995(00)80017-0",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5108387603",
+      "A5013630882"
+    ],
+    "firstAuthorLastName": "Yin",
+    "allAuthors": [
+      "Jiarun Yin",
+      "J. H. Callomon",
+      "Raymond Énay"
+    ],
+    "title": "A hiatus of 8 my durationin the Middle Jurassic with ammonite succession in Tethyan Himalaya (South Tibet)",
+    "publicationDate": "2000-01-01",
+    "year": 2000,
+    "venue": "Geobios",
+    "citations": 10,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "China University of Geosciences (Beijing)",
+      "University College London",
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2048964144",
+    "doi": "https://doi.org/10.1016/j.geobios.2009.01.001",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5102845214",
+      "A5039086654"
+    ],
+    "firstAuthorLastName": "Bert",
+    "allAuthors": [
+      "Didier Bert",
+      "Raymond Énay",
+      "François Atrops"
+    ],
+    "title": "Les Gregoryceras (Ammonitina) de l’Oxfordien moyen terminal et supérieur téthysien : révision systématique, biostratigraphie et évolution",
+    "publicationDate": "2009-05-05",
+    "year": 2009,
+    "venue": "Geobios",
+    "citations": 9,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Aquatic Invertebrate Ecology and Behavior",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Biogéosciences",
+      "Centre National de la Recherche Scientifique",
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2059373649",
+    "doi": "https://doi.org/10.1016/s1251-8050(99)80075-5",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5113097444",
+      "A5074906714"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "Mabrouk Boughdiri",
+      "Gérard Le Hégarat"
+    ],
+    "title": "Toucasiella gen. nov., Himalayitidae (Ammonitina) nouveau du Tithonien supérieur: Origine de Durangites",
+    "publicationDate": "1998-10-01",
+    "year": 1998,
+    "venue": "Comptes Rendus de l Académie des Sciences - Series IIA - Earth and Planetary Science",
+    "citations": 9,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Diatoms and Algae Research",
+      "Aquatic Invertebrate Ecology and Behavior"
+    ],
+    "institutions": [
+      "Université Claude Bernard Lyon 1",
+      "Manouba University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2184820601",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5019256315",
+      "A5112398669",
+      "A5010036990"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "Georges Barale",
+      "J. Jacay",
+      "Étienne Jaillard"
+    ],
+    "title": "Upper Tithonian Ammonites and Floras from the Chicama Basin, Northern Peruvian Andes",
+    "publicationDate": "1996-01-01",
+    "year": 1996,
+    "venue": "",
+    "citations": 7,
+    "topics": [
+      "Botanical Research and Applications",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W1986362233",
+    "doi": "https://doi.org/10.1016/s1251-8050(99)80037-8",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5113097444",
+      "A5074906714"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "Mabrouk Boughdiri",
+      "Gérard Le Hégarat"
+    ],
+    "title": "Kilianites gen. nov., Himalayitidae (Ammonitina) nouveau du Berriasien de la région de Cabra (province de Cordoba, SE Espagne): descendance de Protacanthodiscus",
+    "publicationDate": "1998-10-01",
+    "year": 1998,
+    "venue": "Comptes Rendus de l Académie des Sciences - Series IIA - Earth and Planetary Science",
+    "citations": 3,
+    "topics": [
+      "Mollusks and Parasites Studies",
+      "Diatoms and Algae Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Université Claude Bernard Lyon 1",
+      "Manouba University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2023467957",
+    "doi": "https://doi.org/10.1016/s1251-8050(99)80247-x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5040276116",
+      "A5113097444",
+      "A5113658841",
+      "A5085774022"
+    ],
+    "firstAuthorLastName": "Soussi",
+    "allAuthors": [
+      "Mohamed Soussi",
+      "Raymond Énay",
+      "Mabrouk Boughdiri",
+      "Charles Mangold",
+      "Dalila Zaghbib-Turki"
+    ],
+    "title": "L'Ammonitico Rosso (formation Zaress) de la dorsale tunisienne",
+    "publicationDate": "1999-08-01",
+    "year": 1999,
+    "venue": "Comptes Rendus de l Académie des Sciences - Series IIA - Earth and Planetary Science",
+    "citations": 13,
+    "topics": [
+      "Geological and Geophysical Studies Worldwide",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "University of Sfax",
+      "Université Claude Bernard Lyon 1",
+      "Tunis University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2110195977",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5023233448",
+      "A5015726777",
+      "A5057019022"
+    ],
+    "firstAuthorLastName": "Parent",
+    "allAuthors": [
+      "Horacio Parent",
+      "Günter Schweigert",
+      "Armin Scherzinger",
+      "Raymond Énay"
+    ],
+    "title": "PASOTTIA, A NEW GENUS OF TITHONIAN OPPELIID AMMONITES (LATE JURASSIC, AMMONOIDEA: HAPLOCERATOIDEA)",
+    "publicationDate": "2008-12-01",
+    "year": 2008,
+    "venue": "Americanae (AECID Library)",
+    "citations": 6,
+    "topics": [
+      "Diatoms and Algae Research",
+      "Aquatic Invertebrate Ecology and Behavior",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2329234061",
+    "doi": "https://doi.org/10.2113/gssgfbull.s7-xxiv.5-6.1025",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5114230647"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "C. Mangold"
+    ],
+    "title": "Dynamique biogeographique et evolution des faunes d'Ammonites au Jurassique",
+    "publicationDate": "1982-01-01",
+    "year": 1982,
+    "venue": "Bulletin de la Société Géologique de France",
+    "citations": 46,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Pleistocene-Era Hominins and Archaeology",
+      "Marine and environmental studies"
+    ],
+    "institutions": [
+      "Laboratoire de Sciences de la Terre"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2030294563",
+    "doi": "https://doi.org/10.1016/s0016-6995(81)80150-7",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5002257432"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "Annick Boullier"
+    ],
+    "title": "L'âge du complexe récifal des côtes de meuse entre verdun et commercy et la stratigraphie de l'oxfordien dans l'est du bassin de Paris",
+    "publicationDate": "1981-01-01",
+    "year": 1981,
+    "venue": "Geobios",
+    "citations": 26,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2600930298",
+    "doi": "https://doi.org/10.2113/gssgfbull.v.2.353",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5113649932",
+      "A5061712514",
+      "A5073534648",
+      "A5078781093",
+      "A5053815721",
+      "A5004845021",
+      "A5051448479"
+    ],
+    "firstAuthorLastName": "Ismail",
+    "allAuthors": [
+      "M. Ben Ismail",
+      "Samir Bouaziz",
+      "Yves Alméras",
+      "Bernard Clavel",
+      "Pierre‐Yves Donzé",
+      "Raymond Énay",
+      "M. Ghenmi",
+      "Henri Tintant"
+    ],
+    "title": "Nouvelles donnees biostratigraphiques sur le Callovien et les facies \"purbecko-wealdiens\" (Oxfordien a Vraconien) dans la region de Tataouine (sud-tunisien)",
+    "publicationDate": "1989-03-01",
+    "year": 1989,
+    "venue": "Bulletin de la Société Géologique de France",
+    "citations": 20,
+    "topics": [
+      "Geological and Geophysical Studies Worldwide",
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2312232033",
+    "doi": "https://doi.org/10.2113/gssgfbull.s7-xiv.1-5.281",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5113516889"
+    ],
+    "firstAuthorLastName": "Bernier",
+    "allAuthors": [
+      "Paul Bernier",
+      "Raymond Énay"
+    ],
+    "title": "Figures d'emersion temporaire et indices de sedimentation a tres faible profondeur dans le Portlandien et le Kimmeridgien superieur (Calcaires en plaquettes) du Grand-Colombier-de-Culoz (Ain, France)",
+    "publicationDate": "1972-01-01",
+    "year": 1972,
+    "venue": "Bulletin de la Société Géologique de France",
+    "citations": 14,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological Formations and Processes Exploration"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2294413436",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5039086654",
+      "A5089281948"
+    ],
+    "firstAuthorLastName": "Atrops",
+    "allAuthors": [
+      "François Atrops",
+      "Raymond Énay",
+      "Guillermo Meléndez"
+    ],
+    "title": "Joint meeting of the Oxfordian and Kimmeridgian Working Groups; Warsaw, 7-12 September 1992",
+    "publicationDate": "1993-01-01",
+    "year": 1993,
+    "venue": "Acta Geologica Polonica",
+    "citations": 12,
+    "topics": [
+      "Language and Culture"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2735755262",
+    "doi": "https://doi.org/10.2113/gssgfbull.s7-vii.1.23",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Les formations coralliennes de Saint-Germain-de-Joux (Ain)",
+    "publicationDate": "1965-01-01",
+    "year": 1965,
+    "venue": "Bulletin de la Société Géologique de France",
+    "citations": 12,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Coral and Marine Ecosystems Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2023769767",
+    "doi": "https://doi.org/10.1016/s0016-6995(99)80058-8",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5112292787"
+    ],
+    "firstAuthorLastName": "Cariou",
+    "allAuthors": [
+      "Élie Cariou",
+      "Raymond Énay"
+    ],
+    "title": "Les ammonites du bathonien et du callovien de Thakkhola (Népal central): Biochronologie et intérêt paléobiogéographique",
+    "publicationDate": "1999-01-01",
+    "year": 1999,
+    "venue": "Geobios",
+    "citations": 11,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Evolutionary Biology"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Université de Poitiers",
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2006251522",
+    "doi": "https://doi.org/10.1016/s1251-8050(98)80044-x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5040276116",
+      "A5113097444",
+      "A5113658841"
+    ],
+    "firstAuthorLastName": "Soussi",
+    "allAuthors": [
+      "Mohamed Soussi",
+      "Mabrouk Boughdiri",
+      "Raymond Énay",
+      "Charles Mangold"
+    ],
+    "title": "Faciès à affinité ammonitico rosso d'âge Toarcien supérieur de la Tunisie atlasique nord-occidentale: conséquences pour les corrélations et la paléogéographie",
+    "publicationDate": "1998-07-01",
+    "year": 1998,
+    "venue": "Comptes Rendus de l Académie des Sciences - Series IIA - Earth and Planetary Science",
+    "citations": 9,
+    "topics": [
+      "Archaeological and Geological Studies",
+      "Archaeological and Historical Studies",
+      "Geological and Geophysical Studies Worldwide"
+    ],
+    "institutions": [
+      "University of Sfax",
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2050508735",
+    "doi": "https://doi.org/10.1016/s0016-6995(87)80063-3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5110316309",
+      "A5040351327"
+    ],
+    "firstAuthorLastName": "Mattei",
+    "allAuthors": [
+      "J. P. Mattei",
+      "Raymond Combémorel",
+      "Raymond Énay"
+    ],
+    "title": "Sur la présence du genre Atractites (Aulacoceratida) dans le Lias moyen des Causses du Sud du Massif central Français",
+    "publicationDate": "1987-01-01",
+    "year": 1987,
+    "venue": "Geobios",
+    "citations": 8,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Evolution and Paleontology Studies"
+    ],
+    "institutions": [
+      "Géosciences Montpellier",
+      "Université de Montpellier",
+      "Université Claude Bernard Lyon 1",
+      "Centre National de la Recherche Scientifique"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2082045909",
+    "doi": "https://doi.org/10.2113/175.2.107",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5110130149",
+      "A5068894767",
+      "A5041328041",
+      "A5044568829",
+      "A5039086654",
+      "A5036229728",
+      "A5061022136",
+      "A5113783964",
+      "A5057797380",
+      "A5017337735"
+    ],
+    "firstAuthorLastName": "Gaillard",
+    "allAuthors": [
+      "Christian Gaillard",
+      "Laurent Emmanuel",
+      "Micheline Hanzo",
+      "Bernard Lathuilière",
+      "François Atrops",
+      "Y. Bodeur",
+      "Abdelkader Bouhamdi",
+      "Didier Marchand",
+      "Raymond Énay",
+      "Christiane Ruget",
+      "Winfried Werner"
+    ],
+    "title": "A sequence analyzed from the basin to the platform : the Middle Oxfordian calcareous succession in southeastern France",
+    "publicationDate": "2004-03-01",
+    "year": 2004,
+    "venue": "Bulletin de la Société Géologique de France",
+    "citations": 8,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Université Claude Bernard Lyon 1",
+      "Université de Lorraine",
+      "Nantes Université",
+      "Biogéosciences",
+      "Université de Bourgogne",
+      "Bayer (United States)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2094934562",
+    "doi": "https://doi.org/10.1016/s0016-6995(96)80027-1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5073534648",
+      "A5112292787"
+    ],
+    "firstAuthorLastName": "Alméras",
+    "allAuthors": [
+      "Yves Alméras",
+      "Élie Cariou",
+      "Raymond Énay"
+    ],
+    "title": "Les brachiopodes du Bathonienet du Callovien inférieur de Thakkhola (Népal central): Paléontologie et biostratigraphie",
+    "publicationDate": "1996-01-01",
+    "year": 1996,
+    "venue": "Geobios",
+    "citations": 7,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Paleontology and Evolutionary Biology",
+      "Astro and Planetary Science"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Université Claude Bernard Lyon 1",
+      "Université de Poitiers"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W40211962",
+    "doi": "https://doi.org/10.1007/978-1-4899-1558-0_6",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5111600467",
+      "A5114260129",
+      "A5064236729",
+      "A5057776445",
+      "A5003392843",
+      "A5010229092"
+    ],
+    "firstAuthorLastName": "Fourcade",
+    "allAuthors": [
+      "Éric Fourcade",
+      "Jacques Azéma",
+      "Jean-Paul Bassoullet",
+      "Fabrizio Cecca",
+      "Jean Dercourt",
+      "Raymond Énay",
+      "René Guiraud"
+    ],
+    "title": "Paleogeography and Paleoenvironment of the Tethyan Realm During the Jurassic Breakup of Pangea",
+    "publicationDate": "1995-01-01",
+    "year": 1995,
+    "venue": "",
+    "citations": 7,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geological Formations and Processes Exploration",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Sorbonne Université",
+      "Université Claude Bernard Lyon 1",
+      "Université d'Avignon et des Pays de Vaucluse"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2606052956",
+    "doi": "https://doi.org/10.1127/nos/20/1989/115",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5057776445",
+      "A5074906714"
+    ],
+    "firstAuthorLastName": "Cecca",
+    "allAuthors": [
+      "Fabrizio Cecca",
+      "Raymond Énay",
+      "Gérard Le Hégarat"
+    ],
+    "title": "The Tithonian of Ardèche (South-East France): new stratigraphical data and revision of the type-section of the \"Ardescian\" (TOUCAS 1890)",
+    "publicationDate": "1989-03-30",
+    "year": 1989,
+    "venue": "Newsletters on Stratigraphy",
+    "citations": 6,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Mediterranean and Iberian flora and fauna",
+      "Geological Formations and Processes Exploration"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3121092184",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5073534648",
+      "A5035874576",
+      "A5113658841"
+    ],
+    "firstAuthorLastName": "Alméras",
+    "allAuthors": [
+      "Yves Alméras",
+      "Michel Cougnon",
+      "Raymond Énay",
+      "Charles Mangold"
+    ],
+    "title": "Brachiopodes du Jurassique inférieur et moyen d’Arabie Saoudite centrale. Paléontologie, biostratigraphie et paléoenvironnements, échelles chronostratigraphiques",
+    "publicationDate": "2010-01-01",
+    "year": 2010,
+    "venue": "",
+    "citations": 6,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies Worldwide",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2043767530",
+    "doi": "https://doi.org/10.2516/ogst:1982037",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5039799608",
+      "A5110285056",
+      "A5057431979",
+      "A5067868694"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "J. J. Bizon",
+      "Georges Mascle",
+      "Yves Morel",
+      "Romain Perrier"
+    ],
+    "title": "Faunes du Jurassique supérieur dans les séries pélagiques de l'escarpement de Malte (Mer Ionienne). Implications paléogéographiques",
+    "publicationDate": "1982-11-01",
+    "year": 1982,
+    "venue": "Revue de l Institut Français du Pétrole",
+    "citations": 5,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Maritime and Coastal Archaeology",
+      "Archaeological and Geological Studies"
+    ],
+    "institutions": [
+      "Clinique Claude-Bernard",
+      "Beicip Franlab (France)",
+      "Université Grenoble Alpes"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2094847541",
+    "doi": "https://doi.org/10.1016/j.geobios.2005.07.001",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5073534648",
+      "A5113658841",
+      "A5040276116",
+      "A5012495811",
+      "A5002382844"
+    ],
+    "firstAuthorLastName": "Alméras",
+    "allAuthors": [
+      "Yves Alméras",
+      "Raymond Énay",
+      "Charles Mangold",
+      "Mohamed Soussi",
+      "Khaled El Asmi",
+      "Pierre Hantzpergue"
+    ],
+    "title": "Observations à la note : « Mise en évidence d'une flore oxfordienne dans le Sud-Est de la Tunisie : intérêts stratigraphique et paléoécologique » par M. Ouaja et al. (2004) Geobios, 37 (1), 89–97",
+    "publicationDate": "2005-09-01",
+    "year": 2005,
+    "venue": "Geobios",
+    "citations": 4,
+    "topics": [
+      "Mediterranean and Iberian flora and fauna",
+      "Archaeological and Historical Studies",
+      "Archaeological and Geological Studies"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Université Claude Bernard Lyon 1",
+      "Tunis El Manar University",
+      "Tunis University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2522473232",
+    "doi": "https://doi.org/10.5169/seals-166182",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5053075814"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "J. Escartı́n"
+    ],
+    "title": "Le Séquanien-type de Franche-Comté (Oxfordien supérieur) : datations et corrélations nouvelles, conséquences sur la paléogéographie et l'évolution du Jura et régions voisines",
+    "publicationDate": "1988-08-01",
+    "year": 1988,
+    "venue": "E-Periodica",
+    "citations": 4,
+    "topics": [
+      "Hermeneutics and Narrative Identity",
+      "Aging, Elder Care, and Social Issues",
+      "Health, Medicine and Society"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2584078776",
+    "doi": "https://doi.org/10.3406/linly.1981.10460",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Les formations glaciaires et les stades de retrait du glacier wùrmien dans l'Ile Crémieu",
+    "publicationDate": "1981-01-01",
+    "year": 1981,
+    "venue": "Bulletin mensuel de la Société linnéenne de Lyon",
+    "citations": 4,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Geological and Geophysical Studies Worldwide",
+      "Geotourism and Geoheritage Conservation"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W650895932",
+    "doi": "https://doi.org/10.1007/978-3-642-76548-3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Palaeontology of Invertebrates",
+    "publicationDate": "1993-01-01",
+    "year": 1993,
+    "venue": "",
+    "citations": 4,
+    "topics": [
+      "Marine Biology and Ecology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2016683102",
+    "doi": "https://doi.org/10.2113/171.6.673",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5002257432"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "Annick Boullier"
+    ],
+    "title": "Premiere datation par ammonite et brachiopodes du Tithonien au Saleve (Haute-Savoie France), consequences sur l'interpretation stratigraphique de paleogeographique du Jurassique superieur",
+    "publicationDate": "2000-11-01",
+    "year": 2000,
+    "venue": "Bulletin de la Société Géologique de France",
+    "citations": 2,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Laboratoire de Sciences de la Terre",
+      "Université Claude Bernard Lyon 1",
+      "Université Marie et Louis Pasteur",
+      "Université de franche-comté"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2287343185",
+    "doi": "https://doi.org/10.2113/geoarabia160487",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Toarcian and Bajocian ammonites from the Haushi-Huqf Massif of southwestern Oman and the Hawasina Nappes of the Oman Mountains: Implications for paleoecology and paleobiogeography",
+    "publicationDate": "2011-10-01",
+    "year": 2011,
+    "venue": "GeoArabia",
+    "citations": 2,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2992404189",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5040276116",
+      "A5113097444",
+      "A5113658841",
+      "A5085774022"
+    ],
+    "firstAuthorLastName": "Soussi",
+    "allAuthors": [
+      "Mohamed Soussi",
+      "Raymond Énay",
+      "Mabrouk Boughdiri",
+      "Charles Mangold",
+      "Dalila Zaghbib-Turki"
+    ],
+    "title": "Ammonitico Rosso (Zaress Formation) of the Tunisian Dorsale",
+    "publicationDate": "1999-01-01",
+    "year": 1999,
+    "venue": "Comptes Rendus De L Academie Des Sciences Serie Ii Fascicule A-sciences De La Terre Et Des Planetes",
+    "citations": 2,
+    "topics": [
+      "Geological and Geophysical Studies Worldwide",
+      "Mediterranean and Iberian flora and fauna"
+    ],
+    "institutions": [
+      "University of Sfax",
+      "Université Claude Bernard Lyon 1",
+      "Tunis University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1983458131",
+    "doi": "https://doi.org/10.1016/s0016-6995(85)80184-4",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5029439453",
+      "A5072078512"
+    ],
+    "firstAuthorLastName": "Michelin",
+    "allAuthors": [
+      "Christophe Michelin",
+      "Éric Buffetaut",
+      "Raymond Énay"
+    ],
+    "title": "Le Crocodilien Steneosaurus (Mesosuchia, Teleosauridae) dans le Jurassique supérieur franc-comtois (Jura, France)",
+    "publicationDate": "1985-01-01",
+    "year": 1985,
+    "venue": "Geobios",
+    "citations": 1,
+    "topics": [
+      "Paleontology and Evolutionary Biology",
+      "Evolution and Paleontology Studies",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2053440857",
+    "doi": "https://doi.org/10.2113/171.6.665",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Recalage biostratigraphique et nouvelle datation de surfaces d'emersion du Kimmeridgien-Tithonien dans le Jura meridional et consequences sur leur interpretation sequentielle",
+    "publicationDate": "2000-11-01",
+    "year": 2000,
+    "venue": "Bulletin de la Société Géologique de France",
+    "citations": 1,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Geological and Geophysical Studies Worldwide"
+    ],
+    "institutions": [
+      "Laboratoire de Sciences de la Terre",
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W218950223",
+    "doi": "https://doi.org/10.3997/2214-4609-pdb.8.t045",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5012495811",
+      "A5040276116",
+      "A5110286961",
+      "A5002382844",
+      "A5114230647"
+    ],
+    "firstAuthorLastName": "Asmi",
+    "allAuthors": [
+      "Khaled El Asmi",
+      "Mohamed Soussi",
+      "Hedi Ben Ismaı̈l",
+      "Pierre Hantzpergue",
+      "Raymond Énay",
+      "C. Mangold"
+    ],
+    "title": "Mesozoic Sedimentary Record of Southern Tunisia and Sea-Lavel Change – The Late Callovian Ghomrassen Carbonate Platform",
+    "publicationDate": "2003-01-01",
+    "year": 2003,
+    "venue": "",
+    "citations": 1,
+    "topics": [
+      "Geological and Geophysical Studies Worldwide"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2598819586",
+    "doi": "https://doi.org/10.17161/1808.23377",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5098427881",
+      "A5098152145",
+      "A5057544445"
+    ],
+    "firstAuthorLastName": "Burckhardt",
+    "allAuthors": [
+      "Idoceras Burckhardt",
+      "Subnebrodites Spath",
+      "Raymond Énay",
+      "Michael K. Howarth"
+    ],
+    "title": "The Upper Oxfordian and Lower Kimmeridgian ammonite genera Idoceras Burckhardt, 1906, and Subnebrodites Spath, 1925",
+    "publicationDate": "2017-01-01",
+    "year": 2017,
+    "venue": "Paleontological Contributions",
+    "citations": 1,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Isotope Analysis in Ecology",
+      "Marine Biology and Ecology Research"
+    ],
+    "institutions": [
+      "Université Claude Bernard Lyon 1",
+      "Natural History Museum"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2966200283",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "The Jurassic-Cretaceous is at an impasse: Why not go back to Oppel’s original and historic definition of the Tithonian (1865)?",
+    "publicationDate": "2018-11-22",
+    "year": 2018,
+    "venue": "",
+    "citations": 1,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis",
+      "History of Science and Natural History"
+    ],
+    "institutions": [
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W82847785",
+    "doi": "https://doi.org/10.1007/978-3-642-76548-3_3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "",
+    "publicationDate": "1993-01-01",
+    "year": 1993,
+    "venue": "",
+    "citations": 1,
+    "topics": [
+      "Cephalopods and Marine Biology"
+    ],
+    "institutions": [
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2013348572",
+    "doi": "https://doi.org/10.1016/s0016-6995(79)80113-8",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5054256211",
+      "A5021628613"
+    ],
+    "firstAuthorLastName": "Bourseau",
+    "allAuthors": [
+      "Jean‐Paul Bourseau",
+      "Jacques Charvet",
+      "Raymond Énay"
+    ],
+    "title": "Faune oxfordienne dans les Dinarides internesau Nord de Sarajevo (Bosnie orientale, Yougoslavie)",
+    "publicationDate": "1979-01-01",
+    "year": 1979,
+    "venue": "Geobios",
+    "citations": 3,
+    "topics": [
+      "Geological Formations and Processes Exploration",
+      "Marine and environmental studies",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Université Claude Bernard Lyon 1",
+      "Université de Lille"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2918925344",
+    "doi": "https://doi.org/10.3406/mhnly.1966.993",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "L'Oxfordien dans la moitié sud du Jura français. Étude stratigraphique",
+    "publicationDate": "1966-01-01",
+    "year": 1966,
+    "venue": "Nouvelles archives du Muséum d histoire naturelle de Lyon",
+    "citations": 38,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2069404292",
+    "doi": "https://doi.org/10.1016/s0016-6995(94)80018-9",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5113516889",
+      "A5019256315",
+      "A5054256211",
+      "A5072078512",
+      "A5110130149",
+      "A5044541579",
+      "A5036389824"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "Paul Bernier",
+      "Georges Barale",
+      "Jean‐Paul Bourseau",
+      "Éric Buffetaut",
+      "Christian Gaillard",
+      "Jean‐Claude Gall",
+      "Sylvie Wenz"
+    ],
+    "title": "Les ammonites descalcaires lithographiques de Cerin (Ain, France): Stratigraphie et taphonomie",
+    "publicationDate": "1994-06-01",
+    "year": 1994,
+    "venue": "Geobios",
+    "citations": 22,
+    "topics": [],
+    "institutions": [
+      "Université Claude Bernard Lyon 1",
+      "Centre National de la Recherche Scientifique",
+      "Sorbonne Université",
+      "Muséum national d'Histoire naturelle"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2083490088",
+    "doi": "https://doi.org/10.1016/s0016-6995(95)80228-2",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Révision critique de la paléontologie Francaise d'alcide d'Orbigny. Vol. 1: Céphalopodes Jurassiques",
+    "publicationDate": "1995-01-01",
+    "year": 1995,
+    "venue": "Geobios",
+    "citations": 8,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2583014898",
+    "doi": "https://doi.org/10.3406/linly.1980.10445",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "L'île Crémieu. Evolution morphologique et structurale",
+    "publicationDate": "1980-01-01",
+    "year": 1980,
+    "venue": "Bulletin mensuel de la Société linnéenne de Lyon",
+    "citations": 6,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3006046598",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5076696986",
+      "A5053815721",
+      "A5026917096"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "Th. Bastien",
+      "Pierre‐Yves Donzé",
+      "Jacques Sigal"
+    ],
+    "title": "Contribution à l'étude paléontologique de l'Oxfordien supérieur de Trept (Isère)",
+    "publicationDate": "1962-01-01",
+    "year": 1962,
+    "venue": "",
+    "citations": 4,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3016411124",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5106317363",
+      "A5021420424"
+    ],
+    "firstAuthorLastName": "Busnardo",
+    "allAuthors": [
+      "Robert Busnardo",
+      "Raymond Énay",
+      "B. Pitre"
+    ],
+    "title": "L'Hauterivien inférieur et ses Ammonites près de Hauteville (Ain)",
+    "publicationDate": "1966-01-01",
+    "year": 1966,
+    "venue": "",
+    "citations": 3,
+    "topics": [
+      "Pleistocene-Era Hominins and Archaeology",
+      "Geology and Paleoclimatology Research",
+      "Archaeological and Geological Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2576281654",
+    "doi": "https://doi.org/10.2113/gssgfbull.s7-i.3.252",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Note sur quelques tulitides (Ammonitina) du Bathonien",
+    "publicationDate": "1959-01-01",
+    "year": 1959,
+    "venue": "Bulletin de la Société Géologique de France",
+    "citations": 2,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Mollusks and Parasites Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2914423579",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Note sur quelques Tulitides (Ammonitina) du Bathonien",
+    "publicationDate": "1960-05-09",
+    "year": 1960,
+    "venue": "",
+    "citations": 2,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Mollusks and Parasites Studies",
+      "Diatoms and Algae Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3013599759",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5106317363",
+      "A5112263618",
+      "A5015680171"
+    ],
+    "firstAuthorLastName": "Busnardo",
+    "allAuthors": [
+      "Robert Busnardo",
+      "Raymond Énay",
+      "Gabrielle Latreille",
+      "P. Rouquet"
+    ],
+    "title": "Le Crétacé moyen détritique à Céphalopodes près de Poncin (Jura méridional)",
+    "publicationDate": "1966-01-01",
+    "year": 1966,
+    "venue": "",
+    "citations": 2,
+    "topics": [
+      "Geological Formations and Processes Exploration",
+      "Geological and Geophysical Studies Worldwide",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2027659617",
+    "doi": "https://doi.org/10.1016/s0016-6995(87)80001-3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5042936280",
+      "A5051448479"
+    ],
+    "firstAuthorLastName": "Chevallier",
+    "allAuthors": [
+      "Thierry Chevallier",
+      "Henri Tintant",
+      "Raymond Énay"
+    ],
+    "title": "Nautilidés d'âge kimméridgien dans le Jura Français: Conséquences stratigraphiques et paléogéographiques",
+    "publicationDate": "1987-01-01",
+    "year": 1987,
+    "venue": "Geobios",
+    "citations": 1,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Université Claude Bernard Lyon 1",
+      "Institut des Sciences de la Terre"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2073333454",
+    "doi": "https://doi.org/10.1016/s0016-6995(89)80122-6",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5112292787",
+      "A5047733676"
+    ],
+    "firstAuthorLastName": "Cariou",
+    "allAuthors": [
+      "Élie Cariou",
+      "Bernard Balusseau",
+      "Raymond Énay"
+    ],
+    "title": "Découverte de Pseudoclydoniceras (Ammonitina), genre callovien d'origine arabo-malgache, sur la marge nord téthysienne: Signification paléobiogéographique",
+    "publicationDate": "1989-01-01",
+    "year": 1989,
+    "venue": "Geobios",
+    "citations": 1,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Université de Poitiers",
+      "Centre National de la Recherche Scientifique",
+      "Laboratoire de Sciences de la Terre",
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2738612660",
+    "doi": "https://doi.org/10.2113/gssgfbull.s7-vi.4.529",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5113658841",
+      "A5022671043"
+    ],
+    "firstAuthorLastName": "Mangold",
+    "allAuthors": [
+      "Charles Mangold",
+      "Raymond Énay",
+      "Pierre Dominjon"
+    ],
+    "title": "Note preliminaire sur le Bathonien inferieur du Bugey (Jura meridional)",
+    "publicationDate": "1964-01-01",
+    "year": 1964,
+    "venue": "Bulletin de la Société Géologique de France",
+    "citations": 1,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Evolution and Paleontology Studies",
+      "Paleontology and Evolutionary Biology"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W134971625",
+    "doi": "https://doi.org/10.1007/978-3-642-76548-3_5",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "",
+    "publicationDate": "1993-01-01",
+    "year": 1993,
+    "venue": "",
+    "citations": 0,
+    "topics": [],
+    "institutions": [
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W139901993",
+    "doi": "https://doi.org/10.1007/978-3-642-76548-3_1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "",
+    "publicationDate": "1993-01-01",
+    "year": 1993,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Earth Systems and Cosmic Evolution",
+      "Space Science and Extraterrestrial Life"
+    ],
+    "institutions": [
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W148148600",
+    "doi": "https://doi.org/10.1016/s0016-6995(01)80041-3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Analyse d'Ouvrage",
+    "publicationDate": "2001-01-01",
+    "year": 2001,
+    "venue": "Geobios",
+    "citations": 0,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W157574809",
+    "doi": "https://doi.org/10.1007/978-3-642-76548-3_9",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "",
+    "publicationDate": "1993-01-01",
+    "year": 1993,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Fossil Insects in Amber",
+      "Marine and environmental studies"
+    ],
+    "institutions": [
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W202127803",
+    "doi": "https://doi.org/10.1007/978-3-642-76548-3_6",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "",
+    "publicationDate": "1993-01-01",
+    "year": 1993,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Insect and Arachnid Ecology and Behavior",
+      "Fossil Insects in Amber",
+      "Hemiptera Insect Studies"
+    ],
+    "institutions": [
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2047343834",
+    "doi": "https://doi.org/10.1016/s0016-6995(87)80027-x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Table ronde: Société géologique de France et centre national de la recherche scientifique, 17–20 Octobre 1983",
+    "publicationDate": "1987-01-01",
+    "year": 1987,
+    "venue": "Geobios",
+    "citations": 0,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2083104928",
+    "doi": "https://doi.org/10.1016/s0016-6995(02)00002-5",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Die Ammonitenfauna der Tithonklippen von Ernstbrunn, Niederösterreich",
+    "publicationDate": "2002-01-01",
+    "year": 2002,
+    "venue": "Geobios",
+    "citations": 0,
+    "topics": [
+      "Marine and environmental studies",
+      "Isotope Analysis in Ecology",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2118421079",
+    "doi": "https://doi.org/10.1007/978-3-642-76548-3_2",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "",
+    "publicationDate": "1993-01-01",
+    "year": 1993,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Mollusks and Parasites Studies",
+      "Insect Utilization and Effects",
+      "Insects and Parasite Interactions"
+    ],
+    "institutions": [
+      "Université Claude Bernard Lyon 1"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2598843043",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5021651165"
+    ],
+    "firstAuthorLastName": "Wildi",
+    "allAuthors": [
+      "Walter Wildi",
+      "Raymond Énay"
+    ],
+    "title": "Sédimentation détritique diachrone en eau profonde dans le Jurassique moyen à supérieur du Rif externe (Maroc)",
+    "publicationDate": "1979-01-01",
+    "year": 1979,
+    "venue": "Archive ouverte UNIGE (University of Geneva)",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies Worldwide"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2601711258",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5107540602",
+      "A5113658841",
+      "A5002382844"
+    ],
+    "firstAuthorLastName": "Chirat",
+    "allAuthors": [
+      "Régis Chirat",
+      "Raymond Énay",
+      "Charles Mangold",
+      "Pierre Hantzpergue"
+    ],
+    "title": "Developmental integration related to buoyancy control in nautiloids: Evidence from unusual septal approximation and ontogenetic allometries in Jurassic species.",
+    "publicationDate": "2008-01-01",
+    "year": 2008,
+    "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Marine Biology and Ecology Research"
+    ],
+    "institutions": [
+      "Institute of Paleoprimatology Human Paleontology Evolution and Paleoenvironments"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2614789476",
+    "doi": "https://doi.org/10.1016/s0016-6995(85)80189-3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Analyses bibliographiques",
+    "publicationDate": "1985-01-01",
+    "year": 1985,
+    "venue": "Geobios",
+    "citations": 0,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2661251113",
+    "doi": "https://doi.org/10.1016/s0016-6995(01)80058-9",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Analyse d'Ouvrage",
+    "publicationDate": "2001-01-01",
+    "year": 2001,
+    "venue": "Geobios",
+    "citations": 0,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2748734472",
+    "doi": "https://doi.org/10.1016/s0016-6995(75)80042-8",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Analyses bibliographiques",
+    "publicationDate": "1975-01-01",
+    "year": 1975,
+    "venue": "Geobios",
+    "citations": 0,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2794826369",
+    "doi": "https://doi.org/10.1016/s0016-6995(83)80056-4",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Analyse bibliographique",
+    "publicationDate": "1983-01-01",
+    "year": 1983,
+    "venue": "Geobios",
+    "citations": 0,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2804623582",
+    "doi": "https://doi.org/10.17161/1808.26312",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5057544445"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "Michael K. Howarth"
+    ],
+    "title": "Stevensites, Zittelites, and Gyrophylloceras, new generic names proposed for Stevensia Énay, 2009, Zittelia Tavera Benitez, 1985, and Gyrophyllites Wiedmann, 1963 (Mollusca: Ammonoidea)",
+    "publicationDate": "2018-01-01",
+    "year": 2018,
+    "venue": "Paleontological Contributions",
+    "citations": 0,
+    "topics": [
+      "Aquatic Invertebrate Ecology and Behavior",
+      "Mollusks and Parasites Studies",
+      "Marine Biology and Ecology Research"
+    ],
+    "institutions": [
+      "Université Claude Bernard Lyon 1",
+      "Natural History Museum"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2902281226",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5047213560",
+      "A5035427451",
+      "A5080004085",
+      "A5055447429",
+      "A5049868891",
+      "A5083243052",
+      "A5072078512"
+    ],
+    "firstAuthorLastName": "Lœuff",
+    "allAuthors": [
+      "Jean Le Lœuff",
+      "Christian Gourrat",
+      "Pascale Landry",
+      "Lionel Hautier",
+      "Romain Liard",
+      "Christel Souillat",
+      "Éric Buffetaut",
+      "Raymond Énay"
+    ],
+    "title": "Late Jurassic dinosaur footprint sites of southern Jura (France)",
+    "publicationDate": "2005-01-01",
+    "year": 2005,
+    "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Evolutionary Biology",
+      "Evolution and Paleontology Studies"
+    ],
+    "institutions": [
+      "Institute of Paleoprimatology Human Paleontology Evolution and Paleoenvironments"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2910750536",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": ", Alan G. Smith, David G. Smith, Brian M. Funnel. Cambridge University Press, Chandigarh (1994), 99 p.",
+    "publicationDate": "1994-01-01",
+    "year": 1994,
+    "venue": "Geobios",
+    "citations": 0,
+    "topics": [
+      "African history and culture analysis",
+      "Archaeology and Historical Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2973569048",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Charles Mangold (2.02.1933–18.08.2014)",
+    "publicationDate": "2015-01-01",
+    "year": 2015,
+    "venue": "",
+    "citations": 0,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3006637165",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5053815721"
+    ],
+    "firstAuthorLastName": "Donzé",
+    "allAuthors": [
+      "Pierre‐Yves Donzé",
+      "Raymond Énay"
+    ],
+    "title": "Les Ostracodes de la limite Dogger-Malm dans l'Île Crémieu",
+    "publicationDate": "1962-01-01",
+    "year": 1962,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Maritime and Coastal Archaeology",
+      "Ancient Mediterranean Archaeology and History",
+      "Ancient and Medieval Archaeology Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3017479956",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5041430577"
+    ],
+    "firstAuthorLastName": "Vilain",
+    "allAuthors": [
+      "Robert Vilain",
+      "Raymond Énay"
+    ],
+    "title": "Méthode pratique d'enrobage d'échantillons par les résines polyester",
+    "publicationDate": "1962-01-01",
+    "year": 1962,
+    "venue": "",
+    "citations": 0,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3081722691",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5043003908",
+      "A5113725763"
+    ],
+    "firstAuthorLastName": "Granier",
+    "allAuthors": [
+      "Bruno Granier",
+      "Raymond Énay",
+      "Jean Charollais"
+    ],
+    "title": "News and Reviews – Discussion of the paper by Wimbledon et al., 2020b, entitled “The proposal of a GSSP for the Berriasian Stage (Cretaceous System): Part 1” [Volumina Jurassica, XVIII (1)]",
+    "publicationDate": "2020-07-28",
+    "year": 2020,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological Studies and Exploration",
+      "Geological and Geophysical Studies",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Université de Bretagne Occidentale",
+      "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
+      "Université Claude Bernard Lyon 1",
+      "University of Geneva"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3185457005",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "L'Oxfordien dans la moitié sud du Jura français. Étude stratigraphique",
+    "publicationDate": "1966-01-01",
+    "year": 1966,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Historical and Literary Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4298747322",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5025758142"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay",
+      "Serge Debrand-Passard"
+    ],
+    "title": "Présence de Trenerites SARTI (Ammonitina, Idoceratinae) dans le Kimméridgien inférieur du Berry (sud du Bassin de Paris)",
+    "publicationDate": "2005-01-01",
+    "year": 2005,
+    "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "citations": 0,
+    "topics": [
+      "Mediterranean and Iberian flora and fauna",
+      "Archaeological and Historical Studies",
+      "Mollusks and Parasites Studies"
+    ],
+    "institutions": [
+      "Institute of Paleoprimatology Human Paleontology Evolution and Paleoenvironments"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4319449612",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Ammonites jurassiques (Toarcien, Bajocien) de l'Oman central (Haushi-Huqf) et des exotiques des montagnes du nord de l'Oman : implications pour la paléoécologie et la paléobiogéographie",
+    "publicationDate": "2011-06-01",
+    "year": 2011,
+    "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "citations": 0,
+    "topics": [
+      "Ancient Near East History",
+      "Archaeology and Historical Studies",
+      "Ancient Egypt and Archaeology"
+    ],
+    "institutions": [
+      "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4319784271",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5014127453",
+      "A5000182708",
+      "A5045347293",
+      "A5076555974",
+      "A5103441451",
+      "A5013507683",
+      "A5025517046",
+      "A5091837089",
+      "A5009426352",
+      "A5005289793",
+      "A5103105912",
+      "A5064998614"
+    ],
+    "firstAuthorLastName": "Carmeille",
+    "allAuthors": [
+      "Mehdi Carmeille",
+      "Raphaël Bourillot",
+      "Pierre Pellenard",
+      "Victor Dupias",
+      "Johann Schnyder",
+      "Laurent Riquier",
+      "Olivier Mathieu",
+      "Marie‐Françoise Brunet",
+      "Raymond Énay",
+      "Vincent Grossi",
+      "Cécile Gaborieau",
+      "Philippe Razin",
+      "Peter T. Visscher"
+    ],
+    "title": "Origine des carbonates organiques de la Formation Khodjaipak (Oxfordien moyen) dans le Nord-Est du Bassin d’Amu-Darya : signature paléoenvironnementale et impacts sur le cycle du carbone",
+    "publicationDate": "2018-12-10",
+    "year": 2018,
+    "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological Studies and Exploration",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "Biogéosciences",
+      "Université de Bourgogne",
+      "Institut des Sciences de la Terre de Paris",
+      "Centre National de la Recherche Scientifique",
+      "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
+      "Université Claude Bernard Lyon 1",
+      "Université Jean Monnet",
+      "École Normale Supérieure de Lyon",
+      "Institut Polytechnique de Bordeaux",
+      "Institut de Mécanique et d'Ingénierie de Bordeaux"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4319784276",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5014127453",
+      "A5000182708",
+      "A5045347293",
+      "A5076555974",
+      "A5103441451",
+      "A5013507683",
+      "A5025517046",
+      "A5091837089",
+      "A5009426352",
+      "A5005289793",
+      "A5108118684",
+      "A5064998614"
+    ],
+    "firstAuthorLastName": "Carmeille",
+    "allAuthors": [
+      "Mehdi Carmeille",
+      "Raphaël Bourillot",
+      "Pierre Pellenard",
+      "Victor Dupias",
+      "Johann Schnyder",
+      "Laurent Riquier",
+      "Olivier Mathieu",
+      "Marie‐Françoise Brunet",
+      "Raymond Énay",
+      "Vincent Grossi",
+      "Cécile Gaborieau",
+      "Philippe Razin",
+      "Peter T. Visscher"
+    ],
+    "title": "Formation of microbial organic carbonates during the Middle Oxfordian (North East Amu Darya Basin, Uzbekistan): palaeoenvironmental significance and implications for Jurassic anoxic events",
+    "publicationDate": "2019-10-28",
+    "year": 2019,
+    "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "Biogéosciences",
+      "Université de Bourgogne",
+      "Institut des Sciences de la Terre de Paris",
+      "Centre National de la Recherche Scientifique",
+      "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
+      "Université Claude Bernard Lyon 1",
+      "Université Jean Monnet",
+      "École Normale Supérieure de Lyon",
+      "Institute of Paleoprimatology Human Paleontology Evolution and Paleoenvironments",
+      "Institut National des Sciences Appliquées de Toulouse",
+      "Institut Polytechnique de Bordeaux"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4319784338",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459",
+      "A5076555974",
+      "A5045347293",
+      "A5014127453",
+      "A5000182708",
+      "A5103441451",
+      "A5013507683",
+      "A5091837089",
+      "A5019776770"
+    ],
+    "firstAuthorLastName": "Dupias",
+    "allAuthors": [
+      "Victor Dupias",
+      "Pierre Pellenard",
+      "Mehdi Carmeille",
+      "Raphaël Bourillot",
+      "Johann Schnyder",
+      "Laurent Riquier",
+      "Marie‐Françoise Brunet",
+      "Raymond Énay",
+      "Christian Blanpied"
+    ],
+    "title": "Characterization of Upper Jurassic organic-matter-rich carbonates in the Gissar Mountains (Tubiegatan section, Uzbekistan)",
+    "publicationDate": "2017-10-10",
+    "year": 2017,
+    "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "Biogéosciences",
+      "Institut des Sciences de la Terre de Paris",
+      "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
+      "Total (France)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W59085392",
+    "doi": "https://doi.org/10.1007/978-3-642-76548-3_4",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "",
+    "publicationDate": "1993-01-01",
+    "year": 1993,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Parasite Biology and Host Interactions",
+      "Neuroendocrine regulation and behavior",
+      "Genetics, Aging, and Longevity in Model Organisms"
+    ],
+    "institutions": [
+      "Université Claude Bernard Lyon 1"
+    ]
   },
   {
     "workId": "https://openalex.org/W2138821921",
@@ -121276,6 +125400,2536 @@ export const worksTable: WorkTableRecord[] = [
       "Urban and Rural Development Challenges",
       "Urban Agriculture and Sustainability",
       "Archaeology and Historical Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2029292238",
+    "doi": "https://doi.org/10.1016/j.earscirev.2010.01.002",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5035240990"
+    ],
+    "firstAuthorLastName": "Stern",
+    "allAuthors": [
+      "Robert J. Stern",
+      "Peter R. Johnson"
+    ],
+    "title": "Continental lithosphere of the Arabian Plate: A geologic, petrologic, and geophysical synthesis",
+    "publicationDate": "2010-02-20",
+    "year": 2010,
+    "venue": "Earth-Science Reviews",
+    "citations": 670,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "The University of Texas at Dallas"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2065471838",
+    "doi": "https://doi.org/10.1144/gsl.sp.2003.206.01.15",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5014025524"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson",
+      "Beraki Woldehaimanot"
+    ],
+    "title": "Development of the Arabian-Nubian Shield: perspectives on accretion and deformation in the northern East African Orogen and the assembly of Gondwana",
+    "publicationDate": "2003-01-01",
+    "year": 2003,
+    "venue": "Geological Society London Special Publications",
+    "citations": 467,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "University of Asmara"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2139564482",
+    "doi": "https://doi.org/10.1016/s0166-2635(04)13003-x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5035240990",
+      "A5069826985",
+      "A5077690571"
+    ],
+    "firstAuthorLastName": "Stern",
+    "allAuthors": [
+      "Robert J. Stern",
+      "Peter R. Johnson",
+      "Alfred Kröner",
+      "Bisrat Yibas"
+    ],
+    "title": "Neoproterozoic Ophiolites of the Arabian-Nubian Shield",
+    "publicationDate": "2004-01-01",
+    "year": 2004,
+    "venue": "Developments in precambrian geology",
+    "citations": 307,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "The University of Texas at Dallas",
+      "Saudi Aramco (Saudi Arabia)",
+      "Johannes Gutenberg University Mainz"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2057248218",
+    "doi": "https://doi.org/10.1016/j.epsl.2006.10.002",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5020686584",
+      "A5035240990",
+      "A5008927496",
+      "A5088101750"
+    ],
+    "firstAuthorLastName": "Hargrove",
+    "allAuthors": [
+      "Ulysses S. Hargrove",
+      "Robert J. Stern",
+      "Jun‐Ichi Kimura",
+      "William I. Manton",
+      "Peter R. Johnson"
+    ],
+    "title": "How juvenile is the Arabian–Nubian Shield? Evidence from Nd isotopes and pre-Neoproterozoic inherited zircon in the Bi'r Umq suture zone, Saudi Arabia",
+    "publicationDate": "2006-11-08",
+    "year": 2006,
+    "venue": "Earth and Planetary Science Letters",
+    "citations": 276,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "High-pressure geophysics and materials"
+    ],
+    "institutions": [
+      "The University of Texas at Dallas",
+      "Shimane University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2150913154",
+    "doi": "https://doi.org/10.2475/09.2010.02",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5032099830",
+      "A5072203156",
+      "A5049639227",
+      "A5004013824",
+      "A5064885805"
+    ],
+    "firstAuthorLastName": "Stern",
+    "allAuthors": [
+      "R. J. Stern",
+      "Kamal A. Ali",
+      "Jean-Paul Liégeois",
+      "Peter R. Johnson",
+      "Wiesław Kozdrój",
+      "Fayek Kattan"
+    ],
+    "title": "Distribution and significance of pre-Neoproterozoic zircons in juvenile Neoproterozoic igneous rocks of the Arabian-Nubian Shield",
+    "publicationDate": "2010-11-01",
+    "year": 2010,
+    "venue": "American Journal of Science",
+    "citations": 183,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "High-pressure geophysics and materials"
+    ],
+    "institutions": [
+      "Royal Museum for Central Africa",
+      "The University of Texas at Dallas",
+      "Saudi Aramco (Saudi Arabia)",
+      "University of Portland"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2150606133",
+    "doi": "https://doi.org/10.1016/s0301-9268(03)00070-6",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5053755896",
+      "A5035240990"
+    ],
+    "firstAuthorLastName": "Volesky",
+    "allAuthors": [
+      "John C. Volesky",
+      "Robert J. Stern",
+      "Peter R. Johnson"
+    ],
+    "title": "Geological control of massive sulfide mineralization in the Neoproterozoic Wadi Bidah shear zone, southwestern Saudi Arabia, inferences from orbital remote sensing and field studies",
+    "publicationDate": "2003-05-13",
+    "year": 2003,
+    "venue": "Precambrian Research",
+    "citations": 129,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Remote-Sensing Image Classification",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "The University of Texas at Dallas"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2064300797",
+    "doi": "https://doi.org/10.2174/1874262901408010003",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson"
+    ],
+    "title": "An Expanding Arabian-Nubian Shield Geochronologic and Isotopic Dataset: Defining Limits and Confirming the Tectonic Setting of a Neoproterozoic Accretionary Orogen",
+    "publicationDate": "2014-02-21",
+    "year": 2014,
+    "venue": "The Open Geology Journal",
+    "citations": 101,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2076675713",
+    "doi": "https://doi.org/10.3390/geosciences3030389",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5043756168",
+      "A5039177320",
+      "A5035240990",
+      "A5041673378"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson",
+      "Galen P. Halverson",
+      "Timothy Kusky",
+      "Robert J. Stern",
+      "Victoria Pease"
+    ],
+    "title": "Volcanosedimentary Basins in the Arabian-Nubian Shield: Markers of Repeated Exhumation and Denudation in a Neoproterozoic Accretionary Orogen",
+    "publicationDate": "2013-07-09",
+    "year": 2013,
+    "venue": "Geosciences",
+    "citations": 98,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Elemental Analysis"
+    ],
+    "institutions": [
+      "Wild Salmon Center",
+      "McGill University",
+      "China University of Geosciences",
+      "The University of Texas at Dallas",
+      "Stockholm University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2952598493",
+    "doi": "https://doi.org/10.1016/j.gr.2019.06.002",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5056332242",
+      "A5082538179",
+      "A5015557176"
+    ],
+    "firstAuthorLastName": "Zoheir",
+    "allAuthors": [
+      "Basem Zoheir",
+      "Peter R. Johnson",
+      "Richard J. Goldfarb",
+      "Dietrich D. Klemm"
+    ],
+    "title": "Orogenic gold in the Egyptian Eastern Desert: Widespread gold mineralization in the late stages of Neoproterozoic orogeny",
+    "publicationDate": "2019-06-18",
+    "year": 2019,
+    "venue": "Gondwana Research",
+    "citations": 87,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "Christian-Albrechts-Universität zu Kiel",
+      "Benha University",
+      "Wild Salmon Center",
+      "China University of Geosciences (Beijing)",
+      "Ludwig-Maximilians-Universität München"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2766757858",
+    "doi": "https://doi.org/10.25131/gssajg.120.1.63",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5056332242",
+      "A5045718178",
+      "A5035240990",
+      "A5031713577",
+      "A5017064204"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson",
+      "Basem Zoheir",
+      "Woldai Ghebreab",
+      "Robert J. Stern",
+      "Christopher Barrie",
+      "R. D. Hamer"
+    ],
+    "title": "Gold-bearing volcanogenic massive sulfides and orogenic-gold deposits in the Nubian Shield",
+    "publicationDate": "2017-03-01",
+    "year": 2017,
+    "venue": "South African Journal of Geology",
+    "citations": 84,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "Benha University",
+      "Columbus State Community College",
+      "The University of Texas at Dallas"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2551514925",
+    "doi": "https://doi.org/10.1002/2016tc004336",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5051178871",
+      "A5025296095",
+      "A5026190068"
+    ],
+    "firstAuthorLastName": "Szymanski",
+    "allAuthors": [
+      "Eugene Szymanski",
+      "Daniel F. Stöckli",
+      "Peter R. Johnson",
+      "Christian Hager"
+    ],
+    "title": "Thermochronometric evidence for diffuse extension and two-phase rifting within the Central Arabian Margin of the Red Sea Rift",
+    "publicationDate": "2016-11-08",
+    "year": 2016,
+    "venue": "Tectonics",
+    "citations": 77,
+    "topics": [
+      "earthquake and tectonic studies",
+      "Geological and Geochemical Analysis",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "Chevron (United States)",
+      "University of Kansas",
+      "The University of Texas at Austin"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2902242958",
+    "doi": "https://doi.org/10.1007/978-3-319-99408-6_4",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5035240990"
+    ],
+    "firstAuthorLastName": "Stern",
+    "allAuthors": [
+      "Robert J. Stern",
+      "Peter R. Johnson"
+    ],
+    "title": "Constraining the Opening of the Red Sea: Evidence from the Neoproterozoic Margins and Cenozoic Magmatism for a Volcanic Rifted Margin",
+    "publicationDate": "2018-12-05",
+    "year": 2018,
+    "venue": "",
+    "citations": 58,
+    "topics": [
+      "earthquake and tectonic studies",
+      "Geological and Geochemical Analysis",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "The University of Texas at Dallas",
+      "University of Portland"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3203604015",
+    "doi": "https://doi.org/10.1007/978-3-030-72995-0_1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson"
+    ],
+    "title": "The Arabian–Nubian Shield, an Introduction: Historic Overview, Concepts, Interpretations, and Future Issues",
+    "publicationDate": "2021-01-01",
+    "year": 2021,
+    "venue": "Regional geology reviews",
+    "citations": 24,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W1969920122",
+    "doi": "https://doi.org/10.1016/s0301-9268(03)00074-3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson"
+    ],
+    "title": "Post-amalgamation basins of the NE Arabian shield and implications for Neoproterozoic III tectonism in the northern East African orogen",
+    "publicationDate": "2003-05-01",
+    "year": 2003,
+    "venue": "Precambrian Research",
+    "citations": 119,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "Geological Formations and Processes Exploration"
+    ],
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2072299862",
+    "doi": "https://doi.org/10.1016/j.precamres.2013.07.015",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5035240990",
+      "A5056577179",
+      "A5033610162",
+      "A5072203156"
+    ],
+    "firstAuthorLastName": "Stern",
+    "allAuthors": [
+      "Robert J. Stern",
+      "Sumit K. Mukherjee",
+      "Nathan Miller",
+      "Kamal A. Ali",
+      "Peter R. Johnson"
+    ],
+    "title": "∼750 Ma banded iron formation from the Arabian-Nubian Shield—Implications for understanding neoproterozoic tectonics, volcanism, and climate change",
+    "publicationDate": "2013-09-01",
+    "year": 2013,
+    "venue": "Precambrian Research",
+    "citations": 97,
+    "topics": [
+      "Geochemistry and Elemental Analysis",
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "The University of Texas at Dallas",
+      "The University of Texas at Austin",
+      "King Abdulaziz University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1523307635",
+    "doi": "https://doi.org/10.1016/s0166-2635(04)13004-1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5064885805",
+      "A5040851527"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson",
+      "Fayek Kattan",
+      "Ahmad M. Al-Saleh"
+    ],
+    "title": "Neoproterozoic Ophiolites in the Arabian Shield: Field Relations and Structure",
+    "publicationDate": "2004-01-01",
+    "year": 2004,
+    "venue": "Developments in precambrian geology",
+    "citations": 94,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "King Saud University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2013617939",
+    "doi": "https://doi.org/10.1007/s00531-009-0427-3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5072203156",
+      "A5035240990",
+      "A5088101750",
+      "A5056577179"
+    ],
+    "firstAuthorLastName": "Ali",
+    "allAuthors": [
+      "Kamal A. Ali",
+      "Robert J. Stern",
+      "William I. Manton",
+      "Peter R. Johnson",
+      "Sumit K. Mukherjee"
+    ],
+    "title": "Neoproterozoic diamictite in the Eastern Desert of Egypt and Northern Saudi Arabia: evidence of ~750 Ma glaciation in the Arabian–Nubian Shield?",
+    "publicationDate": "2009-02-25",
+    "year": 2009,
+    "venue": "International Journal of Earth Sciences",
+    "citations": 91,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "The University of Texas at Dallas"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2088396347",
+    "doi": "https://doi.org/10.1016/s0301-9268(00)00157-1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5064885805"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson",
+      "Fayek Kattan"
+    ],
+    "title": "Oblique sinistral transpression in the Arabian shield: the timing and kinematics of a Neoproterozoic suture zone",
+    "publicationDate": "2001-03-01",
+    "year": 2001,
+    "venue": "Precambrian Research",
+    "citations": 88,
+    "topics": [
+      "earthquake and tectonic studies",
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies Worldwide"
+    ],
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2011379108",
+    "doi": "https://doi.org/10.1016/j.precamres.2007.04.003",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5009519783",
+      "A5030332147",
+      "A5083795365",
+      "A5091429576",
+      "A5067200603"
+    ],
+    "firstAuthorLastName": "Doebrich",
+    "allAuthors": [
+      "Jeff L. Doebrich",
+      "Abdullah M. Al-Jehani",
+      "Alim A. Siddiqui",
+      "Timothy S. Hayes",
+      "Joseph L. Wooden",
+      "Peter R. Johnson"
+    ],
+    "title": "Geology and metallogeny of the Ar Rayn terrane, eastern Arabian shield: Evolution of a Neoproterozoic continental-margin arc during assembly of Gondwana within the East African orogen",
+    "publicationDate": "2007-05-04",
+    "year": 2007,
+    "venue": "Precambrian Research",
+    "citations": 84,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "United States Geological Survey",
+      "Saudi Aramco (Saudi Arabia)",
+      "Arizona Geological Survey"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2006705655",
+    "doi": "https://doi.org/10.1016/j.jaci.2006.05.019",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5072324055",
+      "A5074742233",
+      "A5109878101",
+      "A5054917789",
+      "A5073221407",
+      "A5111327352",
+      "A5113657194",
+      "A5080267479"
+    ],
+    "firstAuthorLastName": "Burgess",
+    "allAuthors": [
+      "Janette K. Burgess",
+      "Brian G. Oliver",
+      "M. H. Poniris",
+      "Qiu‐Fu Ge",
+      "Sarah Boustany",
+      "N.H. Cox",
+      "L. M. Moir",
+      "Peter R. Johnson",
+      "J BLACK"
+    ],
+    "title": "A phosphodiesterase 4 inhibitor inhibits matrix protein deposition in airways in vitro",
+    "publicationDate": "2006-07-21",
+    "year": 2006,
+    "venue": "Journal of Allergy and Clinical Immunology",
+    "citations": 82,
+    "topics": [
+      "Asthma and respiratory diseases",
+      "Pulmonary Hypertension Research and Treatments",
+      "Coagulation, Bradykinin, Polyphosphates, and Angioedema"
+    ],
+    "institutions": [
+      "The University of Sydney",
+      "Woolcock Institute of Medical Research"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1964170439",
+    "doi": "https://doi.org/10.1016/0040-1951(94)00179-d",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5075565519"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson",
+      "Ian Stewart"
+    ],
+    "title": "Magnetically inferred basement structure in central Saudi Arabia",
+    "publicationDate": "1995-05-01",
+    "year": 1995,
+    "venue": "Tectonophysics",
+    "citations": 73,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "High-pressure geophysics and materials"
+    ],
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1976950473",
+    "doi": "https://doi.org/10.1016/s1342-937x(05)71003-0",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5060678984",
+      "A5035240990"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson",
+      "Mohamed G. Abdelsalam",
+      "Robert J. Stern"
+    ],
+    "title": "The Bi'r Umq-Nakasib Suture Zone in the Arabian-Nubian Shield: A Key to Understanding Crustal Growth in the East African Orogen",
+    "publicationDate": "2003-07-01",
+    "year": 2003,
+    "venue": "Gondwana Research",
+    "citations": 73,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geophysical Studies Worldwide"
+    ],
+    "institutions": [
+      "The University of Texas at Dallas"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2055763048",
+    "doi": "https://doi.org/10.1016/j.lithos.2010.08.024",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5072203156",
+      "A5035240990",
+      "A5088101750",
+      "A5008927496",
+      "A5068579961",
+      "A5056577179",
+      "A5007548281"
+    ],
+    "firstAuthorLastName": "Ali",
+    "allAuthors": [
+      "Kamal A. Ali",
+      "Robert J. Stern",
+      "William I. Manton",
+      "Jun‐Ichi Kimura",
+      "Martin J. Whitehouse",
+      "Sumit K. Mukherjee",
+      "Peter R. Johnson",
+      "William R. Griffin"
+    ],
+    "title": "Geochemical, U–Pb zircon, and Nd isotope investigations of the Neoproterozoic Ghawjah Metavolcanic rocks, Northwestern Saudi Arabia",
+    "publicationDate": "2010-09-02",
+    "year": 2010,
+    "venue": "Lithos",
+    "citations": 67,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "The University of Texas at Dallas",
+      "Japan Agency for Marine-Earth Science and Technology",
+      "Swedish Museum of Natural History",
+      "BP (United States)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2231770731",
+    "doi": "https://doi.org/10.1080/00206814.2015.1094382",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5088415590",
+      "A5056332242"
+    ],
+    "firstAuthorLastName": "Emam",
+    "allAuthors": [
+      "Ashraf Emam",
+      "Basem Zoheir",
+      "Peter R. Johnson"
+    ],
+    "title": "ASTER-based mapping of ophiolitic rocks: examples from the Allaqi–Heiani suture, SE Egypt",
+    "publicationDate": "2015-10-07",
+    "year": 2015,
+    "venue": "International Geology Review",
+    "citations": 41,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Remote-Sensing Image Classification",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "Aswan University",
+      "Benha University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2765962086",
+    "doi": "https://doi.org/10.1080/00206814.2017.1385425",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5004013824",
+      "A5084973207",
+      "A5052229727",
+      "A5078957022"
+    ],
+    "firstAuthorLastName": "Kozdrój",
+    "allAuthors": [
+      "Wiesław Kozdrój",
+      "Allen Kennedy",
+      "Peter R. Johnson",
+      "Małgorzata Ziółkowska-Kozdrój",
+      "Khalid Kadi"
+    ],
+    "title": "Geochronology in the southern Midyan terrane: a review of constraints on the timing of magmatic pulses and tectonic evolution in a northwestern part of the Arabian Shield",
+    "publicationDate": "2017-10-17",
+    "year": 2017,
+    "venue": "International Geology Review",
+    "citations": 33,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "Polish Geological Institute",
+      "Curtin University",
+      "Oregon Medical Research Center",
+      "Saudi Aramco (Saudi Arabia)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3014422248",
+    "doi": "https://doi.org/10.1016/j.precamres.2020.105720",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5080418265",
+      "A5020476917",
+      "A5037158929",
+      "A5064885805",
+      "A5089529426",
+      "A5043755662",
+      "A5087460039",
+      "A5085347910",
+      "A5014225512",
+      "A5018947347",
+      "A5100409021",
+      "A5062114510",
+      "A5032588554",
+      "A5026107093"
+    ],
+    "firstAuthorLastName": "Cui",
+    "allAuthors": [
+      "Huan Cui",
+      "Alan J. Kaufman",
+      "Haibo Zou",
+      "Fayek Kattan",
+      "Peter Trusler",
+      "Jeff Smith",
+      "A. Yu. Ivantsov",
+      "Thomas H. Rich",
+      "Ashraf Al Qubsani",
+      "Abdullah Yazedi",
+      "Xiaoming Liu",
+      "Peter R. Johnson",
+      "Steven Goderis",
+      "Philippe Claeys",
+      "Patricia Vickers-Rich"
+    ],
+    "title": "Primary or secondary? A dichotomy of the strontium isotope anomalies in the Ediacaran carbonates of Saudi Arabia",
+    "publicationDate": "2020-03-31",
+    "year": 2020,
+    "venue": "Precambrian Research",
+    "citations": 30,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "Vrije Universiteit Brussel",
+      "Chinese Academy of Sciences",
+      "Nanjing Institute of Geology and Paleontology",
+      "Earth System Science Interdisciplinary Center",
+      "University of Maryland, College Park",
+      "Auburn University",
+      "Saudi Aramco (Saudi Arabia)",
+      "Monash University",
+      "Institute of Paleontology A A Borisyak",
+      "Museums Victoria",
+      "Swinburne University of Technology",
+      "University of North Carolina at Chapel Hill"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4225001827",
+    "doi": "https://doi.org/10.1016/j.precamres.2022.106674",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5009352804",
+      "A5085367456",
+      "A5048442087",
+      "A5043756168"
+    ],
+    "firstAuthorLastName": "Shen",
+    "allAuthors": [
+      "Chen Shen",
+      "Mark D. Schmitz",
+      "Peter R. Johnson",
+      "Joshua H.F.L. Davies",
+      "Galen P. Halverson"
+    ],
+    "title": "U-Pb geochronology and cyclostratigraphy of the middle Ediacaran upper Jibalah Group, eastern Arabian Shield",
+    "publicationDate": "2022-04-27",
+    "year": 2022,
+    "venue": "Precambrian Research",
+    "citations": 18,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "McGill University",
+      "Boise State University",
+      "Université du Québec à Montréal"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2067677164",
+    "doi": "https://doi.org/10.1016/s0010-9452(77)80019-1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson"
+    ],
+    "title": "Dichotically-Stimulated Ear Differences in Musicians and Nonmusicians",
+    "publicationDate": "1977-12-01",
+    "year": 1977,
+    "venue": "Cortex",
+    "citations": 123,
+    "topics": [
+      "Hemispheric Asymmetry in Neuroscience",
+      "Neuroscience and Music Perception",
+      "Multisensory perception and integration"
+    ],
+    "institutions": [
+      "University of Victoria"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2181689138",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5033610162",
+      "A5035240990"
+    ],
+    "firstAuthorLastName": "Miller",
+    "allAuthors": [
+      "Nathan Miller",
+      "Peter R. Johnson",
+      "Robert J. Stern"
+    ],
+    "title": "MARINE VERSUS NON-MARINE ENVIRONMENTS FOR THE JIBALAH GROUP, NW ARABIAN SHIELD: A SEDIMENTOLOGIC AND GEOCHEMICAL SURVEY AND REPORT OF POSSIBLE METAZOA IN THE DHAIQA FORMATION",
+    "publicationDate": "2008-01-01",
+    "year": 2008,
+    "venue": "",
+    "citations": 42,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Methane Hydrates and Related Phenomena"
+    ],
+    "institutions": [
+      "The University of Texas at Austin"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2604512930",
+    "doi": "https://doi.org/10.1080/00206814.2017.1307789",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5053755896",
+      "A5042158045",
+      "A5035240990",
+      "A5055044281",
+      "A5077355218",
+      "A5001308114"
+    ],
+    "firstAuthorLastName": "Volesky",
+    "allAuthors": [
+      "John C. Volesky",
+      "Matthew I. Leybourne",
+      "Robert J. Stern",
+      "Jan M. Peter",
+      "Daniel Layton‐Matthews",
+      "Sarah Rice",
+      "Peter R. Johnson"
+    ],
+    "title": "Metavolcanic host rocks, mineralization, and gossans of the Shaib al Tair and Rabathan volcanogenic massive sulphide deposits of the Wadi Bidah Mineral District, Saudi Arabia",
+    "publicationDate": "2017-04-04",
+    "year": 2017,
+    "venue": "International Geology Review",
+    "citations": 18,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "The University of Texas at Dallas",
+      "Laurentian University",
+      "Geological Survey of Canada",
+      "Queen's University",
+      "Oregon Medical Research Center"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1983410598",
+    "doi": "https://doi.org/10.1016/0952-0600(88)90006-3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5108455726",
+      "A5089281384"
+    ],
+    "firstAuthorLastName": "Black",
+    "allAuthors": [
+      "Judith L. Black",
+      "Peter R. Johnson",
+      "Carol Armour"
+    ],
+    "title": "Potentiation of the contractile effects of neuropeptides in human bronchus by an enkephalinase inhibitor",
+    "publicationDate": "1988-01-01",
+    "year": 1988,
+    "venue": "Pulmonary Pharmacology",
+    "citations": 52,
+    "topics": [
+      "Neuropeptides and Animal Physiology"
+    ],
+    "institutions": [
+      "The University of Sydney"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1604867301",
+    "doi": "https://doi.org/10.1029/gd019p0323",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5055015593",
+      "A5112863355"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson",
+      "Erwin Scheibner",
+      "Elizabeth Smith"
+    ],
+    "title": "Basement fragments, accreted tectonostratigraphic terranes, and overlap sequences: Elements in the tectonic evolution of the Arabian Shield",
+    "publicationDate": "1987-01-01",
+    "year": 1987,
+    "venue": "Geodynamics series/Geodynamic series",
+    "citations": 39,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies Worldwide",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "Mineral Resources"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2045501713",
+    "doi": "https://doi.org/10.1130/0091-7613(1994)022<0011:pnepgi>2.3.co;2",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5113453557",
+      "A5016744818"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson",
+      "Isidore Zietz",
+      "William A. Thomas"
+    ],
+    "title": "Possible Neoproterozoic-early Paleozoic grabens in Mississippi, Alabama, and Tennessee",
+    "publicationDate": "1994-01-01",
+    "year": 1994,
+    "venue": "Geology",
+    "citations": 31,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geology and Paleoclimatology Research",
+      "Plant Diversity and Evolution"
+    ],
+    "institutions": [
+      "George Mason University",
+      "University of Kentucky"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2079727754",
+    "doi": "https://doi.org/10.1016/s1342-937x(05)70683-3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson"
+    ],
+    "title": "Implications of SHRIMP and Microstructural Data on the Age and Kinematics of Shearing in the Asir Terrane, Southern Arabian Shield, Saudi Arabia",
+    "publicationDate": "2001-04-01",
+    "year": 2001,
+    "venue": "Gondwana Research",
+    "citations": 24,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4250688638",
+    "doi": "https://doi.org/10.1130/0091-7613(1996)024<1055:epgtap>2.3.co;2",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5075565519",
+      "A5068579961",
+      "A5111850139",
+      "A5069191276"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson",
+      "Ian Stewart",
+      "Martin J. Whitehouse",
+      "Brian F. Windley",
+      "Mahfood A. O. Ba-Bttat"
+    ],
+    "title": "Early Precambrian gneiss terranes and Pan-African island arcs in Yemen: Crustal accretion of the eastern Arabian shield",
+    "publicationDate": "1996-01-01",
+    "year": 1996,
+    "venue": "Geology",
+    "citations": 12,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "Geological and Geophysical Studies Worldwide"
+    ],
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)",
+      "University of Leicester",
+      "University of Aden"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2316672829",
+    "doi": "https://doi.org/10.1144/m36.22",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5035240990",
+      "A5072203156",
+      "A5056577179"
+    ],
+    "firstAuthorLastName": "Stern",
+    "allAuthors": [
+      "Robert J. Stern",
+      "Peter R. Johnson",
+      "Kamal A. Ali",
+      "Sumit K. Mukherjee"
+    ],
+    "title": "Chapter 22 Evidence for Early and Mid-Cryogenian glaciation in the Northern Arabian–Nubian Shield (Egypt, Sudan, and western Arabia)",
+    "publicationDate": "2011-01-01",
+    "year": 2011,
+    "venue": "Geological Society London Memoirs",
+    "citations": 11,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "The University of Texas at Dallas",
+      "King Abdulaziz University",
+      "BP (United States)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2093760763",
+    "doi": "https://doi.org/10.1016/j.precamres.2013.10.003",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5041673378"
+    ],
+    "firstAuthorLastName": "Pease",
+    "allAuthors": [
+      "Victoria Pease",
+      "Peter R. Johnson"
+    ],
+    "title": "Introduction to the JEBEL volume of Precambrian Research",
+    "publicationDate": "2013-10-30",
+    "year": 2013,
+    "venue": "Precambrian Research",
+    "citations": 10,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "Geomagnetism and Paleomagnetism Studies"
+    ],
+    "institutions": [
+      "Stockholm University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2058524021",
+    "doi": "https://doi.org/10.1016/0143-4179(91)90055-n",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5012896004",
+      "A5060595909",
+      "A5108455726"
+    ],
+    "firstAuthorLastName": "Burcher",
+    "allAuthors": [
+      "Elizabeth Burcher",
+      "Lorraine A. Alouan",
+      "Peter R. Johnson",
+      "Judith L. Black"
+    ],
+    "title": "Neuropeptide gamma, the most potent contractile tachykinin in human isolated bronchus, acts via a ‘non-classical’ NK2 receptor",
+    "publicationDate": "1991-10-01",
+    "year": 1991,
+    "venue": "Neuropeptides",
+    "citations": 41,
+    "topics": [
+      "Neuropeptides and Animal Physiology",
+      "Receptor Mechanisms and Signaling",
+      "Cancer, Stress, Anesthesia, and Immune Response"
+    ],
+    "institutions": [
+      "The University of Sydney"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2320074675",
+    "doi": "https://doi.org/10.1179/bjms.1989.004",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5051761369"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson",
+      "Rhona Davies"
+    ],
+    "title": "SEXUAL ATTITUDES OF MEMBERS OF STAFF",
+    "publicationDate": "1989-01-01",
+    "year": 1989,
+    "venue": "The British Journal of Mental Subnormality",
+    "citations": 17,
+    "topics": [
+      "Gender, Security, and Conflict",
+      "Gender Diversity and Inequality"
+    ],
+    "institutions": [
+      "Delta Air Lines (United States)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2010786304",
+    "doi": "https://doi.org/10.1016/0301-9268(84)90040-8",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5021102047"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson",
+      "G.J. Vranas"
+    ],
+    "title": "The geotectonic environments of Late Proterozoic mineralisation in the southern Arabian shield",
+    "publicationDate": "1984-08-01",
+    "year": 1984,
+    "venue": "Precambrian Research",
+    "citations": 15,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2048987162",
+    "doi": "https://doi.org/10.1183/09031936.05.00016905",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5108455726",
+      "A5082828606",
+      "A5073221407",
+      "A5109878101",
+      "A5036921698",
+      "A5074742233",
+      "A5113657194",
+      "A5072324055"
+    ],
+    "firstAuthorLastName": "Black",
+    "allAuthors": [
+      "Judith L. Black",
+      "Qi Ge",
+      "Sarah Boustany",
+      "Peter R. Johnson",
+      "M. H. Poniris",
+      "Allan R. Glanville",
+      "Brian G. Oliver",
+      "L. M. Moir",
+      "Janette K. Burgess"
+    ],
+    "title": "<i>In vitro</i>studies of lymphangioleiomyomatosis",
+    "publicationDate": "2005-10-01",
+    "year": 2005,
+    "venue": "European Respiratory Journal",
+    "citations": 11,
+    "topics": [
+      "Tuberous Sclerosis Complex Research",
+      "Vascular Tumors and Angiosarcomas",
+      "Corporate Governance and Law"
+    ],
+    "institutions": [
+      "The University of Sydney",
+      "Woolcock Institute of Medical Research",
+      "St Vincent's Hospital Sydney"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2121511827",
+    "doi": "https://doi.org/10.1088/1755-1307/2/1/012005",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5112490376"
+    ],
+    "firstAuthorLastName": "Stern",
+    "allAuthors": [
+      "R J Stern",
+      "Peter R. Johnson"
+    ],
+    "title": "Do variations in Arabian plate lithospheric structure control deformation in the Arabian-Eurasian convergence zone?",
+    "publicationDate": "2008-07-01",
+    "year": 2008,
+    "venue": "IOP Conference Series Earth and Environmental Science",
+    "citations": 11,
+    "topics": [
+      "High-pressure geophysics and materials",
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "The University of Texas at Dallas",
+      "Johnson & Johnson (United States)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2150850848",
+    "doi": "https://doi.org/10.1002/eji.1830080513",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5011675080",
+      "A5111616125",
+      "A5114008781",
+      "A5049478097",
+      "A5059258716",
+      "A5071852825",
+      "A5025217856",
+      "A5110169336"
+    ],
+    "firstAuthorLastName": "Basten",
+    "allAuthors": [
+      "Antony Basten",
+      "J. F. A. P. Miller",
+      "R. Loblay",
+      "Peter R. Johnson",
+      "Jennifer R. Gamble",
+      "Eunice Chia",
+      "H. Pritchard-Briscoe",
+      "Robin E. Callard",
+      "Ian F. C. McKenzie"
+    ],
+    "title": "T cell‐dependent suppression of antibody production. I. Characteristics of suppressor T cells following tolerance induction",
+    "publicationDate": "1978-05-01",
+    "year": 1978,
+    "venue": "European Journal of Immunology",
+    "citations": 24,
+    "topics": [
+      "T-cell and B-cell Immunology",
+      "Immune Cell Function and Interaction",
+      "Hematopoietic Stem Cell Transplantation"
+    ],
+    "institutions": [
+      "The University of Sydney",
+      "Walter and Eliza Hall Institute of Medical Research"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2108946296",
+    "doi": "https://doi.org/10.1029/jb091ib04p0d214",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5041602963",
+      "A5109056288",
+      "A5113484029",
+      "A5013478477",
+      "A5014260737",
+      "A5064788534",
+      "A5038805478"
+    ],
+    "firstAuthorLastName": "Shih",
+    "allAuthors": [
+      "C. Y. Shih",
+      "L. E. Nyquist",
+      "D. D. Bogard",
+      "B. M. Bansal",
+      "H. Wiesmann",
+      "Peter R. Johnson",
+      "John W. Shervais",
+      "L. A. Taylor"
+    ],
+    "title": "Geochronology and petrogenesis of Apollo 14 very high potassium mare basalts",
+    "publicationDate": "1986-03-30",
+    "year": 1986,
+    "venue": "Journal of Geophysical Research Atmospheres",
+    "citations": 22,
+    "topics": [
+      "Planetary Science and Exploration",
+      "Astro and Planetary Science",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2073712234",
+    "doi": "https://doi.org/10.2136/sssaj1962.03615995002600020027x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5088566317",
+      "A5017256582"
+    ],
+    "firstAuthorLastName": "Alexander",
+    "allAuthors": [
+      "John Alexander",
+      "A. H. Beavers",
+      "Peter R. Johnson"
+    ],
+    "title": "Zirconium Content of Coarse Silt in Loess and Till Of Wisconsin Age in Northern Illinois",
+    "publicationDate": "1962-03-01",
+    "year": 1962,
+    "venue": "Soil Science Society of America Journal",
+    "citations": 14,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Clay minerals and soil interactions",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2071206307",
+    "doi": "https://doi.org/10.1130/0091-7613(1991)019<0950:carous>2.3.co;2",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5087816135"
+    ],
+    "firstAuthorLastName": "Finn",
+    "allAuthors": [
+      "Carol A. Finn",
+      "Peter R. Johnson"
+    ],
+    "title": "Comment and Reply on \"U.S. west coast revisited: An aeromagnetic perspective\"",
+    "publicationDate": "1991-01-01",
+    "year": 1991,
+    "venue": "Geology",
+    "citations": 5,
+    "topics": [
+      "Coastal and Marine Dynamics"
+    ],
+    "institutions": [
+      "Denver Federal Center",
+      "United States Geological Survey"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2095963960",
+    "doi": "https://doi.org/10.2113/gsecongeo.90.8.2262",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5077822601",
+      "A5054176937",
+      "A5109885568"
+    ],
+    "firstAuthorLastName": "Leanderson",
+    "allAuthors": [
+      "Per Leanderson",
+      "Mahmoud Yoldash",
+      "Peter R. Johnson",
+      "Terry W. Offield"
+    ],
+    "title": "Structure, vein paragenesis, and alteration in the Al Wajh gold district, Saudi Arabia",
+    "publicationDate": "1995-12-01",
+    "year": 1995,
+    "venue": "Economic Geology",
+    "citations": 5,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2620672629",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5002765633",
+      "A5062961912"
+    ],
+    "firstAuthorLastName": "Peyton",
+    "allAuthors": [
+      "H R Peyton",
+      "Peter R. Johnson",
+      "Charles E. Behlke"
+    ],
+    "title": "Saline Conversion and Ice Structures from Artificially Grown Sea Ice",
+    "publicationDate": "1967-09-01",
+    "year": 1967,
+    "venue": "ScholarWorks - UA (University of Alaska System)",
+    "citations": 4,
+    "topics": [
+      "Arctic and Antarctic ice dynamics",
+      "Freezing and Crystallization Processes",
+      "Climate change and permafrost"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2993520237",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5004013824",
+      "A5084973207",
+      "A5052229727",
+      "A5078957022"
+    ],
+    "firstAuthorLastName": "Kozdrój",
+    "allAuthors": [
+      "Wiesław Kozdrój",
+      "Allen Kennedy",
+      "Peter R. Johnson",
+      "Małgorzata Ziółkowska-Kozdrój",
+      "Khalid Kadi"
+    ],
+    "title": "SHRIMP U-Pb zircon geochronological constraints on Cryogenian-Ediacaran tectonomagmatic events in the northwestern Arabian Shield",
+    "publicationDate": "2014-05-01",
+    "year": 2014,
+    "venue": "EGUGA",
+    "citations": 3,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2248607991",
+    "doi": "https://doi.org/10.5281/zenodo.16542895",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5016537835",
+      "A5031866306",
+      "A5030457651"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson",
+      "Peter J. F. Davie",
+      "D. T. Neil",
+      "Ida Fellegara"
+    ],
+    "title": "Excavation, habitation and transportation of massive corals by the crab Actumnus setifer (Crustacea: Brachyura: Pilumnidae) in Moreton Bay, Queensland",
+    "publicationDate": "2008-01-01",
+    "year": 2008,
+    "venue": "Biodiversity Heritage Library (Smithsonian Institution)",
+    "citations": 2,
+    "topics": [
+      "Crustacean biology and ecology",
+      "Marine Biology and Ecology Research",
+      "Fish biology, ecology, and behavior"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2189266572",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5110510870"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson",
+      "Paul L. Williams"
+    ],
+    "title": "Geology of the Precanibrian rocks of the Jabal Habashi quadrangle, sheet 26F, Kingdom of Saudi Arabia/ with a Geographic map of the Jabal Habashi quadrangle compiled by F. J. Fuller",
+    "publicationDate": "1985-01-01",
+    "year": 1985,
+    "venue": "",
+    "citations": 1,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2768236725",
+    "doi": "https://doi.org/10.5382/econgeo.112.8.br02",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson"
+    ],
+    "title": "Mineral Deposits of North Africa (Mohammed Bouabdellah and John F. Slack, eds.)",
+    "publicationDate": "2017-11-15",
+    "year": 2017,
+    "venue": "Economic Geology",
+    "citations": 1,
+    "topics": [
+      "Geological and Geophysical Studies Worldwide",
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3024748811",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5051178871",
+      "A5025296095",
+      "A5064885805",
+      "A5047299048"
+    ],
+    "firstAuthorLastName": "Szymanski",
+    "allAuthors": [
+      "Eugene Szymanski",
+      "Daniel F. Stöckli",
+      "Peter R. Johnson",
+      "Fayek Kattan",
+      "A. Al Shammari"
+    ],
+    "title": "Observations From Fieldwork and (U-Th)/He Thermochronologic Study of the Central Arabian Flank of the Red Sea Rift System",
+    "publicationDate": "2007-12-01",
+    "year": 2007,
+    "venue": "AGU Fall Meeting Abstracts",
+    "citations": 1,
+    "topics": [
+      "Geological and Geophysical Studies Worldwide",
+      "earthquake and tectonic studies",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2069289256",
+    "doi": "https://doi.org/10.1130/0091-7613(1990)018<0332:uswcra>2.3.co;2",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5113453557",
+      "A5018082575"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson",
+      "Isidore Zietz",
+      "K.R. Bond"
+    ],
+    "title": "U.S. west coast revisited: An aeromagnetic perspective",
+    "publicationDate": "1990-01-01",
+    "year": 1990,
+    "venue": "Geology",
+    "citations": 10,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Geophysical and Geoelectrical Methods",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "George Mason University",
+      "United States Geological Survey"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2004796339",
+    "doi": "https://doi.org/10.1111/j.1600-065x.1975.tb00178.x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5011675080",
+      "A5111616125"
+    ],
+    "firstAuthorLastName": "Basten",
+    "allAuthors": [
+      "Antony Basten",
+      "J. F. A. P. Miller",
+      "Peter R. Johnson"
+    ],
+    "title": "T Cell‐Dependent Suppression of an Anti‐Hapten Antibody Response",
+    "publicationDate": "1975-09-01",
+    "year": 1975,
+    "venue": "Immunological Reviews",
+    "citations": 99,
+    "topics": [
+      "T-cell and B-cell Immunology",
+      "Immunotherapy and Immune Responses",
+      "Fungal Infections and Studies"
+    ],
+    "institutions": [
+      "The Royal Melbourne Hospital",
+      "The University of Sydney",
+      "Walter and Eliza Hall Institute of Medical Research"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2011362920",
+    "doi": "https://doi.org/10.1111/j.1474-8673.1991.tb00316.x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5089281384",
+      "A5108455726"
+    ],
+    "firstAuthorLastName": "Armour",
+    "allAuthors": [
+      "Carol Armour",
+      "Peter R. Johnson",
+      "Judith L. Black"
+    ],
+    "title": "Nedocromil sodium inhibits substance P‐induced potentiation of cholinergic neural responses in the isolated innervated rabbit trachea",
+    "publicationDate": "1991-06-01",
+    "year": 1991,
+    "venue": "Journal of Autonomic Pharmacology",
+    "citations": 18,
+    "topics": [
+      "Olfactory and Sensory Function Studies",
+      "Chemical synthesis and alkaloids",
+      "Alkaloids: synthesis and pharmacology"
+    ],
+    "institutions": [
+      "The University of Sydney"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W194073010",
+    "doi": "https://doi.org/10.3133/ofr853",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5108676198",
+      "A5009474021"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson",
+      "P.L. Williams",
+      "Fred J Fuller"
+    ],
+    "title": "Geology of the Precambrian rocks of the Jabal Habashi Quadrangle, sheet 26F, Kingdom of Saudi Arabia",
+    "publicationDate": "1985-01-01",
+    "year": 1985,
+    "venue": "Antarctica A Keystone in a Changing World",
+    "citations": 5,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geophysical Studies",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2263523005",
+    "doi": "https://doi.org/10.1152/jappl.1991.70.2.813",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5089281384",
+      "A5060595909",
+      "A5112401102"
+    ],
+    "firstAuthorLastName": "Armour",
+    "allAuthors": [
+      "Carol Armour",
+      "Peter R. Johnson",
+      "Lorraine A. Alouan",
+      "J. L. Black"
+    ],
+    "title": "Substance P-induced contraction of rabbit airways: mechanism of action",
+    "publicationDate": "1991-02-01",
+    "year": 1991,
+    "venue": "Journal of Applied Physiology",
+    "citations": 5,
+    "topics": [
+      "Olfactory and Sensory Function Studies"
+    ],
+    "institutions": [
+      "The University of Sydney"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W634552911",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5023096462",
+      "A5005152356"
+    ],
+    "firstAuthorLastName": "Bond",
+    "allAuthors": [
+      "Creina Bond",
+      "Roy Siegfried",
+      "Peter R. Johnson"
+    ],
+    "title": "Antarctica: No Single Country, No Single Sea",
+    "publicationDate": "1979-01-01",
+    "year": 1979,
+    "venue": "",
+    "citations": 4,
+    "topics": [
+      "Polar Research and Ecology"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2142552010",
+    "doi": "https://doi.org/10.1044/aas13.3.9",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson"
+    ],
+    "title": "Financial and Business Issues: Communicating to Increase Health Care Reimbursement",
+    "publicationDate": "2003-10-01",
+    "year": 2003,
+    "venue": "Perspectives on Administration and Supervision",
+    "citations": 1,
+    "topics": [
+      "Healthcare Policy and Management",
+      "Leadership and Management in Organizations"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2990161943",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5060764847",
+      "A5032099830",
+      "A5008927496"
+    ],
+    "firstAuthorLastName": "Hargrove",
+    "allAuthors": [
+      "U. S. Hargrove",
+      "R. J. Stern",
+      "Jun‐Ichi Kimura",
+      "Peter R. Johnson"
+    ],
+    "title": "What is the Significance of Adakitic Granitoids and Zircon Inheritance in Juvenile Arc Rocks of the Neoproterozoic Makkah Batholith, Saudi Arabia?",
+    "publicationDate": "2004-12-01",
+    "year": 2004,
+    "venue": "AGU Fall Meeting Abstracts",
+    "citations": 1,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3170022927",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5114248445",
+      "A5077563794",
+      "A5089269182",
+      "A5084979688",
+      "A5021125003",
+      "A5020258837"
+    ],
+    "firstAuthorLastName": "Kurokawa",
+    "allAuthors": [
+      "T Kurokawa",
+      "Margo H. Edwards",
+      "Peter R. Johnson",
+      "Daniel J. Fornari",
+      "M. R. Perfit",
+      "Hans Schouten",
+      "Maurice A. Tivey"
+    ],
+    "title": "Possible Recent Volcanic Activity on the East Pacific Rise at 9° 32'N",
+    "publicationDate": "2002-12-01",
+    "year": 2002,
+    "venue": "AGU Fall Meeting Abstracts",
+    "citations": 1,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Atmospheric and Environmental Gas Dynamics"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W612166122",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson"
+    ],
+    "title": "Augustus Alt: barren lands in a baron's hands",
+    "publicationDate": "1993-05-01",
+    "year": 1993,
+    "venue": "",
+    "citations": 1,
+    "topics": [
+      "Cultural History and Identity Formation"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W76976277",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5112599381",
+      "A5022529926"
+    ],
+    "firstAuthorLastName": "Dunne",
+    "allAuthors": [
+      "L. A. Dunne",
+      "Peter R. Johnson",
+      "S. B. Desantis"
+    ],
+    "title": "Geology and Petrophysics of the Ozouri Group, Central Gabon",
+    "publicationDate": "1996-08-01",
+    "year": 1996,
+    "venue": "AAPG Bulletin",
+    "citations": 1,
+    "topics": [
+      "Geological and Geophysical Studies Worldwide",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W94473743",
+    "doi": "https://doi.org/10.3133/ofr9139",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5005906972",
+      "A5084016600"
+    ],
+    "firstAuthorLastName": "Samater",
+    "allAuthors": [
+      "R.M. Samater",
+      "Peter R. Johnson",
+      "Arthur A. Bookstrom"
+    ],
+    "title": "Reconnaissance geochemical survey of the Farah Garan-Kutam mineral belt, Kingdom of Saudi Arabia",
+    "publicationDate": "1991-01-01",
+    "year": 1991,
+    "venue": "Antarctica A Keystone in a Changing World",
+    "citations": 1,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W154232170",
+    "doi": "https://doi.org/10.3133/ofr90285",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5005906972",
+      "A5023654338",
+      "A5084016600"
+    ],
+    "firstAuthorLastName": "Samater",
+    "allAuthors": [
+      "R.M. Samater",
+      "R. P. Christian",
+      "Peter R. Johnson",
+      "Arthur A. Bookstrom"
+    ],
+    "title": "Reconnaissance geochemical exploration for gold in the Ad Darb area, Kingdom of Saudi Arabia",
+    "publicationDate": "1990-01-01",
+    "year": 1990,
+    "venue": "Antarctica A Keystone in a Changing World",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Mining Techniques and Economics"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2142072517",
+    "doi": "https://doi.org/10.1044/aas16.2.5",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5057413279"
+    ],
+    "firstAuthorLastName": "Fifer",
+    "allAuthors": [
+      "Robert C. Fifer",
+      "Peter R. Johnson"
+    ],
+    "title": "Financial and Business Issues",
+    "publicationDate": "2006-06-01",
+    "year": 2006,
+    "venue": "Perspectives on Administration and Supervision",
+    "citations": 0,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2254294975",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson"
+    ],
+    "title": "Substitute Landfill Covers",
+    "publicationDate": "1998-12-01",
+    "year": 1998,
+    "venue": "Civil engineering",
+    "citations": 0,
+    "topics": [
+      "Landfill Environmental Impact Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2259552435",
+    "doi": "https://doi.org/10.3133/ofr90326",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5069745552",
+      "A5088066676",
+      "A5076703799",
+      "A5084016600",
+      "A5065060610"
+    ],
+    "firstAuthorLastName": "Bosch",
+    "allAuthors": [
+      "Paul S. Bosch",
+      "Eyad Jannadi",
+      "A.M. Helaby",
+      "Peter R. Johnson",
+      "Arthur A. Bookstrom",
+      "Maher A. Bazzari"
+    ],
+    "title": "Hamdah ancient gold mines, Kingdom of Saudi Arabia",
+    "publicationDate": "1990-01-01",
+    "year": 1990,
+    "venue": "Antarctica A Keystone in a Changing World",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geophysical and Geoelectrical Methods",
+      "Rock Mechanics and Modeling"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2265582025",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5110431360",
+      "A5066463652"
+    ],
+    "firstAuthorLastName": "Castaño",
+    "allAuthors": [
+      "John R. Castaño",
+      "Peter R. Johnson",
+      "Albert K. Killi"
+    ],
+    "title": "ABSTRACT: Thermal Maturation of Structureless Organic Matter: Its Petrographic Expression",
+    "publicationDate": "1990-01-01",
+    "year": 1990,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological Studies and Exploration",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Mining and Gasification Technologies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2907862477",
+    "doi": "https://doi.org/10.1044/aas14.1.6",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5083264612"
+    ],
+    "firstAuthorLastName": "Payne",
+    "allAuthors": [
+      "J. Payne",
+      "Peter R. Johnson"
+    ],
+    "title": "Financial and Business Issues",
+    "publicationDate": "2004-03-01",
+    "year": 2004,
+    "venue": "Perspectives on Administration and Supervision",
+    "citations": 0,
+    "topics": [
+      "Evaluation and Performance Assessment",
+      "Legal Education and Practice Innovations",
+      "Nursing Education, Practice, and Leadership"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3013299034",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5051178871",
+      "A5025296095",
+      "A5064885805",
+      "A5034871380"
+    ],
+    "firstAuthorLastName": "Szymanski",
+    "allAuthors": [
+      "Eugene Szymanski",
+      "Daniel F. Stöckli",
+      "Peter R. Johnson",
+      "Fayek Kattan",
+      "M. A. Cosca"
+    ],
+    "title": "Tectonic development of the SW Arabian Plate margin within the central Arabian flank of the Red Sea rift system",
+    "publicationDate": "2009-12-01",
+    "year": 2009,
+    "venue": "AGUFM",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geophysical Studies",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3094997048",
+    "doi": "https://doi.org/10.1130/abs/2020am-358763",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5009352804",
+      "A5085367456",
+      "A5084678392"
+    ],
+    "firstAuthorLastName": "Shen",
+    "allAuthors": [
+      "Chen Shen",
+      "Mark D. Schmitz",
+      "Peter R. Johnson",
+      "Galen Halverson"
+    ],
+    "title": "CYCLOSTRATIGRAPHY OF THE MIDDLE EDIACARAN UPPER JIBALAH GROUP, EASTERN ARABIAN SHIELD, SAUDI ARABIA",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "Abstracts with programs - Geological Society of America",
+    "citations": 0,
+    "topics": [
+      "Marine and environmental studies",
+      "Geochemistry and Geologic Mapping",
+      "Evolution and Paleontology Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3096839933",
+    "doi": "https://doi.org/10.1130/abs/2020am-350815",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5080418265",
+      "A5020476917",
+      "A5037158929",
+      "A5064885805",
+      "A5089529426",
+      "A5043755662",
+      "A5087460039",
+      "A5085347910",
+      "A5014225512",
+      "A5018947347",
+      "A5100409021",
+      "A5062114510",
+      "A5032588554",
+      "A5026107093"
+    ],
+    "firstAuthorLastName": "Cui",
+    "allAuthors": [
+      "Huan Cui",
+      "Alan J. Kaufman",
+      "Haibo Zou",
+      "Fayek Kattan",
+      "Peter Trusler",
+      "Jeff Smith",
+      "A. Yu. Ivantsov",
+      "Thomas H. Rich",
+      "Ashraf Al Qubsani",
+      "Abdullah Yazedi",
+      "Xiaoming Liu",
+      "Peter R. Johnson",
+      "Steven Goderis",
+      "Philippe Claeys",
+      "Patricia Vickers-Rich"
+    ],
+    "title": "A HYDROTHERMAL ORIGIN OF THE STRONTIUM ISOTOPE ANOMALIES IN EDIACARAN CARBONATES OF SAUDI ARABIA",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "Abstracts with programs - Geological Society of America",
+    "citations": 0,
+    "topics": [
+      "Groundwater and Isotope Geochemistry"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3147000865",
+    "doi": "https://doi.org/10.1044/aas16.3.10",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson"
+    ],
+    "title": "Financial and Business Issues",
+    "publicationDate": "2006-10-01",
+    "year": 2006,
+    "venue": "Perspectives on Administration and Supervision",
+    "citations": 0,
+    "topics": [
+      "Healthcare Systems and Technology",
+      "linguistics and terminology studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4241819938",
+    "doi": "https://doi.org/10.3133/ofr81582b",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5089299204",
+      "A5087466328",
+      "A5108624785",
+      "A5091365379",
+      "A5028558751",
+      "A5017038318",
+      "A5094991803",
+      "A5094991804",
+      "A5094991786",
+      "A5094991787",
+      "A5094991788",
+      "A5094991789",
+      "A5027685674",
+      "A5094991790",
+      "A5094991791",
+      "A5094991792",
+      "A5094991793",
+      "A5094991794",
+      "A5110478981",
+      "A5094991795",
+      "A5038345922",
+      "A5019310233",
+      "A5094991796",
+      "A5100861103",
+      "A5094991797",
+      "A5112793326",
+      "A5094991798",
+      "A5066052039",
+      "A5006258484",
+      "A5114003432",
+      "A5014956341",
+      "A5094991799",
+      "A5094991800",
+      "A5085865493",
+      "A5094991801",
+      "A5018644467",
+      "A5081899509",
+      "A5094991802"
+    ],
+    "firstAuthorLastName": "Bothner",
+    "allAuthors": [
+      "Michael H. Bothner",
+      "Peter R. Johnson",
+      "James D. Doyle",
+      "F Wall",
+      "Paul A. Schroeder",
+      "Steven Paul Woods",
+      "Harley J. Knebel",
+      "W Ferre'jee",
+      "Watch Chief",
+      "Patricia Forrestel",
+      "Felicity Oram",
+      "Michael Kerkmann",
+      "Franchot Scarver",
+      "John Dunlavey",
+      "Prescott Heald",
+      "James Katsolis",
+      "John Eastlund",
+      "Charles Gove",
+      "John Ratkewitz",
+      "R. R. Reynolds",
+      "John Ripp",
+      "Orrin H. Pilkey",
+      "H. J. W. Fay",
+      "Norman Halverson",
+      "Sally Wood",
+      "Nick Lefteriou",
+      "Dennis Barry",
+      "Irwin Skidaway",
+      "Robert T. Giles",
+      "J. D. Howard J. R. Deery",
+      "Bill Neal",
+      "Jay Van Tassell",
+      "Klein Associates",
+      "Charles Finklestein",
+      "Charles E. Dill",
+      "John Eastland",
+      "Brian Harrington",
+      "Roger Zaunere",
+      "Loran Readings"
+    ],
+    "title": "Appendices of environmental geologic studies on the southeastern United States Atlantic Outer Continental Shelf, 1977-1978",
+    "publicationDate": "1981-01-01",
+    "year": 1981,
+    "venue": "Antarctica A Keystone in a Changing World",
+    "citations": 0,
+    "topics": [
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Geophysical Survey",
+      "Duke University",
+      "United States Geological Survey",
+      "University of Georgia"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4387834111",
+    "doi": "https://doi.org/10.7302/18381",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson"
+    ],
+    "title": "Menc As Arbiter Of Taste For Secondary School Choirs.",
+    "publicationDate": "1969-01-01",
+    "year": 1969,
+    "venue": "Deep Blue (University of Michigan)",
+    "citations": 0,
+    "topics": [
+      "Diverse Music Education Insights",
+      "Education Methods and Practices",
+      "Art Education and Development"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4394494583",
+    "doi": "https://doi.org/10.6084/m9.figshare.4814689",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5053755896",
+      "A5042158045",
+      "A5035240990",
+      "A5055044281",
+      "A5077355218",
+      "A5001308114"
+    ],
+    "firstAuthorLastName": "Volesky",
+    "allAuthors": [
+      "John C. Volesky",
+      "Matthew I. Leybourne",
+      "Robert J. Stern",
+      "Jan M. Peter",
+      "Daniel Layton‐Matthews",
+      "Sarah Rice",
+      "Peter R. Johnson"
+    ],
+    "title": "Metavolcanic host rocks, mineralization, and gossans of the Shaib al Tair and Rabathan volcanogenic massive sulphide deposits of the Wadi Bidah Mineral District, Saudi Arabia",
+    "publicationDate": "2017-01-01",
+    "year": 2017,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geochemical Analysis"
     ],
     "institutions": []
   },

@@ -938,5 +938,77 @@ export const authors: AuthorRecord[] = [
     "totalPublications": 30,
     "totalCitations": 52,
     "hIndex": 5
+  },
+  {
+    "authorId": "idb0051-vaslet-denis",
+    "openAlexId": "A5038965329",
+    "openAlexIds": [
+      "A5038965329"
+    ],
+    "name": "Denis Vaslet",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "",
+    "orcid": "",
+    "totalPublications": 41,
+    "totalCitations": 1201,
+    "hIndex": 19
+  },
+  {
+    "authorId": "idb0052-Énay-raymond",
+    "openAlexId": "A5084630459",
+    "openAlexIds": [
+      "A5084630459"
+    ],
+    "name": "Raymond Énay",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "",
+    "orcid": "",
+    "totalPublications": 111,
+    "totalCitations": 1806,
+    "hIndex": 21
+  },
+  {
+    "authorId": "idb0053-manivit-jacques",
+    "openAlexId": "A5051867931",
+    "openAlexIds": [
+      "A5051867931"
+    ],
+    "name": "Jacques Manivit",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "",
+    "orcid": "",
+    "totalPublications": 8,
+    "totalCitations": 309,
+    "hIndex": 5
+  },
+  {
+    "authorId": "idb0054-johnson-peter",
+    "openAlexId": "A5103098706",
+    "openAlexIds": [
+      "A5103098706"
+    ],
+    "name": "Peter Johnson",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "",
+    "orcid": "",
+    "totalPublications": 81,
+    "totalCitations": 5750,
+    "hIndex": 33
   }
 ];
