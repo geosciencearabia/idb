@@ -1010,5 +1010,41 @@ export const authors: AuthorRecord[] = [
     "totalPublications": 81,
     "totalCitations": 5750,
     "hIndex": 33
+  },
+  {
+    "authorId": "idb0055-al-hajri-said",
+    "openAlexId": "A5054134454",
+    "openAlexIds": [
+      "A5054134454"
+    ],
+    "name": "Said Al-Hajri",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "said.hajri.1@aramco.com",
+    "orcid": "",
+    "totalPublications": 34,
+    "totalCitations": 1102,
+    "hIndex": 14
+  },
+  {
+    "authorId": "idb0056-droste-henk",
+    "openAlexId": "A5058646530",
+    "openAlexIds": [
+      "A5058646530"
+    ],
+    "name": "Henk Droste",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "henk.droste@telenet.be",
+    "orcid": "",
+    "totalPublications": 45,
+    "totalCitations": 2092,
+    "hIndex": 17
   }
 ];

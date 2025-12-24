@@ -782,9 +782,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -1945,9 +1945,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -2670,9 +2670,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -3553,9 +3553,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5400000214576721,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -6657,9 +6657,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -8991,1134 +8991,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4407393621",
-      "doi": "https://doi.org/10.1007/s13202-025-01930-y",
-      "title": "Microfacies control on geomechanical properties of unconventional carbonate reservoirs: insights from a middle jurassic outcrop analogue in Saudi Arabia",
-      "display_name": "Microfacies control on geomechanical properties of unconventional carbonate reservoirs: insights from a middle jurassic outcrop analogue in Saudi Arabia",
-      "publication_year": 2025,
-      "publication_date": "2025-02-01",
-      "ids": {
-        "openalex": "https://openalex.org/W4407393621",
-        "doi": "https://doi.org/10.1007/s13202-025-01930-y"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/s13202-025-01930-y",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1007/s13202-025-01930-y",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S2764546325",
-          "display_name": "Journal of Petroleum Exploration and Production Technology",
-          "issn_l": "2190-0558",
-          "issn": [
-            "2190-0558",
-            "2190-0566"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319965",
-          "host_organization_name": "Springer Nature",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Petroleum Exploration and Production Technology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://doi.org/10.1007/s13202-025-01930-y",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5106908772",
-            "display_name": "Adamu Kimayim Gaduwang",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Adamu Kimayim Gaduwang",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5090251412",
-            "display_name": "Daniel Muñoz‐López",
-            "orcid": "https://orcid.org/0000-0003-2615-4166"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Daniel Muñoz-López",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5072935704",
-            "display_name": "Anas Muhammad Salisu",
-            "orcid": "https://orcid.org/0009-0002-6134-0511"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Anas Muhammad Salisu",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5074883327",
-            "display_name": "Bassam Tawabini",
-            "orcid": "https://orcid.org/0000-0002-0096-2723"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Bassam Tawabini",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5104094821",
-            "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Khalid Al-Ramadan",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5103082989",
-            "display_name": "Ardiansyah Koeshidayatullah",
-            "orcid": "https://orcid.org/0000-0003-0940-678X"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Ardiansyah Koeshidayatullah",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 6,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 1570,
-        "currency": "EUR",
-        "value_usd": 1930
-      },
-      "apc_paid": {
-        "value": 1570,
-        "currency": "EUR",
-        "value_usd": 1930
-      },
-      "fwci": 5.52259304,
-      "has_fulltext": false,
-      "cited_by_count": 2,
-      "citation_normalized_percentile": {
-        "value": 0.87573909,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 95,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "15",
-        "issue": "2",
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9994999766349792,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.9993000030517578,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/outcrop",
-          "display_name": "Outcrop",
-          "score": 0.9020005464553833
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8702102899551392
-        },
-        {
-          "id": "https://openalex.org/keywords/offshore-geotechnical-engineering",
-          "display_name": "Offshore geotechnical engineering",
-          "score": 0.7227969169616699
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate",
-          "display_name": "Carbonate",
-          "score": 0.6718689203262329
-        },
-        {
-          "id": "https://openalex.org/keywords/geomechanics",
-          "display_name": "Geomechanics",
-          "score": 0.6371604204177856
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-rock",
-          "display_name": "Carbonate rock",
-          "score": 0.5902817845344543
-        },
-        {
-          "id": "https://openalex.org/keywords/petrology",
-          "display_name": "Petrology",
-          "score": 0.4923447370529175
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.47123560309410095
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.3592493236064911
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.17818763852119446
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C169212394",
-          "wikidata": "https://www.wikidata.org/wiki/Q531953",
-          "display_name": "Outcrop",
-          "level": 2,
-          "score": 0.9020005464553833
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8702102899551392
-        },
-        {
-          "id": "https://openalex.org/C80019733",
-          "wikidata": "https://www.wikidata.org/wiki/Q17105064",
-          "display_name": "Offshore geotechnical engineering",
-          "level": 2,
-          "score": 0.7227969169616699
-        },
-        {
-          "id": "https://openalex.org/C2780659211",
-          "wikidata": "https://www.wikidata.org/wiki/Q181699",
-          "display_name": "Carbonate",
-          "level": 2,
-          "score": 0.6718689203262329
-        },
-        {
-          "id": "https://openalex.org/C185715996",
-          "wikidata": "https://www.wikidata.org/wiki/Q2670285",
-          "display_name": "Geomechanics",
-          "level": 2,
-          "score": 0.6371604204177856
-        },
-        {
-          "id": "https://openalex.org/C19320362",
-          "wikidata": "https://www.wikidata.org/wiki/Q777913",
-          "display_name": "Carbonate rock",
-          "level": 3,
-          "score": 0.5902817845344543
-        },
-        {
-          "id": "https://openalex.org/C5900021",
-          "wikidata": "https://www.wikidata.org/wiki/Q163082",
-          "display_name": "Petrology",
-          "level": 1,
-          "score": 0.4923447370529175
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.47123560309410095
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.3592493236064911
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.17818763852119446
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C191897082",
-          "wikidata": "https://www.wikidata.org/wiki/Q11467",
-          "display_name": "Metallurgy",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1007/s13202-025-01930-y",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1007/s13202-025-01930-y",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764546325",
-            "display_name": "Journal of Petroleum Exploration and Production Technology",
-            "issn_l": "2190-0558",
-            "issn": [
-              "2190-0558",
-              "2190-0566"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310319965",
-            "host_organization_name": "Springer Nature",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of Petroleum Exploration and Production Technology",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:d65ff1755f654bf8be3a46c7cbdd696c",
-          "is_oa": false,
-          "landing_page_url": "https://doaj.org/article/d65ff1755f654bf8be3a46c7cbdd696c",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Journal of Petroleum Exploration and Production Technology, Vol 15, Iss 2, Pp 1-16 (2025)",
-          "raw_type": "article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1007/s13202-025-01930-y",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1007/s13202-025-01930-y",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S2764546325",
-          "display_name": "Journal of Petroleum Exploration and Production Technology",
-          "issn_l": "2190-0558",
-          "issn": [
-            "2190-0558",
-            "2190-0566"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319965",
-          "host_organization_name": "Springer Nature",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Petroleum Exploration and Production Technology",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "referenced_works_count": 53,
-      "referenced_works": [
-        "https://openalex.org/W4224441256",
-        "https://openalex.org/W2317365985",
-        "https://openalex.org/W4315786625",
-        "https://openalex.org/W2921406724",
-        "https://openalex.org/W4403558876",
-        "https://openalex.org/W4224293735",
-        "https://openalex.org/W2322715126",
-        "https://openalex.org/W1973977895",
-        "https://openalex.org/W2078190598",
-        "https://openalex.org/W1990465761",
-        "https://openalex.org/W2048584770",
-        "https://openalex.org/W3099917829",
-        "https://openalex.org/W2163632202",
-        "https://openalex.org/W2024480362",
-        "https://openalex.org/W1664739277",
-        "https://openalex.org/W2012893865",
-        "https://openalex.org/W1602671332",
-        "https://openalex.org/W2566504220",
-        "https://openalex.org/W2037415830",
-        "https://openalex.org/W4249886930",
-        "https://openalex.org/W4229866455",
-        "https://openalex.org/W1991612494",
-        "https://openalex.org/W2591704645",
-        "https://openalex.org/W4237775730",
-        "https://openalex.org/W2500737251",
-        "https://openalex.org/W2051259191",
-        "https://openalex.org/W2965961128",
-        "https://openalex.org/W2138207465",
-        "https://openalex.org/W2027932521",
-        "https://openalex.org/W4313653474",
-        "https://openalex.org/W3083154553",
-        "https://openalex.org/W2942977747",
-        "https://openalex.org/W4309309849",
-        "https://openalex.org/W4205655002",
-        "https://openalex.org/W4401546585",
-        "https://openalex.org/W4233338394",
-        "https://openalex.org/W2333657363",
-        "https://openalex.org/W1993885672",
-        "https://openalex.org/W2031375671",
-        "https://openalex.org/W1636004255",
-        "https://openalex.org/W2466793989",
-        "https://openalex.org/W195523536",
-        "https://openalex.org/W2036400800",
-        "https://openalex.org/W4401646659",
-        "https://openalex.org/W3135210707",
-        "https://openalex.org/W4386689239",
-        "https://openalex.org/W1980744259",
-        "https://openalex.org/W4386524836",
-        "https://openalex.org/W4403370534",
-        "https://openalex.org/W2770118770",
-        "https://openalex.org/W2096305803",
-        "https://openalex.org/W203584942",
-        "https://openalex.org/W1992482580"
-      ],
-      "related_works": [
-        "https://openalex.org/W1966018702",
-        "https://openalex.org/W4244074133",
-        "https://openalex.org/W2078704581",
-        "https://openalex.org/W2390326989",
-        "https://openalex.org/W4402965069",
-        "https://openalex.org/W2372412760",
-        "https://openalex.org/W4387216249",
-        "https://openalex.org/W2359822476",
-        "https://openalex.org/W2059585431",
-        "https://openalex.org/W2811147918"
-      ],
-      "abstract_inverted_index": {
-        "45": [
-          200
-        ],
-        "Abstract": [
-          0
-        ],
-        "The": [
-          1,
-          136,
-          208
-        ],
-        "interplay": [
-          2
-        ],
-        "between": [
-          3,
-          214
-        ],
-        "depositional": [
-          4,
-          215
-        ],
-        "and": [
-          5,
-          69,
-          71,
-          77,
-          96,
-          100,
-          120,
-          133,
-          146,
-          167,
-          189,
-          194,
-          206,
-          219,
-          223,
-          238
-        ],
-        "diagenetic": [
-          6
-        ],
-        "processes": [
-          7
-        ],
-        "controls": [
-          8,
-          90
-        ],
-        "the": [
-          9,
-          18,
-          29,
-          41,
-          91,
-          109,
-          140,
-          154,
-          158,
-          175,
-          178,
-          182,
-          220,
-          240
-        ],
-        "distribution": [
-          10,
-          19
-        ],
-        "of": [
-          11,
-          20,
-          31,
-          54,
-          93,
-          144,
-          151,
-          162,
-          172,
-          226,
-          242
-        ],
-        "geomechanical": [
-          12,
-          21,
-          72,
-          94,
-          134,
-          224
-        ],
-        "properties": [
-          13,
-          22,
-          95,
-          225
-        ],
-        "in": [
-          14,
-          23,
-          102,
-          234,
-          239,
-          248
-        ],
-        "carbonate": [
-          15,
-          33,
-          103,
-          228,
-          250
-        ],
-        "rocks.": [
-          16
-        ],
-        "Understanding": [
-          17
-        ],
-        "rocks": [
-          24
-        ],
-        "is": [
-          25
-        ],
-        "crucial": [
-          26
-        ],
-        "for": [
-          27,
-          245
-        ],
-        "analyzing": [
-          28
-        ],
-        "behavior": [
-          30
-        ],
-        "unconventional": [
-          32,
-          57,
-          227
-        ],
-        "reservoirs": [
-          34
-        ],
-        "during": [
-          35
-        ],
-        "hydraulic": [
-          36,
-          246
-        ],
-        "fracturing.": [
-          37
-        ],
-        "In": [
-          38,
-          59
-        ],
-        "Saudi": [
-          39
-        ],
-        "Arabia,": [
-          40
-        ],
-        "exceptionally": [
-          42
-        ],
-        "exposed": [
-          43
-        ],
-        "Middle": [
-          44
-        ],
-        "Jurassic": [
-          45
-        ],
-        "Tuwaiq": [
-          46
-        ],
-        "Mountain": [
-          47
-        ],
-        "Formation": [
-          48
-        ],
-        "(TMF)": [
-          49
-        ],
-        "represents": [
-          50
-        ],
-        "an": [
-          51
-        ],
-        "important": [
-          52
-        ],
-        "analog": [
-          53
-        ],
-        "its": [
-          55
-        ],
-        "subsurface-equivalent": [
-          56
-        ],
-        "reservoir.": [
-          58
-        ],
-        "this": [
-          60
-        ],
-        "formation,": [
-          61
-        ],
-        "petrographical,": [
-          62
-        ],
-        "rock": [
-          63,
-          221
-        ],
-        "physical": [
-          64,
-          222
-        ],
-        "(Vp,": [
-          65
-        ],
-        "Vs,": [
-          66
-        ],
-        "Poisson’s": [
-          67
-        ],
-        "Ratio,": [
-          68
-        ],
-        "Φ),": [
-          70
-        ],
-        "(uniaxial": [
-          73
-        ],
-        "compressive": [
-          74
-        ],
-        "strength": [
-          75
-        ],
-        "(UCS)": [
-          76
-        ],
-        "Dynamic": [
-          78
-        ],
-        "Elastic": [
-          79
-        ],
-        "Modulus": [
-          80,
-          196
-        ],
-        "(Ed))": [
-          81
-        ],
-        "analyses": [
-          82
-        ],
-        "were": [
-          83
-        ],
-        "integrated": [
-          84,
-          124
-        ],
-        "to": [
-          85,
-          199
-        ],
-        "examine": [
-          86
-        ],
-        "how": [
-          87
-        ],
-        "sedimentary": [
-          88,
-          113,
-          217
-        ],
-        "microfacies": [
-          89,
-          114,
-          129
-        ],
-        "variation": [
-          92
-        ],
-        "thus,": [
-          97
-        ],
-        "reservoir": [
-          98,
-          235
-        ],
-        "quality": [
-          99,
-          236
-        ],
-        "heterogeneity": [
-          101
-        ],
-        "successions.": [
-          104
-        ],
-        "Petrographic": [
-          105
-        ],
-        "observations": [
-          106
-        ],
-        "reveal": [
-          107,
-          210
-        ],
-        "that": [
-          108,
-          127
-        ],
-        "TMF": [
-          110
-        ],
-        "comprises": [
-          111
-        ],
-        "three": [
-          112,
-          176
-        ],
-        "including": [
-          115
-        ],
-        "peloidal": [
-          116,
-          137
-        ],
-        "grainstone,": [
-          117
-        ],
-        "bioclastic-peloidal": [
-          118
-        ],
-        "packstone,": [
-          119
-        ],
-        "bioclastic": [
-          121,
-          155,
-          179
-        ],
-        "wackestone.": [
-          122
-        ],
-        "An": [
-          123
-        ],
-        "analysis": [
-          125
-        ],
-        "indicates": [
-          126
-        ],
-        "these": [
-          128
-        ],
-        "shows": [
-          130,
-          139,
-          181
-        ],
-        "distinct": [
-          131
-        ],
-        "petrophysical": [
-          132
-        ],
-        "properties.": [
-          135
-        ],
-        "grainstone": [
-          138
-        ],
-        "highest": [
-          141,
-          168,
-          183
-        ],
-        "average": [
-          142,
-          148,
-          160,
-          169,
-          184
-        ],
-        "porosity": [
-          143,
-          161
-        ],
-        "15.4%": [
-          145
-        ],
-        "lowest": [
-          147,
-          159
-        ],
-        "UCS": [
-          149,
-          170
-        ],
-        "value": [
-          150,
-          171,
-          186,
-          191
-        ],
-        "34Mpa,": [
-          152
-        ],
-        "while": [
-          153
-        ],
-        "wackestone": [
-          156,
-          180
-        ],
-        "exhibit": [
-          157
-        ],
-        "2.8%,": [
-          163
-        ],
-        "Poisson": [
-          164
-        ],
-        "Ratio": [
-          165
-        ],
-        "(0.26)": [
-          166
-        ],
-        "148Mpa.": [
-          173
-        ],
-        "Among": [
-          174
-        ],
-        "microfacies,": [
-          177,
-          218
-        ],
-        "Vp": [
-          185
-        ],
-        "(5635.5": [
-          187
-        ],
-        "m/s)": [
-          188
-        ],
-        "Vs": [
-          190
-        ],
-        "(2935.25": [
-          192
-        ],
-        "m/s),": [
-          193
-        ],
-        "Young": [
-          195
-        ],
-        "(Ed;": [
-          197
-        ],
-        "up": [
-          198
-        ],
-        "Gpa),": [
-          201
-        ],
-        "suggesting": [
-          202
-        ],
-        "a": [
-          203,
-          211
-        ],
-        "high": [
-          204
-        ],
-        "brittleness": [
-          205
-        ],
-        "fracability.": [
-          207
-        ],
-        "findings": [
-          209
-        ],
-        "strong": [
-          212
-        ],
-        "correlation": [
-          213
-        ],
-        "texture,": [
-          216
-        ],
-        "reservoirs.": [
-          229
-        ],
-        "These": [
-          230
-        ],
-        "insights": [
-          231
-        ],
-        "can": [
-          232
-        ],
-        "help": [
-          233
-        ],
-        "predictions": [
-          237
-        ],
-        "selection": [
-          241
-        ],
-        "sweet": [
-          243
-        ],
-        "spots": [
-          244
-        ],
-        "fracturing": [
-          247
-        ],
-        "complex": [
-          249
-        ],
-        "sequences.": [
-          251
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4408660286",
       "doi": "https://doi.org/10.2110/jsr.2024.135",
       "title": "Experimental study of smectite authigenesis and its subsequent illitization: insights from modern estuary sediments",
@@ -10348,16 +9220,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.16126708,
+      "fwci": 6.24190061,
       "has_fulltext": false,
-      "cited_by_count": 2,
+      "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.84088833,
+        "value": 0.891126,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 95,
+        "min": 96,
         "max": 97
       },
       "biblio": {
@@ -11609,6 +10481,1134 @@
       "counts_by_year": [
         {
           "year": 2025,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2025-12-23T23:11:35.936235",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4407393621",
+      "doi": "https://doi.org/10.1007/s13202-025-01930-y",
+      "title": "Microfacies control on geomechanical properties of unconventional carbonate reservoirs: insights from a middle jurassic outcrop analogue in Saudi Arabia",
+      "display_name": "Microfacies control on geomechanical properties of unconventional carbonate reservoirs: insights from a middle jurassic outcrop analogue in Saudi Arabia",
+      "publication_year": 2025,
+      "publication_date": "2025-02-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4407393621",
+        "doi": "https://doi.org/10.1007/s13202-025-01930-y"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/s13202-025-01930-y",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s13202-025-01930-y",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764546325",
+          "display_name": "Journal of Petroleum Exploration and Production Technology",
+          "issn_l": "2190-0558",
+          "issn": [
+            "2190-0558",
+            "2190-0566"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Petroleum Exploration and Production Technology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1007/s13202-025-01930-y",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5106908772",
+            "display_name": "Adamu Kimayim Gaduwang",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Adamu Kimayim Gaduwang",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5090251412",
+            "display_name": "Daniel Muñoz‐López",
+            "orcid": "https://orcid.org/0000-0003-2615-4166"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Daniel Muñoz-López",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5072935704",
+            "display_name": "Anas Muhammad Salisu",
+            "orcid": "https://orcid.org/0009-0002-6134-0511"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Anas Muhammad Salisu",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074883327",
+            "display_name": "Bassam Tawabini",
+            "orcid": "https://orcid.org/0000-0002-0096-2723"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Bassam Tawabini",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5104094821",
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Khalid Al-Ramadan",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5103082989",
+            "display_name": "Ardiansyah Koeshidayatullah",
+            "orcid": "https://orcid.org/0000-0003-0940-678X"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Ardiansyah Koeshidayatullah",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 6,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 1570,
+        "currency": "EUR",
+        "value_usd": 1930
+      },
+      "apc_paid": {
+        "value": 1570,
+        "currency": "EUR",
+        "value_usd": 1930
+      },
+      "fwci": 5.52259304,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.87573909,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 95,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "15",
+        "issue": "2",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10635",
+          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+          "score": 0.9994999766349792,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.9993000030517578,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/outcrop",
+          "display_name": "Outcrop",
+          "score": 0.9020005464553833
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8702102899551392
+        },
+        {
+          "id": "https://openalex.org/keywords/offshore-geotechnical-engineering",
+          "display_name": "Offshore geotechnical engineering",
+          "score": 0.7227969169616699
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.6718689203262329
+        },
+        {
+          "id": "https://openalex.org/keywords/geomechanics",
+          "display_name": "Geomechanics",
+          "score": 0.6371604204177856
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-rock",
+          "display_name": "Carbonate rock",
+          "score": 0.5902817845344543
+        },
+        {
+          "id": "https://openalex.org/keywords/petrology",
+          "display_name": "Petrology",
+          "score": 0.4923447370529175
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.47123560309410095
+        },
+        {
+          "id": "https://openalex.org/keywords/geotechnical-engineering",
+          "display_name": "Geotechnical engineering",
+          "score": 0.3592493236064911
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.17818763852119446
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.9020005464553833
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8702102899551392
+        },
+        {
+          "id": "https://openalex.org/C80019733",
+          "wikidata": "https://www.wikidata.org/wiki/Q17105064",
+          "display_name": "Offshore geotechnical engineering",
+          "level": 2,
+          "score": 0.7227969169616699
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.6718689203262329
+        },
+        {
+          "id": "https://openalex.org/C185715996",
+          "wikidata": "https://www.wikidata.org/wiki/Q2670285",
+          "display_name": "Geomechanics",
+          "level": 2,
+          "score": 0.6371604204177856
+        },
+        {
+          "id": "https://openalex.org/C19320362",
+          "wikidata": "https://www.wikidata.org/wiki/Q777913",
+          "display_name": "Carbonate rock",
+          "level": 3,
+          "score": 0.5902817845344543
+        },
+        {
+          "id": "https://openalex.org/C5900021",
+          "wikidata": "https://www.wikidata.org/wiki/Q163082",
+          "display_name": "Petrology",
+          "level": 1,
+          "score": 0.4923447370529175
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.47123560309410095
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.3592493236064911
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.17818763852119446
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C191897082",
+          "wikidata": "https://www.wikidata.org/wiki/Q11467",
+          "display_name": "Metallurgy",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1007/s13202-025-01930-y",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1007/s13202-025-01930-y",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764546325",
+            "display_name": "Journal of Petroleum Exploration and Production Technology",
+            "issn_l": "2190-0558",
+            "issn": [
+              "2190-0558",
+              "2190-0566"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319965",
+            "host_organization_name": "Springer Nature",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Petroleum Exploration and Production Technology",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:d65ff1755f654bf8be3a46c7cbdd696c",
+          "is_oa": false,
+          "landing_page_url": "https://doaj.org/article/d65ff1755f654bf8be3a46c7cbdd696c",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Journal of Petroleum Exploration and Production Technology, Vol 15, Iss 2, Pp 1-16 (2025)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1007/s13202-025-01930-y",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s13202-025-01930-y",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764546325",
+          "display_name": "Journal of Petroleum Exploration and Production Technology",
+          "issn_l": "2190-0558",
+          "issn": [
+            "2190-0558",
+            "2190-0566"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Petroleum Exploration and Production Technology",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "referenced_works_count": 53,
+      "referenced_works": [
+        "https://openalex.org/W4224441256",
+        "https://openalex.org/W2317365985",
+        "https://openalex.org/W4315786625",
+        "https://openalex.org/W2921406724",
+        "https://openalex.org/W4403558876",
+        "https://openalex.org/W4224293735",
+        "https://openalex.org/W2322715126",
+        "https://openalex.org/W1973977895",
+        "https://openalex.org/W2078190598",
+        "https://openalex.org/W1990465761",
+        "https://openalex.org/W2048584770",
+        "https://openalex.org/W3099917829",
+        "https://openalex.org/W2163632202",
+        "https://openalex.org/W2024480362",
+        "https://openalex.org/W1664739277",
+        "https://openalex.org/W2012893865",
+        "https://openalex.org/W1602671332",
+        "https://openalex.org/W2566504220",
+        "https://openalex.org/W2037415830",
+        "https://openalex.org/W4249886930",
+        "https://openalex.org/W4229866455",
+        "https://openalex.org/W1991612494",
+        "https://openalex.org/W2591704645",
+        "https://openalex.org/W4237775730",
+        "https://openalex.org/W2500737251",
+        "https://openalex.org/W2051259191",
+        "https://openalex.org/W2965961128",
+        "https://openalex.org/W2138207465",
+        "https://openalex.org/W2027932521",
+        "https://openalex.org/W4313653474",
+        "https://openalex.org/W3083154553",
+        "https://openalex.org/W2942977747",
+        "https://openalex.org/W4309309849",
+        "https://openalex.org/W4205655002",
+        "https://openalex.org/W4401546585",
+        "https://openalex.org/W4233338394",
+        "https://openalex.org/W2333657363",
+        "https://openalex.org/W1993885672",
+        "https://openalex.org/W2031375671",
+        "https://openalex.org/W1636004255",
+        "https://openalex.org/W2466793989",
+        "https://openalex.org/W195523536",
+        "https://openalex.org/W2036400800",
+        "https://openalex.org/W4401646659",
+        "https://openalex.org/W3135210707",
+        "https://openalex.org/W4386689239",
+        "https://openalex.org/W1980744259",
+        "https://openalex.org/W4386524836",
+        "https://openalex.org/W4403370534",
+        "https://openalex.org/W2770118770",
+        "https://openalex.org/W2096305803",
+        "https://openalex.org/W203584942",
+        "https://openalex.org/W1992482580"
+      ],
+      "related_works": [
+        "https://openalex.org/W1966018702",
+        "https://openalex.org/W4244074133",
+        "https://openalex.org/W2078704581",
+        "https://openalex.org/W2390326989",
+        "https://openalex.org/W4402965069",
+        "https://openalex.org/W2372412760",
+        "https://openalex.org/W4387216249",
+        "https://openalex.org/W2359822476",
+        "https://openalex.org/W2059585431",
+        "https://openalex.org/W2811147918"
+      ],
+      "abstract_inverted_index": {
+        "45": [
+          200
+        ],
+        "Abstract": [
+          0
+        ],
+        "The": [
+          1,
+          136,
+          208
+        ],
+        "interplay": [
+          2
+        ],
+        "between": [
+          3,
+          214
+        ],
+        "depositional": [
+          4,
+          215
+        ],
+        "and": [
+          5,
+          69,
+          71,
+          77,
+          96,
+          100,
+          120,
+          133,
+          146,
+          167,
+          189,
+          194,
+          206,
+          219,
+          223,
+          238
+        ],
+        "diagenetic": [
+          6
+        ],
+        "processes": [
+          7
+        ],
+        "controls": [
+          8,
+          90
+        ],
+        "the": [
+          9,
+          18,
+          29,
+          41,
+          91,
+          109,
+          140,
+          154,
+          158,
+          175,
+          178,
+          182,
+          220,
+          240
+        ],
+        "distribution": [
+          10,
+          19
+        ],
+        "of": [
+          11,
+          20,
+          31,
+          54,
+          93,
+          144,
+          151,
+          162,
+          172,
+          226,
+          242
+        ],
+        "geomechanical": [
+          12,
+          21,
+          72,
+          94,
+          134,
+          224
+        ],
+        "properties": [
+          13,
+          22,
+          95,
+          225
+        ],
+        "in": [
+          14,
+          23,
+          102,
+          234,
+          239,
+          248
+        ],
+        "carbonate": [
+          15,
+          33,
+          103,
+          228,
+          250
+        ],
+        "rocks.": [
+          16
+        ],
+        "Understanding": [
+          17
+        ],
+        "rocks": [
+          24
+        ],
+        "is": [
+          25
+        ],
+        "crucial": [
+          26
+        ],
+        "for": [
+          27,
+          245
+        ],
+        "analyzing": [
+          28
+        ],
+        "behavior": [
+          30
+        ],
+        "unconventional": [
+          32,
+          57,
+          227
+        ],
+        "reservoirs": [
+          34
+        ],
+        "during": [
+          35
+        ],
+        "hydraulic": [
+          36,
+          246
+        ],
+        "fracturing.": [
+          37
+        ],
+        "In": [
+          38,
+          59
+        ],
+        "Saudi": [
+          39
+        ],
+        "Arabia,": [
+          40
+        ],
+        "exceptionally": [
+          42
+        ],
+        "exposed": [
+          43
+        ],
+        "Middle": [
+          44
+        ],
+        "Jurassic": [
+          45
+        ],
+        "Tuwaiq": [
+          46
+        ],
+        "Mountain": [
+          47
+        ],
+        "Formation": [
+          48
+        ],
+        "(TMF)": [
+          49
+        ],
+        "represents": [
+          50
+        ],
+        "an": [
+          51
+        ],
+        "important": [
+          52
+        ],
+        "analog": [
+          53
+        ],
+        "its": [
+          55
+        ],
+        "subsurface-equivalent": [
+          56
+        ],
+        "reservoir.": [
+          58
+        ],
+        "this": [
+          60
+        ],
+        "formation,": [
+          61
+        ],
+        "petrographical,": [
+          62
+        ],
+        "rock": [
+          63,
+          221
+        ],
+        "physical": [
+          64,
+          222
+        ],
+        "(Vp,": [
+          65
+        ],
+        "Vs,": [
+          66
+        ],
+        "Poisson’s": [
+          67
+        ],
+        "Ratio,": [
+          68
+        ],
+        "Φ),": [
+          70
+        ],
+        "(uniaxial": [
+          73
+        ],
+        "compressive": [
+          74
+        ],
+        "strength": [
+          75
+        ],
+        "(UCS)": [
+          76
+        ],
+        "Dynamic": [
+          78
+        ],
+        "Elastic": [
+          79
+        ],
+        "Modulus": [
+          80,
+          196
+        ],
+        "(Ed))": [
+          81
+        ],
+        "analyses": [
+          82
+        ],
+        "were": [
+          83
+        ],
+        "integrated": [
+          84,
+          124
+        ],
+        "to": [
+          85,
+          199
+        ],
+        "examine": [
+          86
+        ],
+        "how": [
+          87
+        ],
+        "sedimentary": [
+          88,
+          113,
+          217
+        ],
+        "microfacies": [
+          89,
+          114,
+          129
+        ],
+        "variation": [
+          92
+        ],
+        "thus,": [
+          97
+        ],
+        "reservoir": [
+          98,
+          235
+        ],
+        "quality": [
+          99,
+          236
+        ],
+        "heterogeneity": [
+          101
+        ],
+        "successions.": [
+          104
+        ],
+        "Petrographic": [
+          105
+        ],
+        "observations": [
+          106
+        ],
+        "reveal": [
+          107,
+          210
+        ],
+        "that": [
+          108,
+          127
+        ],
+        "TMF": [
+          110
+        ],
+        "comprises": [
+          111
+        ],
+        "three": [
+          112,
+          176
+        ],
+        "including": [
+          115
+        ],
+        "peloidal": [
+          116,
+          137
+        ],
+        "grainstone,": [
+          117
+        ],
+        "bioclastic-peloidal": [
+          118
+        ],
+        "packstone,": [
+          119
+        ],
+        "bioclastic": [
+          121,
+          155,
+          179
+        ],
+        "wackestone.": [
+          122
+        ],
+        "An": [
+          123
+        ],
+        "analysis": [
+          125
+        ],
+        "indicates": [
+          126
+        ],
+        "these": [
+          128
+        ],
+        "shows": [
+          130,
+          139,
+          181
+        ],
+        "distinct": [
+          131
+        ],
+        "petrophysical": [
+          132
+        ],
+        "properties.": [
+          135
+        ],
+        "grainstone": [
+          138
+        ],
+        "highest": [
+          141,
+          168,
+          183
+        ],
+        "average": [
+          142,
+          148,
+          160,
+          169,
+          184
+        ],
+        "porosity": [
+          143,
+          161
+        ],
+        "15.4%": [
+          145
+        ],
+        "lowest": [
+          147,
+          159
+        ],
+        "UCS": [
+          149,
+          170
+        ],
+        "value": [
+          150,
+          171,
+          186,
+          191
+        ],
+        "34Mpa,": [
+          152
+        ],
+        "while": [
+          153
+        ],
+        "wackestone": [
+          156,
+          180
+        ],
+        "exhibit": [
+          157
+        ],
+        "2.8%,": [
+          163
+        ],
+        "Poisson": [
+          164
+        ],
+        "Ratio": [
+          165
+        ],
+        "(0.26)": [
+          166
+        ],
+        "148Mpa.": [
+          173
+        ],
+        "Among": [
+          174
+        ],
+        "microfacies,": [
+          177,
+          218
+        ],
+        "Vp": [
+          185
+        ],
+        "(5635.5": [
+          187
+        ],
+        "m/s)": [
+          188
+        ],
+        "Vs": [
+          190
+        ],
+        "(2935.25": [
+          192
+        ],
+        "m/s),": [
+          193
+        ],
+        "Young": [
+          195
+        ],
+        "(Ed;": [
+          197
+        ],
+        "up": [
+          198
+        ],
+        "Gpa),": [
+          201
+        ],
+        "suggesting": [
+          202
+        ],
+        "a": [
+          203,
+          211
+        ],
+        "high": [
+          204
+        ],
+        "brittleness": [
+          205
+        ],
+        "fracability.": [
+          207
+        ],
+        "findings": [
+          209
+        ],
+        "strong": [
+          212
+        ],
+        "correlation": [
+          213
+        ],
+        "texture,": [
+          216
+        ],
+        "reservoirs.": [
+          229
+        ],
+        "These": [
+          230
+        ],
+        "insights": [
+          231
+        ],
+        "can": [
+          232
+        ],
+        "help": [
+          233
+        ],
+        "predictions": [
+          237
+        ],
+        "selection": [
+          241
+        ],
+        "sweet": [
+          243
+        ],
+        "spots": [
+          244
+        ],
+        "fracturing": [
+          247
+        ],
+        "complex": [
+          249
+        ],
+        "sequences.": [
+          251
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
           "cited_by_count": 2
         }
       ],
@@ -12110,9 +12110,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -12668,9 +12668,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -13504,9 +13504,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],

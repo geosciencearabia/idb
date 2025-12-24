@@ -1974,7 +1974,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-04-14",
     "year": 2023,
     "venue": "Frontiers in Earth Science",
-    "citations": 10,
+    "citations": 12,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -23236,6 +23236,40 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4408660286",
+    "doi": "https://doi.org/10.2110/jsr.2024.135",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5014657720",
+    "allAuthorOpenAlexIds": [
+      "A5014657720",
+      "A5072935704",
+      "A5027197211",
+      "A5006378908",
+      "A5104094821"
+    ],
+    "firstAuthorLastName": "Salisu",
+    "allAuthors": [
+      "Anas Muhammad Salisu",
+      "Abdulwahab Muhammad Bello",
+      "Abduljamiu O. Amao",
+      "Robert H. Lander",
+      "Khalid Al‐Ramadan"
+    ],
+    "title": "Experimental study of smectite authigenesis and its subsequent illitization: insights from modern estuary sediments",
+    "publicationDate": "2025-03-20",
+    "year": 2025,
+    "venue": "Journal of Sedimentary Research",
+    "citations": 3,
+    "topics": [
+      "Calcium Carbonate Crystallization and Inhibition",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4401976606",
     "doi": "https://doi.org/10.1021/acs.energyfuels.4c03019",
     "program": "",
@@ -23331,40 +23365,6 @@ export const worksTable: WorkTableRecord[] = [
       "State Key Laboratory of Marine Geology",
       "Tongji University",
       "Federal University Dutse"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4408660286",
-    "doi": "https://doi.org/10.2110/jsr.2024.135",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5014657720",
-    "allAuthorOpenAlexIds": [
-      "A5014657720",
-      "A5072935704",
-      "A5027197211",
-      "A5006378908",
-      "A5104094821"
-    ],
-    "firstAuthorLastName": "Salisu",
-    "allAuthors": [
-      "Anas Muhammad Salisu",
-      "Abdulwahab Muhammad Bello",
-      "Abduljamiu O. Amao",
-      "Robert H. Lander",
-      "Khalid Al‐Ramadan"
-    ],
-    "title": "Experimental study of smectite authigenesis and its subsequent illitization: insights from modern estuary sediments",
-    "publicationDate": "2025-03-20",
-    "year": 2025,
-    "venue": "Journal of Sedimentary Research",
-    "citations": 2,
-    "topics": [
-      "Calcium Carbonate Crystallization and Inhibition",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Paleontology and Stratigraphy of Fossils"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -24791,42 +24791,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4404354345",
-    "doi": "https://doi.org/10.1016/j.sedgeo.2024.106772",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5018306569",
-    "allAuthorOpenAlexIds": [
-      "A5018306569",
-      "A5100580215",
-      "A5069836166",
-      "A5103601179",
-      "A5084747603",
-      "A5066892867",
-      "A5097173309"
-    ],
-    "firstAuthorLastName": "Jia",
-    "allAuthors": [
-      "Xiaolan Jia",
-      "Mohammad Alsuwaidi",
-      "Daniel Morad",
-      "Juan Diego Martín Martín",
-      "Xia Wang",
-      "Kate Al Tameemi",
-      "Bashayer Al Muhairi"
-    ],
-    "title": "Linking dolomitization to sequence stratigraphy: Insights from the Upper Jurassic Arab Formation, offshore oilfield, UAE",
-    "publicationDate": "2024-11-14",
-    "year": 2024,
-    "venue": "Sedimentary Geology",
-    "citations": 2,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geological formations and processes",
-      "Hydrocarbon exploration and reservoir analysis"
-    ],
-    "institutions": []
-  },
-  {
     "workId": "https://openalex.org/W3182053178",
     "doi": "https://doi.org/10.3390/w13141908",
     "program": "",
@@ -24861,6 +24825,42 @@ export const worksTable: WorkTableRecord[] = [
       "Salahaddin University-Erbil",
       "Khalifa University of Science and Technology"
     ]
+  },
+  {
+    "workId": "https://openalex.org/W4404354345",
+    "doi": "https://doi.org/10.1016/j.sedgeo.2024.106772",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5018306569",
+    "allAuthorOpenAlexIds": [
+      "A5018306569",
+      "A5100580215",
+      "A5069836166",
+      "A5103601179",
+      "A5084747603",
+      "A5066892867",
+      "A5097173309"
+    ],
+    "firstAuthorLastName": "Jia",
+    "allAuthors": [
+      "Xiaolan Jia",
+      "Mohammad Alsuwaidi",
+      "Daniel Morad",
+      "Juan Diego Martín Martín",
+      "Xia Wang",
+      "Kate Al Tameemi",
+      "Bashayer Al Muhairi"
+    ],
+    "title": "Linking dolomitization to sequence stratigraphy: Insights from the Upper Jurassic Arab Formation, offshore oilfield, UAE",
+    "publicationDate": "2024-11-14",
+    "year": 2024,
+    "venue": "Sedimentary Geology",
+    "citations": 2,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
   },
   {
     "workId": "https://openalex.org/W4407864579",
@@ -44431,7 +44431,7 @@ export const worksTable: WorkTableRecord[] = [
       "Badr Bageri",
       "Mohammed Benaafi",
       "Jaber Al Jaberi",
-      "Mashaer Alfaraj",
+      "Mashaer A. Alfaraj",
       "Bandar Al-Otaibi"
     ],
     "title": "Impact of Quartz/Argillaceous Sandstone and Siliceous/Kaolinitic Claystone Contamination of Drilling Fluid and Filter Cake Properties",
@@ -69987,7 +69987,7 @@ export const worksTable: WorkTableRecord[] = [
       "Douglas H. Erwin",
       "Lucia Angiolini",
       "Feifei Zhang",
-      "Zhang-shuai Hou",
+      "Zhangshuai Hou",
       "Jun Chen",
       "Xi-Yang Zhang",
       "Shuhan Zhang",
@@ -75617,50 +75617,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4402624045",
-    "doi": "https://doi.org/10.1016/j.heliyon.2024.e38178",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5044806143",
-    "allAuthorOpenAlexIds": [
-      "A5044806143",
-      "A5101385438",
-      "A5032627421",
-      "A5009594846",
-      "A5065364709",
-      "A5099469366",
-      "A5031133582",
-      "A5102730156",
-      "A5028267023"
-    ],
-    "firstAuthorLastName": "Ali",
-    "allAuthors": [
-      "Sohag Ali",
-      "Numair Ahmed Siddiqui",
-      "AKM Eahsanul Haque",
-      "Nisar Ahmed",
-      "Mohamed A. K. El‐Ghali",
-      "Md. Yeasin Arafath",
-      "M. Julleh Jalalur Rahman",
-      "Mrinal Kanti Roy",
-      "Alidu Rashid"
-    ],
-    "title": "Heterolytic tide-dominated sedimentary facies and depositional environment: An Example from the Boka Bil formation, Sitapahar anticline, Bangladesh",
-    "publicationDate": "2024-09-01",
-    "year": 2024,
-    "venue": "Heliyon",
-    "citations": 3,
-    "topics": [
-      "Geological formations and processes",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological and Geophysical Studies"
-    ],
-    "institutions": [
-      "Universiti Teknologi Petronas",
-      "Sultan Qaboos University",
-      "University of Rajshahi"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4404523045",
     "doi": "https://doi.org/10.1007/s12517-024-12094-0",
     "program": "",
@@ -75897,6 +75853,50 @@ export const worksTable: WorkTableRecord[] = [
       "Sultan Qaboos University",
       "Universidade Federal de Ouro Preto",
       "University of Regina"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4402624045",
+    "doi": "https://doi.org/10.1016/j.heliyon.2024.e38178",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5044806143",
+    "allAuthorOpenAlexIds": [
+      "A5044806143",
+      "A5101385438",
+      "A5032627421",
+      "A5009594846",
+      "A5065364709",
+      "A5099469366",
+      "A5031133582",
+      "A5102730156",
+      "A5028267023"
+    ],
+    "firstAuthorLastName": "Ali",
+    "allAuthors": [
+      "Sohag Ali",
+      "Numair Ahmed Siddiqui",
+      "AKM Eahsanul Haque",
+      "Nisar Ahmed",
+      "Mohamed A. K. El‐Ghali",
+      "Md. Yeasin Arafath",
+      "M. Julleh Jalalur Rahman",
+      "Mrinal Kanti Roy",
+      "Alidu Rashid"
+    ],
+    "title": "Heterolytic tide-dominated sedimentary facies and depositional environment: An Example from the Boka Bil formation, Sitapahar anticline, Bangladesh",
+    "publicationDate": "2024-09-01",
+    "year": 2024,
+    "venue": "Heliyon",
+    "citations": 3,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Universiti Teknologi Petronas",
+      "Sultan Qaboos University",
+      "University of Rajshahi"
     ]
   },
   {
@@ -96074,6 +96074,991 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2939888277",
+    "doi": "https://doi.org/10.2113/geoarabia0603407",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5051035705",
+      "A5074794653",
+      "A5058646530"
+    ],
+    "firstAuthorLastName": "Konert",
+    "allAuthors": [
+      "G. Konert",
+      "Abdulkader M. Afifi",
+      "S. Al-Hajri",
+      "Henk Droste"
+    ],
+    "title": "Paleozoic Stratigraphy and Hydrocarbon Habitat of the Arabian Plate",
+    "publicationDate": "2001-07-01",
+    "year": 2001,
+    "venue": "GeoArabia",
+    "citations": 518,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological formations and processes",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Shell (Netherlands)",
+      "Saudi Aramco (United States)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1970514128",
+    "doi": "https://doi.org/10.1130/0091-7613(1996)024<0055:neflpf>2.3.co;2",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5073496917",
+      "A5011369024"
+    ],
+    "firstAuthorLastName": "Strother",
+    "allAuthors": [
+      "Paul K. Strother",
+      "S. Al-Hajri",
+      "Alfred Traverse"
+    ],
+    "title": "New evidence for land plants from the lower Middle Ordovician of Saudi Arabia",
+    "publicationDate": "1996-01-01",
+    "year": 1996,
+    "venue": "Geology",
+    "citations": 180,
+    "topics": [
+      "Plant Diversity and Evolution",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Boston College",
+      "Saudi Aramco (Saudi Arabia)",
+      "Pennsylvania State University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2056293580",
+    "doi": "https://doi.org/10.1016/0034-6667(95)00040-5",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454"
+    ],
+    "firstAuthorLastName": "Al-Hajri",
+    "allAuthors": [
+      "S. Al-Hajri"
+    ],
+    "title": "Biostratigraphy of the Ordovician chitinozoa of northwestern Saudi Arabia",
+    "publicationDate": "1995-11-01",
+    "year": 1995,
+    "venue": "Review of Palaeobotany and Palynology",
+    "citations": 54,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2045808131",
+    "doi": "https://doi.org/10.1016/0034-6667(95)00042-v",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5111534349",
+      "A5029025019",
+      "A5059804579"
+    ],
+    "firstAuthorLastName": "Paris",
+    "allAuthors": [
+      "Florentin Paris",
+      "Jacques Verniers",
+      "S. Al-Hajri",
+      "Haytham Al-Tayyar"
+    ],
+    "title": "Biostratigraphy and palaeogeographic affinities of Early Silurian chitinozoans from central Saudi Arabia",
+    "publicationDate": "1995-11-01",
+    "year": 1995,
+    "venue": "Review of Palaeobotany and Palynology",
+    "citations": 55,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Université de Rennes",
+      "Ghent University",
+      "Saudi Aramco (Saudi Arabia)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3128695080",
+    "doi": "https://doi.org/10.2113/geoarabia040153",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5027634361",
+      "A5080438592",
+      "A5013096023"
+    ],
+    "firstAuthorLastName": "Al-Hajri",
+    "allAuthors": [
+      "S. Al-Hajri",
+      "John Filatoff",
+      "Lawrence E. Wender",
+      "A. Kent Norton"
+    ],
+    "title": "Stratigraphy and Operational Palynology of the Devonian System in Saudi Arabia",
+    "publicationDate": "1999-01-01",
+    "year": 1999,
+    "venue": "GeoArabia",
+    "citations": 38,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "Saudi Aramco (United States)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2003091363",
+    "doi": "https://doi.org/10.1016/j.revpalbo.2014.10.005",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5111534349",
+      "A5029025019",
+      "A5021079925",
+      "A5103799444",
+      "A5058654714"
+    ],
+    "firstAuthorLastName": "Paris",
+    "allAuthors": [
+      "Florentin Paris",
+      "Jacques Verniers",
+      "Merrell A. Miller",
+      "S. Al-Hajri",
+      "John Melvin",
+      "Charles H. Wellman"
+    ],
+    "title": "Late Ordovician–earliest Silurian chitinozoans from the Qusaiba-1 core hole (North Central Saudi Arabia) and their relation to the Hirnantian glaciation",
+    "publicationDate": "2014-11-05",
+    "year": 2014,
+    "venue": "Review of Palaeobotany and Palynology",
+    "citations": 36,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Marine and coastal plant biology"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Géosciences Rennes",
+      "Université de Rennes",
+      "Ghent University",
+      "Saudi Aramco (Saudi Arabia)",
+      "University of Sheffield"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2620415727",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5111534349",
+      "A5029025019"
+    ],
+    "firstAuthorLastName": "Paris",
+    "allAuthors": [
+      "Florentin Paris",
+      "Jacques Verniers",
+      "S. Al-Hajri"
+    ],
+    "title": "Ordovician Chitinozoans from Central Saudi Arabia",
+    "publicationDate": "2000-01-01",
+    "year": 2000,
+    "venue": "Ghent University Academic Bibliography (Ghent University)",
+    "citations": 28,
+    "topics": [
+      "Marine Biology and Ecology Research",
+      "Protist diversity and phylogeny",
+      "Marine Ecology and Invasive Species"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2043876474",
+    "doi": "https://doi.org/10.1016/j.revpalbo.2014.08.010",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5111534349",
+      "A5021079925",
+      "A5033788286"
+    ],
+    "firstAuthorLastName": "Paris",
+    "allAuthors": [
+      "Florentin Paris",
+      "Merrell A. Miller",
+      "S. Al-Hajri",
+      "Jan Zalasiewicz"
+    ],
+    "title": "Early Silurian chitinozoans from the Qusaiba type area, North Central Saudi Arabia",
+    "publicationDate": "2014-09-16",
+    "year": 2014,
+    "venue": "Review of Palaeobotany and Palynology",
+    "citations": 18,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Géosciences Rennes",
+      "Université de Rennes",
+      "Saudi Aramco (Saudi Arabia)",
+      "University of Leicester"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1973948464",
+    "doi": "https://doi.org/10.1016/j.revpalbo.2014.08.013",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5038394462",
+      "A5111534349"
+    ],
+    "firstAuthorLastName": "Hints",
+    "allAuthors": [
+      "Olle Hints",
+      "Florentin Paris",
+      "S. Al-Hajri"
+    ],
+    "title": "Late Ordovician scolecodonts from the Qusaiba-1 core hole, central Saudi Arabia, and their paleogeographical affinities",
+    "publicationDate": "2014-09-16",
+    "year": 2014,
+    "venue": "Review of Palaeobotany and Palynology",
+    "citations": 17,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Marine Biology and Ecology Research"
+    ],
+    "institutions": [
+      "Czech Academy of Sciences, Institute of Geology",
+      "Géosciences Rennes",
+      "Saudi Aramco (United States)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2068101248",
+    "doi": "https://doi.org/10.1016/0034-6667(95)00038-y",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5018932064",
+      "A5051539313"
+    ],
+    "firstAuthorLastName": "Stump",
+    "allAuthors": [
+      "T.E. Stump",
+      "S. Al-Hajri",
+      "J.G.L.A. Van der Eem"
+    ],
+    "title": "Geology and biostratigraphy of the Late Precambrian through Palaeozoic sediments of Saudi Arabia",
+    "publicationDate": "1995-11-01",
+    "year": 1995,
+    "venue": "Review of Palaeobotany and Palynology",
+    "citations": 33,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2062313136",
+    "doi": "https://doi.org/10.1016/s0016-6995(98)80091-0",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5071557393"
+    ],
+    "firstAuthorLastName": "Al-Hajri",
+    "allAuthors": [
+      "S. Al-Hajri",
+      "F. Parı́s"
+    ],
+    "title": "Age and palaeoenvironmentof the Sharawra Member (Silurian of North-Western Saudi Arabia)",
+    "publicationDate": "1998-01-01",
+    "year": 1998,
+    "venue": "Geobios",
+    "citations": 25,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)",
+      "Centre National de la Recherche Scientifique",
+      "Géosciences Rennes",
+      "Université de Rennes"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2303823290",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5110460569"
+    ],
+    "firstAuthorLastName": "Al-Hajri",
+    "allAuthors": [
+      "S. Al-Hajri",
+      "Bernard Owens"
+    ],
+    "title": "Sub-surface Palynostratigraphy of the Palaeozoic of Saudi Arabia",
+    "publicationDate": "2000-01-01",
+    "year": 2000,
+    "venue": "GeoArabia, Journal of the Middle East Petroleum Geosciences",
+    "citations": 19,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geochemistry and Geologic Mapping",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Saudi Aramco (United States)",
+      "University of Sheffield"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3103362397",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5066688203",
+      "A5110460569",
+      "A5027634361"
+    ],
+    "firstAuthorLastName": "Clayton",
+    "allAuthors": [
+      "Geoff Clayton",
+      "Bernard Owens",
+      "S. Al-Hajri",
+      "John Filatoff"
+    ],
+    "title": "Latest Devonian and Early Carboniferous Miospore Assemblages from Saudi Arabia",
+    "publicationDate": "2000-01-01",
+    "year": 2000,
+    "venue": "",
+    "citations": 17,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Paleontology and Evolutionary Biology",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "University of Liège"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2233849553",
+    "doi": "https://doi.org/10.1016/j.revmic.2017.02.002",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5084822278",
+      "A5090141705",
+      "A5111534349",
+      "A5044489988",
+      "A5029025019",
+      "A5058654714"
+    ],
+    "firstAuthorLastName": "Breuer",
+    "allAuthors": [
+      "Pierre Breuer",
+      "S. Al-Hajri",
+      "Alain Le Hérissé",
+      "Florentin Paris",
+      "Philippe Steemans",
+      "Jacques Verniers",
+      "Charles H. Wellman"
+    ],
+    "title": "A distinctive marginal marine palynological assemblage from the Přídolí of northwestern Saudi Arabia",
+    "publicationDate": "2017-03-31",
+    "year": 2017,
+    "venue": "Revue de Micropaléontologie",
+    "citations": 7,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)",
+      "Centre National de la Recherche Scientifique",
+      "Institut Universitaire Européen de la Mer",
+      "Université de Bretagne Occidentale",
+      "University of Liège",
+      "Ghent University",
+      "University of Sheffield"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2262636503",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5111534349",
+      "A5021079925",
+      "A5033788286",
+      "A5011307993"
+    ],
+    "firstAuthorLastName": "Paris",
+    "allAuthors": [
+      "Florentin Paris",
+      "Merrell A. Miller",
+      "S. Al-Hajri",
+      "Jan Zalasiewicz",
+      "Mark Williams"
+    ],
+    "title": "Aeronian and Telychian chitinozoans from Central Saudi Arabia.",
+    "publicationDate": "2008-09-01",
+    "year": 2008,
+    "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "citations": 4,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Protist diversity and phylogeny",
+      "Marine Biology and Ecology Research"
+    ],
+    "institutions": [
+      "Géosciences Rennes"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1994226798",
+    "doi": "https://doi.org/10.1016/j.revpalbo.2014.08.015",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5058654714",
+      "A5084822278",
+      "A5021079925",
+      "A5110460569"
+    ],
+    "firstAuthorLastName": "Wellman",
+    "allAuthors": [
+      "Charles H. Wellman",
+      "Pierre Breuer",
+      "Merrell A. Miller",
+      "Bernard Owens",
+      "S. Al-Hajri"
+    ],
+    "title": "Palaeozoic palynostratigraphy of the Arabian plate [a joint project between Saudi Aramco and the Commission Internationale de Microflore du Paléozoïque (CIMP)]",
+    "publicationDate": "2014-09-16",
+    "year": 2014,
+    "venue": "Review of Palaeobotany and Palynology",
+    "citations": 8,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "University of Sheffield",
+      "Saudi Aramco (Saudi Arabia)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3150378705",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5000541549"
+    ],
+    "firstAuthorLastName": "Molyneux",
+    "allAuthors": [
+      "Stewart G. Molyneux",
+      "S. Al-Hajri"
+    ],
+    "title": "Palynology of a Problematic Lower Palaeozoic Lithofacies in Central Saudi Arabia",
+    "publicationDate": "2000-01-01",
+    "year": 2000,
+    "venue": "",
+    "citations": 14,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geochemistry and Geologic Mapping",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3146536654",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5110460569",
+      "A5027634361",
+      "A5066688203"
+    ],
+    "firstAuthorLastName": "Owens",
+    "allAuthors": [
+      "Bernard Owens",
+      "John Filatoff",
+      "Geoff Clayton",
+      "S. Al-Hajri"
+    ],
+    "title": "Evidence of Mid-Carboniferous Miospore Assemblages from Central Saudi Arabia",
+    "publicationDate": "2000-01-01",
+    "year": 2000,
+    "venue": "",
+    "citations": 6,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Paleontology and Stratigraphy of Fossils",
+      "Paleontology and Evolutionary Biology"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2242798685",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5111534349",
+      "A5029025019",
+      "A5021079925",
+      "A5029371162"
+    ],
+    "firstAuthorLastName": "Paris",
+    "allAuthors": [
+      "Florentin Paris",
+      "Jacques Verniers",
+      "Merrell A. Miller",
+      "S. Al-Hajri",
+      "James Melvin"
+    ],
+    "title": "Biostratigraphy of Late Ordovician chitinozoans from the QUSAIBA shallow core (NW Saudi Arabia). In : IPC, Bonn, September 2008",
+    "publicationDate": "2009-09-01",
+    "year": 2009,
+    "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "citations": 1,
+    "topics": [
+      "Marine and coastal plant biology",
+      "Paleontology and Stratigraphy of Fossils",
+      "Marine Biology and Ecology Research"
+    ],
+    "institutions": [
+      "Géosciences Rennes"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2618687283",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5029025019",
+      "A5111534349",
+      "A5033590467",
+      "A5044489988",
+      "A5090141705"
+    ],
+    "firstAuthorLastName": "Al-Hajri",
+    "allAuthors": [
+      "S. Al-Hajri",
+      "Jacques Verniers",
+      "Florentin Paris",
+      "Mansour Al-Ruwaili",
+      "Philippe Steemans",
+      "Alain Le Hérissé"
+    ],
+    "title": "A Distinctive Marginal Marine Palynological Assemblage from the Pridoli of Northwestern Saudi Arabia. In : , Bonn, September 2008",
+    "publicationDate": "2008-09-22",
+    "year": 2008,
+    "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "citations": 1,
+    "topics": [
+      "Marine Biology and Ecology Research",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4236643724",
+    "doi": "https://doi.org/10.2523/81541-ms",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5046600983",
+      "A5080984860",
+      "A5062058785",
+      "A5078930446",
+      "A5056980245",
+      "A5007968621"
+    ],
+    "firstAuthorLastName": "Samanta",
+    "allAuthors": [
+      "B. Samanta",
+      "K.R. Al-Balushi",
+      "R.A. Siddiqui",
+      "S.A. Al-Araimi",
+      "Abdullah Al-Habsy",
+      "Samuel Armacanqui",
+      "S. Al-Hajri"
+    ],
+    "title": "Failure Analysis of Seal Lock Plates in Electric Submersible Pumps",
+    "publicationDate": "2003-06-01",
+    "year": 2003,
+    "venue": "Proceedings of Middle East Oil Show",
+    "citations": 1,
+    "topics": [
+      "Oil and Gas Production Techniques",
+      "Hydraulic and Pneumatic Systems",
+      "Engineering Diagnostics and Reliability"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4254292577",
+    "doi": "https://doi.org/10.2523/12601-ms",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5031626291",
+      "A5007968621",
+      "A5052499271",
+      "A5058999221",
+      "A5078744350"
+    ],
+    "firstAuthorLastName": "Al-Bimani",
+    "allAuthors": [
+      "Atika Al-Bimani",
+      "Samuel Armacanqui",
+      "Buthaina Al-Barwani",
+      "S. Al-Hajri",
+      "Iqbal Sipra",
+      "Halima Al-Riyami"
+    ],
+    "title": "Electrical Submersible Pumping System: Striving for Sustainable Run-Life Improvement in Oman Oil Fields",
+    "publicationDate": "2008-01-01",
+    "year": 2008,
+    "venue": "International Petroleum Technology Conference",
+    "citations": 2,
+    "topics": [
+      "Oil and Gas Production Techniques",
+      "Reservoir Engineering and Simulation Methods"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W132386466",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5027634361",
+      "A5044489988",
+      "A5110460569",
+      "A5112867487"
+    ],
+    "firstAuthorLastName": "Al-Hajri",
+    "allAuthors": [
+      "S. Al-Hajri",
+      "John Filatoff",
+      "Philippe Steemans",
+      "Bernard Owens",
+      "Stanislas Loboziak"
+    ],
+    "title": "Palynostratigraphy of the Jauf Formation in the Ghawar area, Eastern Saudi Arabia",
+    "publicationDate": "1998-01-01",
+    "year": 1998,
+    "venue": "Open Repository and Bibliography (University of Liège)",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geochemistry and Geologic Mapping",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "University of Liège"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2016574074",
+    "doi": "https://doi.org/10.2118/113667-ms",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5033669424",
+      "A5082315602",
+      "A5113651860",
+      "A5007470779",
+      "A5026720876"
+    ],
+    "firstAuthorLastName": "Ghosh",
+    "allAuthors": [
+      "Bisweswar Ghosh",
+      "Ali Al-Bemani",
+      "K. Najim",
+      "S. Al-Hajri",
+      "James H. Clark",
+      "F. Boukadi"
+    ],
+    "title": "Managing Radioactive Scale: Strategic Approach and Success Story",
+    "publicationDate": "2008-05-28",
+    "year": 2008,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Oil and Gas Production Techniques",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Drilling and Well Engineering"
+    ],
+    "institutions": [
+      "American Petroleum Institute",
+      "Sultan Qaboos University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2254075074",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5044489988",
+      "A5110460569",
+      "A5027634361",
+      "A5112867487"
+    ],
+    "firstAuthorLastName": "Al-Hajri",
+    "allAuthors": [
+      "S. Al-Hajri",
+      "Philippe Steemans",
+      "Bernard Owens",
+      "John Filatoff",
+      "Stanislas Loboziak"
+    ],
+    "title": "Palynostratigraphy of the Jauf Formation in the Ghawar Area",
+    "publicationDate": "1998-01-01",
+    "year": 1998,
+    "venue": "Open Repository and Bibliography (University of Liège)",
+    "citations": 0,
+    "topics": [
+      "Marine and environmental studies",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "University of Liège"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2263524228",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5033590467",
+      "A5066688203",
+      "A5027634361",
+      "A5112354030",
+      "A5090141705",
+      "A5112867487",
+      "A5028196052",
+      "A5000541549",
+      "A5071557393",
+      "A5044489988",
+      "A5058526940",
+      "A5055551008",
+      "A5029025019",
+      "A5058654714"
+    ],
+    "firstAuthorLastName": "Al-Hajri",
+    "allAuthors": [
+      "S. Al-Hajri",
+      "Mansour Al-Ruwaili",
+      "Geoff Clayton",
+      "John Filatoff",
+      "Ken Higgs",
+      "Alain Le Hérissé",
+      "Stanislas Loboziak",
+      "John Marshall",
+      "Stewart G. Molyneux",
+      "F. Parı́s",
+      "Philippe Steemans",
+      "Mike Stephenson",
+      "Michel Vanguestaine",
+      "Jacques Verniers",
+      "Charles H. Wellman"
+    ],
+    "title": "Palaeozoic palynology of the Kingdom Saudi-Arabia",
+    "publicationDate": "2000-01-01",
+    "year": 2000,
+    "venue": "Open Repository and Bibliography (University of Liège)",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "University of Liège"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2548034072",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5044489988",
+      "A5084822278",
+      "A5090141705",
+      "A5071557393",
+      "A5029025019",
+      "A5058654714"
+    ],
+    "firstAuthorLastName": "Steemans",
+    "allAuthors": [
+      "Philippe Steemans",
+      "Pierre Breuer",
+      "S. Al-Hajri",
+      "Alain Le Hérissé",
+      "F. Parı́s",
+      "Jacques Verniers",
+      "Charles H. Wellman"
+    ],
+    "title": "Palynology and palaeogeography of the middle Přídolí from Saudi Arabia",
+    "publicationDate": "2016-10-27",
+    "year": 2016,
+    "venue": "Open Repository and Bibliography (University of Liège)",
+    "citations": 0,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Geological and Geophysical Studies",
+      "Marine and environmental studies"
+    ],
+    "institutions": [
+      "University of Liège"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2561168856",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5044489988",
+      "A5084822278",
+      "A5090141705",
+      "A5071557393",
+      "A5029025019",
+      "A5058654714"
+    ],
+    "firstAuthorLastName": "Steemans",
+    "allAuthors": [
+      "Philippe Steemans",
+      "Pierre Breuer",
+      "S. Al-Hajri",
+      "Alain Le Hérissé",
+      "F. Parı́s",
+      "Jacques Verniers",
+      "Charles H. Wellman"
+    ],
+    "title": "Biostratigraphy of the JLMD-EW8 borehole and palaeogeographic interpretation",
+    "publicationDate": "2016-12-21",
+    "year": 2016,
+    "venue": "Open Repository and Bibliography (University of Liège)",
+    "citations": 0,
+    "topics": [
+      "Geological Formations and Processes Exploration"
+    ],
+    "institutions": [
+      "University of Liège"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4251746678",
+    "doi": "https://doi.org/10.2523/108765-ms",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054134454",
+    "allAuthorOpenAlexIds": [
+      "A5054134454",
+      "A5081821644",
+      "A5020058817",
+      "A5007470779"
+    ],
+    "firstAuthorLastName": "Al-Maamari",
+    "allAuthors": [
+      "Khalid Al-Maamari",
+      "S. Al-Hajri",
+      "Johan van Dorp",
+      "James H. Clark"
+    ],
+    "title": "Application of Massive Hydraulic Fracturing in C Field Middle GharifFormation—Case Study",
+    "publicationDate": "2007-10-01",
+    "year": 2007,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geotechnical and Geomechanical Engineering"
+    ],
+    "institutions": []
+  },
+  {
     "workId": "https://openalex.org/W2101795741",
     "doi": "https://doi.org/10.1016/j.egypro.2009.02.034",
     "program": "",
@@ -101779,6 +102764,1400 @@ export const worksTable: WorkTableRecord[] = [
       "King Fahd University of Petroleum and Minerals",
       "The University of Tokyo"
     ]
+  },
+  {
+    "workId": "https://openalex.org/W2774779682",
+    "doi": "https://doi.org/10.2113/geoarabia0703461",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5108291309",
+      "A5013121807",
+      "A5051979229",
+      "A5021795934",
+      "A5112337272",
+      "A5026017481",
+      "A5016690296",
+      "A5074392881"
+    ],
+    "firstAuthorLastName": "Buchem",
+    "allAuthors": [
+      "Frans S.P. van Buchem",
+      "Bernard Pittet",
+      "Heiko Hillgärtner",
+      "Jürgen Grötsch",
+      "A. Mansouri",
+      "Ian Billing",
+      "Henk Droste",
+      "W. Heiko Oterdoom",
+      "Mia Van Steenwinkel"
+    ],
+    "title": "High-resolution Sequence Stratigraphic Architecture of Barremian/Aptian Carbonate Systems in Northern Oman and the United Arab Emirates (Kharaib and Shu’aiba Formations)",
+    "publicationDate": "2002-07-01",
+    "year": 2002,
+    "venue": "GeoArabia",
+    "citations": 206,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "IFP Énergies nouvelles",
+      "Institut Français",
+      "Abu Dhabi National Oil (United Arab Emirates)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2167454550",
+    "doi": "https://doi.org/10.1144/1354-079310-061",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5108211646",
+      "A5069580302",
+      "A5042844492"
+    ],
+    "firstAuthorLastName": "Buchem",
+    "allAuthors": [
+      "F. S. P. van Buchem",
+      "Michael D. Simmons",
+      "Henk Droste",
+      "Roger B. Davies"
+    ],
+    "title": "Late Aptian to Turonian stratigraphy of the eastern Arabian Plate – depositional sequences and lithostratigraphic nomenclature",
+    "publicationDate": "2011-08-01",
+    "year": 2011,
+    "venue": "Petroleum Geoscience",
+    "citations": 143,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "Maersk (Denmark)",
+      "Shell (Netherlands)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2136306839",
+    "doi": "https://doi.org/10.1046/j.1365-3091.2002.00460.x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5013121807",
+      "A5108291309",
+      "A5051979229",
+      "A5108118684",
+      "A5021795934"
+    ],
+    "firstAuthorLastName": "Pittet",
+    "allAuthors": [
+      "Bernard Pittet",
+      "Frans S.P. van Buchem",
+      "Heiko Hillgärtner",
+      "Philippe Razin",
+      "Jürgen Grötsch",
+      "Henk Droste"
+    ],
+    "title": "Ecological succession, palaeoenvironmental change, and depositional sequences of Barremian–Aptian shallow‐water carbonates in northern Oman",
+    "publicationDate": "2002-06-01",
+    "year": 2002,
+    "venue": "Sedimentology",
+    "citations": 140,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "IFP Énergies nouvelles",
+      "Institut Français",
+      "Vrije Universiteit Amsterdam",
+      "Université de Bordeaux",
+      "Abu Dhabi National Oil (United Arab Emirates)",
+      "Shell (Netherlands)",
+      "Sultan Qaboos University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1620496676",
+    "doi": "https://doi.org/10.1111/j.1365-3091.2009.01124.x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5010939944",
+      "A5037041743",
+      "A5082190198",
+      "A5051979229"
+    ],
+    "firstAuthorLastName": "Rameil",
+    "allAuthors": [
+      "Niels Rameil",
+      "Adrian Immenhauser",
+      "Georg Warrlich",
+      "Heiko Hillgärtner",
+      "Henk Droste"
+    ],
+    "title": "Morphological patterns of Aptian Lithocodium-Bacinella geobodies: relation to environment and scale",
+    "publicationDate": "2010-01-29",
+    "year": 2010,
+    "venue": "Sedimentology",
+    "citations": 133,
+    "topics": [
+      "Cephalopods and Marine Biology",
+      "Neurobiology and Insect Physiology Research",
+      "Marine Sponges and Natural Products"
+    ],
+    "institutions": [
+      "Ruhr University Bochum",
+      "Muscat College"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1555646088",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5108291309",
+      "A5081811780",
+      "A5020068143",
+      "A5085509873"
+    ],
+    "firstAuthorLastName": "Buchem",
+    "allAuthors": [
+      "Frans S.P. van Buchem",
+      "Moujahed Al-Husseini",
+      "Florian Maurer",
+      "Henk Droste",
+      "Lyndon A. Yose"
+    ],
+    "title": "Sequence-stratigraphic synthesis of the Barremian – Aptian of the eastern Arabian Plate and implications for the petroleum habitat",
+    "publicationDate": "2010-01-01",
+    "year": 2010,
+    "venue": "GeoArabia, Journal of the Middle East Petroleum Geosciences",
+    "citations": 141,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geophysical Studies",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2013446430",
+    "doi": "https://doi.org/10.1306/030503730756",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5051979229",
+      "A5108291309",
+      "A5058956888",
+      "A5108118684",
+      "A5105754103",
+      "A5021795934"
+    ],
+    "firstAuthorLastName": "Hillgärtner",
+    "allAuthors": [
+      "Heiko Hillgärtner",
+      "Frans S.P. van Buchem",
+      "Fabrice Gaumet",
+      "Philippe Razin",
+      "B. Pittet",
+      "Jürgen Grötsch",
+      "Henk Droste"
+    ],
+    "title": "The Barremian-Aptian Evolution of The Eastern Arabian Carbonate Platform Margin (Northern Oman)",
+    "publicationDate": "2003-09-01",
+    "year": 2003,
+    "venue": "Journal of Sedimentary Research",
+    "citations": 112,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "Shell (Netherlands)",
+      "Institut Français",
+      "Université de Bordeaux",
+      "Université Claude Bernard Lyon 1",
+      "Abu Dhabi National Oil (United Arab Emirates)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2938243655",
+    "doi": "https://doi.org/10.2113/geoarabia0204419",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530"
+    ],
+    "firstAuthorLastName": "Droste",
+    "allAuthors": [
+      "Henk Droste"
+    ],
+    "title": "Stratigraphy of the Lower Paleozoic Haima Supergroup of Oman",
+    "publicationDate": "1997-10-01",
+    "year": 1997,
+    "venue": "GeoArabia",
+    "citations": 110,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2048410163",
+    "doi": "https://doi.org/10.1016/0037-0738(90)90054-w",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530"
+    ],
+    "firstAuthorLastName": "Droste",
+    "allAuthors": [
+      "Henk Droste"
+    ],
+    "title": "Depositional cycles and source rock development in an epeiric intra-platform basin: the Hanifa Formation of the Arabian peninsula",
+    "publicationDate": "1990-12-01",
+    "year": 1990,
+    "venue": "Sedimentary Geology",
+    "citations": 104,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geology and Paleoclimatology Research",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Shell (Netherlands)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2773138833",
+    "doi": "https://doi.org/10.2113/geoarabia0901153",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5037041743",
+      "A5051979229",
+      "A5038984683",
+      "A5021407832",
+      "A5080259244",
+      "A5035885381",
+      "A5058223208",
+      "A5012668465",
+      "A5007170675",
+      "A5038821243",
+      "A5022385654",
+      "A5097757665",
+      "A5108522201",
+      "A5012835274",
+      "A5097838367",
+      "A5080688655",
+      "A5097730877",
+      "A5097730878"
+    ],
+    "firstAuthorLastName": "Immenhauser",
+    "allAuthors": [
+      "Adrian Immenhauser",
+      "Heiko Hillgärtner",
+      "U. Sattler",
+      "Giovanni Bertotti",
+      "Pascal Schoepfer",
+      "Peter Homewood",
+      "Volker Vahrenkamp",
+      "Thomas Steuber",
+      "Jean‐Pierre Masse",
+      "Henk Droste",
+      "J. Taal-Van Koppen",
+      "Bram van der Kooij",
+      "Elisabeth van Bentum",
+      "Klaas Verwer",
+      "Eilard Hoogerduijn Strating",
+      "Wim Swinkels",
+      "Jeroen M. Peters",
+      "Ina Immenhauser-Potthast",
+      "Salim Al Maskery"
+    ],
+    "title": "Barremian-lower Aptian Qishn Formation, Haushi-Huqf area, Oman: a new outcrop analogue for the Kharaib/Shu’aiba reservoirs",
+    "publicationDate": "2004-01-01",
+    "year": 2004,
+    "venue": "GeoArabia",
+    "citations": 87,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2943308556",
+    "doi": "https://doi.org/10.2113/geoarabia130339",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5035885381",
+      "A5108118684",
+      "A5052547610",
+      "A5058223208",
+      "A5052594218",
+      "A5039636725"
+    ],
+    "firstAuthorLastName": "Homewood",
+    "allAuthors": [
+      "Peter Homewood",
+      "Philippe Razin",
+      "Carine Grélaud",
+      "Henk Droste",
+      "Volker Vahrenkamp",
+      "Monique Mettraux",
+      "Joerg Mattner"
+    ],
+    "title": "Outcrop sedimentology of the Natih Formation, northern Oman: A field guide to selected outcrops in the Adam Foothills and Al Jabal al Akhdar areas",
+    "publicationDate": "2008-07-01",
+    "year": 2008,
+    "venue": "GeoArabia",
+    "citations": 63,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W1560753261",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5074392881"
+    ],
+    "firstAuthorLastName": "Droste",
+    "allAuthors": [
+      "Henk Droste",
+      "Mia Van Steenwinkel"
+    ],
+    "title": "Stratal Geometries and Patterns of Platform Carbonates: The Cretaceous of Oman",
+    "publicationDate": "2004-01-01",
+    "year": 2004,
+    "venue": "",
+    "citations": 56,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geophysical Studies",
+      "Reservoir Engineering and Simulation Methods"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2959332765",
+    "doi": "https://doi.org/10.2113/geoarabia110117",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5083437397",
+      "A5112695255",
+      "A5035885381"
+    ],
+    "firstAuthorLastName": "Rousseau",
+    "allAuthors": [
+      "Mathieu Rousseau",
+      "Gilles Dromart",
+      "Henk Droste",
+      "Peter Homewood"
+    ],
+    "title": "Stratigraphic organisation of the Jurassic sequence in Interior Oman, Arabian Peninsula",
+    "publicationDate": "2006-01-01",
+    "year": 2006,
+    "venue": "GeoArabia",
+    "citations": 27,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "Laboratoire de Sciences de la Terre"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3195207218",
+    "doi": "https://doi.org/10.1130/ges02376.1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5041843348",
+      "A5060286659",
+      "A5007329363",
+      "A5048457692",
+      "A5074392881"
+    ],
+    "firstAuthorLastName": "Levell",
+    "allAuthors": [
+      "Bruce Levell",
+      "M. P. Searle",
+      "Adrian White",
+      "Lauren Kedar",
+      "Henk Droste",
+      "Mia Van Steenwinkel"
+    ],
+    "title": "Geological and seismic evidence for the tectonic evolution of the NE Oman continental margin and Gulf of Oman",
+    "publicationDate": "2021-08-19",
+    "year": 2021,
+    "venue": "Geosphere",
+    "citations": 15,
+    "topics": [
+      "Geological and Geophysical Studies Worldwide",
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "University of Oxford"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4399334238",
+    "doi": "https://doi.org/10.1144/sp545-2023-207",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5069580302",
+      "A5080598412",
+      "A5042844492",
+      "A5041843348",
+      "A5108118684",
+      "A5108291309"
+    ],
+    "firstAuthorLastName": "Simmons",
+    "allAuthors": [
+      "Michael D. Simmons",
+      "Mike Bidgood",
+      "Roger B. Davies",
+      "Henk Droste",
+      "Bruce Levell",
+      "Philippe Razin",
+      "Frans S.P. van Buchem"
+    ],
+    "title": "Intra-Turonian stratigraphic reorganization on the Arabian Plate",
+    "publicationDate": "2024-06-04",
+    "year": 2024,
+    "venue": "Geological Society London Special Publications",
+    "citations": 15,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Halliburton (United Kingdom)",
+      "Natural History Museum",
+      "University of Oxford",
+      "Institut Polytechnique de Bordeaux",
+      "King Abdullah University of Science and Technology"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2023502112",
+    "doi": "https://doi.org/10.1144/sp329.7",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530"
+    ],
+    "firstAuthorLastName": "Droste",
+    "allAuthors": [
+      "Henk Droste"
+    ],
+    "title": "High-resolution seismic stratigraphy of the Shu'aiba and Natih formations in the Sultanate of Oman: implications for Cretaceous epeiric carbonate platform systems",
+    "publicationDate": "2010-01-01",
+    "year": 2010,
+    "venue": "Geological Society London Special Publications",
+    "citations": 36,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Shell (Netherlands)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3165010074",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5029031784",
+      "A5108167128",
+      "A5073905170",
+      "A5065051587",
+      "A5082190198",
+      "A5020068143",
+      "A5007840661",
+      "A5042016942"
+    ],
+    "firstAuthorLastName": "Pierson",
+    "allAuthors": [
+      "Bernard J. Pierson",
+      "Gregor P. Eberli",
+      "Khalil Al‐Mehsin",
+      "Saeed Al-Menhali",
+      "Georg Warrlich",
+      "Henk Droste",
+      "Florian Maurer",
+      "John Whitworth",
+      "Donna Drysdale"
+    ],
+    "title": "Seismic stratigraphy and depositional history of the Upper Shu’aiba (Late Aptian) in the UAE and Oman",
+    "publicationDate": "2010-01-01",
+    "year": 2010,
+    "venue": "",
+    "citations": 28,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3171914775",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5110956932",
+      "A5073905170",
+      "A5029031784",
+      "A5108167128",
+      "A5082190198",
+      "A5042016942"
+    ],
+    "firstAuthorLastName": "Maurer",
+    "allAuthors": [
+      "Florian Maurer",
+      "Khalil Al‐Mehsin",
+      "Bernard J. Pierson",
+      "Gregor P. Eberli",
+      "Georg Warrlich",
+      "Donna Drysdale",
+      "Henk Droste"
+    ],
+    "title": "Facies characteristics and architecture of Upper Aptian Shu’aiba clinoforms in Abu Dhabi",
+    "publicationDate": "2010-01-01",
+    "year": 2010,
+    "venue": "",
+    "citations": 28,
+    "topics": [
+      "Archaeology and Historical Studies",
+      "Ancient Egypt and Archaeology",
+      "Ancient Mediterranean Archaeology and History"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4410338539",
+    "doi": "https://doi.org/10.1306/m81928c9",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5074392881"
+    ],
+    "firstAuthorLastName": "Droste",
+    "allAuthors": [
+      "Henk Droste",
+      "Mia Van Steenwinkel"
+    ],
+    "title": "Stratal Geometries and Patterns of Platform Carbonates",
+    "publicationDate": "2004-01-01",
+    "year": 2004,
+    "venue": "American Association of Petroleum Geologists eBooks",
+    "citations": 14,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "Muscat College"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2561614970",
+    "doi": "https://doi.org/10.3997/1365-2397.25.1113.27711",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5035885381",
+      "A5058223208",
+      "A5059672583",
+      "A5039636725",
+      "A5022836837",
+      "A5012524105"
+    ],
+    "firstAuthorLastName": "Homewood",
+    "allAuthors": [
+      "Peter Homewood",
+      "Volker Vahrenkamp",
+      "M. Mettraux",
+      "Joerg Mattner",
+      "Brigitte Vlaswinkel",
+      "Henk Droste",
+      "Andy Y. Kwarteng"
+    ],
+    "title": "Bar Al Hikman: a modern carbonate and outcrop analogue in Oman for Middle East Cretaceous fields",
+    "publicationDate": "2007-11-01",
+    "year": 2007,
+    "venue": "First Break",
+    "citations": 12,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "Oman Medical College",
+      "Applied GeoSolutions (United States)",
+      "Bahrain Center for Strategic International and Energy Studies",
+      "Shell (Netherlands)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4234571733",
+    "doi": "https://doi.org/10.1306/13431870m1063039",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530"
+    ],
+    "firstAuthorLastName": "Droste",
+    "allAuthors": [
+      "Henk Droste"
+    ],
+    "title": "Petroleum Geology of the Sultanate of Oman",
+    "publicationDate": "2016-02-15",
+    "year": 2016,
+    "venue": "",
+    "citations": 11,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2311582321",
+    "doi": "https://doi.org/10.1144/0040459",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5038627799",
+      "A5066496767",
+      "A5051208192"
+    ],
+    "firstAuthorLastName": "Wakefield",
+    "allAuthors": [
+      "Laurie L. Wakefield",
+      "Henk Droste",
+      "M. R. Giles",
+      "Ron Janssen"
+    ],
+    "title": "Late Jurassic plays along the western margin of the Central Graben",
+    "publicationDate": "1993-01-01",
+    "year": 1993,
+    "venue": "Geological Society London Petroleum Geology Conference series",
+    "citations": 36,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Shell (United Kingdom)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2501674867",
+    "doi": "https://doi.org/10.1036/13431870m1063039",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530"
+    ],
+    "firstAuthorLastName": "Droste",
+    "allAuthors": [
+      "Henk Droste"
+    ],
+    "title": "Petroleum Geology of the Sultanate of Oman",
+    "publicationDate": "2014-01-01",
+    "year": 2014,
+    "venue": "",
+    "citations": 10,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2971403499",
+    "doi": "https://doi.org/10.2113/geoarabia1802197",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530"
+    ],
+    "firstAuthorLastName": "Droste",
+    "allAuthors": [
+      "Henk Droste"
+    ],
+    "title": "Upper Jurassic to Lower Cretaceous stratigraphic model for the eastern Arabian Plate",
+    "publicationDate": "2013-04-01",
+    "year": 2013,
+    "venue": "GeoArabia",
+    "citations": 5,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "Shell (Netherlands)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W69965442",
+    "doi": "https://doi.org/10.1016/s0920-5446(08)70218-8",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5083163044"
+    ],
+    "firstAuthorLastName": "Harten",
+    "allAuthors": [
+      "Dick van Harten",
+      "Henk Droste"
+    ],
+    "title": "Mediterranean Deep-sea Ostracods, the Species Poorness of the Eastern Basin as a Legacy of an Early Holocene Anoxic Event",
+    "publicationDate": "1988-01-01",
+    "year": 1988,
+    "venue": "Developments in palaeontology and stratigraphy",
+    "citations": 14,
+    "topics": [
+      "Marine Biology and Ecology Research",
+      "Cephalopods and Marine Biology",
+      "Subterranean biodiversity and taxonomy"
+    ],
+    "institutions": [
+      "University of Amsterdam"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1888245519",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530"
+    ],
+    "firstAuthorLastName": "Droste",
+    "allAuthors": [
+      "Henk Droste"
+    ],
+    "title": "AAPG Memoir 74, Chapter 24: Paleozoic Stratigraphy and Hydrocarbon Habitat of the Arabian Plate",
+    "publicationDate": "2001-01-01",
+    "year": 2001,
+    "venue": "",
+    "citations": 10,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological Studies and Exploration",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2051588678",
+    "doi": "https://doi.org/10.3997/2214-4609.20145350",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530"
+    ],
+    "firstAuthorLastName": "Droste",
+    "allAuthors": [
+      "Henk Droste"
+    ],
+    "title": "Stratigraphic Framework of the Natih Formation in the Sultanate of Oman",
+    "publicationDate": "2010-01-24",
+    "year": 2010,
+    "venue": "Proceedings",
+    "citations": 7,
+    "topics": [
+      "Marine and environmental studies",
+      "Maritime and Coastal Archaeology"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3140024004",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5082190198",
+      "A5051979229",
+      "A5010939944",
+      "A5044313765",
+      "A5061993931",
+      "A5030105240",
+      "A5105696340",
+      "A5011601198",
+      "A5074392881"
+    ],
+    "firstAuthorLastName": "Warrlich",
+    "allAuthors": [
+      "Georg Warrlich",
+      "Heiko Hillgärtner",
+      "Niels Rameil",
+      "James Gittins",
+      "Issa Mahruqi",
+      "Tim Johnson",
+      "David J. Alexander",
+      "Bart Wassing",
+      "Mia Van Steenwinkel",
+      "Henk Droste"
+    ],
+    "title": "Reservoir characterisation of data-poor fields with regional analogues: A case study from the Lower Shu’aiba in the Sultanate of Oman",
+    "publicationDate": "2010-01-01",
+    "year": 2010,
+    "venue": "",
+    "citations": 5,
+    "topics": [
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Reservoir Engineering and Simulation Methods"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W1980028455",
+    "doi": "https://doi.org/10.3997/2214-4609.20142782",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530"
+    ],
+    "firstAuthorLastName": "Droste",
+    "allAuthors": [
+      "Henk Droste"
+    ],
+    "title": "Upper Jurassic to Lower Cretaceous Stratigraphic Model for the Eastern Arabian Plate",
+    "publicationDate": "2012-12-09",
+    "year": 2012,
+    "venue": "Proceedings",
+    "citations": 2,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "Shell (Netherlands)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2803639214",
+    "doi": "https://doi.org/10.3997/2214-4609-pdb.246.63",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5017238143",
+      "A5085466599"
+    ],
+    "firstAuthorLastName": "Al-Shuaily",
+    "allAuthors": [
+      "Hamad Al-Shuaily",
+      "Omar Al-Ja’Aidi",
+      "Henk Droste"
+    ],
+    "title": "Stratigraphic framework of the Mafraq Formation, northern Oman",
+    "publicationDate": "2008-01-01",
+    "year": 2008,
+    "venue": "GEO 2008",
+    "citations": 1,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological formations and processes"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3122357362",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5108291309",
+      "A5081811780",
+      "A5020068143"
+    ],
+    "firstAuthorLastName": "Buchem",
+    "allAuthors": [
+      "Frans S.P. van Buchem",
+      "Moujahed Al-Husseini",
+      "Florian Maurer",
+      "Henk Droste"
+    ],
+    "title": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 2)",
+    "publicationDate": "2010-01-01",
+    "year": 2010,
+    "venue": "",
+    "citations": 1,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W1989012109",
+    "doi": "https://doi.org/10.3997/2214-4609.20147550",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5029031784",
+      "A5108167128",
+      "A5073905170",
+      "A5065051587",
+      "A5082190198",
+      "A5110956932",
+      "A5007840661",
+      "A5042016942"
+    ],
+    "firstAuthorLastName": "Pierson",
+    "allAuthors": [
+      "Bernard J. Pierson",
+      "Gregor P. Eberli",
+      "Khalil Al‐Mehsin",
+      "Saeed Al-Menhali",
+      "Georg Warrlich",
+      "Florian Maurer",
+      "Henk Droste",
+      "John Whitworth",
+      "Donna Drysdale"
+    ],
+    "title": "Definition and Distribution of the Bab Sequence – The Last Upper Aptian Shu’aiba Sequence in the Bab Basin (Best of Shu'aiba)",
+    "publicationDate": "2008-01-01",
+    "year": 2008,
+    "venue": "70th EAGE Conference and Exhibition incorporating SPE EUROPEC 2008",
+    "citations": 1,
+    "topics": [
+      "Ancient Near East History",
+      "Ancient Egypt and Archaeology",
+      "Archaeology and Historical Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2330269340",
+    "doi": "https://doi.org/10.1306/d9cb54cb-1715-11d7-8645000102c1865d",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530"
+    ],
+    "firstAuthorLastName": "Droste",
+    "allAuthors": [
+      "Henk Droste"
+    ],
+    "title": "Source Rock Development and Relative Sea-Level Changes in an Intra-Platform Basin: The Upper Jurassic Hanifa Formation of the Arabian Peninsula",
+    "publicationDate": "1993-01-01",
+    "year": 1993,
+    "venue": "AAPG Bulletin",
+    "citations": 1,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geophysical Studies",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2000395061",
+    "doi": "https://doi.org/10.3997/2214-4609.20147551",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5029031784"
+    ],
+    "firstAuthorLastName": "Droste",
+    "allAuthors": [
+      "Henk Droste",
+      "Bernard J. Pierson"
+    ],
+    "title": "Regional Depositional History and Stratigraphy of the Shu’aiba Formation in the Middle East (Best of Shu'aiba)",
+    "publicationDate": "2008-01-01",
+    "year": 2008,
+    "venue": "70th EAGE Conference and Exhibition incorporating SPE EUROPEC 2008",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2050079505",
+    "doi": "https://doi.org/10.3997/2214-4609.20145346",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5041843348",
+      "A5058223208"
+    ],
+    "firstAuthorLastName": "Levell",
+    "allAuthors": [
+      "Bruce Levell",
+      "Henk Droste",
+      "Volker Vahrenkamp"
+    ],
+    "title": "Keynote - The Middle Cretaceous: A Case for Special Treatment?",
+    "publicationDate": "2010-01-24",
+    "year": 2010,
+    "venue": "Proceedings",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2075049925",
+    "doi": "https://doi.org/10.3997/2214-4609.20145667",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5021997271",
+      "A5059474198",
+      "A5042036971"
+    ],
+    "firstAuthorLastName": "Harvey",
+    "allAuthors": [
+      "Calum Harvey",
+      "A.H. Azzouni",
+      "Henk Droste",
+      "Andrew Weedon"
+    ],
+    "title": "Light &amp; Tight in the Empty Quarter: Cretaceous Carbonate Source Rocks in the South Rub al Khali Basin, Saudi Arabia",
+    "publicationDate": "2010-01-01",
+    "year": 2010,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geological Studies and Exploration",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2294145311",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530"
+    ],
+    "firstAuthorLastName": "Droste",
+    "allAuthors": [
+      "Henk Droste"
+    ],
+    "title": "Chapter 19: Petroleum Geology of the Sultanate of Oman",
+    "publicationDate": "2014-01-01",
+    "year": 2014,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological Studies and Exploration",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2314467085",
+    "doi": "https://doi.org/10.2523/iptc-10659-abstract",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5073905170",
+      "A5029853672",
+      "A5032480435",
+      "A5082190198",
+      "A5108167128"
+    ],
+    "firstAuthorLastName": "Al‐Mehsin",
+    "allAuthors": [
+      "Khalil Al‐Mehsin",
+      "Brittany Davis Pierson",
+      "D.D Drysdale",
+      "Georg Warrlich",
+      "Gregor P. Eberli",
+      "Henk Droste"
+    ],
+    "title": "New Vision of the Shuaiba at a Regional Scale",
+    "publicationDate": "2005-11-21",
+    "year": 2005,
+    "venue": "International Petroleum Technology Conference",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Reservoir Engineering and Simulation Methods"
+    ],
+    "institutions": [
+      "Abu Dhabi National Oil (United Arab Emirates)",
+      "Shell (Netherlands)",
+      "University of Miami",
+      "Oman Medical College"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3021112486",
+    "doi": "https://doi.org/10.3997/2214-4609-pdb.248.030",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5024355746",
+      "A5113901896",
+      "A5042036971"
+    ],
+    "firstAuthorLastName": "Moir",
+    "allAuthors": [
+      "Michael E. Moir",
+      "Henk Droste",
+      "Craig Harvey",
+      "Andrew Weedon"
+    ],
+    "title": "Joining the Dots: Cretaceous Prospectivity in the South Rub ‘Al Khali Basin, Saudi Arabia",
+    "publicationDate": "2010-01-01",
+    "year": 2010,
+    "venue": "GEO 2010",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Reservoir Engineering and Simulation Methods",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3021305831",
+    "doi": "https://doi.org/10.3997/2214-4609-pdb.246.160",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5052547610",
+      "A5108118684",
+      "A5035885381",
+      "A5097977065"
+    ],
+    "firstAuthorLastName": "Grélaud",
+    "allAuthors": [
+      "Carine Grélaud",
+      "Philippe Razin",
+      "Peter Homewood",
+      "Henk Droste",
+      "Anne Schwab and Volker Vahrenkamp"
+    ],
+    "title": "Refining the carbonate paradigm for revamping mature oil fields: Integration of regional-scale and high-resolution stratigraphy in the Upper Cretaceous Natih Formation, Oman",
+    "publicationDate": "2008-01-01",
+    "year": 2008,
+    "venue": "GEO 2008",
+    "citations": 0,
+    "topics": [
+      "Reservoir Engineering and Simulation Methods",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3021649335",
+    "doi": "https://doi.org/10.3997/2214-4609-pdb.248.026",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5113901896",
+      "A5038665486"
+    ],
+    "firstAuthorLastName": "Harvey",
+    "allAuthors": [
+      "Craig Harvey",
+      "Abdulhameed Azzouni",
+      "Henk Droste"
+    ],
+    "title": "Jurassic and Cretaceous Carbonate Geology and Stratigraphic Plays in the Rub’Al Khali Basin, Kingdom of Saudi Arabia",
+    "publicationDate": "2010-01-01",
+    "year": 2010,
+    "venue": "GEO 2010",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geophysical Studies",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3022053293",
+    "doi": "https://doi.org/10.3997/2214-4609-pdb.246.120",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530"
+    ],
+    "firstAuthorLastName": "Droste",
+    "allAuthors": [
+      "Henk Droste"
+    ],
+    "title": "Stratigraphic framework of the Natih Formation in Oman",
+    "publicationDate": "2008-01-01",
+    "year": 2008,
+    "venue": "GEO 2008",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Reservoir Engineering and Simulation Methods",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3023468955",
+    "doi": "https://doi.org/10.3997/2214-4609-pdb.246.364",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5022836837",
+      "A5035885381",
+      "A5056710711",
+      "A5097104609"
+    ],
+    "firstAuthorLastName": "Vlaswinkel",
+    "allAuthors": [
+      "Brigitte Vlaswinkel",
+      "Peter Homewood",
+      "Henk Droste",
+      "Erwin W. Adams",
+      "Cathy Hollis and Monique Mettraux"
+    ],
+    "title": "Quantification of Holocene and Pleistocene heterogeneity of a carbonate depositional system, Bar Al Hikman, Oman",
+    "publicationDate": "2008-01-01",
+    "year": 2008,
+    "venue": "GEO 2008",
+    "citations": 0,
+    "topics": [
+      "Marine and environmental studies",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3023671719",
+    "doi": "https://doi.org/10.3997/2214-4609-pdb.246.30",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5110756813",
+      "A5110318662"
+    ],
+    "firstAuthorLastName": "Balushi",
+    "allAuthors": [
+      "Said Al Balushi",
+      "J. H. S. Macquaker",
+      "Henk Droste"
+    ],
+    "title": "Fundamental controls on organic-matter preservation in a clastic-starved intra-shelf basin: The Upper Cretaceous Natih B sediments (Natih Formation) of northern Oman",
+    "publicationDate": "2008-01-01",
+    "year": 2008,
+    "venue": "GEO 2008",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4392599299",
+    "doi": "https://doi.org/10.5194/egusphere-egu24-4386",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530",
+      "A5041843348",
+      "A5060286659"
+    ],
+    "firstAuthorLastName": "Droste",
+    "allAuthors": [
+      "Henk Droste",
+      "Bruce Levell",
+      "M. P. Searle"
+    ],
+    "title": "The sedimentary record of ophiolite obduction in North Oman",
+    "publicationDate": "2024-03-08",
+    "year": 2024,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
   },
   {
     "workId": "https://openalex.org/W2921983401",
@@ -108898,39 +111277,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
-    "workId": "https://openalex.org/W2939888277",
-    "doi": "https://doi.org/10.2113/geoarabia0603407",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5074794653",
-    "allAuthorOpenAlexIds": [
-      "A5074794653",
-      "A5051035705",
-      "A5054134454",
-      "A5058646530"
-    ],
-    "firstAuthorLastName": "Konert",
-    "allAuthors": [
-      "G. Konert",
-      "Abdulkader M. Afifi",
-      "S. Al-Hajri",
-      "Henk Droste"
-    ],
-    "title": "Paleozoic Stratigraphy and Hydrocarbon Habitat of the Arabian Plate",
-    "publicationDate": "2001-07-01",
-    "year": 2001,
-    "venue": "GeoArabia",
-    "citations": 518,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological formations and processes",
-      "Geological and Geophysical Studies"
-    ],
-    "institutions": [
-      "Shell (Netherlands)",
-      "Saudi Aramco (United States)"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W2099548869",
     "doi": "https://doi.org/10.2113/gsecongeo.83.2.377",
     "program": "",
@@ -111886,7 +114232,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-09-04",
     "year": 2024,
     "venue": "Fuel",
-    "citations": 35,
+    "citations": 36,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Methane Hydrates and Related Phenomena",
@@ -116071,38 +118417,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W1555646088",
-    "doi": "",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5081811780",
-    "allAuthorOpenAlexIds": [
-      "A5081811780",
-      "A5108291309",
-      "A5020068143",
-      "A5058646530",
-      "A5085509873"
-    ],
-    "firstAuthorLastName": "Buchem",
-    "allAuthors": [
-      "Frans S.P. van Buchem",
-      "Moujahed Al-Husseini",
-      "Florian Maurer",
-      "Henk Droste",
-      "Lyndon A. Yose"
-    ],
-    "title": "Sequence-stratigraphic synthesis of the Barremian – Aptian of the eastern Arabian Plate and implications for the petroleum habitat",
-    "publicationDate": "2010-01-01",
-    "year": 2010,
-    "venue": "GeoArabia, Journal of the Middle East Petroleum Geosciences",
-    "citations": 141,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological and Geophysical Studies",
-      "Geological Studies and Exploration"
-    ],
-    "institutions": []
-  },
-  {
     "workId": "https://openalex.org/W2118432836",
     "doi": "https://doi.org/10.1111/ter.12009",
     "program": "",
@@ -117207,36 +119521,6 @@ export const worksTable: WorkTableRecord[] = [
       "Archaeology and Historical Studies",
       "Ancient Near East History",
       "Marine and environmental studies"
-    ],
-    "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W3122357362",
-    "doi": "",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5081811780",
-    "allAuthorOpenAlexIds": [
-      "A5081811780",
-      "A5108291309",
-      "A5020068143",
-      "A5058646530"
-    ],
-    "firstAuthorLastName": "Buchem",
-    "allAuthors": [
-      "Frans S.P. van Buchem",
-      "Moujahed Al-Husseini",
-      "Florian Maurer",
-      "Henk Droste"
-    ],
-    "title": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 2)",
-    "publicationDate": "2010-01-01",
-    "year": 2010,
-    "venue": "",
-    "citations": 1,
-    "topics": [
-      "Geochemistry and Geologic Mapping",
-      "Paleontology and Stratigraphy of Fossils",
-      "Hydrocarbon exploration and reservoir analysis"
     ],
     "institutions": []
   },
@@ -128081,47 +130365,6 @@ export const worksTable: WorkTableRecord[] = [
       "Geological formations and processes"
     ],
     "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W2003091363",
-    "doi": "https://doi.org/10.1016/j.revpalbo.2014.10.005",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5103799444",
-    "allAuthorOpenAlexIds": [
-      "A5103799444",
-      "A5111534349",
-      "A5029025019",
-      "A5021079925",
-      "A5054134454",
-      "A5058654714"
-    ],
-    "firstAuthorLastName": "Paris",
-    "allAuthors": [
-      "Florentin Paris",
-      "Jacques Verniers",
-      "Merrell A. Miller",
-      "S. Al-Hajri",
-      "John Melvin",
-      "Charles H. Wellman"
-    ],
-    "title": "Late Ordovician–earliest Silurian chitinozoans from the Qusaiba-1 core hole (North Central Saudi Arabia) and their relation to the Hirnantian glaciation",
-    "publicationDate": "2014-11-05",
-    "year": 2014,
-    "venue": "Review of Palaeobotany and Palynology",
-    "citations": 36,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geology and Paleoclimatology Research",
-      "Marine and coastal plant biology"
-    ],
-    "institutions": [
-      "Centre National de la Recherche Scientifique",
-      "Géosciences Rennes",
-      "Université de Rennes",
-      "Ghent University",
-      "Saudi Aramco (Saudi Arabia)",
-      "University of Sheffield"
-    ]
   },
   {
     "workId": "https://openalex.org/W2770805832",
