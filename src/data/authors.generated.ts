@@ -1023,7 +1023,7 @@ export const authors: AuthorRecord[] = [
     "affiliate1": "",
     "affiliate2": "",
     "affiliate3": "",
-    "email": "said.hajri.1@aramco.com",
+    "email": "",
     "orcid": "",
     "totalPublications": 34,
     "totalCitations": 1102,
@@ -1041,10 +1041,28 @@ export const authors: AuthorRecord[] = [
     "affiliate1": "",
     "affiliate2": "",
     "affiliate3": "",
-    "email": "henk.droste@telenet.be",
+    "email": "",
     "orcid": "",
     "totalPublications": 45,
     "totalCitations": 2092,
     "hIndex": 17
+  },
+  {
+    "authorId": "idb0057-knaust-dirk",
+    "openAlexId": "A5013195813",
+    "openAlexIds": [
+      "A5013195813"
+    ],
+    "name": "Dirk Knaust",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "",
+    "orcid": "",
+    "totalPublications": 115,
+    "totalCitations": 2692,
+    "hIndex": 31
   }
 ];

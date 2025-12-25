@@ -22033,6 +22033,3542 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W1970644949",
+    "doi": "https://doi.org/10.1016/j.earscirev.2013.04.007",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "The ichnogenus Rhizocorallium: Classification, trace makers, palaeoenvironments and evolution",
+    "publicationDate": "2013-04-29",
+    "year": 2013,
+    "venue": "Earth-Science Reviews",
+    "citations": 162,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4237810828",
+    "doi": "https://doi.org/10.1007/978-3-319-49837-9",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Atlas of Trace Fossils in Well Core",
+    "publicationDate": "2017-01-01",
+    "year": 2017,
+    "venue": "",
+    "citations": 155,
+    "topics": [
+      "Geological Studies and Exploration",
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W583387922",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5108516819"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "R. G. Bromley"
+    ],
+    "title": "Trace fossils as indicators of sedimentary environments",
+    "publicationDate": "2012-01-01",
+    "year": 2012,
+    "venue": "",
+    "citations": 150,
+    "topics": [
+      "Geological formations and processes",
+      "Geological Studies and Exploration",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2925674569",
+    "doi": "https://doi.org/10.1007/s10347-019-0561-8",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5013751176",
+      "A5005081494"
+    ],
+    "firstAuthorLastName": "Wisshak",
+    "allAuthors": [
+      "Max Wisshak",
+      "Dirk Knaust",
+      "Markus Bertling"
+    ],
+    "title": "Bioerosion ichnotaxa: review and annotated list",
+    "publicationDate": "2019-04-01",
+    "year": 2019,
+    "venue": "Facies",
+    "citations": 120,
+    "topics": [
+      "Ichthyology and Marine Biology",
+      "Marine Sponges and Natural Products",
+      "Coral and Marine Ecosystems Studies"
+    ],
+    "institutions": [
+      "Senckenberg am Meer",
+      "Equinor (Norway)",
+      "University of Münster"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1109724386",
+    "doi": "https://doi.org/10.1016/j.earscirev.2015.07.014",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Siphonichnidae (new ichnofamily) attributed to the burrowing activity of bivalves: Ichnotaxonomy, behaviour and palaeoenvironmental implications",
+    "publicationDate": "2015-08-06",
+    "year": 2015,
+    "venue": "Earth-Science Reviews",
+    "citations": 89,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4306871357",
+    "doi": "https://doi.org/10.18261/let.55.3.3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5005081494",
+      "A5069813400",
+      "A5009545104",
+      "A5078376177",
+      "A5003506907",
+      "A5008630013",
+      "A5049147454",
+      "A5007762069",
+      "A5068976315",
+      "A5061347853",
+      "A5013751176"
+    ],
+    "firstAuthorLastName": "Bertling",
+    "allAuthors": [
+      "Markus Bertling",
+      "Luís A. Buatois",
+      "Dirk Knaust",
+      "Brittany A. Laing",
+      "M. Gabriela Mángano",
+      "Neele Meyer",
+      "Radek Mikuláš",
+      "Nicholas J. Minter",
+      "Christian Neumann",
+      "Andrew K. Rindsberg",
+      "Alfred Uchman",
+      "Max Wisshak"
+    ],
+    "title": "Names for trace fossils 2.0: theory and practice in ichnotaxonomy",
+    "publicationDate": "2022-10-20",
+    "year": 2022,
+    "venue": "Lethaia",
+    "citations": 76,
+    "topics": [
+      "Pleistocene-Era Hominins and Archaeology",
+      "Evolution and Paleontology Studies",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "University of Saskatchewan",
+      "Czech Academy of Sciences, Institute of Geology",
+      "Senckenberg am Meer",
+      "University of Münster"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2804652220",
+    "doi": "https://doi.org/10.1016/j.earscirev.2018.05.009",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5003127435",
+      "A5033708506"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "R. D. K. Thomas",
+      "H. Allen Curran"
+    ],
+    "title": "Skolithos linearis Haldeman, 1840 at its early Cambrian type locality, Chickies Rock, Pennsylvania: Analysis and designation of a neotype",
+    "publicationDate": "2018-05-26",
+    "year": 2018,
+    "venue": "Earth-Science Reviews",
+    "citations": 64,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Equinor (Norway)",
+      "Franklin & Marshall College",
+      "Smith College"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W199967141",
+    "doi": "https://doi.org/10.1016/b978-0-444-53813-0.00003-4",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Trace-Fossil Systematics",
+    "publicationDate": "2012-01-01",
+    "year": 2012,
+    "venue": "Developments in sedimentology",
+    "citations": 101,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Evolutionary Biology",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2982501932",
+    "doi": "https://doi.org/10.2113/geoarabia140317",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Ichnology as a tool in carbonate reservoir characterization: A case study from the Permian – Triassic Khuff Formation in the Middle East",
+    "publicationDate": "2009-07-01",
+    "year": 2009,
+    "venue": "GeoArabia",
+    "citations": 79,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2084148629",
+    "doi": "https://doi.org/10.1007/bf03184427",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Balanoglossites Mägdefrau, 1932 from the middle triassic of Germany: part of a complex trace fossil probably produced by burrowing and boring polychaetes",
+    "publicationDate": "2008-12-01",
+    "year": 2008,
+    "venue": "Paläontologische Zeitschrift",
+    "citations": 75,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Evolutionary Biology",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1582475895",
+    "doi": "https://doi.org/10.1111/j.1365-3121.2010.00934.x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "The end-Permian mass extinction and its aftermath on an equatorial carbonate platform: insights from ichnology",
+    "publicationDate": "2010-03-19",
+    "year": 2010,
+    "venue": "Terra Nova",
+    "citations": 74,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2066250998",
+    "doi": "https://doi.org/10.1007/s005310050186",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Trace fossils and ichnofabrics on the Lower Muschelkalk carbonate ramp (Triassic) of Germany: tool for high-resolution sequence stratigraphy",
+    "publicationDate": "1998-05-20",
+    "year": 1998,
+    "venue": "Geologische Rundschau",
+    "citations": 70,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "Universität Greifswald"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W155005340",
+    "doi": "https://doi.org/10.1016/b978-0-444-53813-0.00023-x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5033708506",
+      "A5082408066"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "H. Allen Curran",
+      "A. V. Dronov"
+    ],
+    "title": "Shallow-Marine Carbonates",
+    "publicationDate": "2012-01-01",
+    "year": 2012,
+    "venue": "Developments in sedimentology",
+    "citations": 65,
+    "topics": [
+      "Geological formations and processes",
+      "Geological and Geophysical Studies",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Equinor (Norway)",
+      "Smith College",
+      "Geological Institute"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W293229073",
+    "doi": "https://doi.org/10.1016/b978-0-444-53813-0.00005-8",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5041931207",
+      "A5108818740"
+    ],
+    "firstAuthorLastName": "Ekdale",
+    "allAuthors": [
+      "A. A. Ekdale",
+      "Richard G. Bromley",
+      "Dirk Knaust"
+    ],
+    "title": "The Ichnofabric Concept",
+    "publicationDate": "2012-01-01",
+    "year": 2012,
+    "venue": "Developments in sedimentology",
+    "citations": 64,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "University of Utah",
+      "Natural History Museum Aarhus",
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2254468177",
+    "doi": "https://doi.org/10.14241/asgp.2015.029",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5013751176",
+      "A5050364980",
+      "A5005081494",
+      "A5018041843",
+      "A5037565336",
+      "A5007762069",
+      "A5012084592"
+    ],
+    "firstAuthorLastName": "Wisshak",
+    "allAuthors": [
+      "Max Wisshak",
+      "Andreas Kroh",
+      "Markus Bertling",
+      "Dirk Knaust",
+      "Jan Kresten Nielsen",
+      "John W.M. Jagt",
+      "Christian Neumann",
+      "Kurt Nielsen"
+    ],
+    "title": "In defence of an iconic ichnogenus – Oichnus Bromley, 1981",
+    "publicationDate": "2015-01-01",
+    "year": 2015,
+    "venue": "Annales Societatis Geologorum Poloniae/Rocznik Polskiego Towarzystwa Geologicznego",
+    "citations": 63,
+    "topics": [
+      "Ichthyology and Marine Biology",
+      "Coral and Marine Ecosystems Studies",
+      "Marine Ecology and Invasive Species"
+    ],
+    "institutions": [
+      "Senckenberg am Meer",
+      "University of Münster",
+      "Equinor (Norway)",
+      "DNV (Norway)",
+      "Natural History Museum Maastricht",
+      "Staatliches Naturhistorisches Museum",
+      "Museum für Naturkunde"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2982550512",
+    "doi": "https://doi.org/10.2110/pec.07.88.0223",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Invertebrate Trace Fossils and Ichnodiversity in Shallow-Marine Carbonates of the German Middle Triassic (Muschelkalk)",
+    "publicationDate": "2007-01-01",
+    "year": 2007,
+    "venue": "SEPM (Society for Sedimentary Geology) eBooks",
+    "citations": 61,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies",
+      "Paleontology and Evolutionary Biology"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W50307466",
+    "doi": "https://doi.org/10.1016/b978-0-444-53813-0.00009-5",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Methodology and Techniques",
+    "publicationDate": "2012-01-01",
+    "year": 2012,
+    "venue": "Developments in sedimentology",
+    "citations": 56,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Geological Modeling and Analysis"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2005854624",
+    "doi": "https://doi.org/10.1002/gj.941",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Cambro‐Ordovician trace fossils from the SW‐Norwegian Caledonides",
+    "publicationDate": "2004-01-01",
+    "year": 2004,
+    "venue": "Geological Journal",
+    "citations": 54,
+    "topics": [
+      "Geological formations and processes",
+      "Geological Studies and Exploration",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Schlumberger (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2081206422",
+    "doi": "https://doi.org/10.1111/sed.12134",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5067573981",
+      "A5067115926"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "Michał J. Warchoł",
+      "Ian Kane"
+    ],
+    "title": "Ichnodiversity and ichnoabundance: Revealing depositional trends in a confined turbidite system",
+    "publicationDate": "2014-05-19",
+    "year": 2014,
+    "venue": "Sedimentology",
+    "citations": 51,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1892420698",
+    "doi": "https://doi.org/10.1111/j.1365-3091.2011.01300.x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5041413559"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "Luca Giacomo Costamagna"
+    ],
+    "title": "Ichnology and sedimentology of the Triassic carbonates of North‐west Sardinia, Italy",
+    "publicationDate": "2011-10-11",
+    "year": 2011,
+    "venue": "Sedimentology",
+    "citations": 50,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Equinor (Norway)",
+      "University of Cagliari"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2084687766",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2008.09.009",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Characterisation of a Campanian deep-sea fan system in the Norwegian Sea by means of ichnofabrics",
+    "publicationDate": "2008-11-10",
+    "year": 2008,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 50,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Methane Hydrates and Related Phenomena"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2060243557",
+    "doi": "https://doi.org/10.1111/j.1502-3931.2008.00120.x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Complex behavioural pattern as an aid to identify the producer of <i>Zoophycos</i> from the Middle Permian of Oman",
+    "publicationDate": "2008-07-08",
+    "year": 2008,
+    "venue": "Lethaia",
+    "citations": 48,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Paleontology and Evolutionary Biology",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2769295184",
+    "doi": "https://doi.org/10.1016/j.earscirev.2017.11.023",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "The ichnogenus Teichichnus Seilacher, 1955",
+    "publicationDate": "2017-11-29",
+    "year": 2017,
+    "venue": "Earth-Science Reviews",
+    "citations": 48,
+    "topics": [
+      "Geological formations and processes",
+      "Geological and Geophysical Studies",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2158378623",
+    "doi": "https://doi.org/10.1080/00241160410002045",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "The oldest Mesozoic nearshore <i>Zoophycos</i> : evidence from the German Triassic",
+    "publicationDate": "2004-09-01",
+    "year": 2004,
+    "venue": "Lethaia",
+    "citations": 47,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3008471558",
+    "doi": "https://doi.org/10.1002/spp2.1297",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Invertebrate coprolites and cololites revised",
+    "publicationDate": "2020-02-26",
+    "year": 2020,
+    "venue": "Papers in Palaeontology",
+    "citations": 46,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2019251967",
+    "doi": "https://doi.org/10.1134/s0869593813030040",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5082408066"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "A. V. Dronov"
+    ],
+    "title": "Balanoglossites ichnofabrics from the Middle Ordovician Volkhov formation (St. Petersburg Region, Russia)",
+    "publicationDate": "2013-05-01",
+    "year": 2013,
+    "venue": "Stratigraphy and Geological Correlation",
+    "citations": 44,
+    "topics": [
+      "Geological formations and processes",
+      "Geological Studies and Exploration",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "Equinor (Norway)",
+      "Geological Institute"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2992184602",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2019.104158",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5034868118",
+      "A5079175759"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "Javier Dorador",
+      "Francisco J. Rodríguez‐Tovar"
+    ],
+    "title": "Burrowed matrix powering dual porosity systems – A case study from the Maastrichtian chalk of the Gullfaks Field, Norwegian North Sea",
+    "publicationDate": "2019-12-05",
+    "year": 2019,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 41,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": [
+      "Equinor (Norway)",
+      "Royal Holloway University of London",
+      "Universidad de Granada"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W113779205",
+    "doi": "https://doi.org/10.1016/b978-0-444-53813-0.00001-0",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5045926683",
+      "A5078898197",
+      "A5037074707",
+      "A5069813400",
+      "A5083885441",
+      "A5110841862",
+      "A5086701020",
+      "A5088381815",
+      "A5110130149",
+      "A5102008054",
+      "A5007571603",
+      "A5101883148",
+      "A5059015378",
+      "A5026387382",
+      "A5079530865",
+      "A5015245981",
+      "A5008630013",
+      "A5080353986",
+      "A5063645756",
+      "A5111738454",
+      "A5065718196",
+      "A5068976315",
+      "A5046543771",
+      "A5052513630",
+      "A5100578762",
+      "A5064798893",
+      "A5061347853",
+      "A5100423182",
+      "A5067703574",
+      "A5100801234",
+      "A5100459866"
+    ],
+    "firstAuthorLastName": "Baucon",
+    "allAuthors": [
+      "Andrea Baucon",
+      "Emese M. Bordy",
+      "Titus Brustur",
+      "Luís A. Buatois",
+      "Tyron Cunningham",
+      "Chirananda De",
+      "Christoffer Duffin",
+      "F. Felletti",
+      "Christian Gaillard",
+      "Bin Hu",
+      "Lei Hu",
+      "Sören Jensen",
+      "Dirk Knaust",
+      "Martin G. Lockley",
+      "Pat Lowe",
+      "Adrienne Mayor",
+      "Eduardo Mayoral",
+      "Radek Mikuláš",
+      "Giovanni Muttoni",
+      "Carlos Neto de Carvalho",
+      "S. George Pemberton",
+      "John E. Pollard",
+      "Andrew K. Rindsberg",
+      "Ana Santos",
+      "Koji Seike",
+      "Huibo Song",
+      "Susan Turner",
+      "Alfred Uchman",
+      "Yuanyuan Wang",
+      "Yiming Gong",
+      "Zhang Lu",
+      "Wentao Zhang"
+    ],
+    "title": "A History of Ideas in Ichnology",
+    "publicationDate": "2012-01-01",
+    "year": 2012,
+    "venue": "Developments in sedimentology",
+    "citations": 33,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Geological formations and processes",
+      "Pleistocene-Era Hominins and Archaeology"
+    ],
+    "institutions": [
+      "University of Milan",
+      "Rhodes University",
+      "GeoEcoMar",
+      "University of Saskatchewan",
+      "Geological Survey of India",
+      "Sutton Hospital",
+      "Institute of Paleoprimatology Human Paleontology Evolution and Paleoenvironments",
+      "Université Claude Bernard Lyon 1",
+      "Henan Polytechnic University",
+      "Universidad de Extremadura",
+      "Equinor (Norway)",
+      "Denver Museum of Nature and Science",
+      "University of Colorado Denver",
+      "Environs Kimberley",
+      "Stanford University",
+      "Universidad de Huelva",
+      "Czech Academy of Sciences",
+      "Czech Academy of Sciences, Institute of Geology",
+      "University of Alberta",
+      "University of Manchester",
+      "University of West Alabama",
+      "The University of Tokyo",
+      "Monash University",
+      "Instytut Nauk Geologicznych",
+      "Jagiellonian University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2745434027",
+    "doi": "https://doi.org/10.1016/b978-0-444-53813-0.00006-x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5083600826",
+      "A5052933344",
+      "A5005574367",
+      "A5041726275",
+      "A5111738454"
+    ],
+    "firstAuthorLastName": "MacEachern",
+    "allAuthors": [
+      "James A. MacEachern",
+      "Shahin E. Dashtgard",
+      "Dirk Knaust",
+      "Octavian Catuneanu",
+      "Kerrie L. Bann",
+      "S. George Pemberton"
+    ],
+    "title": "Sequence Stratigraphy",
+    "publicationDate": "2012-01-01",
+    "year": 2012,
+    "venue": "Developments in sedimentology",
+    "citations": 32,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Simon Fraser University",
+      "Equinor (Norway)",
+      "University of Alberta"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3192036954",
+    "doi": "https://doi.org/10.1016/j.earscirev.2021.103747",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Balanoglossites-burrowed firmgrounds – The most common ichnofabric on earth?",
+    "publicationDate": "2021-07-30",
+    "year": 2021,
+    "venue": "Earth-Science Reviews",
+    "citations": 31,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Evolutionary Biology",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2902720888",
+    "doi": "https://doi.org/10.1306/13652177m1153807",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5109994763",
+      "A5003101948",
+      "A5108459798",
+      "A5020450747",
+      "A5110338402",
+      "A5088324521",
+      "A5038118864",
+      "A5103737204",
+      "A5051782784"
+    ],
+    "firstAuthorLastName": "Turner",
+    "allAuthors": [
+      "Colin C. Turner",
+      "Bryan T. Cronin",
+      "Leslie A. Riley",
+      "Stefano Patruno",
+      "William T. Reid",
+      "Silvan Hoth",
+      "Dirk Knaust",
+      "Simon Allerton",
+      "Mark A. Jones",
+      "Christopher Jackson"
+    ],
+    "title": "The South Viking Graben: Overview of Upper Jurassic Rift Geometry, Biostratigraphy, and Extent of Brae Play Submarine Fan Systems",
+    "publicationDate": "2018-01-01",
+    "year": 2018,
+    "venue": "",
+    "citations": 27,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological formations and processes",
+      "Seismic Imaging and Inversion Techniques"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3032971928",
+    "doi": "https://doi.org/10.1007/s12542-020-00520-z",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "The paradoxical ichnotaxonomy of Thalassinoides paradoxicus: a name of different meanings",
+    "publicationDate": "2020-06-03",
+    "year": 2020,
+    "venue": "Paläontologische Zeitschrift",
+    "citations": 27,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Evolutionary Biology",
+      "Ichthyology and Marine Biology"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3168911648",
+    "doi": "https://doi.org/10.1002/spp2.1367",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Rosselichnidae ifam. nov.: burrows with concentric, spiral or eccentric lamination",
+    "publicationDate": "2021-06-08",
+    "year": 2021,
+    "venue": "Papers in Palaeontology",
+    "citations": 24,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2921916837",
+    "doi": "https://doi.org/10.1016/j.gr.2019.01.016",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5034432949"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "André Desrochers"
+    ],
+    "title": "Exceptionally preserved soft-bodied assemblage in Ordovician carbonates of Anticosti Island, eastern Canada",
+    "publicationDate": "2019-03-13",
+    "year": 2019,
+    "venue": "Gondwana Research",
+    "citations": 22,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Marine Biology and Ecology Research",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Equinor (Norway)",
+      "University of Ottawa"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3207939391",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2021.105371",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5040437846",
+      "A5061700633",
+      "A5088324521",
+      "A5106944958",
+      "A5033823507",
+      "A5032889367"
+    ],
+    "firstAuthorLastName": "Baville",
+    "allAuthors": [
+      "Paul Baville",
+      "Marcus Apel",
+      "Silvan Hoth",
+      "Dirk Knaust",
+      "Christophe Antoine",
+      "Cédric Carpentier",
+      "Guillaume Caumon"
+    ],
+    "title": "Computer-assisted stochastic multi-well correlation: Sedimentary facies versus well distality",
+    "publicationDate": "2021-10-14",
+    "year": 2021,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 16,
+    "topics": [
+      "Time Series Analysis and Forecasting",
+      "Geochemistry and Geologic Mapping",
+      "Reservoir Engineering and Simulation Methods"
+    ],
+    "institutions": [
+      "Equinor (United Kingdom)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2948844888",
+    "doi": "https://doi.org/10.1306/13652188m1153814",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5088324521",
+      "A5024259420",
+      "A5035934682",
+      "A5044318100"
+    ],
+    "firstAuthorLastName": "Hoth",
+    "allAuthors": [
+      "Silvan Hoth",
+      "Dirk Knaust",
+      "Sánchez-López Alberto",
+      "Kassold Silvia",
+      "Sviland-Østre Stig"
+    ],
+    "title": "The Gudrun Field: Gravity-Flow Deposition during Rifting and Inversion",
+    "publicationDate": "2018-01-01",
+    "year": 2018,
+    "venue": "",
+    "citations": 11,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Methane Hydrates and Related Phenomena"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2015219053",
+    "doi": "https://doi.org/10.1111/j.1502-3931.2009.00196.x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Remarkably preserved benthic organisms and their traces from a Middle Triassic (Muschelkalk) mud flat",
+    "publicationDate": "2009-10-22",
+    "year": 2009,
+    "venue": "Lethaia",
+    "citations": 32,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Marine Biology and Ecology Research",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2337802202",
+    "doi": "https://doi.org/10.1016/j.earscirev.2016.04.003",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5007762069"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "Christian Neumann"
+    ],
+    "title": "Asteriacites von Schlotheim, 1820 – the oldest valid ichnogenus name – and other asterozoan-produced trace fossils",
+    "publicationDate": "2016-04-16",
+    "year": 2016,
+    "venue": "Earth-Science Reviews",
+    "citations": 28,
+    "topics": [
+      "Geological formations and processes",
+      "Underwater Acoustics Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Equinor (Norway)",
+      "Museum für Naturkunde"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2320630643",
+    "doi": "https://doi.org/10.1007/s005310100225",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Pinch-and-swell structures at the Middle/Upper Muschelkalk boundary (Triassic): evidence of earthquake effects (seismites) in the Germanic Basin",
+    "publicationDate": "2002-03-01",
+    "year": 2002,
+    "venue": "International Journal of Earth Sciences",
+    "citations": 27,
+    "topics": [
+      "Geological Studies and Exploration",
+      "Geological formations and processes",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Shell (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2899742709",
+    "doi": "https://doi.org/10.1016/j.earscirev.2018.11.001",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "The enigmatic trace fossil Tisoa de Serres, 1840",
+    "publicationDate": "2018-11-09",
+    "year": 2018,
+    "venue": "Earth-Science Reviews",
+    "citations": 21,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2327099273",
+    "doi": "https://doi.org/10.1080/10420940.2015.1132211",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5061347853",
+      "A5072846889"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "Alfred Uchman",
+      "Hans Hagdorn"
+    ],
+    "title": "The Probable Isopod Burrow<i>Sinusichnus seilacheri</i>isp. n. from the Middle Triassic of Germany: An Example of Behavioral Convergence",
+    "publicationDate": "2016-01-02",
+    "year": 2016,
+    "venue": "Ichnos/Ichnos : an international journal for plant and animal traces",
+    "citations": 19,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Equinor (Norway)",
+      "Instytut Nauk Geologicznych",
+      "Jagiellonian University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2283168331",
+    "doi": "https://doi.org/10.1016/j.palaeo.2016.01.012",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5001200230",
+      "A5100358631"
+    ],
+    "firstAuthorLastName": "Zhang",
+    "allAuthors": [
+      "Li‐Jun Zhang",
+      "Dirk Knaust",
+      "Zhao Zhao"
+    ],
+    "title": "Palaeoenvironmental and ecological interpretation of the trace fossil Rhizocorallium based on contained iron framoboids (Upper Devonian, South China)",
+    "publicationDate": "2016-01-16",
+    "year": 2016,
+    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "citations": 18,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Henan Polytechnic University",
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3185331725",
+    "doi": "https://doi.org/10.1127/pala/2021/0114",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "A microbialite with its entombed benthic community from the Middle Triassic (Anisian-Ladinian) Muschelkalk Group of Germany",
+    "publicationDate": "2021-07-20",
+    "year": 2021,
+    "venue": "Palaeontographica Abteilung A",
+    "citations": 10,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological Studies and Exploration",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4388776587",
+    "doi": "https://doi.org/10.1016/j.palaeo.2023.111913",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "The trace fossil Thalassinoides paradoxicus Kennedy, 1967 revisited from its type locality (Albian-Cenomanian chalk, SE England)",
+    "publicationDate": "2023-11-17",
+    "year": 2023,
+    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "citations": 10,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Evolutionary Biology"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3023363865",
+    "doi": "https://doi.org/10.1002/spp2.1311",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5012993174"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "René Hoffmann"
+    ],
+    "title": "The ichnogenus <i>Lumbricaria</i> Münster from the Upper Jurassic of Germany interpreted as faecal strings of ammonites",
+    "publicationDate": "2020-05-05",
+    "year": 2020,
+    "venue": "Papers in Palaeontology",
+    "citations": 9,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Paleontology and Evolutionary Biology"
+    ],
+    "institutions": [
+      "Equinor (Norway)",
+      "Ruhr University Bochum"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3124968926",
+    "doi": "https://doi.org/10.1016/j.palaeo.2021.110249",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5008950107",
+      "A5055964434",
+      "A5060433460",
+      "A5100626851"
+    ],
+    "firstAuthorLastName": "Hu",
+    "allAuthors": [
+      "Yazhou Hu",
+      "Dirk Knaust",
+      "Yue Liang",
+      "Lars E. Holmer",
+      "Zhifei Zhang"
+    ],
+    "title": "Burrows filled with faecal pellets from the Cambrian (Stage 4) Guanshan biota of South China and their palaeoecological implications",
+    "publicationDate": "2021-01-26",
+    "year": 2021,
+    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "citations": 9,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "State Key Laboratory of Continental Dynamics",
+      "Northwest University",
+      "Equinor (Norway)",
+      "Uppsala University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4375845990",
+    "doi": "https://doi.org/10.1002/spp2.1491",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5082408066",
+      "A5063616506"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "A. V. Dronov",
+      "Ursula Toom"
+    ],
+    "title": "Two almost‐forgotten <i>Trypanites</i> ichnospecies names for the most common Palaeozoic macroboring",
+    "publicationDate": "2023-05-01",
+    "year": 2023,
+    "venue": "Papers in Palaeontology",
+    "citations": 7,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Paleontology and Evolutionary Biology"
+    ],
+    "institutions": [
+      "Equinor (Norway)",
+      "Institute of the Earth’s Crust",
+      "Russian Academy of Sciences",
+      "Tallinn University of Technology"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4404321961",
+    "doi": "https://doi.org/10.1016/j.earscirev.2024.104988",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "The ichnogenus Ophiomorpha : Taxonomy and environmental distribution",
+    "publicationDate": "2024-11-13",
+    "year": 2024,
+    "venue": "Earth-Science Reviews",
+    "citations": 5,
+    "topics": [
+      "Geological formations and processes",
+      "Coastal wetland ecosystem dynamics",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W1445124937",
+    "doi": "https://doi.org/10.1016/b978-044452949-7/50157-1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Meiobenthic Trace Fossils as Keys to the Taphonomic History of Shallow-Marine Epicontinental Carbonates",
+    "publicationDate": "2007-01-01",
+    "year": 2007,
+    "venue": "Elsevier eBooks",
+    "citations": 24,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3176859495",
+    "doi": "https://doi.org/10.1007/s12549-021-00493-0",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5043291377",
+      "A5069449072",
+      "A5016532264",
+      "A5045438130"
+    ],
+    "firstAuthorLastName": "Bayet‐Goll",
+    "allAuthors": [
+      "Aram Bayet‐Goll",
+      "Dirk Knaust",
+      "Mehdi Daraei",
+      "Nasrin Bahrami",
+      "Farzaneh Bagheri"
+    ],
+    "title": "Rosselia ichnofabrics from the Lower Ordovician of the Alborz Mountains (northern Iran): palaeoecology, palaeobiology and sedimentology",
+    "publicationDate": "2021-06-24",
+    "year": 2021,
+    "venue": "Palaeobiodiversity and Palaeoenvironments",
+    "citations": 13,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Institute for Advanced Studies in Basic Sciences",
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2807993147",
+    "doi": "https://doi.org/10.1007/s12542-018-0413-9",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Teichichnus zigzag Frey and Bromley, 1985: a probable echiuran or holothurian burrow from the Jurassic offshore Norway",
+    "publicationDate": "2018-06-12",
+    "year": 2018,
+    "venue": "Paläontologische Zeitschrift",
+    "citations": 11,
+    "topics": [
+      "Geological formations and processes",
+      "Methane Hydrates and Related Phenomena",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3213121632",
+    "doi": "https://doi.org/10.1007/s12542-021-00583-6",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5041231572",
+      "A5035695720"
+    ],
+    "firstAuthorLastName": "Stachacz",
+    "allAuthors": [
+      "Michał Stachacz",
+      "Dirk Knaust",
+      "Michał Matysik"
+    ],
+    "title": "Middle Triassic bivalve traces from central Europe (Muschelkalk, Anisian): overlooked burrows of a common ichnofabric",
+    "publicationDate": "2021-11-09",
+    "year": 2021,
+    "venue": "Paläontologische Zeitschrift",
+    "citations": 11,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Instytut Nauk Geologicznych",
+      "Jagiellonian University",
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4288809012",
+    "doi": "https://doi.org/10.1016/j.gr.2022.07.009",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Who were the tracemakers of Protovirgularia – Molluscs, arthropods, or annelids?",
+    "publicationDate": "2022-07-30",
+    "year": 2022,
+    "venue": "Gondwana Research",
+    "citations": 11,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2792460260",
+    "doi": "https://doi.org/10.1111/let.12272",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5049147454"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "Nicholas J. Minter"
+    ],
+    "title": "The fish swimming trace <i>Undichna unisulca</i> from the Silurian of Sweden: probably the oldest vertebrate locomotion trace fossil",
+    "publicationDate": "2018-05-08",
+    "year": 2018,
+    "venue": "Lethaia",
+    "citations": 9,
+    "topics": [
+      "Paleontology and Evolutionary Biology",
+      "Paleontology and Stratigraphy of Fossils",
+      "Ichthyology and Marine Biology"
+    ],
+    "institutions": [
+      "Equinor (Norway)",
+      "University of Portsmouth"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3210438345",
+    "doi": "https://doi.org/10.1016/j.palaeo.2021.110732",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5035695720",
+      "A5041231572",
+      "A5068579961"
+    ],
+    "firstAuthorLastName": "Matysik",
+    "allAuthors": [
+      "Michał Matysik",
+      "Michał Stachacz",
+      "Dirk Knaust",
+      "Martin J. Whitehouse"
+    ],
+    "title": "Geochemistry, ichnology, and sedimentology of omission levels in Middle Triassic (Muschelkalk) platform carbonates of the Germanic Basin (southern Poland)",
+    "publicationDate": "2021-10-29",
+    "year": 2021,
+    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "citations": 7,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "Instytut Nauk Geologicznych",
+      "Jagiellonian University",
+      "Equinor (Norway)",
+      "Swedish Museum of Natural History"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2529550218",
+    "doi": "https://doi.org/10.14241/asgp.2015.031",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Trace fossils from the continental Upper Triassic Kågeröd Formation of Bornholm, Denmark",
+    "publicationDate": "2015-01-01",
+    "year": 2015,
+    "venue": "Annales Societatis Geologorum Poloniae/Rocznik Polskiego Towarzystwa Geologicznego",
+    "citations": 6,
+    "topics": [
+      "Geological formations and processes",
+      "Geological and Geophysical Studies",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3117208990",
+    "doi": "https://doi.org/10.1111/let.12417",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Foraging flatworms and roundworms caught in the act: examples from a Middle Triassic mud flat in Germany",
+    "publicationDate": "2020-12-25",
+    "year": 2020,
+    "venue": "Lethaia",
+    "citations": 6,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Marine and coastal plant biology",
+      "Marine Biology and Ecology Research"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2910552908",
+    "doi": "https://doi.org/10.1080/10420940.2018.1532901",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "The Fish Trail <i>Undichna quadrisulcata</i> isp. nov. from the Eocene of Spitsbergen",
+    "publicationDate": "2019-01-17",
+    "year": 2019,
+    "venue": "Ichnos/Ichnos : an international journal for plant and animal traces",
+    "citations": 5,
+    "topics": [
+      "Geological formations and processes",
+      "Subterranean biodiversity and taxonomy",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4310253155",
+    "doi": "https://doi.org/10.1016/j.sedgeo.2022.106302",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5008950107",
+      "A5083524770",
+      "A5020719486",
+      "A5010784318",
+      "A5100626851"
+    ],
+    "firstAuthorLastName": "Hu",
+    "allAuthors": [
+      "Yazhou Hu",
+      "Luke C. Strotz",
+      "Dirk Knaust",
+      "Jiayue Wang",
+      "Yue Liang",
+      "Zhifei Zhang"
+    ],
+    "title": "Distinguishing borings and burrows in intraclasts: Evidence from the Cambrian (Furongian) of North China",
+    "publicationDate": "2022-11-28",
+    "year": 2022,
+    "venue": "Sedimentary Geology",
+    "citations": 4,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "State Key Laboratory of Continental Dynamics",
+      "Northwest University",
+      "Equinor (Norway)",
+      "Uppsala University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4380204157",
+    "doi": "https://doi.org/10.3176/earth.2023.48",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5063616506",
+      "A5072087364"
+    ],
+    "firstAuthorLastName": "Toom",
+    "allAuthors": [
+      "Ursula Toom",
+      "Jukka Kuva",
+      "Dirk Knaust"
+    ],
+    "title": "Ichnogenus Trypanites in the Ordovician of Estonia (Baltica)",
+    "publicationDate": "2023-06-10",
+    "year": 2023,
+    "venue": "Proceedings of the Estonian Academy of Sciences Geology",
+    "citations": 3,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": [
+      "Geological Survey of Finland",
+      "Equinor (Norway)",
+      "Tallinn University of Technology"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4385545744",
+    "doi": "https://doi.org/10.1016/j.earscirev.2023.104511",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "The multifaceted ichnogenus Protovirgularia : Taxonomy, producers and environments",
+    "publicationDate": "2023-08-03",
+    "year": 2023,
+    "venue": "Earth-Science Reviews",
+    "citations": 3,
+    "topics": [
+      "Geological formations and processes",
+      "Geological and Geophysical Studies",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4396849210",
+    "doi": "https://doi.org/10.1017/njg.2024.6",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5037775386"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "Hilmar H. Schnick"
+    ],
+    "title": "Trace fossils from the Maastrichtian chalk of the Isle of Rügen, north-east Germany",
+    "publicationDate": "2024-01-01",
+    "year": 2024,
+    "venue": "Netherlands Journal of Geosciences – Geologie en Mijnbouw",
+    "citations": 2,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2029409632",
+    "doi": "https://doi.org/10.1016/j.palaeo.2009.12.007",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Meiobenthic trace fossils comprising a miniature ichnofabric from Late Permian carbonates of the Oman Mountains",
+    "publicationDate": "2009-12-29",
+    "year": 2009,
+    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "citations": 18,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2175799887",
+    "doi": "https://doi.org/10.1666/0022-3360(2002)076<0882:ipfr>2.0.co;2",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "ICHNOGENUS PHOLEUS FIEGE, 1944, REVISITED",
+    "publicationDate": "2002-01-01",
+    "year": 2002,
+    "venue": "Journal of Paleontology",
+    "citations": 17,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Shell (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1976663293",
+    "doi": "https://doi.org/10.1007/bf02537449",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5028846465"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "Rolf Langbeini"
+    ],
+    "title": "Pot casts in the Upper Muschelkalk (Middle Triassic) of Weimar/Thuringia—Composition, microfabrics and diagnesis",
+    "publicationDate": "1995-12-01",
+    "year": 1995,
+    "venue": "Facies",
+    "citations": 14,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Universität Greifswald"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2056966040",
+    "doi": "https://doi.org/10.1016/s0031-0182(04)00453-5",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5066696343"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "Norbert Hauschke"
+    ],
+    "title": "Trace fossils versus pseudofossils in Lower Triassic playa deposits, Germany☆",
+    "publicationDate": "2004-12-02",
+    "year": 2004,
+    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "citations": 14,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Martin Luther University Halle-Wittenberg"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2950456369",
+    "doi": "https://doi.org/10.1007/s12542-019-00464-z",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Sulcolithos variabilis igen. et isp. nov.: grooves on firm and hard bedding surfaces",
+    "publicationDate": "2019-06-18",
+    "year": 2019,
+    "venue": "Paläontologische Zeitschrift",
+    "citations": 9,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Paleontology and Evolutionary Biology",
+      "Evolution and Paleontology Studies"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2556378784",
+    "doi": "https://doi.org/10.1080/10420940.2016.1244054",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5076374858",
+      "A5090834341",
+      "A5063816185",
+      "A5101520487",
+      "A5051414149",
+      "A5100390077",
+      "A5044504676",
+      "A5069271704"
+    ],
+    "firstAuthorLastName": "Xing",
+    "allAuthors": [
+      "Lida Xing",
+      "Daniel Marty",
+      "Hai‐Lu You",
+      "Daqing Li",
+      "Hendrik Klein",
+      "Dirk Knaust",
+      "Jianping Zhang",
+      "Richard T. McCrea",
+      "W. Scott Persons"
+    ],
+    "title": "Complex In-Substrate Dinosaur (Sauropoda, Ornithopoda) Foot Pathways Revealed by Deep Natural Track Casts from the Lower Cretaceous Xiagou and Zhonggou Formations, Gansu Province, China",
+    "publicationDate": "2016-11-10",
+    "year": 2016,
+    "venue": "Ichnos/Ichnos : an international journal for plant and animal traces",
+    "citations": 8,
+    "topics": [
+      "Paleontology and Evolutionary Biology",
+      "Ichthyology and Marine Biology",
+      "Evolution and Paleontology Studies"
+    ],
+    "institutions": [
+      "China University of Geosciences (Beijing)",
+      "Natural History Museum of Basel",
+      "Chinese Academy of Sciences",
+      "Institute of Vertebrate Paleontology and Paleoanthropology",
+      "Gansu Agricultural University",
+      "Equinor (Norway)",
+      "Peace Arch Hospital",
+      "University of Alberta"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2558948743",
+    "doi": "https://doi.org/10.2113/gscpgbull.64.3.415",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5002905928",
+      "A5069813400"
+    ],
+    "firstAuthorLastName": "Li-ya",
+    "allAuthors": [
+      "Zhang Li-ya",
+      "Luís A. Buatois",
+      "Dirk Knaust"
+    ],
+    "title": "Sedimentology, ichnology and sequence stratigraphy of the Upper Devonian–Lower Mississippian Bakken Formation in eastern Saskatchewan",
+    "publicationDate": "2016-09-01",
+    "year": 2016,
+    "venue": "Bulletin of Canadian Petroleum Geology",
+    "citations": 6,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2994946466",
+    "doi": "https://doi.org/10.1007/s12542-019-00506-6",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Rhizocorallites Müller, 1955 from the Triassic and Jurassic of Germany: burrow, coprolite, or cololite?",
+    "publicationDate": "2019-12-16",
+    "year": 2019,
+    "venue": "Paläontologische Zeitschrift",
+    "citations": 6,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Echinoderm biology and ecology",
+      "Marine and coastal plant biology"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4233570923",
+    "doi": "https://doi.org/10.1016/j.palaeo.2004.08.005",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5066696343"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "Norbert Hauschke"
+    ],
+    "title": "Trace fossils versus pseudofossils in Lower Triassic playa deposits, Germany",
+    "publicationDate": "2004-10-12",
+    "year": 2004,
+    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "citations": 6,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Martin Luther University Halle-Wittenberg"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2586204975",
+    "doi": "https://doi.org/10.1007/s12542-017-0335-y",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5013751176",
+      "A5007762069",
+      "A5019802773"
+    ],
+    "firstAuthorLastName": "Wisshak",
+    "allAuthors": [
+      "Max Wisshak",
+      "Christian Neumann",
+      "Dirk Knaust",
+      "Mike Reich"
+    ],
+    "title": "Rediscovery of type material of the bioerosional trace fossil Talpina von Hagenow, 1840 and its ichnotaxonomic implications",
+    "publicationDate": "2017-02-11",
+    "year": 2017,
+    "venue": "Paläontologische Zeitschrift",
+    "citations": 5,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Paleontology and Evolutionary Biology"
+    ],
+    "institutions": [
+      "Senckenberg am Meer",
+      "Museum für Naturkunde",
+      "Equinor (Norway)",
+      "Bavarian State Collection of Zoology"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4247792086",
+    "doi": "https://doi.org/10.1016/b978-0-12-409548-9.12051-2",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Ichnofabric",
+    "publicationDate": "2019-11-25",
+    "year": 2019,
+    "venue": "Elsevier eBooks",
+    "citations": 5,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2313401755",
+    "doi": "https://doi.org/10.1080/10420940.2015.1132214",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5012993174",
+      "A5054167438"
+    ],
+    "firstAuthorLastName": "Hoffmann",
+    "allAuthors": [
+      "René Hoffmann",
+      "Gunther Grimmberger",
+      "Dirk Knaust"
+    ],
+    "title": "<i>Tubichnus angulatus</i>- A Complex Burrow System from Erratic Boulders of Early Cambrian Age, Northeast Germany and South Sweden",
+    "publicationDate": "2016-01-02",
+    "year": 2016,
+    "venue": "Ichnos/Ichnos : an international journal for plant and animal traces",
+    "citations": 4,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Ruhr University Bochum",
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3045558158",
+    "doi": "https://doi.org/10.2110/jsr.2020.37",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5016316987",
+      "A5067749186",
+      "A5089509070"
+    ],
+    "firstAuthorLastName": "Blinkenberg",
+    "allAuthors": [
+      "Kasper H. Blinkenberg",
+      "Bodil W. Lauridsen",
+      "Dirk Knaust",
+      "Lars Stemmerik"
+    ],
+    "title": "New ichnofabrics of the Cenomanian–Danian Chalk Group",
+    "publicationDate": "2020-07-15",
+    "year": 2020,
+    "venue": "Journal of Sedimentary Research",
+    "citations": 3,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "University of Copenhagen",
+      "Geological Survey of Denmark and Greenland",
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4404386899",
+    "doi": "https://doi.org/10.1016/j.palaeo.2024.112604",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5032297330",
+      "A5114652490",
+      "A5021355737",
+      "A5064726696",
+      "A5075877283",
+      "A5023140085",
+      "A5033809288"
+    ],
+    "firstAuthorLastName": "Sedorko",
+    "allAuthors": [
+      "Daniel Sedorko",
+      "Dirk Knaust",
+      "Marcelo Nery",
+      "Gabriel E. B. de Barros",
+      "Victor Rodrigues Ribeiro",
+      "Felipe Nascimento Sousa",
+      "Renato Pirani Ghilardi",
+      "Leonardo Borghi"
+    ],
+    "title": "Skolithos piperock from the Lower Devonian storm beds",
+    "publicationDate": "2024-11-14",
+    "year": 2024,
+    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "citations": 3,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4233400311",
+    "doi": "https://doi.org/10.1017/s0022336000037549",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Ichnogenus<i>Pholeus</i>Fiege, 1944, revisited",
+    "publicationDate": "2002-09-01",
+    "year": 2002,
+    "venue": "Journal of Paleontology",
+    "citations": 2,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Shell (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4389829158",
+    "doi": "https://doi.org/10.1007/s12549-023-00594-y",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5103165750",
+      "A5093512438",
+      "A5033147795",
+      "A5031196190",
+      "A5011160187"
+    ],
+    "firstAuthorLastName": "Nemra",
+    "allAuthors": [
+      "Abdelkrim Nemra",
+      "Jugurtha Tellal",
+      "Dirk Knaust",
+      "Mohamed Bendella",
+      "Salim Belkhedim",
+      "Abdelkader Ouali Mehadji"
+    ],
+    "title": "Middle Miocene trace fossils from the Tenes area (NW Algeria) and their palaeoenvironmental implications",
+    "publicationDate": "2023-12-16",
+    "year": 2023,
+    "venue": "Palaeobiodiversity and Palaeoenvironments",
+    "citations": 2,
+    "topics": [
+      "Geological and Geophysical Studies Worldwide",
+      "Geology and Paleoclimatology Research",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "University of Sciences and Technology Houari Boumediene",
+      "Equinor (Norway)",
+      "Université d'Oran 2"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2624584125",
+    "doi": "https://doi.org/10.1007/978-3-319-49837-9_5",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Selected Trace Fossils in Core and Outcrop",
+    "publicationDate": "2017-01-01",
+    "year": 2017,
+    "venue": "",
+    "citations": 4,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2965744674",
+    "doi": "https://doi.org/10.1111/let.12347",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5034432949"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "André Desrochers"
+    ],
+    "title": "The trace fossil <i>Sinusichnus</i> from the Upper Ordovician of Anticosti Island, eastern Canada",
+    "publicationDate": "2019-08-06",
+    "year": 2019,
+    "venue": "Lethaia",
+    "citations": 4,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": [
+      "Equinor (Norway)",
+      "University of Ottawa"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4251775800",
+    "doi": "https://doi.org/10.1007/978-3-319-49837-9_1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Introduction",
+    "publicationDate": "2017-01-01",
+    "year": 2017,
+    "venue": "",
+    "citations": 4,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3107653007",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2020.104841",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5088324521"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "Silvan Hoth"
+    ],
+    "title": "Bay-head deltas as hydrocarbon reservoirs: The Middle Jurassic Hugin Formation in Block 15/3 of the South Viking Graben, Norway",
+    "publicationDate": "2020-11-27",
+    "year": 2020,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 3,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4214871981",
+    "doi": "https://doi.org/10.1016/j.pgeola.2022.01.004",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Thomas Webster's Tulip Alcyonium (Lamellaecylindrica, trace fossil) in the Upper Greensand Formation (Albian) of the Isle of Wight",
+    "publicationDate": "2022-03-02",
+    "year": 2022,
+    "venue": "Proceedings of the Geologists Association",
+    "citations": 3,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4200105736",
+    "doi": "https://doi.org/10.1080/10420940.2021.2017921",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5083075382"
+    ],
+    "firstAuthorLastName": "Moosavizadeh",
+    "allAuthors": [
+      "Seyed Mohammad Ali Moosavizadeh",
+      "Dirk Knaust"
+    ],
+    "title": "The trace fossil<i>Gyrolithes lorcaensis</i>from the Lower Cretaceous of the Kopet-Dagh Basin, NE Iran",
+    "publicationDate": "2021-12-30",
+    "year": 2021,
+    "venue": "Ichnos/Ichnos : an international journal for plant and animal traces",
+    "citations": 2,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Yazd University",
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4283360911",
+    "doi": "https://doi.org/10.1127/njgpa/2022/1069",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5041413559"
+    ],
+    "firstAuthorLastName": "Costamagna",
+    "allAuthors": [
+      "Luca Giacomo Costamagna",
+      "Dirk Knaust"
+    ],
+    "title": "Early Permian playa deposits of Sardinia, Italy, with reference to their ichnofauna",
+    "publicationDate": "2022-06-23",
+    "year": 2022,
+    "venue": "Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen",
+    "citations": 1,
+    "topics": [
+      "Geological formations and processes",
+      "Maritime and Coastal Archaeology"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4403472756",
+    "doi": "https://doi.org/10.18261/let.57.3.8",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "The largest complex burrow system from the early Cambrian of Sweden, probably made by priapulids in response to tidal currents",
+    "publicationDate": "2024-09-04",
+    "year": 2024,
+    "venue": "Lethaia",
+    "citations": 1,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2569255394",
+    "doi": "https://doi.org/10.21805/bzn.v71i3.a11",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Case 3662<i>Siphonichnus Stanistreet</i>, le Blanc Smith &amp; Cadle, 1980 (trace fossil): proposed conservation by granting precedence over the senior subjective synonym<i>Opthalmichnium</i>Pfeiffer, 1968",
+    "publicationDate": "2014-09-01",
+    "year": 2014,
+    "venue": "The Bulletin of zoological nomenclature",
+    "citations": 3,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3126106554",
+    "doi": "https://doi.org/10.1177/0959683620988046",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5006839466"
+    ],
+    "firstAuthorLastName": "Smelror",
+    "allAuthors": [
+      "Morten Smelror",
+      "Dirk Knaust"
+    ],
+    "title": "Trace fossils and palynomorphs in Holocene calcareous concretions from Lake Selbusjøen, Mid-Norway: Post-glacial environmental records",
+    "publicationDate": "2021-01-17",
+    "year": 2021,
+    "venue": "The Holocene",
+    "citations": 2,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Geological Survey of Norway",
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2623247470",
+    "doi": "https://doi.org/10.1007/978-3-319-49837-9_4",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Methodology in Ichnological Core Logging",
+    "publicationDate": "2017-01-01",
+    "year": 2017,
+    "venue": "",
+    "citations": 1,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Seismic Imaging and Inversion Techniques"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4321503015",
+    "doi": "https://doi.org/10.1016/j.pgeola.2022.11.003",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Ichnological evidence of marine incursions in the lacustrine–palustrine Bembridge Limestone Formation (Eocene), Isle of Wight, southern England",
+    "publicationDate": "2023-02-22",
+    "year": 2023,
+    "venue": "Proceedings of the Geologists Association",
+    "citations": 1,
+    "topics": [
+      "Geological formations and processes",
+      "Paleontology and Evolutionary Biology",
+      "Ichthyology and Marine Biology"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W79592936",
+    "doi": "https://doi.org/10.1007/978-94-017-8721-5_16",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Burrows and Related Traces in Snow and Vegetation Produced by the Norwegian Lemming (Lemmus lemmus)",
+    "publicationDate": "2014-01-01",
+    "year": 2014,
+    "venue": "Topics in geobiology",
+    "citations": 1,
+    "topics": [
+      "Animal Ecology and Behavior Studies",
+      "Evolution and Paleontology Studies",
+      "Ecology and Vegetation Dynamics Studies"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4245173972",
+    "doi": "https://doi.org/10.1016/b978-0-444-53813-0.09987-1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5108818740"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "Richard G. Bromley"
+    ],
+    "title": "Preface",
+    "publicationDate": "2012-01-01",
+    "year": 2012,
+    "venue": "Developments in sedimentology",
+    "citations": 2,
+    "topics": [],
+    "institutions": [
+      "University of Stavanger"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4380270079",
+    "doi": "https://doi.org/10.3176/earth.2023.44",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5101668666",
+      "A5083524770",
+      "A5100358501",
+      "A5055964434",
+      "A5100626851"
+    ],
+    "firstAuthorLastName": "Hu",
+    "allAuthors": [
+      "Yazhou Hu",
+      "Luke C. Strotz",
+      "Dirk Knaust",
+      "Jiayue Wang",
+      "Yue Liang",
+      "Ziliang Zhang"
+    ],
+    "title": "Distinguishing borings and burrows in intraclasts",
+    "publicationDate": "2023-06-11",
+    "year": 2023,
+    "venue": "Proceedings of the Estonian Academy of Sciences Geology",
+    "citations": 1,
+    "topics": [],
+    "institutions": [
+      "State Key Laboratory of Continental Dynamics",
+      "Northwest University",
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1994366834",
+    "doi": "https://doi.org/10.3997/2214-4609.20144063",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Importance of Trace Fossils and Bioturbation in Carbonate Reservoir Characterization and Reservoir Quality: Examples from the Khuff Formation",
+    "publicationDate": "2011-11-28",
+    "year": 2011,
+    "venue": "Proceedings",
+    "citations": 0,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2592528598",
+    "doi": "https://doi.org/10.1016/j.earscirev.2017.02.005",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5007762069"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "Christian Neumann"
+    ],
+    "title": "Corrigendum to “Asteriacites von Schlotheim, 1820 – the oldest valid ichnogenus name – and other asterozoan-produced trace fossils” [Earth Sci. Rev. 157 (2016) 111–120]",
+    "publicationDate": "2017-03-01",
+    "year": 2017,
+    "venue": "Earth-Science Reviews",
+    "citations": 0,
+    "topics": [
+      "Marine and environmental studies",
+      "Geological formations and processes",
+      "Methane Hydrates and Related Phenomena"
+    ],
+    "institutions": [
+      "Equinor (Norway)",
+      "Museum für Naturkunde"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2621978939",
+    "doi": "https://doi.org/10.1007/978-3-319-49837-9_3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Applications of Trace-Fossil Analysis",
+    "publicationDate": "2017-01-01",
+    "year": 2017,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological formations and processes",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2624479552",
+    "doi": "https://doi.org/10.1007/978-3-319-49837-9_2",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Ichnological Basics, Principles and Concepts",
+    "publicationDate": "2017-01-01",
+    "year": 2017,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3046646601",
+    "doi": "https://doi.org/10.1127/zdgg/148/1997/51",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Triassic indicator boulders in the Pleistocene glaciation area of Northeast Germany and their relation to the Kågerød Formation of Bornholm (Denmark).",
+    "publicationDate": "1997-06-06",
+    "year": 1997,
+    "venue": "Zeitschrift der Deutschen Geologischen Gesellschaft",
+    "citations": 0,
+    "topics": [
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3171007752",
+    "doi": "https://doi.org/10.1002/spp2.1371",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5012993174"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "René Hoffmann"
+    ],
+    "title": "Response to Comment on: The ichnogenus <i>Lumbr</i><i>icaria</i> Münster from the Upper Jurassic of Germany interpreted as faecal strings of ammonites",
+    "publicationDate": "2021-06-11",
+    "year": 2021,
+    "venue": "Papers in Palaeontology",
+    "citations": 0,
+    "topics": [
+      "Echinoderm biology and ecology",
+      "Marine and coastal plant biology",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Equinor (Norway)",
+      "Ruhr University Bochum"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3202168139",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Atlas of Trace Fossils in Well Core by Dirk Knaust Science & Nature",
+    "publicationDate": "2017-03-15",
+    "year": 2017,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geochemistry and Geologic Mapping",
+      "Reservoir Engineering and Simulation Methods"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4246912569",
+    "doi": "https://doi.org/10.1016/b978-0-444-53813-0.09988-3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Dedication",
+    "publicationDate": "2012-01-01",
+    "year": 2012,
+    "venue": "Developments in sedimentology",
+    "citations": 0,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4248713286",
+    "doi": "https://doi.org/10.1016/b978-044452949-7/50125-x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5041726275",
+      "A5005081494",
+      "A5067003375",
+      "A5080315848",
+      "A5108818740",
+      "A5069813400",
+      "A5111691340",
+      "A5012250410",
+      "A5012033712",
+      "A5024192623",
+      "A5056640152",
+      "A5090277898",
+      "A5108673424",
+      "A5110130149",
+      "A5060296102",
+      "A5071875690",
+      "A5070017803",
+      "A5108654607",
+      "A5016163011",
+      "A5010428004",
+      "A5040064663",
+      "A5017952950",
+      "A5111713410",
+      "A5068894007",
+      "A5087149059",
+      "A5085483998",
+      "A5044121558",
+      "A5088179124",
+      "A5083600826",
+      "A5014353622",
+      "A5078376177",
+      "A5049301903",
+      "A5006302282",
+      "A5114002979",
+      "A5038005055",
+      "A5111638531",
+      "A5028559052",
+      "A5111738454",
+      "A5038819105",
+      "A5046217972",
+      "A5065718196",
+      "A5057621140",
+      "A5068976315",
+      "A5010465352",
+      "A5002836090",
+      "A5015684691",
+      "A5061347853",
+      "A5108248669",
+      "A5045926332",
+      "A5109239247",
+      "A5103432149",
+      "A5041973369",
+      "A5013751176"
+    ],
+    "firstAuthorLastName": "Bann",
+    "allAuthors": [
+      "Kerrie L. Bann",
+      "Markus Bertling",
+      "Arnaud Botquelen",
+      "Bernard P. Boudreau",
+      "Richard G. Bromley",
+      "Luís A. Buatois",
+      "Gerhard C. Cadée",
+      "H. Allen Curran",
+      "L T Dafoe",
+      "Timothy M. Demko",
+      "Kelly M. Dorgan",
+      "A.A. Ekdale",
+      "Michael J. Everhart",
+      "Christian Gaillard",
+      "Marcos Gektidis",
+      "Murray K. Gingras",
+      "Ingrid Glaub",
+      "Roland Goldring",
+      "Stjepko Golubić",
+      "Stephen T. Hasiotis",
+      "Daniel I. Hembree",
+      "Bruce D. Johnson",
+      "Peter A. Jumars",
+      "Dirk Knaust",
+      "Nobuhiro Kotake",
+      "Karen A. Koy",
+      "Mary J. Kraus",
+      "David B. Loope",
+      "Ludvig Löwemark",
+      "James A. MacEachern",
+      "R B MacNaughton",
+      "M. Gabriela Mángano",
+      "Anthony J. Martin",
+      "Lawrence M. Mayer",
+      "Molly F. Miller",
+      "William H. Miller",
+      "J. R. Morrow",
+      "Davide Olivero",
+      "S. George Pemberton",
+      "Brian F. Platt",
+      "Roy E. Plotnick",
+      "John E. Pollard",
+      "Gudrun Radtke",
+      "Andrew K. Rindsberg",
+      "Charles E. Savrda",
+      "Russell S. Shapiro",
+      "Leif Tapanila",
+      "Alfred Uchman",
+      "Klaus Vogel",
+      "Sally E. Walker",
+      "Dixie West",
+      "David S. White",
+      "Mark A. Wilson",
+      "Max Wisshak"
+    ],
+    "title": "Contributors",
+    "publicationDate": "2007-01-01",
+    "year": 2007,
+    "venue": "Elsevier eBooks",
+    "citations": 0,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4252700869",
+    "doi": "https://doi.org/10.1016/b978-0-444-53813-0.09989-5",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5108818740"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "Richard G. Bromley"
+    ],
+    "title": "Epilogue",
+    "publicationDate": "2012-01-01",
+    "year": 2012,
+    "venue": "Developments in sedimentology",
+    "citations": 0,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4280617832",
+    "doi": "https://doi.org/10.1080/10420940.2022.2057481",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5013751176",
+      "A5023768669",
+      "A5068976315"
+    ],
+    "firstAuthorLastName": "Wisshak",
+    "allAuthors": [
+      "Max Wisshak",
+      "Dirk Knaust",
+      "Lothar H. Vallon",
+      "Andrew K. Rindsberg"
+    ],
+    "title": "Defining and refining principles in ichnotaxonomy: Markus Bertling (1959–2022)",
+    "publicationDate": "2022-04-03",
+    "year": 2022,
+    "venue": "Ichnos/Ichnos : an international journal for plant and animal traces",
+    "citations": 0,
+    "topics": [
+      "Language, Metaphor, and Cognition",
+      "Visual Culture and Art Theory"
+    ],
+    "institutions": [
+      "Senckenberg am Meer",
+      "Equinor (Norway)",
+      "Moesgaard Museum",
+      "University of West Alabama"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4386741411",
+    "doi": "https://doi.org/10.1080/10420940.2023.2258264",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5077639659",
+      "A5062734840"
+    ],
+    "firstAuthorLastName": "Poschmann",
+    "allAuthors": [
+      "Markus Poschmann",
+      "Dirk Knaust",
+      "Thomas Schindler"
+    ],
+    "title": "New records of <i>Ctenopholeus</i> in the early Devonian Hunsrück Slate of Bundenbach, SW Germany",
+    "publicationDate": "2023-04-03",
+    "year": 2023,
+    "venue": "Ichnos/Ichnos : an international journal for plant and animal traces",
+    "citations": 0,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Generaldirektion Kulturelles Erbe Rheinland-Pfalz",
+      "Equinor (Norway)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4393449364",
+    "doi": "https://doi.org/10.5281/zenodo.7382400",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5008950107",
+      "A5109698097",
+      "A5110747482",
+      "A5055964434",
+      "A5021762729",
+      "A5100626851"
+    ],
+    "firstAuthorLastName": "Hu",
+    "allAuthors": [
+      "Yazhou Hu",
+      "P. Topper Timothy",
+      "Christina Luke",
+      "Dirk Knaust",
+      "Yue Liang",
+      "Rao Fu",
+      "Zhifei Zhang"
+    ],
+    "title": "The stable isotope data, and statistic of percentage of bioturbation and their halo from early Cambrian carbonate, North China",
+    "publicationDate": "2022-04-29",
+    "year": 2022,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Isotope Analysis in Ecology"
+    ],
+    "institutions": [
+      "Equinor (United Kingdom)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4393462077",
+    "doi": "https://doi.org/10.5281/zenodo.6503688",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5008950107",
+      "A5109698097",
+      "A5110747482",
+      "A5055964434",
+      "A5021762729",
+      "A5100626851"
+    ],
+    "firstAuthorLastName": "Hu",
+    "allAuthors": [
+      "Yazhou Hu",
+      "P. Topper Timothy",
+      "Christina Luke",
+      "Dirk Knaust",
+      "Yue Liang",
+      "Rao Fu",
+      "Zhifei Zhang"
+    ],
+    "title": "The stable isotope data, and statistic of percentage of bioturbation and their halo from early Cambrian carbonate, North China",
+    "publicationDate": "2022-04-29",
+    "year": 2022,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Isotope Analysis in Ecology"
+    ],
+    "institutions": [
+      "Equinor (United Kingdom)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4393585581",
+    "doi": "https://doi.org/10.5281/zenodo.6503689",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5008950107",
+      "A5109698097",
+      "A5110747482",
+      "A5055964434",
+      "A5021762729",
+      "A5100626851"
+    ],
+    "firstAuthorLastName": "Hu",
+    "allAuthors": [
+      "Yazhou Hu",
+      "P. Topper Timothy",
+      "Christina Luke",
+      "Dirk Knaust",
+      "Yue Liang",
+      "Rao Fu",
+      "Zhifei Zhang"
+    ],
+    "title": "The stable isotope data, and statistic of percentage of bioturbation and their halo from early Cambrian carbonate, North China",
+    "publicationDate": "2022-04-29",
+    "year": 2022,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Isotope Analysis in Ecology"
+    ],
+    "institutions": [
+      "Equinor (United Kingdom)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4407035541",
+    "doi": "https://doi.org/10.1080/10420940.2025.2458858",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5033653533",
+      "A5012993174"
+    ],
+    "firstAuthorLastName": "Scharfenberg",
+    "allAuthors": [
+      "Franz‐Josef Scharfenberg",
+      "René Hoffmann",
+      "Dirk Knaust"
+    ],
+    "title": "3-D burrow morphology of <i>Chondrites targionii</i> (Brongniart, 1828) from an Upper Jurassic firmground of Southern Germany",
+    "publicationDate": "2025-01-31",
+    "year": 2025,
+    "venue": "Ichnos/Ichnos : an international journal for plant and animal traces",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Astro and Planetary Science",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "University of Bayreuth",
+      "Czech Academy of Sciences, Institute of Geology",
+      "Ruhr University Bochum",
+      "Equinor (United Kingdom)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4409333334",
+    "doi": "https://doi.org/10.1504/ijogct.2025.10070517",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5019543080",
+      "A5056064206",
+      "A5020712927",
+      "A5103059967",
+      "A5101670750",
+      "A5025813810"
+    ],
+    "firstAuthorLastName": "Liu",
+    "allAuthors": [
+      "Chenglin Liu",
+      "Shuting Shi",
+      "Xiangli Shi",
+      "Zhenkui Jin",
+      "Dirk Knaust",
+      "Junlin Chen",
+      "Qiheng Guo"
+    ],
+    "title": "Seepage-induced sedimentary structures and their significance in beach bars of the Zhoushan Archipelago, China",
+    "publicationDate": "2025-01-01",
+    "year": 2025,
+    "venue": "International Journal of Oil Gas and Coal Technology",
+    "citations": 0,
+    "topics": [
+      "Coastal and Marine Dynamics",
+      "Geological formations and processes",
+      "Dam Engineering and Safety"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4410287392",
+    "doi": "https://doi.org/10.1007/s12542-025-00734-z",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Bitubulites problematicus Blumenbach, 1803 and the cradle of ichnotaxonomy in central Germany",
+    "publicationDate": "2025-05-12",
+    "year": 2025,
+    "venue": "Paläontologische Zeitschrift",
+    "citations": 0,
+    "topics": [
+      "Fish Ecology and Management Studies",
+      "Aquatic Invertebrate Ecology and Behavior",
+      "Genetic diversity and population structure"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4411009508",
+    "doi": "https://doi.org/10.1504/ijogct.2025.146530",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5025813810",
+      "A5101670750",
+      "A5056064206",
+      "A5020712927",
+      "A5103059967",
+      "A5019543080"
+    ],
+    "firstAuthorLastName": "Guo",
+    "allAuthors": [
+      "Qiheng Guo",
+      "Junlin Chen",
+      "Dirk Knaust",
+      "Shuting Shi",
+      "Xiangli Shi",
+      "Zhenkui Jin",
+      "Chenglin Liu"
+    ],
+    "title": "Seepage-induced sedimentary structures and their significance in beach bars of the Zhoushan Archipelago, China",
+    "publicationDate": "2025-01-01",
+    "year": 2025,
+    "venue": "International Journal of Oil Gas and Coal Technology",
+    "citations": 0,
+    "topics": [
+      "Coastal and Marine Dynamics",
+      "Geological formations and processes",
+      "Dam Engineering and Safety"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4412174859",
+    "doi": "https://doi.org/10.1007/s10347-025-00707-3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5013751176"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "Max Wisshak"
+    ],
+    "title": "Bioerosion of the upper Jurassic lithographic limestone of Solnhofen (Germany) by mycorrhizal roots during the Cenozoic karstification",
+    "publicationDate": "2025-07-10",
+    "year": 2025,
+    "venue": "Facies",
+    "citations": 0,
+    "topics": [
+      "Mycorrhizal Fungi and Plant Interactions",
+      "Plant and Fungal Species Descriptions",
+      "Plant Diversity and Evolution"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4412684415",
+    "doi": "https://doi.org/10.1017/s0016756825100113",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813",
+      "A5032834790"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust",
+      "Luís V. Duarte"
+    ],
+    "title": "The Pliensbachian at the Peniche Global Stratotype Section and Point (GSSP, Portugal) – a section full of remarkably preserved worms",
+    "publicationDate": "2025-01-01",
+    "year": 2025,
+    "venue": "Geological Magazine",
+    "citations": 0,
+    "topics": [
+      "Marine Biology and Ecology Research",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4412879343",
+    "doi": "https://doi.org/10.1016/j.palaeo.2025.113151",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Skolithos linearis from the early Palaeozoic: The burrow of a priapulid?",
+    "publicationDate": "2025-07-18",
+    "year": 2025,
+    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Paleontology and Evolutionary Biology",
+      "Evolution and Paleontology Studies"
+    ],
+    "institutions": []
+  },
+  {
     "workId": "https://openalex.org/W3147913709",
     "doi": "https://doi.org/10.1016/j.marpetgeo.2021.105058",
     "program": "",
@@ -36215,7 +39751,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-08-28",
     "year": 2023,
     "venue": "Sustainability",
-    "citations": 10,
+    "citations": 11,
     "topics": [
       "Urban Heat Island Mitigation",
       "Urban Green Space and Health",
@@ -39441,6 +42977,42 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4406712301",
+    "doi": "https://doi.org/10.31035/cg20230121",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5049605987",
+      "A5061703841",
+      "A5022797343",
+      "A5036262291",
+      "A5037236117",
+      "A5022790134"
+    ],
+    "firstAuthorLastName": "Kumar",
+    "allAuthors": [
+      "Alok Kumar",
+      "Khairul Azlan Mustapha",
+      "Alok K. Singh",
+      "Mohammed Hail Hakimi",
+      "Ali Y. Kahal",
+      "Waqas Naseem",
+      "Hijaz Kamal Hasnan"
+    ],
+    "title": "Evaluating the hydrocarbon generation potential of the Paleocene–Eocene carbonaceous rocks in the Barmer and Bikaner-Nagaur Basins, western Rajasthan, India",
+    "publicationDate": "2025-01-01",
+    "year": 2025,
+    "venue": "China Geology",
+    "citations": 2,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geophysical Studies",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": []
+  },
+  {
     "workId": "https://openalex.org/W3011173331",
     "doi": "https://doi.org/10.1007/s13146-020-00578-5",
     "program": "",
@@ -39869,42 +43441,6 @@ export const worksTable: WorkTableRecord[] = [
       "Taiz University",
       "King Saud University"
     ]
-  },
-  {
-    "workId": "https://openalex.org/W4406712301",
-    "doi": "https://doi.org/10.31035/cg20230121",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5049605987",
-      "A5061703841",
-      "A5022797343",
-      "A5036262291",
-      "A5037236117",
-      "A5022790134"
-    ],
-    "firstAuthorLastName": "Kumar",
-    "allAuthors": [
-      "Alok Kumar",
-      "Khairul Azlan Mustapha",
-      "Alok K. Singh",
-      "Mohammed Hail Hakimi",
-      "Ali Y. Kahal",
-      "Waqas Naseem",
-      "Hijaz Kamal Hasnan"
-    ],
-    "title": "Evaluating the hydrocarbon generation potential of the Paleocene–Eocene carbonaceous rocks in the Barmer and Bikaner-Nagaur Basins, western Rajasthan, India",
-    "publicationDate": "2025-01-01",
-    "year": 2025,
-    "venue": "China Geology",
-    "citations": 1,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological and Geophysical Studies",
-      "Hydraulic Fracturing and Reservoir Analysis"
-    ],
-    "institutions": []
   },
   {
     "workId": "https://openalex.org/W4407029831",
@@ -46009,6 +49545,28 @@ export const worksTable: WorkTableRecord[] = [
       "Environmental Monitoring and Data Management"
     ],
     "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W7117128083",
+    "doi": "https://doi.org/10.5281/zenodo.18027324",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5035537771",
+    "allAuthorOpenAlexIds": [
+      "A5035537771"
+    ],
+    "firstAuthorLastName": "Alqubalee",
+    "allAuthors": [
+      "Abdullah Alqubalee"
+    ],
+    "title": "Integrative Dashboard (IDB)",
+    "publicationDate": "2025-12-23",
+    "year": 2025,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "citations": 0,
+    "topics": [],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W1983794578",
@@ -75526,6 +79084,50 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4402624045",
+    "doi": "https://doi.org/10.1016/j.heliyon.2024.e38178",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5044806143",
+    "allAuthorOpenAlexIds": [
+      "A5044806143",
+      "A5101385438",
+      "A5032627421",
+      "A5009594846",
+      "A5065364709",
+      "A5099469366",
+      "A5031133582",
+      "A5102730156",
+      "A5028267023"
+    ],
+    "firstAuthorLastName": "Ali",
+    "allAuthors": [
+      "Sohag Ali",
+      "Numair Ahmed Siddiqui",
+      "AKM Eahsanul Haque",
+      "Nisar Ahmed",
+      "Mohamed A. K. El‐Ghali",
+      "Md. Yeasin Arafath",
+      "M. Julleh Jalalur Rahman",
+      "Mrinal Kanti Roy",
+      "Alidu Rashid"
+    ],
+    "title": "Heterolytic tide-dominated sedimentary facies and depositional environment: An Example from the Boka Bil formation, Sitapahar anticline, Bangladesh",
+    "publicationDate": "2024-09-01",
+    "year": 2024,
+    "venue": "Heliyon",
+    "citations": 4,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Universiti Teknologi Petronas",
+      "Sultan Qaboos University",
+      "University of Rajshahi"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4387133041",
     "doi": "https://doi.org/10.3389/feart.2023.1270795",
     "program": "",
@@ -75853,50 +79455,6 @@ export const worksTable: WorkTableRecord[] = [
       "Sultan Qaboos University",
       "Universidade Federal de Ouro Preto",
       "University of Regina"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4402624045",
-    "doi": "https://doi.org/10.1016/j.heliyon.2024.e38178",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5044806143",
-    "allAuthorOpenAlexIds": [
-      "A5044806143",
-      "A5101385438",
-      "A5032627421",
-      "A5009594846",
-      "A5065364709",
-      "A5099469366",
-      "A5031133582",
-      "A5102730156",
-      "A5028267023"
-    ],
-    "firstAuthorLastName": "Ali",
-    "allAuthors": [
-      "Sohag Ali",
-      "Numair Ahmed Siddiqui",
-      "AKM Eahsanul Haque",
-      "Nisar Ahmed",
-      "Mohamed A. K. El‐Ghali",
-      "Md. Yeasin Arafath",
-      "M. Julleh Jalalur Rahman",
-      "Mrinal Kanti Roy",
-      "Alidu Rashid"
-    ],
-    "title": "Heterolytic tide-dominated sedimentary facies and depositional environment: An Example from the Boka Bil formation, Sitapahar anticline, Bangladesh",
-    "publicationDate": "2024-09-01",
-    "year": 2024,
-    "venue": "Heliyon",
-    "citations": 3,
-    "topics": [
-      "Geological formations and processes",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological and Geophysical Studies"
-    ],
-    "institutions": [
-      "Universiti Teknologi Petronas",
-      "Sultan Qaboos University",
-      "University of Rajshahi"
     ]
   },
   {

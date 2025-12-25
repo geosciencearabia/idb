@@ -4,8 +4,17 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Wed, 24 Dec 2025 20:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 09:32:42 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Integrative Dashboard (IDB)</title>
+      <link>https://doi.org/10.5281/zenodo.18027324</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117128083</guid>
+      <dc:creator>Abdullah Alqubalee</dc:creator>
+      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
+      <description>Abstract: The latest updates include: Enhancements to the user interface. Restructuring of files for improved organization Repairing broken links Resolving mojibake issues in CSV exports.&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
     <item>
       <title>Kaolinite Illitization Under Hydrothermal Conditions: Experimental Insight into Transformation Pathways</title>
       <link>https://doi.org/10.3390/min16010004</link>
@@ -867,6 +876,19 @@
       <description>Abstract: Manual interpretation of sedimentary structures in core-based analyses is critical for understanding subsurface geology but remains time-intensive, expert-dependent, and susceptible to bias. This study investigates the use of convolutional neural networks (CNNs) to automate structure identification in core images, focusing on siliciclastic deposits from deltaic, shoreface, fluvial, and lacustrine environments. Two object detection models—YOLOv4 and Faster R-CNN—were trained on annotated datasets comprising 15 sedimentary structure types. YOLOv4 achieved high precision (up to 95%) with faster training and shorter inference times (3.2 s/image) compared to Faster R-CNN (2.5 s/image) under consistent batch size and hardware conditions. Although Faster R-CNN reached a higher mean average precision (94.44%), it exhibited lower recall, particularly for frequently occurring structures. Both models faced challenges in distinguishing morphologically similar features, such as mud drapes and bioturbated media. Performance declined slightly in tests involving previously unseen datasets (Split III), indicating limitations in generalization across varied core imagery. Despite these challenges, the results demonstrate the promise of deep learning for streamlining core interpretation, reducing manual effort, and enhancing reproducibility. This study establishes a robust framework for advancing automated facies analysis in sedimentological research and geoscientific applications.&#10;Topics: Convolutional neural network, Identification (biology), Artificial intelligence, Computer science, Siliciclastic&#10;Venue: PLoS ONE&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
+      <title>Skolithos linearis from the early Palaeozoic: The burrow of a priapulid?</title>
+      <link>https://doi.org/10.1016/j.palaeo.2025.113151</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4412879343</guid>
+      <dc:creator>Dirk Knaust</dc:creator>
+      <dc:publisher>Palaeogeography Palaeoclimatology Palaeoecology</dc:publisher>
+      <category>Burrow</category>
+      <category>Geology</category>
+      <category>Paleozoic</category>
+      <category>Paleontology</category>
+      <description>Topics: Burrow, Geology, Paleozoic, Paleontology&#10;Venue: Palaeogeography Palaeoclimatology Palaeoecology&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
+    <item>
       <title>A Novel Approach to Stimulating Tight Reservoirs Using Cyclic Thermochemical Fluids</title>
       <link>https://doi.org/10.1021/acs.energyfuels.5c02117</link>
       <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
@@ -879,6 +901,20 @@
       <category>Computer science</category>
       <category>Environmental science</category>
       <description>Topics: Tight gas, Petroleum engineering, Chemistry, Computer science, Environmental science&#10;Venue: Energy &amp; Fuels&#10;Year: 2025&#10;Citations: 1</description>
+    </item>
+    <item>
+      <title>Bioerosion of the upper Jurassic lithographic limestone of Solnhofen (Germany) by mycorrhizal roots during the Cenozoic karstification</title>
+      <link>https://doi.org/10.1007/s10347-025-00707-3</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W4412174859</guid>
+      <dc:creator>Dirk Knaust, Max Wisshak</dc:creator>
+      <dc:publisher>Facies</dc:publisher>
+      <category>Sedimentology</category>
+      <category>Geology</category>
+      <category>Cenozoic</category>
+      <category>Paleontology</category>
+      <category>Bioerosion</category>
+      <description>Topics: Sedimentology, Geology, Cenozoic, Paleontology, Bioerosion&#10;Venue: Facies&#10;Year: 2025&#10;Citations: 0</description>
     </item>
     <item>
       <title>Benthic foraminiferal diversity in the Arabian Gulf: spatial patterns in a basin-wide assessment</title>
@@ -1005,48 +1041,6 @@
       <category>Structural basin</category>
       <category>Paleontology</category>
       <description>Abstract: The Central Arabian Basin is a sedimentary basin that contains a significant number of hydrocarbon reserves. In addition, the Mesozoic succession has the most petroleum system elements. However, publicly available subsurface data for the Central Arabian Basin are scarce. Therefore, our study successfully utilizes wellbore and 2D seismic reflection data from the Central Arabian Basin to reveal the sedimentary processes, depositional environment, and evolution of Mesozoic deposits. Six horizons with onlap and truncation seismic reflection termination, hummocky, subparallel, onlap fill, and chaotic structures with recognizable stratal pattern seismic reflection configurations are interpreted. The lithologies of the Mesozoic deposits are limestone, dolomite, anhydrite, sandstone, and shales. The Mesozoic deposits in the study area were deposited in the shallow marine environment of an intrashelf basin with tidal channels, reefs and transgressive shale depositional elements. Our workflow provides an interpretation of the stratigraphic evolution and depositional environment of Mesozoic deposits in the Central Arabian Basin and could also be applied to a basin with a similar geological setting worldwide.&#10;Topics: Mesozoic, Stratigraphy, Geology, Structural basin, Paleontology&#10;Venue: Scientific Reports&#10;Year: 2025&#10;Citations: 1</description>
-    </item>
-    <item>
-      <title>Enhanced electrochemical performance and boron removal capacity of Mg-Al layered double hydroxide composite for membrane-free capacitive deionization applications</title>
-      <link>https://doi.org/10.1016/j.ceja.2025.100798</link>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4411711243</guid>
-      <dc:creator>Billel Salhi, Juliana Alabdrabalreda, Jamilu Usman, Ismail Abdulazeez, Niaz Ali Khan, Mohammed Benaafi, Nadeem Baig, Isam H. Aljundi</dc:creator>
-      <dc:publisher>Chemical Engineering Journal Advances</dc:publisher>
-      <category>Capacitive deionization</category>
-      <category>Materials science</category>
-      <category>Hydroxide</category>
-      <category>Composite number</category>
-      <category>Boron</category>
-      <description>Abstract: Water purification is significantly inhibited by the ineffective removal of boron from aqueous solutions, particularly because traditional membrane-based purification exhibits poor removal of neutral boric acid. This study investigates the efficiency of a Mg-Al layered double hydroxide electrode supported on carbon paper for boron removal by capacitive deionization (CDI). Cyclic voltammetry was used to confirm the capacitive properties of the electrode, which displayed quasi-rectangular profiles with notable reversibility and rate capability. Chronoamperometric observations revealed a voltage-dependent electrosorption activity; 1.2 V showed optimal charge storage and boron removal performance. At this voltage, the system achieved a mean deionization capacity of 2.58 mg/g, over 94 % boron removal within 20 min, and a peak charge efficiency of 79 %, accompanied by a moderate energy consumption of 0.82 kWh/m3. The system exhibited a notable pH dependence and the optimal performance at pH 11 correlated with the dominance of the negatively charged borate ion (B(OH)⁻). Increasing the pH increased the capacity and rate in the Ragone plot (mean deionization capacity vs. mean deionization rate). Although system efficiency dropped slightly to 88 % after 120 min of operation, the electrode showed remarkable cyclic stability across several charge-discharge cycles. Dynamic variations in real-time pH monitoring during CDI were observed, with an initial increase during charging, followed by…&#10;Topics: Capacitive deionization, Materials science, Hydroxide, Composite number, Boron&#10;Venue: Chemical Engineering Journal Advances&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Macroevolutionary coupling of marine biomass and biodiversity across the Phanerozoic</title>
-      <link>https://doi.org/10.1016/j.cub.2025.06.006</link>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4411625917</guid>
-      <dc:creator>Pulkit Singh, Jordan Ferré, Bridget Thrasher, Pedro M. Monarrez, Khalid Al–Ramadan, Dave L. Cantrell, Daniel J. Lehrmann, Michele Morsilli, Jonathan L. Payne</dc:creator>
-      <dc:publisher>Current Biology</dc:publisher>
-      <category>Biology</category>
-      <category>Phanerozoic</category>
-      <category>Biodiversity</category>
-      <category>Biomass (ecology)</category>
-      <category>Macroevolution</category>
-      <description>Topics: Biology, Phanerozoic, Biodiversity, Biomass (ecology), Macroevolution&#10;Venue: Current Biology&#10;Year: 2025&#10;Citations: 1</description>
-    </item>
-    <item>
-      <title>Petrogenesis and metamorphism of mafic rocks, Atlantis Massif, IODP Expedition 357: implications of two episodes of magmatism</title>
-      <link>https://doi.org/10.1144/jgs2024-200</link>
-      <pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4411577378</guid>
-      <dc:creator>Scott Whattam, Jan C.M. De Hoog, Sabyasachi Chattopadhyay, Omar Radwan, Matthew I. Leybourne</dc:creator>
-      <dc:publisher>Journal of the Geological Society</dc:publisher>
-      <category>Petrogenesis</category>
-      <category>Magmatism</category>
-      <category>Geology</category>
-      <category>Mafic</category>
-      <category>Metamorphism</category>
-      <description>Abstract: The petrogenesis and metamorphism of International Ocean Discovery Program (IODP) Expedition 357 (Atlantis Massif, Mid-Atlantic Ridge) mafic rocks is the focus of this paper. At least two phases of magmatism are identified. Later Phase I metamorphosed mafic intrusive rocks (MMIs) are moderately to extremely chloritized, recording loss on ignition (LOI) of 3.33–9.99 wt%, and latest Phase II basalts are exceptionally fresh, with LOI of 0.09–1.03 wt%. Phase I MMIs have Fe-chromite identical to Atlantis Massif serpentinites that have undergone melt-impregnation and Phase II basalt Cr-spinels are analogous to those of Atlantis Massif peridotites that have not undergone secondary melt-impregnation. Whole-rock Cr/Y relations of the Phase II basalt record melt fractions ( F ) of c . 16–25% and melt–liquid equilibria established for Phase II basalt olivine yield crystallization temperatures of 1173–1219°C similar to mid-ocean ridge basalt ( c . 1125–1290°C). Trivariant plots of Na 2 O–CaO–MgO and XRD analysis confirm extreme chloritization of the Phase I MMIs. Phase I MMI spinel is predominantly Fe-chromite that formed under amphibolite-facies conditions ( c . 500°C). Subsequent to peridotite exhumation, serpentinization and Phase I magmatism, an episode (or episodes) of asthenospheric upwelling resulted in contact metamorphism caused by Phase II magmatism.&#10;Topics: Petrogenesis, Magmatism, Geology, Mafic, Metamorphism&#10;Venue: Journal of the Geological Society&#10;Year: 2025&#10;Citations: 0</description>
     </item>
   </channel>
 </rss>
