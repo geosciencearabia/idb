@@ -98,7 +98,7 @@ const About = () => {
               Alqubalee, A. (2025a, December 12). GeoArabia Dashboard: Gaining Insights into the Geosciences of Arabia. ALQUBALEE Notes. <a className="text-primary underline" href="https://qubalee.github.io/posts/2025/12/geoarabia-dashboard/" target="_blank" rel="noreferrer">https://qubalee.github.io/posts/2025/12/geoarabia-dashboard/</a>
             </li>
             <li>
-              Alqubalee, A. (2025b). Integrative Dashboard (IDB) (v0.1.1). Zenodo. <a className="text-primary underline" href="https://doi.org/10.5281/zenodo.17918877" target="_blank" rel="noreferrer">https://doi.org/10.5281/zenodo.17918877</a>
+              Alqubalee, A. (2025b). Integrative Dashboard (IDB) (v0.2.0). Zenodo. <a className="text-primary underline" href="https://doi.org/10.5281/zenodo.18027324" target="_blank" rel="noreferrer">https://doi.org/10.5281/zenodo.18027324</a>
             </li>
               <li>
               Alqubalee, A. (2025c, April 8). WIIP: An Approach for Leveraging Geological Data Heterogeneity through Customization of Open-Source Software. ALQUBALEE Notes. <a className="text-primary underline" href="https://qubalee.github.io/posts/2025/04/wiip/" target="_blank" rel="noreferrer">https://qubalee.github.io/posts/2025/04/wiip/</a>
