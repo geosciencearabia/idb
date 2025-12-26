@@ -170,7 +170,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10398",
     "name": "Groundwater and Isotope Geochemistry",
     "publications": 68,
-    "citations": 628
+    "citations": 629
   },
   {
     "id": "https://openalex.org/T13067",
@@ -206,7 +206,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12543",
     "name": "Groundwater and Watershed Analysis",
     "publications": 41,
-    "citations": 500
+    "citations": 501
   },
   {
     "id": "https://openalex.org/T10572",
@@ -332,7 +332,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11634",
     "name": "Water Quality and Pollution Assessment",
     "publications": 18,
-    "citations": 151
+    "citations": 152
   },
   {
     "id": "https://openalex.org/T13497",
@@ -3293,7 +3293,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 755,
-    "citations": 8922
+    "citations": 8923
   },
   {
     "id": "https://openalex.org/I5681781",

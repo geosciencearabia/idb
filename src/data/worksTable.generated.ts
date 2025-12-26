@@ -46779,6 +46779,40 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4386774596",
+    "doi": "https://doi.org/10.1039/d3va00124e",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5034568196",
+    "allAuthorOpenAlexIds": [
+      "A5034568196",
+      "A5073043057",
+      "A5062007467",
+      "A5072286524",
+      "A5030371811"
+    ],
+    "firstAuthorLastName": "Baig",
+    "allAuthors": [
+      "Nadeem Baig",
+      "Sani I. Abba",
+      "Jamilu Usman",
+      "Mohammed Benaafi",
+      "Isam H. Aljundi"
+    ],
+    "title": "Ensemble hybrid machine learning to simulate dye/divalent salt fractionation using a loose nanofiltration membrane",
+    "publicationDate": "2023-01-01",
+    "year": 2023,
+    "venue": "Environmental Science Advances",
+    "citations": 20,
+    "topics": [
+      "Membrane Separation Technologies",
+      "Water Quality Monitoring Technologies",
+      "Machine Learning and ELM"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4394837151",
     "doi": "https://doi.org/10.1016/j.heliyon.2024.e29320",
     "program": "",
@@ -47011,40 +47045,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4386774596",
-    "doi": "https://doi.org/10.1039/d3va00124e",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5034568196",
-    "allAuthorOpenAlexIds": [
-      "A5034568196",
-      "A5073043057",
-      "A5062007467",
-      "A5072286524",
-      "A5030371811"
-    ],
-    "firstAuthorLastName": "Baig",
-    "allAuthors": [
-      "Nadeem Baig",
-      "Sani I. Abba",
-      "Jamilu Usman",
-      "Mohammed Benaafi",
-      "Isam H. Aljundi"
-    ],
-    "title": "Ensemble hybrid machine learning to simulate dye/divalent salt fractionation using a loose nanofiltration membrane",
-    "publicationDate": "2023-01-01",
-    "year": 2023,
-    "venue": "Environmental Science Advances",
-    "citations": 20,
-    "topics": [
-      "Membrane Separation Technologies",
-      "Water Quality Monitoring Technologies",
-      "Machine Learning and ELM"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4213328516",
     "doi": "https://doi.org/10.3390/su14042192",
     "program": "",
@@ -47237,6 +47237,44 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4386365539",
+    "doi": "https://doi.org/10.1016/j.heliyon.2023.e19784",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5034568196",
+    "allAuthorOpenAlexIds": [
+      "A5034568196",
+      "A5062007467",
+      "A5074883327",
+      "A5030121582",
+      "A5076251382",
+      "A5072286524",
+      "A5030371811"
+    ],
+    "firstAuthorLastName": "Benaafi",
+    "allAuthors": [
+      "Mohammed Benaafi",
+      "Sani I. Abba",
+      "Bassam Tawabini",
+      "Ismail Abdulazeez",
+      "Billel Salhi",
+      "Jamilu Usman",
+      "Isam H. Aljundi"
+    ],
+    "title": "Integrated clustering analysis for delineating seawater intrusion and heavy metals in Arabian Gulf Coastal groundwater of Saudi Arabia",
+    "publicationDate": "2023-09-01",
+    "year": 2023,
+    "venue": "Heliyon",
+    "citations": 12,
+    "topics": [
+      "Groundwater and Isotope Geochemistry",
+      "Groundwater and Watershed Analysis",
+      "Water Quality and Pollution Assessment"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4379878424",
     "doi": "https://doi.org/10.1016/j.jksus.2023.102749",
     "program": "",
@@ -47367,44 +47405,6 @@ export const worksTable: WorkTableRecord[] = [
       "King Fahd University of Petroleum and Minerals",
       "University of Nigeria",
       "Near East University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4386365539",
-    "doi": "https://doi.org/10.1016/j.heliyon.2023.e19784",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5034568196",
-    "allAuthorOpenAlexIds": [
-      "A5034568196",
-      "A5062007467",
-      "A5074883327",
-      "A5030121582",
-      "A5076251382",
-      "A5072286524",
-      "A5030371811"
-    ],
-    "firstAuthorLastName": "Benaafi",
-    "allAuthors": [
-      "Mohammed Benaafi",
-      "Sani I. Abba",
-      "Bassam Tawabini",
-      "Ismail Abdulazeez",
-      "Billel Salhi",
-      "Jamilu Usman",
-      "Isam H. Aljundi"
-    ],
-    "title": "Integrated clustering analysis for delineating seawater intrusion and heavy metals in Arabian Gulf Coastal groundwater of Saudi Arabia",
-    "publicationDate": "2023-09-01",
-    "year": 2023,
-    "venue": "Heliyon",
-    "citations": 11,
-    "topics": [
-      "Groundwater and Isotope Geochemistry",
-      "Groundwater and Watershed Analysis",
-      "Water Quality and Pollution Assessment"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -89706,46 +89706,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4388740406",
-    "doi": "https://doi.org/10.2139/ssrn.4635624",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5019411628",
-      "A5090128717",
-      "A5001633563",
-      "A5024022389",
-      "A5010761014",
-      "A5066504483",
-      "A5047567431"
-    ],
-    "firstAuthorLastName": "Subarkah",
-    "allAuthors": [
-      "Darwinaji Subarkah",
-      "Angus Nixon",
-      "Sarah Gilbert",
-      "Alan S. Collins",
-      "Morgan Blades",
-      "Alexander Simpson",
-      "Jarred Lloyd",
-      "Juraj Farkaš"
-    ],
-    "title": "Double Dating Sedimentary Sequences Using New Applications of In-Situ Laser Ablation Analysis",
-    "publicationDate": "2023-01-01",
-    "year": 2023,
-    "venue": "SSRN Electronic Journal",
-    "citations": 3,
-    "topics": [
-      "Geological formations and processes",
-      "Hydrocarbon exploration and reservoir analysis"
-    ],
-    "institutions": [
-      "The University of Adelaide",
-      "British Geological Survey"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4411466226",
     "doi": "https://doi.org/10.1016/j.precamres.2025.107869",
     "program": "",
@@ -90100,6 +90060,46 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "The University of Sydney"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4388740406",
+    "doi": "https://doi.org/10.2139/ssrn.4635624",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5019411628",
+      "A5090128717",
+      "A5001633563",
+      "A5024022389",
+      "A5010761014",
+      "A5066504483",
+      "A5047567431"
+    ],
+    "firstAuthorLastName": "Subarkah",
+    "allAuthors": [
+      "Darwinaji Subarkah",
+      "Angus Nixon",
+      "Sarah Gilbert",
+      "Alan S. Collins",
+      "Morgan Blades",
+      "Alexander Simpson",
+      "Jarred Lloyd",
+      "Juraj Farkaš"
+    ],
+    "title": "Double Dating Sedimentary Sequences Using New Applications of In-Situ Laser Ablation Analysis",
+    "publicationDate": "2023-01-01",
+    "year": 2023,
+    "venue": "SSRN Electronic Journal",
+    "citations": 3,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "British Geological Survey"
     ]
   },
   {
@@ -103160,42 +103160,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4389450736",
-    "doi": "https://doi.org/10.1029/2023ea003014",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054922583",
-    "allAuthorOpenAlexIds": [
-      "A5054922583",
-      "A5035410353",
-      "A5077467560",
-      "A5090360842",
-      "A5082388493"
-    ],
-    "firstAuthorLastName": "Awais",
-    "allAuthors": [
-      "Muhammad Awais",
-      "Sherif M. Hanafy",
-      "Saifullah Shafiq",
-      "Abdullatif Al‐Shuhail",
-      "Umair bin Waheed"
-    ],
-    "title": "First Break Traveltime Picking Using Unsupervised Machine Learning and Super‐Virtual Refraction Interferometry",
-    "publicationDate": "2023-12-01",
-    "year": 2023,
-    "venue": "Earth and Space Science",
-    "citations": 2,
-    "topics": [
-      "Seismology and Earthquake Studies",
-      "Seismic Imaging and Inversion Techniques",
-      "Seismic Waves and Analysis"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Queensland University of Technology",
-      "The University of Queensland"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4403343181",
     "doi": "https://doi.org/10.1093/gji/ggae363",
     "program": "",
@@ -103610,6 +103574,42 @@ export const worksTable: WorkTableRecord[] = [
       "Ankara University",
       "University of Sharjah",
       "Aristotle University of Thessaloniki"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4389450736",
+    "doi": "https://doi.org/10.1029/2023ea003014",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054922583",
+    "allAuthorOpenAlexIds": [
+      "A5054922583",
+      "A5035410353",
+      "A5077467560",
+      "A5090360842",
+      "A5082388493"
+    ],
+    "firstAuthorLastName": "Awais",
+    "allAuthors": [
+      "Muhammad Awais",
+      "Sherif M. Hanafy",
+      "Saifullah Shafiq",
+      "Abdullatif Al‐Shuhail",
+      "Umair bin Waheed"
+    ],
+    "title": "First Break Traveltime Picking Using Unsupervised Machine Learning and Super‐Virtual Refraction Interferometry",
+    "publicationDate": "2023-12-01",
+    "year": 2023,
+    "venue": "Earth and Space Science",
+    "citations": 2,
+    "topics": [
+      "Seismology and Earthquake Studies",
+      "Seismic Imaging and Inversion Techniques",
+      "Seismic Waves and Analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Queensland University of Technology",
+      "The University of Queensland"
     ]
   },
   {
