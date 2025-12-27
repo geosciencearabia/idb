@@ -10290,45 +10290,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4401750278",
-    "doi": "https://doi.org/10.1109/tgrs.2024.3448223",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5011750653",
-    "allAuthorOpenAlexIds": [
-      "A5011750653",
-      "A5088388992",
-      "A5077467560",
-      "A5040857714",
-      "A5064720324",
-      "A5107771404",
-      "A5082826691"
-    ],
-    "firstAuthorLastName": "Saraih",
-    "allAuthors": [
-      "Nabil A. Saraih",
-      "Sherif M. Hanafy",
-      "Hassan A. Eltom",
-      "Ammar El‐Husseiny",
-      "Robert H. Goldstein",
-      "Scott Whattam",
-      "John Humphrey"
-    ],
-    "title": "Characterizing the Attributes of Large Burrows in the Upper Cretaceous Aruma Formation: Insights From Ground Penetrating Radar",
-    "publicationDate": "2024-01-01",
-    "year": 2024,
-    "venue": "IEEE Transactions on Geoscience and Remote Sensing",
-    "citations": 2,
-    "topics": [
-      "Geophysical Methods and Applications",
-      "Seismic Waves and Analysis",
-      "Landslides and related hazards"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "University of Kansas"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4409101266",
     "doi": "https://doi.org/10.1016/j.precamres.2025.107765",
     "program": "",
@@ -10699,6 +10660,45 @@ export const worksTable: WorkTableRecord[] = [
       "ETH Zurich",
       "Zhejiang University",
       "University of Parma"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4401750278",
+    "doi": "https://doi.org/10.1109/tgrs.2024.3448223",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5088388992",
+      "A5077467560",
+      "A5040857714",
+      "A5064720324",
+      "A5107771404",
+      "A5082826691"
+    ],
+    "firstAuthorLastName": "Saraih",
+    "allAuthors": [
+      "Nabil A. Saraih",
+      "Sherif M. Hanafy",
+      "Hassan A. Eltom",
+      "Ammar El‐Husseiny",
+      "Robert H. Goldstein",
+      "Scott Whattam",
+      "John Humphrey"
+    ],
+    "title": "Characterizing the Attributes of Large Burrows in the Upper Cretaceous Aruma Formation: Insights From Ground Penetrating Radar",
+    "publicationDate": "2024-01-01",
+    "year": 2024,
+    "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+    "citations": 2,
+    "topics": [
+      "Geophysical Methods and Applications",
+      "Seismic Waves and Analysis",
+      "Landslides and related hazards"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Kansas"
     ]
   },
   {
@@ -39798,7 +39798,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-07-11",
     "year": 2024,
     "venue": "Energies",
-    "citations": 8,
+    "citations": 9,
     "topics": [
       "NMR spectroscopy and applications",
       "Spectroscopy and Chemometric Analyses",
@@ -46746,6 +46746,43 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4382136343",
+    "doi": "https://doi.org/10.3390/su151310075",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5034568196",
+    "allAuthorOpenAlexIds": [
+      "A5034568196",
+      "A5075327791",
+      "A5034672880",
+      "A5113343630",
+      "A5030254447",
+      "A5026657609"
+    ],
+    "firstAuthorLastName": "Ghanim",
+    "allAuthors": [
+      "Abdulnoor A. J. Ghanim",
+      "Ahmed M. Al‐Areeq",
+      "Mohammed Benaafi",
+      "Mohammed S. Al-Suwaiyan",
+      "Amran A. Al Aghbari",
+      "Mana Alyami"
+    ],
+    "title": "Mapping Groundwater Potential Zones in the Habawnah Basin of Southern Saudi Arabia: An AHP- and GIS-based Approach",
+    "publicationDate": "2023-06-26",
+    "year": 2023,
+    "venue": "Sustainability",
+    "citations": 27,
+    "topics": [
+      "Groundwater and Watershed Analysis",
+      "Flood Risk Assessment and Management",
+      "Automated Road and Building Extraction"
+    ],
+    "institutions": [
+      "Najran University",
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4289597232",
     "doi": "https://doi.org/10.1016/j.jksuci.2022.08.002",
     "program": "",
@@ -46976,43 +47013,6 @@ export const worksTable: WorkTableRecord[] = [
       "Internet of Things and AI"
     ],
     "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4382136343",
-    "doi": "https://doi.org/10.3390/su151310075",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5034568196",
-    "allAuthorOpenAlexIds": [
-      "A5034568196",
-      "A5075327791",
-      "A5034672880",
-      "A5113343630",
-      "A5030254447",
-      "A5026657609"
-    ],
-    "firstAuthorLastName": "Ghanim",
-    "allAuthors": [
-      "Abdulnoor A. J. Ghanim",
-      "Ahmed M. Al‐Areeq",
-      "Mohammed Benaafi",
-      "Mohammed S. Al-Suwaiyan",
-      "Amran A. Al Aghbari",
-      "Mana Alyami"
-    ],
-    "title": "Mapping Groundwater Potential Zones in the Habawnah Basin of Southern Saudi Arabia: An AHP- and GIS-based Approach",
-    "publicationDate": "2023-06-26",
-    "year": 2023,
-    "venue": "Sustainability",
-    "citations": 27,
-    "topics": [
-      "Groundwater and Watershed Analysis",
-      "Flood Risk Assessment and Management",
-      "Automated Road and Building Extraction"
-    ],
-    "institutions": [
-      "Najran University",
       "King Fahd University of Petroleum and Minerals"
     ]
   },
@@ -47662,32 +47662,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
-    "workId": "https://openalex.org/W4396922243",
-    "doi": "https://doi.org/10.1190/geo2023-0588.1",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5034568196",
-    "allAuthorOpenAlexIds": [
-      "A5034568196",
-      "A5077467560"
-    ],
-    "firstAuthorLastName": "Hanafy",
-    "allAuthors": [
-      "Sherif M. Hanafy",
-      "Mohammed Benaafi"
-    ],
-    "title": "Investigating seawater intrusion and salinization using the integration of hydrochemical and geoelectrical techniques",
-    "publicationDate": "2024-01-09",
-    "year": 2024,
-    "venue": "Geophysics",
-    "citations": 2,
-    "topics": [
-      "Geophysical and Geoelectrical Methods"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4403209601",
     "doi": "https://doi.org/10.1007/s13369-024-09662-7",
     "program": "",
@@ -47815,6 +47789,32 @@ export const worksTable: WorkTableRecord[] = [
       "Geophysical and Geoelectrical Methods",
       "Geophysical Methods and Applications",
       "Geological formations and processes"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4396922243",
+    "doi": "https://doi.org/10.1190/geo2023-0588.1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5034568196",
+    "allAuthorOpenAlexIds": [
+      "A5034568196",
+      "A5077467560"
+    ],
+    "firstAuthorLastName": "Hanafy",
+    "allAuthors": [
+      "Sherif M. Hanafy",
+      "Mohammed Benaafi"
+    ],
+    "title": "Investigating seawater intrusion and salinization using the integration of hydrochemical and geoelectrical techniques",
+    "publicationDate": "2024-01-09",
+    "year": 2024,
+    "venue": "Geophysics",
+    "citations": 2,
+    "topics": [
+      "Geophysical and Geoelectrical Methods"
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
@@ -83401,6 +83401,45 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4391616708",
+    "doi": "https://doi.org/10.1130/g51669.1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5045298810",
+      "A5051523448",
+      "A5090027052",
+      "A5046724280",
+      "A5089201033",
+      "A5042746575"
+    ],
+    "firstAuthorLastName": "Dutkiewicz",
+    "allAuthors": [
+      "Adriana Dutkiewicz",
+      "Andrew Merdith",
+      "Alan S. Collins",
+      "Ben Mather",
+      "Lauren Ilano",
+      "Sabin Zahirovic",
+      "R. Dietmar Müller"
+    ],
+    "title": "Duration of Sturtian “Snowball Earth” glaciation linked to exceptionally low mid-ocean ridge outgassing",
+    "publicationDate": "2024-02-07",
+    "year": 2024,
+    "venue": "Geology",
+    "citations": 20,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "The University of Sydney",
+      "The University of Adelaide"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2031268923",
     "doi": "https://doi.org/10.1144/gsl.sp.1996.105.01.22",
     "program": "",
@@ -86948,45 +86987,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "The University of Adelaide",
       "Northern Territory Geological Survey"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4391616708",
-    "doi": "https://doi.org/10.1130/g51669.1",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5045298810",
-      "A5051523448",
-      "A5090027052",
-      "A5046724280",
-      "A5089201033",
-      "A5042746575"
-    ],
-    "firstAuthorLastName": "Dutkiewicz",
-    "allAuthors": [
-      "Adriana Dutkiewicz",
-      "Andrew Merdith",
-      "Alan S. Collins",
-      "Ben Mather",
-      "Lauren Ilano",
-      "Sabin Zahirovic",
-      "R. Dietmar Müller"
-    ],
-    "title": "Duration of Sturtian “Snowball Earth” glaciation linked to exceptionally low mid-ocean ridge outgassing",
-    "publicationDate": "2024-02-07",
-    "year": 2024,
-    "venue": "Geology",
-    "citations": 19,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "Geology and Paleoclimatology Research",
-      "Paleontology and Stratigraphy of Fossils"
-    ],
-    "institutions": [
-      "The University of Sydney",
-      "The University of Adelaide"
     ]
   },
   {

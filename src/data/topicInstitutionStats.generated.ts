@@ -20,25 +20,25 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1196,
-    "citations": 21676
+    "citations": 21677
   },
   {
     "id": "https://openalex.org/T10109",
     "name": "Paleontology and Stratigraphy of Fossils",
     "publications": 977,
-    "citations": 27957
+    "citations": 27958
   },
   {
     "id": "https://openalex.org/T10017",
     "name": "Geology and Paleoclimatology Research",
     "publications": 725,
-    "citations": 17399
+    "citations": 17400
   },
   {
     "id": "https://openalex.org/T10001",
     "name": "Geological and Geochemical Analysis",
     "publications": 636,
-    "citations": 30237
+    "citations": 30238
   },
   {
     "id": "https://openalex.org/T10965",
@@ -320,7 +320,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12603",
     "name": "NMR spectroscopy and applications",
     "publications": 19,
-    "citations": 442
+    "citations": 443
   },
   {
     "id": "https://openalex.org/T11225",
@@ -554,7 +554,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10640",
     "name": "Spectroscopy and Chemometric Analyses",
     "publications": 10,
-    "citations": 23
+    "citations": 24
   },
   {
     "id": "https://openalex.org/T10341",
@@ -3299,7 +3299,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I5681781",
     "name": "The University of Adelaide",
     "publications": 248,
-    "citations": 15566
+    "citations": 15567
   },
   {
     "id": "https://openalex.org/I4210143841",
@@ -3365,7 +3365,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I28022161",
     "name": "King Saud University",
     "publications": 79,
-    "citations": 852
+    "citations": 853
   },
   {
     "id": "https://openalex.org/I100532134",
@@ -3437,7 +3437,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I21203515",
     "name": "Kazan Federal University",
     "publications": 35,
-    "citations": 302
+    "citations": 303
   },
   {
     "id": "https://openalex.org/I19820366",
@@ -3545,7 +3545,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I129604602",
     "name": "The University of Sydney",
     "publications": 21,
-    "citations": 2073
+    "citations": 2074
   },
   {
     "id": "https://openalex.org/I157674565",
@@ -4256,14 +4256,14 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 221
   },
   {
-    "id": "https://openalex.org/I68956291",
-    "name": "Martin Luther University Halle-Wittenberg",
-    "publications": 8,
-    "citations": 195
-  },
-  {
     "id": "https://openalex.org/I126231945",
     "name": "Queen's University Belfast",
+    "publications": 8,
+    "citations": 196
+  },
+  {
+    "id": "https://openalex.org/I68956291",
+    "name": "Martin Luther University Halle-Wittenberg",
     "publications": 8,
     "citations": 195
   },
