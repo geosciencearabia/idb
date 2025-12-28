@@ -21414,6 +21414,32 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2783944859",
+    "doi": "https://doi.org/10.1007/978-3-319-71216-1_3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013083803",
+    "allAuthorOpenAlexIds": [
+      "A5013083803"
+    ],
+    "firstAuthorLastName": "Craigie",
+    "allAuthors": [
+      "Neil W. Craigie"
+    ],
+    "title": "Geochemistry and Mineralogy",
+    "publicationDate": "2018-01-01",
+    "year": 2018,
+    "venue": "Advances in oil and gas exploration & production",
+    "citations": 6,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geochemical Analysis",
+      "Radioactive element chemistry and processing"
+    ],
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4402601655",
     "doi": "https://doi.org/10.1007/s11631-024-00734-x",
     "program": "",
@@ -21440,32 +21466,6 @@ export const worksTable: WorkTableRecord[] = [
       "Geochemistry and Elemental Analysis"
     ],
     "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W2783944859",
-    "doi": "https://doi.org/10.1007/978-3-319-71216-1_3",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5013083803",
-    "allAuthorOpenAlexIds": [
-      "A5013083803"
-    ],
-    "firstAuthorLastName": "Craigie",
-    "allAuthors": [
-      "Neil W. Craigie"
-    ],
-    "title": "Geochemistry and Mineralogy",
-    "publicationDate": "2018-01-01",
-    "year": 2018,
-    "venue": "Advances in oil and gas exploration & production",
-    "citations": 6,
-    "topics": [
-      "Geochemistry and Geologic Mapping",
-      "Geological and Geochemical Analysis",
-      "Radioactive element chemistry and processing"
-    ],
-    "institutions": [
-      "Saudi Aramco (Saudi Arabia)"
-    ]
   },
   {
     "workId": "https://openalex.org/W2783558229",
@@ -26772,6 +26772,67 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4403001018",
+    "doi": "https://doi.org/10.1016/j.heliyon.2024.e38010",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5014657720",
+    "allAuthorOpenAlexIds": [
+      "A5014657720",
+      "A5001203446",
+      "A5028820590",
+      "A5100667689",
+      "A5107669316",
+      "A5021527739",
+      "A5112911285",
+      "A5011287395",
+      "A5032123306",
+      "A5109792668",
+      "A5054805541",
+      "A5011772444",
+      "A5064250321",
+      "A5067991912",
+      "A5070815292"
+    ],
+    "firstAuthorLastName": "Yusuf",
+    "allAuthors": [
+      "Abubakar Yusuf",
+      "H. S. Lim",
+      "Mustapha Adejo Mohammed",
+      "Ibrahim Saleh Bute",
+      "A. Olasehinde",
+      "A. Mohammed",
+      "Ibrahim Abdulkarim Kwami",
+      "Abdulwahab Muhammad Bello",
+      "Musa Bappah Usman",
+      "Mohammed Bashir Sulaiman",
+      "Auwalu Dalha",
+      "Usman Abubakar",
+      "Shehu Mukkafa",
+      "Jonathan Barka",
+      "Miranda N. Mboringong"
+    ],
+    "title": "An assessment of the environmental radiation risk from the petrologic units of north-eastern Nigeria; an insight from aero-radiometric data interpretation",
+    "publicationDate": "2024-09-30",
+    "year": 2024,
+    "venue": "Heliyon",
+    "citations": 3,
+    "topics": [
+      "Radioactivity and Radon Measurements",
+      "Geochemistry and Geologic Mapping",
+      "Radiation Dose and Imaging"
+    ],
+    "institutions": [
+      "Universiti Sains Malaysia",
+      "Gombe State University",
+      "Federal University Lafia",
+      "King Fahd University of Petroleum and Minerals",
+      "Sokoto State University",
+      "State Key Laboratory of Marine Geology",
+      "Tongji University",
+      "Federal University Dutse"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4408660286",
     "doi": "https://doi.org/10.2110/jsr.2024.135",
     "program": "",
@@ -26840,67 +26901,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4403001018",
-    "doi": "https://doi.org/10.1016/j.heliyon.2024.e38010",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5014657720",
-    "allAuthorOpenAlexIds": [
-      "A5014657720",
-      "A5001203446",
-      "A5028820590",
-      "A5100667689",
-      "A5107669316",
-      "A5021527739",
-      "A5112911285",
-      "A5011287395",
-      "A5032123306",
-      "A5109792668",
-      "A5054805541",
-      "A5011772444",
-      "A5064250321",
-      "A5067991912",
-      "A5070815292"
-    ],
-    "firstAuthorLastName": "Yusuf",
-    "allAuthors": [
-      "Abubakar Yusuf",
-      "H. S. Lim",
-      "Mustapha Adejo Mohammed",
-      "Ibrahim Saleh Bute",
-      "A. Olasehinde",
-      "A. Mohammed",
-      "Ibrahim Abdulkarim Kwami",
-      "Abdulwahab Muhammad Bello",
-      "Musa Bappah Usman",
-      "Mohammed Bashir Sulaiman",
-      "Auwalu Dalha",
-      "Usman Abubakar",
-      "Shehu Mukkafa",
-      "Jonathan Barka",
-      "Miranda N. Mboringong"
-    ],
-    "title": "An assessment of the environmental radiation risk from the petrologic units of north-eastern Nigeria; an insight from aero-radiometric data interpretation",
-    "publicationDate": "2024-09-30",
-    "year": 2024,
-    "venue": "Heliyon",
-    "citations": 2,
-    "topics": [
-      "Radioactivity and Radon Measurements",
-      "Geochemistry and Geologic Mapping",
-      "Radiation Dose and Imaging"
-    ],
-    "institutions": [
-      "Universiti Sains Malaysia",
-      "Gombe State University",
-      "Federal University Lafia",
-      "King Fahd University of Petroleum and Minerals",
-      "Sokoto State University",
-      "State Key Laboratory of Marine Geology",
-      "Tongji University",
-      "Federal University Dutse"
     ]
   },
   {
@@ -28480,7 +28480,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "firstAuthorLastName": "Eleslambouly",
     "allAuthors": [
-      "A. Eleslambouly",
+      "Ahmed Eleslambouly",
       "Omar Aldhanhani",
       "A. Fathy",
       "Mursal Zeynalli",
@@ -30782,6 +30782,38 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W4405930152",
+    "doi": "https://doi.org/10.1016/j.ijhydene.2024.12.455",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5027197211",
+    "allAuthorOpenAlexIds": [
+      "A5027197211",
+      "A5080526944",
+      "A5080553596",
+      "A5002974432",
+      "A5067974945"
+    ],
+    "firstAuthorLastName": "Alafnan",
+    "allAuthors": [
+      "Saad Alafnan",
+      "Dandi Alvayed",
+      "Murtada Saleh Aljawad",
+      "Abduljamiu O. Amao",
+      "Hussein Hoteit"
+    ],
+    "title": "Evaluating long-term integrity of shale for safe hydrogen storage: A nanoscale analysis of hydrogen-shale interactions",
+    "publicationDate": "2024-12-31",
+    "year": 2024,
+    "venue": "International Journal of Hydrogen Energy",
+    "citations": 4,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Drilling and Well Engineering",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": []
+  },
+  {
     "workId": "https://openalex.org/W2797578994",
     "doi": "https://doi.org/10.1007/s12526-018-0879-4",
     "program": "",
@@ -31418,38 +31450,6 @@ export const worksTable: WorkTableRecord[] = [
       "King Fahd University of Petroleum and Minerals",
       "Saudi Aramco (Saudi Arabia)"
     ]
-  },
-  {
-    "workId": "https://openalex.org/W4405930152",
-    "doi": "https://doi.org/10.1016/j.ijhydene.2024.12.455",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5027197211",
-    "allAuthorOpenAlexIds": [
-      "A5027197211",
-      "A5080526944",
-      "A5080553596",
-      "A5002974432",
-      "A5067974945"
-    ],
-    "firstAuthorLastName": "Alafnan",
-    "allAuthors": [
-      "Saad Alafnan",
-      "Dandi Alvayed",
-      "Murtada Saleh Aljawad",
-      "Abduljamiu O. Amao",
-      "Hussein Hoteit"
-    ],
-    "title": "Evaluating long-term integrity of shale for safe hydrogen storage: A nanoscale analysis of hydrogen-shale interactions",
-    "publicationDate": "2024-12-31",
-    "year": 2024,
-    "venue": "International Journal of Hydrogen Energy",
-    "citations": 2,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Drilling and Well Engineering",
-      "Hydraulic Fracturing and Reservoir Analysis"
-    ],
-    "institutions": []
   },
   {
     "workId": "https://openalex.org/W4406159166",
@@ -47703,34 +47703,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4405873965",
-    "doi": "https://doi.org/10.1016/j.ejrh.2024.102138",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5034568196",
-    "allAuthorOpenAlexIds": [
-      "A5034568196",
-      "A5115690014",
-      "A5068607052"
-    ],
-    "firstAuthorLastName": "Benaafi",
-    "allAuthors": [
-      "Mohammed Benaafi",
-      "Waleed M. Hamanah",
-      "Ebrahim Al-wajih"
-    ],
-    "title": "Modelling the Isotope composition of groundwater using hydrochemical properties in eastern Saudi Arabia: Implementation of innovative data intelligence techniques",
-    "publicationDate": "2024-12-27",
-    "year": 2024,
-    "venue": "Journal of Hydrology Regional Studies",
-    "citations": 2,
-    "topics": [
-      "Groundwater and Isotope Geochemistry",
-      "Hydrological Forecasting Using AI",
-      "Groundwater and Watershed Analysis"
-    ],
-    "institutions": []
-  },
-  {
     "workId": "https://openalex.org/W2167330935",
     "doi": "https://doi.org/10.3906/yer-1206-2",
     "program": "",
@@ -47819,6 +47791,34 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
     ]
+  },
+  {
+    "workId": "https://openalex.org/W4405873965",
+    "doi": "https://doi.org/10.1016/j.ejrh.2024.102138",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5034568196",
+    "allAuthorOpenAlexIds": [
+      "A5034568196",
+      "A5115690014",
+      "A5068607052"
+    ],
+    "firstAuthorLastName": "Benaafi",
+    "allAuthors": [
+      "Mohammed Benaafi",
+      "Waleed M. Hamanah",
+      "Ebrahim Al-wajih"
+    ],
+    "title": "Modelling the Isotope composition of groundwater using hydrochemical properties in eastern Saudi Arabia: Implementation of innovative data intelligence techniques",
+    "publicationDate": "2024-12-27",
+    "year": 2024,
+    "venue": "Journal of Hydrology Regional Studies",
+    "citations": 2,
+    "topics": [
+      "Groundwater and Isotope Geochemistry",
+      "Hydrological Forecasting Using AI",
+      "Groundwater and Watershed Analysis"
+    ],
+    "institutions": []
   },
   {
     "workId": "https://openalex.org/W3009101121",
@@ -99001,38 +99001,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4405431602",
-    "doi": "https://doi.org/10.1190/image2024-4087170.1",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5052123503",
-    "allAuthorOpenAlexIds": [
-      "A5052123503",
-      "A5015911545",
-      "A5027711423",
-      "A5089898416"
-    ],
-    "firstAuthorLastName": "Alfataierge",
-    "allAuthors": [
-      "Ezzedeen Alfataierge",
-      "Pavel Golikov",
-      "Ahmad Ramdani",
-      "Abdulrahman Alshuhail"
-    ],
-    "title": "Advancing autonomous seismic data acquisition with robotic solutions",
-    "publicationDate": "2024-07-24",
-    "year": 2024,
-    "venue": "",
-    "citations": 2,
-    "topics": [
-      "Seismology and Earthquake Studies",
-      "Geological Modeling and Analysis",
-      "Soft Robotics and Applications"
-    ],
-    "institutions": [
-      "Saudi Aramco (United States)"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W2942329208",
     "doi": "https://doi.org/10.4043/29433-ms",
     "program": "",
@@ -99092,6 +99060,38 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Saudi Aramco (United States)",
       "King Abdullah University of Science and Technology"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4405431602",
+    "doi": "https://doi.org/10.1190/image2024-4087170.1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5052123503",
+    "allAuthorOpenAlexIds": [
+      "A5052123503",
+      "A5015911545",
+      "A5027711423",
+      "A5089898416"
+    ],
+    "firstAuthorLastName": "Alfataierge",
+    "allAuthors": [
+      "Ezzedeen Alfataierge",
+      "Pavel Golikov",
+      "Ahmad Ramdani",
+      "Abdulrahman Alshuhail"
+    ],
+    "title": "Advancing autonomous seismic data acquisition with robotic solutions",
+    "publicationDate": "2024-07-24",
+    "year": 2024,
+    "venue": "",
+    "citations": 2,
+    "topics": [
+      "Seismology and Earthquake Studies",
+      "Geological Modeling and Analysis",
+      "Soft Robotics and Applications"
+    ],
+    "institutions": [
+      "Saudi Aramco (United States)"
     ]
   },
   {
@@ -102408,6 +102408,37 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4403691116",
+    "doi": "https://doi.org/10.1038/s41598-024-75980-3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054922583",
+    "allAuthorOpenAlexIds": [
+      "A5054922583",
+      "A5006028315",
+      "A5111753752"
+    ],
+    "firstAuthorLastName": "Harishidayat",
+    "allAuthors": [
+      "Dicky Harishidayat",
+      "Saleh Al‐Dossary",
+      "Abdullatif Al‐Shuhail"
+    ],
+    "title": "Architecture and geomorphology of fluvial channel systems in the Arabian Basin",
+    "publicationDate": "2024-10-23",
+    "year": 2024,
+    "venue": "Scientific Reports",
+    "citations": 4,
+    "topics": [
+      "Geological formations and processes",
+      "Groundwater and Watershed Analysis",
+      "Hydrology and Sediment Transport Processes"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Saudi Aramco (Saudi Arabia)"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2095003283",
     "doi": "https://doi.org/10.2118/164465-ms",
     "program": "",
@@ -103099,37 +103130,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4403691116",
-    "doi": "https://doi.org/10.1038/s41598-024-75980-3",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054922583",
-    "allAuthorOpenAlexIds": [
-      "A5054922583",
-      "A5006028315",
-      "A5111753752"
-    ],
-    "firstAuthorLastName": "Harishidayat",
-    "allAuthors": [
-      "Dicky Harishidayat",
-      "Saleh Al‐Dossary",
-      "Abdullatif Al‐Shuhail"
-    ],
-    "title": "Architecture and geomorphology of fluvial channel systems in the Arabian Basin",
-    "publicationDate": "2024-10-23",
-    "year": 2024,
-    "venue": "Scientific Reports",
-    "citations": 3,
-    "topics": [
-      "Geological formations and processes",
-      "Groundwater and Watershed Analysis",
-      "Hydrology and Sediment Transport Processes"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Saudi Aramco (Saudi Arabia)"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4411866371",
     "doi": "https://doi.org/10.1038/s41598-025-06332-y",
     "program": "",
@@ -103157,44 +103157,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4403343181",
-    "doi": "https://doi.org/10.1093/gji/ggae363",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054922583",
-    "allAuthorOpenAlexIds": [
-      "A5054922583",
-      "A5022899503",
-      "A5019519998",
-      "A5100644674",
-      "A5091188360",
-      "A5086290026"
-    ],
-    "firstAuthorLastName": "Liu",
-    "allAuthors": [
-      "Xu Liu",
-      "Bing Zhou",
-      "Abdullatif Al‐Shuhail",
-      "Wei Zhou",
-      "Bo Liu",
-      "Qinzhuo Liao"
-    ],
-    "title": "Ray and energy-flux velocities at a contact of two viscoelastic anisotropic materials",
-    "publicationDate": "2024-10-10",
-    "year": 2024,
-    "venue": "Geophysical Journal International",
-    "citations": 2,
-    "topics": [
-      "Seismic Waves and Analysis",
-      "Seismic Imaging and Inversion Techniques",
-      "Geotechnical Engineering and Underground Structures"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Khalifa University of Science and Technology",
-      "China University of Petroleum, Beijing"
     ]
   },
   {
@@ -103610,6 +103572,44 @@ export const worksTable: WorkTableRecord[] = [
       "King Fahd University of Petroleum and Minerals",
       "Queensland University of Technology",
       "The University of Queensland"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4403343181",
+    "doi": "https://doi.org/10.1093/gji/ggae363",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054922583",
+    "allAuthorOpenAlexIds": [
+      "A5054922583",
+      "A5022899503",
+      "A5019519998",
+      "A5100644674",
+      "A5091188360",
+      "A5086290026"
+    ],
+    "firstAuthorLastName": "Liu",
+    "allAuthors": [
+      "Xu Liu",
+      "Bing Zhou",
+      "Abdullatif Al‐Shuhail",
+      "Wei Zhou",
+      "Bo Liu",
+      "Qinzhuo Liao"
+    ],
+    "title": "Ray and energy-flux velocities at a contact of two viscoelastic anisotropic materials",
+    "publicationDate": "2024-10-10",
+    "year": 2024,
+    "venue": "Geophysical Journal International",
+    "citations": 2,
+    "topics": [
+      "Seismic Waves and Analysis",
+      "Seismic Imaging and Inversion Techniques",
+      "Geotechnical Engineering and Underground Structures"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Khalifa University of Science and Technology",
+      "China University of Petroleum, Beijing"
     ]
   },
   {
@@ -112266,48 +112266,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4407260658",
-    "doi": "https://doi.org/10.1180/gbi.2024.8",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5070411489",
-    "allAuthorOpenAlexIds": [
-      "A5070411489",
-      "A5034667952",
-      "A5011492717",
-      "A5063023865",
-      "A5070705874",
-      "A5085989529",
-      "A5070682798",
-      "A5079669280",
-      "A5031066506",
-      "A5030411046"
-    ],
-    "firstAuthorLastName": "Strakhov",
-    "allAuthors": [
-      "I. S. Strakhov",
-      "Hadil Elsayed",
-      "Zach Diloreto",
-      "Khoren Avetisyan",
-      "Zulfa Ali Al Disi",
-      "Khaled Naja",
-      "Hamad Al-Saad Al-Kuwari",
-      "Fadhil Sadooni",
-      "Jassim Alkhayat",
-      "Maria Dittrich"
-    ],
-    "title": "Blue carbon cycling in the coastal areas of Qatar",
-    "publicationDate": "2025-01-01",
-    "year": 2025,
-    "venue": "Geo-Bio Interfaces",
-    "citations": 2,
-    "topics": [
-      "Coastal and Marine Management",
-      "Coastal wetland ecosystem dynamics",
-      "Coastal and Marine Dynamics"
-    ],
-    "institutions": []
-  },
-  {
     "workId": "https://openalex.org/W4408699740",
     "doi": "https://doi.org/10.1016/j.jnggs.2025.02.002",
     "program": "",
@@ -112606,6 +112564,48 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Qatar University"
     ]
+  },
+  {
+    "workId": "https://openalex.org/W4407260658",
+    "doi": "https://doi.org/10.1180/gbi.2024.8",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5070411489",
+    "allAuthorOpenAlexIds": [
+      "A5070411489",
+      "A5034667952",
+      "A5011492717",
+      "A5063023865",
+      "A5070705874",
+      "A5085989529",
+      "A5070682798",
+      "A5079669280",
+      "A5031066506",
+      "A5030411046"
+    ],
+    "firstAuthorLastName": "Strakhov",
+    "allAuthors": [
+      "I. S. Strakhov",
+      "Hadil Elsayed",
+      "Zach Diloreto",
+      "Khoren Avetisyan",
+      "Zulfa Ali Al Disi",
+      "Khaled Naja",
+      "Hamad Al-Saad Al-Kuwari",
+      "Fadhil Sadooni",
+      "Jassim Alkhayat",
+      "Maria Dittrich"
+    ],
+    "title": "Blue carbon cycling in the coastal areas of Qatar",
+    "publicationDate": "2025-01-01",
+    "year": 2025,
+    "venue": "Geo-Bio Interfaces",
+    "citations": 2,
+    "topics": [
+      "Coastal and Marine Management",
+      "Coastal wetland ecosystem dynamics",
+      "Coastal and Marine Dynamics"
+    ],
+    "institutions": []
   },
   {
     "workId": "https://openalex.org/W2508018119",

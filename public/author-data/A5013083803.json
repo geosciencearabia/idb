@@ -6945,533 +6945,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4402601655",
-      "doi": "https://doi.org/10.1007/s11631-024-00734-x",
-      "title": "First record of the Cenomanian-Turonian Oceanic Anoxic Event (OAE-2) in the eastern Rub’ Al Khali Basin by means of elemental chemostratigraphy",
-      "display_name": "First record of the Cenomanian-Turonian Oceanic Anoxic Event (OAE-2) in the eastern Rub’ Al Khali Basin by means of elemental chemostratigraphy",
-      "publication_year": 2024,
-      "publication_date": "2024-09-17",
-      "ids": {
-        "openalex": "https://openalex.org/W4402601655",
-        "doi": "https://doi.org/10.1007/s11631-024-00734-x"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/s11631-024-00734-x",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1007/s11631-024-00734-x",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210176391",
-          "display_name": "Acta Geochimica",
-          "issn_l": "2096-0956",
-          "issn": [
-            "2096-0956",
-            "2365-7499"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319900",
-          "host_organization_name": "Springer Science+Business Media",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319900",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Science+Business Media",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Acta Geochimica",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5065884074",
-            "display_name": "Mohamed Soua",
-            "orcid": "https://orcid.org/0000-0001-5089-2893"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Mohamed Soua",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5045570928",
-            "display_name": "Christian Scheibe",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Christian Scheibe",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5013083803",
-            "display_name": "Neil W. Craigie",
-            "orcid": "https://orcid.org/0000-0002-9728-9036"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Neil Craigie",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 2490,
-        "currency": "EUR",
-        "value_usd": 3090
-      },
-      "apc_paid": null,
-      "fwci": 6.13285349,
-      "has_fulltext": false,
-      "cited_by_count": 2,
-      "citation_normalized_percentile": {
-        "value": 0.93108555,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 95,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "44",
-        "issue": "3",
-        "first_page": "461",
-        "last_page": "477"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9997000098228455,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9997000098228455,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.9987999796867371,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11740",
-          "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.998199999332428,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/cenomanian",
-          "display_name": "Cenomanian",
-          "score": 0.8583958148956299
-        },
-        {
-          "id": "https://openalex.org/keywords/chemostratigraphy",
-          "display_name": "Chemostratigraphy",
-          "score": 0.7602713108062744
-        },
-        {
-          "id": "https://openalex.org/keywords/anoxic-waters",
-          "display_name": "Anoxic waters",
-          "score": 0.6967165470123291
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6455854773521423
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.6374524831771851
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.4266584515571594
-        },
-        {
-          "id": "https://openalex.org/keywords/event",
-          "display_name": "Event (particle physics)",
-          "score": 0.4195508658885956
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.19266673922538757
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.15791332721710205
-        },
-        {
-          "id": "https://openalex.org/keywords/physics",
-          "display_name": "Physics",
-          "score": 0.12122458219528198
-        },
-        {
-          "id": "https://openalex.org/keywords/isotopes-of-carbon",
-          "display_name": "Isotopes of carbon",
-          "score": 0.10386747121810913
-        },
-        {
-          "id": "https://openalex.org/keywords/total-organic-carbon",
-          "display_name": "Total organic carbon",
-          "score": 0.06586575508117676
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C27543578",
-          "wikidata": "https://www.wikidata.org/wiki/Q185567",
-          "display_name": "Cenomanian",
-          "level": 3,
-          "score": 0.8583958148956299
-        },
-        {
-          "id": "https://openalex.org/C190890723",
-          "wikidata": "https://www.wikidata.org/wiki/Q2729912",
-          "display_name": "Chemostratigraphy",
-          "level": 4,
-          "score": 0.7602713108062744
-        },
-        {
-          "id": "https://openalex.org/C108970007",
-          "wikidata": "https://www.wikidata.org/wiki/Q568324",
-          "display_name": "Anoxic waters",
-          "level": 2,
-          "score": 0.6967165470123291
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6455854773521423
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6374524831771851
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.4266584515571594
-        },
-        {
-          "id": "https://openalex.org/C2779662365",
-          "wikidata": "https://www.wikidata.org/wiki/Q5416694",
-          "display_name": "Event (particle physics)",
-          "level": 2,
-          "score": 0.4195508658885956
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.19266673922538757
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.15791332721710205
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0.12122458219528198
-        },
-        {
-          "id": "https://openalex.org/C185059815",
-          "wikidata": "https://www.wikidata.org/wiki/Q471790",
-          "display_name": "Isotopes of carbon",
-          "level": 3,
-          "score": 0.10386747121810913
-        },
-        {
-          "id": "https://openalex.org/C158787203",
-          "wikidata": "https://www.wikidata.org/wiki/Q900291",
-          "display_name": "Total organic carbon",
-          "level": 2,
-          "score": 0.06586575508117676
-        },
-        {
-          "id": "https://openalex.org/C62520636",
-          "wikidata": "https://www.wikidata.org/wiki/Q944",
-          "display_name": "Quantum mechanics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C107872376",
-          "wikidata": "https://www.wikidata.org/wiki/Q321355",
-          "display_name": "Environmental chemistry",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/s11631-024-00734-x",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1007/s11631-024-00734-x",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210176391",
-            "display_name": "Acta Geochimica",
-            "issn_l": "2096-0956",
-            "issn": [
-              "2096-0956",
-              "2365-7499"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310319900",
-            "host_organization_name": "Springer Science+Business Media",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319900",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Science+Business Media",
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Acta Geochimica",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "referenced_works_count": 82,
-      "referenced_works": [
-        "https://openalex.org/W2993336238",
-        "https://openalex.org/W2549993001",
-        "https://openalex.org/W1648236804",
-        "https://openalex.org/W2102947943",
-        "https://openalex.org/W2074831421",
-        "https://openalex.org/W2083645617",
-        "https://openalex.org/W2171710577",
-        "https://openalex.org/W1567684566",
-        "https://openalex.org/W4240888641",
-        "https://openalex.org/W2055136286",
-        "https://openalex.org/W2089542793",
-        "https://openalex.org/W4221124205",
-        "https://openalex.org/W2015337239",
-        "https://openalex.org/W2012922909",
-        "https://openalex.org/W2036501693",
-        "https://openalex.org/W1580687896",
-        "https://openalex.org/W2001156023",
-        "https://openalex.org/W3022076686",
-        "https://openalex.org/W2047456903",
-        "https://openalex.org/W1540116796",
-        "https://openalex.org/W2042299971",
-        "https://openalex.org/W2966505591",
-        "https://openalex.org/W2051153824",
-        "https://openalex.org/W2074516461",
-        "https://openalex.org/W2252515435",
-        "https://openalex.org/W4410338539",
-        "https://openalex.org/W1977535353",
-        "https://openalex.org/W2165493724",
-        "https://openalex.org/W2082972472",
-        "https://openalex.org/W1998138507",
-        "https://openalex.org/W1997252211",
-        "https://openalex.org/W2200214261",
-        "https://openalex.org/W1504424142",
-        "https://openalex.org/W2009839274",
-        "https://openalex.org/W2943308556",
-        "https://openalex.org/W2966920259",
-        "https://openalex.org/W2326669813",
-        "https://openalex.org/W2050670879",
-        "https://openalex.org/W2239666283",
-        "https://openalex.org/W2606338718",
-        "https://openalex.org/W2049636003",
-        "https://openalex.org/W1633310309",
-        "https://openalex.org/W2581167478",
-        "https://openalex.org/W1620286502",
-        "https://openalex.org/W1992283967",
-        "https://openalex.org/W2057042966",
-        "https://openalex.org/W1982594203",
-        "https://openalex.org/W2104296040",
-        "https://openalex.org/W1572548891",
-        "https://openalex.org/W1972599430",
-        "https://openalex.org/W2102781407",
-        "https://openalex.org/W4248417025",
-        "https://openalex.org/W2916165278",
-        "https://openalex.org/W3191879996",
-        "https://openalex.org/W2019669775",
-        "https://openalex.org/W195523536",
-        "https://openalex.org/W2067973956",
-        "https://openalex.org/W2197579566",
-        "https://openalex.org/W2055636377",
-        "https://openalex.org/W2283545049",
-        "https://openalex.org/W1995761337",
-        "https://openalex.org/W2139304499",
-        "https://openalex.org/W1840068109",
-        "https://openalex.org/W2062949363",
-        "https://openalex.org/W2053710304",
-        "https://openalex.org/W2994335211",
-        "https://openalex.org/W2051455610",
-        "https://openalex.org/W2967069995",
-        "https://openalex.org/W2057391595",
-        "https://openalex.org/W2068263661",
-        "https://openalex.org/W2167492033",
-        "https://openalex.org/W2138545727",
-        "https://openalex.org/W2071475250",
-        "https://openalex.org/W2187623843",
-        "https://openalex.org/W2774779682",
-        "https://openalex.org/W2167454550",
-        "https://openalex.org/W2024325791",
-        "https://openalex.org/W3035979979",
-        "https://openalex.org/W4231575899",
-        "https://openalex.org/W2022439595",
-        "https://openalex.org/W203584942",
-        "https://openalex.org/W1610837456"
-      ],
-      "related_works": [
-        "https://openalex.org/W2883105353",
-        "https://openalex.org/W1971721508",
-        "https://openalex.org/W2039719828",
-        "https://openalex.org/W2062205451",
-        "https://openalex.org/W2027340482",
-        "https://openalex.org/W2071882079",
-        "https://openalex.org/W4243536116",
-        "https://openalex.org/W2143504614",
-        "https://openalex.org/W2040919926",
-        "https://openalex.org/W2567088984"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2783944859",
       "doi": "https://doi.org/10.1007/978-3-319-71216-1_3",
       "title": "Geochemistry and Mineralogy",
@@ -8070,6 +7543,533 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4402601655",
+      "doi": "https://doi.org/10.1007/s11631-024-00734-x",
+      "title": "First record of the Cenomanian-Turonian Oceanic Anoxic Event (OAE-2) in the eastern Rub’ Al Khali Basin by means of elemental chemostratigraphy",
+      "display_name": "First record of the Cenomanian-Turonian Oceanic Anoxic Event (OAE-2) in the eastern Rub’ Al Khali Basin by means of elemental chemostratigraphy",
+      "publication_year": 2024,
+      "publication_date": "2024-09-17",
+      "ids": {
+        "openalex": "https://openalex.org/W4402601655",
+        "doi": "https://doi.org/10.1007/s11631-024-00734-x"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/s11631-024-00734-x",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/s11631-024-00734-x",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210176391",
+          "display_name": "Acta Geochimica",
+          "issn_l": "2096-0956",
+          "issn": [
+            "2096-0956",
+            "2365-7499"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Acta Geochimica",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5065884074",
+            "display_name": "Mohamed Soua",
+            "orcid": "https://orcid.org/0000-0001-5089-2893"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mohamed Soua",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5045570928",
+            "display_name": "Christian Scheibe",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Christian Scheibe",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5013083803",
+            "display_name": "Neil W. Craigie",
+            "orcid": "https://orcid.org/0000-0002-9728-9036"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Neil Craigie",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 2490,
+        "currency": "EUR",
+        "value_usd": 3090
+      },
+      "apc_paid": null,
+      "fwci": 6.13285349,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.9286471,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 95,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "44",
+        "issue": "3",
+        "first_page": "461",
+        "last_page": "477"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 0.9987999796867371,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.998199999332428,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/cenomanian",
+          "display_name": "Cenomanian",
+          "score": 0.8583958148956299
+        },
+        {
+          "id": "https://openalex.org/keywords/chemostratigraphy",
+          "display_name": "Chemostratigraphy",
+          "score": 0.7602713108062744
+        },
+        {
+          "id": "https://openalex.org/keywords/anoxic-waters",
+          "display_name": "Anoxic waters",
+          "score": 0.6967165470123291
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.6455854773521423
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.6374524831771851
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.4266584515571594
+        },
+        {
+          "id": "https://openalex.org/keywords/event",
+          "display_name": "Event (particle physics)",
+          "score": 0.4195508658885956
+        },
+        {
+          "id": "https://openalex.org/keywords/oceanography",
+          "display_name": "Oceanography",
+          "score": 0.19266673922538757
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.15791332721710205
+        },
+        {
+          "id": "https://openalex.org/keywords/physics",
+          "display_name": "Physics",
+          "score": 0.12122458219528198
+        },
+        {
+          "id": "https://openalex.org/keywords/isotopes-of-carbon",
+          "display_name": "Isotopes of carbon",
+          "score": 0.10386747121810913
+        },
+        {
+          "id": "https://openalex.org/keywords/total-organic-carbon",
+          "display_name": "Total organic carbon",
+          "score": 0.06586575508117676
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C27543578",
+          "wikidata": "https://www.wikidata.org/wiki/Q185567",
+          "display_name": "Cenomanian",
+          "level": 3,
+          "score": 0.8583958148956299
+        },
+        {
+          "id": "https://openalex.org/C190890723",
+          "wikidata": "https://www.wikidata.org/wiki/Q2729912",
+          "display_name": "Chemostratigraphy",
+          "level": 4,
+          "score": 0.7602713108062744
+        },
+        {
+          "id": "https://openalex.org/C108970007",
+          "wikidata": "https://www.wikidata.org/wiki/Q568324",
+          "display_name": "Anoxic waters",
+          "level": 2,
+          "score": 0.6967165470123291
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6455854773521423
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6374524831771851
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.4266584515571594
+        },
+        {
+          "id": "https://openalex.org/C2779662365",
+          "wikidata": "https://www.wikidata.org/wiki/Q5416694",
+          "display_name": "Event (particle physics)",
+          "level": 2,
+          "score": 0.4195508658885956
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.19266673922538757
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.15791332721710205
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.12122458219528198
+        },
+        {
+          "id": "https://openalex.org/C185059815",
+          "wikidata": "https://www.wikidata.org/wiki/Q471790",
+          "display_name": "Isotopes of carbon",
+          "level": 3,
+          "score": 0.10386747121810913
+        },
+        {
+          "id": "https://openalex.org/C158787203",
+          "wikidata": "https://www.wikidata.org/wiki/Q900291",
+          "display_name": "Total organic carbon",
+          "level": 2,
+          "score": 0.06586575508117676
+        },
+        {
+          "id": "https://openalex.org/C62520636",
+          "wikidata": "https://www.wikidata.org/wiki/Q944",
+          "display_name": "Quantum mechanics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C107872376",
+          "wikidata": "https://www.wikidata.org/wiki/Q321355",
+          "display_name": "Environmental chemistry",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/s11631-024-00734-x",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/s11631-024-00734-x",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210176391",
+            "display_name": "Acta Geochimica",
+            "issn_l": "2096-0956",
+            "issn": [
+              "2096-0956",
+              "2365-7499"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Acta Geochimica",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "referenced_works_count": 82,
+      "referenced_works": [
+        "https://openalex.org/W2993336238",
+        "https://openalex.org/W2549993001",
+        "https://openalex.org/W1648236804",
+        "https://openalex.org/W2102947943",
+        "https://openalex.org/W2074831421",
+        "https://openalex.org/W2083645617",
+        "https://openalex.org/W2171710577",
+        "https://openalex.org/W1567684566",
+        "https://openalex.org/W4240888641",
+        "https://openalex.org/W2055136286",
+        "https://openalex.org/W2089542793",
+        "https://openalex.org/W4221124205",
+        "https://openalex.org/W2015337239",
+        "https://openalex.org/W2012922909",
+        "https://openalex.org/W2036501693",
+        "https://openalex.org/W1580687896",
+        "https://openalex.org/W2001156023",
+        "https://openalex.org/W3022076686",
+        "https://openalex.org/W2047456903",
+        "https://openalex.org/W1540116796",
+        "https://openalex.org/W2042299971",
+        "https://openalex.org/W2966505591",
+        "https://openalex.org/W2051153824",
+        "https://openalex.org/W2074516461",
+        "https://openalex.org/W2252515435",
+        "https://openalex.org/W4410338539",
+        "https://openalex.org/W1977535353",
+        "https://openalex.org/W2165493724",
+        "https://openalex.org/W2082972472",
+        "https://openalex.org/W1998138507",
+        "https://openalex.org/W1997252211",
+        "https://openalex.org/W2200214261",
+        "https://openalex.org/W1504424142",
+        "https://openalex.org/W2009839274",
+        "https://openalex.org/W2943308556",
+        "https://openalex.org/W2966920259",
+        "https://openalex.org/W2326669813",
+        "https://openalex.org/W2050670879",
+        "https://openalex.org/W2239666283",
+        "https://openalex.org/W2606338718",
+        "https://openalex.org/W2049636003",
+        "https://openalex.org/W1633310309",
+        "https://openalex.org/W2581167478",
+        "https://openalex.org/W1620286502",
+        "https://openalex.org/W1992283967",
+        "https://openalex.org/W2057042966",
+        "https://openalex.org/W1982594203",
+        "https://openalex.org/W2104296040",
+        "https://openalex.org/W1572548891",
+        "https://openalex.org/W1972599430",
+        "https://openalex.org/W2102781407",
+        "https://openalex.org/W4248417025",
+        "https://openalex.org/W2916165278",
+        "https://openalex.org/W3191879996",
+        "https://openalex.org/W2019669775",
+        "https://openalex.org/W195523536",
+        "https://openalex.org/W2067973956",
+        "https://openalex.org/W2197579566",
+        "https://openalex.org/W2055636377",
+        "https://openalex.org/W2283545049",
+        "https://openalex.org/W1995761337",
+        "https://openalex.org/W2139304499",
+        "https://openalex.org/W1840068109",
+        "https://openalex.org/W2062949363",
+        "https://openalex.org/W2053710304",
+        "https://openalex.org/W2994335211",
+        "https://openalex.org/W2051455610",
+        "https://openalex.org/W2967069995",
+        "https://openalex.org/W2057391595",
+        "https://openalex.org/W2068263661",
+        "https://openalex.org/W2167492033",
+        "https://openalex.org/W2138545727",
+        "https://openalex.org/W2071475250",
+        "https://openalex.org/W2187623843",
+        "https://openalex.org/W2774779682",
+        "https://openalex.org/W2167454550",
+        "https://openalex.org/W2024325791",
+        "https://openalex.org/W3035979979",
+        "https://openalex.org/W4231575899",
+        "https://openalex.org/W2022439595",
+        "https://openalex.org/W203584942",
+        "https://openalex.org/W1610837456"
+      ],
+      "related_works": [
+        "https://openalex.org/W2883105353",
+        "https://openalex.org/W1971721508",
+        "https://openalex.org/W2039719828",
+        "https://openalex.org/W2062205451",
+        "https://openalex.org/W2027340482",
+        "https://openalex.org/W2071882079",
+        "https://openalex.org/W4243536116",
+        "https://openalex.org/W2143504614",
+        "https://openalex.org/W2040919926",
+        "https://openalex.org/W2567088984"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2025-12-27T23:08:20.325037",
       "created_date": "2025-10-10T00:00:00"
     },
     {

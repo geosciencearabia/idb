@@ -20,7 +20,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1196,
-    "citations": 21677
+    "citations": 21679
   },
   {
     "id": "https://openalex.org/T10109",
@@ -44,13 +44,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10965",
     "name": "Geological formations and processes",
     "publications": 606,
-    "citations": 17599
+    "citations": 17600
   },
   {
     "id": "https://openalex.org/T12157",
     "name": "Geochemistry and Geologic Mapping",
     "publications": 557,
-    "citations": 12085
+    "citations": 12086
   },
   {
     "id": "https://openalex.org/T13177",
@@ -68,7 +68,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10635",
     "name": "Hydraulic Fracturing and Reservoir Analysis",
     "publications": 314,
-    "citations": 3775
+    "citations": 3777
   },
   {
     "id": "https://openalex.org/T10110",
@@ -116,7 +116,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10892",
     "name": "Drilling and Well Engineering",
     "publications": 138,
-    "citations": 815
+    "citations": 817
   },
   {
     "id": "https://openalex.org/T11740",
@@ -206,7 +206,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12543",
     "name": "Groundwater and Watershed Analysis",
     "publications": 41,
-    "citations": 501
+    "citations": 502
   },
   {
     "id": "https://openalex.org/T10572",
@@ -458,7 +458,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10577",
     "name": "Hydrology and Sediment Transport Processes",
     "publications": 11,
-    "citations": 226
+    "citations": 227
   },
   {
     "id": "https://openalex.org/T10930",
@@ -776,7 +776,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10946",
     "name": "Radioactivity and Radon Measurements",
     "publications": 5,
-    "citations": 111
+    "citations": 112
   },
   {
     "id": "https://openalex.org/T11986",
@@ -2261,6 +2261,12 @@ export const topicStats: TopicStats[] = [
     "citations": 3
   },
   {
+    "id": "https://openalex.org/T10844",
+    "name": "Radiation Dose and Imaging",
+    "publications": 1,
+    "citations": 3
+  },
+  {
     "id": "https://openalex.org/T12713",
     "name": "Forest Ecology and Biodiversity Studies",
     "publications": 1,
@@ -2271,12 +2277,6 @@ export const topicStats: TopicStats[] = [
     "name": "Speech and Audio Processing",
     "publications": 1,
     "citations": 3
-  },
-  {
-    "id": "https://openalex.org/T10844",
-    "name": "Radiation Dose and Imaging",
-    "publications": 1,
-    "citations": 2
   },
   {
     "id": "https://openalex.org/T10734",
@@ -3293,7 +3293,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 755,
-    "citations": 8923
+    "citations": 8925
   },
   {
     "id": "https://openalex.org/I5681781",
@@ -3305,7 +3305,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210143841",
     "name": "Saudi Aramco (Saudi Arabia)",
     "publications": 173,
-    "citations": 4115
+    "citations": 4116
   },
   {
     "id": "https://openalex.org/I36197038",
@@ -3899,7 +3899,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I876237426",
     "name": "Gombe State University",
     "publications": 12,
-    "citations": 109
+    "citations": 110
   },
   {
     "id": "https://openalex.org/I63601056",
@@ -4433,7 +4433,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4387156178",
     "name": "Federal University Dutse",
     "publications": 7,
-    "citations": 36
+    "citations": 37
   },
   {
     "id": "https://openalex.org/I21370196",
@@ -5171,7 +5171,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I116953780",
     "name": "Tongji University",
     "publications": 4,
-    "citations": 85
+    "citations": 86
   },
   {
     "id": "https://openalex.org/I111112146",
@@ -5750,16 +5750,16 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 33
   },
   {
-    "id": "https://openalex.org/I84058292",
-    "name": "Helwan University",
+    "id": "https://openalex.org/I139322472",
+    "name": "Universiti Sains Malaysia",
     "publications": 3,
     "citations": 31
   },
   {
-    "id": "https://openalex.org/I139322472",
-    "name": "Universiti Sains Malaysia",
+    "id": "https://openalex.org/I84058292",
+    "name": "Helwan University",
     "publications": 3,
-    "citations": 30
+    "citations": 31
   },
   {
     "id": "https://openalex.org/I2801549625",
@@ -5777,7 +5777,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4391767744",
     "name": "State Key Laboratory of Marine Geology",
     "publications": 3,
-    "citations": 27
+    "citations": 28
   },
   {
     "id": "https://openalex.org/I1305695959",
@@ -9362,6 +9362,18 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 3
   },
   {
+    "id": "https://openalex.org/I2800437794",
+    "name": "Federal University Lafia",
+    "publications": 1,
+    "citations": 3
+  },
+  {
+    "id": "https://openalex.org/I3129379329",
+    "name": "Sokoto State University",
+    "publications": 1,
+    "citations": 3
+  },
+  {
     "id": "https://openalex.org/I124227911",
     "name": "Ben-Gurion University of the Negev",
     "publications": 1,
@@ -9502,18 +9514,6 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I92008406",
     "name": "University of Stavanger",
-    "publications": 1,
-    "citations": 2
-  },
-  {
-    "id": "https://openalex.org/I2800437794",
-    "name": "Federal University Lafia",
-    "publications": 1,
-    "citations": 2
-  },
-  {
-    "id": "https://openalex.org/I3129379329",
-    "name": "Sokoto State University",
     "publications": 1,
     "citations": 2
   },
