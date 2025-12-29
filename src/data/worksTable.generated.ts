@@ -27130,6 +27130,38 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W4408588305",
+    "doi": "https://doi.org/10.3390/min15030317",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5014657720",
+    "allAuthorOpenAlexIds": [
+      "A5014657720",
+      "A5072935704",
+      "A5027197211",
+      "A5104094821"
+    ],
+    "firstAuthorLastName": "Salisu",
+    "allAuthors": [
+      "Anas Muhammad Salisu",
+      "Abdulwahab Muhammad Bello",
+      "Abduljamiu O. Amao",
+      "Khalid Al‐Ramadan"
+    ],
+    "title": "The Role of Fluid Chemistry in the Diagenetic Transformation of Detrital Clay Minerals: Experimental Insights from Modern Estuarine Sediments",
+    "publicationDate": "2025-03-19",
+    "year": 2025,
+    "venue": "Minerals",
+    "citations": 1,
+    "topics": [
+      "Clay minerals and soil interactions",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Soil and Unsaturated Flow"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4412746153",
     "doi": "https://doi.org/10.1016/j.energy.2025.137837",
     "program": "",
@@ -27411,38 +27443,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Gombe State University",
       "Federal University Dutse"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4408588305",
-    "doi": "https://doi.org/10.3390/min15030317",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5014657720",
-    "allAuthorOpenAlexIds": [
-      "A5014657720",
-      "A5072935704",
-      "A5027197211",
-      "A5104094821"
-    ],
-    "firstAuthorLastName": "Salisu",
-    "allAuthors": [
-      "Anas Muhammad Salisu",
-      "Abdulwahab Muhammad Bello",
-      "Abduljamiu O. Amao",
-      "Khalid Al‐Ramadan"
-    ],
-    "title": "The Role of Fluid Chemistry in the Diagenetic Transformation of Detrital Clay Minerals: Experimental Insights from Modern Estuarine Sediments",
-    "publicationDate": "2025-03-19",
-    "year": 2025,
-    "venue": "Minerals",
-    "citations": 0,
-    "topics": [
-      "Clay minerals and soil interactions",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Soil and Unsaturated Flow"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -98313,6 +98313,34 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W3119778467",
+    "doi": "https://doi.org/10.1016/j.gca.2020.12.024",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5051302005",
+    "allAuthorOpenAlexIds": [
+      "A5051302005",
+      "A5081422106"
+    ],
+    "firstAuthorLastName": "Herlambang",
+    "allAuthors": [
+      "Adhipa Herlambang",
+      "Cédric M. John"
+    ],
+    "title": "Combining clumped isotope and trace element analysis to constrain potential kinetic effects in calcite",
+    "publicationDate": "2021-01-05",
+    "year": 2021,
+    "venue": "Geochimica et Cosmochimica Acta",
+    "citations": 5,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "Imperial College London"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4407947147",
     "doi": "https://doi.org/10.2110/jsr.2024.124",
     "program": "",
@@ -98351,34 +98379,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
       "Universitat de Barcelona"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W3119778467",
-    "doi": "https://doi.org/10.1016/j.gca.2020.12.024",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5051302005",
-    "allAuthorOpenAlexIds": [
-      "A5051302005",
-      "A5081422106"
-    ],
-    "firstAuthorLastName": "Herlambang",
-    "allAuthors": [
-      "Adhipa Herlambang",
-      "Cédric M. John"
-    ],
-    "title": "Combining clumped isotope and trace element analysis to constrain potential kinetic effects in calcite",
-    "publicationDate": "2021-01-05",
-    "year": 2021,
-    "venue": "Geochimica et Cosmochimica Acta",
-    "citations": 5,
-    "topics": [
-      "Geology and Paleoclimatology Research",
-      "Paleontology and Stratigraphy of Fossils",
-      "Geological and Geochemical Analysis"
-    ],
-    "institutions": [
-      "Imperial College London"
     ]
   },
   {
@@ -112266,38 +112266,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4408699740",
-    "doi": "https://doi.org/10.1016/j.jnggs.2025.02.002",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5070411489",
-    "allAuthorOpenAlexIds": [
-      "A5070411489",
-      "A5036328647",
-      "A5090879935",
-      "A5046712711",
-      "A5079669280"
-    ],
-    "firstAuthorLastName": "Khadri",
-    "allAuthors": [
-      "Syed Oubee Khadri",
-      "Ahmed Hamza",
-      "Ibnelwaleed A. Hussein",
-      "Hamad Al-Saad Al-Kuwari",
-      "Fadhil Sadooni"
-    ],
-    "title": "Geochemical and petrophysical characterization of the Midra Shale, Qatar",
-    "publicationDate": "2025-03-21",
-    "year": 2025,
-    "venue": "Journal of Natural Gas Geoscience",
-    "citations": 2,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geochemistry and Geologic Mapping",
-      "Hydraulic Fracturing and Reservoir Analysis"
-    ],
-    "institutions": []
-  },
-  {
     "workId": "https://openalex.org/W4412083068",
     "doi": "https://doi.org/10.1007/s10661-025-14348-0",
     "program": "",
@@ -112604,6 +112572,38 @@ export const worksTable: WorkTableRecord[] = [
       "Coastal and Marine Management",
       "Coastal wetland ecosystem dynamics",
       "Coastal and Marine Dynamics"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4408699740",
+    "doi": "https://doi.org/10.1016/j.jnggs.2025.02.002",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5070411489",
+    "allAuthorOpenAlexIds": [
+      "A5070411489",
+      "A5036328647",
+      "A5090879935",
+      "A5046712711",
+      "A5079669280"
+    ],
+    "firstAuthorLastName": "Khadri",
+    "allAuthors": [
+      "Syed Oubee Khadri",
+      "Ahmed Hamza",
+      "Ibnelwaleed A. Hussein",
+      "Hamad Al-Saad Al-Kuwari",
+      "Fadhil Sadooni"
+    ],
+    "title": "Geochemical and petrophysical characterization of the Midra Shale, Qatar",
+    "publicationDate": "2025-03-21",
+    "year": 2025,
+    "venue": "Journal of Natural Gas Geoscience",
+    "citations": 2,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geochemistry and Geologic Mapping",
+      "Hydraulic Fracturing and Reservoir Analysis"
     ],
     "institutions": []
   },

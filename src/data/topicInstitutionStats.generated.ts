@@ -20,7 +20,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1196,
-    "citations": 21679
+    "citations": 21680
   },
   {
     "id": "https://openalex.org/T10109",
@@ -290,7 +290,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11852",
     "name": "Clay minerals and soil interactions",
     "publications": 23,
-    "citations": 131
+    "citations": 132
   },
   {
     "id": "https://openalex.org/T11284",
@@ -986,7 +986,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10716",
     "name": "Soil and Unsaturated Flow",
     "publications": 3,
-    "citations": 34
+    "citations": 35
   },
   {
     "id": "https://openalex.org/T10233",
@@ -3293,7 +3293,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 755,
-    "citations": 8925
+    "citations": 8926
   },
   {
     "id": "https://openalex.org/I5681781",
