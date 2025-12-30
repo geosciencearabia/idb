@@ -47885,6 +47885,40 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W4408806439",
+    "doi": "https://doi.org/10.1016/j.surfin.2025.106298",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5034568196",
+    "allAuthorOpenAlexIds": [
+      "A5034568196",
+      "A5070394208",
+      "A5085351180",
+      "A5062007467",
+      "A5009033232",
+      "A5072286524"
+    ],
+    "firstAuthorLastName": "Bafaqeer",
+    "allAuthors": [
+      "Abdullah Bafaqeer",
+      "Aniz Chennampilly Ummer",
+      "Sani I. Abba",
+      "Hammam Abdurabu Thabit",
+      "Mohammed Benaafi",
+      "Jamilu Usman"
+    ],
+    "title": "Well-designed 1D/2D Ag3VO4/Fe2TiO5 type-II heterojunction with enhanced interfacial charge separation for visible-light-driven photocatalytic CO2 conversion",
+    "publicationDate": "2025-03-25",
+    "year": 2025,
+    "venue": "Surfaces and Interfaces",
+    "citations": 1,
+    "topics": [
+      "Advanced Photocatalysis Techniques",
+      "Copper-based nanomaterials and applications",
+      "Advanced Nanomaterials in Catalysis"
+    ],
+    "institutions": []
+  },
+  {
     "workId": "https://openalex.org/W4410077348",
     "doi": "https://doi.org/10.1007/s42947-025-00552-1",
     "program": "",
@@ -48290,40 +48324,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
-    "workId": "https://openalex.org/W4408806439",
-    "doi": "https://doi.org/10.1016/j.surfin.2025.106298",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5034568196",
-    "allAuthorOpenAlexIds": [
-      "A5034568196",
-      "A5070394208",
-      "A5085351180",
-      "A5062007467",
-      "A5009033232",
-      "A5072286524"
-    ],
-    "firstAuthorLastName": "Bafaqeer",
-    "allAuthors": [
-      "Abdullah Bafaqeer",
-      "Aniz Chennampilly Ummer",
-      "Sani I. Abba",
-      "Hammam Abdurabu Thabit",
-      "Mohammed Benaafi",
-      "Jamilu Usman"
-    ],
-    "title": "Well-designed 1D/2D Ag3VO4/Fe2TiO5 type-II heterojunction with enhanced interfacial charge separation for visible-light-driven photocatalytic CO2 conversion",
-    "publicationDate": "2025-03-25",
-    "year": 2025,
-    "venue": "Surfaces and Interfaces",
-    "citations": 0,
-    "topics": [
-      "Advanced Photocatalysis Techniques",
-      "Copper-based nanomaterials and applications",
-      "Advanced Nanomaterials in Catalysis"
-    ],
-    "institutions": []
-  },
-  {
     "workId": "https://openalex.org/W4409994417",
     "doi": "https://doi.org/10.2139/ssrn.5238207",
     "program": "",
@@ -48508,6 +48508,59 @@ export const worksTable: WorkTableRecord[] = [
     "citations": 0,
     "topics": [],
     "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W7117488147",
+    "doi": "https://doi.org/10.1007/s10333-025-01055-2",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5034568196",
+    "allAuthorOpenAlexIds": [
+      "A5034568196",
+      "A5087168718",
+      "A5030774665",
+      "A5121450463",
+      "A5121489773",
+      "A5049066509",
+      "A5064450267",
+      "A5095460378",
+      "A5001435644",
+      "A5102075737",
+      "A5121466365"
+    ],
+    "firstAuthorLastName": "Akhtar",
+    "allAuthors": [
+      "Naseem Akhtar",
+      "Muhammad Syakir",
+      "Syahidah Akmal Muhammad",
+      "Aznan Fazli Ismail",
+      "Mohamad Shaiful Md Yusuff",
+      "Leila Bouida",
+      "Hamza Mohamed Flafel",
+      "Pahmi Husain",
+      "Mohammed Benaafi",
+      "Taskin Ahmed",
+      "Mohammad Muqtada Ali Khan"
+    ],
+    "title": "Characterization of aquifer hydraulics and pumping well yield for supplemental paddy crop irrigation using pumping tests in Perak, Malaysia",
+    "publicationDate": "2025-12-29",
+    "year": 2025,
+    "venue": "Paddy and Water Environment",
+    "citations": 0,
+    "topics": [
+      "Groundwater and Watershed Analysis",
+      "Groundwater and Isotope Geochemistry",
+      "Irrigation Practices and Water Management"
+    ],
+    "institutions": [
+      "Universiti Sains Malaysia",
+      "Libyan Academy",
+      "National University of Malaysia",
+      "Center for Solar Energy Research and Studies",
+      "Universitas Nahdlatul Wathan Mataram",
+      "King Fahd University of Petroleum and Minerals",
+      "Aligarh Muslim University",
+      "Universiti Malaysia Kelantan"
+    ]
   },
   {
     "workId": "https://openalex.org/W4200526577",

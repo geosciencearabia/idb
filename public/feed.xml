@@ -4,8 +4,17 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Mon, 29 Dec 2025 20:16:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 20:15:23 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Characterization of aquifer hydraulics and pumping well yield for supplemental paddy crop irrigation using pumping tests in Perak, Malaysia</title>
+      <link>https://doi.org/10.1007/s10333-025-01055-2</link>
+      <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7117488147</guid>
+      <dc:creator>Naseem Akhtar, Muhammad Syakir, Syahidah Akmal Muhammad, Aznan Fazli Ismail, Mohamad Shaiful Md Yusuff, Leila Bouida, Hamza Mohamed Flafel, Pahmi Husain, Mohammed Benaafi, Taskin Ahmed, Mohammad Muqtada Ali Khan</dc:creator>
+      <dc:publisher>Paddy and Water Environment</dc:publisher>
+      <description>Venue: Paddy and Water Environment&#10;Year: 2025&#10;Citations: 0</description>
+    </item>
     <item>
       <title>Integrative Dashboard (IDB)</title>
       <link>https://doi.org/10.5281/zenodo.18027324</link>
@@ -1032,20 +1041,6 @@
       <category>Algorithm</category>
       <category>Regression</category>
       <description>Abstract: In this study, we focused on improving acoustic impedance (AI) in seismic exploration. AI is a crucial parameter estimated by multiplying the density of a material by the velocity of an acoustic wave passing through it. A low AI in sandstones and carbonates often indicates high porosity, which enhances hydrocarbon accumulation. Accurate AI estimation is thus critical for reliable hydrocarbon exploration. To refine the AI estimation, we used stacking and voting regression algorithms, with depth, two-way travel time (TWTT), and nine seismic attributes as inputs. All models were implemented using scikit-learn . The VStaR model achieved superior predictive performance ([Formula: see text]= 0.9973) and yielded a more accurate fitting parameter (a = 0.1584) in the acoustic impedance-porosity transformation compared to the VSR ([Formula: see text]= 0.9775, a = 0.1583). The VSR approach made the voting of a top-performing base model with two less predictive base models, as used in the existing literature. Relative to the true and BLIMP-derived impedance, the fitting accuracy followed the order of true &gt; VStaR &gt; VSR &gt; BLIMP. While VStaR required longer computation time (≈ 400 s), it reduced RMSE by 14.74% compared to the top-performing base model. VStaR outperformed all evaluated models based on MSE, RMSE, and [Formula: see text] metrics. The novelty of the VStaR method based on hyperparameters lies in its superior performance in obtaining a more precise prediction of acoustic impedan…&#10;Topics: Voting, Computer science, Inversion (geology), Algorithm, Regression&#10;Venue: Scientific Reports&#10;Year: 2025&#10;Citations: 3</description>
-    </item>
-    <item>
-      <title>Seismic stratigraphy and evolution of mesozoic deposits in the central Arabian basin</title>
-      <link>https://doi.org/10.1038/s41598-025-05349-7</link>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4411866663</guid>
-      <dc:creator>Dicky Harishidayat, Abdullatif Al‐Shuhail, Abdullatif Al‐Shuhail</dc:creator>
-      <dc:publisher>Scientific Reports</dc:publisher>
-      <category>Mesozoic</category>
-      <category>Stratigraphy</category>
-      <category>Geology</category>
-      <category>Structural basin</category>
-      <category>Paleontology</category>
-      <description>Abstract: The Central Arabian Basin is a sedimentary basin that contains a significant number of hydrocarbon reserves. In addition, the Mesozoic succession has the most petroleum system elements. However, publicly available subsurface data for the Central Arabian Basin are scarce. Therefore, our study successfully utilizes wellbore and 2D seismic reflection data from the Central Arabian Basin to reveal the sedimentary processes, depositional environment, and evolution of Mesozoic deposits. Six horizons with onlap and truncation seismic reflection termination, hummocky, subparallel, onlap fill, and chaotic structures with recognizable stratal pattern seismic reflection configurations are interpreted. The lithologies of the Mesozoic deposits are limestone, dolomite, anhydrite, sandstone, and shales. The Mesozoic deposits in the study area were deposited in the shallow marine environment of an intrashelf basin with tidal channels, reefs and transgressive shale depositional elements. Our workflow provides an interpretation of the stratigraphic evolution and depositional environment of Mesozoic deposits in the Central Arabian Basin and could also be applied to a basin with a similar geological setting worldwide.&#10;Topics: Mesozoic, Stratigraphy, Geology, Structural basin, Paleontology&#10;Venue: Scientific Reports&#10;Year: 2025&#10;Citations: 1</description>
     </item>
   </channel>
 </rss>

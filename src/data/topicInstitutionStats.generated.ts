@@ -169,7 +169,7 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T10398",
     "name": "Groundwater and Isotope Geochemistry",
-    "publications": 68,
+    "publications": 69,
     "citations": 629
   },
   {
@@ -205,7 +205,7 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T12543",
     "name": "Groundwater and Watershed Analysis",
-    "publications": 41,
+    "publications": 42,
     "citations": 502
   },
   {
@@ -1058,13 +1058,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10078",
     "name": "Advanced Photocatalysis Techniques",
     "publications": 3,
-    "citations": 11
+    "citations": 12
   },
   {
     "id": "https://openalex.org/T11907",
     "name": "Copper-based nanomaterials and applications",
     "publications": 3,
-    "citations": 11
+    "citations": 12
   },
   {
     "id": "https://openalex.org/T11949",
@@ -2471,6 +2471,12 @@ export const topicStats: TopicStats[] = [
     "citations": 1
   },
   {
+    "id": "https://openalex.org/T12302",
+    "name": "Advanced Nanomaterials in Catalysis",
+    "publications": 1,
+    "citations": 1
+  },
+  {
     "id": "https://openalex.org/T10264",
     "name": "Asphalt Pavement Performance Evaluation",
     "publications": 1,
@@ -2819,14 +2825,14 @@ export const topicStats: TopicStats[] = [
     "citations": 0
   },
   {
-    "id": "https://openalex.org/T12302",
-    "name": "Advanced Nanomaterials in Catalysis",
+    "id": "https://openalex.org/T11690",
+    "name": "Advanced battery technologies research",
     "publications": 1,
     "citations": 0
   },
   {
-    "id": "https://openalex.org/T11690",
-    "name": "Advanced battery technologies research",
+    "id": "https://openalex.org/T11404",
+    "name": "Irrigation Practices and Water Management",
     "publications": 1,
     "citations": 0
   },
@@ -3292,7 +3298,7 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
-    "publications": 755,
+    "publications": 756,
     "citations": 8926
   },
   {
@@ -5252,6 +5258,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 32
   },
   {
+    "id": "https://openalex.org/I139322472",
+    "name": "Universiti Sains Malaysia",
+    "publications": 4,
+    "citations": 31
+  },
+  {
     "id": "https://openalex.org/I4391012572",
     "name": "Akademickie Centrum Komputerowe Cyfronet AGH",
     "publications": 4,
@@ -5748,12 +5760,6 @@ export const institutionStats: InstitutionStats[] = [
     "name": "University of Nigeria",
     "publications": 3,
     "citations": 33
-  },
-  {
-    "id": "https://openalex.org/I139322472",
-    "name": "Universiti Sains Malaysia",
-    "publications": 3,
-    "citations": 31
   },
   {
     "id": "https://openalex.org/I84058292",
@@ -6820,6 +6826,12 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I181063083",
     "name": "Abdul Wali Khan University Mardan",
+    "publications": 2,
+    "citations": 13
+  },
+  {
+    "id": "https://openalex.org/I4210161365",
+    "name": "Libyan Academy",
     "publications": 2,
     "citations": 13
   },
@@ -8714,12 +8726,6 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 13
   },
   {
-    "id": "https://openalex.org/I4210161365",
-    "name": "Libyan Academy",
-    "publications": 1,
-    "citations": 13
-  },
-  {
     "id": "https://openalex.org/I181903023",
     "name": "Xi'an Shiyou University",
     "publications": 1,
@@ -9928,6 +9934,36 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I4210132231",
     "name": "International University of Business Agriculture and Technology",
+    "publications": 1,
+    "citations": 0
+  },
+  {
+    "id": "https://openalex.org/I885383172",
+    "name": "National University of Malaysia",
+    "publications": 1,
+    "citations": 0
+  },
+  {
+    "id": "https://openalex.org/I4210116937",
+    "name": "Center for Solar Energy Research and Studies",
+    "publications": 1,
+    "citations": 0
+  },
+  {
+    "id": "https://openalex.org/I4210135673",
+    "name": "Universitas Nahdlatul Wathan Mataram",
+    "publications": 1,
+    "citations": 0
+  },
+  {
+    "id": "https://openalex.org/I171210897",
+    "name": "Aligarh Muslim University",
+    "publications": 1,
+    "citations": 0
+  },
+  {
+    "id": "https://openalex.org/I226432",
+    "name": "Universiti Malaysia Kelantan",
     "publications": 1,
     "citations": 0
   },
