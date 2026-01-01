@@ -1064,5 +1064,23 @@ export const authors: AuthorRecord[] = [
     "totalPublications": 115,
     "totalCitations": 2692,
     "hIndex": 31
+  },
+  {
+    "authorId": "idb0058-al-masrahy-mohammed",
+    "openAlexId": "A5042665751",
+    "openAlexIds": [
+      "A5042665751"
+    ],
+    "name": "Mohammed Al-Masrahy",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "",
+    "orcid": "",
+    "totalPublications": 15,
+    "totalCitations": 246,
+    "hIndex": 5
   }
 ];

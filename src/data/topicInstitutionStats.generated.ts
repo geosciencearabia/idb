@@ -19,20 +19,20 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
-    "publications": 1196,
-    "citations": 21680
+    "publications": 1201,
+    "citations": 21687
   },
   {
     "id": "https://openalex.org/T10109",
     "name": "Paleontology and Stratigraphy of Fossils",
-    "publications": 977,
+    "publications": 978,
     "citations": 27958
   },
   {
     "id": "https://openalex.org/T10017",
     "name": "Geology and Paleoclimatology Research",
-    "publications": 725,
-    "citations": 17400
+    "publications": 733,
+    "citations": 17631
   },
   {
     "id": "https://openalex.org/T10001",
@@ -43,8 +43,8 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T10965",
     "name": "Geological formations and processes",
-    "publications": 606,
-    "citations": 17600
+    "publications": 614,
+    "citations": 17760
   },
   {
     "id": "https://openalex.org/T12157",
@@ -55,20 +55,20 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T13177",
     "name": "Geological and Geophysical Studies",
-    "publications": 546,
-    "citations": 9861
+    "publications": 549,
+    "citations": 9867
+  },
+  {
+    "id": "https://openalex.org/T10635",
+    "name": "Hydraulic Fracturing and Reservoir Analysis",
+    "publications": 317,
+    "citations": 3777
   },
   {
     "id": "https://openalex.org/T10995",
     "name": "Methane Hydrates and Related Phenomena",
     "publications": 316,
     "citations": 5170
-  },
-  {
-    "id": "https://openalex.org/T10635",
-    "name": "Hydraulic Fracturing and Reservoir Analysis",
-    "publications": 314,
-    "citations": 3777
   },
   {
     "id": "https://openalex.org/T10110",
@@ -79,13 +79,13 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T13193",
     "name": "Geological Studies and Exploration",
-    "publications": 272,
+    "publications": 273,
     "citations": 6192
   },
   {
     "id": "https://openalex.org/T10271",
     "name": "Seismic Imaging and Inversion Techniques",
-    "publications": 208,
+    "publications": 209,
     "citations": 1289
   },
   {
@@ -109,8 +109,8 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T11801",
     "name": "Reservoir Engineering and Simulation Methods",
-    "publications": 146,
-    "citations": 870
+    "publications": 149,
+    "citations": 874
   },
   {
     "id": "https://openalex.org/T10892",
@@ -221,6 +221,12 @@ export const topicStats: TopicStats[] = [
     "citations": 159
   },
   {
+    "id": "https://openalex.org/T12383",
+    "name": "Aeolian processes and effects",
+    "publications": 35,
+    "citations": 559
+  },
+  {
     "id": "https://openalex.org/T10385",
     "name": "Plant Diversity and Evolution",
     "publications": 34,
@@ -261,12 +267,6 @@ export const topicStats: TopicStats[] = [
     "name": "Rock Mechanics and Modeling",
     "publications": 28,
     "citations": 338
-  },
-  {
-    "id": "https://openalex.org/T12383",
-    "name": "Aeolian processes and effects",
-    "publications": 28,
-    "citations": 327
   },
   {
     "id": "https://openalex.org/T11786",
@@ -527,6 +527,12 @@ export const topicStats: TopicStats[] = [
     "citations": 214
   },
   {
+    "id": "https://openalex.org/T10889",
+    "name": "Soil erosion and sediment transport",
+    "publications": 10,
+    "citations": 155
+  },
+  {
     "id": "https://openalex.org/T11923",
     "name": "Mine drainage and remediation techniques",
     "publications": 10,
@@ -615,12 +621,6 @@ export const topicStats: TopicStats[] = [
     "name": "Plant and Fungal Species Descriptions",
     "publications": 8,
     "citations": 267
-  },
-  {
-    "id": "https://openalex.org/T10889",
-    "name": "Soil erosion and sediment transport",
-    "publications": 8,
-    "citations": 81
   },
   {
     "id": "https://openalex.org/T12012",
@@ -3310,8 +3310,8 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I4210143841",
     "name": "Saudi Aramco (Saudi Arabia)",
-    "publications": 173,
-    "citations": 4116
+    "publications": 176,
+    "citations": 4122
   },
   {
     "id": "https://openalex.org/I36197038",
@@ -3374,16 +3374,16 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 853
   },
   {
+    "id": "https://openalex.org/I62856769",
+    "name": "Saudi Aramco (United States)",
+    "publications": 75,
+    "citations": 1387
+  },
+  {
     "id": "https://openalex.org/I100532134",
     "name": "Université Claude Bernard Lyon 1",
     "publications": 70,
     "citations": 1621
-  },
-  {
-    "id": "https://openalex.org/I62856769",
-    "name": "Saudi Aramco (United States)",
-    "publications": 69,
-    "citations": 1374
   },
   {
     "id": "https://openalex.org/I71920554",
@@ -3846,6 +3846,12 @@ export const institutionStats: InstitutionStats[] = [
     "name": "Durham University",
     "publications": 12,
     "citations": 461
+  },
+  {
+    "id": "https://openalex.org/I130828816",
+    "name": "University of Leeds",
+    "publications": 12,
+    "citations": 437
   },
   {
     "id": "https://openalex.org/I161929037",
@@ -4352,12 +4358,6 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 323
   },
   {
-    "id": "https://openalex.org/I130828816",
-    "name": "University of Leeds",
-    "publications": 7,
-    "citations": 221
-  },
-  {
     "id": "https://openalex.org/I1319328641",
     "name": "British Antarctic Survey",
     "publications": 7,
@@ -4440,6 +4440,12 @@ export const institutionStats: InstitutionStats[] = [
     "name": "Federal University Dutse",
     "publications": 7,
     "citations": 37
+  },
+  {
+    "id": "https://openalex.org/I25217355",
+    "name": "University of Pavia",
+    "publications": 7,
+    "citations": 36
   },
   {
     "id": "https://openalex.org/I21370196",
@@ -4686,12 +4692,6 @@ export const institutionStats: InstitutionStats[] = [
     "name": "The University of Tokyo",
     "publications": 6,
     "citations": 39
-  },
-  {
-    "id": "https://openalex.org/I25217355",
-    "name": "University of Pavia",
-    "publications": 6,
-    "citations": 35
   },
   {
     "id": "https://openalex.org/I20303223",
@@ -9310,6 +9310,12 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I156216236",
     "name": "Qassim University",
+    "publications": 1,
+    "citations": 4
+  },
+  {
+    "id": "https://openalex.org/I145487455",
+    "name": "Cairo University",
     "publications": 1,
     "citations": 4
   },

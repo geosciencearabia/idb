@@ -77142,6 +77142,420 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W1999436875",
+    "doi": "https://doi.org/10.1016/j.aeolia.2015.01.010",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5042665751",
+    "allAuthorOpenAlexIds": [
+      "A5042665751",
+      "A5022451423"
+    ],
+    "firstAuthorLastName": "Al‐Masrahy",
+    "allAuthors": [
+      "Mohammed Al‐Masrahy",
+      "Nigel P. Mountney"
+    ],
+    "title": "A classification scheme for fluvial–aeolian system interaction in desert-margin settings",
+    "publicationDate": "2015-02-26",
+    "year": 2015,
+    "venue": "Aeolian Research",
+    "citations": 144,
+    "topics": [
+      "Aeolian processes and effects",
+      "Geology and Paleoclimatology Research",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "University of Leeds"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2004408791",
+    "doi": "https://doi.org/10.1016/j.aeolia.2013.06.004",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5042665751",
+    "allAuthorOpenAlexIds": [
+      "A5042665751",
+      "A5022451423"
+    ],
+    "firstAuthorLastName": "Al‐Masrahy",
+    "allAuthors": [
+      "Mohammed Al‐Masrahy",
+      "Nigel P. Mountney"
+    ],
+    "title": "Remote sensing of spatial variability in aeolian dune and interdune morphology in the Rub’ Al-Khali, Saudi Arabia",
+    "publicationDate": "2013-07-17",
+    "year": 2013,
+    "venue": "Aeolian Research",
+    "citations": 69,
+    "topics": [
+      "Aeolian processes and effects",
+      "Geology and Paleoclimatology Research",
+      "Soil erosion and sediment transport"
+    ],
+    "institutions": [
+      "University of Leeds"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2620854490",
+    "doi": "https://doi.org/10.2118/188092-ms",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5042665751",
+    "allAuthorOpenAlexIds": [
+      "A5042665751"
+    ],
+    "firstAuthorLastName": "Al‐Masrahy",
+    "allAuthors": [
+      "Mohammed Al‐Masrahy"
+    ],
+    "title": "Modelling Temporal and Spatial Sedimentary Architectural Complexity in Mixed Aeolian-Fluvial Reservoir Successions",
+    "publicationDate": "2017-04-24",
+    "year": 2017,
+    "venue": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition",
+    "citations": 10,
+    "topics": [
+      "Aeolian processes and effects",
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Saudi Aramco (United States)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4392221632",
+    "doi": "https://doi.org/10.2523/iptc-24446-ea",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5042665751",
+    "allAuthorOpenAlexIds": [
+      "A5042665751",
+      "A5073646506",
+      "A5108904312",
+      "A5070072699"
+    ],
+    "firstAuthorLastName": "Al‐Masrahy",
+    "allAuthors": [
+      "Mohammed Al‐Masrahy",
+      "Hakima Ali Lahmar",
+      "Abdelmoniem Elaraby",
+      "Aimen Amer"
+    ],
+    "title": "Advanced Paleocurrent Analysis Over the Permo-Carboniferous, Methods to Reveal Its Complex Depositional History, Saudi Arabia",
+    "publicationDate": "2024-02-12",
+    "year": 2024,
+    "venue": "International Petroleum Technology Conference",
+    "citations": 4,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Reservoir Engineering and Simulation Methods",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)",
+      "Cairo University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4252385371",
+    "doi": "https://doi.org/10.2523/19635-abstract",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5042665751",
+    "allAuthorOpenAlexIds": [
+      "A5042665751"
+    ],
+    "firstAuthorLastName": "Al‐Masrahy",
+    "allAuthors": [
+      "Mohammed Al‐Masrahy"
+    ],
+    "title": "Significance of Aeolian Deposits Resultant Drift Direction, Implications for Reservoir Prediction, Utilizing Subsurface and Analogue Data",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "International Petroleum Technology Conference",
+    "citations": 5,
+    "topics": [
+      "Aeolian processes and effects",
+      "Soil erosion and sediment transport",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3000146708",
+    "doi": "https://doi.org/10.2523/iptc-19635-abstract",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5042665751",
+    "allAuthorOpenAlexIds": [
+      "A5042665751"
+    ],
+    "firstAuthorLastName": "Al‐Masrahy",
+    "allAuthors": [
+      "Mohammed Al‐Masrahy"
+    ],
+    "title": "Significance of Aeolian Deposits Resultant Drift Direction, Implications for Reservoir Prediction, Utilizing Subsurface and Analogue Data",
+    "publicationDate": "2020-01-11",
+    "year": 2020,
+    "venue": "International Petroleum Technology Conference",
+    "citations": 3,
+    "topics": [
+      "Aeolian processes and effects",
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "Saudi Aramco (United States)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4408385867",
+    "doi": "https://doi.org/10.1111/sed.70000",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5042665751",
+    "allAuthorOpenAlexIds": [
+      "A5042665751",
+      "A5066611492",
+      "A5050684737",
+      "A5007815075",
+      "A5022451423",
+      "A5113732385"
+    ],
+    "firstAuthorLastName": "Cosgrove",
+    "allAuthors": [
+      "Grace I.E. Cosgrove",
+      "Mohamed Al-Kathery",
+      "Mohammed Al‐Masrahy",
+      "Luca Colombera",
+      "Nigel P. Mountney",
+      "David B. Thompson"
+    ],
+    "title": "Quantitative sedimentological analysis of the aeolian–fluvial Triassic Sherwood Sandstone Group, Cheshire Basin, <scp>UK</scp>",
+    "publicationDate": "2025-03-03",
+    "year": 2025,
+    "venue": "Sedimentology",
+    "citations": 1,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Aeolian processes and effects"
+    ],
+    "institutions": [
+      "University of Leeds",
+      "University of Pavia"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3190305429",
+    "doi": "https://doi.org/10.2110/jsr.2020.077",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5042665751",
+    "allAuthorOpenAlexIds": [
+      "A5042665751",
+      "A5031073959",
+      "A5022451423",
+      "A5007815075"
+    ],
+    "firstAuthorLastName": "Alshammari",
+    "allAuthors": [
+      "Bassam Alshammari",
+      "Nigel P. Mountney",
+      "Luca Colombera",
+      "Mohammed Al‐Masrahy"
+    ],
+    "title": "Sedimentology and stratigraphic architecture of a fluvial to shallow-marine succession: The Jurassic Dhruma Formation, Saudi Arabia",
+    "publicationDate": "2021-07-30",
+    "year": 2021,
+    "venue": "Journal of Sedimentary Research",
+    "citations": 2,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "University of Leeds",
+      "Saudi Aramco (Saudi Arabia)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2015162425",
+    "doi": "https://doi.org/10.2118/148362-ms",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5042665751",
+    "allAuthorOpenAlexIds": [
+      "A5042665751",
+      "A5085576375",
+      "A5051141940",
+      "A5002793923"
+    ],
+    "firstAuthorLastName": "Lacroix",
+    "allAuthors": [
+      "Pierre Lacroix",
+      "Mohammed Al‐Masrahy",
+      "Mark Prudden",
+      "Thomas Loretto"
+    ],
+    "title": "\"Modeling with Intensity\" — The Use of Intensity Functions to Condition 3D Geologic Reservoir Models",
+    "publicationDate": "2011-10-09",
+    "year": 2011,
+    "venue": "SPE Reservoir Characterisation and Simulation Conference and Exhibition",
+    "citations": 0,
+    "topics": [
+      "Reservoir Engineering and Simulation Methods",
+      "Seismic Imaging and Inversion Techniques",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": [
+      "Saudi Aramco (United States)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2362747289",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5042665751",
+    "allAuthorOpenAlexIds": [
+      "A5042665751"
+    ],
+    "firstAuthorLastName": "Al‐Masrahy",
+    "allAuthors": [
+      "Mohammed Al‐Masrahy"
+    ],
+    "title": "Fluvial and aeolian interactions in modern and ancient dryland continental sedimentary systems: implications for reservoir heterogeneity",
+    "publicationDate": "2015-12-01",
+    "year": 2015,
+    "venue": "White Rose eTheses Online (University of Leeds, The University of Sheffield, University of York)",
+    "citations": 0,
+    "topics": [
+      "Aeolian processes and effects",
+      "Geology and Paleoclimatology Research",
+      "Geological formations and processes"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4312650265",
+    "doi": "https://doi.org/10.3997/2214-4609.2022627031",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5042665751",
+    "allAuthorOpenAlexIds": [
+      "A5042665751",
+      "A5073123473",
+      "A5051789648",
+      "A5022451423"
+    ],
+    "firstAuthorLastName": "Shammeri",
+    "allAuthors": [
+      "B. Al Shammeri",
+      "L. Colombera",
+      "Nigel P. Mountney",
+      "Mohammed Al‐Masrahy"
+    ],
+    "title": "A Statistical Approach To Discern Lithological Heterogeneity And Connectivity Of Tidal Deposits In The Subsurface Based On Data From Modern And Ancient Analogs: Examples From The Middle Jurassic Dhruma Formation, Saudi Arabia’’.",
+    "publicationDate": "2022-01-01",
+    "year": 2022,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geophysical Studies",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": [
+      "Saudi Aramco (United States)",
+      "University of Leeds"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4414226937",
+    "doi": "https://doi.org/10.2118/227188-ms",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5042665751",
+    "allAuthorOpenAlexIds": [
+      "A5042665751",
+      "A5050684737"
+    ],
+    "firstAuthorLastName": "Al-Kathery",
+    "allAuthors": [
+      "Mohamed Al-Kathery",
+      "Mohammed Al‐Masrahy"
+    ],
+    "title": "Deciphering Heterogeneous Reservoirs: Insights from Integrated Modern Analogues, Ancient Outcrops, and Subsurface Data, Key to Unlocking Opportunities",
+    "publicationDate": "2025-09-16",
+    "year": 2025,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Saudi Aramco (United States)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4414227515",
+    "doi": "https://doi.org/10.2118/227114-ms",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5042665751",
+    "allAuthorOpenAlexIds": [
+      "A5042665751",
+      "A5071025908",
+      "A5109355695",
+      "A5063457131"
+    ],
+    "firstAuthorLastName": "Kassem",
+    "allAuthors": [
+      "Ahmed A. Kassem",
+      "Mohammed Al‐Masrahy",
+      "A. B. Nabiyev",
+      "Syed Bahauddin Alam"
+    ],
+    "title": "From Rock Record to Subsurface Reservoirs: A Novel Workflow Integrating Surface Analogs and Subsurface Data for Advanced Reservoir Characterization",
+    "publicationDate": "2025-09-16",
+    "year": 2025,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Reservoir Engineering and Simulation Methods",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4414602344",
+    "doi": "https://doi.org/10.2118/226915-ms",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5042665751",
+    "allAuthorOpenAlexIds": [
+      "A5042665751",
+      "A5119760967",
+      "A5025307753"
+    ],
+    "firstAuthorLastName": "Priyadi",
+    "allAuthors": [
+      "Yogi Priyadi",
+      "Fanis Khayrutdinov",
+      "Mohammed Al‐Masrahy"
+    ],
+    "title": "Characterizing the Tinat Member: An Interdisciplinary Study Combining Sedimentology, Stratigraphy, and Petrophysics",
+    "publicationDate": "2025-09-16",
+    "year": 2025,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Saudi Aramco (United States)"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2057019444",
     "doi": "https://doi.org/10.1016/j.margeo.2006.08.009",
     "program": "",
@@ -90720,7 +91134,7 @@ export const worksTable: WorkTableRecord[] = [
       "Belinda Smith"
     ],
     "title": "Isotope Constraints on Intra-Basin Correlation and Depositional Settings of the Mid-Proterozoic Carbonates and Organic-Rich Shales in the Greater McArthur Basin, Northern Territory, Australia",
-    "publicationDate": "2018-02-28",
+    "publicationDate": "2018-02-27",
     "year": 2018,
     "venue": "ASEG Extended Abstracts",
     "citations": 4,
@@ -92093,7 +92507,7 @@ export const worksTable: WorkTableRecord[] = [
       "Noreen J. Evans"
     ],
     "title": "Thermochronological history of the northern Olympic Domain of the Gawler Craton; correlations between cooling ages and mineralising systems",
-    "publicationDate": "2018-02-28",
+    "publicationDate": "2018-02-27",
     "year": 2018,
     "venue": "ASEG Extended Abstracts",
     "citations": 0,
