@@ -111032,7 +111032,7 @@ export const worksTable: WorkTableRecord[] = [
   },
   {
     "workId": "https://openalex.org/W2187292488",
-    "doi": "",
+    "doi": "https://doi.org/10.5281/zenodo.18092316",
     "program": "",
     "primaryAuthorOpenAlexId": "A5061320565",
     "allAuthorOpenAlexIds": [
@@ -111049,7 +111049,7 @@ export const worksTable: WorkTableRecord[] = [
       "Abdulaziz A. Al-Laboun"
     ],
     "title": "Integrated Petrophysical Parameters and Petrographic Analysis Characterizing Khartam Reservoirs of the Permo-Triassic Khuff Formation, Saudi Arabia",
-    "publicationDate": "2014-01-01",
+    "publicationDate": "2014-07-01",
     "year": 2014,
     "venue": "",
     "citations": 0,
