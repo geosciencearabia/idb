@@ -12147,9 +12147,9 @@
         },
         "license": "cc-by-nc",
         "license_id": "https://openalex.org/licenses/cc-by-nc",
-        "version": "publishedVersion",
+        "version": "acceptedVersion",
         "is_accepted": true,
-        "is_published": true,
+        "is_published": false,
         "raw_source_name": "Cretaceous Research",
         "raw_type": "journal-article"
       },
@@ -12262,11 +12262,11 @@
         "currency": "USD",
         "value_usd": 3300
       },
-      "fwci": 3.474,
+      "fwci": 3.4708,
       "has_fulltext": true,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.91580108,
+        "value": 0.91574537,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12529,9 +12529,9 @@
           },
           "license": "cc-by-nc",
           "license_id": "https://openalex.org/licenses/cc-by-nc",
-          "version": "publishedVersion",
+          "version": "acceptedVersion",
           "is_accepted": true,
-          "is_published": true,
+          "is_published": false,
           "raw_source_name": "Cretaceous Research",
           "raw_type": "journal-article"
         },
@@ -12593,9 +12593,9 @@
         },
         "license": "cc-by-nc",
         "license_id": "https://openalex.org/licenses/cc-by-nc",
-        "version": "publishedVersion",
+        "version": "acceptedVersion",
         "is_accepted": true,
-        "is_published": true,
+        "is_published": false,
         "raw_source_name": "Cretaceous Research",
         "raw_type": "journal-article"
       },
@@ -13168,7 +13168,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-16T18:09:00.828671",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13506,11 +13506,11 @@
         "value_usd": 3030
       },
       "apc_paid": null,
-      "fwci": 12.0778,
+      "fwci": 11.9609,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.9801606,
+        "value": 0.97959623,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13793,7 +13793,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-16T18:09:00.828671",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -15066,7 +15066,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.gloplacha.2020.103127",
-        "is_oa": false,
+        "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/j.gloplacha.2020.103127",
         "pdf_url": null,
         "source": {
@@ -15092,9 +15092,9 @@
         },
         "license": null,
         "license_id": null,
-        "version": "publishedVersion",
+        "version": "acceptedVersion",
         "is_accepted": true,
-        "is_published": true,
+        "is_published": false,
         "raw_source_name": "Global and Planetary Change",
         "raw_type": "journal-article"
       },
@@ -15104,8 +15104,8 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "https://hal.science/hal-02511298v1/file/Carmeille%20et%20al.%202020%20accept%C3%A9.pdf",
+        "oa_status": "bronze",
+        "oa_url": "https://doi.org/10.1016/j.gloplacha.2020.103127",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -16101,11 +16101,11 @@
         "value_usd": 3150
       },
       "apc_paid": null,
-      "fwci": 2.4126,
+      "fwci": 2.4089,
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.86444642,
+        "value": 0.86419477,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16486,7 +16486,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.gloplacha.2020.103127",
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "https://doi.org/10.1016/j.gloplacha.2020.103127",
           "pdf_url": null,
           "source": {
@@ -16512,9 +16512,9 @@
           },
           "license": null,
           "license_id": null,
-          "version": "publishedVersion",
+          "version": "acceptedVersion",
           "is_accepted": true,
-          "is_published": true,
+          "is_published": false,
           "raw_source_name": "Global and Planetary Change",
           "raw_type": "journal-article"
         },
@@ -16607,33 +16607,38 @@
         }
       ],
       "best_oa_location": {
-        "id": "pmh:oai:HAL:hal-02511298v1",
+        "id": "doi:10.1016/j.gloplacha.2020.103127",
         "is_oa": true,
-        "landing_page_url": "https://hal.science/hal-02511298",
-        "pdf_url": "https://hal.science/hal-02511298v1/file/Carmeille%20et%20al.%202020%20accept%C3%A9.pdf",
+        "landing_page_url": "https://doi.org/10.1016/j.gloplacha.2020.103127",
+        "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
-          "issn_l": null,
-          "issn": null,
+          "id": "https://openalex.org/S63048404",
+          "display_name": "Global and Planetary Change",
+          "issn_l": "0921-8181",
+          "issn": [
+            "0921-8181",
+            "1872-6364"
+          ],
           "is_oa": false,
           "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
+            "https://openalex.org/P4310320990"
           ],
-          "host_organization_lineage_names": [],
-          "type": "repository"
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
         },
-        "license": "other-oa",
-        "license_id": "https://openalex.org/licenses/other-oa",
-        "version": "submittedVersion",
-        "is_accepted": false,
+        "license": null,
+        "license_id": null,
+        "version": "acceptedVersion",
+        "is_accepted": true,
         "is_published": false,
-        "raw_source_name": "https://www.sciencedirect.com/science/article/pii/S0921818120300163",
-        "raw_type": "info:eu-repo/semantics/article"
+        "raw_source_name": "Global and Planetary Change",
+        "raw_type": "journal-article"
       },
       "sustainable_development_goals": [
         {
@@ -16651,13 +16656,10 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "grobid_xml": false,
+        "pdf": false
       },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2999055568.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2999055568.grobid-xml"
-      },
+      "content_urls": null,
       "referenced_works_count": 124,
       "referenced_works": [
         "https://openalex.org/W41377124",
@@ -16824,7 +16826,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-16T18:09:00.828671",
       "created_date": "2025-10-10T00:00:00"
     },
     {

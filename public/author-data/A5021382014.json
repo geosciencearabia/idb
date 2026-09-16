@@ -1064,9 +1064,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -2131,9 +2131,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -3282,8 +3282,8 @@
     {
       "id": "https://openalex.org/W1987587938",
       "doi": "https://doi.org/10.1190/1.3255764",
-      "title": "Microfacies approach to reservoir‐related outcrop analogy studies of Wadi Waqb member.",
-      "display_name": "Microfacies approach to reservoir‐related outcrop analogy studies of Wadi Waqb member.",
+      "title": "Microfacies approach to reservoir-related outcrop analogy studies of Wadi Waqb member.",
+      "display_name": "Microfacies approach to reservoir-related outcrop analogy studies of Wadi Waqb member.",
       "publication_year": 2009,
       "publication_date": "2009-01-01",
       "ids": {
@@ -3303,7 +3303,7 @@
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
-        "raw_source_name": "SEG Technical Program Expanded Abstracts 2009",
+        "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
         "raw_type": "proceedings-article"
       },
       "type": "conference-paper",
@@ -3342,13 +3342,13 @@
           "is_corresponding": false,
           "raw_author_name": "Maaruf Hussain",
           "raw_affiliation_strings": [
-            "King Fahd University of Petroleum and Minerals",
+            "1 King Fahd University of Petroleum and Minerals",
             "King Fahd University of Petroleum and Minerals,"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
+              "raw_affiliation_string": "1 King Fahd University of Petroleum and Minerals",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -3386,13 +3386,13 @@
           "is_corresponding": false,
           "raw_author_name": "Khalid Ramadan",
           "raw_affiliation_strings": [
-            "King Fahd University of Petroleum and Minerals",
+            "1 King Fahd University of Petroleum and Minerals",
             "King Fahd University of Petroleum and Minerals,"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
+              "raw_affiliation_string": "1 King Fahd University of Petroleum and Minerals",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -3419,13 +3419,13 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.14825307,
+        "value": 0.14800759,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": null,
       "biblio": {
-        "volume": "10",
+        "volume": "1",
         "issue": null,
         "first_page": "4227",
         "last_page": "4232"
@@ -3734,16 +3734,16 @@
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
-          "raw_source_name": "SEG Technical Program Expanded Abstracts 2009",
+          "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
           "raw_type": "proceedings-article"
         }
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -3808,7 +3808,7 @@
           126,
           151
         ],
-        "reservoir‐related": [
+        "reservoir-related": [
           7
         ],
         "outcrop": [
@@ -3935,7 +3935,7 @@
         "follows:": [
           41
         ],
-        "MF‐1)": [
+        "MF-1)": [
           42
         ],
         "Proximal": [
@@ -3953,7 +3953,7 @@
         "sandstone": [
           49
         ],
-        "MF‐2)": [
+        "MF-2)": [
           50
         ],
         "Upper": [
@@ -3969,7 +3969,7 @@
         "by": [
           56
         ],
-        "quartz‐peloid": [
+        "quartz-peloid": [
           57
         ],
         "packstone,": [
@@ -3987,7 +3987,7 @@
         "boundstone,": [
           63
         ],
-        "MF‐3),": [
+        "MF-3),": [
           65
         ],
         "Lower": [
@@ -3999,13 +3999,13 @@
         "bioturbated": [
           72
         ],
-        "rhodophyte‐bioclastic": [
+        "rhodophyte-bioclastic": [
           73
         ],
         "grainstone,and": [
           74
         ],
-        "MF‐4)": [
+        "MF-4)": [
           75
         ],
         "Fore": [
@@ -4023,7 +4023,7 @@
         "mudstone.": [
           84
         ],
-        "MF‐1": [
+        "MF-1": [
           85
         ],
         "represents": [
@@ -4032,7 +4032,7 @@
         "mixed": [
           88
         ],
-        "carbonate‐siliciclastic": [
+        "carbonate-siliciclastic": [
           89
         ],
         "deposits": [
@@ -4119,10 +4119,10 @@
         "porosities": [
           119
         ],
-        "MF‐2": [
+        "MF-2": [
           121
         ],
-        "MF‐3": [
+        "MF-3": [
           123
         ],
         "are": [
@@ -4137,7 +4137,7 @@
         "components": [
           130
         ],
-        "MF‐4": [
+        "MF-4": [
           136
         ],
         "possesses": [
@@ -4160,7 +4160,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-16T18:09:00.828671",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4570,9 +4570,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -5499,9 +5499,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -6600,9 +6600,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6000000238418579,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6000000238418579
         }
       ],
       "awards": [],
@@ -7131,9 +7131,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6800000071525574
         }
       ],
       "awards": [],
