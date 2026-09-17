@@ -1030,9 +1030,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.5600000023841858,
           "display_name": "Clean water and sanitation",
-          "score": 0.5600000023841858
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -1630,9 +1630,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -2275,9 +2275,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -2962,9 +2962,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -3779,9 +3779,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -5214,14 +5214,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.5099999904632568,
           "display_name": "Clean water and sanitation",
-          "score": 0.5099999904632568
+          "id": "https://metadata.un.org/sdg/6"
         },
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.49000000953674316,
           "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -6094,9 +6094,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6200000047683716,
           "display_name": "Life below water",
-          "score": 0.6200000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -7485,9 +7485,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7200000286102295,
           "display_name": "Life below water",
-          "score": 0.7200000286102295
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -8090,6 +8090,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -8354,11 +8359,11 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 1.9655,
+      "fwci": 1.8464,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.84412242,
+        "value": 0.83215329,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8620,6 +8625,11 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "doyens",
+              "cwts-core",
+              "doaj"
+            ],
             "host_organization": "https://openalex.org/P4310319908",
             "host_organization_name": "Nature Portfolio",
             "host_organization_lineage": [
@@ -8653,6 +8663,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -8682,6 +8693,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -8711,6 +8723,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -8741,6 +8754,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -11150,9 +11168,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5799999833106995,
           "display_name": "Life below water",
-          "score": 0.5799999833106995
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -15578,9 +15596,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.7099999785423279,
           "display_name": "Climate action",
-          "score": 0.7099999785423279
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -17080,9 +17098,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5299999713897705,
           "display_name": "Life in Land",
-          "score": 0.5299999713897705
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [
@@ -17541,9 +17559,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -18212,9 +18230,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -19705,9 +19723,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -21927,9 +21945,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7300000190734863,
           "display_name": "Clean water and sanitation",
-          "score": 0.7300000190734863
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -22873,6 +22891,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -22977,16 +23000,16 @@
         "currency": "USD",
         "value_usd": 2590
       },
-      "fwci": 1.3907,
+      "fwci": 1.3515,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.74740965,
+        "value": 0.74124265,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 95,
+        "min": 94,
         "max": 98
       },
       "biblio": {
@@ -23276,6 +23299,11 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "doyens",
+              "cwts-core",
+              "doaj"
+            ],
             "host_organization": "https://openalex.org/P4310319908",
             "host_organization_name": "Nature Portfolio",
             "host_organization_lineage": [
@@ -23309,6 +23337,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -23338,6 +23367,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -23367,6 +23397,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -23397,6 +23428,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -23419,9 +23455,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5799999833106995,
           "display_name": "Life below water",
-          "score": 0.5799999833106995
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -27621,9 +27657,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.550000011920929,
           "display_name": "Life below water",
-          "score": 0.550000011920929
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -30275,9 +30311,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6100000143051147,
           "display_name": "Climate action",
-          "score": 0.6100000143051147
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -32528,9 +32564,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -33436,9 +33472,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -34697,9 +34733,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -36092,9 +36128,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -37574,9 +37610,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -38286,9 +38322,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6399999856948853,
           "display_name": "Life below water",
-          "score": 0.6399999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -39563,9 +39599,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7799999713897705,
           "display_name": "Clean water and sanitation",
-          "score": 0.7799999713897705
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [
@@ -44236,9 +44272,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.75,
           "display_name": "Life below water",
-          "score": 0.75
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -45599,9 +45635,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -46164,9 +46200,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4699999988079071,
           "display_name": "Climate action",
-          "score": 0.4699999988079071
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -46766,9 +46802,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6100000143051147,
           "display_name": "Climate action",
-          "score": 0.6100000143051147
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -48794,9 +48830,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -50836,9 +50872,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.41999998688697815,
           "display_name": "Life below water",
-          "score": 0.41999998688697815
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -51624,9 +51660,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -52699,9 +52735,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.4399999976158142,
           "display_name": "Life in Land",
-          "score": 0.4399999976158142
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -53579,9 +53615,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.4300000071525574,
           "display_name": "Life below water",
-          "score": 0.4300000071525574
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -54796,9 +54832,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6800000071525574,
           "display_name": "Life below water",
-          "score": 0.6800000071525574
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -55270,9 +55306,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6700000166893005,
           "display_name": "Life below water",
-          "score": 0.6700000166893005
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -55869,14 +55905,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.4099999964237213,
           "display_name": "Sustainable cities and communities",
-          "score": 0.4099999964237213
+          "id": "https://metadata.un.org/sdg/11"
         },
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.4000000059604645,
           "display_name": "Life in Land",
-          "score": 0.4000000059604645
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -59485,9 +59521,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6100000143051147,
           "display_name": "Climate action",
-          "score": 0.6100000143051147
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -62634,9 +62670,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8299999833106995,
           "display_name": "Life below water",
-          "score": 0.8299999833106995
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -63568,9 +63604,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.46000000834465027,
           "display_name": "Life below water",
-          "score": 0.46000000834465027
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -64109,9 +64145,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.47999998927116394,
           "display_name": "Life in Land",
-          "score": 0.47999998927116394
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -65853,9 +65889,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6800000071525574,
           "display_name": "Life below water",
-          "score": 0.6800000071525574
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -73216,9 +73252,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.5525497198104858,
           "display_name": "Sustainable cities and communities",
-          "score": 0.5525497198104858
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],

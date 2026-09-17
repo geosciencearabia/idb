@@ -619,6 +619,9 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
@@ -775,11 +778,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 5.0455,
+      "fwci": 5.03,
       "has_fulltext": false,
-      "cited_by_count": 119,
+      "cited_by_count": 120,
       "citation_normalized_percentile": {
-        "value": 0.96479136,
+        "value": 0.96468531,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1116,6 +1119,9 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
             "host_organization_lineage": [
@@ -1164,8 +1170,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -1244,7 +1250,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 18
+          "cited_by_count": 19
         },
         {
           "year": 2025,
@@ -1275,7 +1281,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-17T22:18:28.273824",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1762,16 +1768,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -3006,8 +3012,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 165,
@@ -3659,8 +3665,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -4303,8 +4309,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -4998,9 +5004,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.8399999737739563
         }
       ],
       "awards": [
@@ -5020,8 +5026,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -5781,8 +5787,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2555981623.pdf",
@@ -6839,8 +6845,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -7530,8 +7536,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -8246,8 +8252,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3106710480.pdf"
@@ -9369,16 +9375,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -10698,8 +10704,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 92,
@@ -12022,16 +12028,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7900000214576721,
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4293103392.pdf"
@@ -13178,8 +13184,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -14121,8 +14127,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -14612,16 +14618,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7300000190734863,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15240,14 +15246,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5
         },
         {
-          "score": 0.46000000834465027,
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.46000000834465027
         }
       ],
       "awards": [
@@ -15267,8 +15273,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4297149413.pdf"
@@ -16466,9 +16472,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.800000011920929
         }
       ],
       "awards": [
@@ -16488,8 +16494,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2550543467.pdf",
@@ -17426,9 +17432,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -17440,8 +17446,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -18440,16 +18446,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7099999785423279,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7099999785423279
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -19088,16 +19094,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7599999904632568,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7599999904632568
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -20274,8 +20280,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -21627,8 +21633,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -22912,9 +22918,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5099999904632568,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.5099999904632568
         }
       ],
       "awards": [],
@@ -22926,8 +22932,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -23377,6 +23383,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -23649,11 +23660,11 @@
         "currency": "USD",
         "value_usd": 2590
       },
-      "fwci": 3.3818,
+      "fwci": 3.3788,
       "has_fulltext": true,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.92289988,
+        "value": 0.9227819,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -23925,6 +23936,11 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "doyens",
+              "cwts-core",
+              "doaj"
+            ],
             "host_organization": "https://openalex.org/P4310319908",
             "host_organization_name": "Nature Portfolio",
             "host_organization_lineage": [
@@ -23958,6 +23974,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -23987,6 +24004,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -24016,6 +24034,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I177877127",
             "host_organization_name": "The University of Western Australia",
             "host_organization_lineage": [
@@ -24045,6 +24064,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -24075,6 +24095,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -24097,9 +24122,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5899999737739563,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5899999737739563
         }
       ],
       "awards": [
@@ -24136,8 +24161,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4401444371.pdf",
@@ -25477,8 +25502,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -26574,9 +26599,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
@@ -26588,8 +26613,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -26672,6 +26697,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -26936,11 +26966,11 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 1.9655,
+      "fwci": 1.8464,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.84412242,
+        "value": 0.83215329,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27202,6 +27232,11 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "doyens",
+              "cwts-core",
+              "doaj"
+            ],
             "host_organization": "https://openalex.org/P4310319908",
             "host_organization_name": "Nature Portfolio",
             "host_organization_lineage": [
@@ -27235,6 +27270,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -27264,6 +27300,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -27293,6 +27330,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -27323,6 +27361,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -27353,8 +27396,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4410159041.pdf",
@@ -28866,8 +28909,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -29905,8 +29948,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -30726,8 +30769,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -31408,8 +31451,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3141147410.pdf",
@@ -32793,16 +32836,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5400000214576721,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5400000214576721
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3128211510.pdf",
@@ -34202,16 +34245,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -34808,8 +34851,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -35965,8 +36008,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4303981288.pdf",
@@ -37208,8 +37251,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -38516,8 +38559,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -39068,6 +39111,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -39253,11 +39301,11 @@
         "currency": "USD",
         "value_usd": 2590
       },
-      "fwci": 1.4067,
+      "fwci": 1.3515,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.7835887,
+        "value": 0.77435439,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39481,6 +39529,11 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "doyens",
+              "cwts-core",
+              "doaj"
+            ],
             "host_organization": "https://openalex.org/P4310319908",
             "host_organization_name": "Nature Portfolio",
             "host_organization_lineage": [
@@ -39514,6 +39567,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -39543,6 +39597,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -39572,6 +39627,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -39602,6 +39658,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -39624,9 +39685,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [
@@ -39646,8 +39707,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 92,
@@ -41201,8 +41262,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4414021823.pdf",
@@ -41848,6 +41909,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -42167,11 +42233,11 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 1.4838,
+      "fwci": 1.4614,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.82000841,
+        "value": 0.81732264,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42448,6 +42514,11 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "doyens",
+              "cwts-core",
+              "doaj"
+            ],
             "host_organization": "https://openalex.org/P4310319908",
             "host_organization_name": "Nature Portfolio",
             "host_organization_lineage": [
@@ -42481,6 +42552,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -42510,6 +42582,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -42537,6 +42610,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -42569,6 +42643,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -42612,8 +42691,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4416764301.pdf",
@@ -43889,8 +43968,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -45014,8 +45093,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -46270,8 +46349,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -47336,8 +47415,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -48017,8 +48096,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2460459194.pdf",
@@ -48108,6 +48187,9 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
           "host_organization_lineage": [
@@ -48161,7 +48243,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -48198,7 +48280,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -48718,6 +48800,7 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
+        "https://openalex.org/A5054922583",
         "https://openalex.org/A5111604304"
       ],
       "corresponding_institution_ids": [
@@ -48729,11 +48812,11 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.5405,
+      "fwci": 1.5298,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.78486428,
+        "value": 0.78339534,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49034,6 +49117,9 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
             "host_organization_lineage": [
@@ -49058,9 +49144,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7099999785423279,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.7099999785423279
         }
       ],
       "awards": [
@@ -49085,8 +49171,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -49154,7 +49240,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-16T18:09:00.828671",
+      "updated_date": "2026-09-17T22:18:28.273824",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -49839,8 +49925,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2971839332.pdf",
@@ -50806,8 +50892,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -52270,8 +52356,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -53195,9 +53281,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
@@ -53209,8 +53295,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -54212,8 +54298,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -55615,8 +55701,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -56046,8 +56132,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -56730,16 +56816,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 97,
@@ -57970,9 +58056,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5
         }
       ],
       "awards": [
@@ -58004,8 +58090,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3193448040.pdf",
@@ -58888,8 +58974,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -59784,8 +59870,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -60728,9 +60814,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [
@@ -60750,8 +60836,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -61914,16 +62000,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -62112,6 +62198,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -62276,11 +62367,11 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 2.7818,
+      "fwci": 2.729,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.89860069,
+        "value": 0.89627229,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -62525,6 +62616,11 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "doyens",
+              "cwts-core",
+              "doaj"
+            ],
             "host_organization": "https://openalex.org/P4310319908",
             "host_organization_name": "Nature Portfolio",
             "host_organization_lineage": [
@@ -62558,6 +62654,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -62587,6 +62684,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -62616,6 +62714,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -62646,6 +62745,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -62681,8 +62785,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4411866371.pdf",
@@ -64017,8 +64121,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -64408,16 +64512,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -65472,16 +65576,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.699999988079071,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.699999988079071
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -66394,16 +66498,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -67095,8 +67199,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -68373,8 +68477,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -69868,8 +69972,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -70624,9 +70728,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7300000190734863,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7300000190734863
         }
       ],
       "awards": [
@@ -70646,8 +70750,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3009319440.pdf",
@@ -71793,16 +71897,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7900000214576721,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -72445,8 +72549,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -73286,16 +73390,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -73686,8 +73790,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -74406,8 +74510,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -75252,9 +75356,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
@@ -75276,8 +75380,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2009737607.pdf",
@@ -76791,8 +76895,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4310398141.pdf",
@@ -77919,16 +78023,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6100000143051147,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.6100000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -78665,9 +78769,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [
@@ -78687,8 +78791,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4403343181.pdf",
@@ -79461,6 +79565,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -79588,11 +79697,11 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 1.4838,
+      "fwci": 1.4614,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.79180328,
+        "value": 0.78892763,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -79902,6 +80011,11 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "doyens",
+              "cwts-core",
+              "doaj"
+            ],
             "host_organization": "https://openalex.org/P4310319908",
             "host_organization_name": "Nature Portfolio",
             "host_organization_lineage": [
@@ -79935,6 +80049,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -79964,6 +80079,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -79993,6 +80109,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -80023,6 +80140,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -80045,16 +80167,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.6800000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4412707715.pdf",
@@ -81195,8 +81317,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7153309765.pdf",
@@ -82210,9 +82332,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -82229,8 +82351,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -83051,8 +83173,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2762783799.pdf",
@@ -84146,8 +84268,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3127304390.pdf",
@@ -85173,8 +85295,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -85971,16 +86093,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5899999737739563,
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.5899999737739563
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -86741,8 +86863,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -87653,16 +87775,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5799999833106995,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -88212,16 +88334,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -89060,8 +89182,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2260611865.pdf"
@@ -90188,16 +90310,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6399999856948853,
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.6399999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -91102,16 +91224,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5799999833106995,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -91616,8 +91738,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -92214,8 +92336,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -92758,16 +92880,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/10",
           "display_name": "Reduced inequalities",
-          "id": "https://metadata.un.org/sdg/10"
+          "score": 0.4099999964237213
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -93220,8 +93342,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -94109,8 +94231,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -94590,16 +94712,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/10",
           "display_name": "Reduced inequalities",
-          "id": "https://metadata.un.org/sdg/10"
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -95307,16 +95429,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7799999713897705,
+          "id": "https://metadata.un.org/sdg/10",
           "display_name": "Reduced inequalities",
-          "id": "https://metadata.un.org/sdg/10"
+          "score": 0.7799999713897705
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -96271,8 +96393,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -96736,16 +96858,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -97749,16 +97871,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6700000166893005,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6700000166893005
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -98836,8 +98958,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4229028604.pdf",
@@ -99965,8 +100087,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4311376738.pdf"
@@ -101092,8 +101214,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4324056902.pdf",
@@ -101656,16 +101778,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -101720,6 +101842,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -101937,11 +102064,11 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 0.375,
+      "fwci": 0.3693,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.49115758,
+        "value": 0.48732329,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -102134,6 +102261,11 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "doyens",
+              "cwts-core",
+              "doaj"
+            ],
             "host_organization": "https://openalex.org/P4310319908",
             "host_organization_name": "Nature Portfolio",
             "host_organization_lineage": [
@@ -102167,6 +102299,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -102196,6 +102329,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -102225,6 +102359,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -102255,6 +102390,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -102277,9 +102417,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6800000071525574
         }
       ],
       "awards": [],
@@ -102296,8 +102436,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4411866663.pdf",
@@ -103208,8 +103348,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2032163224.pdf",
@@ -104084,8 +104224,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -105554,8 +105694,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -106558,8 +106698,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -107438,16 +107578,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -108301,16 +108441,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -109228,16 +109368,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6600000262260437,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -110228,16 +110368,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4285801655.pdf"
@@ -110624,16 +110764,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.75
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -111043,16 +111183,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.699999988079071,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.699999988079071
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -111483,9 +111623,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6000000238418579,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.6000000238418579
         }
       ],
       "awards": [],
@@ -111502,8 +111642,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -111941,8 +112081,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -112902,16 +113042,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5099999904632568,
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.5099999904632568
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -114035,8 +114175,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -114747,8 +114887,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -115601,8 +115741,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -116303,16 +116443,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -117576,8 +117716,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2952347947.pdf",
@@ -118358,16 +118498,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -118787,8 +118927,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -119221,16 +119361,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4000000059604645,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.4000000059604645
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -119518,8 +119658,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -119929,8 +120069,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -120890,8 +121030,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -121491,16 +121631,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -122248,8 +122388,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -123375,8 +123515,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -124250,8 +124390,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -125180,16 +125320,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -125561,8 +125701,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4231230082.pdf"
@@ -126214,8 +126354,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -127068,16 +127208,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.6800000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -128039,8 +128179,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4237617667.pdf",
@@ -128584,8 +128724,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -129094,16 +129234,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4000000059604645,
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "score": 0.4000000059604645
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -129372,8 +129512,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -129804,8 +129944,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -130433,8 +130573,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4283770283.pdf",
@@ -131127,8 +131267,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -131416,8 +131556,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -131720,16 +131860,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5899999737739563,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5899999737739563
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -132147,16 +132287,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7200000286102295,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -132512,16 +132652,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.6800000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -132932,16 +133072,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -133378,8 +133518,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -133720,16 +133860,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6000000238418579,
+          "id": "https://metadata.un.org/sdg/10",
           "display_name": "Reduced inequalities",
-          "id": "https://metadata.un.org/sdg/10"
+          "score": 0.6000000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4301749000.pdf",
@@ -134368,8 +134508,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -134900,16 +135040,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4389080668.pdf",
@@ -135487,16 +135627,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "score": 0.4699999988079071
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -136223,8 +136363,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -136899,8 +137039,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -137411,6 +137551,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -137616,7 +137761,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.0985716,
+        "value": 0.09524976,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -137806,6 +137951,11 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "doyens",
+              "cwts-core",
+              "doaj"
+            ],
             "host_organization": "https://openalex.org/P4310319908",
             "host_organization_name": "Nature Portfolio",
             "host_organization_lineage": [
@@ -137839,6 +137989,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -137868,6 +138019,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -137897,6 +138049,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -137927,6 +138080,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -137977,8 +138135,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -139160,8 +139318,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4405614884.pdf",
@@ -140090,16 +140248,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.699999988079071,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.699999988079071
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -141047,8 +141205,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4409556117.pdf",
@@ -141101,6 +141259,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -141320,7 +141483,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.05266919,
+        "value": 0.05179149,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -141582,6 +141745,11 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "doyens",
+              "cwts-core",
+              "doaj"
+            ],
             "host_organization": "https://openalex.org/P4310319908",
             "host_organization_name": "Nature Portfolio",
             "host_organization_lineage": [
@@ -141615,6 +141783,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -141644,6 +141813,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -141673,6 +141843,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -141703,6 +141874,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -141725,9 +141901,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -141744,8 +141920,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4410049630.pdf",
@@ -142723,8 +142899,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -143276,6 +143452,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -143525,7 +143706,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.16450967,
+        "value": 0.16211536,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -143667,6 +143848,11 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "doyens",
+              "cwts-core",
+              "doaj"
+            ],
             "host_organization": "https://openalex.org/P4310319908",
             "host_organization_name": "Nature Portfolio",
             "host_organization_lineage": [
@@ -143700,6 +143886,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -143729,6 +143916,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -143758,6 +143946,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -143788,6 +143977,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -143812,8 +144006,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4413307018.pdf",
@@ -144959,8 +145153,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -146143,8 +146337,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -147299,8 +147493,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -147833,6 +148027,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -148082,7 +148281,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.15527533,
+        "value": 0.15348427,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -148342,6 +148541,11 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "doyens",
+              "cwts-core",
+              "doaj"
+            ],
             "host_organization": "https://openalex.org/P4310319908",
             "host_organization_name": "Nature Portfolio",
             "host_organization_lineage": [
@@ -148375,6 +148579,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -148404,6 +148609,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1303153112",
             "host_organization_name": "European Bioinformatics Institute",
             "host_organization_lineage": [
@@ -148433,6 +148639,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -148460,6 +148667,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -148492,6 +148700,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core",
+            "doaj"
+          ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
           "host_organization_lineage": [
@@ -148522,8 +148735,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4414913886.pdf",
@@ -149333,8 +149546,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -150514,8 +150727,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7162439439.pdf",

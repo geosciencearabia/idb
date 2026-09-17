@@ -830,6 +830,9 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
@@ -1168,11 +1171,11 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 21.9762,
+      "fwci": 21.6995,
       "has_fulltext": false,
-      "cited_by_count": 815,
+      "cited_by_count": 816,
       "citation_normalized_percentile": {
-        "value": 0.99840138,
+        "value": 0.99837047,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1427,6 +1430,9 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
             "host_organization_lineage": [
@@ -1458,6 +1464,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I5681781",
             "host_organization_name": "The University of Adelaide",
             "host_organization_lineage": [
@@ -1478,8 +1485,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -1502,13 +1509,6 @@
           "id": "https://openalex.org/G5045578611",
           "display_name": "Geodynamic setting of the Panafrican Orogenesis in Eastern  Africa",
           "funder_award_id": "P 12375",
-          "funder_id": "https://openalex.org/F4320321181",
-          "funder_display_name": "Austrian Science Fund"
-        },
-        {
-          "id": "https://openalex.org/G5566233003",
-          "display_name": "Insights into Lower Crustal Processes in the Granulate Belts of Tanzania",
-          "funder_award_id": "T247-N10",
           "funder_id": "https://openalex.org/F4320321181",
           "funder_display_name": "Austrian Science Fund"
         },
@@ -1539,6 +1539,13 @@
           "funder_award_id": "08221257",
           "funder_id": "https://openalex.org/F4320306076",
           "funder_display_name": "National Science Foundation"
+        },
+        {
+          "id": "https://openalex.org/G8205789742",
+          "display_name": "Insights into Lower Crustal Processes in the Granulate Belts of Tanzania",
+          "funder_award_id": "T247",
+          "funder_id": "https://openalex.org/F4320321181",
+          "funder_display_name": "Austrian Science Fund"
         },
         {
           "id": "https://openalex.org/G8287873341",
@@ -1906,7 +1913,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 69
+          "cited_by_count": 70
         },
         {
           "year": 2025,
@@ -1965,7 +1972,7 @@
           "cited_by_count": 16
         }
       ],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-17T22:18:28.273824",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1999,6 +2006,9 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
@@ -2600,11 +2610,11 @@
         "currency": "USD",
         "value_usd": 3370
       },
-      "fwci": 24.2998,
+      "fwci": 24.3106,
       "has_fulltext": false,
-      "cited_by_count": 806,
+      "cited_by_count": 807,
       "citation_normalized_percentile": {
-        "value": 0.99887337,
+        "value": 0.99887413,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2883,6 +2893,9 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
             "host_organization_lineage": [
@@ -2914,6 +2927,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -2943,6 +2957,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1303153112",
             "host_organization_name": "European Bioinformatics Institute",
             "host_organization_lineage": [
@@ -2972,6 +2987,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -3001,6 +3017,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I4210117483",
             "host_organization_name": "Istituto di Ematologia di Bologna",
             "host_organization_lineage": [
@@ -3030,6 +3047,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I5681781",
             "host_organization_name": "The University of Adelaide",
             "host_organization_lineage": [
@@ -3064,6 +3082,9 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
@@ -3084,8 +3105,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -4178,7 +4199,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 69
+          "cited_by_count": 70
         },
         {
           "year": 2025,
@@ -4233,7 +4254,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-09-15T07:32:03.291174",
+      "updated_date": "2026-09-17T07:59:56.861425",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4795,8 +4816,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -5131,6 +5152,9 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310311650",
           "host_organization_name": "Geological Society of London",
           "host_organization_lineage": [
@@ -5239,11 +5263,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.4202,
+      "fwci": 6.3172,
       "has_fulltext": false,
-      "cited_by_count": 494,
+      "cited_by_count": 495,
       "citation_normalized_percentile": {
-        "value": 0.9722804,
+        "value": 0.97185847,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5480,6 +5504,9 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
             "host_organization": "https://openalex.org/P4310311650",
             "host_organization_name": "Geological Society of London",
             "host_organization_lineage": [
@@ -5502,8 +5529,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.49000000953674316,
           "display_name": "Climate action"
         }
       ],
@@ -6182,7 +6209,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 25
+          "cited_by_count": 26
         },
         {
           "year": 2025,
@@ -6241,7 +6268,7 @@
           "cited_by_count": 12
         }
       ],
-      "updated_date": "2026-09-04T10:56:28.161419",
+      "updated_date": "2026-09-17T07:59:56.861425",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6646,8 +6673,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -7330,8 +7357,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -8279,8 +8306,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8100000023841858,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8100000023841858,
           "display_name": "Life below water"
         }
       ],
@@ -9708,6 +9735,9 @@
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310320079",
           "host_organization_name": "Bentham Science Publishers",
           "host_organization_lineage": [
@@ -9798,11 +9828,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.1465,
+      "fwci": 8.2682,
       "has_fulltext": true,
-      "cited_by_count": 110,
+      "cited_by_count": 111,
       "citation_normalized_percentile": {
-        "value": 0.97221645,
+        "value": 0.97209974,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10007,6 +10037,9 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
             "host_organization": "https://openalex.org/P4310320079",
             "host_organization_name": "Bentham Science Publishers",
             "host_organization_lineage": [
@@ -10041,6 +10074,9 @@
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310320079",
           "host_organization_name": "Bentham Science Publishers",
           "host_organization_lineage": [
@@ -10061,8 +10097,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5199999809265137,
           "display_name": "Climate action"
         }
       ],
@@ -10842,7 +10878,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2025,
@@ -10893,7 +10929,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-08T07:41:39.490200",
+      "updated_date": "2026-09-17T07:59:56.861425",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11508,8 +11544,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -12753,8 +12789,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
           "display_name": "Life below water"
         }
       ],
@@ -13069,6 +13105,9 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310320822",
           "host_organization_name": "Geological Society of South Africa",
           "host_organization_lineage": [
@@ -13278,7 +13317,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 6,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5017064204",
         "https://openalex.org/A5031713577",
@@ -13294,11 +13333,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.7832,
+      "fwci": 3.9469,
       "has_fulltext": false,
-      "cited_by_count": 94,
+      "cited_by_count": 95,
       "citation_normalized_percentile": {
-        "value": 0.95198475,
+        "value": 0.94033313,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13480,6 +13519,9 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
             "host_organization": "https://openalex.org/P4310320822",
             "host_organization_name": "Geological Society of South Africa",
             "host_organization_lineage": [
@@ -13502,8 +13544,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8299999833106995,
           "display_name": "Life below water"
         }
       ],
@@ -14898,7 +14940,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 10
+          "cited_by_count": 11
         },
         {
           "year": 2025,
@@ -14933,7 +14975,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-18T10:00:31.954636",
+      "updated_date": "2026-09-17T07:59:56.861425",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15541,8 +15583,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -16756,8 +16798,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water"
         }
       ],
@@ -16967,6 +17009,9 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310319972",
           "host_organization_name": "Springer International Publishing",
           "host_organization_lineage": [
@@ -17030,11 +17075,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.7421,
+      "fwci": 7.2147,
       "has_fulltext": false,
-      "cited_by_count": 31,
+      "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.96476116,
+        "value": 0.9677673,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17348,6 +17393,9 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
             "host_organization": "https://openalex.org/P4310319972",
             "host_organization_name": "Springer International Publishing",
             "host_organization_lineage": [
@@ -17574,7 +17622,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2025,
@@ -17593,7 +17641,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-17T07:59:56.861425",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18018,8 +18066,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water"
         }
       ],
@@ -18635,8 +18683,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7699999809265137,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7699999809265137,
           "display_name": "Life below water"
         }
       ],
@@ -19400,8 +19448,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -20015,8 +20063,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/15",
+          "score": 0.44999998807907104,
           "display_name": "Life in Land"
         }
       ],
@@ -20590,8 +20638,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5799999833106995,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5799999833106995,
           "display_name": "Life below water"
         }
       ],
@@ -21411,8 +21459,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6000000238418579,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6000000238418579,
           "display_name": "Life below water"
         }
       ],
@@ -21616,6 +21664,10 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
@@ -22059,16 +22111,16 @@
         "value_usd": 4900
       },
       "apc_paid": null,
-      "fwci": 3.3012,
+      "fwci": 3.4358,
       "has_fulltext": false,
       "cited_by_count": 83,
       "citation_normalized_percentile": {
-        "value": 0.92269828,
+        "value": 0.92654718,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -23093,6 +23145,10 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "doyens",
+              "cwts-core"
+            ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
             "host_organization_lineage": [
@@ -23124,6 +23180,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -23144,8 +23201,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7300000190734863,
           "id": "https://metadata.un.org/sdg/3",
+          "score": 0.7300000190734863,
           "display_name": "Good health and well-being"
         }
       ],
@@ -23759,8 +23816,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6499999761581421,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6499999761581421,
           "display_name": "Life below water"
         }
       ],
@@ -24398,8 +24455,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -25171,8 +25228,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7300000190734863,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7300000190734863,
           "display_name": "Life below water"
         }
       ],
@@ -26140,8 +26197,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -27092,8 +27149,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/16",
+          "score": 0.4300000071525574,
           "display_name": "Peace, Justice and strong institutions"
         }
       ],
@@ -28377,8 +28434,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -30377,8 +30434,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -31207,8 +31264,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.49000000953674316,
           "display_name": "Life below water"
         }
       ],
@@ -31354,6 +31411,10 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
@@ -31437,11 +31498,11 @@
         "value_usd": 3830
       },
       "apc_paid": null,
-      "fwci": 1.9276,
+      "fwci": 1.9746,
       "has_fulltext": true,
       "cited_by_count": 123,
       "citation_normalized_percentile": {
-        "value": 0.8692401,
+        "value": 0.87221338,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31926,6 +31987,10 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "doyens",
+              "cwts-core"
+            ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
             "host_organization_lineage": [
@@ -31957,6 +32022,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -31990,6 +32056,10 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
@@ -32457,8 +32527,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579,
           "display_name": "Life below water"
         }
       ],
@@ -33400,8 +33470,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6800000071525574,
           "display_name": "Life below water"
         }
       ],
@@ -33517,6 +33587,9 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310320547",
           "host_organization_name": "Taylor & Francis",
           "host_organization_lineage": [
@@ -33817,16 +33890,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3681,
+      "fwci": 0.3759,
       "has_fulltext": false,
-      "cited_by_count": 22,
+      "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.56465935,
+        "value": 0.57358534,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 94,
+        "min": 93,
         "max": 98
       },
       "biblio": {
@@ -34065,6 +34138,9 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
             "host_organization": "https://openalex.org/P4310320547",
             "host_organization_name": "Taylor & Francis",
             "host_organization_lineage": [
@@ -34852,7 +34928,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -34879,7 +34955,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-15T07:11:24.734988",
+      "updated_date": "2026-09-17T07:59:56.861425",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35581,8 +35657,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/3",
+          "score": 0.49000000953674316,
           "display_name": "Good health and well-being"
         }
       ],
@@ -37973,8 +38049,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8999999761581421,
           "display_name": "Life below water"
         }
       ],
@@ -39288,8 +39364,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7699999809265137,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7699999809265137,
           "display_name": "Life below water"
         }
       ],
@@ -40483,8 +40559,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.699999988079071,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.699999988079071,
           "display_name": "Climate action"
         }
       ],
@@ -41028,8 +41104,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8999999761581421,
           "display_name": "Life below water"
         }
       ],
@@ -42105,6 +42181,10 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
@@ -42275,16 +42355,16 @@
         "value_usd": 3530
       },
       "apc_paid": null,
-      "fwci": 2.2372,
+      "fwci": 2.2844,
       "has_fulltext": false,
       "cited_by_count": 41,
       "citation_normalized_percentile": {
-        "value": 0.89754955,
+        "value": 0.90061175,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 96
       },
       "biblio": {
@@ -42774,6 +42854,10 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "doyens",
+              "cwts-core"
+            ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
             "host_organization_lineage": [
@@ -42805,6 +42889,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -43188,8 +43273,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/5",
+          "score": 0.75,
           "display_name": "Gender equality"
         }
       ],
@@ -43598,8 +43683,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -43702,6 +43787,10 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310317833",
           "host_organization_name": "European Respiratory Society",
           "host_organization_lineage": [
@@ -44295,11 +44384,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3128,
+      "fwci": 0.3145,
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.58557052,
+        "value": 0.58309392,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45061,6 +45150,10 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "doyens",
+              "cwts-core"
+            ],
             "host_organization": "https://openalex.org/P4310317833",
             "host_organization_name": "European Respiratory Society",
             "host_organization_lineage": [
@@ -45092,6 +45185,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -45125,6 +45219,10 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310317833",
           "host_organization_name": "European Respiratory Society",
           "host_organization_lineage": [
@@ -46247,8 +46345,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -46987,6 +47085,10 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310320595",
           "host_organization_name": "Wiley",
           "host_organization_lineage": [
@@ -47466,16 +47568,16 @@
         "value_usd": 4550
       },
       "apc_paid": null,
-      "fwci": 2.2063,
+      "fwci": 2.2786,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.87944453,
+        "value": 0.88283045,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 94
       },
       "biblio": {
@@ -48050,6 +48152,10 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "doyens",
+              "cwts-core"
+            ],
             "host_organization": "https://openalex.org/P4310320595",
             "host_organization_name": "Wiley",
             "host_organization_lineage": [
@@ -48081,6 +48187,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -48110,6 +48217,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I4210115256",
             "host_organization_name": "Jackson Laboratory",
             "host_organization_lineage": [
@@ -49376,8 +49484,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
           "id": "https://metadata.un.org/sdg/15",
+          "score": 0.6899999976158142,
           "display_name": "Life in Land"
         }
       ],
@@ -50101,8 +50209,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8199999928474426,
           "display_name": "Life below water"
         }
       ],
@@ -51522,8 +51630,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5799999833106995,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5799999833106995,
           "display_name": "Life below water"
         }
       ],
@@ -53472,8 +53580,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6399999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6399999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -55484,8 +55592,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8399999737739563,
           "display_name": "Life below water"
         }
       ],
@@ -55613,6 +55721,10 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310320595",
           "host_organization_name": "Wiley",
           "host_organization_lineage": [
@@ -56485,6 +56597,10 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "doyens",
+              "cwts-core"
+            ],
             "host_organization": "https://openalex.org/P4310320595",
             "host_organization_name": "Wiley",
             "host_organization_lineage": [
@@ -56516,6 +56632,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -59118,6 +59235,10 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "doyens",
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310320155",
           "host_organization_name": "American Physiological Society",
           "host_organization_lineage": [
@@ -59306,11 +59427,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3896,
+      "fwci": 0.4142,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.53198128,
+        "value": 0.54263566,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -59985,6 +60106,10 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "doyens",
+              "cwts-core"
+            ],
             "host_organization": "https://openalex.org/P4310320155",
             "host_organization_name": "American Physiological Society",
             "host_organization_lineage": [
@@ -60016,6 +60141,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -60949,8 +61075,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/2",
+          "score": 0.800000011920929,
           "display_name": "Zero hunger"
         }
       ],
@@ -61382,8 +61508,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6600000262260437,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6600000262260437,
           "display_name": "Life below water"
         }
       ],
@@ -62359,8 +62485,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5699999928474426,
           "display_name": "Life below water"
         }
       ],
@@ -63492,8 +63618,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579,
           "display_name": "Life below water"
         }
       ],
@@ -63864,8 +63990,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4699999988079071,
           "display_name": "Climate action"
         }
       ],
@@ -66550,8 +66676,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.49000000953674316,
           "display_name": "Life below water"
         }
       ],
@@ -68838,8 +68964,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4300000071525574,
           "display_name": "Climate action"
         }
       ],
@@ -70160,8 +70286,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4300000071525574,
           "display_name": "Climate action"
         }
       ],
@@ -71474,8 +71600,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
           "display_name": "Life below water"
         }
       ],
@@ -72854,8 +72980,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/4",
+          "score": 0.5199999809265137,
           "display_name": "Quality Education"
         }
       ],
@@ -76754,8 +76880,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5504250526428223,
           "id": "https://metadata.un.org/sdg/17",
+          "score": 0.5504250526428223,
           "display_name": "Partnerships for the goals"
         }
       ],
