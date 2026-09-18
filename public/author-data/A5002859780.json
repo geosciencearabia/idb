@@ -174,7 +174,7 @@
       {
         "id": "https://openalex.org/T11284",
         "display_name": "Coal Properties and Utilization",
-        "value": 0.0000125,
+        "value": 0.0000128,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -191,7 +191,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000117,
+        "value": 0.0000119,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -208,7 +208,7 @@
       {
         "id": "https://openalex.org/T13925",
         "display_name": "Offshore Engineering and Technologies",
-        "value": 0.0000117,
+        "value": 0.0000118,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -225,7 +225,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000108,
+        "value": 0.0000109,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -316,7 +316,7 @@
     ],
     "block_key": "a al-duaiji",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5002859780",
-    "updated_date": "2026-09-03T12:17:32",
+    "updated_date": "2026-09-17T12:20:00",
     "created_date": "2019-12-05T00:00:00"
   },
   "works": [
@@ -348,6 +348,9 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -461,9 +464,9 @@
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
-      "cited_by_count": 56,
+      "cited_by_count": 57,
       "citation_normalized_percentile": {
-        "value": 0.39772111,
+        "value": 0.39333515,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -728,6 +731,9 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -758,6 +764,9 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -1589,7 +1598,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -1644,7 +1653,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-01T08:31:24.195828",
+      "updated_date": "2026-09-18T07:38:42.748307",
       "created_date": "2025-10-10T00:00:00"
     },
     {

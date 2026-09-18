@@ -385,7 +385,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002208,
+        "value": 0.0002207,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -402,7 +402,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0001384,
+        "value": 0.0001383,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -419,7 +419,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.000114,
+        "value": 0.0001139,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -783,7 +783,7 @@
     ],
     "block_key": "r enay",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5084630459",
-    "updated_date": "2026-09-16T12:20:06",
+    "updated_date": "2026-09-17T12:20:00",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -816,6 +816,9 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
@@ -1062,11 +1065,11 @@
         "value_usd": 3030
       },
       "apc_paid": null,
-      "fwci": 2.4101,
+      "fwci": 2.42,
       "has_fulltext": false,
-      "cited_by_count": 100,
+      "cited_by_count": 101,
       "citation_normalized_percentile": {
-        "value": 0.8722795,
+        "value": 0.87305251,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1212,6 +1215,9 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
             "host_organization_lineage": [
@@ -1234,16 +1240,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "display_name": "Life below water",
+          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -1316,7 +1322,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2017,
@@ -1339,7 +1345,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-05T08:02:43.246662",
+      "updated_date": "2026-09-18T07:38:42.748307",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1766,16 +1772,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 201,
@@ -2757,16 +2763,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7799999713897705,
           "display_name": "Life below water",
+          "score": 0.7799999713897705,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4133,16 +4139,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7300000190734863,
           "display_name": "Life below water",
+          "score": 0.7300000190734863,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -5182,16 +5188,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -5657,16 +5663,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6600000262260437,
           "display_name": "Climate action",
+          "score": 0.6600000262260437,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6076,8 +6082,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -6095,8 +6101,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -6695,16 +6701,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
           "display_name": "Life below water",
+          "score": 0.8199999928474426,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -7372,8 +7378,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7200000286102295,
           "display_name": "Life below water",
+          "score": 0.7200000286102295,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -7404,8 +7410,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1969483030.pdf",
@@ -8030,6 +8036,9 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -8123,11 +8132,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2865,
+      "fwci": 1.2791,
       "has_fulltext": false,
-      "cited_by_count": 27,
+      "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.80977885,
+        "value": 0.80862909,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8420,6 +8429,9 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -8450,6 +8462,9 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -8466,16 +8481,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2982658177.pdf"
@@ -9258,7 +9273,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2017,
@@ -9277,7 +9292,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-05T08:02:43.246662",
+      "updated_date": "2026-09-18T07:38:42.748307",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9557,16 +9572,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "display_name": "Life below water",
+          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12603,8 +12618,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2973012426.pdf",
@@ -13709,8 +13724,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -14904,16 +14919,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Life below water",
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W270704681.pdf",
@@ -16642,8 +16657,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -16656,8 +16671,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 124,
@@ -17202,8 +17217,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17604,16 +17619,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "display_name": "Life below water",
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18707,16 +18722,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 140,
@@ -19264,16 +19279,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "display_name": "Life below water",
+          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20387,8 +20402,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20726,8 +20741,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21326,16 +21341,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5299999713897705,
           "display_name": "Life below water",
+          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 133,
@@ -21902,16 +21917,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5899999737739563,
           "display_name": "Life below water",
+          "score": 0.5899999737739563,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -22505,16 +22520,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 161,
@@ -23026,16 +23041,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5799999833106995,
           "display_name": "Life below water",
+          "score": 0.5799999833106995,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23523,8 +23538,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25653,16 +25668,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -26059,16 +26074,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Life below water",
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -26792,16 +26807,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
           "display_name": "Life below water",
+          "score": 0.6200000047683716,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -27395,16 +27410,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Life below water",
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -27810,1239 +27825,6 @@
         },
         {
           "year": 2012,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-08-15T07:11:24.734988",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2082045909",
-      "doi": "https://doi.org/10.2113/175.2.107",
-      "title": "A sequence analyzed from the basin to the platform : the Middle Oxfordian calcareous succession in southeastern France",
-      "display_name": "A sequence analyzed from the basin to the platform : the Middle Oxfordian calcareous succession in southeastern France",
-      "publication_year": 2004,
-      "publication_date": "2004-03-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2082045909",
-        "doi": "https://doi.org/10.2113/175.2.107",
-        "mag": "2082045909"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2113/175.2.107",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.2113/175.2.107",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S12747430",
-          "display_name": "Bulletin de la Société Géologique de France",
-          "issn_l": "0037-9409",
-          "issn": [
-            "0037-9409",
-            "1777-5817"
-          ],
-          "is_oa": false,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319748",
-          "host_organization_name": "EDP Sciences",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319748",
-            "https://openalex.org/P4310319982"
-          ],
-          "host_organization_lineage_names": [
-            "EDP Sciences",
-            "Science Press"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Bulletin de la Société Géologique de France",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5110130149",
-            "display_name": "Christian Gaillard",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Lyon 1 Université",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Christian Gaillard",
-          "raw_affiliation_strings": [
-            "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr",
-              "institution_ids": [
-                "https://openalex.org/I100532134"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5068894767",
-            "display_name": "Laurent Emmanuel",
-            "orcid": "https://orcid.org/0000-0001-9905-3986"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Laurent Emmanuel",
-          "raw_affiliation_strings": [
-            "FR 32, Département de Géologie Sédimentaire, Université P&M Curie, Case 116, 4 place Jussieu, F 75252 Paris cedex 05, France. lemmanuel@ccr.jussieu.fr"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "FR 32, Département de Géologie Sédimentaire, Université P&M Curie, Case 116, 4 place Jussieu, F 75252 Paris cedex 05, France. lemmanuel@ccr.jussieu.fr",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5041328041",
-            "display_name": "Micheline Hanzo",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I90183372",
-              "display_name": "Université de Lorraine",
-              "ror": "https://ror.org/04vfs2w97",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I90183372"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Micheline Hanzo",
-          "raw_affiliation_strings": [
-            "UMR G2R, Géologie des Bassins sédimentaires, Université Henri Poincaré, Nancy1, BP 239, F 54506 Vandoeuvre-les-Nancy cedex, France. Bernard.Lathuiliere@g2r.uhp-nancy.fr – Micheline.Hanzo@g2r.uhp-nancy.fr"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UMR G2R, Géologie des Bassins sédimentaires, Université Henri Poincaré, Nancy1, BP 239, F 54506 Vandoeuvre-les-Nancy cedex, France. Bernard.Lathuiliere@g2r.uhp-nancy.fr – Micheline.Hanzo@g2r.uhp-nancy.fr",
-              "institution_ids": [
-                "https://openalex.org/I90183372"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5044568829",
-            "display_name": "Bernard Lathuilière",
-            "orcid": "https://orcid.org/0000-0001-5088-3057"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I90183372",
-              "display_name": "Université de Lorraine",
-              "ror": "https://ror.org/04vfs2w97",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I90183372"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Bernard Lathuiliere",
-          "raw_affiliation_strings": [
-            "UMR G2R, Géologie des Bassins sédimentaires, Université Henri Poincaré, Nancy1, BP 239, F 54506 Vandoeuvre-les-Nancy cedex, France. Bernard.Lathuiliere@g2r.uhp-nancy.fr – Micheline.Hanzo@g2r.uhp-nancy.fr"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UMR G2R, Géologie des Bassins sédimentaires, Université Henri Poincaré, Nancy1, BP 239, F 54506 Vandoeuvre-les-Nancy cedex, France. Bernard.Lathuiliere@g2r.uhp-nancy.fr – Micheline.Hanzo@g2r.uhp-nancy.fr",
-              "institution_ids": [
-                "https://openalex.org/I90183372"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5039086654",
-            "display_name": "François Atrops",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Lyon 1 Université",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "François Atrops",
-          "raw_affiliation_strings": [
-            "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr",
-              "institution_ids": [
-                "https://openalex.org/I100532134"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5036229728",
-            "display_name": "Y. Bodeur",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I97188460",
-              "display_name": "Nantes Université",
-              "ror": "https://ror.org/03gnr7b55",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I97188460"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Yves Bodeur",
-          "raw_affiliation_strings": [
-            "Laboratoire de Géologie, Université de Nantes, BP 92908, 2 rue de la Houssinière, F 44072 Nantes cedex, France. Yves.Bodeur@chimie.univ-nantes.fr"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratoire de Géologie, Université de Nantes, BP 92908, 2 rue de la Houssinière, F 44072 Nantes cedex, France. Yves.Bodeur@chimie.univ-nantes.fr",
-              "institution_ids": [
-                "https://openalex.org/I97188460"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5061022136",
-            "display_name": "Abdelkader Bouhamdi",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Lyon 1 Université",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdelkader Bouhamdi",
-          "raw_affiliation_strings": [
-            "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr",
-              "institution_ids": [
-                "https://openalex.org/I100532134"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5113783964",
-            "display_name": "Didier Marchand",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I177064439",
-              "display_name": "Université de Bourgogne",
-              "ror": "https://ror.org/03k1bsr36",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I177064439"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210158426",
-              "display_name": "Biogéosciences",
-              "ror": "https://ror.org/04mzqjs78",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I159885104",
-                "https://openalex.org/I2746051580",
-                "https://openalex.org/I4210107625",
-                "https://openalex.org/I4210158426",
-                "https://openalex.org/I4405253280"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Didier Marchand",
-          "raw_affiliation_strings": [
-            "UMR 5561, Biogéosciences, Centre des Sciences de la Terre, Université de Bourgogne, 6 boulevard Gabriel, F 21100 Dijon, France. Didier.Marchand@u-bourgogne.fr"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UMR 5561, Biogéosciences, Centre des Sciences de la Terre, Université de Bourgogne, 6 boulevard Gabriel, F 21100 Dijon, France. Didier.Marchand@u-bourgogne.fr",
-              "institution_ids": [
-                "https://openalex.org/I177064439",
-                "https://openalex.org/I4210158426"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5084630459",
-            "display_name": "Raymond Énay",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Lyon 1 Université",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Raymond Enay",
-          "raw_affiliation_strings": [
-            "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr",
-              "institution_ids": [
-                "https://openalex.org/I100532134"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5057797380",
-            "display_name": "Christiane Ruget",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I123791789",
-              "display_name": "Saint-Gobain (France)",
-              "ror": "https://ror.org/02fdb8q57",
-              "country_code": "FR",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I123791789"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Christiane Ruget",
-          "raw_affiliation_strings": [
-            "Chipier, route de Pimotin, F 69420 Tupin et Semons, France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Chipier, route de Pimotin, F 69420 Tupin et Semons, France",
-              "institution_ids": [
-                "https://openalex.org/I123791789"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5017337735",
-            "display_name": "Winfried Werner",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I150569930",
-              "display_name": "Bayer (United States)",
-              "ror": "https://ror.org/034ffbg36",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I150569930",
-                "https://openalex.org/I67348948"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Winfried Werner",
-          "raw_affiliation_strings": [
-            "Bayer. Staats. Paläont. Hist. Geol., Richard Wagner Strasse 10. D 80333 München, Allemagne. w.werner@lrz.uni-muenchen.de"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Bayer. Staats. Paläont. Hist. Geol., Richard Wagner Strasse 10. D 80333 München, Allemagne. w.werner@lrz.uni-muenchen.de",
-              "institution_ids": [
-                "https://openalex.org/I150569930"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 7,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 500,
-        "currency": "EUR",
-        "value_usd": 539
-      },
-      "apc_paid": null,
-      "fwci": 2.2157,
-      "has_fulltext": false,
-      "cited_by_count": 9,
-      "citation_normalized_percentile": {
-        "value": 0.88583172,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 90,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "175",
-        "issue": "2",
-        "first_page": "107",
-        "last_page": "119"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9990000128746033,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9990000128746033,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.9973999857902527,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9959999918937683,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8943531513214111
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.650587797164917
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.6043425798416138
-        },
-        {
-          "id": "https://openalex.org/keywords/sequence-stratigraphy",
-          "display_name": "Sequence stratigraphy",
-          "score": 0.5789819955825806
-        },
-        {
-          "id": "https://openalex.org/keywords/period",
-          "display_name": "Period (music)",
-          "score": 0.5739591717720032
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentation",
-          "display_name": "Sedimentation",
-          "score": 0.5420225262641907
-        },
-        {
-          "id": "https://openalex.org/keywords/ecological-succession",
-          "display_name": "Ecological succession",
-          "score": 0.5358741283416748
-        },
-        {
-          "id": "https://openalex.org/keywords/subsidence",
-          "display_name": "Subsidence",
-          "score": 0.5139157772064209
-        },
-        {
-          "id": "https://openalex.org/keywords/marl",
-          "display_name": "Marl",
-          "score": 0.49789905548095703
-        },
-        {
-          "id": "https://openalex.org/keywords/sequence",
-          "display_name": "Sequence (biology)",
-          "score": 0.44637829065322876
-        },
-        {
-          "id": "https://openalex.org/keywords/stratigraphy",
-          "display_name": "Stratigraphy",
-          "score": 0.4299236536026001
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-platform",
-          "display_name": "Carbonate platform",
-          "score": 0.4270809590816498
-        },
-        {
-          "id": "https://openalex.org/keywords/calcareous",
-          "display_name": "Calcareous",
-          "score": 0.4205377697944641
-        },
-        {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.3540707230567932
-        },
-        {
-          "id": "https://openalex.org/keywords/sediment",
-          "display_name": "Sediment",
-          "score": 0.3073178231716156
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.1339741051197052
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8943531513214111
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.650587797164917
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6043425798416138
-        },
-        {
-          "id": "https://openalex.org/C42907665",
-          "wikidata": "https://www.wikidata.org/wiki/Q1732190",
-          "display_name": "Sequence stratigraphy",
-          "level": 4,
-          "score": 0.5789819955825806
-        },
-        {
-          "id": "https://openalex.org/C2781291010",
-          "wikidata": "https://www.wikidata.org/wiki/Q178580",
-          "display_name": "Period (music)",
-          "level": 2,
-          "score": 0.5739591717720032
-        },
-        {
-          "id": "https://openalex.org/C29941650",
-          "wikidata": "https://www.wikidata.org/wiki/Q635485",
-          "display_name": "Sedimentation",
-          "level": 3,
-          "score": 0.5420225262641907
-        },
-        {
-          "id": "https://openalex.org/C150117547",
-          "wikidata": "https://www.wikidata.org/wiki/Q188230",
-          "display_name": "Ecological succession",
-          "level": 2,
-          "score": 0.5358741283416748
-        },
-        {
-          "id": "https://openalex.org/C180851071",
-          "wikidata": "https://www.wikidata.org/wiki/Q849953",
-          "display_name": "Subsidence",
-          "level": 3,
-          "score": 0.5139157772064209
-        },
-        {
-          "id": "https://openalex.org/C92927620",
-          "wikidata": "https://www.wikidata.org/wiki/Q184053",
-          "display_name": "Marl",
-          "level": 3,
-          "score": 0.49789905548095703
-        },
-        {
-          "id": "https://openalex.org/C2778112365",
-          "wikidata": "https://www.wikidata.org/wiki/Q3511065",
-          "display_name": "Sequence (biology)",
-          "level": 2,
-          "score": 0.44637829065322876
-        },
-        {
-          "id": "https://openalex.org/C109281948",
-          "wikidata": "https://www.wikidata.org/wiki/Q134783",
-          "display_name": "Stratigraphy",
-          "level": 3,
-          "score": 0.4299236536026001
-        },
-        {
-          "id": "https://openalex.org/C2778609275",
-          "wikidata": "https://www.wikidata.org/wiki/Q691831",
-          "display_name": "Carbonate platform",
-          "level": 4,
-          "score": 0.4270809590816498
-        },
-        {
-          "id": "https://openalex.org/C123552892",
-          "wikidata": "https://www.wikidata.org/wiki/Q17005941",
-          "display_name": "Calcareous",
-          "level": 2,
-          "score": 0.4205377697944641
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.3540707230567932
-        },
-        {
-          "id": "https://openalex.org/C2816523",
-          "wikidata": "https://www.wikidata.org/wiki/Q180184",
-          "display_name": "Sediment",
-          "level": 2,
-          "score": 0.3073178231716156
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.1339741051197052
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C54355233",
-          "wikidata": "https://www.wikidata.org/wiki/Q7162",
-          "display_name": "Genetics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C24890656",
-          "wikidata": "https://www.wikidata.org/wiki/Q82811",
-          "display_name": "Acoustics",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2113/175.2.107",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.2113/175.2.107",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S12747430",
-            "display_name": "Bulletin de la Société Géologique de France",
-            "issn_l": "0037-9409",
-            "issn": [
-              "0037-9409",
-              "1777-5817"
-            ],
-            "is_oa": false,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310319748",
-            "host_organization_name": "EDP Sciences",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319748",
-              "https://openalex.org/P4310319982"
-            ],
-            "host_organization_lineage_names": [
-              "EDP Sciences",
-              "Science Press"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Bulletin de la Société Géologique de France",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2126019709",
-        "https://openalex.org/W1702901972",
-        "https://openalex.org/W4249798507",
-        "https://openalex.org/W2069775250",
-        "https://openalex.org/W2093541819",
-        "https://openalex.org/W2032294417",
-        "https://openalex.org/W2152754392",
-        "https://openalex.org/W4389106489",
-        "https://openalex.org/W3216978234",
-        "https://openalex.org/W2596234422"
-      ],
-      "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
-        "Middle": [
-          1
-        ],
-        "Oxfordian": [
-          2
-        ],
-        "sedimentation": [
-          3,
-          56,
-          128
-        ],
-        "is": [
-          4,
-          11
-        ],
-        "very": [
-          5
-        ],
-        "homogeneous": [
-          6
-        ],
-        "in": [
-          7,
-          37,
-          89,
-          129
-        ],
-        "southeastern": [
-          8,
-          130
-        ],
-        "France.": [
-          9
-        ],
-        "It": [
-          10
-        ],
-        "characterized": [
-          12
-        ],
-        "by": [
-          13,
-          136
-        ],
-        "a": [
-          14,
-          52,
-          58,
-          73
-        ],
-        "specific": [
-          15
-        ],
-        "alternation": [
-          16
-        ],
-        "of": [
-          17,
-          30,
-          72,
-          115,
-          118
-        ],
-        "marls": [
-          18
-        ],
-        "and": [
-          19,
-          64,
-          93,
-          101
-        ],
-        "fine-grained": [
-          20
-        ],
-        "limestones": [
-          21
-        ],
-        "(G.": [
-          22
-        ],
-        "transversarium": [
-          23
-        ],
-        "Zone).": [
-          24
-        ],
-        "This": [
-          25,
-          67,
-          124
-        ],
-        "work": [
-          26
-        ],
-        "shows": [
-          27,
-          126
-        ],
-        "that": [
-          28,
-          127
-        ],
-        "sets": [
-          29
-        ],
-        "calcareous": [
-          31
-        ],
-        "beds": [
-          32
-        ],
-        "allow": [
-          33
-        ],
-        "accurate": [
-          34
-        ],
-        "stratigraphic": [
-          35
-        ],
-        "correlations": [
-          36
-        ],
-        "various": [
-          38
-        ],
-        "paleogeographic": [
-          39
-        ],
-        "areas,": [
-          40
-        ],
-        "from": [
-          41
-        ],
-        "the": [
-          42,
-          47,
-          70,
-          90,
-          99,
-          102,
-          108,
-          116,
-          119
-        ],
-        "shallow": [
-          43
-        ],
-        "Jura": [
-          44
-        ],
-        "platform": [
-          45,
-          100
-        ],
-        "to": [
-          46,
-          69,
-          79,
-          95,
-          112
-        ],
-        "deep": [
-          48
-        ],
-        "Dauphinois": [
-          49
-        ],
-        "basin.": [
-          50,
-          103
-        ],
-        "Following": [
-          51
-        ],
-        "rifting": [
-          53
-        ],
-        "period,": [
-          54
-        ],
-        "this": [
-          55
-        ],
-        "illustrates": [
-          57
-        ],
-        "doming": [
-          59
-        ],
-        "period": [
-          60
-        ],
-        "with": [
-          61
-        ],
-        "decreasing": [
-          62
-        ],
-        "subsidence": [
-          63
-        ],
-        "water": [
-          65
-        ],
-        "depth.": [
-          66
-        ],
-        "corresponds": [
-          68
-        ],
-        "establishment": [
-          71
-        ],
-        "wide": [
-          74
-        ],
-        "marine": [
-          75
-        ],
-        "area": [
-          76
-        ],
-        "more": [
-          77
-        ],
-        "favourable": [
-          78
-        ],
-        "carbonate": [
-          80
-        ],
-        "sedimentation.": [
-          81
-        ],
-        "Considering": [
-          82
-        ],
-        "sequence": [
-          83
-        ],
-        "stratigraphy,": [
-          84
-        ],
-        "some": [
-          85
-        ],
-        "slight": [
-          86
-        ],
-        "variations": [
-          87
-        ],
-        "occur": [
-          88
-        ],
-        "sediment": [
-          91
-        ],
-        "record": [
-          92
-        ],
-        "lead": [
-          94
-        ],
-        "interesting": [
-          96
-        ],
-        "comparisons": [
-          97
-        ],
-        "between": [
-          98
-        ],
-        "The": [
-          104
-        ],
-        "geochemical": [
-          105
-        ],
-        "evolution,": [
-          106
-        ],
-        "mainly": [
-          107
-        ],
-        "manganese": [
-          109
-        ],
-        "content,": [
-          110
-        ],
-        "seems": [
-          111
-        ],
-        "be": [
-          113,
-          133
-        ],
-        "dependant": [
-          114
-        ],
-        "activity": [
-          117
-        ],
-        "Ligurian": [
-          120
-        ],
-        "Tethys": [
-          121
-        ],
-        "oceanic": [
-          122
-        ],
-        "ridge.": [
-          123
-        ],
-        "fact": [
-          125
-        ],
-        "France": [
-          131
-        ],
-        "could": [
-          132
-        ],
-        "significantly": [
-          134
-        ],
-        "controlled": [
-          135
-        ],
-        "tectono-eustasy.": [
-          137
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
           "cited_by_count": 1
         }
       ],
@@ -29543,16 +28325,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7200000286102295,
           "display_name": "Life below water",
+          "score": 0.7200000286102295,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -29973,8 +28755,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31370,16 +30152,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32158,8 +30940,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -32172,8 +30954,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -32559,8 +31341,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33688,8 +32470,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2022942026.pdf",
@@ -34403,8 +33185,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34986,6 +33768,361 @@
         }
       ],
       "updated_date": "2026-08-15T07:11:24.734988",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2312232033",
+      "doi": "https://doi.org/10.2113/gssgfbull.s7-xiv.1-5.281",
+      "title": "Figures d'emersion temporaire et indices de sedimentation a tres faible profondeur dans le Portlandien et le Kimmeridgien superieur (Calcaires en plaquettes) du Grand-Colombier-de-Culoz (Ain, France)",
+      "display_name": "Figures d'emersion temporaire et indices de sedimentation a tres faible profondeur dans le Portlandien et le Kimmeridgien superieur (Calcaires en plaquettes) du Grand-Colombier-de-Culoz (Ain, France)",
+      "publication_year": 1972,
+      "publication_date": "1972-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2312232033",
+        "doi": "https://doi.org/10.2113/gssgfbull.s7-xiv.1-5.281",
+        "mag": "2312232033"
+      },
+      "language": "fr",
+      "primary_location": {
+        "id": "doi:10.2113/gssgfbull.s7-xiv.1-5.281",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2113/gssgfbull.s7-xiv.1-5.281",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S12747430",
+          "display_name": "Bulletin de la Société Géologique de France",
+          "issn_l": "0037-9409",
+          "issn": [
+            "0037-9409",
+            "1777-5817"
+          ],
+          "is_oa": false,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj"
+          ],
+          "host_organization": "https://openalex.org/P4310319748",
+          "host_organization_name": "EDP Sciences",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319748",
+            "https://openalex.org/P4310319982"
+          ],
+          "host_organization_lineage_names": [
+            "EDP Sciences",
+            "Science Press"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Bulletin de la Société Géologique de France",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5113516889",
+            "display_name": "Paul Bernier",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Paul Bernier",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5084630459",
+            "display_name": "Raymond Énay",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Raymond Enay",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 500,
+        "currency": "EUR",
+        "value_usd": 539
+      },
+      "apc_paid": null,
+      "fwci": 0.9099,
+      "has_fulltext": false,
+      "cited_by_count": 15,
+      "citation_normalized_percentile": {
+        "value": 0.78159126,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "S7-XIV",
+        "issue": "1-5",
+        "first_page": "281",
+        "last_page": "292"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.9750000238418579,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9750000238418579,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9735000133514404,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12821",
+          "display_name": "Geological Formations and Processes Exploration",
+          "score": 0.9711999893188477,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/humanities",
+          "display_name": "Humanities",
+          "score": 0.6934662461280823
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.6291324496269226
+        },
+        {
+          "id": "https://openalex.org/keywords/art",
+          "display_name": "Art",
+          "score": 0.11527344584465027
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C15708023",
+          "wikidata": "https://www.wikidata.org/wiki/Q80083",
+          "display_name": "Humanities",
+          "level": 1,
+          "score": 0.6934662461280823
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6291324496269226
+        },
+        {
+          "id": "https://openalex.org/C142362112",
+          "wikidata": "https://www.wikidata.org/wiki/Q735",
+          "display_name": "Art",
+          "level": 0,
+          "score": 0.11527344584465027
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2113/gssgfbull.s7-xiv.1-5.281",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.2113/gssgfbull.s7-xiv.1-5.281",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S12747430",
+            "display_name": "Bulletin de la Société Géologique de France",
+            "issn_l": "0037-9409",
+            "issn": [
+              "0037-9409",
+              "1777-5817"
+            ],
+            "is_oa": false,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj"
+            ],
+            "host_organization": "https://openalex.org/P4310319748",
+            "host_organization_name": "EDP Sciences",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319748",
+              "https://openalex.org/P4310319982"
+            ],
+            "host_organization_lineage_names": [
+              "EDP Sciences",
+              "Science Press"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Bulletin de la Société Géologique de France",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "score": 0.5,
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2324615561",
+        "https://openalex.org/W2086120259",
+        "https://openalex.org/W2245170124",
+        "https://openalex.org/W3186982001",
+        "https://openalex.org/W2137941439",
+        "https://openalex.org/W1984402782",
+        "https://openalex.org/W2076393078",
+        "https://openalex.org/W1999913942",
+        "https://openalex.org/W2151614148",
+        "https://openalex.org/W2004200960"
+      ],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "Lamellibranchs,": [
+          1
+        ],
+        "foraminifera,": [
+          2
+        ],
+        "birdseye,": [
+          3
+        ],
+        "laminites,": [
+          4
+        ],
+        "evaporites,": [
+          5
+        ],
+        "algae": [
+          6
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-18T07:38:42.748307",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35765,16 +34902,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
           "display_name": "Life below water",
+          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1560373638.pdf",
@@ -36776,16 +35913,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -37296,16 +36433,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
           "display_name": "Life below water",
+          "score": 0.6800000071525574,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -37799,8 +36936,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -37818,8 +36955,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -37896,6 +37033,1251 @@
         }
       ],
       "updated_date": "2026-08-21T09:56:20.448147",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2082045909",
+      "doi": "https://doi.org/10.2113/175.2.107",
+      "title": "A sequence analyzed from the basin to the platform : the Middle Oxfordian calcareous succession in southeastern France",
+      "display_name": "A sequence analyzed from the basin to the platform : the Middle Oxfordian calcareous succession in southeastern France",
+      "publication_year": 2004,
+      "publication_date": "2004-03-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2082045909",
+        "doi": "https://doi.org/10.2113/175.2.107",
+        "mag": "2082045909"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2113/175.2.107",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2113/175.2.107",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S12747430",
+          "display_name": "Bulletin de la Société Géologique de France",
+          "issn_l": "0037-9409",
+          "issn": [
+            "0037-9409",
+            "1777-5817"
+          ],
+          "is_oa": false,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj"
+          ],
+          "host_organization": "https://openalex.org/P4310319748",
+          "host_organization_name": "EDP Sciences",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319748",
+            "https://openalex.org/P4310319982"
+          ],
+          "host_organization_lineage_names": [
+            "EDP Sciences",
+            "Science Press"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Bulletin de la Société Géologique de France",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5110130149",
+            "display_name": "Christian Gaillard",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Lyon 1 Université",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Christian Gaillard",
+          "raw_affiliation_strings": [
+            "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr",
+              "institution_ids": [
+                "https://openalex.org/I100532134"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5068894767",
+            "display_name": "Laurent Emmanuel",
+            "orcid": "https://orcid.org/0000-0001-9905-3986"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Laurent Emmanuel",
+          "raw_affiliation_strings": [
+            "FR 32, Département de Géologie Sédimentaire, Université P&M Curie, Case 116, 4 place Jussieu, F 75252 Paris cedex 05, France. lemmanuel@ccr.jussieu.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "FR 32, Département de Géologie Sédimentaire, Université P&M Curie, Case 116, 4 place Jussieu, F 75252 Paris cedex 05, France. lemmanuel@ccr.jussieu.fr",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5041328041",
+            "display_name": "Micheline Hanzo",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I90183372",
+              "display_name": "Université de Lorraine",
+              "ror": "https://ror.org/04vfs2w97",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I90183372"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Micheline Hanzo",
+          "raw_affiliation_strings": [
+            "UMR G2R, Géologie des Bassins sédimentaires, Université Henri Poincaré, Nancy1, BP 239, F 54506 Vandoeuvre-les-Nancy cedex, France. Bernard.Lathuiliere@g2r.uhp-nancy.fr – Micheline.Hanzo@g2r.uhp-nancy.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UMR G2R, Géologie des Bassins sédimentaires, Université Henri Poincaré, Nancy1, BP 239, F 54506 Vandoeuvre-les-Nancy cedex, France. Bernard.Lathuiliere@g2r.uhp-nancy.fr – Micheline.Hanzo@g2r.uhp-nancy.fr",
+              "institution_ids": [
+                "https://openalex.org/I90183372"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044568829",
+            "display_name": "Bernard Lathuilière",
+            "orcid": "https://orcid.org/0000-0001-5088-3057"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I90183372",
+              "display_name": "Université de Lorraine",
+              "ror": "https://ror.org/04vfs2w97",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I90183372"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bernard Lathuiliere",
+          "raw_affiliation_strings": [
+            "UMR G2R, Géologie des Bassins sédimentaires, Université Henri Poincaré, Nancy1, BP 239, F 54506 Vandoeuvre-les-Nancy cedex, France. Bernard.Lathuiliere@g2r.uhp-nancy.fr – Micheline.Hanzo@g2r.uhp-nancy.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UMR G2R, Géologie des Bassins sédimentaires, Université Henri Poincaré, Nancy1, BP 239, F 54506 Vandoeuvre-les-Nancy cedex, France. Bernard.Lathuiliere@g2r.uhp-nancy.fr – Micheline.Hanzo@g2r.uhp-nancy.fr",
+              "institution_ids": [
+                "https://openalex.org/I90183372"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039086654",
+            "display_name": "François Atrops",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Lyon 1 Université",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "François Atrops",
+          "raw_affiliation_strings": [
+            "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr",
+              "institution_ids": [
+                "https://openalex.org/I100532134"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5036229728",
+            "display_name": "Y. Bodeur",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97188460",
+              "display_name": "Nantes Université",
+              "ror": "https://ror.org/03gnr7b55",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97188460"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yves Bodeur",
+          "raw_affiliation_strings": [
+            "Laboratoire de Géologie, Université de Nantes, BP 92908, 2 rue de la Houssinière, F 44072 Nantes cedex, France. Yves.Bodeur@chimie.univ-nantes.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de Géologie, Université de Nantes, BP 92908, 2 rue de la Houssinière, F 44072 Nantes cedex, France. Yves.Bodeur@chimie.univ-nantes.fr",
+              "institution_ids": [
+                "https://openalex.org/I97188460"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5061022136",
+            "display_name": "Abdelkader Bouhamdi",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Lyon 1 Université",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdelkader Bouhamdi",
+          "raw_affiliation_strings": [
+            "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr",
+              "institution_ids": [
+                "https://openalex.org/I100532134"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5113783964",
+            "display_name": "Didier Marchand",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I177064439",
+              "display_name": "Université de Bourgogne",
+              "ror": "https://ror.org/03k1bsr36",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I177064439"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210158426",
+              "display_name": "Biogéosciences",
+              "ror": "https://ror.org/04mzqjs78",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I159885104",
+                "https://openalex.org/I2746051580",
+                "https://openalex.org/I4210107625",
+                "https://openalex.org/I4210158426",
+                "https://openalex.org/I4405253280"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Didier Marchand",
+          "raw_affiliation_strings": [
+            "UMR 5561, Biogéosciences, Centre des Sciences de la Terre, Université de Bourgogne, 6 boulevard Gabriel, F 21100 Dijon, France. Didier.Marchand@u-bourgogne.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UMR 5561, Biogéosciences, Centre des Sciences de la Terre, Université de Bourgogne, 6 boulevard Gabriel, F 21100 Dijon, France. Didier.Marchand@u-bourgogne.fr",
+              "institution_ids": [
+                "https://openalex.org/I177064439",
+                "https://openalex.org/I4210158426"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5084630459",
+            "display_name": "Raymond Énay",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Lyon 1 Université",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Raymond Enay",
+          "raw_affiliation_strings": [
+            "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UMR 5125, Paléoenvironnements et Paléobiosphère, Université Claude Bernard, Lyon 1, Géode, 2 rue Raphaël Dubois, F 69622 Villeurbanne cedex, France. Christian.Gaillard@univ-lyon1.fr – Francois.Atrops@univ-lyon1.fr",
+              "institution_ids": [
+                "https://openalex.org/I100532134"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5057797380",
+            "display_name": "Christiane Ruget",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I123791789",
+              "display_name": "Saint-Gobain (France)",
+              "ror": "https://ror.org/02fdb8q57",
+              "country_code": "FR",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I123791789"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Christiane Ruget",
+          "raw_affiliation_strings": [
+            "Chipier, route de Pimotin, F 69420 Tupin et Semons, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Chipier, route de Pimotin, F 69420 Tupin et Semons, France",
+              "institution_ids": [
+                "https://openalex.org/I123791789"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5017337735",
+            "display_name": "Winfried Werner",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I150569930",
+              "display_name": "Bayer (United States)",
+              "ror": "https://ror.org/034ffbg36",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I150569930",
+                "https://openalex.org/I67348948"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Winfried Werner",
+          "raw_affiliation_strings": [
+            "Bayer. Staats. Paläont. Hist. Geol., Richard Wagner Strasse 10. D 80333 München, Allemagne. w.werner@lrz.uni-muenchen.de"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Bayer. Staats. Paläont. Hist. Geol., Richard Wagner Strasse 10. D 80333 München, Allemagne. w.werner@lrz.uni-muenchen.de",
+              "institution_ids": [
+                "https://openalex.org/I150569930"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 7,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 500,
+        "currency": "EUR",
+        "value_usd": 539
+      },
+      "apc_paid": null,
+      "fwci": 2.1467,
+      "has_fulltext": false,
+      "cited_by_count": 10,
+      "citation_normalized_percentile": {
+        "value": 0.88089779,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "175",
+        "issue": "2",
+        "first_page": "107",
+        "last_page": "119"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9990000128746033,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9990000128746033,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 0.9973999857902527,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9959999918937683,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8943531513214111
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.650587797164917
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.6043425798416138
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence-stratigraphy",
+          "display_name": "Sequence stratigraphy",
+          "score": 0.5789819955825806
+        },
+        {
+          "id": "https://openalex.org/keywords/period",
+          "display_name": "Period (music)",
+          "score": 0.5739591717720032
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentation",
+          "display_name": "Sedimentation",
+          "score": 0.5420225262641907
+        },
+        {
+          "id": "https://openalex.org/keywords/ecological-succession",
+          "display_name": "Ecological succession",
+          "score": 0.5358741283416748
+        },
+        {
+          "id": "https://openalex.org/keywords/subsidence",
+          "display_name": "Subsidence",
+          "score": 0.5139157772064209
+        },
+        {
+          "id": "https://openalex.org/keywords/marl",
+          "display_name": "Marl",
+          "score": 0.49789905548095703
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence",
+          "display_name": "Sequence (biology)",
+          "score": 0.44637829065322876
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphy",
+          "display_name": "Stratigraphy",
+          "score": 0.4299236536026001
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-platform",
+          "display_name": "Carbonate platform",
+          "score": 0.4270809590816498
+        },
+        {
+          "id": "https://openalex.org/keywords/calcareous",
+          "display_name": "Calcareous",
+          "score": 0.4205377697944641
+        },
+        {
+          "id": "https://openalex.org/keywords/facies",
+          "display_name": "Facies",
+          "score": 0.3540707230567932
+        },
+        {
+          "id": "https://openalex.org/keywords/sediment",
+          "display_name": "Sediment",
+          "score": 0.3073178231716156
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.1339741051197052
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8943531513214111
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.650587797164917
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6043425798416138
+        },
+        {
+          "id": "https://openalex.org/C42907665",
+          "wikidata": "https://www.wikidata.org/wiki/Q1732190",
+          "display_name": "Sequence stratigraphy",
+          "level": 4,
+          "score": 0.5789819955825806
+        },
+        {
+          "id": "https://openalex.org/C2781291010",
+          "wikidata": "https://www.wikidata.org/wiki/Q178580",
+          "display_name": "Period (music)",
+          "level": 2,
+          "score": 0.5739591717720032
+        },
+        {
+          "id": "https://openalex.org/C29941650",
+          "wikidata": "https://www.wikidata.org/wiki/Q635485",
+          "display_name": "Sedimentation",
+          "level": 3,
+          "score": 0.5420225262641907
+        },
+        {
+          "id": "https://openalex.org/C150117547",
+          "wikidata": "https://www.wikidata.org/wiki/Q188230",
+          "display_name": "Ecological succession",
+          "level": 2,
+          "score": 0.5358741283416748
+        },
+        {
+          "id": "https://openalex.org/C180851071",
+          "wikidata": "https://www.wikidata.org/wiki/Q849953",
+          "display_name": "Subsidence",
+          "level": 3,
+          "score": 0.5139157772064209
+        },
+        {
+          "id": "https://openalex.org/C92927620",
+          "wikidata": "https://www.wikidata.org/wiki/Q184053",
+          "display_name": "Marl",
+          "level": 3,
+          "score": 0.49789905548095703
+        },
+        {
+          "id": "https://openalex.org/C2778112365",
+          "wikidata": "https://www.wikidata.org/wiki/Q3511065",
+          "display_name": "Sequence (biology)",
+          "level": 2,
+          "score": 0.44637829065322876
+        },
+        {
+          "id": "https://openalex.org/C109281948",
+          "wikidata": "https://www.wikidata.org/wiki/Q134783",
+          "display_name": "Stratigraphy",
+          "level": 3,
+          "score": 0.4299236536026001
+        },
+        {
+          "id": "https://openalex.org/C2778609275",
+          "wikidata": "https://www.wikidata.org/wiki/Q691831",
+          "display_name": "Carbonate platform",
+          "level": 4,
+          "score": 0.4270809590816498
+        },
+        {
+          "id": "https://openalex.org/C123552892",
+          "wikidata": "https://www.wikidata.org/wiki/Q17005941",
+          "display_name": "Calcareous",
+          "level": 2,
+          "score": 0.4205377697944641
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.3540707230567932
+        },
+        {
+          "id": "https://openalex.org/C2816523",
+          "wikidata": "https://www.wikidata.org/wiki/Q180184",
+          "display_name": "Sediment",
+          "level": 2,
+          "score": 0.3073178231716156
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.1339741051197052
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C54355233",
+          "wikidata": "https://www.wikidata.org/wiki/Q7162",
+          "display_name": "Genetics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C24890656",
+          "wikidata": "https://www.wikidata.org/wiki/Q82811",
+          "display_name": "Acoustics",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2113/175.2.107",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.2113/175.2.107",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S12747430",
+            "display_name": "Bulletin de la Société Géologique de France",
+            "issn_l": "0037-9409",
+            "issn": [
+              "0037-9409",
+              "1777-5817"
+            ],
+            "is_oa": false,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj"
+            ],
+            "host_organization": "https://openalex.org/P4310319748",
+            "host_organization_name": "EDP Sciences",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319748",
+              "https://openalex.org/P4310319982"
+            ],
+            "host_organization_lineage_names": [
+              "EDP Sciences",
+              "Science Press"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Bulletin de la Société Géologique de France",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2126019709",
+        "https://openalex.org/W1702901972",
+        "https://openalex.org/W4249798507",
+        "https://openalex.org/W2069775250",
+        "https://openalex.org/W2093541819",
+        "https://openalex.org/W2032294417",
+        "https://openalex.org/W2152754392",
+        "https://openalex.org/W4389106489",
+        "https://openalex.org/W3216978234",
+        "https://openalex.org/W2596234422"
+      ],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "Middle": [
+          1
+        ],
+        "Oxfordian": [
+          2
+        ],
+        "sedimentation": [
+          3,
+          56,
+          128
+        ],
+        "is": [
+          4,
+          11
+        ],
+        "very": [
+          5
+        ],
+        "homogeneous": [
+          6
+        ],
+        "in": [
+          7,
+          37,
+          89,
+          129
+        ],
+        "southeastern": [
+          8,
+          130
+        ],
+        "France.": [
+          9
+        ],
+        "It": [
+          10
+        ],
+        "characterized": [
+          12
+        ],
+        "by": [
+          13,
+          136
+        ],
+        "a": [
+          14,
+          52,
+          58,
+          73
+        ],
+        "specific": [
+          15
+        ],
+        "alternation": [
+          16
+        ],
+        "of": [
+          17,
+          30,
+          72,
+          115,
+          118
+        ],
+        "marls": [
+          18
+        ],
+        "and": [
+          19,
+          64,
+          93,
+          101
+        ],
+        "fine-grained": [
+          20
+        ],
+        "limestones": [
+          21
+        ],
+        "(G.": [
+          22
+        ],
+        "transversarium": [
+          23
+        ],
+        "Zone).": [
+          24
+        ],
+        "This": [
+          25,
+          67,
+          124
+        ],
+        "work": [
+          26
+        ],
+        "shows": [
+          27,
+          126
+        ],
+        "that": [
+          28,
+          127
+        ],
+        "sets": [
+          29
+        ],
+        "calcareous": [
+          31
+        ],
+        "beds": [
+          32
+        ],
+        "allow": [
+          33
+        ],
+        "accurate": [
+          34
+        ],
+        "stratigraphic": [
+          35
+        ],
+        "correlations": [
+          36
+        ],
+        "various": [
+          38
+        ],
+        "paleogeographic": [
+          39
+        ],
+        "areas,": [
+          40
+        ],
+        "from": [
+          41
+        ],
+        "the": [
+          42,
+          47,
+          70,
+          90,
+          99,
+          102,
+          108,
+          116,
+          119
+        ],
+        "shallow": [
+          43
+        ],
+        "Jura": [
+          44
+        ],
+        "platform": [
+          45,
+          100
+        ],
+        "to": [
+          46,
+          69,
+          79,
+          95,
+          112
+        ],
+        "deep": [
+          48
+        ],
+        "Dauphinois": [
+          49
+        ],
+        "basin.": [
+          50,
+          103
+        ],
+        "Following": [
+          51
+        ],
+        "rifting": [
+          53
+        ],
+        "period,": [
+          54
+        ],
+        "this": [
+          55
+        ],
+        "illustrates": [
+          57
+        ],
+        "doming": [
+          59
+        ],
+        "period": [
+          60
+        ],
+        "with": [
+          61
+        ],
+        "decreasing": [
+          62
+        ],
+        "subsidence": [
+          63
+        ],
+        "water": [
+          65
+        ],
+        "depth.": [
+          66
+        ],
+        "corresponds": [
+          68
+        ],
+        "establishment": [
+          71
+        ],
+        "wide": [
+          74
+        ],
+        "marine": [
+          75
+        ],
+        "area": [
+          76
+        ],
+        "more": [
+          77
+        ],
+        "favourable": [
+          78
+        ],
+        "carbonate": [
+          80
+        ],
+        "sedimentation.": [
+          81
+        ],
+        "Considering": [
+          82
+        ],
+        "sequence": [
+          83
+        ],
+        "stratigraphy,": [
+          84
+        ],
+        "some": [
+          85
+        ],
+        "slight": [
+          86
+        ],
+        "variations": [
+          87
+        ],
+        "occur": [
+          88
+        ],
+        "sediment": [
+          91
+        ],
+        "record": [
+          92
+        ],
+        "lead": [
+          94
+        ],
+        "interesting": [
+          96
+        ],
+        "comparisons": [
+          97
+        ],
+        "between": [
+          98
+        ],
+        "The": [
+          104
+        ],
+        "geochemical": [
+          105
+        ],
+        "evolution,": [
+          106
+        ],
+        "mainly": [
+          107
+        ],
+        "manganese": [
+          109
+        ],
+        "content,": [
+          110
+        ],
+        "seems": [
+          111
+        ],
+        "be": [
+          113,
+          133
+        ],
+        "dependant": [
+          114
+        ],
+        "activity": [
+          117
+        ],
+        "Ligurian": [
+          120
+        ],
+        "Tethys": [
+          121
+        ],
+        "oceanic": [
+          122
+        ],
+        "ridge.": [
+          123
+        ],
+        "fact": [
+          125
+        ],
+        "France": [
+          131
+        ],
+        "could": [
+          132
+        ],
+        "significantly": [
+          134
+        ],
+        "controlled": [
+          135
+        ],
+        "tectono-eustasy.": [
+          137
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-18T07:38:42.748307",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -38326,16 +38708,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5,
           "display_name": "Life below water",
+          "score": 0.5,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -38861,16 +39243,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
           "display_name": "Life below water",
+          "score": 0.550000011920929,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -39288,16 +39670,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6399999856948853,
           "display_name": "Life below water",
+          "score": 0.6399999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -40219,8 +40601,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -40749,16 +41131,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8100000023841858,
           "display_name": "Life below water",
+          "score": 0.8100000023841858,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -41348,16 +41730,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6100000143051147,
           "display_name": "Life below water",
+          "score": 0.6100000143051147,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -42106,16 +42488,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5400000214576721,
           "display_name": "Life below water",
+          "score": 0.5400000214576721,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -42614,8 +42996,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43432,353 +43814,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2312232033",
-      "doi": "https://doi.org/10.2113/gssgfbull.s7-xiv.1-5.281",
-      "title": "Figures d'emersion temporaire et indices de sedimentation a tres faible profondeur dans le Portlandien et le Kimmeridgien superieur (Calcaires en plaquettes) du Grand-Colombier-de-Culoz (Ain, France)",
-      "display_name": "Figures d'emersion temporaire et indices de sedimentation a tres faible profondeur dans le Portlandien et le Kimmeridgien superieur (Calcaires en plaquettes) du Grand-Colombier-de-Culoz (Ain, France)",
-      "publication_year": 1972,
-      "publication_date": "1972-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2312232033",
-        "doi": "https://doi.org/10.2113/gssgfbull.s7-xiv.1-5.281",
-        "mag": "2312232033"
-      },
-      "language": "fr",
-      "primary_location": {
-        "id": "doi:10.2113/gssgfbull.s7-xiv.1-5.281",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.2113/gssgfbull.s7-xiv.1-5.281",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S12747430",
-          "display_name": "Bulletin de la Société Géologique de France",
-          "issn_l": "0037-9409",
-          "issn": [
-            "0037-9409",
-            "1777-5817"
-          ],
-          "is_oa": false,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319748",
-          "host_organization_name": "EDP Sciences",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319748",
-            "https://openalex.org/P4310319982"
-          ],
-          "host_organization_lineage_names": [
-            "EDP Sciences",
-            "Science Press"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Bulletin de la Société Géologique de France",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5113516889",
-            "display_name": "Paul Bernier",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Paul Bernier",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5084630459",
-            "display_name": "Raymond Énay",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Raymond Enay",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 500,
-        "currency": "EUR",
-        "value_usd": 539
-      },
-      "apc_paid": null,
-      "fwci": 0.8853,
-      "has_fulltext": false,
-      "cited_by_count": 14,
-      "citation_normalized_percentile": {
-        "value": 0.77876823,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 94
-      },
-      "biblio": {
-        "volume": "S7-XIV",
-        "issue": "1-5",
-        "first_page": "281",
-        "last_page": "292"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.9750000238418579,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9750000238418579,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9735000133514404,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12821",
-          "display_name": "Geological Formations and Processes Exploration",
-          "score": 0.9711999893188477,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/humanities",
-          "display_name": "Humanities",
-          "score": 0.6934662461280823
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6291324496269226
-        },
-        {
-          "id": "https://openalex.org/keywords/art",
-          "display_name": "Art",
-          "score": 0.11527344584465027
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C15708023",
-          "wikidata": "https://www.wikidata.org/wiki/Q80083",
-          "display_name": "Humanities",
-          "level": 1,
-          "score": 0.6934662461280823
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6291324496269226
-        },
-        {
-          "id": "https://openalex.org/C142362112",
-          "wikidata": "https://www.wikidata.org/wiki/Q735",
-          "display_name": "Art",
-          "level": 0,
-          "score": 0.11527344584465027
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2113/gssgfbull.s7-xiv.1-5.281",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.2113/gssgfbull.s7-xiv.1-5.281",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S12747430",
-            "display_name": "Bulletin de la Société Géologique de France",
-            "issn_l": "0037-9409",
-            "issn": [
-              "0037-9409",
-              "1777-5817"
-            ],
-            "is_oa": false,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310319748",
-            "host_organization_name": "EDP Sciences",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319748",
-              "https://openalex.org/P4310319982"
-            ],
-            "host_organization_lineage_names": [
-              "EDP Sciences",
-              "Science Press"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Bulletin de la Société Géologique de France",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 0.5,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2324615561",
-        "https://openalex.org/W2086120259",
-        "https://openalex.org/W2245170124",
-        "https://openalex.org/W3186982001",
-        "https://openalex.org/W2137941439",
-        "https://openalex.org/W1984402782",
-        "https://openalex.org/W2076393078",
-        "https://openalex.org/W1999913942",
-        "https://openalex.org/W2151614148",
-        "https://openalex.org/W2004200960"
-      ],
-      "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
-        "Lamellibranchs,": [
-          1
-        ],
-        "foraminifera,": [
-          2
-        ],
-        "birdseye,": [
-          3
-        ],
-        "laminites,": [
-          4
-        ],
-        "evaporites,": [
-          5
-        ],
-        "algae": [
-          6
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-08-15T07:11:24.734988",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2294413436",
       "doi": null,
       "title": "Joint meeting of the Oxfordian and Kimmeridgian Working Groups; Warsaw, 7-12 September 1992",
@@ -44062,8 +44097,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -44493,16 +44528,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -45030,16 +45065,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6000000238418579,
           "display_name": "Life below water",
+          "score": 0.6000000238418579,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -45543,16 +45578,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -46169,16 +46204,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -46572,16 +46607,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
           "display_name": "Climate action",
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -46958,16 +46993,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4699999988079071,
           "display_name": "Life below water",
+          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -48256,16 +48291,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Life below water",
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -49191,16 +49226,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4000000059604645,
           "display_name": "Life below water",
+          "score": 0.4000000059604645,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -49574,8 +49609,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -49845,16 +49880,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "display_name": "Life below water",
+          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -50170,8 +50205,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -50820,8 +50855,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -51671,16 +51706,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "display_name": "Life below water",
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 118,
@@ -52683,16 +52718,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "display_name": "Life below water",
+          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -53106,16 +53141,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7599999904632568,
           "display_name": "Life below water",
+          "score": 0.7599999904632568,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -53532,16 +53567,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -54268,16 +54303,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
           "display_name": "Life in Land",
+          "score": 0.550000011920929,
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2598819586.pdf",
@@ -54741,8 +54776,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -55016,16 +55051,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
           "display_name": "Life below water",
+          "score": 0.6899999976158142,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -55533,16 +55568,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
           "display_name": "Life below water",
+          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -55849,8 +55884,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -56260,16 +56295,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "display_name": "Life below water",
+          "score": 0.75,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -56600,16 +56635,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6100000143051147,
           "display_name": "Life below water",
+          "score": 0.6100000143051147,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -56930,16 +56965,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6100000143051147,
           "display_name": "Life in Land",
+          "score": 0.6100000143051147,
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -57367,16 +57402,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5799999833106995,
           "display_name": "Life below water",
+          "score": 0.5799999833106995,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -57801,16 +57836,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5600000023841858,
           "display_name": "Life below water",
+          "score": 0.5600000023841858,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -58258,16 +58293,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5799999833106995,
           "display_name": "Life below water",
+          "score": 0.5799999833106995,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -58776,16 +58811,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8100000023841858,
           "display_name": "Life below water",
+          "score": 0.8100000023841858,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -59261,16 +59296,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Life below water",
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -59635,16 +59670,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5299999713897705,
           "display_name": "Life below water",
+          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -60338,8 +60373,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -60619,8 +60654,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -60882,8 +60917,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -61194,16 +61229,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8100000023841858,
           "display_name": "Life below water",
+          "score": 0.8100000023841858,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -61826,16 +61861,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
           "display_name": "Life below water",
+          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -62106,8 +62141,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -62375,8 +62410,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -62640,8 +62675,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -62905,8 +62940,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -63393,16 +63428,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4000000059604645,
           "display_name": "Life below water",
+          "score": 0.4000000059604645,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2804623582.pdf",
@@ -63922,8 +63957,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -64197,8 +64232,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -64426,8 +64461,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -64689,16 +64724,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "display_name": "Life below water",
+          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65109,8 +65144,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65700,16 +65735,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7699999809265137,
           "display_name": "Peace, Justice and strong institutions",
+          "score": 0.7699999809265137,
           "id": "https://metadata.un.org/sdg/16"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -66277,8 +66312,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -66675,8 +66710,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -66962,16 +66997,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "display_name": "Life below water",
+          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -67855,8 +67890,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -68651,16 +68686,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6700000166893005,
           "display_name": "Life below water",
+          "score": 0.6700000166893005,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -69322,8 +69357,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
