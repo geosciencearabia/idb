@@ -416,6 +416,13 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "medline",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310310987",
           "host_organization_name": "Multidisciplinary Digital Publishing Institute",
           "host_organization_lineage": [
@@ -648,11 +655,11 @@
         "currency": "CHF",
         "value_usd": 2513
       },
-      "fwci": 2.1547,
+      "fwci": 2.1266,
       "has_fulltext": true,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.85683813,
+        "value": 0.85407401,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1006,6 +1013,13 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "jufo-1",
+              "medline",
+              "norway-1"
+            ],
             "host_organization": "https://openalex.org/P4310310987",
             "host_organization_name": "Multidisciplinary Digital Publishing Institute",
             "host_organization_lineage": [
@@ -1037,6 +1051,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -1066,6 +1081,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1299303238",
             "host_organization_name": "National Institutes of Health",
             "host_organization_lineage": [
@@ -1095,6 +1111,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -1125,6 +1142,13 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "medline",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310310987",
           "host_organization_name": "Multidisciplinary Digital Publishing Institute",
           "host_organization_lineage": [
@@ -3771,6 +3795,10 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310316678",
           "host_organization_name": "Society of Exploration Geophysicists",
           "host_organization_lineage": [
@@ -4031,21 +4059,21 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5715,
+      "fwci": 1.0873,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.80642618,
+        "value": 0.71580886,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 98
       },
       "biblio": {
@@ -4313,6 +4341,10 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "norway-1"
+            ],
             "host_organization": "https://openalex.org/P4310316678",
             "host_organization_name": "Society of Exploration Geophysicists",
             "host_organization_lineage": [
@@ -4335,9 +4367,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4300000071525574,
-          "display_name": "Life in Land"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -5029,7 +5061,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-05-21T06:26:12.895304",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5060,6 +5092,10 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310316678",
           "host_organization_name": "Society of Exploration Geophysicists",
           "host_organization_lineage": [
@@ -5368,16 +5404,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8148,
+      "fwci": 0.7487,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.65263973,
+        "value": 0.63474352,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 94,
+        "min": 93,
         "max": 98
       },
       "biblio": {
@@ -5630,6 +5666,10 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "norway-1"
+            ],
             "host_organization": "https://openalex.org/P4310316678",
             "host_organization_name": "Society of Exploration Geophysicists",
             "host_organization_lineage": [
@@ -5652,9 +5692,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4300000071525574,
-          "display_name": "Responsible consumption and production"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -6267,7 +6307,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-05-21T06:26:12.895304",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8428,9 +8468,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.47999998927116394,
-          "display_name": "Climate action"
+          "score": 0.47999998927116394
         }
       ],
       "awards": [],
@@ -8942,1043 +8982,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4413944571",
-      "doi": "https://doi.org/10.1190/tle44090676.1",
-      "title": "DL FWI of dual-well DAS-on-tubing VSP data",
-      "display_name": "DL FWI of dual-well DAS-on-tubing VSP data",
-      "publication_year": 2025,
-      "publication_date": "2025-09-01",
-      "ids": {
-        "openalex": "https://openalex.org/W4413944571",
-        "doi": "https://doi.org/10.1190/tle44090676.1"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1190/tle44090676.1",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1190/tle44090676.1",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210172657",
-          "display_name": "The Leading Edge",
-          "issn_l": "1070-485X",
-          "issn": [
-            "1070-485X",
-            "1938-3789"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310316678",
-          "host_organization_name": "Society of Exploration Geophysicists",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310316678"
-          ],
-          "host_organization_lineage_names": [
-            "Society of Exploration Geophysicists"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "The Leading Edge",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5006480587",
-            "display_name": "Vladimir Kazei",
-            "orcid": "https://orcid.org/0000-0003-1214-3175"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Vladimir Kazei",
-          "raw_affiliation_strings": [
-            "1Aramco Americas, Houston Research Center, Houston, Texas, USA. E-mail: vladimir.kazei@aramcoamericas.com",
-            "Aramco Americas, Houston Research Center, Houston, Texas, USA"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0003-1214-3175",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "1Aramco Americas, Houston Research Center, Houston, Texas, USA. E-mail: vladimir.kazei@aramcoamericas.com",
-              "institution_ids": [
-                "https://openalex.org/I62856769"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Aramco Americas, Houston Research Center, Houston, Texas, USA",
-              "institution_ids": [
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5017050338",
-            "display_name": "Nour Alzamil",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Nour Alzamil",
-          "raw_affiliation_strings": [
-            "2Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: nour.alzamil@aramco.com; ali.dawood.18@aramco.com; ezzedeen.alfataierge@aramco.com",
-            "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "2Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: nour.alzamil@aramco.com; ali.dawood.18@aramco.com; ezzedeen.alfataierge@aramco.com",
-              "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5102799927",
-            "display_name": "Ali Aldawood",
-            "orcid": "https://orcid.org/0000-0002-9535-0825"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ali AlDawood",
-          "raw_affiliation_strings": [
-            "2Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: nour.alzamil@aramco.com; ali.dawood.18@aramco.com; ezzedeen.alfataierge@aramco.com",
-            "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-9535-0825",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "2Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: nour.alzamil@aramco.com; ali.dawood.18@aramco.com; ezzedeen.alfataierge@aramco.com",
-              "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5052123503",
-            "display_name": "Ezzedeen Alfataierge",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ezzedeen Alfataierge",
-          "raw_affiliation_strings": [
-            "2Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: nour.alzamil@aramco.com; ali.dawood.18@aramco.com; ezzedeen.alfataierge@aramco.com",
-            "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "2Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: nour.alzamil@aramco.com; ali.dawood.18@aramco.com; ezzedeen.alfataierge@aramco.com",
-              "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5020766559",
-            "display_name": "A. Shaiban",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ali Shaiban",
-          "raw_affiliation_strings": [
-            "3Saudi Aramco, Dhahran, Saudi Arabia. E-mail: saihat1408@gmail.com",
-            "Saudi Aramco, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "3Saudi Aramco, Dhahran, Saudi Arabia. E-mail: saihat1408@gmail.com",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.8394,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.70381602,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 94,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "44",
-        "issue": "9",
-        "first_page": "676",
-        "last_page": "682"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11757",
-        "display_name": "Seismic Waves and Analysis",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11757",
-          "display_name": "Seismic Waves and Analysis",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10271",
-          "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13018",
-          "display_name": "Seismology and Earthquake Studies",
-          "score": 0.9970999956130981,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5578349232673645
-        },
-        {
-          "id": "https://openalex.org/keywords/dual",
-          "display_name": "Dual (grammatical number)",
-          "score": 0.5027163028717041
-        },
-        {
-          "id": "https://openalex.org/keywords/philosophy",
-          "display_name": "Philosophy",
-          "score": 0.09541979432106018
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5578349232673645
-        },
-        {
-          "id": "https://openalex.org/C2780980858",
-          "wikidata": "https://www.wikidata.org/wiki/Q110022",
-          "display_name": "Dual (grammatical number)",
-          "level": 2,
-          "score": 0.5027163028717041
-        },
-        {
-          "id": "https://openalex.org/C138885662",
-          "wikidata": "https://www.wikidata.org/wiki/Q5891",
-          "display_name": "Philosophy",
-          "level": 0,
-          "score": 0.09541979432106018
-        },
-        {
-          "id": "https://openalex.org/C41895202",
-          "wikidata": "https://www.wikidata.org/wiki/Q8162",
-          "display_name": "Linguistics",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1190/tle44090676.1",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1190/tle44090676.1",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210172657",
-            "display_name": "The Leading Edge",
-            "issn_l": "1070-485X",
-            "issn": [
-              "1070-485X",
-              "1938-3789"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310316678",
-            "host_organization_name": "Society of Exploration Geophysicists",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310316678"
-            ],
-            "host_organization_lineage_names": [
-              "Society of Exploration Geophysicists"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "The Leading Edge",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 29,
-      "referenced_works": [
-        "https://openalex.org/W1883731917",
-        "https://openalex.org/W2026497869",
-        "https://openalex.org/W2050589082",
-        "https://openalex.org/W2109339261",
-        "https://openalex.org/W2131232771",
-        "https://openalex.org/W2150240527",
-        "https://openalex.org/W2518275436",
-        "https://openalex.org/W2618565740",
-        "https://openalex.org/W2789376704",
-        "https://openalex.org/W2792303961",
-        "https://openalex.org/W2933456541",
-        "https://openalex.org/W2955412401",
-        "https://openalex.org/W2991811110",
-        "https://openalex.org/W3048737892",
-        "https://openalex.org/W3144035744",
-        "https://openalex.org/W3144502051",
-        "https://openalex.org/W3145046726",
-        "https://openalex.org/W3198425062",
-        "https://openalex.org/W4307812167",
-        "https://openalex.org/W4322737878",
-        "https://openalex.org/W4385628870",
-        "https://openalex.org/W4386927881",
-        "https://openalex.org/W4387268437",
-        "https://openalex.org/W4387843703",
-        "https://openalex.org/W4391612973",
-        "https://openalex.org/W4399160069",
-        "https://openalex.org/W4400810209",
-        "https://openalex.org/W4403981092",
-        "https://openalex.org/W4405648747"
-      ],
-      "related_works": [
-        "https://openalex.org/W2324615561",
-        "https://openalex.org/W2086120259",
-        "https://openalex.org/W2245170124",
-        "https://openalex.org/W2076393078",
-        "https://openalex.org/W3186982001",
-        "https://openalex.org/W1984402782",
-        "https://openalex.org/W2137941439",
-        "https://openalex.org/W2004200960",
-        "https://openalex.org/W1999891779",
-        "https://openalex.org/W2029513011"
-      ],
-      "abstract_inverted_index": {
-        "4": [
-          60
-        ],
-        "Abstract": [
-          0
-        ],
-        "Distributed": [
-          1
-        ],
-        "acoustic": [
-          2,
-          147
-        ],
-        "sensing": [
-          3
-        ],
-        "(DAS)": [
-          4
-        ],
-        "is": [
-          5,
-          116
-        ],
-        "increasingly": [
-          6
-        ],
-        "used": [
-          7
-        ],
-        "for": [
-          8,
-          41,
-          119,
-          181
-        ],
-        "vertical": [
-          9
-        ],
-        "seismic": [
-          10
-        ],
-        "profiling": [
-          11
-        ],
-        "(VSP)": [
-          12
-        ],
-        "due": [
-          13
-        ],
-        "to": [
-          14,
-          24,
-          127,
-          138,
-          141,
-          154
-        ],
-        "its": [
-          15
-        ],
-        "high": [
-          16,
-          91
-        ],
-        "spatial": [
-          17
-        ],
-        "sampling": [
-          18
-        ],
-        "density": [
-          19
-        ],
-        "and": [
-          20,
-          37,
-          44,
-          63,
-          90,
-          123,
-          149,
-          177
-        ],
-        "reduced": [
-          21
-        ],
-        "costs": [
-          22
-        ],
-        "relative": [
-          23
-        ],
-        "conventional": [
-          25
-        ],
-        "geophone-based": [
-          26
-        ],
-        "methods.": [
-          27
-        ],
-        "This": [
-          28
-        ],
-        "paper": [
-          29
-        ],
-        "presents": [
-          30
-        ],
-        "a": [
-          31,
-          38,
-          86,
-          102,
-          178,
-          186
-        ],
-        "large-scale": [
-          32
-        ],
-        "dual-well": [
-          33
-        ],
-        "DAS": [
-          34,
-          143,
-          175
-        ],
-        "VSP": [
-          35
-        ],
-        "survey": [
-          36
-        ],
-        "comprehensive": [
-          39
-        ],
-        "workflow": [
-          40,
-          105
-        ],
-        "data": [
-          42,
-          111,
-          176
-        ],
-        "conditioning": [
-          43
-        ],
-        "early-arrival": [
-          45
-        ],
-        "full-waveform": [
-          46
-        ],
-        "inversion": [
-          47,
-          184
-        ],
-        "(FWI)": [
-          48
-        ],
-        "implemented": [
-          49
-        ],
-        "using": [
-          50,
-          145
-        ],
-        "the": [
-          51,
-          80,
-          83,
-          97,
-          129,
-          132,
-          157,
-          161,
-          165,
-          171
-        ],
-        "deep": [
-          52,
-          62
-        ],
-        "learning": [
-          53
-        ],
-        "(DL)": [
-          54
-        ],
-        "framework": [
-          55,
-          180
-        ],
-        "PyTorch.": [
-          56
-        ],
-        "Two": [
-          57
-        ],
-        "adjacent": [
-          58
-        ],
-        "wells,": [
-          59
-        ],
-        "km": [
-          61,
-          65,
-          78
-        ],
-        "1.5": [
-          64
-        ],
-        "apart,": [
-          66
-        ],
-        "were": [
-          67
-        ],
-        "instrumented": [
-          68
-        ],
-        "with": [
-          69,
-          189
-        ],
-        "fiber": [
-          70,
-          190
-        ],
-        "on": [
-          71,
-          192
-        ],
-        "tubing.": [
-          72,
-          193
-        ],
-        "Dense": [
-          73
-        ],
-        "land": [
-          74
-        ],
-        "acquisition": [
-          75
-        ],
-        "spanning": [
-          76
-        ],
-        "4.5": [
-          77
-        ],
-        "along": [
-          79
-        ],
-        "line": [
-          81
-        ],
-        "connecting": [
-          82
-        ],
-        "wells": [
-          84
-        ],
-        "features": [
-          85
-        ],
-        "single": [
-          87
-        ],
-        "dual-fiber": [
-          88
-        ],
-        "interrogator": [
-          89
-        ],
-        "levels": [
-          92
-        ],
-        "of": [
-          93,
-          109,
-          131,
-          173
-        ],
-        "noise": [
-          94
-        ],
-        "driven": [
-          95
-        ],
-        "by": [
-          96
-        ],
-        "arid": [
-          98
-        ],
-        "environment.": [
-          99
-        ],
-        "We": [
-          100,
-          134
-        ],
-        "present": [
-          101
-        ],
-        "fully": [
-          103
-        ],
-        "automated": [
-          104
-        ],
-        "that": [
-          106,
-          115
-        ],
-        "allows": [
-          107
-        ],
-        "processing": [
-          108
-        ],
-        "such": [
-          110
-        ],
-        "introducing": [
-          112
-        ],
-        "zero-offset": [
-          113
-        ],
-        "supergather": [
-          114
-        ],
-        "kinematically": [
-          117
-        ],
-        "inverted": [
-          118
-        ],
-        "initial": [
-          120
-        ],
-        "model": [
-          121
-        ],
-        "building": [
-          122
-        ],
-        "synthetic-driven": [
-          124
-        ],
-        "muting": [
-          125
-        ],
-        "strategy": [
-          126
-        ],
-        "mitigate": [
-          128
-        ],
-        "effect": [
-          130
-        ],
-        "noise.": [
-          133
-        ],
-        "also": [
-          135
-        ],
-        "introduce": [
-          136
-        ],
-        "pressure": [
-          137
-        ],
-        "strain-acceleration": [
-          139
-        ],
-        "transform": [
-          140
-        ],
-        "accommodate": [
-          142
-        ],
-        "simulations": [
-          144
-        ],
-        "an": [
-          146
-        ],
-        "solver": [
-          148
-        ],
-        "source": [
-          150,
-          158,
-          166
-        ],
-        "function": [
-          151,
-          159
-        ],
-        "centroid": [
-          152
-        ],
-        "constraints": [
-          153
-        ],
-        "adaptively": [
-          155
-        ],
-        "update": [
-          156
-        ],
-        "throughout": [
-          160
-        ],
-        "iterations": [
-          162
-        ],
-        "while": [
-          163
-        ],
-        "preserving": [
-          164
-        ],
-        "timing.": [
-          167
-        ],
-        "Our": [
-          168
-        ],
-        "results": [
-          169
-        ],
-        "confirm": [
-          170
-        ],
-        "feasibility": [
-          172
-        ],
-        "combining": [
-          174
-        ],
-        "DL": [
-          179
-        ],
-        "high-resolution": [
-          182
-        ],
-        "velocity": [
-          183
-        ],
-        "in": [
-          185
-        ],
-        "desert": [
-          187
-        ],
-        "environment": [
-          188
-        ],
-        "deployed": [
-          191
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-08-08T07:41:36.138363",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2942329208",
       "doi": "https://doi.org/10.4043/29433-ms",
       "title": "Measuring Flow in Pipelines via FBG and DAS Fiber Optic Sensors",
@@ -10445,9 +9448,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6899999976158142,
-          "display_name": "Life below water"
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
@@ -12835,6 +11838,1051 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4413944571",
+      "doi": "https://doi.org/10.1190/tle44090676.1",
+      "title": "DL FWI of dual-well DAS-on-tubing VSP data",
+      "display_name": "DL FWI of dual-well DAS-on-tubing VSP data",
+      "publication_year": 2025,
+      "publication_date": "2025-09-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4413944571",
+        "doi": "https://doi.org/10.1190/tle44090676.1"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1190/tle44090676.1",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1190/tle44090676.1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210172657",
+          "display_name": "The Leading Edge",
+          "issn_l": "1070-485X",
+          "issn": [
+            "1070-485X",
+            "1938-3789"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310316678",
+          "host_organization_name": "Society of Exploration Geophysicists",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316678"
+          ],
+          "host_organization_lineage_names": [
+            "Society of Exploration Geophysicists"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Leading Edge",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5006480587",
+            "display_name": "Vladimir Kazei",
+            "orcid": "https://orcid.org/0000-0003-1214-3175"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Vladimir Kazei",
+          "raw_affiliation_strings": [
+            "1Aramco Americas, Houston Research Center, Houston, Texas, USA. E-mail: vladimir.kazei@aramcoamericas.com",
+            "Aramco Americas, Houston Research Center, Houston, Texas, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-1214-3175",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1Aramco Americas, Houston Research Center, Houston, Texas, USA. E-mail: vladimir.kazei@aramcoamericas.com",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Aramco Americas, Houston Research Center, Houston, Texas, USA",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5017050338",
+            "display_name": "Nour Alzamil",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "SA",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Nour Alzamil",
+          "raw_affiliation_strings": [
+            "2Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: nour.alzamil@aramco.com; ali.dawood.18@aramco.com; ezzedeen.alfataierge@aramco.com",
+            "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "2Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: nour.alzamil@aramco.com; ali.dawood.18@aramco.com; ezzedeen.alfataierge@aramco.com",
+              "institution_ids": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5102799927",
+            "display_name": "Ali Aldawood",
+            "orcid": "https://orcid.org/0000-0002-9535-0825"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "SA",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ali AlDawood",
+          "raw_affiliation_strings": [
+            "2Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: nour.alzamil@aramco.com; ali.dawood.18@aramco.com; ezzedeen.alfataierge@aramco.com",
+            "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-9535-0825",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "2Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: nour.alzamil@aramco.com; ali.dawood.18@aramco.com; ezzedeen.alfataierge@aramco.com",
+              "institution_ids": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052123503",
+            "display_name": "Ezzedeen Alfataierge",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "SA",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ezzedeen Alfataierge",
+          "raw_affiliation_strings": [
+            "2Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: nour.alzamil@aramco.com; ali.dawood.18@aramco.com; ezzedeen.alfataierge@aramco.com",
+            "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "2Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: nour.alzamil@aramco.com; ali.dawood.18@aramco.com; ezzedeen.alfataierge@aramco.com",
+              "institution_ids": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5020766559",
+            "display_name": "A. Shaiban",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ali Shaiban",
+          "raw_affiliation_strings": [
+            "3Saudi Aramco, Dhahran, Saudi Arabia. E-mail: saihat1408@gmail.com",
+            "Saudi Aramco, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "3Saudi Aramco, Dhahran, Saudi Arabia. E-mail: saihat1408@gmail.com",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.7256,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.67157089,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 93,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "44",
+        "issue": "9",
+        "first_page": "676",
+        "last_page": "682"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11757",
+        "display_name": "Seismic Waves and Analysis",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11757",
+          "display_name": "Seismic Waves and Analysis",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13018",
+          "display_name": "Seismology and Earthquake Studies",
+          "score": 0.9970999956130981,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.5578349232673645
+        },
+        {
+          "id": "https://openalex.org/keywords/dual",
+          "display_name": "Dual (grammatical number)",
+          "score": 0.5027163028717041
+        },
+        {
+          "id": "https://openalex.org/keywords/philosophy",
+          "display_name": "Philosophy",
+          "score": 0.09541979432106018
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5578349232673645
+        },
+        {
+          "id": "https://openalex.org/C2780980858",
+          "wikidata": "https://www.wikidata.org/wiki/Q110022",
+          "display_name": "Dual (grammatical number)",
+          "level": 2,
+          "score": 0.5027163028717041
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0.09541979432106018
+        },
+        {
+          "id": "https://openalex.org/C41895202",
+          "wikidata": "https://www.wikidata.org/wiki/Q8162",
+          "display_name": "Linguistics",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1190/tle44090676.1",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1190/tle44090676.1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210172657",
+            "display_name": "The Leading Edge",
+            "issn_l": "1070-485X",
+            "issn": [
+              "1070-485X",
+              "1938-3789"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310316678",
+            "host_organization_name": "Society of Exploration Geophysicists",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316678"
+            ],
+            "host_organization_lineage_names": [
+              "Society of Exploration Geophysicists"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "The Leading Edge",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 29,
+      "referenced_works": [
+        "https://openalex.org/W1883731917",
+        "https://openalex.org/W2026497869",
+        "https://openalex.org/W2050589082",
+        "https://openalex.org/W2109339261",
+        "https://openalex.org/W2131232771",
+        "https://openalex.org/W2150240527",
+        "https://openalex.org/W2518275436",
+        "https://openalex.org/W2618565740",
+        "https://openalex.org/W2789376704",
+        "https://openalex.org/W2792303961",
+        "https://openalex.org/W2933456541",
+        "https://openalex.org/W2955412401",
+        "https://openalex.org/W2991811110",
+        "https://openalex.org/W3048737892",
+        "https://openalex.org/W3144035744",
+        "https://openalex.org/W3144502051",
+        "https://openalex.org/W3145046726",
+        "https://openalex.org/W3198425062",
+        "https://openalex.org/W4307812167",
+        "https://openalex.org/W4322737878",
+        "https://openalex.org/W4385628870",
+        "https://openalex.org/W4386927881",
+        "https://openalex.org/W4387268437",
+        "https://openalex.org/W4387843703",
+        "https://openalex.org/W4391612973",
+        "https://openalex.org/W4399160069",
+        "https://openalex.org/W4400810209",
+        "https://openalex.org/W4403981092",
+        "https://openalex.org/W4405648747"
+      ],
+      "related_works": [
+        "https://openalex.org/W2324615561",
+        "https://openalex.org/W2086120259",
+        "https://openalex.org/W2245170124",
+        "https://openalex.org/W2076393078",
+        "https://openalex.org/W3186982001",
+        "https://openalex.org/W1984402782",
+        "https://openalex.org/W2137941439",
+        "https://openalex.org/W2004200960",
+        "https://openalex.org/W1999891779",
+        "https://openalex.org/W2029513011"
+      ],
+      "abstract_inverted_index": {
+        "4": [
+          60
+        ],
+        "Abstract": [
+          0
+        ],
+        "Distributed": [
+          1
+        ],
+        "acoustic": [
+          2,
+          147
+        ],
+        "sensing": [
+          3
+        ],
+        "(DAS)": [
+          4
+        ],
+        "is": [
+          5,
+          116
+        ],
+        "increasingly": [
+          6
+        ],
+        "used": [
+          7
+        ],
+        "for": [
+          8,
+          41,
+          119,
+          181
+        ],
+        "vertical": [
+          9
+        ],
+        "seismic": [
+          10
+        ],
+        "profiling": [
+          11
+        ],
+        "(VSP)": [
+          12
+        ],
+        "due": [
+          13
+        ],
+        "to": [
+          14,
+          24,
+          127,
+          138,
+          141,
+          154
+        ],
+        "its": [
+          15
+        ],
+        "high": [
+          16,
+          91
+        ],
+        "spatial": [
+          17
+        ],
+        "sampling": [
+          18
+        ],
+        "density": [
+          19
+        ],
+        "and": [
+          20,
+          37,
+          44,
+          63,
+          90,
+          123,
+          149,
+          177
+        ],
+        "reduced": [
+          21
+        ],
+        "costs": [
+          22
+        ],
+        "relative": [
+          23
+        ],
+        "conventional": [
+          25
+        ],
+        "geophone-based": [
+          26
+        ],
+        "methods.": [
+          27
+        ],
+        "This": [
+          28
+        ],
+        "paper": [
+          29
+        ],
+        "presents": [
+          30
+        ],
+        "a": [
+          31,
+          38,
+          86,
+          102,
+          178,
+          186
+        ],
+        "large-scale": [
+          32
+        ],
+        "dual-well": [
+          33
+        ],
+        "DAS": [
+          34,
+          143,
+          175
+        ],
+        "VSP": [
+          35
+        ],
+        "survey": [
+          36
+        ],
+        "comprehensive": [
+          39
+        ],
+        "workflow": [
+          40,
+          105
+        ],
+        "data": [
+          42,
+          111,
+          176
+        ],
+        "conditioning": [
+          43
+        ],
+        "early-arrival": [
+          45
+        ],
+        "full-waveform": [
+          46
+        ],
+        "inversion": [
+          47,
+          184
+        ],
+        "(FWI)": [
+          48
+        ],
+        "implemented": [
+          49
+        ],
+        "using": [
+          50,
+          145
+        ],
+        "the": [
+          51,
+          80,
+          83,
+          97,
+          129,
+          132,
+          157,
+          161,
+          165,
+          171
+        ],
+        "deep": [
+          52,
+          62
+        ],
+        "learning": [
+          53
+        ],
+        "(DL)": [
+          54
+        ],
+        "framework": [
+          55,
+          180
+        ],
+        "PyTorch.": [
+          56
+        ],
+        "Two": [
+          57
+        ],
+        "adjacent": [
+          58
+        ],
+        "wells,": [
+          59
+        ],
+        "km": [
+          61,
+          65,
+          78
+        ],
+        "1.5": [
+          64
+        ],
+        "apart,": [
+          66
+        ],
+        "were": [
+          67
+        ],
+        "instrumented": [
+          68
+        ],
+        "with": [
+          69,
+          189
+        ],
+        "fiber": [
+          70,
+          190
+        ],
+        "on": [
+          71,
+          192
+        ],
+        "tubing.": [
+          72,
+          193
+        ],
+        "Dense": [
+          73
+        ],
+        "land": [
+          74
+        ],
+        "acquisition": [
+          75
+        ],
+        "spanning": [
+          76
+        ],
+        "4.5": [
+          77
+        ],
+        "along": [
+          79
+        ],
+        "line": [
+          81
+        ],
+        "connecting": [
+          82
+        ],
+        "wells": [
+          84
+        ],
+        "features": [
+          85
+        ],
+        "single": [
+          87
+        ],
+        "dual-fiber": [
+          88
+        ],
+        "interrogator": [
+          89
+        ],
+        "levels": [
+          92
+        ],
+        "of": [
+          93,
+          109,
+          131,
+          173
+        ],
+        "noise": [
+          94
+        ],
+        "driven": [
+          95
+        ],
+        "by": [
+          96
+        ],
+        "arid": [
+          98
+        ],
+        "environment.": [
+          99
+        ],
+        "We": [
+          100,
+          134
+        ],
+        "present": [
+          101
+        ],
+        "fully": [
+          103
+        ],
+        "automated": [
+          104
+        ],
+        "that": [
+          106,
+          115
+        ],
+        "allows": [
+          107
+        ],
+        "processing": [
+          108
+        ],
+        "such": [
+          110
+        ],
+        "introducing": [
+          112
+        ],
+        "zero-offset": [
+          113
+        ],
+        "supergather": [
+          114
+        ],
+        "kinematically": [
+          117
+        ],
+        "inverted": [
+          118
+        ],
+        "initial": [
+          120
+        ],
+        "model": [
+          121
+        ],
+        "building": [
+          122
+        ],
+        "synthetic-driven": [
+          124
+        ],
+        "muting": [
+          125
+        ],
+        "strategy": [
+          126
+        ],
+        "mitigate": [
+          128
+        ],
+        "effect": [
+          130
+        ],
+        "noise.": [
+          133
+        ],
+        "also": [
+          135
+        ],
+        "introduce": [
+          136
+        ],
+        "pressure": [
+          137
+        ],
+        "strain-acceleration": [
+          139
+        ],
+        "transform": [
+          140
+        ],
+        "accommodate": [
+          142
+        ],
+        "simulations": [
+          144
+        ],
+        "an": [
+          146
+        ],
+        "solver": [
+          148
+        ],
+        "source": [
+          150,
+          158,
+          166
+        ],
+        "function": [
+          151,
+          159
+        ],
+        "centroid": [
+          152
+        ],
+        "constraints": [
+          153
+        ],
+        "adaptively": [
+          155
+        ],
+        "update": [
+          156
+        ],
+        "throughout": [
+          160
+        ],
+        "iterations": [
+          162
+        ],
+        "while": [
+          163
+        ],
+        "preserving": [
+          164
+        ],
+        "timing.": [
+          167
+        ],
+        "Our": [
+          168
+        ],
+        "results": [
+          169
+        ],
+        "confirm": [
+          170
+        ],
+        "feasibility": [
+          172
+        ],
+        "combining": [
+          174
+        ],
+        "DL": [
+          179
+        ],
+        "high-resolution": [
+          182
+        ],
+        "velocity": [
+          183
+        ],
+        "in": [
+          185
+        ],
+        "desert": [
+          187
+        ],
+        "environment": [
+          188
+        ],
+        "deployed": [
+          191
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-08-08T07:41:36.138363",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4378176523",
       "doi": "https://doi.org/10.3997/2214-4609.202310164",
       "title": "Machine-Learning Based Land-Cover Classification Using UAV Imageries Intended for Seismic Survey Scouting in Arid Area",
@@ -13373,9 +13421,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4300000071525574,
-          "display_name": "Responsible consumption and production"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -14297,9 +14345,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6600000262260437,
-          "display_name": "Climate action"
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
@@ -16849,9 +16897,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.7200000286102295,
-          "display_name": "Sustainable cities and communities"
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
@@ -18540,9 +18588,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426,
-          "display_name": "Life below water"
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
@@ -19442,6 +19490,9 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -19528,7 +19579,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -19537,7 +19588,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.24812379,
+        "value": 0.22697936,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19689,6 +19740,9 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -19739,7 +19793,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2025-10-10T17:16:08.811792",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20090,9 +20144,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8100000023841858,
-          "display_name": "Life below water"
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -21493,6 +21547,10 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310316678",
           "host_organization_name": "Society of Exploration Geophysicists",
           "host_organization_lineage": [
@@ -21819,7 +21877,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.04069447,
+        "value": 0.03531044,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22108,6 +22166,10 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "norway-1"
+            ],
             "host_organization": "https://openalex.org/P4310316678",
             "host_organization_name": "Society of Exploration Geophysicists",
             "host_organization_lineage": [
@@ -22528,7 +22590,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-05-21T06:26:12.895304",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22888,9 +22950,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6399999856948853,
-          "display_name": "Climate action"
+          "score": 0.6399999856948853
         }
       ],
       "awards": [],
@@ -23642,9 +23704,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.6299999952316284,
-          "display_name": "Sustainable cities and communities"
+          "score": 0.6299999952316284
         }
       ],
       "awards": [],
@@ -27164,9 +27226,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4758980870246887,
-          "display_name": "Clean water and sanitation"
+          "score": 0.4758980870246887
         }
       ],
       "awards": [],
@@ -27623,6 +27685,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310310987",
           "host_organization_name": "Multidisciplinary Digital Publishing Institute",
           "host_organization_lineage": [
@@ -27976,7 +28043,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.32529955,
+        "value": 0.27749423,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28290,6 +28357,11 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "norway-1"
+            ],
             "host_organization": "https://openalex.org/P4310310987",
             "host_organization_name": "Multidisciplinary Digital Publishing Institute",
             "host_organization_lineage": [
@@ -28321,6 +28393,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -28351,6 +28424,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310310987",
           "host_organization_name": "Multidisciplinary Digital Publishing Institute",
           "host_organization_lineage": [

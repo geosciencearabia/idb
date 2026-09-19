@@ -13,7 +13,7 @@
     ],
     "full_name": "LE NINDRE, YVES-MICHEL, and JACQUES",
     "works_count": 41,
-    "cited_by_count": 1014,
+    "cited_by_count": 1016,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 16,
@@ -319,7 +319,7 @@
         "year": 2003,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 69
+        "cited_by_count": 70
       },
       {
         "year": 2005,
@@ -391,7 +391,7 @@
         "year": 2018,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 54
+        "cited_by_count": 55
       },
       {
         "year": 2019,
@@ -422,7 +422,7 @@
     ],
     "block_key": "y le nindre",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054427253",
-    "updated_date": "2026-09-17T12:20:00",
+    "updated_date": "2026-09-18T12:19:03",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -454,6 +454,10 @@
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1"
+          ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
@@ -998,11 +1002,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 22.4767,
+      "fwci": 22.5014,
       "has_fulltext": false,
       "cited_by_count": 170,
       "citation_normalized_percentile": {
-        "value": 0.99862873,
+        "value": 0.99862212,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1336,6 +1340,10 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1"
+            ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
             "host_organization_lineage": [
@@ -1367,6 +1375,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -1394,6 +1403,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I98358874",
             "host_organization_name": "Delft University of Technology",
             "host_organization_lineage": [
@@ -1423,6 +1433,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1322597698",
             "host_organization_name": "Royal Netherlands Academy of Arts and Sciences",
             "host_organization_lineage": [
@@ -1455,6 +1466,10 @@
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1"
+          ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
@@ -1483,8 +1498,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -1807,6 +1822,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -2123,11 +2143,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 14.5003,
+      "fwci": 14.293,
       "has_fulltext": false,
       "cited_by_count": 93,
       "citation_normalized_percentile": {
-        "value": 0.98802694,
+        "value": 0.98769546,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2332,6 +2352,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -2359,6 +2384,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -2391,6 +2417,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -2415,8 +2446,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -3674,6 +3705,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-2",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310320595",
           "host_organization_name": "Wiley",
           "host_organization_lineage": [
@@ -3867,11 +3903,11 @@
         "value_usd": 5000
       },
       "apc_paid": null,
-      "fwci": 3.0311,
+      "fwci": 2.9789,
       "has_fulltext": false,
       "cited_by_count": 78,
       "citation_normalized_percentile": {
-        "value": 0.90287806,
+        "value": 0.90108484,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4125,6 +4161,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-2",
+              "norway-1"
+            ],
             "host_organization": "https://openalex.org/P4310320595",
             "host_organization_name": "Wiley",
             "host_organization_lineage": [
@@ -4156,6 +4197,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -4184,8 +4226,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -4633,6 +4675,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -4814,11 +4861,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.961,
+      "fwci": 0.9652,
       "has_fulltext": false,
       "cited_by_count": 73,
       "citation_normalized_percentile": {
-        "value": 0.81585642,
+        "value": 0.81239994,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5085,6 +5132,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -5115,6 +5167,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -5139,8 +5196,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -6358,8 +6415,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -6499,6 +6556,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -6643,11 +6705,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.8761,
+      "fwci": 3.9479,
       "has_fulltext": true,
       "cited_by_count": 61,
       "citation_normalized_percentile": {
-        "value": 0.91417955,
+        "value": 0.91560734,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6943,6 +7005,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -6970,6 +7037,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I141816643",
             "host_organization_name": "Natural Environment Research Council",
             "host_organization_lineage": [
@@ -6999,6 +7067,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -7031,6 +7100,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -7055,8 +7129,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1542845244.pdf"
@@ -8838,7 +8912,9 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
-            "cwts-core"
+            "cwts-core",
+            "jufo-2",
+            "norway-2"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -9088,11 +9164,11 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 6.8583,
+      "fwci": 6.8587,
       "has_fulltext": false,
       "cited_by_count": 55,
       "citation_normalized_percentile": {
-        "value": 0.96476842,
+        "value": 0.96476643,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9373,7 +9449,9 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
-              "cwts-core"
+              "cwts-core",
+              "jufo-2",
+              "norway-2"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -9411,8 +9489,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 115,
@@ -10210,8 +10288,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -10387,6 +10465,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -10570,11 +10653,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.486,
+      "fwci": 2.6046,
       "has_fulltext": false,
       "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.87371953,
+        "value": 0.87938074,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10884,6 +10967,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -10911,6 +10999,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -10943,6 +11032,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -10967,8 +11061,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -12664,8 +12758,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -13613,6 +13707,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -13801,11 +13900,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.9782,
+      "fwci": 3.0593,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.88048589,
+        "value": 0.88338454,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14113,6 +14212,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -14143,6 +14247,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -14167,8 +14276,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -14873,1601 +14982,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2006757505",
-      "doi": "https://doi.org/10.1016/j.egypro.2011.02.526",
-      "title": "Storing CO2 underneath the Siberian Permafrost: A win-win solution for long-term trapping of CO2 and heavy oil upgrading",
-      "display_name": "Storing CO2 underneath the Siberian Permafrost: A win-win solution for long-term trapping of CO2 and heavy oil upgrading",
-      "publication_year": 2011,
-      "publication_date": "2011-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2006757505",
-        "doi": "https://doi.org/10.1016/j.egypro.2011.02.526",
-        "mag": "2006757505"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.egypro.2011.02.526",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.egypro.2011.02.526",
-        "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1876610211008058/pdf",
-        "source": {
-          "id": "https://openalex.org/S75069817",
-          "display_name": "Energy Procedia",
-          "issn_l": "1876-6102",
-          "issn": [
-            "1876-6102"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Energy Procedia",
-        "raw_type": "journal-article"
-      },
-      "type": "conference-paper",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "diamond",
-        "oa_url": "https://www.sciencedirect.com/science/article/pii/S1876610211008058/pdf",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5054427253",
-            "display_name": "Yves-Michel Le Nindre",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Yves-Michel Le Nindre",
-          "raw_affiliation_strings": [
-            "BRGM, Orléans, France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "BRGM, Orléans, France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5047435631",
-            "display_name": "Delphine Allier",
-            "orcid": "https://orcid.org/0000-0002-6869-3451"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Delphine Allier",
-          "raw_affiliation_strings": [
-            "BRGM, Orléans, France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "BRGM, Orléans, France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5110006235",
-            "display_name": "Albert Duchkov",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210106118",
-              "display_name": "Institute of Petroleum Geology and Geophysics",
-              "ror": "https://ror.org/00y1dzm96",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I4210106118",
-                "https://openalex.org/I4210163714"
-              ]
-            }
-          ],
-          "countries": [
-            "RU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Albert Duchkov",
-          "raw_affiliation_strings": [
-            "IPGG, Trofimuk Institute of Petroleum Geology and Geophysics, Tomsk and Novosibirsk branches, Russia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "IPGG, Trofimuk Institute of Petroleum Geology and Geophysics, Tomsk and Novosibirsk branches, Russia",
-              "institution_ids": [
-                "https://openalex.org/I4210106118"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5013239518",
-            "display_name": "Л. К. Алтунина",
-            "orcid": "https://orcid.org/0000-0001-9502-1864"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210112221",
-              "display_name": "Institute of Petroleum Chemistry",
-              "ror": "https://ror.org/01zavqc64",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I4210112221",
-                "https://openalex.org/I4210145551"
-              ]
-            }
-          ],
-          "countries": [
-            "RU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Liubov K. Altunina",
-          "raw_affiliation_strings": [
-            "IPC, Institute of Pertoleum Chemistry, Tomsk, Russia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "IPC, Institute of Pertoleum Chemistry, Tomsk, Russia",
-              "institution_ids": [
-                "https://openalex.org/I4210112221"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5003556624",
-            "display_name": "С. Л. Шварцев",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210106118",
-              "display_name": "Institute of Petroleum Geology and Geophysics",
-              "ror": "https://ror.org/00y1dzm96",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I4210106118",
-                "https://openalex.org/I4210163714"
-              ]
-            }
-          ],
-          "countries": [
-            "RU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Stepan Shvartsev",
-          "raw_affiliation_strings": [
-            "IPGG, Trofimuk Institute of Petroleum Geology and Geophysics, Tomsk and Novosibirsk branches, Russia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "IPGG, Trofimuk Institute of Petroleum Geology and Geophysics, Tomsk and Novosibirsk branches, Russia",
-              "institution_ids": [
-                "https://openalex.org/I4210106118"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5112404860",
-            "display_name": "Mikhail Zhelezniak",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210111564",
-              "display_name": "Melnikov Permafrost Institute of the Siberian Branch of the Russian Academy of Science",
-              "ror": "https://ror.org/01rwqqv19",
-              "country_code": "RU",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I4210111564",
-                "https://openalex.org/I4210127387"
-              ]
-            }
-          ],
-          "countries": [
-            "RU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mikhail Zhelezniak",
-          "raw_affiliation_strings": [
-            "Melkinov Permafrost Institute, Yakutsk, Russia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Melkinov Permafrost Institute, Yakutsk, Russia",
-              "institution_ids": [
-                "https://openalex.org/I4210111564"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5110101345",
-            "display_name": "J. Klerkx",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210157936",
-              "display_name": "International Bureau for Environmental Studies",
-              "ror": "https://ror.org/047k18g44",
-              "country_code": "BE",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210157936"
-              ]
-            }
-          ],
-          "countries": [
-            "BE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jean Klerkx",
-          "raw_affiliation_strings": [
-            "IBES, International Bureau for Environmental Studies, Brussels, Belgium"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "IBES, International Bureau for Environmental Studies, Brussels, Belgium",
-              "institution_ids": [
-                "https://openalex.org/I4210157936"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5054427253"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210158893"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 2.5632,
-      "has_fulltext": true,
-      "cited_by_count": 8,
-      "citation_normalized_percentile": {
-        "value": 0.84069264,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "4",
-        "issue": null,
-        "first_page": "5414",
-        "last_page": "5421"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10995",
-        "display_name": "Methane Hydrates and Related Phenomena",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2304",
-          "display_name": "Environmental Chemistry"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10995",
-          "display_name": "Methane Hydrates and Related Phenomena",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2304",
-            "display_name": "Environmental Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9998000264167786,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11302",
-          "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 0.9995999932289124,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/permafrost",
-          "display_name": "Permafrost",
-          "score": 0.8375130891799927
-        },
-        {
-          "id": "https://openalex.org/keywords/aquifer",
-          "display_name": "Aquifer",
-          "score": 0.6148073673248291
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.5885931253433228
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-engineering",
-          "display_name": "Petroleum engineering",
-          "score": 0.538318932056427
-        },
-        {
-          "id": "https://openalex.org/keywords/enhanced-oil-recovery",
-          "display_name": "Enhanced oil recovery",
-          "score": 0.5304276943206787
-        },
-        {
-          "id": "https://openalex.org/keywords/geothermal-gradient",
-          "display_name": "Geothermal gradient",
-          "score": 0.5103752017021179
-        },
-        {
-          "id": "https://openalex.org/keywords/fossil-fuel",
-          "display_name": "Fossil fuel",
-          "score": 0.4863489270210266
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-capture-and-storage",
-          "display_name": "Carbon capture and storage (timeline)",
-          "score": 0.462999165058136
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.45959386229515076
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrology",
-          "display_name": "Hydrology (agriculture)",
-          "score": 0.37024208903312683
-        },
-        {
-          "id": "https://openalex.org/keywords/earth-science",
-          "display_name": "Earth science",
-          "score": 0.34769588708877563
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.3449563682079315
-        },
-        {
-          "id": "https://openalex.org/keywords/climate-change",
-          "display_name": "Climate change",
-          "score": 0.33323532342910767
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.31905654072761536
-        },
-        {
-          "id": "https://openalex.org/keywords/groundwater",
-          "display_name": "Groundwater",
-          "score": 0.30027568340301514
-        },
-        {
-          "id": "https://openalex.org/keywords/waste-management",
-          "display_name": "Waste management",
-          "score": 0.26722943782806396
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.1796104907989502
-        },
-        {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.16194093227386475
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.16131442785263062
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.1466372311115265
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.10944098234176636
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C15098985",
-          "wikidata": "https://www.wikidata.org/wiki/Q179918",
-          "display_name": "Permafrost",
-          "level": 2,
-          "score": 0.8375130891799927
-        },
-        {
-          "id": "https://openalex.org/C75622301",
-          "wikidata": "https://www.wikidata.org/wiki/Q208791",
-          "display_name": "Aquifer",
-          "level": 3,
-          "score": 0.6148073673248291
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.5885931253433228
-        },
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.538318932056427
-        },
-        {
-          "id": "https://openalex.org/C2779681308",
-          "wikidata": "https://www.wikidata.org/wiki/Q1049254",
-          "display_name": "Enhanced oil recovery",
-          "level": 2,
-          "score": 0.5304276943206787
-        },
-        {
-          "id": "https://openalex.org/C111766609",
-          "wikidata": "https://www.wikidata.org/wiki/Q636340",
-          "display_name": "Geothermal gradient",
-          "level": 2,
-          "score": 0.5103752017021179
-        },
-        {
-          "id": "https://openalex.org/C68189081",
-          "wikidata": "https://www.wikidata.org/wiki/Q12748",
-          "display_name": "Fossil fuel",
-          "level": 2,
-          "score": 0.4863489270210266
-        },
-        {
-          "id": "https://openalex.org/C2778379663",
-          "wikidata": "https://www.wikidata.org/wiki/Q5037942",
-          "display_name": "Carbon capture and storage (timeline)",
-          "level": 3,
-          "score": 0.462999165058136
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.45959386229515076
-        },
-        {
-          "id": "https://openalex.org/C76886044",
-          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
-          "display_name": "Hydrology (agriculture)",
-          "level": 2,
-          "score": 0.37024208903312683
-        },
-        {
-          "id": "https://openalex.org/C1965285",
-          "wikidata": "https://www.wikidata.org/wiki/Q8008",
-          "display_name": "Earth science",
-          "level": 1,
-          "score": 0.34769588708877563
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.3449563682079315
-        },
-        {
-          "id": "https://openalex.org/C132651083",
-          "wikidata": "https://www.wikidata.org/wiki/Q7942",
-          "display_name": "Climate change",
-          "level": 2,
-          "score": 0.33323532342910767
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.31905654072761536
-        },
-        {
-          "id": "https://openalex.org/C76177295",
-          "wikidata": "https://www.wikidata.org/wiki/Q161598",
-          "display_name": "Groundwater",
-          "level": 2,
-          "score": 0.30027568340301514
-        },
-        {
-          "id": "https://openalex.org/C548081761",
-          "wikidata": "https://www.wikidata.org/wiki/Q180388",
-          "display_name": "Waste management",
-          "level": 1,
-          "score": 0.26722943782806396
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.1796104907989502
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.16194093227386475
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.16131442785263062
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.1466372311115265
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.10944098234176636
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.egypro.2011.02.526",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1016/j.egypro.2011.02.526",
-          "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1876610211008058/pdf",
-          "source": {
-            "id": "https://openalex.org/S75069817",
-            "display_name": "Energy Procedia",
-            "issn_l": "1876-6102",
-            "issn": [
-              "1876-6102"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Energy Procedia",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:HAL:hal-03652201v1",
-          "is_oa": false,
-          "landing_page_url": "https://brgm.hal.science/hal-03652201",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
-            "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Energy Procedia, 2011, 4, pp.5414-5421. &#x27E8;10.1016/j.egypro.2011.02.526&#x27E9;",
-          "raw_type": "info:eu-repo/semantics/article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1016/j.egypro.2011.02.526",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.egypro.2011.02.526",
-        "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1876610211008058/pdf",
-        "source": {
-          "id": "https://openalex.org/S75069817",
-          "display_name": "Energy Procedia",
-          "issn_l": "1876-6102",
-          "issn": [
-            "1876-6102"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Energy Procedia",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2006757505.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2006757505.grobid-xml"
-      },
-      "referenced_works_count": 2,
-      "referenced_works": [
-        "https://openalex.org/W2196512707",
-        "https://openalex.org/W2950514387"
-      ],
-      "related_works": [
-        "https://openalex.org/W1824336683",
-        "https://openalex.org/W1982366144",
-        "https://openalex.org/W2900526884",
-        "https://openalex.org/W1975043628",
-        "https://openalex.org/W2349454828",
-        "https://openalex.org/W4252886933",
-        "https://openalex.org/W3000746129",
-        "https://openalex.org/W2466359547",
-        "https://openalex.org/W2990546033",
-        "https://openalex.org/W3207311200"
-      ],
-      "abstract_inverted_index": {
-        "A": [
-          0,
-          103
-        ],
-        "two-year": [
-          1
-        ],
-        "project": [
-          2,
-          33,
-          66
-        ],
-        "entitled": [
-          3
-        ],
-        "“Assessment": [
-          4
-        ],
-        "of": [
-          5,
-          8,
-          26,
-          30,
-          41,
-          47,
-          52,
-          60,
-          64,
-          71,
-          99,
-          110,
-          121,
-          128,
-          133,
-          166,
-          213,
-          248,
-          259,
-          279,
-          302,
-          325
-        ],
-        "the": [
-          6,
-          12,
-          23,
-          27,
-          38,
-          42,
-          61,
-          65,
-          68,
-          76,
-          80,
-          84,
-          89,
-          97,
-          108,
-          114,
-          126,
-          131,
-          164,
-          167,
-          189,
-          223,
-          228,
-          233,
-          249,
-          255,
-          260,
-          276,
-          280,
-          284,
-          288,
-          298,
-          303,
-          310,
-          319,
-          338,
-          348,
-          353
-        ],
-        "Feasibility": [
-          7
-        ],
-        "CO2": [
-          9,
-          78,
-          100,
-          111,
-          129,
-          134,
-          149,
-          215,
-          225,
-          244,
-          261,
-          291,
-          311,
-          349
-        ],
-        "Storage": [
-          10,
-          286
-        ],
-        "in": [
-          11,
-          18,
-          20,
-          49,
-          56,
-          113,
-          135,
-          150,
-          163,
-          171,
-          183,
-          209,
-          217,
-          227,
-          238,
-          318
-        ],
-        "Russian": [
-          13,
-          28
-        ],
-        "Permafrost”": [
-          14
-        ],
-        "was": [
-          15,
-          67,
-          107
-        ],
-        "carried": [
-          16
-        ],
-        "out": [
-          17
-        ],
-        "Russia": [
-          19
-        ],
-        "collaboration": [
-          21
-        ],
-        "with": [
-          22,
-          116,
-          322
-        ],
-        "Siberian": [
-          24,
-          169
-        ],
-        "branch": [
-          25
-        ],
-        "Academy": [
-          29
-        ],
-        "Sciences.": [
-          31
-        ],
-        "This": [
-          32
-        ],
-        "delivers": [
-          34
-        ],
-        "new": [
-          35
-        ],
-        "conclusions": [
-          36
-        ],
-        "about": [
-          37
-        ],
-        "safety": [
-          39
-        ],
-        "role": [
-          40
-        ],
-        "permafrost": [
-          43,
-          115,
-          250,
-          289,
-          339
-        ],
-        "and": [
-          44,
-          79,
-          88,
-          240,
-          252,
-          254,
-          275,
-          329
-        ],
-        "specific": [
-          45,
-          62,
-          105
-        ],
-        "conditions": [
-          46
-        ],
-        "storage": [
-          48,
-          112,
-          182,
-          196
-        ],
-        "an": [
-          50
-        ],
-        "area": [
-          51
-        ],
-        "abnormal": [
-          53
-        ],
-        "geothermal": [
-          54
-        ],
-        "gradient": [
-          55
-        ],
-        "Western": [
-          57,
-          168,
-          218
-        ],
-        "Siberia.": [
-          58
-        ],
-        "One": [
-          59
-        ],
-        "issues": [
-          63
-        ],
-        "potential": [
-          69,
-          200
-        ],
-        "formation": [
-          70,
-          191
-        ],
-        "carbon": [
-          72
-        ],
-        "dioxide": [
-          73
-        ],
-        "hydrates": [
-          74,
-          87,
-          351
-        ],
-        "from": [
-          75,
-          232
-        ],
-        "injected": [
-          77,
-          90
-        ],
-        "possible": [
-          81
-        ],
-        "reaction": [
-          82
-        ],
-        "between": [
-          83,
-          271
-        ],
-        "existing": [
-          85
-        ],
-        "methane": [
-          86
-        ],
-        "CO2.": [
-          91
-        ],
-        "Maps": [
-          92
-        ],
-        "have": [
-          93,
-          205
-        ],
-        "been": [
-          94,
-          207
-        ],
-        "constructed": [
-          95
-        ],
-        "showing": [
-          96
-        ],
-        "areas": [
-          98,
-          274
-        ],
-        "hydrate": [
-          101,
-          292
-        ],
-        "stability.": [
-          102
-        ],
-        "second": [
-          104
-        ],
-        "issue": [
-          106
-        ],
-        "compatibility": [
-          109
-        ],
-        "oil": [
-          117,
-          142,
-          155,
-          158,
-          327
-        ],
-        "production.": [
-          118
-        ],
-        "Pilot": [
-          119
-        ],
-        "tests": [
-          120
-        ],
-        "EOR": [
-          122
-        ],
-        "technologies,": [
-          123
-        ],
-        "involving": [
-          124
-        ],
-        "either": [
-          125
-        ],
-        "injection": [
-          127
-        ],
-        "or": [
-          130,
-          178
-        ],
-        "generation": [
-          132
-        ],
-        "situ,": [
-          136
-        ],
-        "proved": [
-          137
-        ],
-        "very": [
-          138
-        ],
-        "efficiency": [
-          139
-        ],
-        "for": [
-          140
-        ],
-        "high-viscosity": [
-          141,
-          154
-        ],
-        "pools.": [
-          143
-        ],
-        "Therefore,": [
-          144
-        ],
-        "we": [
-          145
-        ],
-        "propose": [
-          146
-        ],
-        "to": [
-          147,
-          297
-        ],
-        "inject": [
-          148
-        ],
-        "West": [
-          151
-        ],
-        "Siberia": [
-          152,
-          219
-        ],
-        "into": [
-          153
-        ],
-        "fields.": [
-          156
-        ],
-        "High-viscosity": [
-          157
-        ],
-        "fields": [
-          159
-        ],
-        "are": [
-          160,
-          242
-        ],
-        "mainly": [
-          161
-        ],
-        "located": [
-          162
-        ],
-        "centre": [
-          165
-        ],
-        "Basin": [
-          170
-        ],
-        "Khanty-Mansijsk": [
-          172
-        ],
-        "autonomous": [
-          173
-        ],
-        "okrug": [
-          174
-        ],
-        "(KMAO).": [
-          175
-        ],
-        "An": [
-          176
-        ],
-        "alternative": [
-          177
-        ],
-        "complementary": [
-          179
-        ],
-        "solution": [
-          180
-        ],
-        "is": [
-          181,
-          201,
-          293
-        ],
-        "aquifers.": [
-          184
-        ],
-        "Deep": [
-          185
-        ],
-        "aquifers,": [
-          186
-        ],
-        "such": [
-          187
-        ],
-        "as": [
-          188,
-          290,
-          342,
-          350
-        ],
-        "Pokur": [
-          190
-        ],
-        "overlain": [
-          192
-        ],
-        "could": [
-          193,
-          269
-        ],
-        "also": [
-          194
-        ],
-        "be": [
-          195,
-          313
-        ],
-        "targets,": [
-          197
-        ],
-        "but": [
-          198
-        ],
-        "their": [
-          199
-        ],
-        "unknown": [
-          202
-        ],
-        "because": [
-          203
-        ],
-        "they": [
-          204
-        ],
-        "not": [
-          206,
-          294
-        ],
-        "explored": [
-          208
-        ],
-        "detail.": [
-          210
-        ],
-        "The": [
-          211
-        ],
-        "inventory": [
-          212
-        ],
-        "major": [
-          214,
-          224
-        ],
-        "sources": [
-          216
-        ],
-        "has": [
-          220,
-          263
-        ],
-        "shown": [
-          221,
-          264
-        ],
-        "that": [
-          222,
-          265
-        ],
-        "emission": [
-          226
-        ],
-        "power": [
-          229,
-          236
-        ],
-        "sector": [
-          230
-        ],
-        "comes": [
-          231
-        ],
-        "KMAO,": [
-          234
-        ],
-        "where": [
-          235
-        ],
-        "stations": [
-          237
-        ],
-        "Surgut": [
-          239
-        ],
-        "Nizhnevartovsk": [
-          241
-        ],
-        "large": [
-          243
-        ],
-        "sources.": [
-          245
-        ],
-        "GIS": [
-          246
-        ],
-        "mapping": [
-          247
-        ],
-        "depth": [
-          251
-        ],
-        "thickness,": [
-          253
-        ],
-        "associated": [
-          256
-        ],
-        "stability": [
-          257,
-          277
-        ],
-        "domain": [
-          258,
-          278
-        ],
-        "hydrates,": [
-          262,
-          282
-        ],
-        "a": [
-          266,
-          332,
-          343
-        ],
-        "good": [
-          267
-        ],
-        "overlap": [
-          268
-        ],
-        "exist": [
-          270
-        ],
-        "these": [
-          272
-        ],
-        "industrial": [
-          273
-        ],
-        "gas": [
-          281,
-          307
-        ],
-        "underneath": [
-          283,
-          331
-        ],
-        "permafrost.": [
-          285
-        ],
-        "beneath": [
-          287
-        ],
-        "suitable": [
-          295
-        ],
-        "due": [
-          296
-        ],
-        "probable": [
-          299
-        ],
-        "rapid": [
-          300
-        ],
-        "plugging": [
-          301
-        ],
-        "porosity": [
-          304
-        ],
-        "by": [
-          305,
-          346
-        ],
-        "solid": [
-          306
-        ],
-        "hydrates.": [
-          308
-        ],
-        "But,": [
-          309
-        ],
-        "should": [
-          312,
-          356
-        ],
-        "stored": [
-          314
-        ],
-        "at": [
-          315
-        ],
-        "supercritical": [
-          316
-        ],
-        "state": [
-          317
-        ],
-        "hydrocarbon": [
-          320
-        ],
-        "fields,": [
-          321
-        ],
-        "added": [
-          323
-        ],
-        "value": [
-          324
-        ],
-        "heavy": [
-          326
-        ],
-        "upgrading,": [
-          328
-        ],
-        "trapped": [
-          330
-        ],
-        "classical": [
-          333
-        ],
-        "cap": [
-          334
-        ],
-        "rock.": [
-          335
-        ],
-        "In": [
-          336
-        ],
-        "addition,": [
-          337
-        ],
-        "would": [
-          340
-        ],
-        "act": [
-          341
-        ],
-        "secondary": [
-          344
-        ],
-        "cap-rock": [
-          345
-        ],
-        "trapping": [
-          347
-        ],
-        "if": [
-          352
-        ],
-        "primary": [
-          354
-        ],
-        "caprock": [
-          355
-        ],
-        "fail.": [
-          357
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-08-26T07:47:46.906454",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4381681826",
       "doi": "https://doi.org/10.5802/crgeos.217",
       "title": "The Middle to Late Triassic of Central Saudi Arabia with emphasis on the Jilh Formation. Part I: lithostratigraphy, facies and paleoenvironments, palaeontology and biostratigraphic age calibration from outcrop studies",
@@ -16495,6 +15009,12 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4404678052",
           "host_organization_name": "Académie des sciences",
           "host_organization_lineage": [
@@ -16638,11 +15158,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.7815,
+      "fwci": 3.9356,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.93520977,
+        "value": 0.92114849,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16944,6 +15464,12 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": "https://openalex.org/P4404678052",
             "host_organization_name": "Académie des sciences",
             "host_organization_lineage": [
@@ -16975,6 +15501,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -17002,6 +15529,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -17029,6 +15557,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -17060,6 +15589,12 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4404678052",
           "host_organization_name": "Académie des sciences",
           "host_organization_lineage": [
@@ -17082,8 +15617,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -18016,6 +16551,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -18109,16 +16649,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.9556,
+      "fwci": 5.1752,
       "has_fulltext": false,
       "cited_by_count": 57,
       "citation_normalized_percentile": {
-        "value": 0.95844875,
+        "value": 0.95168582,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 98
       },
       "biblio": {
@@ -18354,6 +16894,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -18384,6 +16929,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -18408,8 +16958,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2954113145.pdf"
@@ -18927,6 +17477,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-2",
+            "norway-2"
+          ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
@@ -19504,11 +18059,11 @@
         "value_usd": 4100
       },
       "apc_paid": null,
-      "fwci": 3.5731,
+      "fwci": 3.5297,
       "has_fulltext": false,
       "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.91477393,
+        "value": 0.9134533,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19812,6 +18367,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-2",
+              "norway-2"
+            ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
             "host_organization_lineage": [
@@ -19843,6 +18403,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -19871,8 +18432,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -19994,6 +18555,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
@@ -20236,11 +18802,11 @@
         "value_usd": 2500
       },
       "apc_paid": null,
-      "fwci": 1.9314,
+      "fwci": 1.9248,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.82534611,
+        "value": 0.8247464,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20557,6 +19123,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
             "host_organization_lineage": [
@@ -20588,6 +19159,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -20622,6 +19194,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
@@ -20656,8 +19233,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 128,
@@ -20866,6 +19443,12 @@
           "is_oa": false,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4404678052",
           "host_organization_name": "Académie des sciences",
           "host_organization_lineage": [
@@ -21208,11 +19791,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4142,
+      "fwci": 0.4087,
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.65038431,
+        "value": 0.64621415,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21480,6 +20063,12 @@
             "is_oa": false,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": "https://openalex.org/P4404678052",
             "host_organization_name": "Académie des sciences",
             "host_organization_lineage": [
@@ -21511,6 +20100,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -21540,6 +20130,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -21571,6 +20162,12 @@
           "is_oa": false,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4404678052",
           "host_organization_name": "Académie des sciences",
           "host_organization_lineage": [
@@ -21610,8 +20207,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1056795926.pdf",
@@ -22114,6 +20711,1614 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2006757505",
+      "doi": "https://doi.org/10.1016/j.egypro.2011.02.526",
+      "title": "Storing CO2 underneath the Siberian Permafrost: A win-win solution for long-term trapping of CO2 and heavy oil upgrading",
+      "display_name": "Storing CO2 underneath the Siberian Permafrost: A win-win solution for long-term trapping of CO2 and heavy oil upgrading",
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2006757505",
+        "doi": "https://doi.org/10.1016/j.egypro.2011.02.526",
+        "mag": "2006757505"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.egypro.2011.02.526",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.egypro.2011.02.526",
+        "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1876610211008058/pdf",
+        "source": {
+          "id": "https://openalex.org/S75069817",
+          "display_name": "Energy Procedia",
+          "issn_l": "1876-6102",
+          "issn": [
+            "1876-6102"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Energy Procedia",
+        "raw_type": "journal-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S1876610211008058/pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5054427253",
+            "display_name": "Yves-Michel Le Nindre",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Yves-Michel Le Nindre",
+          "raw_affiliation_strings": [
+            "BRGM, Orléans, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "BRGM, Orléans, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5047435631",
+            "display_name": "Delphine Allier",
+            "orcid": "https://orcid.org/0000-0002-6869-3451"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Delphine Allier",
+          "raw_affiliation_strings": [
+            "BRGM, Orléans, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "BRGM, Orléans, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110006235",
+            "display_name": "Albert Duchkov",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210106118",
+              "display_name": "Institute of Petroleum Geology and Geophysics",
+              "ror": "https://ror.org/00y1dzm96",
+              "country_code": "RU",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1313323035",
+                "https://openalex.org/I4210106118",
+                "https://openalex.org/I4210163714"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Albert Duchkov",
+          "raw_affiliation_strings": [
+            "IPGG, Trofimuk Institute of Petroleum Geology and Geophysics, Tomsk and Novosibirsk branches, Russia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "IPGG, Trofimuk Institute of Petroleum Geology and Geophysics, Tomsk and Novosibirsk branches, Russia",
+              "institution_ids": [
+                "https://openalex.org/I4210106118"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5013239518",
+            "display_name": "Л. К. Алтунина",
+            "orcid": "https://orcid.org/0000-0001-9502-1864"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210112221",
+              "display_name": "Institute of Petroleum Chemistry",
+              "ror": "https://ror.org/01zavqc64",
+              "country_code": "RU",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1313323035",
+                "https://openalex.org/I4210112221",
+                "https://openalex.org/I4210145551"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Liubov K. Altunina",
+          "raw_affiliation_strings": [
+            "IPC, Institute of Pertoleum Chemistry, Tomsk, Russia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "IPC, Institute of Pertoleum Chemistry, Tomsk, Russia",
+              "institution_ids": [
+                "https://openalex.org/I4210112221"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5003556624",
+            "display_name": "С. Л. Шварцев",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210106118",
+              "display_name": "Institute of Petroleum Geology and Geophysics",
+              "ror": "https://ror.org/00y1dzm96",
+              "country_code": "RU",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1313323035",
+                "https://openalex.org/I4210106118",
+                "https://openalex.org/I4210163714"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Stepan Shvartsev",
+          "raw_affiliation_strings": [
+            "IPGG, Trofimuk Institute of Petroleum Geology and Geophysics, Tomsk and Novosibirsk branches, Russia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "IPGG, Trofimuk Institute of Petroleum Geology and Geophysics, Tomsk and Novosibirsk branches, Russia",
+              "institution_ids": [
+                "https://openalex.org/I4210106118"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5112404860",
+            "display_name": "Mikhail Zhelezniak",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210111564",
+              "display_name": "Melnikov Permafrost Institute of the Siberian Branch of the Russian Academy of Science",
+              "ror": "https://ror.org/01rwqqv19",
+              "country_code": "RU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I1313323035",
+                "https://openalex.org/I4210111564",
+                "https://openalex.org/I4210127387"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mikhail Zhelezniak",
+          "raw_affiliation_strings": [
+            "Melkinov Permafrost Institute, Yakutsk, Russia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Melkinov Permafrost Institute, Yakutsk, Russia",
+              "institution_ids": [
+                "https://openalex.org/I4210111564"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5110101345",
+            "display_name": "J. Klerkx",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210157936",
+              "display_name": "International Bureau for Environmental Studies",
+              "ror": "https://ror.org/047k18g44",
+              "country_code": "BE",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210157936"
+              ]
+            }
+          ],
+          "countries": [
+            "BE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jean Klerkx",
+          "raw_affiliation_strings": [
+            "IBES, International Bureau for Environmental Studies, Brussels, Belgium"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "IBES, International Bureau for Environmental Studies, Brussels, Belgium",
+              "institution_ids": [
+                "https://openalex.org/I4210157936"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 5,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5054427253"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210158893"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 2.6573,
+      "has_fulltext": true,
+      "cited_by_count": 8,
+      "citation_normalized_percentile": {
+        "value": 0.84108867,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "4",
+        "issue": null,
+        "first_page": "5414",
+        "last_page": "5421"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10995",
+        "display_name": "Methane Hydrates and Related Phenomena",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2304",
+          "display_name": "Environmental Chemistry"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10995",
+          "display_name": "Methane Hydrates and Related Phenomena",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2304",
+            "display_name": "Environmental Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9998000264167786,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 0.9995999932289124,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/permafrost",
+          "display_name": "Permafrost",
+          "score": 0.8375130891799927
+        },
+        {
+          "id": "https://openalex.org/keywords/aquifer",
+          "display_name": "Aquifer",
+          "score": 0.6148073673248291
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.5885931253433228
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-engineering",
+          "display_name": "Petroleum engineering",
+          "score": 0.538318932056427
+        },
+        {
+          "id": "https://openalex.org/keywords/enhanced-oil-recovery",
+          "display_name": "Enhanced oil recovery",
+          "score": 0.5304276943206787
+        },
+        {
+          "id": "https://openalex.org/keywords/geothermal-gradient",
+          "display_name": "Geothermal gradient",
+          "score": 0.5103752017021179
+        },
+        {
+          "id": "https://openalex.org/keywords/fossil-fuel",
+          "display_name": "Fossil fuel",
+          "score": 0.4863489270210266
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-capture-and-storage",
+          "display_name": "Carbon capture and storage (timeline)",
+          "score": 0.462999165058136
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.45959386229515076
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrology",
+          "display_name": "Hydrology (agriculture)",
+          "score": 0.37024208903312683
+        },
+        {
+          "id": "https://openalex.org/keywords/earth-science",
+          "display_name": "Earth science",
+          "score": 0.34769588708877563
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.3449563682079315
+        },
+        {
+          "id": "https://openalex.org/keywords/climate-change",
+          "display_name": "Climate change",
+          "score": 0.33323532342910767
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.31905654072761536
+        },
+        {
+          "id": "https://openalex.org/keywords/groundwater",
+          "display_name": "Groundwater",
+          "score": 0.30027568340301514
+        },
+        {
+          "id": "https://openalex.org/keywords/waste-management",
+          "display_name": "Waste management",
+          "score": 0.26722943782806396
+        },
+        {
+          "id": "https://openalex.org/keywords/geotechnical-engineering",
+          "display_name": "Geotechnical engineering",
+          "score": 0.1796104907989502
+        },
+        {
+          "id": "https://openalex.org/keywords/geomorphology",
+          "display_name": "Geomorphology",
+          "score": 0.16194093227386475
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.16131442785263062
+        },
+        {
+          "id": "https://openalex.org/keywords/oceanography",
+          "display_name": "Oceanography",
+          "score": 0.1466372311115265
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.10944098234176636
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C15098985",
+          "wikidata": "https://www.wikidata.org/wiki/Q179918",
+          "display_name": "Permafrost",
+          "level": 2,
+          "score": 0.8375130891799927
+        },
+        {
+          "id": "https://openalex.org/C75622301",
+          "wikidata": "https://www.wikidata.org/wiki/Q208791",
+          "display_name": "Aquifer",
+          "level": 3,
+          "score": 0.6148073673248291
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.5885931253433228
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.538318932056427
+        },
+        {
+          "id": "https://openalex.org/C2779681308",
+          "wikidata": "https://www.wikidata.org/wiki/Q1049254",
+          "display_name": "Enhanced oil recovery",
+          "level": 2,
+          "score": 0.5304276943206787
+        },
+        {
+          "id": "https://openalex.org/C111766609",
+          "wikidata": "https://www.wikidata.org/wiki/Q636340",
+          "display_name": "Geothermal gradient",
+          "level": 2,
+          "score": 0.5103752017021179
+        },
+        {
+          "id": "https://openalex.org/C68189081",
+          "wikidata": "https://www.wikidata.org/wiki/Q12748",
+          "display_name": "Fossil fuel",
+          "level": 2,
+          "score": 0.4863489270210266
+        },
+        {
+          "id": "https://openalex.org/C2778379663",
+          "wikidata": "https://www.wikidata.org/wiki/Q5037942",
+          "display_name": "Carbon capture and storage (timeline)",
+          "level": 3,
+          "score": 0.462999165058136
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.45959386229515076
+        },
+        {
+          "id": "https://openalex.org/C76886044",
+          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+          "display_name": "Hydrology (agriculture)",
+          "level": 2,
+          "score": 0.37024208903312683
+        },
+        {
+          "id": "https://openalex.org/C1965285",
+          "wikidata": "https://www.wikidata.org/wiki/Q8008",
+          "display_name": "Earth science",
+          "level": 1,
+          "score": 0.34769588708877563
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.3449563682079315
+        },
+        {
+          "id": "https://openalex.org/C132651083",
+          "wikidata": "https://www.wikidata.org/wiki/Q7942",
+          "display_name": "Climate change",
+          "level": 2,
+          "score": 0.33323532342910767
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.31905654072761536
+        },
+        {
+          "id": "https://openalex.org/C76177295",
+          "wikidata": "https://www.wikidata.org/wiki/Q161598",
+          "display_name": "Groundwater",
+          "level": 2,
+          "score": 0.30027568340301514
+        },
+        {
+          "id": "https://openalex.org/C548081761",
+          "wikidata": "https://www.wikidata.org/wiki/Q180388",
+          "display_name": "Waste management",
+          "level": 1,
+          "score": 0.26722943782806396
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.1796104907989502
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.16194093227386475
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.16131442785263062
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.1466372311115265
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.10944098234176636
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.egypro.2011.02.526",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.egypro.2011.02.526",
+          "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1876610211008058/pdf",
+          "source": {
+            "id": "https://openalex.org/S75069817",
+            "display_name": "Energy Procedia",
+            "issn_l": "1876-6102",
+            "issn": [
+              "1876-6102"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Energy Procedia",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:HAL:hal-03652201v1",
+          "is_oa": false,
+          "landing_page_url": "https://brgm.hal.science/hal-03652201",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1294671590",
+            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization_lineage": [
+              "https://openalex.org/I1294671590"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Energy Procedia, 2011, 4, pp.5414-5421. &#x27E8;10.1016/j.egypro.2011.02.526&#x27E9;",
+          "raw_type": "info:eu-repo/semantics/article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.egypro.2011.02.526",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.egypro.2011.02.526",
+        "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1876610211008058/pdf",
+        "source": {
+          "id": "https://openalex.org/S75069817",
+          "display_name": "Energy Procedia",
+          "issn_l": "1876-6102",
+          "issn": [
+            "1876-6102"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Energy Procedia",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2006757505.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2006757505.grobid-xml"
+      },
+      "referenced_works_count": 2,
+      "referenced_works": [
+        "https://openalex.org/W2196512707",
+        "https://openalex.org/W2950514387"
+      ],
+      "related_works": [
+        "https://openalex.org/W1824336683",
+        "https://openalex.org/W1982366144",
+        "https://openalex.org/W2900526884",
+        "https://openalex.org/W1975043628",
+        "https://openalex.org/W2349454828",
+        "https://openalex.org/W4252886933",
+        "https://openalex.org/W3000746129",
+        "https://openalex.org/W2466359547",
+        "https://openalex.org/W2990546033",
+        "https://openalex.org/W3207311200"
+      ],
+      "abstract_inverted_index": {
+        "A": [
+          0,
+          103
+        ],
+        "two-year": [
+          1
+        ],
+        "project": [
+          2,
+          33,
+          66
+        ],
+        "entitled": [
+          3
+        ],
+        "“Assessment": [
+          4
+        ],
+        "of": [
+          5,
+          8,
+          26,
+          30,
+          41,
+          47,
+          52,
+          60,
+          64,
+          71,
+          99,
+          110,
+          121,
+          128,
+          133,
+          166,
+          213,
+          248,
+          259,
+          279,
+          302,
+          325
+        ],
+        "the": [
+          6,
+          12,
+          23,
+          27,
+          38,
+          42,
+          61,
+          65,
+          68,
+          76,
+          80,
+          84,
+          89,
+          97,
+          108,
+          114,
+          126,
+          131,
+          164,
+          167,
+          189,
+          223,
+          228,
+          233,
+          249,
+          255,
+          260,
+          276,
+          280,
+          284,
+          288,
+          298,
+          303,
+          310,
+          319,
+          338,
+          348,
+          353
+        ],
+        "Feasibility": [
+          7
+        ],
+        "CO2": [
+          9,
+          78,
+          100,
+          111,
+          129,
+          134,
+          149,
+          215,
+          225,
+          244,
+          261,
+          291,
+          311,
+          349
+        ],
+        "Storage": [
+          10,
+          286
+        ],
+        "in": [
+          11,
+          18,
+          20,
+          49,
+          56,
+          113,
+          135,
+          150,
+          163,
+          171,
+          183,
+          209,
+          217,
+          227,
+          238,
+          318
+        ],
+        "Russian": [
+          13,
+          28
+        ],
+        "Permafrost”": [
+          14
+        ],
+        "was": [
+          15,
+          67,
+          107
+        ],
+        "carried": [
+          16
+        ],
+        "out": [
+          17
+        ],
+        "Russia": [
+          19
+        ],
+        "collaboration": [
+          21
+        ],
+        "with": [
+          22,
+          116,
+          322
+        ],
+        "Siberian": [
+          24,
+          169
+        ],
+        "branch": [
+          25
+        ],
+        "Academy": [
+          29
+        ],
+        "Sciences.": [
+          31
+        ],
+        "This": [
+          32
+        ],
+        "delivers": [
+          34
+        ],
+        "new": [
+          35
+        ],
+        "conclusions": [
+          36
+        ],
+        "about": [
+          37
+        ],
+        "safety": [
+          39
+        ],
+        "role": [
+          40
+        ],
+        "permafrost": [
+          43,
+          115,
+          250,
+          289,
+          339
+        ],
+        "and": [
+          44,
+          79,
+          88,
+          240,
+          252,
+          254,
+          275,
+          329
+        ],
+        "specific": [
+          45,
+          62,
+          105
+        ],
+        "conditions": [
+          46
+        ],
+        "storage": [
+          48,
+          112,
+          182,
+          196
+        ],
+        "an": [
+          50
+        ],
+        "area": [
+          51
+        ],
+        "abnormal": [
+          53
+        ],
+        "geothermal": [
+          54
+        ],
+        "gradient": [
+          55
+        ],
+        "Western": [
+          57,
+          168,
+          218
+        ],
+        "Siberia.": [
+          58
+        ],
+        "One": [
+          59
+        ],
+        "issues": [
+          63
+        ],
+        "potential": [
+          69,
+          200
+        ],
+        "formation": [
+          70,
+          191
+        ],
+        "carbon": [
+          72
+        ],
+        "dioxide": [
+          73
+        ],
+        "hydrates": [
+          74,
+          87,
+          351
+        ],
+        "from": [
+          75,
+          232
+        ],
+        "injected": [
+          77,
+          90
+        ],
+        "possible": [
+          81
+        ],
+        "reaction": [
+          82
+        ],
+        "between": [
+          83,
+          271
+        ],
+        "existing": [
+          85
+        ],
+        "methane": [
+          86
+        ],
+        "CO2.": [
+          91
+        ],
+        "Maps": [
+          92
+        ],
+        "have": [
+          93,
+          205
+        ],
+        "been": [
+          94,
+          207
+        ],
+        "constructed": [
+          95
+        ],
+        "showing": [
+          96
+        ],
+        "areas": [
+          98,
+          274
+        ],
+        "hydrate": [
+          101,
+          292
+        ],
+        "stability.": [
+          102
+        ],
+        "second": [
+          104
+        ],
+        "issue": [
+          106
+        ],
+        "compatibility": [
+          109
+        ],
+        "oil": [
+          117,
+          142,
+          155,
+          158,
+          327
+        ],
+        "production.": [
+          118
+        ],
+        "Pilot": [
+          119
+        ],
+        "tests": [
+          120
+        ],
+        "EOR": [
+          122
+        ],
+        "technologies,": [
+          123
+        ],
+        "involving": [
+          124
+        ],
+        "either": [
+          125
+        ],
+        "injection": [
+          127
+        ],
+        "or": [
+          130,
+          178
+        ],
+        "generation": [
+          132
+        ],
+        "situ,": [
+          136
+        ],
+        "proved": [
+          137
+        ],
+        "very": [
+          138
+        ],
+        "efficiency": [
+          139
+        ],
+        "for": [
+          140
+        ],
+        "high-viscosity": [
+          141,
+          154
+        ],
+        "pools.": [
+          143
+        ],
+        "Therefore,": [
+          144
+        ],
+        "we": [
+          145
+        ],
+        "propose": [
+          146
+        ],
+        "to": [
+          147,
+          297
+        ],
+        "inject": [
+          148
+        ],
+        "West": [
+          151
+        ],
+        "Siberia": [
+          152,
+          219
+        ],
+        "into": [
+          153
+        ],
+        "fields.": [
+          156
+        ],
+        "High-viscosity": [
+          157
+        ],
+        "fields": [
+          159
+        ],
+        "are": [
+          160,
+          242
+        ],
+        "mainly": [
+          161
+        ],
+        "located": [
+          162
+        ],
+        "centre": [
+          165
+        ],
+        "Basin": [
+          170
+        ],
+        "Khanty-Mansijsk": [
+          172
+        ],
+        "autonomous": [
+          173
+        ],
+        "okrug": [
+          174
+        ],
+        "(KMAO).": [
+          175
+        ],
+        "An": [
+          176
+        ],
+        "alternative": [
+          177
+        ],
+        "complementary": [
+          179
+        ],
+        "solution": [
+          180
+        ],
+        "is": [
+          181,
+          201,
+          293
+        ],
+        "aquifers.": [
+          184
+        ],
+        "Deep": [
+          185
+        ],
+        "aquifers,": [
+          186
+        ],
+        "such": [
+          187
+        ],
+        "as": [
+          188,
+          290,
+          342,
+          350
+        ],
+        "Pokur": [
+          190
+        ],
+        "overlain": [
+          192
+        ],
+        "could": [
+          193,
+          269
+        ],
+        "also": [
+          194
+        ],
+        "be": [
+          195,
+          313
+        ],
+        "targets,": [
+          197
+        ],
+        "but": [
+          198
+        ],
+        "their": [
+          199
+        ],
+        "unknown": [
+          202
+        ],
+        "because": [
+          203
+        ],
+        "they": [
+          204
+        ],
+        "not": [
+          206,
+          294
+        ],
+        "explored": [
+          208
+        ],
+        "detail.": [
+          210
+        ],
+        "The": [
+          211
+        ],
+        "inventory": [
+          212
+        ],
+        "major": [
+          214,
+          224
+        ],
+        "sources": [
+          216
+        ],
+        "has": [
+          220,
+          263
+        ],
+        "shown": [
+          221,
+          264
+        ],
+        "that": [
+          222,
+          265
+        ],
+        "emission": [
+          226
+        ],
+        "power": [
+          229,
+          236
+        ],
+        "sector": [
+          230
+        ],
+        "comes": [
+          231
+        ],
+        "KMAO,": [
+          234
+        ],
+        "where": [
+          235
+        ],
+        "stations": [
+          237
+        ],
+        "Surgut": [
+          239
+        ],
+        "Nizhnevartovsk": [
+          241
+        ],
+        "large": [
+          243
+        ],
+        "sources.": [
+          245
+        ],
+        "GIS": [
+          246
+        ],
+        "mapping": [
+          247
+        ],
+        "depth": [
+          251
+        ],
+        "thickness,": [
+          253
+        ],
+        "associated": [
+          256
+        ],
+        "stability": [
+          257,
+          277
+        ],
+        "domain": [
+          258,
+          278
+        ],
+        "hydrates,": [
+          262,
+          282
+        ],
+        "a": [
+          266,
+          332,
+          343
+        ],
+        "good": [
+          267
+        ],
+        "overlap": [
+          268
+        ],
+        "exist": [
+          270
+        ],
+        "these": [
+          272
+        ],
+        "industrial": [
+          273
+        ],
+        "gas": [
+          281,
+          307
+        ],
+        "underneath": [
+          283,
+          331
+        ],
+        "permafrost.": [
+          285
+        ],
+        "beneath": [
+          287
+        ],
+        "suitable": [
+          295
+        ],
+        "due": [
+          296
+        ],
+        "probable": [
+          299
+        ],
+        "rapid": [
+          300
+        ],
+        "plugging": [
+          301
+        ],
+        "porosity": [
+          304
+        ],
+        "by": [
+          305,
+          346
+        ],
+        "solid": [
+          306
+        ],
+        "hydrates.": [
+          308
+        ],
+        "But,": [
+          309
+        ],
+        "should": [
+          312,
+          356
+        ],
+        "stored": [
+          314
+        ],
+        "at": [
+          315
+        ],
+        "supercritical": [
+          316
+        ],
+        "state": [
+          317
+        ],
+        "hydrocarbon": [
+          320
+        ],
+        "fields,": [
+          321
+        ],
+        "added": [
+          323
+        ],
+        "value": [
+          324
+        ],
+        "heavy": [
+          326
+        ],
+        "upgrading,": [
+          328
+        ],
+        "trapped": [
+          330
+        ],
+        "classical": [
+          333
+        ],
+        "cap": [
+          334
+        ],
+        "rock.": [
+          335
+        ],
+        "In": [
+          336
+        ],
+        "addition,": [
+          337
+        ],
+        "would": [
+          340
+        ],
+        "act": [
+          341
+        ],
+        "secondary": [
+          344
+        ],
+        "cap-rock": [
+          345
+        ],
+        "trapping": [
+          347
+        ],
+        "if": [
+          352
+        ],
+        "primary": [
+          354
+        ],
+        "caprock": [
+          355
+        ],
+        "fail.": [
+          357
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-08-26T07:47:46.906454",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2188233270",
       "doi": "https://doi.org/10.2113/geoarabia110155",
       "title": "Ostracods of the Permian-Triassic Khuff Formation, Saudi Arabia: palaeoecology and palaeobiogeography",
@@ -22141,6 +22346,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -22219,11 +22429,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8729,
+      "fwci": 0.8637,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.75329702,
+        "value": 0.74969078,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22471,6 +22681,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -22501,6 +22716,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -22525,8 +22745,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2188233270.pdf"
@@ -23029,6 +23249,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -23137,16 +23362,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7947,
+      "fwci": 1.6869,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.87146647,
+        "value": 0.86132542,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 97
       },
       "biblio": {
@@ -23365,6 +23590,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -23392,6 +23622,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -23424,6 +23655,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -23442,8 +23678,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3127056474.pdf"
@@ -24014,6 +24250,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -24219,11 +24460,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8322,
+      "fwci": 1.7978,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.82844204,
+        "value": 0.82476572,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24512,6 +24753,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -24539,6 +24785,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -24571,6 +24818,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -24595,8 +24847,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -26247,8 +26499,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -26858,6 +27110,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -26951,11 +27208,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4656,
+      "fwci": 0.4217,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.7815619,
+        "value": 0.75529179,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27219,6 +27476,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -27246,6 +27508,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I189158943",
             "host_organization_name": "University of Milan",
             "host_organization_lineage": [
@@ -27278,6 +27541,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -27302,8 +27570,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2968599283.pdf"
@@ -27725,6 +27993,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -27803,16 +28076,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8953,
+      "fwci": 0.8434,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.82164788,
+        "value": 0.80722057,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 97
       },
       "biblio": {
@@ -28026,6 +28299,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -28056,6 +28334,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -28080,8 +28363,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2979942938.pdf"
@@ -28626,6 +28909,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -28699,21 +28987,21 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1121,
+      "fwci": 1.954,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.89137653,
+        "value": 0.88030307,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 96
       },
       "biblio": {
@@ -28925,6 +29213,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -28955,6 +29248,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -28979,8 +29277,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2972134149.pdf"
@@ -29472,7 +29770,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-17T08:01:34.144755",
+      "updated_date": "2026-05-22T06:13:13.366637",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30046,8 +30344,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -30544,8 +30842,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30996,6 +31294,12 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4404678052",
           "host_organization_name": "Académie des sciences",
           "host_organization_lineage": [
@@ -31466,11 +31770,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7867,
+      "fwci": 1.4758,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.85701638,
+        "value": 0.82585172,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31798,6 +32102,12 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": "https://openalex.org/P4404678052",
             "host_organization_name": "Académie des sciences",
             "host_organization_lineage": [
@@ -31829,6 +32139,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -31858,6 +32169,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -31885,6 +32197,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -31912,6 +32225,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -31943,6 +32257,12 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4404678052",
           "host_organization_name": "Académie des sciences",
           "host_organization_lineage": [
@@ -31971,8 +32291,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385358246.pdf",
@@ -33090,8 +33410,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -33156,6 +33476,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-2"
+          ],
           "host_organization": "https://openalex.org/P4310316082",
           "host_organization_name": "American Association of Petroleum Geologists",
           "host_organization_lineage": [
@@ -33214,7 +33539,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.20770771,
+        "value": 0.20970187,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33385,6 +33710,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-2"
+            ],
             "host_organization": "https://openalex.org/P4310316082",
             "host_organization_name": "American Association of Petroleum Geologists",
             "host_organization_lineage": [
@@ -33415,8 +33745,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34344,8 +34674,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34904,8 +35234,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35364,6 +35694,9 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
           "host_organization_lineage": [
@@ -35765,6 +36098,9 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
             "host_organization_lineage": [
@@ -35791,8 +36127,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -35892,6 +36228,10 @@
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1"
+          ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
@@ -36255,7 +36595,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.14059946,
+        "value": 0.13651498,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36521,6 +36861,10 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1"
+            ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
             "host_organization_lineage": [
@@ -36552,6 +36896,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -36584,6 +36929,10 @@
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1"
+          ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
@@ -36606,8 +36955,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2037835118.pdf",
@@ -37811,8 +38160,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38450,8 +38799,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -40507,8 +40856,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41822,8 +42171,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43160,8 +43509,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43624,8 +43973,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -44196,8 +44545,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -44664,8 +45013,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

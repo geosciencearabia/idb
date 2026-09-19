@@ -180,7 +180,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000161,
+        "value": 0.000016,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -358,6 +358,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310311650",
           "host_organization_name": "Geological Society of London",
           "host_organization_lineage": [
@@ -444,7 +449,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5007597150"
       ],
@@ -454,16 +459,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1169,
+      "fwci": 0.7487,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.73636748,
+        "value": 0.62607199,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 95,
+        "min": 93,
         "max": 98
       },
       "biblio": {
@@ -762,6 +767,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": "https://openalex.org/P4310311650",
             "host_organization_name": "Geological Society of London",
             "host_organization_lineage": [
@@ -797,6 +807,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310311650",
           "host_organization_name": "Geological Society of London",
           "host_organization_lineage": [
@@ -819,8 +834,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -1364,7 +1379,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-05-25T08:39:21.599409",
+      "updated_date": "2026-05-21T06:26:12.895304",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1397,6 +1412,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-2",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310320595",
           "host_organization_name": "Wiley",
           "host_organization_lineage": [
@@ -1742,11 +1762,11 @@
         "currency": "USD",
         "value_usd": 5330
       },
-      "fwci": 1.9969,
+      "fwci": 1.9165,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.87970003,
+        "value": 0.87596515,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1990,6 +2010,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-2",
+              "norway-1"
+            ],
             "host_organization": "https://openalex.org/P4310320595",
             "host_organization_name": "Wiley",
             "host_organization_lineage": [
@@ -2027,6 +2052,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-2",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310320595",
           "host_organization_name": "Wiley",
           "host_organization_lineage": [
@@ -2047,9 +2077,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -2061,8 +2091,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -2915,6 +2945,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310310987",
           "host_organization_name": "Multidisciplinary Digital Publishing Institute",
           "host_organization_lineage": [
@@ -3002,11 +3037,11 @@
         "currency": "CHF",
         "value_usd": 1267
       },
-      "fwci": 0.8935,
+      "fwci": 0.8779,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.6826581,
+        "value": 0.67554631,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3321,6 +3356,11 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "norway-1"
+            ],
             "host_organization": "https://openalex.org/P4310310987",
             "host_organization_name": "Multidisciplinary Digital Publishing Institute",
             "host_organization_lineage": [
@@ -3352,6 +3392,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -3382,6 +3423,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310310987",
           "host_organization_name": "Multidisciplinary Digital Publishing Institute",
           "host_organization_lineage": [
@@ -3404,8 +3450,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3107735373.pdf",
@@ -4298,6 +4344,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310311650",
           "host_organization_name": "Geological Society of London",
           "host_organization_lineage": [
@@ -4490,11 +4541,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9252,
+      "fwci": 1.7841,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.86402176,
+        "value": 0.8550959,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4730,6 +4781,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": "https://openalex.org/P4310311650",
             "host_organization_name": "Geological Society of London",
             "host_organization_lineage": [
@@ -4765,6 +4821,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310311650",
           "host_organization_name": "Geological Society of London",
           "host_organization_lineage": [
@@ -4785,16 +4846,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.6899999976158142,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6899999976158142
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -5357,571 +5418,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4366280974",
-      "doi": "https://doi.org/10.1007/s12371-023-00827-8",
-      "title": "Use of Quaternary Deposits in the Construction of Fortifications",
-      "display_name": "Use of Quaternary Deposits in the Construction of Fortifications",
-      "publication_year": 2023,
-      "publication_date": "2023-04-18",
-      "ids": {
-        "openalex": "https://openalex.org/W4366280974",
-        "doi": "https://doi.org/10.1007/s12371-023-00827-8"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/s12371-023-00827-8",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1007/s12371-023-00827-8",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S166478399",
-          "display_name": "Geoheritage",
-          "issn_l": "1867-2477",
-          "issn": [
-            "1867-2477",
-            "1867-2485"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319900",
-          "host_organization_name": "Springer Science+Business Media",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319900",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Science+Business Media",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geoheritage",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5063720304",
-            "display_name": "Robert Hird",
-            "orcid": "https://orcid.org/0000-0002-8485-6070"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210122910",
-              "display_name": "The Research Council",
-              "ror": "https://ror.org/03tcppy59",
-              "country_code": "OM",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "R Hird",
-          "raw_affiliation_strings": [
-            "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-8485-6070",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5007597150",
-            "display_name": "Mohammed Al Kindi",
-            "orcid": "https://orcid.org/0000-0002-8456-158X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210122910",
-              "display_name": "The Research Council",
-              "ror": "https://ror.org/03tcppy59",
-              "country_code": "OM",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "MH Al Kindi",
-          "raw_affiliation_strings": [
-            "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-8456-158X",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5063720304"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210122910"
-      ],
-      "apc_list": {
-        "value": 3490,
-        "currency": "USD",
-        "value_usd": 3490
-      },
-      "apc_paid": null,
-      "fwci": 1.2429,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.82262016,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 93,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "15",
-        "issue": "2",
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12624",
-        "display_name": "Maritime and Coastal Archaeology",
-        "score": 0.9980999827384949,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1204",
-          "display_name": "Archeology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/12",
-          "display_name": "Arts and Humanities"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12624",
-          "display_name": "Maritime and Coastal Archaeology",
-          "score": 0.9980999827384949,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1204",
-            "display_name": "Archeology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/12",
-            "display_name": "Arts and Humanities"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13372",
-          "display_name": "Archaeology and Historical Studies",
-          "score": 0.9962999820709229,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1204",
-            "display_name": "Archeology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/12",
-            "display_name": "Arts and Humanities"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T14047",
-          "display_name": "Marine and environmental studies",
-          "score": 0.991599977016449,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1910",
-            "display_name": "Oceanography"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/historical-geology",
-          "display_name": "Historical geology",
-          "score": 0.8246186971664429
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.748799741268158
-        },
-        {
-          "id": "https://openalex.org/keywords/landform",
-          "display_name": "Landform",
-          "score": 0.7233863472938538
-        },
-        {
-          "id": "https://openalex.org/keywords/quaternary",
-          "display_name": "Quaternary",
-          "score": 0.6947886347770691
-        },
-        {
-          "id": "https://openalex.org/keywords/natural",
-          "display_name": "Natural (archaeology)",
-          "score": 0.5610741376876831
-        },
-        {
-          "id": "https://openalex.org/keywords/alluvium",
-          "display_name": "Alluvium",
-          "score": 0.5479544997215271
-        },
-        {
-          "id": "https://openalex.org/keywords/alluvial-fan",
-          "display_name": "Alluvial fan",
-          "score": 0.5471623539924622
-        },
-        {
-          "id": "https://openalex.org/keywords/archaeology",
-          "display_name": "Archaeology",
-          "score": 0.5241872668266296
-        },
-        {
-          "id": "https://openalex.org/keywords/mining-engineering",
-          "display_name": "Mining engineering",
-          "score": 0.4535577595233917
-        },
-        {
-          "id": "https://openalex.org/keywords/cliff",
-          "display_name": "Cliff",
-          "score": 0.45076805353164673
-        },
-        {
-          "id": "https://openalex.org/keywords/sabkha",
-          "display_name": "Sabkha",
-          "score": 0.4134156405925751
-        },
-        {
-          "id": "https://openalex.org/keywords/biogeosciences",
-          "display_name": "Biogeosciences",
-          "score": 0.35230493545532227
-        },
-        {
-          "id": "https://openalex.org/keywords/earth-science",
-          "display_name": "Earth science",
-          "score": 0.3041333258152008
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.2531638443470001
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.1858406662940979
-        },
-        {
-          "id": "https://openalex.org/keywords/evaporite",
-          "display_name": "Evaporite",
-          "score": 0.1509048342704773
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.1435655653476715
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C194962172",
-          "wikidata": "https://www.wikidata.org/wiki/Q754590",
-          "display_name": "Historical geology",
-          "level": 3,
-          "score": 0.8246186971664429
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.748799741268158
-        },
-        {
-          "id": "https://openalex.org/C108497213",
-          "wikidata": "https://www.wikidata.org/wiki/Q271669",
-          "display_name": "Landform",
-          "level": 2,
-          "score": 0.7233863472938538
-        },
-        {
-          "id": "https://openalex.org/C160464908",
-          "wikidata": "https://www.wikidata.org/wiki/Q26185",
-          "display_name": "Quaternary",
-          "level": 2,
-          "score": 0.6947886347770691
-        },
-        {
-          "id": "https://openalex.org/C2776608160",
-          "wikidata": "https://www.wikidata.org/wiki/Q4785462",
-          "display_name": "Natural (archaeology)",
-          "level": 2,
-          "score": 0.5610741376876831
-        },
-        {
-          "id": "https://openalex.org/C69823785",
-          "wikidata": "https://www.wikidata.org/wiki/Q6185405",
-          "display_name": "Alluvium",
-          "level": 2,
-          "score": 0.5479544997215271
-        },
-        {
-          "id": "https://openalex.org/C32552466",
-          "wikidata": "https://www.wikidata.org/wiki/Q465088",
-          "display_name": "Alluvial fan",
-          "level": 3,
-          "score": 0.5471623539924622
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.5241872668266296
-        },
-        {
-          "id": "https://openalex.org/C16674752",
-          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
-          "display_name": "Mining engineering",
-          "level": 1,
-          "score": 0.4535577595233917
-        },
-        {
-          "id": "https://openalex.org/C164139821",
-          "wikidata": "https://www.wikidata.org/wiki/Q107679",
-          "display_name": "Cliff",
-          "level": 2,
-          "score": 0.45076805353164673
-        },
-        {
-          "id": "https://openalex.org/C186660238",
-          "wikidata": "https://www.wikidata.org/wiki/Q637600",
-          "display_name": "Sabkha",
-          "level": 4,
-          "score": 0.4134156405925751
-        },
-        {
-          "id": "https://openalex.org/C2776797426",
-          "wikidata": "https://www.wikidata.org/wiki/Q15755805",
-          "display_name": "Biogeosciences",
-          "level": 2,
-          "score": 0.35230493545532227
-        },
-        {
-          "id": "https://openalex.org/C1965285",
-          "wikidata": "https://www.wikidata.org/wiki/Q8008",
-          "display_name": "Earth science",
-          "level": 1,
-          "score": 0.3041333258152008
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.2531638443470001
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.1858406662940979
-        },
-        {
-          "id": "https://openalex.org/C34221334",
-          "wikidata": "https://www.wikidata.org/wiki/Q491689",
-          "display_name": "Evaporite",
-          "level": 3,
-          "score": 0.1509048342704773
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.1435655653476715
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/s12371-023-00827-8",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1007/s12371-023-00827-8",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S166478399",
-            "display_name": "Geoheritage",
-            "issn_l": "1867-2477",
-            "issn": [
-              "1867-2477",
-              "1867-2485"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310319900",
-            "host_organization_name": "Springer Science+Business Media",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319900",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Science+Business Media",
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geoheritage",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.550000011920929
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 36,
-      "referenced_works": [
-        "https://openalex.org/W567762552",
-        "https://openalex.org/W1508800270",
-        "https://openalex.org/W1956076603",
-        "https://openalex.org/W1972156743",
-        "https://openalex.org/W2016139699",
-        "https://openalex.org/W2019172217",
-        "https://openalex.org/W2020024443",
-        "https://openalex.org/W2020526247",
-        "https://openalex.org/W2024994324",
-        "https://openalex.org/W2047687736",
-        "https://openalex.org/W2058068703",
-        "https://openalex.org/W2091678437",
-        "https://openalex.org/W2115119368",
-        "https://openalex.org/W2118789860",
-        "https://openalex.org/W2133276191",
-        "https://openalex.org/W2143558021",
-        "https://openalex.org/W2313328025",
-        "https://openalex.org/W2319334749",
-        "https://openalex.org/W2322426009",
-        "https://openalex.org/W2323113291",
-        "https://openalex.org/W2324129155",
-        "https://openalex.org/W2330935816",
-        "https://openalex.org/W2333626658",
-        "https://openalex.org/W2335017992",
-        "https://openalex.org/W2340103835",
-        "https://openalex.org/W2464762345",
-        "https://openalex.org/W2511271942",
-        "https://openalex.org/W2749434136",
-        "https://openalex.org/W2909892947",
-        "https://openalex.org/W2952334966",
-        "https://openalex.org/W2986315259",
-        "https://openalex.org/W3044570711",
-        "https://openalex.org/W3048251238",
-        "https://openalex.org/W3098918182",
-        "https://openalex.org/W4232929225",
-        "https://openalex.org/W4249886930"
-      ],
-      "related_works": [
-        "https://openalex.org/W3097537538",
-        "https://openalex.org/W4285607215",
-        "https://openalex.org/W2382615120",
-        "https://openalex.org/W2264094452",
-        "https://openalex.org/W1974533245",
-        "https://openalex.org/W2236060121",
-        "https://openalex.org/W3006114869",
-        "https://openalex.org/W2757454324",
-        "https://openalex.org/W4366280974",
-        "https://openalex.org/W3022505649"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-05-21T06:26:12.895304",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5952,6 +5449,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310310987",
           "host_organization_name": "Multidisciplinary Digital Publishing Institute",
           "host_organization_lineage": [
@@ -6039,11 +5541,11 @@
         "currency": "CHF",
         "value_usd": 1267
       },
-      "fwci": 0.149,
+      "fwci": 0.1463,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.41538873,
+        "value": 0.40252658,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6422,6 +5924,11 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "norway-1"
+            ],
             "host_organization": "https://openalex.org/P4310310987",
             "host_organization_name": "Multidisciplinary Digital Publishing Institute",
             "host_organization_lineage": [
@@ -6453,6 +5960,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -6483,6 +5991,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310310987",
           "host_organization_name": "Multidisciplinary Digital Publishing Institute",
           "host_organization_lineage": [
@@ -6505,8 +6018,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3010622588.pdf",
@@ -7341,6 +6854,12 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "latindex"
+          ],
           "host_organization": "https://openalex.org/P4310321139",
           "host_organization_name": "Spanish National Research Council",
           "host_organization_lineage": [
@@ -7538,11 +7057,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.19,
+      "fwci": 0.9839,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.82983054,
+        "value": 0.79403257,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7688,6 +7207,12 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "jufo-1",
+              "latindex"
+            ],
             "host_organization": "https://openalex.org/P4310321139",
             "host_organization_name": "Spanish National Research Council",
             "host_organization_lineage": [
@@ -7719,6 +7244,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -7748,6 +7274,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -7779,6 +7306,12 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "latindex"
+          ],
           "host_organization": "https://openalex.org/P4310321139",
           "host_organization_name": "Spanish National Research Council",
           "host_organization_lineage": [
@@ -7799,9 +7332,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -7813,8 +7346,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386162512.pdf",
@@ -8002,6 +7535,580 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4366280974",
+      "doi": "https://doi.org/10.1007/s12371-023-00827-8",
+      "title": "Use of Quaternary Deposits in the Construction of Fortifications",
+      "display_name": "Use of Quaternary Deposits in the Construction of Fortifications",
+      "publication_year": 2023,
+      "publication_date": "2023-04-18",
+      "ids": {
+        "openalex": "https://openalex.org/W4366280974",
+        "doi": "https://doi.org/10.1007/s12371-023-00827-8"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/s12371-023-00827-8",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/s12371-023-00827-8",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S166478399",
+          "display_name": "Geoheritage",
+          "issn_l": "1867-2477",
+          "issn": [
+            "1867-2477",
+            "1867-2485"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geoheritage",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5063720304",
+            "display_name": "Robert Hird",
+            "orcid": "https://orcid.org/0000-0002-8485-6070"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210122910",
+              "display_name": "The Research Council",
+              "ror": "https://ror.org/03tcppy59",
+              "country_code": "OM",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210122910"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "R Hird",
+          "raw_affiliation_strings": [
+            "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-8485-6070",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210122910"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5007597150",
+            "display_name": "Mohammed Al Kindi",
+            "orcid": "https://orcid.org/0000-0002-8456-158X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210122910",
+              "display_name": "The Research Council",
+              "ror": "https://ror.org/03tcppy59",
+              "country_code": "OM",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210122910"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "MH Al Kindi",
+          "raw_affiliation_strings": [
+            "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-8456-158X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210122910"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5063720304"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210122910"
+      ],
+      "apc_list": {
+        "value": 3490,
+        "currency": "USD",
+        "value_usd": 3490
+      },
+      "apc_paid": null,
+      "fwci": 1.1577,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.81282867,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 93,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "15",
+        "issue": "2",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12624",
+        "display_name": "Maritime and Coastal Archaeology",
+        "score": 0.9980999827384949,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1204",
+          "display_name": "Archeology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12624",
+          "display_name": "Maritime and Coastal Archaeology",
+          "score": 0.9980999827384949,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1204",
+            "display_name": "Archeology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13372",
+          "display_name": "Archaeology and Historical Studies",
+          "score": 0.9962999820709229,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1204",
+            "display_name": "Archeology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14047",
+          "display_name": "Marine and environmental studies",
+          "score": 0.991599977016449,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1910",
+            "display_name": "Oceanography"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/historical-geology",
+          "display_name": "Historical geology",
+          "score": 0.8246186971664429
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.748799741268158
+        },
+        {
+          "id": "https://openalex.org/keywords/landform",
+          "display_name": "Landform",
+          "score": 0.7233863472938538
+        },
+        {
+          "id": "https://openalex.org/keywords/quaternary",
+          "display_name": "Quaternary",
+          "score": 0.6947886347770691
+        },
+        {
+          "id": "https://openalex.org/keywords/natural",
+          "display_name": "Natural (archaeology)",
+          "score": 0.5610741376876831
+        },
+        {
+          "id": "https://openalex.org/keywords/alluvium",
+          "display_name": "Alluvium",
+          "score": 0.5479544997215271
+        },
+        {
+          "id": "https://openalex.org/keywords/alluvial-fan",
+          "display_name": "Alluvial fan",
+          "score": 0.5471623539924622
+        },
+        {
+          "id": "https://openalex.org/keywords/archaeology",
+          "display_name": "Archaeology",
+          "score": 0.5241872668266296
+        },
+        {
+          "id": "https://openalex.org/keywords/mining-engineering",
+          "display_name": "Mining engineering",
+          "score": 0.4535577595233917
+        },
+        {
+          "id": "https://openalex.org/keywords/cliff",
+          "display_name": "Cliff",
+          "score": 0.45076805353164673
+        },
+        {
+          "id": "https://openalex.org/keywords/sabkha",
+          "display_name": "Sabkha",
+          "score": 0.4134156405925751
+        },
+        {
+          "id": "https://openalex.org/keywords/biogeosciences",
+          "display_name": "Biogeosciences",
+          "score": 0.35230493545532227
+        },
+        {
+          "id": "https://openalex.org/keywords/earth-science",
+          "display_name": "Earth science",
+          "score": 0.3041333258152008
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.2531638443470001
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.1858406662940979
+        },
+        {
+          "id": "https://openalex.org/keywords/evaporite",
+          "display_name": "Evaporite",
+          "score": 0.1509048342704773
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.1435655653476715
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C194962172",
+          "wikidata": "https://www.wikidata.org/wiki/Q754590",
+          "display_name": "Historical geology",
+          "level": 3,
+          "score": 0.8246186971664429
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.748799741268158
+        },
+        {
+          "id": "https://openalex.org/C108497213",
+          "wikidata": "https://www.wikidata.org/wiki/Q271669",
+          "display_name": "Landform",
+          "level": 2,
+          "score": 0.7233863472938538
+        },
+        {
+          "id": "https://openalex.org/C160464908",
+          "wikidata": "https://www.wikidata.org/wiki/Q26185",
+          "display_name": "Quaternary",
+          "level": 2,
+          "score": 0.6947886347770691
+        },
+        {
+          "id": "https://openalex.org/C2776608160",
+          "wikidata": "https://www.wikidata.org/wiki/Q4785462",
+          "display_name": "Natural (archaeology)",
+          "level": 2,
+          "score": 0.5610741376876831
+        },
+        {
+          "id": "https://openalex.org/C69823785",
+          "wikidata": "https://www.wikidata.org/wiki/Q6185405",
+          "display_name": "Alluvium",
+          "level": 2,
+          "score": 0.5479544997215271
+        },
+        {
+          "id": "https://openalex.org/C32552466",
+          "wikidata": "https://www.wikidata.org/wiki/Q465088",
+          "display_name": "Alluvial fan",
+          "level": 3,
+          "score": 0.5471623539924622
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.5241872668266296
+        },
+        {
+          "id": "https://openalex.org/C16674752",
+          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
+          "display_name": "Mining engineering",
+          "level": 1,
+          "score": 0.4535577595233917
+        },
+        {
+          "id": "https://openalex.org/C164139821",
+          "wikidata": "https://www.wikidata.org/wiki/Q107679",
+          "display_name": "Cliff",
+          "level": 2,
+          "score": 0.45076805353164673
+        },
+        {
+          "id": "https://openalex.org/C186660238",
+          "wikidata": "https://www.wikidata.org/wiki/Q637600",
+          "display_name": "Sabkha",
+          "level": 4,
+          "score": 0.4134156405925751
+        },
+        {
+          "id": "https://openalex.org/C2776797426",
+          "wikidata": "https://www.wikidata.org/wiki/Q15755805",
+          "display_name": "Biogeosciences",
+          "level": 2,
+          "score": 0.35230493545532227
+        },
+        {
+          "id": "https://openalex.org/C1965285",
+          "wikidata": "https://www.wikidata.org/wiki/Q8008",
+          "display_name": "Earth science",
+          "level": 1,
+          "score": 0.3041333258152008
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.2531638443470001
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.1858406662940979
+        },
+        {
+          "id": "https://openalex.org/C34221334",
+          "wikidata": "https://www.wikidata.org/wiki/Q491689",
+          "display_name": "Evaporite",
+          "level": 3,
+          "score": 0.1509048342704773
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.1435655653476715
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/s12371-023-00827-8",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/s12371-023-00827-8",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S166478399",
+            "display_name": "Geoheritage",
+            "issn_l": "1867-2477",
+            "issn": [
+              "1867-2477",
+              "1867-2485"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geoheritage",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.550000011920929,
+          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 36,
+      "referenced_works": [
+        "https://openalex.org/W567762552",
+        "https://openalex.org/W1508800270",
+        "https://openalex.org/W1956076603",
+        "https://openalex.org/W1972156743",
+        "https://openalex.org/W2016139699",
+        "https://openalex.org/W2019172217",
+        "https://openalex.org/W2020024443",
+        "https://openalex.org/W2020526247",
+        "https://openalex.org/W2024994324",
+        "https://openalex.org/W2047687736",
+        "https://openalex.org/W2058068703",
+        "https://openalex.org/W2091678437",
+        "https://openalex.org/W2115119368",
+        "https://openalex.org/W2118789860",
+        "https://openalex.org/W2133276191",
+        "https://openalex.org/W2143558021",
+        "https://openalex.org/W2313328025",
+        "https://openalex.org/W2319334749",
+        "https://openalex.org/W2322426009",
+        "https://openalex.org/W2323113291",
+        "https://openalex.org/W2324129155",
+        "https://openalex.org/W2330935816",
+        "https://openalex.org/W2333626658",
+        "https://openalex.org/W2335017992",
+        "https://openalex.org/W2340103835",
+        "https://openalex.org/W2464762345",
+        "https://openalex.org/W2511271942",
+        "https://openalex.org/W2749434136",
+        "https://openalex.org/W2909892947",
+        "https://openalex.org/W2952334966",
+        "https://openalex.org/W2986315259",
+        "https://openalex.org/W3044570711",
+        "https://openalex.org/W3048251238",
+        "https://openalex.org/W3098918182",
+        "https://openalex.org/W4232929225",
+        "https://openalex.org/W4249886930"
+      ],
+      "related_works": [
+        "https://openalex.org/W3097537538",
+        "https://openalex.org/W4285607215",
+        "https://openalex.org/W2382615120",
+        "https://openalex.org/W2264094452",
+        "https://openalex.org/W1974533245",
+        "https://openalex.org/W2236060121",
+        "https://openalex.org/W3006114869",
+        "https://openalex.org/W2757454324",
+        "https://openalex.org/W4366280974",
+        "https://openalex.org/W3022505649"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-08-28T12:50:07.497085",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4383343323",
       "doi": "https://doi.org/10.1007/s12517-023-11546-3",
       "title": "Fire-set mining in an ancient lead mine: Khaf Al Laasif, Al ‘Āmrāt, Oman",
@@ -8029,6 +8136,9 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
           "host_organization_lineage": [
@@ -8162,11 +8272,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.0804,
+      "fwci": 0.0782,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.31979239,
+        "value": 0.30519628,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8410,6 +8520,9 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
             "host_organization_lineage": [
@@ -8434,16 +8547,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.47999998927116394
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -8515,6 +8628,9 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
           "host_organization_lineage": [
@@ -8678,7 +8794,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.10200121,
+        "value": 0.10263703,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8938,6 +9054,9 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
             "host_organization_lineage": [
@@ -8962,16 +9081,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.46000000834465027
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -9474,16 +9593,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.45413655042648315,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.45413655042648315
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10315,16 +10434,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.45413655042648315,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.45413655042648315
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10727,6 +10846,12 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310320547",
           "host_organization_name": "Taylor & Francis",
           "host_organization_lineage": [
@@ -11045,7 +11170,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.44008545,
+        "value": 0.39303305,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11241,6 +11366,12 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": "https://openalex.org/P4310320547",
             "host_organization_name": "Taylor & Francis",
             "host_organization_lineage": [
@@ -11274,6 +11405,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I189158943",
             "host_organization_name": "University of Milan",
             "host_organization_lineage": [
@@ -11303,6 +11435,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -11333,6 +11466,12 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310320547",
           "host_organization_name": "Taylor & Francis",
           "host_organization_lineage": [
@@ -11373,8 +11512,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7155534781.pdf",
@@ -11833,6 +11972,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310320595",
           "host_organization_name": "Wiley",
           "host_organization_lineage": [
@@ -12056,7 +12200,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.43738899,
+        "value": 0.4140625,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12371,6 +12515,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": "https://openalex.org/P4310320595",
             "host_organization_name": "Wiley",
             "host_organization_lineage": [
@@ -12406,6 +12555,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310320595",
           "host_organization_name": "Wiley",
           "host_organization_lineage": [
@@ -12426,16 +12580,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.5195932388305664,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5195932388305664
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -13403,8 +13557,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14215,8 +14369,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

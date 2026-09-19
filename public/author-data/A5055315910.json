@@ -16,7 +16,7 @@
     ],
     "full_name": "Geraint Wyn ap Gwilym Hughes",
     "works_count": 28,
-    "cited_by_count": 576,
+    "cited_by_count": 577,
     "summary_stats": {
       "2yr_mean_citedness": 2,
       "h_index": 12,
@@ -368,7 +368,7 @@
         "year": 2008,
         "works_count": 4,
         "oa_works_count": 1,
-        "cited_by_count": 106
+        "cited_by_count": 107
       },
       {
         "year": 2010,
@@ -438,7 +438,7 @@
     ],
     "block_key": "g hughes",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5055315910",
-    "updated_date": "2026-09-17T12:20:00",
+    "updated_date": "2026-09-18T12:19:03",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -470,6 +470,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -520,11 +525,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2831,
+      "fwci": 2.1464,
       "has_fulltext": false,
       "cited_by_count": 131,
       "citation_normalized_percentile": {
-        "value": 0.89631591,
+        "value": 0.88860729,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -839,6 +844,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -869,6 +879,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -885,16 +900,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2944267028.pdf"
@@ -2306,9 +2321,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -2320,8 +2335,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -2447,6 +2462,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -2521,11 +2541,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.263,
+      "fwci": 5.5335,
       "has_fulltext": false,
       "cited_by_count": 72,
       "citation_normalized_percentile": {
-        "value": 0.95757576,
+        "value": 0.96006437,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2818,6 +2838,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -2848,6 +2873,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -2864,16 +2894,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -3892,7 +3922,9 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
-            "cwts-core"
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
           ],
           "host_organization": null,
           "host_organization_name": null,
@@ -3972,11 +4004,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4673,
+      "fwci": 1.4664,
       "has_fulltext": false,
       "cited_by_count": 53,
       "citation_normalized_percentile": {
-        "value": 0.85958957,
+        "value": 0.85955706,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4306,7 +4338,9 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
-              "cwts-core"
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
             ],
             "host_organization": null,
             "host_organization_name": null,
@@ -4339,7 +4373,9 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
-            "cwts-core"
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
           ],
           "host_organization": null,
           "host_organization_name": null,
@@ -4357,16 +4393,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -5887,16 +5923,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6299999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -6726,6 +6762,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-3",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
@@ -7153,11 +7194,11 @@
         "value_usd": 3150
       },
       "apc_paid": null,
-      "fwci": 2.7101,
+      "fwci": 2.6566,
       "has_fulltext": false,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.89958238,
+        "value": 0.89730469,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7449,6 +7490,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-3",
+              "norway-1"
+            ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
             "host_organization_lineage": [
@@ -7471,9 +7517,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -7500,8 +7546,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 146,
@@ -7719,6 +7765,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4360969446",
           "host_organization_name": "Micropaleontology Press",
           "host_organization_lineage": [
@@ -7773,11 +7824,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5382,
+      "fwci": 2.5342,
       "has_fulltext": false,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.90665375,
+        "value": 0.90664079,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8155,6 +8206,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": "https://openalex.org/P4360969446",
             "host_organization_name": "Micropaleontology Press",
             "host_organization_lineage": [
@@ -8177,16 +8233,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -8985,6 +9041,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -9035,11 +9096,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0334,
+      "fwci": 0.8774,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.83458976,
+        "value": 0.80348404,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9318,6 +9379,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -9348,6 +9414,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -9364,16 +9435,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 110,
@@ -10200,6 +10271,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -10250,11 +10326,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.493,
+      "fwci": 1.2894,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.84493203,
+        "value": 0.81933501,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10533,6 +10609,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -10563,6 +10644,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -10579,16 +10665,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1531273367.pdf"
@@ -11911,6 +11997,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -11954,23 +12045,23 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5055315910"
       ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.498,
+      "fwci": 0.4181,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.80271393,
+        "value": 0.76507501,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 98
       },
       "biblio": {
@@ -12232,6 +12323,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -12262,6 +12358,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -12278,16 +12379,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2984433358.pdf"
@@ -12719,1127 +12820,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4288831739",
-      "doi": "https://doi.org/10.47894/mpal.65.4.06",
-      "title": "Turonian microcrinoids from the lower Aruma Formation of Saudi Arabia",
-      "display_name": "Turonian microcrinoids from the lower Aruma Formation of Saudi Arabia",
-      "publication_year": 2019,
-      "publication_date": "2019-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W4288831739",
-        "doi": "https://doi.org/10.47894/mpal.65.4.06"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.47894/mpal.65.4.06",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.47894/mpal.65.4.06",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S173197029",
-          "display_name": "Micropaleontology",
-          "issn_l": "0026-2803",
-          "issn": [
-            "0026-2803",
-            "1937-2795"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4360969446",
-          "host_organization_name": "Micropaleontology Press",
-          "host_organization_lineage": [
-            "https://openalex.org/P4360969446"
-          ],
-          "host_organization_lineage_names": [
-            "Micropaleontology Press"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Micropaleontology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5055315910",
-            "display_name": "Geraint W. Hughes",
-            "orcid": "https://orcid.org/0000-0002-7791-5677"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Geraint Wyn Hughes",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5055315910"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.0854,
-      "has_fulltext": false,
-      "cited_by_count": 4,
-      "citation_normalized_percentile": {
-        "value": 0.5070647,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "65",
-        "issue": "4",
-        "first_page": "357",
-        "last_page": "377"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11879",
-        "display_name": "Protist diversity and phylogeny",
-        "score": 0.9958999752998352,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1312",
-          "display_name": "Molecular Biology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/13",
-          "display_name": "Biochemistry, Genetics and Molecular Biology"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/1",
-          "display_name": "Life Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11879",
-          "display_name": "Protist diversity and phylogeny",
-          "score": 0.9958999752998352,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1312",
-            "display_name": "Molecular Biology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/13",
-            "display_name": "Biochemistry, Genetics and Molecular Biology"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/1",
-            "display_name": "Life Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11791",
-          "display_name": "Microbial Community Ecology and Physiology",
-          "score": 0.9933000206947327,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2303",
-            "display_name": "Ecology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10032",
-          "display_name": "Marine and coastal ecosystems",
-          "score": 0.9904000163078308,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1910",
-            "display_name": "Oceanography"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/foraminifera",
-          "display_name": "Foraminifera",
-          "score": 0.862119197845459
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.594629168510437
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.5877131819725037
-        },
-        {
-          "id": "https://openalex.org/keywords/cenomanian",
-          "display_name": "Cenomanian",
-          "score": 0.5323092937469482
-        },
-        {
-          "id": "https://openalex.org/keywords/genus",
-          "display_name": "Genus",
-          "score": 0.4986536502838135
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.445403516292572
-        },
-        {
-          "id": "https://openalex.org/keywords/aptian",
-          "display_name": "Aptian",
-          "score": 0.42772817611694336
-        },
-        {
-          "id": "https://openalex.org/keywords/biology",
-          "display_name": "Biology",
-          "score": 0.3017253875732422
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.2574138045310974
-        },
-        {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.2542506456375122
-        },
-        {
-          "id": "https://openalex.org/keywords/ecology",
-          "display_name": "Ecology",
-          "score": 0.24119114875793457
-        },
-        {
-          "id": "https://openalex.org/keywords/benthic-zone",
-          "display_name": "Benthic zone",
-          "score": 0.1931053102016449
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2780368712",
-          "wikidata": "https://www.wikidata.org/wiki/Q107027",
-          "display_name": "Foraminifera",
-          "level": 3,
-          "score": 0.862119197845459
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.594629168510437
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.5877131819725037
-        },
-        {
-          "id": "https://openalex.org/C27543578",
-          "wikidata": "https://www.wikidata.org/wiki/Q185567",
-          "display_name": "Cenomanian",
-          "level": 3,
-          "score": 0.5323092937469482
-        },
-        {
-          "id": "https://openalex.org/C157369684",
-          "wikidata": "https://www.wikidata.org/wiki/Q34740",
-          "display_name": "Genus",
-          "level": 2,
-          "score": 0.4986536502838135
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.445403516292572
-        },
-        {
-          "id": "https://openalex.org/C189473229",
-          "wikidata": "https://www.wikidata.org/wiki/Q622265",
-          "display_name": "Aptian",
-          "level": 3,
-          "score": 0.42772817611694336
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0.3017253875732422
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.2574138045310974
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.2542506456375122
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.24119114875793457
-        },
-        {
-          "id": "https://openalex.org/C83042747",
-          "wikidata": "https://www.wikidata.org/wiki/Q686881",
-          "display_name": "Benthic zone",
-          "level": 2,
-          "score": 0.1931053102016449
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.47894/mpal.65.4.06",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.47894/mpal.65.4.06",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S173197029",
-            "display_name": "Micropaleontology",
-            "issn_l": "0026-2803",
-            "issn": [
-              "0026-2803",
-              "1937-2795"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4360969446",
-            "host_organization_name": "Micropaleontology Press",
-            "host_organization_lineage": [
-              "https://openalex.org/P4360969446"
-            ],
-            "host_organization_lineage_names": [
-              "Micropaleontology Press"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Micropaleontology",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 0.8999999761581421,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W3113645116",
-        "https://openalex.org/W6484223",
-        "https://openalex.org/W4387869244",
-        "https://openalex.org/W2097146919",
-        "https://openalex.org/W2089892750",
-        "https://openalex.org/W2059700264",
-        "https://openalex.org/W3184723238",
-        "https://openalex.org/W2185542213",
-        "https://openalex.org/W2892294666",
-        "https://openalex.org/W3186425488"
-      ],
-      "abstract_inverted_index": {
-        "1989": [
-          62
-        ],
-        "Pelagic": [
-          0
-        ],
-        "microcrinoids": [
-          1
-        ],
-        "assigned": [
-          2
-        ],
-        "to": [
-          3,
-          130,
-          175,
-          192,
-          300
-        ],
-        "the": [
-          4,
-          13,
-          22,
-          30,
-          73,
-          86,
-          106,
-          183,
-          228,
-          246,
-          252,
-          261,
-          271,
-          275,
-          280,
-          305
-        ],
-        "genus": [
-          5
-        ],
-        "Roveacrinus": [
-          6,
-          36,
-          41,
-          43,
-          47,
-          50,
-          55,
-          58,
-          64,
-          109
-        ],
-        "identified": [
-          7
-        ],
-        "in": [
-          8,
-          29,
-          85,
-          198,
-          298
-        ],
-        "thin-sections": [
-          9
-        ],
-        "of": [
-          10,
-          12,
-          18,
-          26,
-          75,
-          88,
-          113,
-          245,
-          251,
-          260,
-          263,
-          278
-        ],
-        "carbonates": [
-          11
-        ],
-        "Turonian": [
-          14,
-          68
-        ],
-        "lower": [
-          15
-        ],
-        "Aruma": [
-          16,
-          253,
-          276,
-          282
-        ],
-        "Formation": [
-          17,
-          254,
-          273
-        ],
-        "Saudi": [
-          19
-        ],
-        "Arabia": [
-          20
-        ],
-        "provide": [
-          21
-        ],
-        "first": [
-          23
-        ],
-        "documented": [
-          24
-        ],
-        "occurrence": [
-          25
-        ],
-        "these": [
-          27,
-          189
-        ],
-        "microfossils": [
-          28,
-          206
-        ],
-        "Arabian": [
-          31
-        ],
-        "Peninsula.": [
-          32
-        ],
-        "The": [
-          33,
-          67,
-          103,
-          289
-        ],
-        "species": [
-          34,
-          185
-        ],
-        "include": [
-          35,
-          166,
-          178
-        ],
-        "cf.": [
-          37,
-          48,
-          65
-        ],
-        "alatus": [
-          38
-        ],
-        "Douglas": [
-          39,
-          53
-        ],
-        "1908,": [
-          40,
-          54
-        ],
-        "sp.,": [
-          42
-        ],
-        "geinitzi": [
-          44,
-          60
-        ],
-        "Schneider": [
-          45,
-          61
-        ],
-        "1989,": [
-          46
-        ],
-        "geinitzi,": [
-          49
-        ],
-        "aff.": [
-          51,
-          59
-        ],
-        "rugosus": [
-          52
-        ],
-        "sp.": [
-          56
-        ],
-        "A.,": [
-          57
-        ],
-        "and": [
-          63,
-          82,
-          125,
-          134,
-          141,
-          169,
-          188,
-          231,
-          234,
-          248
-        ],
-        "derdereensis.": [
-          66
-        ],
-        "range": [
-          69
-        ],
-        "is": [
-          70,
-          223
-        ],
-        "based": [
-          71
-        ],
-        "on": [
-          72
-        ],
-        "presence": [
-          74
-        ],
-        "planktonic": [
-          76,
-          132,
-          210
-        ],
-        "foraminifera": [
-          77,
-          133,
-          137
-        ],
-        "Heterohelix": [
-          78,
-          167
-        ],
-        "moremanni,": [
-          79
-        ],
-        "H.": [
-          80,
-          176
-        ],
-        "globulosa": [
-          81
-        ],
-        "Marginotruncana": [
-          83
-        ],
-        "sigali": [
-          84
-        ],
-        "absence": [
-          87
-        ],
-        "Rotalipora": [
-          89
-        ],
-        "spp.,": [
-          90
-        ],
-        "although": [
-          91,
-          221
-        ],
-        "possible": [
-          92,
-          302
-        ],
-        "Cenomanian": [
-          93,
-          184,
-          258
-        ],
-        "forms": [
-          94,
-          170
-        ],
-        "are": [
-          95
-        ],
-        "present": [
-          96
-        ],
-        "within": [
-          97,
-          146
-        ],
-        "one": [
-          98
-        ],
-        "deep": [
-          99,
-          152,
-          286
-        ],
-        "marine": [
-          100,
-          153,
-          163,
-          287
-        ],
-        "microfacies": [
-          101
-        ],
-        "assemblage.": [
-          102
-        ],
-        "biofacies": [
-          104
-        ],
-        "containing": [
-          105
-        ],
-        "often": [
-          107
-        ],
-        "abundant": [
-          108,
-          114
-        ],
-        "fragments": [
-          110,
-          238
-        ],
-        "consists": [
-          111
-        ],
-        "typically": [
-          112
-        ],
-        "calcareous": [
-          115,
-          243
-        ],
-        "dinoflagellate": [
-          116
-        ],
-        "cysts": [
-          117
-        ],
-        "Calcisphaerula": [
-          118
-        ],
-        "innominata": [
-          119
-        ],
-        "with": [
-          120,
-          156,
-          182,
-          204,
-          304
-        ],
-        "less": [
-          121
-        ],
-        "common": [
-          122,
-          131
-        ],
-        "Pithonella": [
-          123
-        ],
-        "ovalis,": [
-          124
-        ],
-        "rare": [
-          126,
-          129,
-          135
-        ],
-        "Bonitocardiella": [
-          127
-        ],
-        "conica,": [
-          128
-        ],
-        "benthonic": [
-          136
-        ],
-        "including": [
-          138
-        ],
-        "Marssonella": [
-          139
-        ],
-        "turris": [
-          140
-        ],
-        "Gavelinella": [
-          142
-        ],
-        "spp.": [
-          143
-        ],
-        "This": [
-          144
-        ],
-        "assemblage,": [
-          145
-        ],
-        "very": [
-          147
-        ],
-        "fine-grained": [
-          148
-        ],
-        "packstones,": [
-          149
-        ],
-        "suggests": [
-          150
-        ],
-        "a": [
-          151,
-          209,
-          212,
-          224,
-          284
-        ],
-        "depositional": [
-          154
-        ],
-        "environment": [
-          155
-        ],
-        "low": [
-          157
-        ],
-        "energy,": [
-          158
-        ],
-        "normal": [
-          159
-        ],
-        "salinity": [
-          160
-        ],
-        "conditions.": [
-          161
-        ],
-        "Deep": [
-          162
-        ],
-        "sediments,": [
-          164
-        ],
-        "that": [
-          165,
-          171,
-          180,
-          255
-        ],
-        "moremanni": [
-          168
-        ],
-        "may": [
-          172,
-          190
-        ],
-        "be": [
-          173,
-          193
-        ],
-        "transitional": [
-          174
-        ],
-        "globulosa,": [
-          177
-        ],
-        "roveacrinids": [
-          179
-        ],
-        "compare": [
-          181
-        ],
-        "R.": [
-          186
-        ],
-        "derdereensis": [
-          187
-        ],
-        "prove": [
-          191
-        ],
-        "supplementary": [
-          194
-        ],
-        "useful": [
-          195
-        ],
-        "age": [
-          196
-        ],
-        "indicators": [
-          197
-        ],
-        "such": [
-          199
-        ],
-        "environments.": [
-          200
-        ],
-        "Although": [
-          201
-        ],
-        "their": [
-          202,
-          301
-        ],
-        "association": [
-          203,
-          226
-        ],
-        "pelagic": [
-          205
-        ],
-        "would": [
-          207
-        ],
-        "suggest": [
-          208
-        ],
-        "lifestyle,": [
-          211
-        ],
-        "definite": [
-          213
-        ],
-        "paleoenvironmental": [
-          214
-        ],
-        "interpretation": [
-          215
-        ],
-        "seems": [
-          216
-        ],
-        "elusive": [
-          217
-        ],
-        "by": [
-          218
-        ],
-        "most": [
-          219
-        ],
-        "authors": [
-          220
-        ],
-        "there": [
-          222
-        ],
-        "direct": [
-          225
-        ],
-        "between": [
-          227
-        ],
-        "roveacrinoid": [
-          229
-        ],
-        "abundance": [
-          230
-        ],
-        "flooding": [
-          232
-        ],
-        "surfaces": [
-          233
-        ],
-        "high-productivity": [
-          235
-        ],
-        "events.": [
-          236
-        ],
-        "Roveacrinid": [
-          237
-        ],
-        "have": [
-          239
-        ],
-        "been": [
-          240
-        ],
-        "recovered": [
-          241
-        ],
-        "from": [
-          242,
-          274
-        ],
-        "mudstones": [
-          244
-        ],
-        "Ruwaydha": [
-          247
-        ],
-        "Tuwayil": [
-          249
-        ],
-        "members": [
-          250
-        ],
-        "overlie": [
-          256
-        ],
-        "upper": [
-          257
-        ],
-        "grainstones": [
-          259
-        ],
-        "MishrifMember": [
-          262
-        ],
-        "theWasia": [
-          264
-        ],
-        "Formation.": [
-          265
-        ],
-        "A": [
-          266
-        ],
-        "regionally": [
-          267,
-          295
-        ],
-        "significant": [
-          268,
-          285
-        ],
-        "unconformity": [
-          269
-        ],
-        "separates": [
-          270
-        ],
-        "Mishrif": [
-          272
-        ],
-        "Formation,": [
-          277
-        ],
-        "which": [
-          279
-        ],
-        "basal": [
-          281
-        ],
-        "represents": [
-          283
-        ],
-        "transgression.": [
-          288
-        ],
-        "episodic": [
-          290
-        ],
-        "microcrinoid": [
-          291
-        ],
-        "distribution": [
-          292
-        ],
-        "potentially": [
-          293
-        ],
-        "provides": [
-          294
-        ],
-        "correlative": [
-          296
-        ],
-        "bioevents": [
-          297
-        ],
-        "addition": [
-          299
-        ],
-        "relationship": [
-          303
-        ],
-        "oceanic": [
-          306
-        ],
-        "anoxic": [
-          307
-        ],
-        "event": [
-          308
-        ],
-        "OAE": [
-          309
-        ],
-        "2.": [
-          310
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-05-21T06:26:12.895304",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W1972254595",
       "doi": "https://doi.org/10.1016/0899-5362(96)00035-8",
       "title": "Late cretaceous to recent palaeoenvironments of the Saudi Arabian Red Sea",
@@ -14267,16 +13247,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -14678,16 +13658,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6700000166893005,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6700000166893005
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15437,8 +14417,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 103,
@@ -16337,9 +15317,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -16351,8 +15331,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -16428,6 +15408,1137 @@
         }
       ],
       "updated_date": "2026-08-21T09:56:20.448147",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4288831739",
+      "doi": "https://doi.org/10.47894/mpal.65.4.06",
+      "title": "Turonian microcrinoids from the lower Aruma Formation of Saudi Arabia",
+      "display_name": "Turonian microcrinoids from the lower Aruma Formation of Saudi Arabia",
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4288831739",
+        "doi": "https://doi.org/10.47894/mpal.65.4.06"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.47894/mpal.65.4.06",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.47894/mpal.65.4.06",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S173197029",
+          "display_name": "Micropaleontology",
+          "issn_l": "0026-2803",
+          "issn": [
+            "0026-2803",
+            "1937-2795"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4360969446",
+          "host_organization_name": "Micropaleontology Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4360969446"
+          ],
+          "host_organization_lineage_names": [
+            "Micropaleontology Press"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Micropaleontology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5055315910",
+            "display_name": "Geraint W. Hughes",
+            "orcid": "https://orcid.org/0000-0002-7791-5677"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Geraint Wyn Hughes",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5055315910"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0777,
+      "has_fulltext": false,
+      "cited_by_count": 4,
+      "citation_normalized_percentile": {
+        "value": 0.4513362,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "65",
+        "issue": "4",
+        "first_page": "357",
+        "last_page": "377"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11879",
+        "display_name": "Protist diversity and phylogeny",
+        "score": 0.9958999752998352,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1312",
+          "display_name": "Molecular Biology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/13",
+          "display_name": "Biochemistry, Genetics and Molecular Biology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11879",
+          "display_name": "Protist diversity and phylogeny",
+          "score": 0.9958999752998352,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1312",
+            "display_name": "Molecular Biology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/13",
+            "display_name": "Biochemistry, Genetics and Molecular Biology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11791",
+          "display_name": "Microbial Community Ecology and Physiology",
+          "score": 0.9933000206947327,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2303",
+            "display_name": "Ecology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10032",
+          "display_name": "Marine and coastal ecosystems",
+          "score": 0.9904000163078308,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1910",
+            "display_name": "Oceanography"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/foraminifera",
+          "display_name": "Foraminifera",
+          "score": 0.862119197845459
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.594629168510437
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.5877131819725037
+        },
+        {
+          "id": "https://openalex.org/keywords/cenomanian",
+          "display_name": "Cenomanian",
+          "score": 0.5323092937469482
+        },
+        {
+          "id": "https://openalex.org/keywords/genus",
+          "display_name": "Genus",
+          "score": 0.4986536502838135
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
+          "display_name": "Sedimentary depositional environment",
+          "score": 0.445403516292572
+        },
+        {
+          "id": "https://openalex.org/keywords/aptian",
+          "display_name": "Aptian",
+          "score": 0.42772817611694336
+        },
+        {
+          "id": "https://openalex.org/keywords/biology",
+          "display_name": "Biology",
+          "score": 0.3017253875732422
+        },
+        {
+          "id": "https://openalex.org/keywords/oceanography",
+          "display_name": "Oceanography",
+          "score": 0.2574138045310974
+        },
+        {
+          "id": "https://openalex.org/keywords/cretaceous",
+          "display_name": "Cretaceous",
+          "score": 0.2542506456375122
+        },
+        {
+          "id": "https://openalex.org/keywords/ecology",
+          "display_name": "Ecology",
+          "score": 0.24119114875793457
+        },
+        {
+          "id": "https://openalex.org/keywords/benthic-zone",
+          "display_name": "Benthic zone",
+          "score": 0.1931053102016449
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2780368712",
+          "wikidata": "https://www.wikidata.org/wiki/Q107027",
+          "display_name": "Foraminifera",
+          "level": 3,
+          "score": 0.862119197845459
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.594629168510437
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.5877131819725037
+        },
+        {
+          "id": "https://openalex.org/C27543578",
+          "wikidata": "https://www.wikidata.org/wiki/Q185567",
+          "display_name": "Cenomanian",
+          "level": 3,
+          "score": 0.5323092937469482
+        },
+        {
+          "id": "https://openalex.org/C157369684",
+          "wikidata": "https://www.wikidata.org/wiki/Q34740",
+          "display_name": "Genus",
+          "level": 2,
+          "score": 0.4986536502838135
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.445403516292572
+        },
+        {
+          "id": "https://openalex.org/C189473229",
+          "wikidata": "https://www.wikidata.org/wiki/Q622265",
+          "display_name": "Aptian",
+          "level": 3,
+          "score": 0.42772817611694336
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.3017253875732422
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.2574138045310974
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.2542506456375122
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.24119114875793457
+        },
+        {
+          "id": "https://openalex.org/C83042747",
+          "wikidata": "https://www.wikidata.org/wiki/Q686881",
+          "display_name": "Benthic zone",
+          "level": 2,
+          "score": 0.1931053102016449
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.47894/mpal.65.4.06",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.47894/mpal.65.4.06",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S173197029",
+            "display_name": "Micropaleontology",
+            "issn_l": "0026-2803",
+            "issn": [
+              "0026-2803",
+              "1937-2795"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4360969446",
+            "host_organization_name": "Micropaleontology Press",
+            "host_organization_lineage": [
+              "https://openalex.org/P4360969446"
+            ],
+            "host_organization_lineage_names": [
+              "Micropaleontology Press"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Micropaleontology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
+          "score": 0.8999999761581421
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W3113645116",
+        "https://openalex.org/W6484223",
+        "https://openalex.org/W4387869244",
+        "https://openalex.org/W2097146919",
+        "https://openalex.org/W2089892750",
+        "https://openalex.org/W2059700264",
+        "https://openalex.org/W3184723238",
+        "https://openalex.org/W2185542213",
+        "https://openalex.org/W2892294666",
+        "https://openalex.org/W3186425488"
+      ],
+      "abstract_inverted_index": {
+        "1989": [
+          62
+        ],
+        "Pelagic": [
+          0
+        ],
+        "microcrinoids": [
+          1
+        ],
+        "assigned": [
+          2
+        ],
+        "to": [
+          3,
+          130,
+          175,
+          192,
+          300
+        ],
+        "the": [
+          4,
+          13,
+          22,
+          30,
+          73,
+          86,
+          106,
+          183,
+          228,
+          246,
+          252,
+          261,
+          271,
+          275,
+          280,
+          305
+        ],
+        "genus": [
+          5
+        ],
+        "Roveacrinus": [
+          6,
+          36,
+          41,
+          43,
+          47,
+          50,
+          55,
+          58,
+          64,
+          109
+        ],
+        "identified": [
+          7
+        ],
+        "in": [
+          8,
+          29,
+          85,
+          198,
+          298
+        ],
+        "thin-sections": [
+          9
+        ],
+        "of": [
+          10,
+          12,
+          18,
+          26,
+          75,
+          88,
+          113,
+          245,
+          251,
+          260,
+          263,
+          278
+        ],
+        "carbonates": [
+          11
+        ],
+        "Turonian": [
+          14,
+          68
+        ],
+        "lower": [
+          15
+        ],
+        "Aruma": [
+          16,
+          253,
+          276,
+          282
+        ],
+        "Formation": [
+          17,
+          254,
+          273
+        ],
+        "Saudi": [
+          19
+        ],
+        "Arabia": [
+          20
+        ],
+        "provide": [
+          21
+        ],
+        "first": [
+          23
+        ],
+        "documented": [
+          24
+        ],
+        "occurrence": [
+          25
+        ],
+        "these": [
+          27,
+          189
+        ],
+        "microfossils": [
+          28,
+          206
+        ],
+        "Arabian": [
+          31
+        ],
+        "Peninsula.": [
+          32
+        ],
+        "The": [
+          33,
+          67,
+          103,
+          289
+        ],
+        "species": [
+          34,
+          185
+        ],
+        "include": [
+          35,
+          166,
+          178
+        ],
+        "cf.": [
+          37,
+          48,
+          65
+        ],
+        "alatus": [
+          38
+        ],
+        "Douglas": [
+          39,
+          53
+        ],
+        "1908,": [
+          40,
+          54
+        ],
+        "sp.,": [
+          42
+        ],
+        "geinitzi": [
+          44,
+          60
+        ],
+        "Schneider": [
+          45,
+          61
+        ],
+        "1989,": [
+          46
+        ],
+        "geinitzi,": [
+          49
+        ],
+        "aff.": [
+          51,
+          59
+        ],
+        "rugosus": [
+          52
+        ],
+        "sp.": [
+          56
+        ],
+        "A.,": [
+          57
+        ],
+        "and": [
+          63,
+          82,
+          125,
+          134,
+          141,
+          169,
+          188,
+          231,
+          234,
+          248
+        ],
+        "derdereensis.": [
+          66
+        ],
+        "range": [
+          69
+        ],
+        "is": [
+          70,
+          223
+        ],
+        "based": [
+          71
+        ],
+        "on": [
+          72
+        ],
+        "presence": [
+          74
+        ],
+        "planktonic": [
+          76,
+          132,
+          210
+        ],
+        "foraminifera": [
+          77,
+          133,
+          137
+        ],
+        "Heterohelix": [
+          78,
+          167
+        ],
+        "moremanni,": [
+          79
+        ],
+        "H.": [
+          80,
+          176
+        ],
+        "globulosa": [
+          81
+        ],
+        "Marginotruncana": [
+          83
+        ],
+        "sigali": [
+          84
+        ],
+        "absence": [
+          87
+        ],
+        "Rotalipora": [
+          89
+        ],
+        "spp.,": [
+          90
+        ],
+        "although": [
+          91,
+          221
+        ],
+        "possible": [
+          92,
+          302
+        ],
+        "Cenomanian": [
+          93,
+          184,
+          258
+        ],
+        "forms": [
+          94,
+          170
+        ],
+        "are": [
+          95
+        ],
+        "present": [
+          96
+        ],
+        "within": [
+          97,
+          146
+        ],
+        "one": [
+          98
+        ],
+        "deep": [
+          99,
+          152,
+          286
+        ],
+        "marine": [
+          100,
+          153,
+          163,
+          287
+        ],
+        "microfacies": [
+          101
+        ],
+        "assemblage.": [
+          102
+        ],
+        "biofacies": [
+          104
+        ],
+        "containing": [
+          105
+        ],
+        "often": [
+          107
+        ],
+        "abundant": [
+          108,
+          114
+        ],
+        "fragments": [
+          110,
+          238
+        ],
+        "consists": [
+          111
+        ],
+        "typically": [
+          112
+        ],
+        "calcareous": [
+          115,
+          243
+        ],
+        "dinoflagellate": [
+          116
+        ],
+        "cysts": [
+          117
+        ],
+        "Calcisphaerula": [
+          118
+        ],
+        "innominata": [
+          119
+        ],
+        "with": [
+          120,
+          156,
+          182,
+          204,
+          304
+        ],
+        "less": [
+          121
+        ],
+        "common": [
+          122,
+          131
+        ],
+        "Pithonella": [
+          123
+        ],
+        "ovalis,": [
+          124
+        ],
+        "rare": [
+          126,
+          129,
+          135
+        ],
+        "Bonitocardiella": [
+          127
+        ],
+        "conica,": [
+          128
+        ],
+        "benthonic": [
+          136
+        ],
+        "including": [
+          138
+        ],
+        "Marssonella": [
+          139
+        ],
+        "turris": [
+          140
+        ],
+        "Gavelinella": [
+          142
+        ],
+        "spp.": [
+          143
+        ],
+        "This": [
+          144
+        ],
+        "assemblage,": [
+          145
+        ],
+        "very": [
+          147
+        ],
+        "fine-grained": [
+          148
+        ],
+        "packstones,": [
+          149
+        ],
+        "suggests": [
+          150
+        ],
+        "a": [
+          151,
+          209,
+          212,
+          224,
+          284
+        ],
+        "depositional": [
+          154
+        ],
+        "environment": [
+          155
+        ],
+        "low": [
+          157
+        ],
+        "energy,": [
+          158
+        ],
+        "normal": [
+          159
+        ],
+        "salinity": [
+          160
+        ],
+        "conditions.": [
+          161
+        ],
+        "Deep": [
+          162
+        ],
+        "sediments,": [
+          164
+        ],
+        "that": [
+          165,
+          171,
+          180,
+          255
+        ],
+        "moremanni": [
+          168
+        ],
+        "may": [
+          172,
+          190
+        ],
+        "be": [
+          173,
+          193
+        ],
+        "transitional": [
+          174
+        ],
+        "globulosa,": [
+          177
+        ],
+        "roveacrinids": [
+          179
+        ],
+        "compare": [
+          181
+        ],
+        "R.": [
+          186
+        ],
+        "derdereensis": [
+          187
+        ],
+        "prove": [
+          191
+        ],
+        "supplementary": [
+          194
+        ],
+        "useful": [
+          195
+        ],
+        "age": [
+          196
+        ],
+        "indicators": [
+          197
+        ],
+        "such": [
+          199
+        ],
+        "environments.": [
+          200
+        ],
+        "Although": [
+          201
+        ],
+        "their": [
+          202,
+          301
+        ],
+        "association": [
+          203,
+          226
+        ],
+        "pelagic": [
+          205
+        ],
+        "would": [
+          207
+        ],
+        "suggest": [
+          208
+        ],
+        "lifestyle,": [
+          211
+        ],
+        "definite": [
+          213
+        ],
+        "paleoenvironmental": [
+          214
+        ],
+        "interpretation": [
+          215
+        ],
+        "seems": [
+          216
+        ],
+        "elusive": [
+          217
+        ],
+        "by": [
+          218
+        ],
+        "most": [
+          219
+        ],
+        "authors": [
+          220
+        ],
+        "there": [
+          222
+        ],
+        "direct": [
+          225
+        ],
+        "between": [
+          227
+        ],
+        "roveacrinoid": [
+          229
+        ],
+        "abundance": [
+          230
+        ],
+        "flooding": [
+          232
+        ],
+        "surfaces": [
+          233
+        ],
+        "high-productivity": [
+          235
+        ],
+        "events.": [
+          236
+        ],
+        "Roveacrinid": [
+          237
+        ],
+        "have": [
+          239
+        ],
+        "been": [
+          240
+        ],
+        "recovered": [
+          241
+        ],
+        "from": [
+          242,
+          274
+        ],
+        "mudstones": [
+          244
+        ],
+        "Ruwaydha": [
+          247
+        ],
+        "Tuwayil": [
+          249
+        ],
+        "members": [
+          250
+        ],
+        "overlie": [
+          256
+        ],
+        "upper": [
+          257
+        ],
+        "grainstones": [
+          259
+        ],
+        "MishrifMember": [
+          262
+        ],
+        "theWasia": [
+          264
+        ],
+        "Formation.": [
+          265
+        ],
+        "A": [
+          266
+        ],
+        "regionally": [
+          267,
+          295
+        ],
+        "significant": [
+          268,
+          285
+        ],
+        "unconformity": [
+          269
+        ],
+        "separates": [
+          270
+        ],
+        "Mishrif": [
+          272
+        ],
+        "Formation,": [
+          277
+        ],
+        "which": [
+          279
+        ],
+        "basal": [
+          281
+        ],
+        "represents": [
+          283
+        ],
+        "transgression.": [
+          288
+        ],
+        "episodic": [
+          290
+        ],
+        "microcrinoid": [
+          291
+        ],
+        "distribution": [
+          292
+        ],
+        "potentially": [
+          293
+        ],
+        "provides": [
+          294
+        ],
+        "correlative": [
+          296
+        ],
+        "bioevents": [
+          297
+        ],
+        "addition": [
+          299
+        ],
+        "relationship": [
+          303
+        ],
+        "oceanic": [
+          306
+        ],
+        "anoxic": [
+          307
+        ],
+        "event": [
+          308
+        ],
+        "OAE": [
+          309
+        ],
+        "2.": [
+          310
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-05-21T06:26:12.895304",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16833,16 +16944,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5099999904632568,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5099999904632568
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17759,16 +17870,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18276,6 +18387,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": false,
+          "listed_in": [
+            "doaj",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310314780",
           "host_organization_name": "Institute of Geology Zagreb",
           "host_organization_lineage": [
@@ -18447,7 +18563,7 @@
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.14947355,
+        "value": 0.15796165,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18710,6 +18826,11 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": false,
+            "listed_in": [
+              "doaj",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": "https://openalex.org/P4310314780",
             "host_organization_name": "Institute of Geology Zagreb",
             "host_organization_lineage": [
@@ -18741,6 +18862,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I181343428",
             "host_organization_name": "University of Zagreb",
             "host_organization_lineage": [
@@ -18770,6 +18892,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -18801,6 +18924,11 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": false,
+          "listed_in": [
+            "doaj",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4310314780",
           "host_organization_name": "Institute of Geology Zagreb",
           "host_organization_lineage": [
@@ -18821,9 +18949,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
@@ -18835,8 +18963,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2106561307.pdf",
@@ -19180,6 +19308,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4324263201",
           "host_organization_name": "Ottawa Field-Naturalists' Club",
           "host_organization_lineage": [
@@ -19362,7 +19495,7 @@
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.42082632,
+        "value": 0.42115132,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19540,6 +19673,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": "https://openalex.org/P4324263201",
             "host_organization_name": "Ottawa Field-Naturalists' Club",
             "host_organization_lineage": [
@@ -19571,6 +19709,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I103187081",
             "host_organization_name": "Smithsonian Institution",
             "host_organization_lineage": [
@@ -19603,6 +19742,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": "https://openalex.org/P4324263201",
           "host_organization_name": "Ottawa Field-Naturalists' Club",
           "host_organization_lineage": [
@@ -19623,16 +19767,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4391438224.pdf",
@@ -20072,16 +20216,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20816,16 +20960,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21065,16 +21209,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21125,6 +21269,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -21204,7 +21353,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.09307141,
+        "value": 0.10836635,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21441,6 +21590,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -21471,6 +21625,11 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -21487,16 +21646,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -22231,16 +22390,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23199,16 +23358,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24173,16 +24332,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24934,8 +25093,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25268,8 +25427,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
