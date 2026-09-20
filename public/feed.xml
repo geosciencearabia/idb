@@ -4,8 +4,36 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Sat, 19 Sep 2026 22:41:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 23:00:07 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Automated Morphometric Analysis of Foraminiferal Tests from SEM Images</title>
+      <link>https://doi.org/10.5281/zenodo.22848020</link>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7213622759</guid>
+      <dc:creator>Khalid Al‐Ramadan</dc:creator>
+      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
+      <category>Artificial intelligence</category>
+      <category>Computer science</category>
+      <category>Magnification</category>
+      <category>Pipeline (software)</category>
+      <category>Data set</category>
+      <description>Abstract: Final model and measurement pipeline for automated morphometrics of foraminiferal tests from SEM images. Includes the full N=306 cross-instrument generalizability set (Zeiss/JEOL/FEI; hyaline/porcelaneous/agglutinated; banner/plain), locked morphometric CSVs, ImageJ validation reference, curated overlay showcases, COCO annotation schema records, and training documentation. Scale is measured, never assumed: vendor TIFF pixel-size tags (282/306), footer OCR validated against printed magnification (21/306). Specimen detection is 306/306. Excludes manuscript figure/table generators and intermediate model versions.&#10;Topics: Artificial intelligence, Computer science, Magnification, Pipeline (software), Data set&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Automated Morphometric Analysis of Foraminiferal Tests from SEM Images</title>
+      <link>https://doi.org/10.5281/zenodo.22848021</link>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7213657929</guid>
+      <dc:creator>Khalid Al‐Ramadan</dc:creator>
+      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
+      <category>Artificial intelligence</category>
+      <category>Computer science</category>
+      <category>Magnification</category>
+      <category>Pipeline (software)</category>
+      <category>Data set</category>
+      <description>Abstract: Final model and measurement pipeline for automated morphometrics of foraminiferal tests from SEM images. Includes the full N=306 cross-instrument generalizability set (Zeiss/JEOL/FEI; hyaline/porcelaneous/agglutinated; banner/plain), locked morphometric CSVs, ImageJ validation reference, curated overlay showcases, COCO annotation schema records, and training documentation. Scale is measured, never assumed: vendor TIFF pixel-size tags (282/306), footer OCR validated against printed magnification (21/306). Specimen detection is 306/306. Excludes manuscript figure/table generators and intermediate model versions.&#10;Topics: Artificial intelligence, Computer science, Magnification, Pipeline (software), Data set&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
     <item>
       <title>Quantitative assessment of surface elemental and mineralogical effects on rock wettability: evidence from several rock types</title>
       <link>https://doi.org/10.1007/s13202-026-02218-5</link>
@@ -1336,7 +1364,7 @@
       <category>Carbonate</category>
       <category>Calcite</category>
       <category>Diagenesis</category>
-      <description>Topics: Cementation (geology), Aragonite, Carbonate, Calcite, Diagenesis&#10;Venue: Geoenergy Science and Engineering&#10;Year: 2026&#10;Citations: 0</description>
+      <description>Topics: Cementation (geology), Aragonite, Carbonate, Calcite, Diagenesis&#10;Venue: Geoenergy Science and Engineering&#10;Year: 2026&#10;Citations: 1</description>
     </item>
     <item>
       <title>Mid‐Cenomanian Event Controls the Bioproductivity and Organic Preservation of Bituminous Limestones From North Jordan</title>
@@ -1365,33 +1393,6 @@
       <category>Position (finance)</category>
       <category>Finite element method</category>
       <description>Abstract: Choosing a representative element volume (REV) from finite cylindrical Computed Tomography (CT) scans becomes ambiguous when a key field variable exhibits a slow axial trend, reflecting either geological variability or CT acquisition/reconstruction artifacts. In such cases, estimated statistics may vary systematically with subvolume size and position rather than converging by simple averaging. We present a practical workflow for sizing an REV under nonstationary conditions by first suppressing axial drift/trend to obtain a residual field suitable for second-order analysis, and then selecting the smallest analysis diameter for which the low-wavenumber spectral content stabilizes within a prescribed tolerance. The method is demonstrated on \textit{Thalassinoides}-bearing rocks, where branching burrow networks introduce heterogeneity at length scales comparable to laboratory core diameters, making imaging-based microstructural statistics and digital-rock estimates sensitive to subvolume choice. From segmented data, we define a scalar ``burrowsity&apos;&apos; field capturing burrow-related pore spaces and infills. Axial detrending, with optional normalization, mitigates acquisition drift and nonstationary trends, while covariance/spectral convergence is evaluated on nested cylinders consistent with the core geometry. Representativeness is posed as diameter convergence on nested inscribed cylinders: the two-point covariance and isotropic spectrum $\widehat{C}$ are estimated, and the smalles…&#10;Topics: Mathematics, Cylinder, Convergence (economics), Position (finance), Finite element method&#10;Venue: arXiv (Cornell University)&#10;Year: 2026&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Representative-volume sizing in finite cylindrical computed tomography by low-wavenumber spectral convergence</title>
-      <link>https://openalex.org/W7124358305</link>
-      <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7124358305</guid>
-      <dc:creator>Fernando Alonso-Marroquin, Abdullah Alqubalee, Christian Tantardini</dc:creator>
-      <dc:publisher>arXiv (Cornell University)</dc:publisher>
-      <category>Mathematics</category>
-      <category>Cylinder</category>
-      <category>Convergence (economics)</category>
-      <category>Position (finance)</category>
-      <category>Finite element method</category>
-      <description>Abstract: Choosing a representative element volume (REV) from finite cylindrical Computed Tomography (CT) scans becomes ambiguous when a key field variable exhibits a slow axial trend, reflecting either geological variability or CT acquisition/reconstruction artifacts. In such cases, estimated statistics may vary systematically with subvolume size and position rather than converging by simple averaging. We present a practical workflow for sizing an REV under nonstationary conditions by first suppressing axial drift/trend to obtain a residual field suitable for second-order analysis, and then selecting the smallest analysis diameter for which the low-wavenumber spectral content stabilizes within a prescribed tolerance. The method is demonstrated on \textit{Thalassinoides}-bearing rocks, where branching burrow networks introduce heterogeneity at length scales comparable to laboratory core diameters, making imaging-based microstructural statistics and digital-rock estimates sensitive to subvolume choice. From segmented data, we define a scalar ``burrowsity&apos;&apos; field capturing burrow-related pore spaces and infills. Axial detrending, with optional normalization, mitigates acquisition drift and nonstationary trends, while covariance/spectral convergence is evaluated on nested cylinders consistent with the core geometry. Representativeness is posed as diameter convergence on nested inscribed cylinders: the two-point covariance and isotropic spectrum $\widehat{C}$ are estimated, and the smalles…&#10;Topics: Mathematics, Cylinder, Convergence (economics), Position (finance), Finite element method&#10;Venue: arXiv (Cornell University)&#10;Year: 2026&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>AI-Based Prediction of Rock Mechanical Properties Using XRD, XRF, and Gamma Ray Data</title>
-      <link>https://doi.org/10.2523/iptc-25203-ms</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7123355297</guid>
-      <dc:creator>J. L. Davalos-Monteiro, C. D. Rodriguez-Hernandez, A. E. Ghreizy, R. M. Rached, R. L. Davalos, Mutasim Osman, K. Ayranci</dc:creator>
-      <category>Coring</category>
-      <category>Support vector machine</category>
-      <category>Drilling</category>
-      <category>Geology</category>
-      <category>Data set</category>
-      <description>Abstract: Abstract This study explores the use of machine learning to predict mechanical properties of subsurface rocks, such as indentation-based Elastic modulus, using input features from X-ray diffraction (XRD), X-ray fluorescence (XRF), and gamma ray measurements. Traditional mechanical testing is costly, time-intensive, and often unfeasible for large datasets. Our goal is to develop a predictive tool that leverages accessible field and laboratory data to estimate geomechanical behavior, enabling real-time formation evaluation during drilling. By integrating in-situ measurements such as gamma ray logs while drilling and surface XRD/XRF analysis from cuttings, this approach supports live monitoring of the drilling process and improves on-site decision making without the need for routine lab-based mechanical testing. The dataset for this study was developed from direct experimental measurements on rock samples obtained during coring operations. All measurements were carried out in the laboratory: gamma ray signals were acquired through core scanning, mineralogical composition was determined using XRD, and elemental content was measured with XRF. Mechanical properties were then quantified through depth-resolved micro-indentation testing, ensuring that both geophysical and geochemical data were consistently tied to the same set of core samples. To evaluate predictive performance, we trained and validated multiple machine learning models, including Random Forest, XGBoost, Gradient Boost…&#10;Topics: Coring, Support vector machine, Drilling, Geology, Data set&#10;Year: 2026&#10;Citations: 1</description>
     </item>
   </channel>
 </rss>

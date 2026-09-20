@@ -288,7 +288,7 @@
     ],
     "block_key": "j manivit",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051867931",
-    "updated_date": "2026-09-18T12:19:03",
+    "updated_date": "2026-09-19T12:19:47",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -888,7 +888,9 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
-            "doaj"
+            "doaj",
+            "jufo-1",
+            "norway-1"
           ],
           "host_organization": "https://openalex.org/P4310319748",
           "host_organization_name": "EDP Sciences",
@@ -1223,7 +1225,9 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
-              "doaj"
+              "doaj",
+              "jufo-1",
+              "norway-1"
             ],
             "host_organization": "https://openalex.org/P4310319748",
             "host_organization_name": "EDP Sciences",
