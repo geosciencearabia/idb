@@ -2,6 +2,9 @@
   "details": {
     "id": "https://openalex.org/A5002041459",
     "orcid": "https://orcid.org/0000-0002-6113-9589",
+    "observed_orcids": [
+      "https://orcid.org/0000-0002-6113-9589"
+    ],
     "display_name": "Nikolaos A. Michael",
     "raw_author_names": [
       "Michael, Nikolaos A.",
@@ -10,15 +13,18 @@
     ],
     "full_name": "Michael, Nikolaos A.",
     "works_count": 13,
-    "cited_by_count": 139,
+    "cited_by_count": 141,
     "summary_stats": {
-      "2yr_mean_citedness": 1.75,
+      "2yr_mean_citedness": 2,
       "h_index": 7,
       "i10_index": 6
     },
     "ids": {
       "openalex": "https://openalex.org/A5002041459",
-      "orcid": "https://orcid.org/0000-0002-6113-9589"
+      "orcid": "https://orcid.org/0000-0002-6113-9589",
+      "observed_orcids": [
+        "https://orcid.org/0000-0002-6113-9589"
+      ]
     },
     "affiliations": [
       {
@@ -296,7 +302,7 @@
         "year": 2014,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 24
+        "cited_by_count": 25
       },
       {
         "year": 2015,
@@ -332,7 +338,7 @@
         "year": 2026,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 0
+        "cited_by_count": 1
       }
     ],
     "display_name_alternatives": [
@@ -342,7 +348,7 @@
     ],
     "block_key": "n michael",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5002041459",
-    "updated_date": "2026-09-19T12:19:47",
+    "updated_date": "2026-09-20T14:48:07",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -10343,7 +10349,7 @@
           "author": {
             "id": "https://openalex.org/A5044865334",
             "display_name": "Peng Lu",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0001-9159-370X"
           },
           "institutions": [
             {
@@ -10666,11 +10672,11 @@
         "value_usd": 3640
       },
       "apc_paid": null,
-      "fwci": 2.1381,
+      "fwci": 2.1291,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.79876928,
+        "value": 0.79827504,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11116,7 +11122,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-20T07:33:13.661266",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2026-01-20T00:00:00"
     },
     {

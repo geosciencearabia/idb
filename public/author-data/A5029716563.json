@@ -2,6 +2,9 @@
   "details": {
     "id": "https://openalex.org/A5029716563",
     "orcid": "https://orcid.org/0000-0002-3320-9690",
+    "observed_orcids": [
+      "https://orcid.org/0000-0002-3320-9690"
+    ],
     "display_name": "Mohammed Hail Hakimi",
     "raw_author_names": [
       "M. Hail Hakimi",
@@ -19,15 +22,18 @@
     ],
     "full_name": "Mohammed  Hail Hakimi",
     "works_count": 235,
-    "cited_by_count": 4840,
+    "cited_by_count": 4841,
     "summary_stats": {
-      "2yr_mean_citedness": 3.508771929824561,
+      "2yr_mean_citedness": 3.526315789473684,
       "h_index": 41,
       "i10_index": 118
     },
     "ids": {
       "openalex": "https://openalex.org/A5029716563",
-      "orcid": "https://orcid.org/0000-0002-3320-9690"
+      "orcid": "https://orcid.org/0000-0002-3320-9690",
+      "observed_orcids": [
+        "https://orcid.org/0000-0002-3320-9690"
+      ]
     },
     "affiliations": [
       {
@@ -311,7 +317,7 @@
       {
         "id": "https://openalex.org/T12218",
         "display_name": "Coal and Its By-products",
-        "value": 0.0002474,
+        "value": 0.0002473,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -345,7 +351,7 @@
       {
         "id": "https://openalex.org/T11284",
         "display_name": "Coal Properties and Utilization",
-        "value": 0.0001914,
+        "value": 0.0001913,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -493,7 +499,7 @@
         "year": 2025,
         "works_count": 21,
         "oa_works_count": 7,
-        "cited_by_count": 49
+        "cited_by_count": 50
       },
       {
         "year": 2026,
@@ -518,7 +524,7 @@
     ],
     "block_key": "m hakimi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5029716563",
-    "updated_date": "2026-09-19T12:19:47",
+    "updated_date": "2026-09-20T23:21:32",
     "created_date": "2019-03-02T00:00:00"
   },
   "works": [
@@ -2193,7 +2199,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -2278,11 +2284,11 @@
         "value_usd": 4330
       },
       "apc_paid": null,
-      "fwci": 6.952,
+      "fwci": 6.9346,
       "has_fulltext": false,
       "cited_by_count": 142,
       "citation_normalized_percentile": {
-        "value": 0.97602119,
+        "value": 0.97590706,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2756,7 +2762,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-02T07:38:04.252551",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9432,7 +9438,7 @@
           "author": {
             "id": "https://openalex.org/A5009456676",
             "display_name": "Omar F. Al-Mishaal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-3550-0681"
           },
           "institutions": [
             {
@@ -9951,11 +9957,11 @@
         "currency": "CHF",
         "value_usd": 2303
       },
-      "fwci": 3.7322,
+      "fwci": 3.7318,
       "has_fulltext": true,
       "cited_by_count": 47,
       "citation_normalized_percentile": {
-        "value": 0.94784927,
+        "value": 0.94782401,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11125,7 +11131,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-10T07:47:47.112893",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14646,7 +14652,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -14805,11 +14811,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 5.6964,
+      "fwci": 5.6998,
       "has_fulltext": false,
       "cited_by_count": 89,
       "citation_normalized_percentile": {
-        "value": 0.96143075,
+        "value": 0.96145089,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15300,7 +15306,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-12T09:15:50.089291",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16586,7 +16592,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -16722,11 +16728,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 4.1958,
+      "fwci": 4.194,
       "has_fulltext": false,
       "cited_by_count": 82,
       "citation_normalized_percentile": {
-        "value": 0.93455814,
+        "value": 0.93449471,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17280,7 +17286,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-05T08:02:43.246662",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17476,7 +17482,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -17531,11 +17537,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 4.9199,
+      "fwci": 4.9187,
       "has_fulltext": false,
       "cited_by_count": 77,
       "citation_normalized_percentile": {
-        "value": 0.94605482,
+        "value": 0.94602466,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18088,7 +18094,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-08T07:41:39.490200",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25205,7 +25211,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -25438,11 +25444,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 4.2209,
+      "fwci": 4.2103,
       "has_fulltext": false,
       "cited_by_count": 60,
       "citation_normalized_percentile": {
-        "value": 0.9380607,
+        "value": 0.93776389,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -25850,7 +25856,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -31700,7 +31706,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -31918,11 +31924,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 4.742,
+      "fwci": 4.733,
       "has_fulltext": false,
       "cited_by_count": 48,
       "citation_normalized_percentile": {
-        "value": 0.93622116,
+        "value": 0.93612622,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -32387,7 +32393,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -32569,7 +32575,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -32691,11 +32697,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 2.155,
+      "fwci": 2.1522,
       "has_fulltext": false,
       "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.85010471,
+        "value": 0.84990968,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33190,7 +33196,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-08T07:41:39.490200",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33261,7 +33267,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -33383,11 +33389,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 4.5099,
+      "fwci": 4.5088,
       "has_fulltext": false,
       "cited_by_count": 44,
       "citation_normalized_percentile": {
-        "value": 0.94014362,
+        "value": 0.94009065,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -33886,7 +33892,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33957,7 +33963,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -34245,11 +34251,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 1.738,
+      "fwci": 1.7337,
       "has_fulltext": false,
       "cited_by_count": 44,
       "citation_normalized_percentile": {
-        "value": 0.82093434,
+        "value": 0.82066268,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34582,7 +34588,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34764,7 +34770,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -34849,11 +34855,11 @@
         "value_usd": 4090
       },
       "apc_paid": null,
-      "fwci": 1.4897,
+      "fwci": 1.486,
       "has_fulltext": false,
       "cited_by_count": 44,
       "citation_normalized_percentile": {
-        "value": 0.79965165,
+        "value": 0.79933685,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35411,7 +35417,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35603,7 +35609,7 @@
           "author": {
             "id": "https://openalex.org/A5048630127",
             "display_name": "Abubakar Sadiq Maigari",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0001-7276-7145"
           },
           "institutions": [
             {
@@ -35732,7 +35738,7 @@
           "author": {
             "id": "https://openalex.org/A5063570963",
             "display_name": "John Jitong Shirputda",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-2691-5711"
           },
           "institutions": [],
           "countries": [],
@@ -35787,11 +35793,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 1.4985,
+      "fwci": 1.4979,
       "has_fulltext": false,
       "cited_by_count": 42,
       "citation_normalized_percentile": {
-        "value": 0.78929004,
+        "value": 0.78914891,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36248,7 +36254,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -39899,7 +39905,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -39947,11 +39953,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 3.2775,
+      "fwci": 3.2696,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.91785205,
+        "value": 0.91753853,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -40346,7 +40352,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -42565,7 +42571,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -42724,11 +42730,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 3.1403,
+      "fwci": 3.1401,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.92059,
+        "value": 0.9206216,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -43263,7 +43269,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -45504,7 +45510,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -45779,11 +45785,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 2.6973,
+      "fwci": 2.6962,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.87778015,
+        "value": 0.87772345,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46343,7 +46349,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -46414,7 +46420,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -46834,11 +46840,11 @@
         "value_usd": 4500
       },
       "apc_paid": null,
-      "fwci": 1.9892,
+      "fwci": 1.9866,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.84698953,
+        "value": 0.84682043,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48100,7 +48106,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-08T07:41:39.490200",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -54647,7 +54653,7 @@
           "author": {
             "id": "https://openalex.org/A5042320898",
             "display_name": "Samina Jahandad",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-1567-0459"
           },
           "institutions": [
             {
@@ -54795,7 +54801,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -54869,7 +54875,7 @@
           "author": {
             "id": "https://openalex.org/A5069161391",
             "display_name": "Muhammad Nofal Munir",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-3148-1081"
           },
           "institutions": [
             {
@@ -54954,11 +54960,11 @@
         "value_usd": 2800
       },
       "apc_paid": null,
-      "fwci": 1.1506,
+      "fwci": 1.1509,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.73379775,
+        "value": 0.73394011,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -55537,7 +55543,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -59976,7 +59982,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -60252,7 +60258,7 @@
           "author": {
             "id": "https://openalex.org/A5070581676",
             "display_name": "Terfa Elijah Garba",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0001-7427-6577"
           },
           "institutions": [
             {
@@ -60393,11 +60399,11 @@
         "value_usd": 2710
       },
       "apc_paid": null,
-      "fwci": 1.2288,
+      "fwci": 1.2287,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.73977695,
+        "value": 0.73980191,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -60874,7 +60880,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -61057,7 +61063,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -61294,11 +61300,11 @@
         "value_usd": 3760
       },
       "apc_paid": null,
-      "fwci": 1.6924,
+      "fwci": 1.6907,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.81288187,
+        "value": 0.81259229,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -62533,7 +62539,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-29T07:29:34.045763",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2023-08-05T00:00:00"
     },
     {
@@ -64136,7 +64142,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -64228,11 +64234,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 1.987,
+      "fwci": 1.9844,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.84337027,
+        "value": 0.84301958,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -64672,7 +64678,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-13T09:14:26.050021",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -69791,7 +69797,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -70066,11 +70072,11 @@
         "currency": "USD",
         "value_usd": 2590
       },
-      "fwci": 1.1591,
+      "fwci": 1.1576,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.72467678,
+        "value": 0.72433063,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -71312,7 +71318,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -71678,7 +71684,7 @@
           "author": {
             "id": "https://openalex.org/A5112471864",
             "display_name": "Pramod K. Rajak",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7167-8543"
           },
           "institutions": [
             {
@@ -71730,11 +71736,11 @@
         "value_usd": 4090
       },
       "apc_paid": null,
-      "fwci": 3.7716,
+      "fwci": 3.7606,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.93476384,
+        "value": 0.93440197,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -72246,7 +72252,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-09-02T18:50:13.731487",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -73094,7 +73100,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [],
           "countries": [],
@@ -73150,11 +73156,11 @@
         "currency": "USD",
         "value_usd": 800
       },
-      "fwci": 2.204,
+      "fwci": 2.198,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.8556978,
+        "value": 0.85522719,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -73997,7 +74003,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-09T07:26:56.047234",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -74141,7 +74147,7 @@
           "author": {
             "id": "https://openalex.org/A5042320898",
             "display_name": "Samina Jahandad",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-1567-0459"
           },
           "institutions": [
             {
@@ -74348,7 +74354,7 @@
           "author": {
             "id": "https://openalex.org/A5069161391",
             "display_name": "Muhammad Nofal Munir",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-3148-1081"
           },
           "institutions": [
             {
@@ -74398,11 +74404,11 @@
         "value_usd": 3540
       },
       "apc_paid": null,
-      "fwci": 2.204,
+      "fwci": 2.198,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.86090735,
+        "value": 0.86048359,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -75584,7 +75590,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -77204,7 +77210,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -77403,11 +77409,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 2.9794,
+      "fwci": 2.972,
       "has_fulltext": false,
       "cited_by_count": 46,
       "citation_normalized_percentile": {
-        "value": 0.89998091,
+        "value": 0.89950144,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -77870,7 +77876,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -81981,7 +81987,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -82161,11 +82167,11 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 3.2967,
+      "fwci": 3.2953,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.90991953,
+        "value": 0.90985902,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -82711,7 +82717,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -82951,7 +82957,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -83006,11 +83012,11 @@
         "value_usd": 4090
       },
       "apc_paid": null,
-      "fwci": 2.7375,
+      "fwci": 2.7323,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.89459103,
+        "value": 0.89450086,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -83573,7 +83579,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -94149,7 +94155,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -94382,11 +94388,11 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 0.3856,
+      "fwci": 0.3847,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.54053618,
+        "value": 0.54038353,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -94904,7 +94910,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -95091,7 +95097,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -95139,11 +95145,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.738,
+      "fwci": 1.7337,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.81675892,
+        "value": 0.81639274,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -95566,7 +95572,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -96493,7 +96499,7 @@
           "author": {
             "id": "https://openalex.org/A5030143362",
             "display_name": "Sardar S. Fatah",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-2520-9831"
           },
           "institutions": [
             {
@@ -96755,11 +96761,11 @@
         "value_usd": 2750
       },
       "apc_paid": null,
-      "fwci": 1.0227,
+      "fwci": 1.0231,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.7136031,
+        "value": 0.71375053,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -97964,7 +97970,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -98684,7 +98690,7 @@
           "author": {
             "id": "https://openalex.org/A5042320898",
             "display_name": "Samina Jahandad",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-1567-0459"
           },
           "institutions": [
             {
@@ -98871,11 +98877,11 @@
         "value_usd": 2750
       },
       "apc_paid": null,
-      "fwci": 1.2288,
+      "fwci": 1.2287,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.74994604,
+        "value": 0.749994,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -99321,7 +99327,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-19T00:03:45.406941",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -108562,7 +108568,7 @@
           "author": {
             "id": "https://openalex.org/A5030143362",
             "display_name": "Sardar S. Fatah",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-2520-9831"
           },
           "institutions": [
             {
@@ -108875,11 +108881,11 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 1.3247,
+      "fwci": 1.323,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.74069214,
+        "value": 0.74036639,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -110240,7 +110246,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-23T07:36:19.812096",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -110420,7 +110426,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -110582,11 +110588,11 @@
         "value_usd": 2500
       },
       "apc_paid": null,
-      "fwci": 0.9142,
+      "fwci": 0.9139,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.66993831,
+        "value": 0.66960473,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -111053,7 +111059,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -116334,7 +116340,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -116463,11 +116469,11 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 2.204,
+      "fwci": 2.198,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.8699715,
+        "value": 0.86966476,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -117552,7 +117558,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-04T10:56:28.161419",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -117696,7 +117702,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -118007,7 +118013,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.364015,
+        "value": 0.36410906,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -118472,7 +118478,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -118755,7 +118761,7 @@
           "author": {
             "id": "https://openalex.org/A5039042327",
             "display_name": "Ahmed Abd El Aal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0001-9077-6897"
           },
           "institutions": [
             {
@@ -118957,11 +118963,11 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 0.4968,
+      "fwci": 0.4961,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.51494605,
+        "value": 0.51474804,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -120226,7 +120232,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-23T07:36:19.812096",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2024-06-13T00:00:00"
     },
     {
@@ -122558,7 +122564,7 @@
           "author": {
             "id": "https://openalex.org/A5024853148",
             "display_name": "Igor S. Afanasiev",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4505-7145"
           },
           "institutions": [
             {
@@ -122814,11 +122820,11 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 1.3054,
+      "fwci": 1.3026,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.79810736,
+        "value": 0.79732287,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -123809,7 +123815,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-22T07:34:49.880490",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-11-27T00:00:00"
     },
     {
@@ -126408,7 +126414,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -126445,7 +126451,7 @@
           "author": {
             "id": "https://openalex.org/A5129579815",
             "display_name": "Alok Kumar",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-3887-0733"
           },
           "institutions": [
             {
@@ -126569,11 +126575,11 @@
         "value_usd": 3540
       },
       "apc_paid": null,
-      "fwci": 5.0683,
+      "fwci": 5.0396,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.94795615,
+        "value": 0.94730813,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -127752,7 +127758,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2026-03-17T00:00:00"
     },
     {
@@ -130749,7 +130755,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -130804,11 +130810,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.712,
+      "fwci": 0.7125,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.70471984,
+        "value": 0.70474521,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -131286,7 +131292,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-23T07:36:19.812096",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -132803,7 +132809,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -132902,11 +132908,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.7449,
+      "fwci": 0.743,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.67293377,
+        "value": 0.67276544,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -133295,7 +133301,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-02T07:38:04.252551",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -134331,7 +134337,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -134453,11 +134459,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 0.9142,
+      "fwci": 0.9139,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.67568243,
+        "value": 0.67544758,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -134831,7 +134837,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -135071,7 +135077,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -135170,11 +135176,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.5994,
+      "fwci": 0.5991,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.67953191,
+        "value": 0.67952248,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -135688,7 +135694,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -138912,7 +138918,7 @@
           "author": {
             "id": "https://openalex.org/A5033983614",
             "display_name": "Majid Safaei-Farouji",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7621-8538"
           },
           "institutions": [
             {
@@ -139063,11 +139069,11 @@
         "currency": "USD",
         "value_usd": 0
       },
-      "fwci": 1.0227,
+      "fwci": 1.0231,
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.71269773,
+        "value": 0.7128454,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -139438,17 +139444,19 @@
           "landing_page_url": "https://lirias.kuleuven.be/handle/20.500.12942/710734",
           "pdf_url": "https://lirias.kuleuven.be/retrieve/48f85719-e7d9-42af-84f5-6c39b17d0a9a",
           "source": {
-            "id": "https://openalex.org/S7407055369",
-            "display_name": "Lirias",
+            "id": "https://openalex.org/S4306401954",
+            "display_name": "Lirias (KU Leuven)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I99464096",
+            "host_organization_name": "KU Leuven",
+            "host_organization_lineage": [
+              "https://openalex.org/I99464096"
+            ],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -140081,7 +140089,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -141447,7 +141455,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -141554,7 +141562,7 @@
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.63818204,
+        "value": 0.63819276,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -142075,7 +142083,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -144396,7 +144404,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -144444,11 +144452,11 @@
         "value_usd": 3140
       },
       "apc_paid": null,
-      "fwci": 0.9142,
+      "fwci": 0.9139,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.69536225,
+        "value": 0.69527329,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -144930,7 +144938,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -149493,7 +149501,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -149548,11 +149556,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.8991,
+      "fwci": 0.8987,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.72838187,
+        "value": 0.72824797,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -150076,7 +150084,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -154610,1386 +154618,6 @@
       ],
       "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2019-03-02T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W3089794676",
-      "doi": "https://doi.org/10.17656/jzs.10796",
-      "title": "Sterane biomarker analysis of Sargelu Formation, Miran West Field, MW-2 well, Kurdistan Region, NE Iraq: Implications for origin of organic matter, palaeoenvironment and maturity",
-      "display_name": "Sterane biomarker analysis of Sargelu Formation, Miran West Field, MW-2 well, Kurdistan Region, NE Iraq: Implications for origin of organic matter, palaeoenvironment and maturity",
-      "publication_year": 2020,
-      "publication_date": "2020-06-20",
-      "ids": {
-        "openalex": "https://openalex.org/W3089794676",
-        "doi": "https://doi.org/10.17656/jzs.10796",
-        "mag": "3089794676"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.17656/jzs.10796",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.17656/jzs.10796",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210170001",
-          "display_name": "Journal of Zankoy Sulaimani - Part A",
-          "issn_l": "1812-4100",
-          "issn": [
-            "1812-4100",
-            "2521-4853"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-sa",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Zankoy Sulaimani - Part A",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "diamond",
-        "oa_url": "https://doi.org/10.17656/jzs.10796",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5081887535",
-            "display_name": "Danyar Salih",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Danyar Salih",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5030143362",
-            "display_name": "Sardar S. Fatah",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Sardar Fatah",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5061088321",
-            "display_name": "Fraidoon Rashid",
-            "orcid": "https://orcid.org/0000-0003-3039-4891"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Fraidoon Rashid",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5029716563",
-            "display_name": "Mohammed Hail Hakimi",
-            "orcid": "https://orcid.org/0000-0002-3320-9690"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed Hakimi",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5083028288",
-            "display_name": "Ibrahim M. J. Mohialdeen",
-            "orcid": "https://orcid.org/0000-0003-4544-3959"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Ibrahim Mohialdeen",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.4549,
-      "has_fulltext": false,
-      "cited_by_count": 4,
-      "citation_normalized_percentile": {
-        "value": 0.57844443,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 90,
-        "max": 96
-      },
-      "biblio": {
-        "volume": "22",
-        "issue": "1",
-        "first_page": "321",
-        "last_page": "344"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9648000001907349,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9648000001907349,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.9553999900817871,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/sterane",
-          "display_name": "Sterane",
-          "score": 0.8471241593360901
-        },
-        {
-          "id": "https://openalex.org/keywords/phytane",
-          "display_name": "Phytane",
-          "score": 0.7635732889175415
-        },
-        {
-          "id": "https://openalex.org/keywords/anoxic-waters",
-          "display_name": "Anoxic waters",
-          "score": 0.7443194389343262
-        },
-        {
-          "id": "https://openalex.org/keywords/organic-matter",
-          "display_name": "Organic matter",
-          "score": 0.7249917984008789
-        },
-        {
-          "id": "https://openalex.org/keywords/kerogen",
-          "display_name": "Kerogen",
-          "score": 0.7077758312225342
-        },
-        {
-          "id": "https://openalex.org/keywords/total-organic-carbon",
-          "display_name": "Total organic carbon",
-          "score": 0.6972325444221497
-        },
-        {
-          "id": "https://openalex.org/keywords/maturity",
-          "display_name": "Maturity (psychological)",
-          "score": 0.6657862663269043
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.6585294604301453
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate",
-          "display_name": "Carbonate",
-          "score": 0.633427083492279
-        },
-        {
-          "id": "https://openalex.org/keywords/oil-shale",
-          "display_name": "Oil shale",
-          "score": 0.6025152802467346
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5905474424362183
-        },
-        {
-          "id": "https://openalex.org/keywords/source-rock",
-          "display_name": "Source rock",
-          "score": 0.5856448411941528
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-organic-matter",
-          "display_name": "Sedimentary organic matter",
-          "score": 0.49753430485725403
-        },
-        {
-          "id": "https://openalex.org/keywords/diamondoid",
-          "display_name": "Diamondoid",
-          "score": 0.4915033280849457
-        },
-        {
-          "id": "https://openalex.org/keywords/mineralogy",
-          "display_name": "Mineralogy",
-          "score": 0.4231383800506592
-        },
-        {
-          "id": "https://openalex.org/keywords/hopanoids",
-          "display_name": "Hopanoids",
-          "score": 0.41733407974243164
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-chemistry",
-          "display_name": "Environmental chemistry",
-          "score": 0.4124603569507599
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.3268008232116699
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.2738957405090332
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.1623159646987915
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2776141960",
-          "wikidata": "https://www.wikidata.org/wiki/Q418830",
-          "display_name": "Sterane",
-          "level": 5,
-          "score": 0.8471241593360901
-        },
-        {
-          "id": "https://openalex.org/C2780888746",
-          "wikidata": "https://www.wikidata.org/wiki/Q171701",
-          "display_name": "Phytane",
-          "level": 4,
-          "score": 0.7635732889175415
-        },
-        {
-          "id": "https://openalex.org/C108970007",
-          "wikidata": "https://www.wikidata.org/wiki/Q568324",
-          "display_name": "Anoxic waters",
-          "level": 2,
-          "score": 0.7443194389343262
-        },
-        {
-          "id": "https://openalex.org/C48743137",
-          "wikidata": "https://www.wikidata.org/wiki/Q1783121",
-          "display_name": "Organic matter",
-          "level": 2,
-          "score": 0.7249917984008789
-        },
-        {
-          "id": "https://openalex.org/C2779196632",
-          "wikidata": "https://www.wikidata.org/wiki/Q938398",
-          "display_name": "Kerogen",
-          "level": 4,
-          "score": 0.7077758312225342
-        },
-        {
-          "id": "https://openalex.org/C158787203",
-          "wikidata": "https://www.wikidata.org/wiki/Q900291",
-          "display_name": "Total organic carbon",
-          "level": 2,
-          "score": 0.6972325444221497
-        },
-        {
-          "id": "https://openalex.org/C101433766",
-          "wikidata": "https://www.wikidata.org/wiki/Q3543263",
-          "display_name": "Maturity (psychological)",
-          "level": 2,
-          "score": 0.6657862663269043
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.6585294604301453
-        },
-        {
-          "id": "https://openalex.org/C2780659211",
-          "wikidata": "https://www.wikidata.org/wiki/Q181699",
-          "display_name": "Carbonate",
-          "level": 2,
-          "score": 0.633427083492279
-        },
-        {
-          "id": "https://openalex.org/C153127940",
-          "wikidata": "https://www.wikidata.org/wiki/Q221378",
-          "display_name": "Oil shale",
-          "level": 2,
-          "score": 0.6025152802467346
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5905474424362183
-        },
-        {
-          "id": "https://openalex.org/C126559015",
-          "wikidata": "https://www.wikidata.org/wiki/Q1988844",
-          "display_name": "Source rock",
-          "level": 3,
-          "score": 0.5856448411941528
-        },
-        {
-          "id": "https://openalex.org/C2780173749",
-          "wikidata": "https://www.wikidata.org/wiki/Q7445310",
-          "display_name": "Sedimentary organic matter",
-          "level": 3,
-          "score": 0.49753430485725403
-        },
-        {
-          "id": "https://openalex.org/C90104038",
-          "wikidata": "https://www.wikidata.org/wiki/Q419631",
-          "display_name": "Diamondoid",
-          "level": 3,
-          "score": 0.4915033280849457
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.4231383800506592
-        },
-        {
-          "id": "https://openalex.org/C167195282",
-          "wikidata": "https://www.wikidata.org/wiki/Q108573225",
-          "display_name": "Hopanoids",
-          "level": 4,
-          "score": 0.41733407974243164
-        },
-        {
-          "id": "https://openalex.org/C107872376",
-          "wikidata": "https://www.wikidata.org/wiki/Q321355",
-          "display_name": "Environmental chemistry",
-          "level": 1,
-          "score": 0.4124603569507599
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.3268008232116699
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.2738957405090332
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.1623159646987915
-        },
-        {
-          "id": "https://openalex.org/C15744967",
-          "wikidata": "https://www.wikidata.org/wiki/Q9418",
-          "display_name": "Psychology",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C138496976",
-          "wikidata": "https://www.wikidata.org/wiki/Q175002",
-          "display_name": "Developmental psychology",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C32909587",
-          "wikidata": "https://www.wikidata.org/wiki/Q11369",
-          "display_name": "Molecule",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.17656/jzs.10796",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.17656/jzs.10796",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210170001",
-            "display_name": "Journal of Zankoy Sulaimani - Part A",
-            "issn_l": "1812-4100",
-            "issn": [
-              "1812-4100",
-              "2521-4853"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": "cc-by-nc-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of Zankoy Sulaimani - Part A",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.17656/jzs.10796",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.17656/jzs.10796",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210170001",
-          "display_name": "Journal of Zankoy Sulaimani - Part A",
-          "issn_l": "1812-4100",
-          "issn": [
-            "1812-4100",
-            "2521-4853"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-sa",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Zankoy Sulaimani - Part A",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/2",
-          "score": 0.6399999856948853,
-          "display_name": "Zero hunger"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 64,
-      "referenced_works": [
-        "https://openalex.org/W22360322",
-        "https://openalex.org/W203584942",
-        "https://openalex.org/W1578727128",
-        "https://openalex.org/W1600718613",
-        "https://openalex.org/W1825260807",
-        "https://openalex.org/W1930351012",
-        "https://openalex.org/W1973826423",
-        "https://openalex.org/W1974679186",
-        "https://openalex.org/W1975850570",
-        "https://openalex.org/W1976285766",
-        "https://openalex.org/W1980367212",
-        "https://openalex.org/W1984398496",
-        "https://openalex.org/W1984564975",
-        "https://openalex.org/W1995936364",
-        "https://openalex.org/W1996798681",
-        "https://openalex.org/W1997338331",
-        "https://openalex.org/W2004579979",
-        "https://openalex.org/W2006936617",
-        "https://openalex.org/W2016155104",
-        "https://openalex.org/W2033563710",
-        "https://openalex.org/W2038022413",
-        "https://openalex.org/W2045386399",
-        "https://openalex.org/W2048992833",
-        "https://openalex.org/W2052794190",
-        "https://openalex.org/W2054642756",
-        "https://openalex.org/W2056364333",
-        "https://openalex.org/W2068451724",
-        "https://openalex.org/W2075323669",
-        "https://openalex.org/W2076700333",
-        "https://openalex.org/W2089425749",
-        "https://openalex.org/W2091102796",
-        "https://openalex.org/W2097182438",
-        "https://openalex.org/W2105621431",
-        "https://openalex.org/W2112174128",
-        "https://openalex.org/W2117384830",
-        "https://openalex.org/W2140509858",
-        "https://openalex.org/W2142128538",
-        "https://openalex.org/W2144393012",
-        "https://openalex.org/W2144825350",
-        "https://openalex.org/W2144998196",
-        "https://openalex.org/W2147032228",
-        "https://openalex.org/W2149625141",
-        "https://openalex.org/W2155051757",
-        "https://openalex.org/W2159160498",
-        "https://openalex.org/W2194797203",
-        "https://openalex.org/W2204264276",
-        "https://openalex.org/W2472481663",
-        "https://openalex.org/W2534935434",
-        "https://openalex.org/W2595907432",
-        "https://openalex.org/W2612881818",
-        "https://openalex.org/W2738370932",
-        "https://openalex.org/W2766253230",
-        "https://openalex.org/W2767265916",
-        "https://openalex.org/W2788574565",
-        "https://openalex.org/W2793240392",
-        "https://openalex.org/W2828766043",
-        "https://openalex.org/W2911559530",
-        "https://openalex.org/W2990128836",
-        "https://openalex.org/W4205550164",
-        "https://openalex.org/W4232688783",
-        "https://openalex.org/W4255526734",
-        "https://openalex.org/W6633413770",
-        "https://openalex.org/W6678618728",
-        "https://openalex.org/W6728379862"
-      ],
-      "related_works": [
-        "https://openalex.org/W2979158794",
-        "https://openalex.org/W1494193636",
-        "https://openalex.org/W4253706755",
-        "https://openalex.org/W2809025089",
-        "https://openalex.org/W2038439569",
-        "https://openalex.org/W2899692067",
-        "https://openalex.org/W2075739839",
-        "https://openalex.org/W1989281753",
-        "https://openalex.org/W2462753875",
-        "https://openalex.org/W2350526805"
-      ],
-      "abstract_inverted_index": {
-        "Sargelu": [
-          0,
-          30,
-          157,
-          290
-        ],
-        "Formation": [
-          1,
-          31,
-          53,
-          291
-        ],
-        "(Middle": [
-          2
-        ],
-        "Jurassic)": [
-          3
-        ],
-        "is": [
-          4,
-          63,
-          109
-        ],
-        "well": [
-          5,
-          210
-        ],
-        "known": [
-          6
-        ],
-        "to": [
-          7,
-          60,
-          129,
-          227
-        ],
-        "be": [
-          8
-        ],
-        "one": [
-          9,
-          35
-        ],
-        "of": [
-          10,
-          50,
-          66,
-          102,
-          161,
-          171,
-          215,
-          224,
-          238,
-          244,
-          289,
-          313
-        ],
-        "the": [
-          11,
-          20,
-          57,
-          84,
-          106,
-          133,
-          137,
-          156,
-          165,
-          172,
-          197,
-          248,
-          299,
-          306
-        ],
-        "most": [
-          12,
-          170,
-          296
-        ],
-        "important": [
-          13
-        ],
-        "and": [
-          14,
-          69,
-          86,
-          112,
-          131,
-          150,
-          184,
-          212,
-          229,
-          234,
-          247,
-          254,
-          260,
-          269,
-          279,
-          301
-        ],
-        "wide": [
-          15
-        ],
-        "distributed": [
-          16
-        ],
-        "source": [
-          17,
-          287
-        ],
-        "rocks": [
-          18,
-          288
-        ],
-        "in": [
-          19,
-          44,
-          105,
-          127,
-          136,
-          155,
-          164,
-          218,
-          292
-        ],
-        "Middle": [
-          21
-        ],
-        "East.": [
-          22
-        ],
-        "In": [
-          23,
-          114,
-          295
-        ],
-        "this": [
-          24,
-          293
-        ],
-        "study,": [
-          25
-        ],
-        "nineteen": [
-          26
-        ],
-        "cuttings": [
-          27
-        ],
-        "samples": [
-          28,
-          80,
-          117,
-          166,
-          174,
-          199,
-          265
-        ],
-        "from": [
-          29,
-          34,
-          56,
-          83,
-          97,
-          251,
-          275
-        ],
-        "were": [
-          32,
-          81
-        ],
-        "studied": [
-          33,
-          173,
-          198,
-          264,
-          297
-        ],
-        "subsurface": [
-          36
-        ],
-        "section": [
-          37
-        ],
-        "within": [
-          38
-        ],
-        "Miran": [
-          39
-        ],
-        "West": [
-          40
-        ],
-        "Field": [
-          41
-        ],
-        "(well": [
-          42
-        ],
-        "MW-2)": [
-          43
-        ],
-        "Zagros": [
-          45
-        ],
-        "Folded": [
-          46
-        ],
-        "Belt,": [
-          47
-        ],
-        "Kurdistan": [
-          48
-        ],
-        "region": [
-          49
-        ],
-        "Iraq.": [
-          51
-        ],
-        "The": [
-          52,
-          71,
-          100,
-          140,
-          159,
-          189,
-          206,
-          263
-        ],
-        "was": [
-          54,
-          167
-        ],
-        "penetrated": [
-          55
-        ],
-        "interval": [
-          58,
-          108
-        ],
-        "2375m": [
-          59
-        ],
-        "2475m,": [
-          61
-        ],
-        "which": [
-          62
-        ],
-        "mainly": [
-          64
-        ],
-        "composed": [
-          65
-        ],
-        "argillaceous": [
-          67
-        ],
-        "limestone": [
-          68
-        ],
-        "shale.": [
-          70
-        ],
-        "Total": [
-          72
-        ],
-        "Organic": [
-          73
-        ],
-        "Carbon": [
-          74
-        ],
-        "(TOC": [
-          75
-        ],
-        "wt": [
-          76
-        ],
-        "%)": [
-          77
-        ],
-        "for": [
-          78,
-          94,
-          196
-        ],
-        "all": [
-          79,
-          116
-        ],
-        "calculated": [
-          82,
-          190
-        ],
-        "sonic": [
-          85
-        ],
-        "resistivity": [
-          87
-        ],
-        "logs": [
-          88
-        ],
-        "using": [
-          89
-        ],
-        "Passey": [
-          90
-        ],
-        "et": [
-          91
-        ],
-        "al.,": [
-          92
-        ],
-        "method": [
-          93
-        ],
-        "TOC": [
-          95,
-          103,
-          207
-        ],
-        "estimation": [
-          96
-        ],
-        "wireline": [
-          98
-        ],
-        "logs.": [
-          99
-        ],
-        "range": [
-          101
-        ],
-        "percentage": [
-          104
-        ],
-        "selected": [
-          107,
-          138
-        ],
-        "between": [
-          110,
-          144
-        ],
-        "0.654": [
-          111
-        ],
-        "6.53%.": [
-          113
-        ],
-        "addition,": [
-          115
-        ],
-        "have": [
-          118,
-          266
-        ],
-        "been": [
-          119
-        ],
-        "analyzed": [
-          120
-        ],
-        "by": [
-          121
-        ],
-        "Gas": [
-          122
-        ],
-        "Chromatography/": [
-          123
-        ],
-        "Mass": [
-          124
-        ],
-        "Spectrometry": [
-          125
-        ],
-        "(GC/MS)": [
-          126
-        ],
-        "order": [
-          128
-        ],
-        "identify": [
-          130
-        ],
-        "study": [
-          132
-        ],
-        "biomarkers": [
-          134
-        ],
-        "distribution": [
-          135
-        ],
-        "rocks.": [
-          139
-        ],
-        "short": [
-          141
-        ],
-        "chain": [
-          142
-        ],
-        "n-alkanes": [
-          143
-        ],
-        "C15-C18,": [
-          145
-        ],
-        "with": [
-          146,
-          257,
-          318
-        ],
-        "isoprenoids": [
-          147
-        ],
-        "pristane": [
-          148
-        ],
-        "(Pr)": [
-          149
-        ],
-        "phytane": [
-          151
-        ],
-        "(Ph)": [
-          152
-        ],
-        "are": [
-          153
-        ],
-        "dominants": [
-          154
-        ],
-        "formation.": [
-          158
-        ],
-        "average": [
-          160
-        ],
-        "Pr/Ph": [
-          162,
-          225
-        ],
-        "ratio": [
-          163
-        ],
-        "0.95.": [
-          168
-        ],
-        "Furthermore,": [
-          169
-        ],
-        "show": [
-          175,
-          200
-        ],
-        "unimodal": [
-          176,
-          236
-        ],
-        "envelope": [
-          177,
-          237
-        ],
-        "chromatograms,": [
-          178
-        ],
-        "maximum": [
-          179
-        ],
-        "peak": [
-          180
-        ],
-        "carbon": [
-          181
-        ],
-        "n-C15-": [
-          182,
-          239
-        ],
-        "n-C20,": [
-          183
-        ],
-        "low": [
-          185
-        ],
-        "CPI": [
-          186
-        ],
-        "values": [
-          187,
-          208,
-          273
-        ],
-        "(0.89-1.17).": [
-          188
-        ],
-        "odd": [
-          191
-        ],
-        "over": [
-          192,
-          305
-        ],
-        "even": [
-          193
-        ],
-        "predominance": [
-          194,
-          243
-        ],
-        "(OEP)": [
-          195
-        ],
-        "near": [
-          201
-        ],
-        "value": [
-          202
-        ],
-        "1.0": [
-          203
-        ],
-        "(av.": [
-          204
-        ],
-        "0.94).": [
-          205
-        ],
-        "reflecting": [
-          209,
-          309
-        ],
-        "preservation": [
-          211
-        ],
-        "high": [
-          213,
-          285,
-          311
-        ],
-        "productivity": [
-          214
-        ],
-        "organic": [
-          216,
-          316,
-          322
-        ],
-        "matter": [
-          217,
-          317,
-          323
-        ],
-        "reducing/anoxic": [
-          219
-        ],
-        "depositional": [
-          220
-        ],
-        "environment.": [
-          221
-        ],
-        "Moreover,": [
-          222
-        ],
-        "ratios": [
-          223
-        ],
-        "indicating": [
-          226,
-          284
-        ],
-        "anoxic": [
-          228
-        ],
-        "commonly": [
-          230
-        ],
-        "marine": [
-          231,
-          245
-        ],
-        "carbonate": [
-          232
-        ],
-        "environments;": [
-          233
-        ],
-        "also": [
-          235
-        ],
-        "n-C20": [
-          240
-        ],
-        "shows": [
-          241
-        ],
-        "a": [
-          242,
-          310,
-          319
-        ],
-        "input,": [
-          246
-        ],
-        "organisms": [
-          249
-        ],
-        "derived": [
-          250
-        ],
-        "phytoplankton,": [
-          252
-        ],
-        "zooplankton": [
-          253
-        ],
-        "benthic": [
-          255
-        ],
-        "bacteria": [
-          256
-        ],
-        "minor": [
-          258,
-          320
-        ],
-        "photosynthetic": [
-          259
-        ],
-        "terrestrial": [
-          261
-        ],
-        "plants.": [
-          262
-        ],
-        "C29": [
-          267,
-          302
-        ],
-        "20S/(20S+20R)": [
-          268
-        ],
-        "ββ/": [
-          270
-        ],
-        "(ββ+αα)": [
-          271
-        ],
-        "isomerization": [
-          272
-        ],
-        "ranging": [
-          274
-        ],
-        "0.39": [
-          276
-        ],
-        "-": [
-          277,
-          281
-        ],
-        "0.58": [
-          278
-        ],
-        "0.48": [
-          280
-        ],
-        "0.65": [
-          282
-        ],
-        "respectively,": [
-          283
-        ],
-        "mature": [
-          286
-        ],
-        "well.": [
-          294
-        ],
-        "samples,": [
-          298
-        ],
-        "C27": [
-          300
-        ],
-        "steranes": [
-          303
-        ],
-        "predominate": [
-          304
-        ],
-        "C28": [
-          307
-        ],
-        "steranes,": [
-          308
-        ],
-        "contribution": [
-          312
-        ],
-        "aquatic": [
-          314
-        ],
-        "planktonic-bacterial": [
-          315
-        ],
-        "terrigenous": [
-          321
-        ],
-        "input.": [
-          324
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-06-11T09:08:48.828518",
-      "created_date": "2025-10-10T00:00:00"
     },
     {
       "id": "https://openalex.org/W3205801506",
@@ -164973,7 +163601,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -165025,11 +163653,11 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 0.3312,
+      "fwci": 0.3307,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.45922038,
+        "value": 0.45906021,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -166371,7 +164999,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-22T07:34:49.880490",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -166588,7 +165216,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -166710,11 +165338,11 @@
         "value_usd": 4500
       },
       "apc_paid": null,
-      "fwci": 0.8767,
+      "fwci": 0.8764,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.80945189,
+        "value": 0.80940546,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -168007,7 +166635,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -169831,7 +168459,7 @@
           "author": {
             "id": "https://openalex.org/A5042320898",
             "display_name": "Samina Jahandad",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-1567-0459"
           },
           "institutions": [
             {
@@ -169868,7 +168496,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -169994,11 +168622,11 @@
         "value_usd": 3540
       },
       "apc_paid": null,
-      "fwci": 0.3673,
+      "fwci": 0.3663,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.55786572,
+        "value": 0.55741152,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -171114,7 +169742,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-11-28T00:00:00"
     },
     {
@@ -171370,7 +169998,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -171461,11 +170089,11 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 0.3673,
+      "fwci": 0.3663,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.55854319,
+        "value": 0.55808901,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -172542,7 +171170,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-11-28T00:00:00"
     },
     {
@@ -172788,7 +171416,7 @@
           "author": {
             "id": "https://openalex.org/A5042320898",
             "display_name": "Samina Jahandad",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-1567-0459"
           },
           "institutions": [
             {
@@ -172832,7 +171460,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -172908,7 +171536,7 @@
           "author": {
             "id": "https://openalex.org/A5069161391",
             "display_name": "Muhammad Nofal Munir",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-3148-1081"
           },
           "institutions": [
             {
@@ -173171,11 +171799,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3673,
+      "fwci": 0.3663,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.56802785,
+        "value": 0.5675038,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -174118,7 +172746,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-12-18T00:00:00"
     },
     {
@@ -176002,6 +174630,1389 @@
         }
       ],
       "updated_date": "2026-08-15T07:11:24.734988",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3089794676",
+      "doi": "https://doi.org/10.17656/jzs.10796",
+      "title": "Sterane biomarker analysis of Sargelu Formation, Miran West Field, MW-2 well, Kurdistan Region, NE Iraq: Implications for origin of organic matter, palaeoenvironment and maturity",
+      "display_name": "Sterane biomarker analysis of Sargelu Formation, Miran West Field, MW-2 well, Kurdistan Region, NE Iraq: Implications for origin of organic matter, palaeoenvironment and maturity",
+      "publication_year": 2020,
+      "publication_date": "2020-06-20",
+      "ids": {
+        "openalex": "https://openalex.org/W3089794676",
+        "doi": "https://doi.org/10.17656/jzs.10796",
+        "mag": "3089794676"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.17656/jzs.10796",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.17656/jzs.10796",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210170001",
+          "display_name": "Journal of Zankoy Sulaimani - Part A",
+          "issn_l": "1812-4100",
+          "issn": [
+            "1812-4100",
+            "2521-4853"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Zankoy Sulaimani - Part A",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.17656/jzs.10796",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5081887535",
+            "display_name": "Danyar Salih",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Danyar Salih",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5030143362",
+            "display_name": "Sardar S. Fatah",
+            "orcid": "https://orcid.org/0000-0003-2520-9831"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Sardar Fatah",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5061088321",
+            "display_name": "Fraidoon Rashid",
+            "orcid": "https://orcid.org/0000-0003-3039-4891"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Fraidoon Rashid",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5029716563",
+            "display_name": "Mohammed Hail Hakimi",
+            "orcid": "https://orcid.org/0000-0002-3320-9690"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Hakimi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5083028288",
+            "display_name": "Ibrahim M. J. Mohialdeen",
+            "orcid": "https://orcid.org/0000-0003-4544-3959"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Ibrahim Mohialdeen",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.4096,
+      "has_fulltext": false,
+      "cited_by_count": 4,
+      "citation_normalized_percentile": {
+        "value": 0.53581621,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 95
+      },
+      "biblio": {
+        "volume": "22",
+        "issue": "1",
+        "first_page": "321",
+        "last_page": "344"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.9648000001907349,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9648000001907349,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12157",
+          "display_name": "Geochemistry and Geologic Mapping",
+          "score": 0.9553999900817871,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/sterane",
+          "display_name": "Sterane",
+          "score": 0.8471241593360901
+        },
+        {
+          "id": "https://openalex.org/keywords/phytane",
+          "display_name": "Phytane",
+          "score": 0.7635732889175415
+        },
+        {
+          "id": "https://openalex.org/keywords/anoxic-waters",
+          "display_name": "Anoxic waters",
+          "score": 0.7443194389343262
+        },
+        {
+          "id": "https://openalex.org/keywords/organic-matter",
+          "display_name": "Organic matter",
+          "score": 0.7249917984008789
+        },
+        {
+          "id": "https://openalex.org/keywords/kerogen",
+          "display_name": "Kerogen",
+          "score": 0.7077758312225342
+        },
+        {
+          "id": "https://openalex.org/keywords/total-organic-carbon",
+          "display_name": "Total organic carbon",
+          "score": 0.6972325444221497
+        },
+        {
+          "id": "https://openalex.org/keywords/maturity",
+          "display_name": "Maturity (psychological)",
+          "score": 0.6657862663269043
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
+          "display_name": "Sedimentary depositional environment",
+          "score": 0.6585294604301453
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.633427083492279
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-shale",
+          "display_name": "Oil shale",
+          "score": 0.6025152802467346
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.5905474424362183
+        },
+        {
+          "id": "https://openalex.org/keywords/source-rock",
+          "display_name": "Source rock",
+          "score": 0.5856448411941528
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-organic-matter",
+          "display_name": "Sedimentary organic matter",
+          "score": 0.49753430485725403
+        },
+        {
+          "id": "https://openalex.org/keywords/diamondoid",
+          "display_name": "Diamondoid",
+          "score": 0.4915033280849457
+        },
+        {
+          "id": "https://openalex.org/keywords/mineralogy",
+          "display_name": "Mineralogy",
+          "score": 0.4231383800506592
+        },
+        {
+          "id": "https://openalex.org/keywords/hopanoids",
+          "display_name": "Hopanoids",
+          "score": 0.41733407974243164
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-chemistry",
+          "display_name": "Environmental chemistry",
+          "score": 0.4124603569507599
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.3268008232116699
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.2738957405090332
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.1623159646987915
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2776141960",
+          "wikidata": "https://www.wikidata.org/wiki/Q418830",
+          "display_name": "Sterane",
+          "level": 5,
+          "score": 0.8471241593360901
+        },
+        {
+          "id": "https://openalex.org/C2780888746",
+          "wikidata": "https://www.wikidata.org/wiki/Q171701",
+          "display_name": "Phytane",
+          "level": 4,
+          "score": 0.7635732889175415
+        },
+        {
+          "id": "https://openalex.org/C108970007",
+          "wikidata": "https://www.wikidata.org/wiki/Q568324",
+          "display_name": "Anoxic waters",
+          "level": 2,
+          "score": 0.7443194389343262
+        },
+        {
+          "id": "https://openalex.org/C48743137",
+          "wikidata": "https://www.wikidata.org/wiki/Q1783121",
+          "display_name": "Organic matter",
+          "level": 2,
+          "score": 0.7249917984008789
+        },
+        {
+          "id": "https://openalex.org/C2779196632",
+          "wikidata": "https://www.wikidata.org/wiki/Q938398",
+          "display_name": "Kerogen",
+          "level": 4,
+          "score": 0.7077758312225342
+        },
+        {
+          "id": "https://openalex.org/C158787203",
+          "wikidata": "https://www.wikidata.org/wiki/Q900291",
+          "display_name": "Total organic carbon",
+          "level": 2,
+          "score": 0.6972325444221497
+        },
+        {
+          "id": "https://openalex.org/C101433766",
+          "wikidata": "https://www.wikidata.org/wiki/Q3543263",
+          "display_name": "Maturity (psychological)",
+          "level": 2,
+          "score": 0.6657862663269043
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.6585294604301453
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.633427083492279
+        },
+        {
+          "id": "https://openalex.org/C153127940",
+          "wikidata": "https://www.wikidata.org/wiki/Q221378",
+          "display_name": "Oil shale",
+          "level": 2,
+          "score": 0.6025152802467346
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5905474424362183
+        },
+        {
+          "id": "https://openalex.org/C126559015",
+          "wikidata": "https://www.wikidata.org/wiki/Q1988844",
+          "display_name": "Source rock",
+          "level": 3,
+          "score": 0.5856448411941528
+        },
+        {
+          "id": "https://openalex.org/C2780173749",
+          "wikidata": "https://www.wikidata.org/wiki/Q7445310",
+          "display_name": "Sedimentary organic matter",
+          "level": 3,
+          "score": 0.49753430485725403
+        },
+        {
+          "id": "https://openalex.org/C90104038",
+          "wikidata": "https://www.wikidata.org/wiki/Q419631",
+          "display_name": "Diamondoid",
+          "level": 3,
+          "score": 0.4915033280849457
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.4231383800506592
+        },
+        {
+          "id": "https://openalex.org/C167195282",
+          "wikidata": "https://www.wikidata.org/wiki/Q108573225",
+          "display_name": "Hopanoids",
+          "level": 4,
+          "score": 0.41733407974243164
+        },
+        {
+          "id": "https://openalex.org/C107872376",
+          "wikidata": "https://www.wikidata.org/wiki/Q321355",
+          "display_name": "Environmental chemistry",
+          "level": 1,
+          "score": 0.4124603569507599
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.3268008232116699
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.2738957405090332
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.1623159646987915
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C138496976",
+          "wikidata": "https://www.wikidata.org/wiki/Q175002",
+          "display_name": "Developmental psychology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C32909587",
+          "wikidata": "https://www.wikidata.org/wiki/Q11369",
+          "display_name": "Molecule",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.17656/jzs.10796",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.17656/jzs.10796",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210170001",
+            "display_name": "Journal of Zankoy Sulaimani - Part A",
+            "issn_l": "1812-4100",
+            "issn": [
+              "1812-4100",
+              "2521-4853"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": "cc-by-nc-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Zankoy Sulaimani - Part A",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.17656/jzs.10796",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.17656/jzs.10796",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210170001",
+          "display_name": "Journal of Zankoy Sulaimani - Part A",
+          "issn_l": "1812-4100",
+          "issn": [
+            "1812-4100",
+            "2521-4853"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Zankoy Sulaimani - Part A",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/2",
+          "score": 0.6399999856948853,
+          "display_name": "Zero hunger"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 64,
+      "referenced_works": [
+        "https://openalex.org/W22360322",
+        "https://openalex.org/W203584942",
+        "https://openalex.org/W1578727128",
+        "https://openalex.org/W1600718613",
+        "https://openalex.org/W1825260807",
+        "https://openalex.org/W1930351012",
+        "https://openalex.org/W1973826423",
+        "https://openalex.org/W1974679186",
+        "https://openalex.org/W1975850570",
+        "https://openalex.org/W1976285766",
+        "https://openalex.org/W1980367212",
+        "https://openalex.org/W1984398496",
+        "https://openalex.org/W1984564975",
+        "https://openalex.org/W1995936364",
+        "https://openalex.org/W1996798681",
+        "https://openalex.org/W1997338331",
+        "https://openalex.org/W2004579979",
+        "https://openalex.org/W2006936617",
+        "https://openalex.org/W2016155104",
+        "https://openalex.org/W2033563710",
+        "https://openalex.org/W2038022413",
+        "https://openalex.org/W2045386399",
+        "https://openalex.org/W2048992833",
+        "https://openalex.org/W2052794190",
+        "https://openalex.org/W2054642756",
+        "https://openalex.org/W2056364333",
+        "https://openalex.org/W2068451724",
+        "https://openalex.org/W2075323669",
+        "https://openalex.org/W2076700333",
+        "https://openalex.org/W2089425749",
+        "https://openalex.org/W2091102796",
+        "https://openalex.org/W2097182438",
+        "https://openalex.org/W2105621431",
+        "https://openalex.org/W2112174128",
+        "https://openalex.org/W2117384830",
+        "https://openalex.org/W2140509858",
+        "https://openalex.org/W2142128538",
+        "https://openalex.org/W2144393012",
+        "https://openalex.org/W2144825350",
+        "https://openalex.org/W2144998196",
+        "https://openalex.org/W2147032228",
+        "https://openalex.org/W2149625141",
+        "https://openalex.org/W2155051757",
+        "https://openalex.org/W2159160498",
+        "https://openalex.org/W2194797203",
+        "https://openalex.org/W2204264276",
+        "https://openalex.org/W2472481663",
+        "https://openalex.org/W2534935434",
+        "https://openalex.org/W2595907432",
+        "https://openalex.org/W2612881818",
+        "https://openalex.org/W2738370932",
+        "https://openalex.org/W2766253230",
+        "https://openalex.org/W2767265916",
+        "https://openalex.org/W2788574565",
+        "https://openalex.org/W2793240392",
+        "https://openalex.org/W2828766043",
+        "https://openalex.org/W2911559530",
+        "https://openalex.org/W2990128836",
+        "https://openalex.org/W4205550164",
+        "https://openalex.org/W4232688783",
+        "https://openalex.org/W4255526734",
+        "https://openalex.org/W6633413770",
+        "https://openalex.org/W6678618728",
+        "https://openalex.org/W6728379862"
+      ],
+      "related_works": [
+        "https://openalex.org/W2979158794",
+        "https://openalex.org/W1494193636",
+        "https://openalex.org/W4253706755",
+        "https://openalex.org/W2809025089",
+        "https://openalex.org/W2038439569",
+        "https://openalex.org/W2899692067",
+        "https://openalex.org/W2075739839",
+        "https://openalex.org/W1989281753",
+        "https://openalex.org/W2462753875",
+        "https://openalex.org/W2350526805"
+      ],
+      "abstract_inverted_index": {
+        "Sargelu": [
+          0,
+          30,
+          157,
+          290
+        ],
+        "Formation": [
+          1,
+          31,
+          53,
+          291
+        ],
+        "(Middle": [
+          2
+        ],
+        "Jurassic)": [
+          3
+        ],
+        "is": [
+          4,
+          63,
+          109
+        ],
+        "well": [
+          5,
+          210
+        ],
+        "known": [
+          6
+        ],
+        "to": [
+          7,
+          60,
+          129,
+          227
+        ],
+        "be": [
+          8
+        ],
+        "one": [
+          9,
+          35
+        ],
+        "of": [
+          10,
+          50,
+          66,
+          102,
+          161,
+          171,
+          215,
+          224,
+          238,
+          244,
+          289,
+          313
+        ],
+        "the": [
+          11,
+          20,
+          57,
+          84,
+          106,
+          133,
+          137,
+          156,
+          165,
+          172,
+          197,
+          248,
+          299,
+          306
+        ],
+        "most": [
+          12,
+          170,
+          296
+        ],
+        "important": [
+          13
+        ],
+        "and": [
+          14,
+          69,
+          86,
+          112,
+          131,
+          150,
+          184,
+          212,
+          229,
+          234,
+          247,
+          254,
+          260,
+          269,
+          279,
+          301
+        ],
+        "wide": [
+          15
+        ],
+        "distributed": [
+          16
+        ],
+        "source": [
+          17,
+          287
+        ],
+        "rocks": [
+          18,
+          288
+        ],
+        "in": [
+          19,
+          44,
+          105,
+          127,
+          136,
+          155,
+          164,
+          218,
+          292
+        ],
+        "Middle": [
+          21
+        ],
+        "East.": [
+          22
+        ],
+        "In": [
+          23,
+          114,
+          295
+        ],
+        "this": [
+          24,
+          293
+        ],
+        "study,": [
+          25
+        ],
+        "nineteen": [
+          26
+        ],
+        "cuttings": [
+          27
+        ],
+        "samples": [
+          28,
+          80,
+          117,
+          166,
+          174,
+          199,
+          265
+        ],
+        "from": [
+          29,
+          34,
+          56,
+          83,
+          97,
+          251,
+          275
+        ],
+        "were": [
+          32,
+          81
+        ],
+        "studied": [
+          33,
+          173,
+          198,
+          264,
+          297
+        ],
+        "subsurface": [
+          36
+        ],
+        "section": [
+          37
+        ],
+        "within": [
+          38
+        ],
+        "Miran": [
+          39
+        ],
+        "West": [
+          40
+        ],
+        "Field": [
+          41
+        ],
+        "(well": [
+          42
+        ],
+        "MW-2)": [
+          43
+        ],
+        "Zagros": [
+          45
+        ],
+        "Folded": [
+          46
+        ],
+        "Belt,": [
+          47
+        ],
+        "Kurdistan": [
+          48
+        ],
+        "region": [
+          49
+        ],
+        "Iraq.": [
+          51
+        ],
+        "The": [
+          52,
+          71,
+          100,
+          140,
+          159,
+          189,
+          206,
+          263
+        ],
+        "was": [
+          54,
+          167
+        ],
+        "penetrated": [
+          55
+        ],
+        "interval": [
+          58,
+          108
+        ],
+        "2375m": [
+          59
+        ],
+        "2475m,": [
+          61
+        ],
+        "which": [
+          62
+        ],
+        "mainly": [
+          64
+        ],
+        "composed": [
+          65
+        ],
+        "argillaceous": [
+          67
+        ],
+        "limestone": [
+          68
+        ],
+        "shale.": [
+          70
+        ],
+        "Total": [
+          72
+        ],
+        "Organic": [
+          73
+        ],
+        "Carbon": [
+          74
+        ],
+        "(TOC": [
+          75
+        ],
+        "wt": [
+          76
+        ],
+        "%)": [
+          77
+        ],
+        "for": [
+          78,
+          94,
+          196
+        ],
+        "all": [
+          79,
+          116
+        ],
+        "calculated": [
+          82,
+          190
+        ],
+        "sonic": [
+          85
+        ],
+        "resistivity": [
+          87
+        ],
+        "logs": [
+          88
+        ],
+        "using": [
+          89
+        ],
+        "Passey": [
+          90
+        ],
+        "et": [
+          91
+        ],
+        "al.,": [
+          92
+        ],
+        "method": [
+          93
+        ],
+        "TOC": [
+          95,
+          103,
+          207
+        ],
+        "estimation": [
+          96
+        ],
+        "wireline": [
+          98
+        ],
+        "logs.": [
+          99
+        ],
+        "range": [
+          101
+        ],
+        "percentage": [
+          104
+        ],
+        "selected": [
+          107,
+          138
+        ],
+        "between": [
+          110,
+          144
+        ],
+        "0.654": [
+          111
+        ],
+        "6.53%.": [
+          113
+        ],
+        "addition,": [
+          115
+        ],
+        "have": [
+          118,
+          266
+        ],
+        "been": [
+          119
+        ],
+        "analyzed": [
+          120
+        ],
+        "by": [
+          121
+        ],
+        "Gas": [
+          122
+        ],
+        "Chromatography/": [
+          123
+        ],
+        "Mass": [
+          124
+        ],
+        "Spectrometry": [
+          125
+        ],
+        "(GC/MS)": [
+          126
+        ],
+        "order": [
+          128
+        ],
+        "identify": [
+          130
+        ],
+        "study": [
+          132
+        ],
+        "biomarkers": [
+          134
+        ],
+        "distribution": [
+          135
+        ],
+        "rocks.": [
+          139
+        ],
+        "short": [
+          141
+        ],
+        "chain": [
+          142
+        ],
+        "n-alkanes": [
+          143
+        ],
+        "C15-C18,": [
+          145
+        ],
+        "with": [
+          146,
+          257,
+          318
+        ],
+        "isoprenoids": [
+          147
+        ],
+        "pristane": [
+          148
+        ],
+        "(Pr)": [
+          149
+        ],
+        "phytane": [
+          151
+        ],
+        "(Ph)": [
+          152
+        ],
+        "are": [
+          153
+        ],
+        "dominants": [
+          154
+        ],
+        "formation.": [
+          158
+        ],
+        "average": [
+          160
+        ],
+        "Pr/Ph": [
+          162,
+          225
+        ],
+        "ratio": [
+          163
+        ],
+        "0.95.": [
+          168
+        ],
+        "Furthermore,": [
+          169
+        ],
+        "show": [
+          175,
+          200
+        ],
+        "unimodal": [
+          176,
+          236
+        ],
+        "envelope": [
+          177,
+          237
+        ],
+        "chromatograms,": [
+          178
+        ],
+        "maximum": [
+          179
+        ],
+        "peak": [
+          180
+        ],
+        "carbon": [
+          181
+        ],
+        "n-C15-": [
+          182,
+          239
+        ],
+        "n-C20,": [
+          183
+        ],
+        "low": [
+          185
+        ],
+        "CPI": [
+          186
+        ],
+        "values": [
+          187,
+          208,
+          273
+        ],
+        "(0.89-1.17).": [
+          188
+        ],
+        "odd": [
+          191
+        ],
+        "over": [
+          192,
+          305
+        ],
+        "even": [
+          193
+        ],
+        "predominance": [
+          194,
+          243
+        ],
+        "(OEP)": [
+          195
+        ],
+        "near": [
+          201
+        ],
+        "value": [
+          202
+        ],
+        "1.0": [
+          203
+        ],
+        "(av.": [
+          204
+        ],
+        "0.94).": [
+          205
+        ],
+        "reflecting": [
+          209,
+          309
+        ],
+        "preservation": [
+          211
+        ],
+        "high": [
+          213,
+          285,
+          311
+        ],
+        "productivity": [
+          214
+        ],
+        "organic": [
+          216,
+          316,
+          322
+        ],
+        "matter": [
+          217,
+          317,
+          323
+        ],
+        "reducing/anoxic": [
+          219
+        ],
+        "depositional": [
+          220
+        ],
+        "environment.": [
+          221
+        ],
+        "Moreover,": [
+          222
+        ],
+        "ratios": [
+          223
+        ],
+        "indicating": [
+          226,
+          284
+        ],
+        "anoxic": [
+          228
+        ],
+        "commonly": [
+          230
+        ],
+        "marine": [
+          231,
+          245
+        ],
+        "carbonate": [
+          232
+        ],
+        "environments;": [
+          233
+        ],
+        "also": [
+          235
+        ],
+        "n-C20": [
+          240
+        ],
+        "shows": [
+          241
+        ],
+        "a": [
+          242,
+          310,
+          319
+        ],
+        "input,": [
+          246
+        ],
+        "organisms": [
+          249
+        ],
+        "derived": [
+          250
+        ],
+        "phytoplankton,": [
+          252
+        ],
+        "zooplankton": [
+          253
+        ],
+        "benthic": [
+          255
+        ],
+        "bacteria": [
+          256
+        ],
+        "minor": [
+          258,
+          320
+        ],
+        "photosynthetic": [
+          259
+        ],
+        "terrestrial": [
+          261
+        ],
+        "plants.": [
+          262
+        ],
+        "C29": [
+          267,
+          302
+        ],
+        "20S/(20S+20R)": [
+          268
+        ],
+        "ββ/": [
+          270
+        ],
+        "(ββ+αα)": [
+          271
+        ],
+        "isomerization": [
+          272
+        ],
+        "ranging": [
+          274
+        ],
+        "0.39": [
+          276
+        ],
+        "-": [
+          277,
+          281
+        ],
+        "0.58": [
+          278
+        ],
+        "0.48": [
+          280
+        ],
+        "0.65": [
+          282
+        ],
+        "respectively,": [
+          283
+        ],
+        "mature": [
+          286
+        ],
+        "well.": [
+          294
+        ],
+        "samples,": [
+          298
+        ],
+        "C27": [
+          300
+        ],
+        "steranes": [
+          303
+        ],
+        "predominate": [
+          304
+        ],
+        "C28": [
+          307
+        ],
+        "steranes,": [
+          308
+        ],
+        "contribution": [
+          312
+        ],
+        "aquatic": [
+          314
+        ],
+        "planktonic-bacterial": [
+          315
+        ],
+        "terrigenous": [
+          321
+        ],
+        "input.": [
+          324
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -181164,7 +181175,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -181290,7 +181301,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.3946996,
+        "value": 0.39468572,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -181795,7 +181806,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -181940,7 +181951,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -182099,11 +182110,11 @@
         "value_usd": 2780
       },
       "apc_paid": null,
-      "fwci": 0.2557,
+      "fwci": 0.2558,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.45303423,
+        "value": 0.45309632,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -182559,7 +182570,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -186329,7 +186340,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [],
           "countries": [],
@@ -186422,11 +186433,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1577,
+      "fwci": 1.158,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.78251204,
+        "value": 0.78263554,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -187104,7 +187115,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -189288,7 +189299,7 @@
           "author": {
             "id": "https://openalex.org/A5109929541",
             "display_name": "Mohammed A. Abdullah",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0001-7121-8216"
           },
           "institutions": [
             {
@@ -189558,11 +189569,11 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 0.3673,
+      "fwci": 0.3663,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.43066393,
+        "value": 0.43013667,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -190564,7 +190575,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -192380,7 +192391,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -192480,11 +192491,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1524,
+      "fwci": 0.1523,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.438051,
+        "value": 0.43811331,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -193124,7 +193135,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-15T07:11:24.734988",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -196040,7 +196051,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -196845,7 +196856,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-31T08:31:51.225901",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -200248,16 +200259,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -200909,16 +200920,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6100000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -201437,8 +201448,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -201896,16 +201907,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -202671,16 +202682,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -203328,16 +203339,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6399999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -204443,16 +204454,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.49000000953674316,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -205328,8 +205339,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4254323827.pdf",
@@ -205509,7 +205520,7 @@
           "author": {
             "id": "https://openalex.org/A5034540430",
             "display_name": "Yousif M. Makeen",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7470-1518"
           },
           "institutions": [
             {
@@ -205670,7 +205681,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03929634,
+        "value": 0.03929532,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -206052,8 +206063,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 85,
@@ -206158,7 +206169,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -206744,8 +206755,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -207413,8 +207424,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -207803,7 +207814,7 @@
           "author": {
             "id": "https://openalex.org/A5000472250",
             "display_name": "Hendy Setiawan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-2048-2791"
           },
           "institutions": [
             {
@@ -208188,8 +208199,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -208225,7 +208236,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -208335,7 +208346,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -208700,7 +208711,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.09602851,
+        "value": 0.09598248,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -209238,9 +209249,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -209260,8 +209271,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -210113,7 +210124,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -210969,9 +210980,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -211022,8 +211033,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4388960641.pdf",
@@ -211999,8 +212010,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -212382,8 +212393,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -212777,8 +212788,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -213160,8 +213171,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -213428,7 +213439,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -213577,7 +213588,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.05130102,
+        "value": 0.0512947,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -213900,16 +213911,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -213965,7 +213976,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -214235,7 +214246,7 @@
           "author": {
             "id": "https://openalex.org/A5042320898",
             "display_name": "Samina Jahandad",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-1567-0459"
           },
           "institutions": [
             {
@@ -214316,7 +214327,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -214377,7 +214388,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.14696538,
+        "value": 0.14666511,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -214668,8 +214679,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -214768,7 +214779,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -215571,8 +215582,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -216406,8 +216417,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -216520,7 +216531,7 @@
           "author": {
             "id": "https://openalex.org/A5042320898",
             "display_name": "Samina Jahandad",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-1567-0459"
           },
           "institutions": [],
           "countries": [],
@@ -216535,7 +216546,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [],
           "countries": [],
@@ -216578,7 +216589,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 8,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -216775,8 +216786,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -216784,7 +216795,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-11-28T00:00:00"
     },
     {
@@ -217113,7 +217124,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -217202,7 +217213,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03683346,
+        "value": 0.03682074,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -217568,9 +217579,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8276003003120422,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -217602,8 +217613,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7124310531.pdf",
@@ -218352,7 +218363,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-23T07:36:19.812096",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2026-01-16T00:00:00"
     },
     {
@@ -218502,7 +218513,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [],
           "countries": [],
@@ -218530,7 +218541,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 9,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -218668,8 +218679,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -218677,7 +218688,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2026-01-17T00:00:00"
     },
     {
@@ -218859,7 +218870,7 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0129-2423"
           },
           "institutions": [
             {
@@ -219059,7 +219070,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.06155252,
+        "value": 0.0610471,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -219451,8 +219462,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -219952,7 +219963,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-15T07:11:24.734988",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2026-02-02T00:00:00"
     },
     {
@@ -220789,16 +220800,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8843994736671448,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -221683,9 +221694,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8387792110443115,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -221705,8 +221716,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 108,
@@ -223176,8 +223187,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -224021,7 +224032,7 @@
           "author": {
             "id": "https://openalex.org/A5042320898",
             "display_name": "Samina Jahandad",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-1567-0459"
           },
           "institutions": [
             {
@@ -224113,7 +224124,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.32738901,
+        "value": 0.3249781,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -224436,8 +224447,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -225017,7 +225028,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2026-05-15T00:00:00"
     },
     {
@@ -225141,7 +225152,7 @@
           "author": {
             "id": "https://openalex.org/A5012173442",
             "display_name": "Irfan U. Jan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-0539-6182"
           },
           "institutions": [
             {
@@ -225356,7 +225367,7 @@
           "author": {
             "id": "https://openalex.org/A5036862131",
             "display_name": "Zubair Zubair",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-7797-8520"
           },
           "institutions": [
             {
@@ -225483,7 +225494,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.43008933,
+        "value": 0.42706017,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -225804,16 +225815,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6068084836006165,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -226409,7 +226420,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-09T07:26:56.047234",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2026-06-13T00:00:00"
     },
     {
@@ -227156,16 +227167,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6853108406066895,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7165893514.pdf",
@@ -228018,16 +228029,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8569029569625854,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -229506,16 +229517,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7405112981796265,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -230147,7 +230158,7 @@
           "author": {
             "id": "https://openalex.org/A5009456676",
             "display_name": "Omar F. Al-Mishaal",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-3550-0681"
           },
           "institutions": [
             {
@@ -230594,7 +230605,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.68623332,
+        "value": 0.68195794,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -231051,8 +231062,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -231864,7 +231875,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-16T18:09:00.828671",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2026-08-09T00:00:00"
     }
   ]

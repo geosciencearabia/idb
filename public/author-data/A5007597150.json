@@ -2,6 +2,9 @@
   "details": {
     "id": "https://openalex.org/A5007597150",
     "orcid": "https://orcid.org/0000-0002-8456-158X",
+    "observed_orcids": [
+      "https://orcid.org/0000-0002-8456-158X"
+    ],
     "display_name": "Mohammed Al Kindi",
     "raw_author_names": [
       "Al Kindi, Mohammed",
@@ -21,7 +24,10 @@
     },
     "ids": {
       "openalex": "https://openalex.org/A5007597150",
-      "orcid": "https://orcid.org/0000-0002-8456-158X"
+      "orcid": "https://orcid.org/0000-0002-8456-158X",
+      "observed_orcids": [
+        "https://orcid.org/0000-0002-8456-158X"
+      ]
     },
     "affiliations": [
       {
@@ -163,7 +169,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000359,
+        "value": 0.0000358,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -2078,8 +2084,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -4847,8 +4853,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6899999976158142,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -7333,8 +7339,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8600000143051147,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -8036,8 +8042,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.550000011920929,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -8548,8 +8554,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.47999998927116394,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -9082,8 +9088,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.46000000834465027,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -9162,6 +9168,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -9209,7 +9216,7 @@
           "author": {
             "id": "https://openalex.org/A5012088042",
             "display_name": "Alessia Marinoni",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0000-5841-9830"
           },
           "institutions": [],
           "countries": [],
@@ -9306,7 +9313,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.52829291,
+        "value": 0.30036697,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9545,6 +9552,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I4210132348",
             "host_organization_name": "Figshare (United Kingdom)",
             "host_organization_lineage": [
@@ -9575,6 +9583,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -9594,8 +9603,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.45413655042648315,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -9975,7 +9984,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-01T06:00:48.157686",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2026-04-25T00:00:00"
     },
     {
@@ -10003,6 +10012,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -10050,7 +10060,7 @@
           "author": {
             "id": "https://openalex.org/A5012088042",
             "display_name": "Alessia Marinoni",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0000-5841-9830"
           },
           "institutions": [],
           "countries": [],
@@ -10147,7 +10157,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.5299572,
+        "value": 0.30165138,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10386,6 +10396,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I4210132348",
             "host_organization_name": "Figshare (United Kingdom)",
             "host_organization_lineage": [
@@ -10416,6 +10427,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -10435,8 +10447,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.45413655042648315,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -10816,7 +10828,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-01T06:00:48.157686",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2026-04-25T00:00:00"
     },
     {
@@ -10926,7 +10938,7 @@
           "author": {
             "id": "https://openalex.org/A5012088042",
             "display_name": "Alessia Marinoni",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0000-5841-9830"
           },
           "institutions": [
             {
@@ -11170,7 +11182,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.39303305,
+        "value": 0.39213731,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11941,7 +11953,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-23T07:36:19.812096",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2026-04-25T00:00:00"
     },
     {
@@ -12581,8 +12593,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5195932388305664,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],

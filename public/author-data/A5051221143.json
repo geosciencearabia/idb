@@ -2,6 +2,7 @@
   "details": {
     "id": "https://openalex.org/A5051221143",
     "orcid": null,
+    "observed_orcids": [],
     "display_name": "Rabah Alouani",
     "raw_author_names": [
       "Alouani Rabah",
@@ -18,7 +19,8 @@
     },
     "ids": {
       "openalex": "https://openalex.org/A5051221143",
-      "orcid": null
+      "orcid": null,
+      "observed_orcids": []
     },
     "affiliations": [
       {
@@ -178,7 +180,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0001076,
+        "value": 0.0001075,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -1016,15 +1018,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -1328,7 +1330,7 @@
           "author": {
             "id": "https://openalex.org/A5110933747",
             "display_name": "Abdesslem Ben Haj Amara",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-2531-0254"
           },
           "institutions": [],
           "countries": [],
@@ -1385,11 +1387,11 @@
         "currency": "USD",
         "value_usd": 1630
       },
-      "fwci": 1.116,
+      "fwci": 1.1133,
       "has_fulltext": true,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.79434658,
+        "value": 0.79415148,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1873,8 +1875,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2400592313.pdf",
@@ -2294,7 +2296,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-09T07:26:56.047234",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2591,11 +2593,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.581,
+      "fwci": 1.5795,
       "has_fulltext": true,
-      "cited_by_count": 39,
+      "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.79199881,
+        "value": 0.79173472,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2908,15 +2910,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.5600000023841858,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W176213037.pdf",
@@ -3346,7 +3348,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2018,
@@ -3377,7 +3379,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-09T07:26:56.047234",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3545,7 +3547,7 @@
           "author": {
             "id": "https://openalex.org/A5022714102",
             "display_name": "Haïfa Boussiga",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0003-9023-7676"
           },
           "institutions": [
             {
@@ -3731,7 +3733,7 @@
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.12488769,
+        "value": 0.1248415,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3990,15 +3992,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -4114,7 +4116,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-17T07:59:56.861425",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4709,8 +4711,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1966461395.pdf",
@@ -5438,7 +5440,8 @@
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I134560555"
+                "https://openalex.org/I134560555",
+                "https://openalex.org/I4405258862"
               ]
             },
             {
@@ -5558,7 +5561,7 @@
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.11417537,
+        "value": 0.11408067,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5733,15 +5736,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -6686,7 +6689,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-12T07:12:00.856984",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6759,7 +6762,7 @@
           "author": {
             "id": "https://openalex.org/A5028508336",
             "display_name": "Wiem Ben Aïssa",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0001-7605-5233"
           },
           "institutions": [
             {
@@ -6840,7 +6843,7 @@
           "author": {
             "id": "https://openalex.org/A5110933747",
             "display_name": "Abdesslem Ben Haj Amara",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-2531-0254"
           },
           "institutions": [
             {
@@ -6974,11 +6977,11 @@
         "value_usd": 3890
       },
       "apc_paid": null,
-      "fwci": 0.3724,
+      "fwci": 0.3712,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.56908109,
+        "value": 0.56914833,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7331,8 +7334,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -7410,7 +7413,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7828,15 +7831,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -8598,7 +8601,7 @@
           "author": {
             "id": "https://openalex.org/A5113097444",
             "display_name": "Mabrouk Boughdiri",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-0535-214X"
           },
           "institutions": [
             {
@@ -8653,11 +8656,11 @@
         "value_usd": 2890
       },
       "apc_paid": null,
-      "fwci": 0.5437,
+      "fwci": 0.5434,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.56161685,
+        "value": 0.56153122,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8962,15 +8965,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -9076,7 +9079,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9122,7 +9125,7 @@
           "author": {
             "id": "https://openalex.org/A5022714102",
             "display_name": "Haïfa Boussiga",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0003-9023-7676"
           },
           "institutions": [],
           "countries": [],
@@ -9185,17 +9188,17 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.514,
+      "fwci": 1.5392,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.82691415,
+        "value": 0.82840237,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
-        "max": 95
+        "min": 88,
+        "max": 94
       },
       "biblio": {
         "volume": null,
@@ -9350,15 +9353,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9671,7 +9674,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9717,7 +9720,7 @@
           "author": {
             "id": "https://openalex.org/A5022714102",
             "display_name": "Haïfa Boussiga",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0003-9023-7676"
           },
           "institutions": [],
           "countries": [],
@@ -9795,16 +9798,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5169,
+      "fwci": 1.5122,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.8456474,
+        "value": 0.84604052,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 94
       },
       "biblio": {
@@ -9949,8 +9952,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10257,7 +10260,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10747,15 +10750,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11608,8 +11611,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -11758,7 +11761,7 @@
           "author": {
             "id": "https://openalex.org/A5022714102",
             "display_name": "Haïfa Boussiga",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0003-9023-7676"
           },
           "institutions": [
             {
@@ -11998,7 +12001,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.17899073,
+        "value": 0.1791967,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12184,15 +12187,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12211,7 +12214,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12597,15 +12600,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13366,8 +13369,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3140554541.pdf",
@@ -14317,8 +14320,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -14640,7 +14643,7 @@
           "author": {
             "id": "https://openalex.org/A5113097444",
             "display_name": "Mabrouk Boughdiri",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-0535-214X"
           },
           "institutions": [
             {
@@ -14968,15 +14971,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386418130.pdf",
@@ -14998,7 +15001,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-16T18:09:00.828671",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15070,7 +15073,7 @@
           "author": {
             "id": "https://openalex.org/A5086676053",
             "display_name": "R. Ben Aissa",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-5137-3937"
           },
           "institutions": [
             {
@@ -15150,7 +15153,7 @@
           "author": {
             "id": "https://openalex.org/A5028508336",
             "display_name": "Wiem Ben Aïssa",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0001-7605-5233"
           },
           "institutions": [
             {
@@ -15702,8 +15705,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -15717,7 +15720,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-08-05T07:39:15.569665",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-30T00:00:00"
     }
   ]

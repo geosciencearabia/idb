@@ -2,6 +2,9 @@
   "details": {
     "id": "https://openalex.org/A5044806143",
     "orcid": "https://orcid.org/0000-0002-7850-3471",
+    "observed_orcids": [
+      "https://orcid.org/0000-0002-7850-3471"
+    ],
     "display_name": "Mohamed A. K. El‐Ghali",
     "raw_author_names": [
       "El-Ghali, Mohamed A.K.",
@@ -27,7 +30,7 @@
     ],
     "full_name": "Mohamed A. K. El‐Ghali",
     "works_count": 90,
-    "cited_by_count": 1388,
+    "cited_by_count": 1389,
     "summary_stats": {
       "2yr_mean_citedness": 2.189189189189189,
       "h_index": 21,
@@ -35,7 +38,10 @@
     },
     "ids": {
       "openalex": "https://openalex.org/A5044806143",
-      "orcid": "https://orcid.org/0000-0002-7850-3471"
+      "orcid": "https://orcid.org/0000-0002-7850-3471",
+      "observed_orcids": [
+        "https://orcid.org/0000-0002-7850-3471"
+      ]
     },
     "affiliations": [
       {
@@ -302,7 +308,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000634,
+        "value": 0.0000633,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -461,7 +467,7 @@
         "year": 2023,
         "works_count": 10,
         "oa_works_count": 3,
-        "cited_by_count": 75
+        "cited_by_count": 76
       },
       {
         "year": 2024,
@@ -506,7 +512,7 @@
     ],
     "block_key": "m el-ghali",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044806143",
-    "updated_date": "2026-09-19T12:19:47",
+    "updated_date": "2026-09-20T14:48:07",
     "created_date": "2019-12-13T00:00:00"
   },
   "works": [
@@ -1287,8 +1293,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -2345,8 +2351,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5699999928474426,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -3210,8 +3216,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5199999809265137,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -4102,8 +4108,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.800000011920929,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -4973,8 +4979,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -5287,11 +5293,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 2.1278,
+      "fwci": 2.129,
       "has_fulltext": false,
-      "cited_by_count": 71,
+      "cited_by_count": 72,
       "citation_normalized_percentile": {
-        "value": 0.85943097,
+        "value": 0.85953878,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5584,8 +5590,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -5706,7 +5712,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2017,
@@ -5733,7 +5739,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6582,8 +6588,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -7735,11 +7741,11 @@
         "value_usd": 3540
       },
       "apc_paid": null,
-      "fwci": 1.0338,
+      "fwci": 1.0328,
       "has_fulltext": false,
-      "cited_by_count": 53,
+      "cited_by_count": 54,
       "citation_normalized_percentile": {
-        "value": 0.73739759,
+        "value": 0.73717177,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8032,8 +8038,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "score": 0.41999998688697815,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
@@ -8586,7 +8592,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2018,
@@ -8613,7 +8619,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9252,8 +9258,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -9616,7 +9622,7 @@
           "author": {
             "id": "https://openalex.org/A5100362574",
             "display_name": "Shiqi Zhang",
-            "orcid": "https://orcid.org/0009-0004-4490-7736"
+            "orcid": "https://orcid.org/0009-0004-3191-0741"
           },
           "institutions": [
             {
@@ -9690,7 +9696,7 @@
           "author": {
             "id": "https://openalex.org/A5112201504",
             "display_name": "Mu. Ramkumar",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4038-6978"
           },
           "institutions": [
             {
@@ -9832,11 +9838,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 3.0038,
+      "fwci": 3.0036,
       "has_fulltext": false,
-      "cited_by_count": 43,
+      "cited_by_count": 44,
       "citation_normalized_percentile": {
-        "value": 0.9130831,
+        "value": 0.91309144,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10301,8 +10307,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "score": 0.49000000953674316,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
@@ -10466,7 +10472,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2025,
@@ -10489,7 +10495,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-08-29T07:29:34.045763",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11144,8 +11150,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -12902,8 +12908,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -13692,8 +13698,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -14274,7 +14280,8 @@
               "country_code": "OM",
               "type": "healthcare",
               "lineage": [
-                "https://openalex.org/I197507618"
+                "https://openalex.org/I197507618",
+                "https://openalex.org/I4405253504"
               ]
             }
           ],
@@ -14316,7 +14323,8 @@
               "country_code": "OM",
               "type": "healthcare",
               "lineage": [
-                "https://openalex.org/I197507618"
+                "https://openalex.org/I197507618",
+                "https://openalex.org/I4405253504"
               ]
             }
           ],
@@ -14418,11 +14426,11 @@
         "value_usd": 4430
       },
       "apc_paid": null,
-      "fwci": 13.2774,
+      "fwci": 13.2862,
       "has_fulltext": true,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.98987464,
+        "value": 0.9898227,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15033,8 +15041,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -15779,7 +15787,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-20T07:33:13.661266",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16351,7 +16359,7 @@
           "author": {
             "id": "https://openalex.org/A5100362574",
             "display_name": "Shiqi Zhang",
-            "orcid": "https://orcid.org/0009-0004-4490-7736"
+            "orcid": "https://orcid.org/0009-0004-3191-0741"
           },
           "institutions": [
             {
@@ -16408,11 +16416,11 @@
         "value_usd": 3650
       },
       "apc_paid": null,
-      "fwci": 3.7774,
+      "fwci": 3.7797,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.94536985,
+        "value": 0.94537756,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16669,8 +16677,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -17394,7 +17402,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-29T07:29:34.045763",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18161,8 +18169,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -18989,7 +18997,7 @@
           "author": {
             "id": "https://openalex.org/A5008843127",
             "display_name": "Oluwaseun Daniel Akinyemi",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-3376-4109"
           },
           "institutions": [
             {
@@ -19153,11 +19161,11 @@
         "currency": "USD",
         "value_usd": 1600
       },
-      "fwci": 2.3182,
+      "fwci": 2.3152,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.87814718,
+        "value": 0.87790952,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20167,7 +20175,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-09-09T07:26:56.047234",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20469,11 +20477,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 0.8637,
+      "fwci": 0.865,
       "has_fulltext": false,
-      "cited_by_count": 44,
+      "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.74098676,
+        "value": 0.74138641,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20760,8 +20768,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -20935,7 +20943,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2017,
@@ -20958,7 +20966,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-09-04T10:56:28.161419",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21515,8 +21523,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -22351,8 +22359,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -23943,8 +23951,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -25895,8 +25903,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7400000095367432,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -26838,8 +26846,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5299999713897705,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -27775,7 +27783,7 @@
           "author": {
             "id": "https://openalex.org/A5035896236",
             "display_name": "Saïd Gaci",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-6312-0646"
           },
           "institutions": [
             {
@@ -27897,11 +27905,11 @@
         "value_usd": 2780
       },
       "apc_paid": null,
-      "fwci": 0.5904,
+      "fwci": 0.5906,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.59726563,
+        "value": 0.59742238,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28332,8 +28340,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7900000214576721,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -28404,7 +28412,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29836,8 +29844,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6899999976158142,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -30887,7 +30895,7 @@
           "author": {
             "id": "https://openalex.org/A5099469366",
             "display_name": "Md. Yeasin Arafath",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0006-6411-675X"
           },
           "institutions": [
             {
@@ -31051,11 +31059,11 @@
         "currency": "USD",
         "value_usd": 2100
       },
-      "fwci": 2.0213,
+      "fwci": 2.0189,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.84427695,
+        "value": 0.84395352,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31402,8 +31410,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6399999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -32150,7 +32158,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-09T07:26:56.047234",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -32331,7 +32339,7 @@
           "author": {
             "id": "https://openalex.org/A5111775820",
             "display_name": "A. Alharthi",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0001-1988-0330"
           },
           "institutions": [
             {
@@ -32416,11 +32424,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 5.2604,
+      "fwci": 5.2582,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.94850183,
+        "value": 0.94848928,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -32791,7 +32799,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33356,8 +33364,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8999999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -34080,8 +34088,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.6700000166893005,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -35655,8 +35663,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5099999904632568,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -36359,8 +36367,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -37393,8 +37401,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -39621,8 +39629,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8500000238418579,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -40203,8 +40211,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.47999998927116394,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -41022,8 +41030,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.5199999809265137,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -41527,8 +41535,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6000000238418579,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -42050,8 +42058,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -43591,8 +43599,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.8100000023841858,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -44294,11 +44302,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3856,
+      "fwci": 0.3853,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.55056603,
+        "value": 0.55051768,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44670,8 +44678,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "score": 0.5600000023841858,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
@@ -45889,8 +45897,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8299999833106995,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -48211,7 +48219,7 @@
           "author": {
             "id": "https://openalex.org/A5091285560",
             "display_name": "Levent Sina Erkızan",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0005-5737-8578"
           },
           "institutions": [
             {
@@ -48414,11 +48422,11 @@
         "value_usd": 3050
       },
       "apc_paid": null,
-      "fwci": 1.6286,
+      "fwci": 1.6285,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.82867153,
+        "value": 0.82864407,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48712,8 +48720,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8500000238418579,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -48819,7 +48827,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -49685,8 +49693,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -52757,7 +52765,7 @@
           "author": {
             "id": "https://openalex.org/A5111775820",
             "display_name": "A. Alharthi",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0001-1988-0330"
           },
           "institutions": [],
           "countries": [],
@@ -52871,11 +52879,11 @@
         "value_usd": 3330
       },
       "apc_paid": null,
-      "fwci": 2.6977,
+      "fwci": 2.6956,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.89032609,
+        "value": 0.89031416,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -53170,8 +53178,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -53290,7 +53298,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -53959,8 +53967,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 0.6299999952316284,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9"
         }
       ],
@@ -55156,8 +55164,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8399999737739563,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -55648,8 +55656,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.4399999976158142,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -56149,8 +56157,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.5899999737739563,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -56193,1259 +56201,6 @@
         }
       ],
       "updated_date": "2026-07-29T14:22:42.915294",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4407416987",
-      "doi": "https://doi.org/10.3126/jngs.v67i1.74589",
-      "title": "Investigation of hydrochemistry, origin and suitability of drainage water: a case study in Barapukuria Coal Mine, Bangladesh",
-      "display_name": "Investigation of hydrochemistry, origin and suitability of drainage water: a case study in Barapukuria Coal Mine, Bangladesh",
-      "publication_year": 2024,
-      "publication_date": "2024-12-31",
-      "ids": {
-        "openalex": "https://openalex.org/W4407416987",
-        "doi": "https://doi.org/10.3126/jngs.v67i1.74589"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.3126/jngs.v67i1.74589",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.3126/jngs.v67i1.74589",
-        "pdf_url": "https://www.nepjol.info/index.php/JNGS/article/download/74589/57793",
-        "source": {
-          "id": "https://openalex.org/S4210240332",
-          "display_name": "Journal of Nepal Geological Society",
-          "issn_l": "0259-1316",
-          "issn": [
-            "0259-1316",
-            "2676-1378"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Nepal Geological Society",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "diamond",
-        "oa_url": "https://www.nepjol.info/index.php/JNGS/article/download/74589/57793",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5101385438",
-            "display_name": "Sohag Ali",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I203899302",
-              "display_name": "Universiti Teknologi Petronas",
-              "ror": "https://ror.org/048g2sh07",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Sohag Ali",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, Universiti Teknologi PETRONAS, 32610, Bandar Seri Iskandar, Perak, Malaysia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, Universiti Teknologi PETRONAS, 32610, Bandar Seri Iskandar, Perak, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Numain Ahmed Siddiqui",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I203899302",
-              "display_name": "Universiti Teknologi Petronas",
-              "ror": "https://ror.org/048g2sh07",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Numain Ahmed Siddiqui",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, Universiti Teknologi PETRONAS, 32610, Bandar Seri Iskandar, Perak, Malaysia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, Universiti Teknologi PETRONAS, 32610, Bandar Seri Iskandar, Perak, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5099469366",
-            "display_name": "Md. Yeasin Arafath",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I203899302",
-              "display_name": "Universiti Teknologi Petronas",
-              "ror": "https://ror.org/048g2sh07",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Md. Yeasin Arafath",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, Universiti Teknologi PETRONAS, 32610, Bandar Seri Iskandar, Perak, Malaysia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, Universiti Teknologi PETRONAS, 32610, Bandar Seri Iskandar, Perak, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5101388647",
-            "display_name": "Md. Abdullahil Kafi",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I902853133",
-              "display_name": "University of Rajshahi",
-              "ror": "https://ror.org/05nnyr510",
-              "country_code": "BD",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I902853133"
-              ]
-            }
-          ],
-          "countries": [
-            "BD"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Md. Abdullahil Kafi",
-          "raw_affiliation_strings": [
-            "Department of Geology and Mining, University of Rajshahi, Rajshahi 6205, Bangladesh"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology and Mining, University of Rajshahi, Rajshahi 6205, Bangladesh",
-              "institution_ids": [
-                "https://openalex.org/I902853133"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5044806143",
-            "display_name": "Mohamed A. K. El‐Ghali",
-            "orcid": "https://orcid.org/0000-0002-7850-3471"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I47818738",
-              "display_name": "Sultan Qaboos University",
-              "ror": "https://ror.org/04wq8zb47",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohamed A.K. El-Ghali",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, College of Science, Sultan Qaboos University, Al-Khoudh, Muscat, Sultanate of Oman"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, College of Science, Sultan Qaboos University, Al-Khoudh, Muscat, Sultanate of Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5114210872",
-            "display_name": "A. K. M. Eahsanul Haque",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I203899302",
-              "display_name": "Universiti Teknologi Petronas",
-              "ror": "https://ror.org/048g2sh07",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "A.K.M. Eahsanul Haque",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, Universiti Teknologi PETRONAS, 32610, Bandar Seri Iskandar, Perak, Malaysia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, Universiti Teknologi PETRONAS, 32610, Bandar Seri Iskandar, Perak, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5116245732",
-            "display_name": "Md. Insaman-Ul-Haque Rimon",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I902853133",
-              "display_name": "University of Rajshahi",
-              "ror": "https://ror.org/05nnyr510",
-              "country_code": "BD",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I902853133"
-              ]
-            }
-          ],
-          "countries": [
-            "BD"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Md. Insaman-Ul-Haque Rimon",
-          "raw_affiliation_strings": [
-            "Department of Geology and Mining, University of Rajshahi, Rajshahi 6205, Bangladesh"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology and Mining, University of Rajshahi, Rajshahi 6205, Bangladesh",
-              "institution_ids": [
-                "https://openalex.org/I902853133"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5102697147",
-            "display_name": "Farfour Mohammed",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I47818738",
-              "display_name": "Sultan Qaboos University",
-              "ror": "https://ror.org/04wq8zb47",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Farfour Mohammed",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, College of Science, Sultan Qaboos University, Al-Khoudh, Muscat, Sultanate of Oman"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, College of Science, Sultan Qaboos University, Al-Khoudh, Muscat, Sultanate of Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.1481,
-      "has_fulltext": true,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.52997198,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 91,
-        "max": 95
-      },
-      "biblio": {
-        "volume": "67",
-        "issue": null,
-        "first_page": "89",
-        "last_page": "106"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11634",
-        "display_name": "Water Quality and Pollution Assessment",
-        "score": 0.9092000126838684,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2312",
-          "display_name": "Water Science and Technology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11634",
-          "display_name": "Water Quality and Pollution Assessment",
-          "score": 0.9092000126838684,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2312",
-            "display_name": "Water Science and Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/coal-mining",
-          "display_name": "Coal mining",
-          "score": 0.8180091977119446
-        },
-        {
-          "id": "https://openalex.org/keywords/drainage",
-          "display_name": "Drainage",
-          "score": 0.6892380118370056
-        },
-        {
-          "id": "https://openalex.org/keywords/mining-engineering",
-          "display_name": "Mining engineering",
-          "score": 0.6138970255851746
-        },
-        {
-          "id": "https://openalex.org/keywords/coal",
-          "display_name": "Coal",
-          "score": 0.546146035194397
-        },
-        {
-          "id": "https://openalex.org/keywords/water-resource-management",
-          "display_name": "Water resource management",
-          "score": 0.5115907788276672
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5091447234153748
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrology",
-          "display_name": "Hydrology (agriculture)",
-          "score": 0.41582056879997253
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.3396034240722656
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.22393059730529785
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.17284053564071655
-        },
-        {
-          "id": "https://openalex.org/keywords/archaeology",
-          "display_name": "Archaeology",
-          "score": 0.10312759876251221
-        },
-        {
-          "id": "https://openalex.org/keywords/ecology",
-          "display_name": "Ecology",
-          "score": 0.042391449213027954
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C108615695",
-          "wikidata": "https://www.wikidata.org/wiki/Q12880211",
-          "display_name": "Coal mining",
-          "level": 3,
-          "score": 0.8180091977119446
-        },
-        {
-          "id": "https://openalex.org/C67592535",
-          "wikidata": "https://www.wikidata.org/wiki/Q7481320",
-          "display_name": "Drainage",
-          "level": 2,
-          "score": 0.6892380118370056
-        },
-        {
-          "id": "https://openalex.org/C16674752",
-          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
-          "display_name": "Mining engineering",
-          "level": 1,
-          "score": 0.6138970255851746
-        },
-        {
-          "id": "https://openalex.org/C518851703",
-          "wikidata": "https://www.wikidata.org/wiki/Q24489",
-          "display_name": "Coal",
-          "level": 2,
-          "score": 0.546146035194397
-        },
-        {
-          "id": "https://openalex.org/C524765639",
-          "wikidata": "https://www.wikidata.org/wiki/Q1501619",
-          "display_name": "Water resource management",
-          "level": 1,
-          "score": 0.5115907788276672
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5091447234153748
-        },
-        {
-          "id": "https://openalex.org/C76886044",
-          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
-          "display_name": "Hydrology (agriculture)",
-          "level": 2,
-          "score": 0.41582056879997253
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.3396034240722656
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.22393059730529785
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.17284053564071655
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.10312759876251221
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.042391449213027954
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.3126/jngs.v67i1.74589",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.3126/jngs.v67i1.74589",
-          "pdf_url": "https://www.nepjol.info/index.php/JNGS/article/download/74589/57793",
-          "source": {
-            "id": "https://openalex.org/S4210240332",
-            "display_name": "Journal of Nepal Geological Society",
-            "issn_l": "0259-1316",
-            "issn": [
-              "0259-1316",
-              "2676-1378"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of Nepal Geological Society",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.3126/jngs.v67i1.74589",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.3126/jngs.v67i1.74589",
-        "pdf_url": "https://www.nepjol.info/index.php/JNGS/article/download/74589/57793",
-        "source": {
-          "id": "https://openalex.org/S4210240332",
-          "display_name": "Journal of Nepal Geological Society",
-          "issn_l": "0259-1316",
-          "issn": [
-            "0259-1316",
-            "2676-1378"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Nepal Geological Society",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320320721",
-          "display_name": "Council of Scientific and Industrial Research, India",
-          "ror": "https://ror.org/021wm7p51"
-        },
-        {
-          "id": "https://openalex.org/F4320323380",
-          "display_name": "Universiti Teknologi Petronas",
-          "ror": "https://ror.org/048g2sh07"
-        },
-        {
-          "id": "https://openalex.org/F4320323579",
-          "display_name": "Bangladesh Council of Scientific and Industrial Research",
-          "ror": "https://ror.org/03njdre41"
-        },
-        {
-          "id": "https://openalex.org/F4320329409",
-          "display_name": "Rajshahi University",
-          "ror": "https://ror.org/05nnyr510"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": true,
-        "pdf": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4407416987.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W4407416987.grobid-xml"
-      },
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2375677716",
-        "https://openalex.org/W2365913310",
-        "https://openalex.org/W2360414980",
-        "https://openalex.org/W2375599394",
-        "https://openalex.org/W2360530914",
-        "https://openalex.org/W2377388210",
-        "https://openalex.org/W2361569508",
-        "https://openalex.org/W2381456208",
-        "https://openalex.org/W2980194784",
-        "https://openalex.org/W2359673469"
-      ],
-      "abstract_inverted_index": {
-        "Water": [
-          0
-        ],
-        "is": [
-          1,
-          40,
-          141,
-          237
-        ],
-        "an": [
-          2
-        ],
-        "invaluable": [
-          3
-        ],
-        "natural": [
-          4
-        ],
-        "resource": [
-          5
-        ],
-        "for": [
-          6,
-          48,
-          85
-        ],
-        "all": [
-          7,
-          190
-        ],
-        "living": [
-          8
-        ],
-        "organisms,": [
-          9
-        ],
-        "but": [
-          10
-        ],
-        "its": [
-          11
-        ],
-        "quality": [
-          12,
-          115,
-          172,
-          202,
-          236
-        ],
-        "can": [
-          13,
-          106
-        ],
-        "be": [
-          14,
-          107,
-          228
-        ],
-        "degraded": [
-          15
-        ],
-        "by": [
-          16,
-          118
-        ],
-        "numerous": [
-          17
-        ],
-        "anthropogenic": [
-          18
-        ],
-        "and": [
-          19,
-          31,
-          51,
-          82,
-          99,
-          122,
-          126,
-          133,
-          212,
-          218
-        ],
-        "geogenic": [
-          20
-        ],
-        "activities.": [
-          21
-        ],
-        "Such": [
-          22
-        ],
-        "issues": [
-          23
-        ],
-        "are": [
-          24,
-          129,
-          182
-        ],
-        "especially": [
-          25
-        ],
-        "severe": [
-          26
-        ],
-        "in": [
-          27
-        ],
-        "areas": [
-          28
-        ],
-        "near": [
-          29
-        ],
-        "mining": [
-          30
-        ],
-        "mineral": [
-          32
-        ],
-        "processing": [
-          33
-        ],
-        "industries.": [
-          34
-        ],
-        "The": [
-          35,
-          170,
-          186,
-          198
-        ],
-        "objective": [
-          36
-        ],
-        "of": [
-          37,
-          45,
-          73,
-          166,
-          179,
-          183,
-          200,
-          229,
-          234
-        ],
-        "this": [
-          38,
-          62
-        ],
-        "study": [
-          39
-        ],
-        "to": [
-          41,
-          109,
-          164,
-          227
-        ],
-        "evaluate": [
-          42,
-          110
-        ],
-        "the": [
-          43,
-          55,
-          74,
-          79,
-          112,
-          119,
-          130,
-          137,
-          150,
-          167,
-          177,
-          194,
-          223,
-          240
-        ],
-        "suitability": [
-          44
-        ],
-        "drainage": [
-          46,
-          76,
-          224
-        ],
-        "water": [
-          47,
-          66,
-          77,
-          113,
-          139,
-          154,
-          171,
-          180,
-          225,
-          235
-        ],
-        "livestock,": [
-          49
-        ],
-        "drinking,": [
-          50
-        ],
-        "irrigation": [
-          52,
-          201
-        ],
-        "purposes": [
-          53
-        ],
-        "around": [
-          54
-        ],
-        "Barapukuria": [
-          56
-        ],
-        "Coal": [
-          57
-        ],
-        "Mine,": [
-          58
-        ],
-        "Dinajpur,": [
-          59
-        ],
-        "Bangladesh.": [
-          60
-        ],
-        "For": [
-          61
-        ],
-        "purpose,": [
-          63
-        ],
-        "ten": [
-          64
-        ],
-        "representative": [
-          65
-        ],
-        "samples": [
-          67,
-          181,
-          191
-        ],
-        "were": [
-          68,
-          83
-        ],
-        "collected": [
-          69
-        ],
-        "from": [
-          70,
-          239
-        ],
-        "different": [
-          71
-        ],
-        "places": [
-          72
-        ],
-        "mine": [
-          75,
-          241
-        ],
-        "during": [
-          78
-        ],
-        "dry": [
-          80
-        ],
-        "season": [
-          81
-        ],
-        "analyzed": [
-          84
-        ],
-        "various": [
-          86
-        ],
-        "geochemical": [
-          87
-        ],
-        "parameters,": [
-          88,
-          203
-        ],
-        "including": [
-          89,
-          204
-        ],
-        "pH,": [
-          90
-        ],
-        "TDS,": [
-          91
-        ],
-        "EC,": [
-          92
-        ],
-        "major": [
-          93
-        ],
-        "cations": [
-          94,
-          132
-        ],
-        "(Na+,": [
-          95
-        ],
-        "K+,": [
-          96
-        ],
-        "Ca2+,": [
-          97
-        ],
-        "Mg2+)": [
-          98
-        ],
-        "anions": [
-          100,
-          134
-        ],
-        "(Cl–,": [
-          101
-        ],
-        "HCO3–,": [
-          102
-        ],
-        "SO42–).": [
-          103
-        ],
-        "These": [
-          104
-        ],
-        "parameters": [
-          105
-        ],
-        "used": [
-          108
-        ],
-        "whether": [
-          111
-        ],
-        "met": [
-          114
-        ],
-        "standards": [
-          116
-        ],
-        "set": [
-          117
-        ],
-        "EQS,": [
-          120
-        ],
-        "WHO": [
-          121
-        ],
-        "Bangladesh": [
-          123
-        ],
-        "standards.": [
-          124
-        ],
-        "Ca2+>Na+>Mg2+>K+": [
-          125
-        ],
-        "HCO3–>SO42–>": [
-          127
-        ],
-        "Cl–": [
-          128
-        ],
-        "primary": [
-          131
-        ],
-        "trends,": [
-          135
-        ],
-        "where": [
-          136
-        ],
-        "dominating": [
-          138
-        ],
-        "type": [
-          140
-        ],
-        "Ca–Mg–HCO3.": [
-          142
-        ],
-        "Statistical": [
-          143
-        ],
-        "analysis": [
-          144,
-          159,
-          199
-        ],
-        "shows": [
-          145
-        ],
-        "a": [
-          146
-        ],
-        "good": [
-          147,
-          184,
-          230
-        ],
-        "correlation": [
-          148
-        ],
-        "between": [
-          149
-        ],
-        "ions": [
-          151
-        ],
-        "suggesting": [
-          152
-        ],
-        "homogenous": [
-          153
-        ],
-        "quality,": [
-          155
-        ],
-        "whereas": [
-          156
-        ],
-        "principal": [
-          157
-        ],
-        "component": [
-          158
-        ],
-        "indicates": [
-          160,
-          189,
-          221
-        ],
-        "three": [
-          161
-        ],
-        "factors": [
-          162
-        ],
-        "contribute": [
-          163
-        ],
-        "84.368%": [
-          165
-        ],
-        "entire": [
-          168
-        ],
-        "variation.": [
-          169
-        ],
-        "index": [
-          173
-        ],
-        "(WQI)": [
-          174
-        ],
-        "reveals": [
-          175
-        ],
-        "that": [
-          176,
-          222
-        ],
-        "majority": [
-          178
-        ],
-        "quality.": [
-          185,
-          231
-        ],
-        "Gibbs": [
-          187
-        ],
-        "plot": [
-          188
-        ],
-        "fall": [
-          192
-        ],
-        "into": [
-          193
-        ],
-        "rock": [
-          195
-        ],
-        "dominance": [
-          196
-        ],
-        "groups.": [
-          197
-        ],
-        "%": [
-          205
-        ],
-        "Na,": [
-          206
-        ],
-        "SAR,": [
-          207
-        ],
-        "KI,": [
-          208
-        ],
-        "RSBC,": [
-          209
-        ],
-        "MH,": [
-          210
-        ],
-        "TH,": [
-          211
-        ],
-        "PI,": [
-          213
-        ],
-        "along": [
-          214
-        ],
-        "with": [
-          215
-        ],
-        "Wilcox,": [
-          216
-        ],
-        "USSL,": [
-          217
-        ],
-        "Doneen": [
-          219
-        ],
-        "diagrams,": [
-          220
-        ],
-        "tends": [
-          226
-        ],
-        "Regular": [
-          232
-        ],
-        "monitoring": [
-          233
-        ],
-        "recommended": [
-          238
-        ],
-        "area.": [
-          242
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -58119,8 +56874,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -59606,8 +58361,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -60283,8 +59038,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -61092,8 +59847,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5899999737739563,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -61812,8 +60567,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5600000023841858,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -62342,8 +61097,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7699999809265137,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -62382,6 +61137,1262 @@
         }
       ],
       "updated_date": "2026-07-29T14:22:42.915294",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4407416987",
+      "doi": "https://doi.org/10.3126/jngs.v67i1.74589",
+      "title": "Investigation of hydrochemistry, origin and suitability of drainage water: a case study in Barapukuria Coal Mine, Bangladesh",
+      "display_name": "Investigation of hydrochemistry, origin and suitability of drainage water: a case study in Barapukuria Coal Mine, Bangladesh",
+      "publication_year": 2024,
+      "publication_date": "2024-12-31",
+      "ids": {
+        "openalex": "https://openalex.org/W4407416987",
+        "doi": "https://doi.org/10.3126/jngs.v67i1.74589"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3126/jngs.v67i1.74589",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3126/jngs.v67i1.74589",
+        "pdf_url": "https://www.nepjol.info/index.php/JNGS/article/download/74589/57793",
+        "source": {
+          "id": "https://openalex.org/S4210240332",
+          "display_name": "Journal of Nepal Geological Society",
+          "issn_l": "0259-1316",
+          "issn": [
+            "0259-1316",
+            "2676-1378"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Nepal Geological Society",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.nepjol.info/index.php/JNGS/article/download/74589/57793",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5101385438",
+            "display_name": "Sohag Ali",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203899302",
+              "display_name": "Universiti Teknologi Petronas",
+              "ror": "https://ror.org/048g2sh07",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sohag Ali",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, Universiti Teknologi PETRONAS, 32610, Bandar Seri Iskandar, Perak, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Universiti Teknologi PETRONAS, 32610, Bandar Seri Iskandar, Perak, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Numain Ahmed Siddiqui",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203899302",
+              "display_name": "Universiti Teknologi Petronas",
+              "ror": "https://ror.org/048g2sh07",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Numain Ahmed Siddiqui",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, Universiti Teknologi PETRONAS, 32610, Bandar Seri Iskandar, Perak, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Universiti Teknologi PETRONAS, 32610, Bandar Seri Iskandar, Perak, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5099469366",
+            "display_name": "Md. Yeasin Arafath",
+            "orcid": "https://orcid.org/0009-0006-6411-675X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203899302",
+              "display_name": "Universiti Teknologi Petronas",
+              "ror": "https://ror.org/048g2sh07",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Md. Yeasin Arafath",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, Universiti Teknologi PETRONAS, 32610, Bandar Seri Iskandar, Perak, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Universiti Teknologi PETRONAS, 32610, Bandar Seri Iskandar, Perak, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5101388647",
+            "display_name": "Md. Abdullahil Kafi",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I902853133",
+              "display_name": "University of Rajshahi",
+              "ror": "https://ror.org/05nnyr510",
+              "country_code": "BD",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I902853133"
+              ]
+            }
+          ],
+          "countries": [
+            "BD"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Md. Abdullahil Kafi",
+          "raw_affiliation_strings": [
+            "Department of Geology and Mining, University of Rajshahi, Rajshahi 6205, Bangladesh"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology and Mining, University of Rajshahi, Rajshahi 6205, Bangladesh",
+              "institution_ids": [
+                "https://openalex.org/I902853133"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044806143",
+            "display_name": "Mohamed A. K. El‐Ghali",
+            "orcid": "https://orcid.org/0000-0002-7850-3471"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I47818738",
+              "display_name": "Sultan Qaboos University",
+              "ror": "https://ror.org/04wq8zb47",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohamed A.K. El-Ghali",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, College of Science, Sultan Qaboos University, Al-Khoudh, Muscat, Sultanate of Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, College of Science, Sultan Qaboos University, Al-Khoudh, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5114210872",
+            "display_name": "A. K. M. Eahsanul Haque",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203899302",
+              "display_name": "Universiti Teknologi Petronas",
+              "ror": "https://ror.org/048g2sh07",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A.K.M. Eahsanul Haque",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, Universiti Teknologi PETRONAS, 32610, Bandar Seri Iskandar, Perak, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Universiti Teknologi PETRONAS, 32610, Bandar Seri Iskandar, Perak, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5116245732",
+            "display_name": "Md. Insaman-Ul-Haque Rimon",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I902853133",
+              "display_name": "University of Rajshahi",
+              "ror": "https://ror.org/05nnyr510",
+              "country_code": "BD",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I902853133"
+              ]
+            }
+          ],
+          "countries": [
+            "BD"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Md. Insaman-Ul-Haque Rimon",
+          "raw_affiliation_strings": [
+            "Department of Geology and Mining, University of Rajshahi, Rajshahi 6205, Bangladesh"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology and Mining, University of Rajshahi, Rajshahi 6205, Bangladesh",
+              "institution_ids": [
+                "https://openalex.org/I902853133"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5102697147",
+            "display_name": "Farfour Mohammed",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I47818738",
+              "display_name": "Sultan Qaboos University",
+              "ror": "https://ror.org/04wq8zb47",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Farfour Mohammed",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, College of Science, Sultan Qaboos University, Al-Khoudh, Muscat, Sultanate of Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, College of Science, Sultan Qaboos University, Al-Khoudh, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.1372,
+      "has_fulltext": true,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.50813779,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 91,
+        "max": 94
+      },
+      "biblio": {
+        "volume": "67",
+        "issue": null,
+        "first_page": "89",
+        "last_page": "106"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11634",
+        "display_name": "Water Quality and Pollution Assessment",
+        "score": 0.9092000126838684,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2312",
+          "display_name": "Water Science and Technology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11634",
+          "display_name": "Water Quality and Pollution Assessment",
+          "score": 0.9092000126838684,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2312",
+            "display_name": "Water Science and Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/coal-mining",
+          "display_name": "Coal mining",
+          "score": 0.8180091977119446
+        },
+        {
+          "id": "https://openalex.org/keywords/drainage",
+          "display_name": "Drainage",
+          "score": 0.6892380118370056
+        },
+        {
+          "id": "https://openalex.org/keywords/mining-engineering",
+          "display_name": "Mining engineering",
+          "score": 0.6138970255851746
+        },
+        {
+          "id": "https://openalex.org/keywords/coal",
+          "display_name": "Coal",
+          "score": 0.546146035194397
+        },
+        {
+          "id": "https://openalex.org/keywords/water-resource-management",
+          "display_name": "Water resource management",
+          "score": 0.5115907788276672
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.5091447234153748
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrology",
+          "display_name": "Hydrology (agriculture)",
+          "score": 0.41582056879997253
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.3396034240722656
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.22393059730529785
+        },
+        {
+          "id": "https://openalex.org/keywords/geotechnical-engineering",
+          "display_name": "Geotechnical engineering",
+          "score": 0.17284053564071655
+        },
+        {
+          "id": "https://openalex.org/keywords/archaeology",
+          "display_name": "Archaeology",
+          "score": 0.10312759876251221
+        },
+        {
+          "id": "https://openalex.org/keywords/ecology",
+          "display_name": "Ecology",
+          "score": 0.042391449213027954
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C108615695",
+          "wikidata": "https://www.wikidata.org/wiki/Q12880211",
+          "display_name": "Coal mining",
+          "level": 3,
+          "score": 0.8180091977119446
+        },
+        {
+          "id": "https://openalex.org/C67592535",
+          "wikidata": "https://www.wikidata.org/wiki/Q7481320",
+          "display_name": "Drainage",
+          "level": 2,
+          "score": 0.6892380118370056
+        },
+        {
+          "id": "https://openalex.org/C16674752",
+          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
+          "display_name": "Mining engineering",
+          "level": 1,
+          "score": 0.6138970255851746
+        },
+        {
+          "id": "https://openalex.org/C518851703",
+          "wikidata": "https://www.wikidata.org/wiki/Q24489",
+          "display_name": "Coal",
+          "level": 2,
+          "score": 0.546146035194397
+        },
+        {
+          "id": "https://openalex.org/C524765639",
+          "wikidata": "https://www.wikidata.org/wiki/Q1501619",
+          "display_name": "Water resource management",
+          "level": 1,
+          "score": 0.5115907788276672
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5091447234153748
+        },
+        {
+          "id": "https://openalex.org/C76886044",
+          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+          "display_name": "Hydrology (agriculture)",
+          "level": 2,
+          "score": 0.41582056879997253
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.3396034240722656
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.22393059730529785
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.17284053564071655
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.10312759876251221
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.042391449213027954
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.3126/jngs.v67i1.74589",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3126/jngs.v67i1.74589",
+          "pdf_url": "https://www.nepjol.info/index.php/JNGS/article/download/74589/57793",
+          "source": {
+            "id": "https://openalex.org/S4210240332",
+            "display_name": "Journal of Nepal Geological Society",
+            "issn_l": "0259-1316",
+            "issn": [
+              "0259-1316",
+              "2676-1378"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Nepal Geological Society",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3126/jngs.v67i1.74589",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3126/jngs.v67i1.74589",
+        "pdf_url": "https://www.nepjol.info/index.php/JNGS/article/download/74589/57793",
+        "source": {
+          "id": "https://openalex.org/S4210240332",
+          "display_name": "Journal of Nepal Geological Society",
+          "issn_l": "0259-1316",
+          "issn": [
+            "0259-1316",
+            "2676-1378"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Nepal Geological Society",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320320721",
+          "display_name": "Council of Scientific and Industrial Research, India",
+          "ror": "https://ror.org/021wm7p51"
+        },
+        {
+          "id": "https://openalex.org/F4320323380",
+          "display_name": "Universiti Teknologi Petronas",
+          "ror": "https://ror.org/048g2sh07"
+        },
+        {
+          "id": "https://openalex.org/F4320323579",
+          "display_name": "Bangladesh Council of Scientific and Industrial Research",
+          "ror": "https://ror.org/03njdre41"
+        },
+        {
+          "id": "https://openalex.org/F4320329409",
+          "display_name": "Rajshahi University",
+          "ror": "https://ror.org/05nnyr510"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4407416987.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4407416987.grobid-xml"
+      },
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2375677716",
+        "https://openalex.org/W2365913310",
+        "https://openalex.org/W2360414980",
+        "https://openalex.org/W2375599394",
+        "https://openalex.org/W2360530914",
+        "https://openalex.org/W2377388210",
+        "https://openalex.org/W2361569508",
+        "https://openalex.org/W2381456208",
+        "https://openalex.org/W2980194784",
+        "https://openalex.org/W2359673469"
+      ],
+      "abstract_inverted_index": {
+        "Water": [
+          0
+        ],
+        "is": [
+          1,
+          40,
+          141,
+          237
+        ],
+        "an": [
+          2
+        ],
+        "invaluable": [
+          3
+        ],
+        "natural": [
+          4
+        ],
+        "resource": [
+          5
+        ],
+        "for": [
+          6,
+          48,
+          85
+        ],
+        "all": [
+          7,
+          190
+        ],
+        "living": [
+          8
+        ],
+        "organisms,": [
+          9
+        ],
+        "but": [
+          10
+        ],
+        "its": [
+          11
+        ],
+        "quality": [
+          12,
+          115,
+          172,
+          202,
+          236
+        ],
+        "can": [
+          13,
+          106
+        ],
+        "be": [
+          14,
+          107,
+          228
+        ],
+        "degraded": [
+          15
+        ],
+        "by": [
+          16,
+          118
+        ],
+        "numerous": [
+          17
+        ],
+        "anthropogenic": [
+          18
+        ],
+        "and": [
+          19,
+          31,
+          51,
+          82,
+          99,
+          122,
+          126,
+          133,
+          212,
+          218
+        ],
+        "geogenic": [
+          20
+        ],
+        "activities.": [
+          21
+        ],
+        "Such": [
+          22
+        ],
+        "issues": [
+          23
+        ],
+        "are": [
+          24,
+          129,
+          182
+        ],
+        "especially": [
+          25
+        ],
+        "severe": [
+          26
+        ],
+        "in": [
+          27
+        ],
+        "areas": [
+          28
+        ],
+        "near": [
+          29
+        ],
+        "mining": [
+          30
+        ],
+        "mineral": [
+          32
+        ],
+        "processing": [
+          33
+        ],
+        "industries.": [
+          34
+        ],
+        "The": [
+          35,
+          170,
+          186,
+          198
+        ],
+        "objective": [
+          36
+        ],
+        "of": [
+          37,
+          45,
+          73,
+          166,
+          179,
+          183,
+          200,
+          229,
+          234
+        ],
+        "this": [
+          38,
+          62
+        ],
+        "study": [
+          39
+        ],
+        "to": [
+          41,
+          109,
+          164,
+          227
+        ],
+        "evaluate": [
+          42,
+          110
+        ],
+        "the": [
+          43,
+          55,
+          74,
+          79,
+          112,
+          119,
+          130,
+          137,
+          150,
+          167,
+          177,
+          194,
+          223,
+          240
+        ],
+        "suitability": [
+          44
+        ],
+        "drainage": [
+          46,
+          76,
+          224
+        ],
+        "water": [
+          47,
+          66,
+          77,
+          113,
+          139,
+          154,
+          171,
+          180,
+          225,
+          235
+        ],
+        "livestock,": [
+          49
+        ],
+        "drinking,": [
+          50
+        ],
+        "irrigation": [
+          52,
+          201
+        ],
+        "purposes": [
+          53
+        ],
+        "around": [
+          54
+        ],
+        "Barapukuria": [
+          56
+        ],
+        "Coal": [
+          57
+        ],
+        "Mine,": [
+          58
+        ],
+        "Dinajpur,": [
+          59
+        ],
+        "Bangladesh.": [
+          60
+        ],
+        "For": [
+          61
+        ],
+        "purpose,": [
+          63
+        ],
+        "ten": [
+          64
+        ],
+        "representative": [
+          65
+        ],
+        "samples": [
+          67,
+          181,
+          191
+        ],
+        "were": [
+          68,
+          83
+        ],
+        "collected": [
+          69
+        ],
+        "from": [
+          70,
+          239
+        ],
+        "different": [
+          71
+        ],
+        "places": [
+          72
+        ],
+        "mine": [
+          75,
+          241
+        ],
+        "during": [
+          78
+        ],
+        "dry": [
+          80
+        ],
+        "season": [
+          81
+        ],
+        "analyzed": [
+          84
+        ],
+        "various": [
+          86
+        ],
+        "geochemical": [
+          87
+        ],
+        "parameters,": [
+          88,
+          203
+        ],
+        "including": [
+          89,
+          204
+        ],
+        "pH,": [
+          90
+        ],
+        "TDS,": [
+          91
+        ],
+        "EC,": [
+          92
+        ],
+        "major": [
+          93
+        ],
+        "cations": [
+          94,
+          132
+        ],
+        "(Na+,": [
+          95
+        ],
+        "K+,": [
+          96
+        ],
+        "Ca2+,": [
+          97
+        ],
+        "Mg2+)": [
+          98
+        ],
+        "anions": [
+          100,
+          134
+        ],
+        "(Cl–,": [
+          101
+        ],
+        "HCO3–,": [
+          102
+        ],
+        "SO42–).": [
+          103
+        ],
+        "These": [
+          104
+        ],
+        "parameters": [
+          105
+        ],
+        "used": [
+          108
+        ],
+        "whether": [
+          111
+        ],
+        "met": [
+          114
+        ],
+        "standards": [
+          116
+        ],
+        "set": [
+          117
+        ],
+        "EQS,": [
+          120
+        ],
+        "WHO": [
+          121
+        ],
+        "Bangladesh": [
+          123
+        ],
+        "standards.": [
+          124
+        ],
+        "Ca2+>Na+>Mg2+>K+": [
+          125
+        ],
+        "HCO3–>SO42–>": [
+          127
+        ],
+        "Cl–": [
+          128
+        ],
+        "primary": [
+          131
+        ],
+        "trends,": [
+          135
+        ],
+        "where": [
+          136
+        ],
+        "dominating": [
+          138
+        ],
+        "type": [
+          140
+        ],
+        "Ca–Mg–HCO3.": [
+          142
+        ],
+        "Statistical": [
+          143
+        ],
+        "analysis": [
+          144,
+          159,
+          199
+        ],
+        "shows": [
+          145
+        ],
+        "a": [
+          146
+        ],
+        "good": [
+          147,
+          184,
+          230
+        ],
+        "correlation": [
+          148
+        ],
+        "between": [
+          149
+        ],
+        "ions": [
+          151
+        ],
+        "suggesting": [
+          152
+        ],
+        "homogenous": [
+          153
+        ],
+        "quality,": [
+          155
+        ],
+        "whereas": [
+          156
+        ],
+        "principal": [
+          157
+        ],
+        "component": [
+          158
+        ],
+        "indicates": [
+          160,
+          189,
+          221
+        ],
+        "three": [
+          161
+        ],
+        "factors": [
+          162
+        ],
+        "contribute": [
+          163
+        ],
+        "84.368%": [
+          165
+        ],
+        "entire": [
+          168
+        ],
+        "variation.": [
+          169
+        ],
+        "index": [
+          173
+        ],
+        "(WQI)": [
+          174
+        ],
+        "reveals": [
+          175
+        ],
+        "that": [
+          176,
+          222
+        ],
+        "majority": [
+          178
+        ],
+        "quality.": [
+          185,
+          231
+        ],
+        "Gibbs": [
+          187
+        ],
+        "plot": [
+          188
+        ],
+        "fall": [
+          192
+        ],
+        "into": [
+          193
+        ],
+        "rock": [
+          195
+        ],
+        "dominance": [
+          196
+        ],
+        "groups.": [
+          197
+        ],
+        "%": [
+          205
+        ],
+        "Na,": [
+          206
+        ],
+        "SAR,": [
+          207
+        ],
+        "KI,": [
+          208
+        ],
+        "RSBC,": [
+          209
+        ],
+        "MH,": [
+          210
+        ],
+        "TH,": [
+          211
+        ],
+        "PI,": [
+          213
+        ],
+        "along": [
+          214
+        ],
+        "with": [
+          215
+        ],
+        "Wilcox,": [
+          216
+        ],
+        "USSL,": [
+          217
+        ],
+        "Doneen": [
+          219
+        ],
+        "diagrams,": [
+          220
+        ],
+        "tends": [
+          226
+        ],
+        "Regular": [
+          232
+        ],
+        "monitoring": [
+          233
+        ],
+        "recommended": [
+          238
+        ],
+        "area.": [
+          242
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -62823,8 +62834,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8600000143051147,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -63429,8 +63440,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -64337,8 +64348,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8500000238418579,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -65463,8 +65474,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8600000143051147,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -66488,8 +66499,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8399999737739563,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -67575,8 +67586,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 0.6499999761581421,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9"
         }
       ],
@@ -68772,8 +68783,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7200000286102295,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -69465,8 +69476,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.47999998927116394,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -71022,8 +71033,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.8100000023841858,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -72143,8 +72154,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8399999737739563,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -72684,8 +72695,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8600000143051147,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -73353,8 +73364,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.41999998688697815,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7"
         }
       ],
@@ -74062,8 +74073,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8199999928474426,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -74745,8 +74756,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8399999737739563,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -75684,7 +75695,7 @@
           "author": {
             "id": "https://openalex.org/A5099469366",
             "display_name": "Md. Yeasin Arafath",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0006-6411-675X"
           },
           "institutions": [
             {
@@ -76099,8 +76110,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6399999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -76190,7 +76201,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-19T00:03:45.406941",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -76220,6 +76231,7 @@
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I1318003438",
           "host_organization_name": "RELX Group (Netherlands)",
           "host_organization_lineage": [
@@ -76282,7 +76294,7 @@
           "author": {
             "id": "https://openalex.org/A5099469366",
             "display_name": "Md. Yeasin Arafath",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0006-6411-675X"
           },
           "institutions": [],
           "countries": [],
@@ -76615,6 +76627,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1318003438",
             "host_organization_name": "RELX Group (Netherlands)",
             "host_organization_lineage": [
@@ -76647,6 +76660,7 @@
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I1318003438",
           "host_organization_name": "RELX Group (Netherlands)",
           "host_organization_lineage": [
@@ -76665,8 +76679,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.6200000047683716,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -76744,7 +76758,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-14T23:27:15.235271",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -77086,8 +77100,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -80974,7 +80988,7 @@
           "author": {
             "id": "https://openalex.org/A5099469366",
             "display_name": "Md. Yeasin Arafath",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0006-6411-675X"
           },
           "institutions": [
             {
@@ -81422,7 +81436,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-11-17T00:00:00"
     },
     {
@@ -84183,8 +84197,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7933499813079834,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],

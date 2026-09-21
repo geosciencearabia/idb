@@ -2,6 +2,9 @@
   "details": {
     "id": "https://openalex.org/A5081695998",
     "orcid": "https://orcid.org/0000-0001-8467-4528",
+    "observed_orcids": [
+      "https://orcid.org/0000-0001-8467-4528"
+    ],
     "display_name": "Salah Al‐Khirbash",
     "raw_author_names": [
       "S. Al-Khirbash",
@@ -23,7 +26,10 @@
     },
     "ids": {
       "openalex": "https://openalex.org/A5081695998",
-      "orcid": "https://orcid.org/0000-0001-8467-4528"
+      "orcid": "https://orcid.org/0000-0001-8467-4528",
+      "observed_orcids": [
+        "https://orcid.org/0000-0001-8467-4528"
+      ]
     },
     "affiliations": [
       {
@@ -1175,9 +1181,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
@@ -2197,9 +2203,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.75
         }
       ],
       "awards": [],
@@ -4613,9 +4619,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6600000262260437,
           "display_name": "Peace, Justice and strong institutions",
-          "id": "https://metadata.un.org/sdg/16"
+          "id": "https://metadata.un.org/sdg/16",
+          "score": 0.6600000262260437
         }
       ],
       "awards": [
@@ -4905,7 +4911,7 @@
           "author": {
             "id": "https://openalex.org/A5068579961",
             "display_name": "Martin J. Whitehouse",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-2227-577X"
           },
           "institutions": [
             {
@@ -5166,11 +5172,11 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 2.479,
+      "fwci": 2.4799,
       "has_fulltext": false,
       "cited_by_count": 116,
       "citation_normalized_percentile": {
-        "value": 0.87568205,
+        "value": 0.87572787,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5487,9 +5493,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -5603,7 +5609,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-17T07:59:56.861425",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5686,6 +5692,7 @@
               "country_code": "AU",
               "type": "education",
               "lineage": [
+                "https://openalex.org/I4405259444",
                 "https://openalex.org/I5681781"
               ]
             }
@@ -5723,6 +5730,7 @@
               "country_code": "AU",
               "type": "education",
               "lineage": [
+                "https://openalex.org/I4405259444",
                 "https://openalex.org/I5681781"
               ]
             }
@@ -5760,6 +5768,7 @@
               "country_code": "AU",
               "type": "education",
               "lineage": [
+                "https://openalex.org/I4405259444",
                 "https://openalex.org/I5681781"
               ]
             }
@@ -5797,6 +5806,7 @@
               "country_code": "AU",
               "type": "education",
               "lineage": [
+                "https://openalex.org/I4405259444",
                 "https://openalex.org/I5681781"
               ]
             }
@@ -5834,6 +5844,7 @@
               "country_code": "AU",
               "type": "education",
               "lineage": [
+                "https://openalex.org/I4405259444",
                 "https://openalex.org/I5681781"
               ]
             }
@@ -5871,6 +5882,7 @@
               "country_code": "AU",
               "type": "education",
               "lineage": [
+                "https://openalex.org/I4405259444",
                 "https://openalex.org/I5681781"
               ]
             }
@@ -5908,6 +5920,7 @@
               "country_code": "AU",
               "type": "education",
               "lineage": [
+                "https://openalex.org/I4405259444",
                 "https://openalex.org/I5681781"
               ]
             }
@@ -5945,7 +5958,8 @@
               "country_code": "AU",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I170239107"
+                "https://openalex.org/I170239107",
+                "https://openalex.org/I4405259444"
               ]
             }
           ],
@@ -6057,11 +6071,11 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 4.8413,
+      "fwci": 4.8262,
       "has_fulltext": false,
       "cited_by_count": 64,
       "citation_normalized_percentile": {
-        "value": 0.95767419,
+        "value": 0.95712919,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6478,9 +6492,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8100000023841858,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -7211,7 +7225,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7658,9 +7672,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -7904,7 +7918,7 @@
           "author": {
             "id": "https://openalex.org/A5068579961",
             "display_name": "Martin J. Whitehouse",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-2227-577X"
           },
           "institutions": [
             {
@@ -8022,11 +8036,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.0425,
+      "fwci": 3.0307,
       "has_fulltext": false,
       "cited_by_count": 41,
       "citation_normalized_percentile": {
-        "value": 0.89381933,
+        "value": 0.89314235,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8495,9 +8509,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7699999809265137,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7699999809265137
         }
       ],
       "awards": [],
@@ -9084,7 +9098,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9165,6 +9179,7 @@
               "country_code": "AU",
               "type": "education",
               "lineage": [
+                "https://openalex.org/I4405259444",
                 "https://openalex.org/I5681781"
               ]
             }
@@ -9202,6 +9217,7 @@
               "country_code": "AU",
               "type": "education",
               "lineage": [
+                "https://openalex.org/I4405259444",
                 "https://openalex.org/I5681781"
               ]
             }
@@ -9239,6 +9255,7 @@
               "country_code": "AU",
               "type": "education",
               "lineage": [
+                "https://openalex.org/I4405259444",
                 "https://openalex.org/I5681781"
               ]
             }
@@ -9276,6 +9293,7 @@
               "country_code": "AU",
               "type": "education",
               "lineage": [
+                "https://openalex.org/I4405259444",
                 "https://openalex.org/I5681781"
               ]
             }
@@ -9313,7 +9331,8 @@
               "country_code": "AU",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I170239107"
+                "https://openalex.org/I170239107",
+                "https://openalex.org/I4405259444"
               ]
             }
           ],
@@ -9350,6 +9369,7 @@
               "country_code": "AU",
               "type": "education",
               "lineage": [
+                "https://openalex.org/I4405259444",
                 "https://openalex.org/I5681781"
               ]
             }
@@ -9424,6 +9444,7 @@
               "country_code": "AU",
               "type": "education",
               "lineage": [
+                "https://openalex.org/I4405259444",
                 "https://openalex.org/I5681781"
               ]
             }
@@ -9491,11 +9512,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2924,
+      "fwci": 2.2893,
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.87308371,
+        "value": 0.87271159,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9758,9 +9779,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [
@@ -10492,7 +10513,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-12T07:12:00.856984",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11309,7 +11330,7 @@
           "author": {
             "id": "https://openalex.org/A5068579961",
             "display_name": "Martin J. Whitehouse",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-2227-577X"
           },
           "institutions": [
             {
@@ -11419,11 +11440,11 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 0.9682,
+      "fwci": 0.9673,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.73081992,
+        "value": 0.73080391,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11728,9 +11749,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
@@ -11887,7 +11908,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12800,9 +12821,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -14372,9 +14393,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5,
           "display_name": "Peace, Justice and strong institutions",
-          "id": "https://metadata.un.org/sdg/16"
+          "id": "https://metadata.un.org/sdg/16",
+          "score": 0.5
         }
       ],
       "awards": [
@@ -15014,9 +15035,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -15812,9 +15833,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -16088,7 +16109,7 @@
           "author": {
             "id": "https://openalex.org/A5068579961",
             "display_name": "Martin J. Whitehouse",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-2227-577X"
           },
           "institutions": [
             {
@@ -16213,11 +16234,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.2748,
+      "fwci": 6.2309,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.95833333,
+        "value": 0.95918367,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16613,7 +16634,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-04T08:18:43.703281",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18289,9 +18310,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -19062,7 +19083,7 @@
           "author": {
             "id": "https://openalex.org/A5068579961",
             "display_name": "Martin J. Whitehouse",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-2227-577X"
           },
           "institutions": [
             {
@@ -19264,11 +19285,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.6282,
+      "fwci": 3.6217,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.92189667,
+        "value": 0.92165434,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20053,7 +20074,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-08-12T07:12:00.856984",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21281,9 +21302,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8100000023841858,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -22390,9 +22411,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -23410,9 +23431,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -24358,7 +24379,7 @@
           "author": {
             "id": "https://openalex.org/A5101042799",
             "display_name": "Narasimman Sundararajan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-6972-8775"
           },
           "institutions": [
             {
@@ -24598,11 +24619,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.1707,
+      "fwci": 0.1704,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.49412095,
+        "value": 0.49408367,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24953,9 +24974,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7900000214576721,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],
@@ -25067,7 +25088,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25333,9 +25354,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4099999964237213
         }
       ],
       "awards": [],
@@ -25691,9 +25712,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5600000023841858,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5600000023841858
         }
       ],
       "awards": [],
@@ -27533,6 +27554,7 @@
               "country_code": "AU",
               "type": "education",
               "lineage": [
+                "https://openalex.org/I4405259444",
                 "https://openalex.org/I5681781"
               ]
             }
@@ -27577,6 +27599,7 @@
               "country_code": "AU",
               "type": "education",
               "lineage": [
+                "https://openalex.org/I4405259444",
                 "https://openalex.org/I5681781"
               ]
             }
@@ -27621,6 +27644,7 @@
               "country_code": "AU",
               "type": "education",
               "lineage": [
+                "https://openalex.org/I4405259444",
                 "https://openalex.org/I5681781"
               ]
             }
@@ -27753,6 +27777,7 @@
               "country_code": "AU",
               "type": "education",
               "lineage": [
+                "https://openalex.org/I4405259444",
                 "https://openalex.org/I5681781"
               ]
             }
@@ -27797,6 +27822,7 @@
               "country_code": "AU",
               "type": "education",
               "lineage": [
+                "https://openalex.org/I4405259444",
                 "https://openalex.org/I5681781"
               ]
             }
@@ -28060,7 +28086,7 @@
           "author": {
             "id": "https://openalex.org/A5110038075",
             "display_name": "Sergei Pisarevsky",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-8033-5630"
           },
           "institutions": [
             {
@@ -28114,7 +28140,8 @@
               "country_code": "AU",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I170239107"
+                "https://openalex.org/I170239107",
+                "https://openalex.org/I4405259444"
               ]
             },
             {
@@ -28440,9 +28467,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -29015,7 +29042,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-22T07:34:49.880490",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30200,9 +30227,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -31742,9 +31769,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4699999988079071,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.4699999988079071
         }
       ],
       "awards": [],
@@ -33133,9 +33160,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5
         }
       ],
       "awards": [],
@@ -33502,9 +33529,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8100000023841858,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -34945,6 +34972,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -34977,7 +35005,7 @@
           "author": {
             "id": "https://openalex.org/A5068579961",
             "display_name": "Martin J. Whitehouse",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-2227-577X"
           },
           "institutions": [],
           "countries": [],
@@ -35227,6 +35255,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I4210132348",
             "host_organization_name": "Figshare (United Kingdom)",
             "host_organization_lineage": [
@@ -35257,6 +35286,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -35779,7 +35809,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -39115,9 +39145,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],

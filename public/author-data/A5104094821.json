@@ -1,7 +1,10 @@
 {
   "details": {
     "id": "https://openalex.org/A5104094821",
-    "orcid": null,
+    "orcid": "https://orcid.org/0000-0002-4872-6201",
+    "observed_orcids": [
+      "https://orcid.org/0000-0002-4872-6201"
+    ],
     "display_name": "Khalid Al‐Ramadan",
     "raw_author_names": [
       "KHALID Al-Ramadan",
@@ -14,7 +17,7 @@
     ],
     "full_name": "Khalid A. Al‐Ramadan",
     "works_count": 19,
-    "cited_by_count": 144,
+    "cited_by_count": 145,
     "summary_stats": {
       "2yr_mean_citedness": 4.666666666666667,
       "h_index": 8,
@@ -22,7 +25,10 @@
     },
     "ids": {
       "openalex": "https://openalex.org/A5104094821",
-      "orcid": null
+      "orcid": "https://orcid.org/0000-0002-4872-6201",
+      "observed_orcids": [
+        "https://orcid.org/0000-0002-4872-6201"
+      ]
     },
     "affiliations": [
       {
@@ -296,7 +302,7 @@
         "year": 2013,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 22
+        "cited_by_count": 23
       },
       {
         "year": 2014,
@@ -346,7 +352,7 @@
     ],
     "block_key": "k al-ramadan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5104094821",
-    "updated_date": "2026-09-19T12:19:47",
+    "updated_date": "2026-09-20T23:21:32",
     "created_date": "2019-08-13T00:00:00"
   },
   "works": [
@@ -592,7 +598,7 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
             {
@@ -646,11 +652,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5328,
+      "fwci": 2.5245,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.89122692,
+        "value": 0.89079846,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1921,7 +1927,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-19T15:00:24.278416",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2120,7 +2126,7 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
             {
@@ -2160,11 +2166,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7195,
+      "fwci": 0.7199,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.63833992,
+        "value": 0.63867325,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2458,9 +2464,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -3338,7 +3344,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3517,7 +3523,7 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
             {
@@ -3576,11 +3582,11 @@
         "currency": "CHF",
         "value_usd": 2896
       },
-      "fwci": 2.0262,
+      "fwci": 2.0196,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.85460319,
+        "value": 0.85420006,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4695,7 +4701,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-02T18:50:13.731487",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4876,7 +4882,7 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
             {
@@ -4925,11 +4931,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7729,
+      "fwci": 1.7672,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.84445302,
+        "value": 0.84395963,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5754,7 +5760,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-05T08:02:43.246662",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5824,7 +5830,7 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
             {
@@ -5927,7 +5933,7 @@
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.12199181,
+        "value": 0.12178914,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6208,9 +6214,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -6855,7 +6861,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-05T08:02:43.246662",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6999,7 +7005,7 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
             {
@@ -7121,11 +7127,11 @@
         "value_usd": 4120
       },
       "apc_paid": null,
-      "fwci": 2.3384,
+      "fwci": 2.3398,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.87591756,
+        "value": 0.87593507,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7394,9 +7400,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -7575,7 +7581,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7823,7 +7829,7 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
             {
@@ -8014,11 +8020,11 @@
         "currency": "USD",
         "value_usd": 1800
       },
-      "fwci": 0.9362,
+      "fwci": 0.9367,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.69086285,
+        "value": 0.69100879,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8332,9 +8338,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.5400000214576721,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -8995,7 +9001,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-09T07:26:56.047234",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9112,7 +9118,7 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
             {
@@ -9169,7 +9175,7 @@
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.11440014,
+        "value": 0.11426087,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9521,9 +9527,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -9601,7 +9607,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9746,7 +9752,7 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
             {
@@ -9868,11 +9874,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 1.6847,
+      "fwci": 1.6861,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.79845382,
+        "value": 0.79842861,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10165,9 +10171,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -10405,7 +10411,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10756,7 +10762,7 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
             {
@@ -10872,11 +10878,11 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 1.3247,
+      "fwci": 1.323,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.73857782,
+        "value": 0.73825259,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11279,7 +11285,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-19T00:03:45.406941",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11425,7 +11431,7 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
             {
@@ -11470,11 +11476,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9165,
+      "fwci": 1.9104,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.87932466,
+        "value": 0.87901451,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12537,7 +12543,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-19T07:32:40.446753",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12795,7 +12801,7 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
             {
@@ -12898,11 +12904,11 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 0.6623,
+      "fwci": 0.6615,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.58960338,
+        "value": 0.58931435,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14024,7 +14030,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-24T07:32:12.397491",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14184,7 +14190,7 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
             {
@@ -14244,11 +14250,11 @@
         "currency": "USD",
         "value_usd": 1800
       },
-      "fwci": 0.2809,
+      "fwci": 0.281,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.49209809,
+        "value": 0.49241049,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15237,7 +15243,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-09T07:26:56.047234",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15308,7 +15314,7 @@
           "author": {
             "id": "https://openalex.org/A5106908772",
             "display_name": "Adamu Kimayim Gaduwang",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0009-8749-785X"
           },
           "institutions": [
             {
@@ -15456,7 +15462,7 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
             {
@@ -15559,11 +15565,11 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 0.7347,
+      "fwci": 0.7327,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.5930477,
+        "value": 0.59245415,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16544,7 +16550,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16688,7 +16694,7 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
             {
@@ -16791,11 +16797,11 @@
         "currency": "USD",
         "value_usd": 2400
       },
-      "fwci": 1.6668,
+      "fwci": 1.6639,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.84419501,
+        "value": 0.84409203,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18100,7 +18106,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18146,7 +18152,7 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
             {
@@ -18612,9 +18618,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -19015,7 +19021,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-20T07:33:13.661266",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19150,7 +19156,7 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [],
           "countries": [],
@@ -19490,9 +19496,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -19518,7 +19524,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2019-08-13T00:00:00"
     },
     {
@@ -19546,6 +19552,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -19589,7 +19596,7 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [],
           "countries": [],
@@ -19611,7 +19618,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37602383,
+        "value": 0.37509266,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19772,6 +19779,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -19822,7 +19830,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19867,7 +19875,7 @@
           "author": {
             "id": "https://openalex.org/A5106908772",
             "display_name": "Adamu Kimayim Gaduwang",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0009-8749-785X"
           },
           "institutions": [
             {
@@ -19941,7 +19949,7 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
             {
@@ -20024,7 +20032,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37522864,
+        "value": 0.35569782,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20927,7 +20935,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     }
   ]

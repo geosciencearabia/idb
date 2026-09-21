@@ -2,6 +2,9 @@
   "details": {
     "id": "https://openalex.org/A5039685767",
     "orcid": "https://orcid.org/0000-0001-9203-7625",
+    "observed_orcids": [
+      "https://orcid.org/0000-0001-9203-7625"
+    ],
     "display_name": "Marco Vecoli",
     "raw_author_names": [
       "M VECOLI",
@@ -22,7 +25,10 @@
     },
     "ids": {
       "openalex": "https://openalex.org/A5039685767",
-      "orcid": "https://orcid.org/0000-0001-9203-7625"
+      "orcid": "https://orcid.org/0000-0001-9203-7625",
+      "observed_orcids": [
+        "https://orcid.org/0000-0001-9203-7625"
+      ]
     },
     "affiliations": [
       {
@@ -348,7 +354,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0003691,
+        "value": 0.000369,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -745,7 +751,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -995,7 +1000,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -1050,11 +1054,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 15.1527,
+      "fwci": 15.143,
       "has_fulltext": false,
       "cited_by_count": 219,
       "citation_normalized_percentile": {
-        "value": 0.99012269,
+        "value": 0.99012117,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1392,15 +1396,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -1993,7 +1997,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-09-15T07:32:03.291174",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2502,15 +2506,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4699999988079071,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4699999988079071
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 115,
@@ -2777,7 +2781,7 @@
           "author": {
             "id": "https://openalex.org/A5064165179",
             "display_name": "Jonathan Craig",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0008-9518-0003"
           },
           "institutions": [
             {
@@ -3136,11 +3140,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 5.4725,
+      "fwci": 5.4721,
       "has_fulltext": false,
       "cited_by_count": 150,
       "citation_normalized_percentile": {
-        "value": 0.95035654,
+        "value": 0.95036665,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3392,15 +3396,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 360,
@@ -3837,7 +3841,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3945,7 +3949,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I32881790",
                 "https://openalex.org/I4210087837",
@@ -4144,12 +4147,9 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210102569",
                 "https://openalex.org/I4210148025",
                 "https://openalex.org/I4387156182",
-                "https://openalex.org/I90183372",
                 "https://openalex.org/I90183372"
               ]
             },
@@ -4227,7 +4227,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I151295451",
                 "https://openalex.org/I4210091225",
@@ -4320,7 +4319,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I32881790",
                 "https://openalex.org/I4210087837",
@@ -4459,7 +4457,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I32881790",
                 "https://openalex.org/I4210087837",
                 "https://openalex.org/I4210128300"
@@ -4530,7 +4527,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I32881790",
                 "https://openalex.org/I4210087837",
                 "https://openalex.org/I4210128300"
@@ -4590,7 +4586,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2802818602",
                 "https://openalex.org/I39804081",
@@ -4669,7 +4664,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2802818602",
                 "https://openalex.org/I39804081",
                 "https://openalex.org/I4210090127",
@@ -4737,11 +4731,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2800285241",
                 "https://openalex.org/I3124938446",
                 "https://openalex.org/I4210088668",
@@ -4749,11 +4738,9 @@
                 "https://openalex.org/I4210107625",
                 "https://openalex.org/I4210117091",
                 "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210148025",
                 "https://openalex.org/I4210150854",
                 "https://openalex.org/I4387156395",
                 "https://openalex.org/I4399657933",
-                "https://openalex.org/I56067802",
                 "https://openalex.org/I56067802"
               ]
             },
@@ -4821,12 +4808,9 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210102569",
                 "https://openalex.org/I4210148025",
                 "https://openalex.org/I4387156182",
-                "https://openalex.org/I90183372",
                 "https://openalex.org/I90183372"
               ]
             },
@@ -4957,7 +4941,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I32881790",
                 "https://openalex.org/I4210087837",
@@ -5120,6 +5103,8 @@
                 "https://openalex.org/I4210120727",
                 "https://openalex.org/I4210143832",
                 "https://openalex.org/I4210148025",
+                "https://openalex.org/I4387152652",
+                "https://openalex.org/I4387154617",
                 "https://openalex.org/I68947357"
               ]
             }
@@ -5210,11 +5195,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2800285241",
                 "https://openalex.org/I3124938446",
                 "https://openalex.org/I4210088668",
@@ -5222,11 +5202,9 @@
                 "https://openalex.org/I4210107625",
                 "https://openalex.org/I4210117091",
                 "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210148025",
                 "https://openalex.org/I4210150854",
                 "https://openalex.org/I4387156395",
                 "https://openalex.org/I4399657933",
-                "https://openalex.org/I56067802",
                 "https://openalex.org/I56067802"
               ]
             },
@@ -5510,7 +5488,7 @@
           "author": {
             "id": "https://openalex.org/A5068579961",
             "display_name": "Martin J. Whitehouse",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0003-2227-577X"
           },
           "institutions": [
             {
@@ -5613,11 +5591,11 @@
         "currency": "USD",
         "value_usd": 2382
       },
-      "fwci": 14.6128,
+      "fwci": 14.6113,
       "has_fulltext": false,
       "cited_by_count": 121,
       "citation_normalized_percentile": {
-        "value": 0.99016485,
+        "value": 0.9901643,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -6682,15 +6660,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2115272001.pdf"
@@ -7289,7 +7267,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7380,7 +7358,8 @@
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I161929037"
+                "https://openalex.org/I161929037",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
@@ -7436,11 +7415,11 @@
         "value_usd": 5120
       },
       "apc_paid": null,
-      "fwci": 11.1615,
+      "fwci": 11.1642,
       "has_fulltext": false,
       "cited_by_count": 138,
       "citation_normalized_percentile": {
-        "value": 0.98467294,
+        "value": 0.98467664,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7847,8 +7826,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 161,
@@ -8090,7 +8069,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-19T07:32:40.446753",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8596,7 +8575,8 @@
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I161929037"
+                "https://openalex.org/I161929037",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
@@ -8641,7 +8621,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.511,
+      "fwci": 4.5109,
       "has_fulltext": false,
       "cited_by_count": 85,
       "citation_normalized_percentile": {
@@ -8957,15 +8937,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7799999713897705,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7799999713897705
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 230,
@@ -10282,7 +10262,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-12T09:15:50.089291",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10762,8 +10742,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.6700000166893005,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.6700000166893005
         }
       ],
       "awards": [
@@ -10795,8 +10775,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 185,
@@ -11828,8 +11808,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -11841,8 +11821,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -12135,7 +12115,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -12216,11 +12195,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 19.0748,
+      "fwci": 19.0127,
       "has_fulltext": false,
       "cited_by_count": 79,
       "citation_normalized_percentile": {
-        "value": 0.99125602,
+        "value": 0.99122478,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -12515,8 +12494,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.6200000047683716,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.6200000047683716
         }
       ],
       "awards": [
@@ -12536,8 +12515,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 226,
@@ -12832,7 +12811,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-02T18:50:13.731487",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12923,11 +12902,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2800285241",
                 "https://openalex.org/I3124938446",
                 "https://openalex.org/I4210088668",
@@ -12935,11 +12909,9 @@
                 "https://openalex.org/I4210107625",
                 "https://openalex.org/I4210117091",
                 "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210148025",
                 "https://openalex.org/I4210150854",
                 "https://openalex.org/I4387156395",
                 "https://openalex.org/I4399657933",
-                "https://openalex.org/I56067802",
                 "https://openalex.org/I56067802"
               ]
             },
@@ -13007,7 +12979,8 @@
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I161929037"
+                "https://openalex.org/I161929037",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
@@ -13082,7 +13055,6 @@
               "lineage": [
                 "https://openalex.org/I12449238",
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210148025",
                 "https://openalex.org/I4387155497"
               ]
@@ -13155,7 +13127,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210148025",
                 "https://openalex.org/I4387154617",
@@ -13296,7 +13267,7 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 3.666,
+      "fwci": 3.6657,
       "has_fulltext": true,
       "cited_by_count": 73,
       "citation_normalized_percentile": {
@@ -13689,8 +13660,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -13702,8 +13673,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2033718063.pdf",
@@ -13858,7 +13829,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-19T07:32:40.446753",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14483,15 +14454,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5600000023841858,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5600000023841858
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -14768,7 +14739,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -14846,7 +14816,7 @@
           "author": {
             "id": "https://openalex.org/A5113788807",
             "display_name": "Cristina González‐Gómez",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0007-3345-2555"
           },
           "institutions": [
             {
@@ -14973,7 +14943,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -15006,7 +14975,7 @@
           "author": {
             "id": "https://openalex.org/A5056941463",
             "display_name": "Daniel Vizcaı̈no",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-0987-8755"
           },
           "institutions": [],
           "countries": [],
@@ -15042,11 +15011,11 @@
         "value_usd": 5120
       },
       "apc_paid": null,
-      "fwci": 2.8408,
+      "fwci": 2.8403,
       "has_fulltext": true,
       "cited_by_count": 65,
       "citation_normalized_percentile": {
-        "value": 0.88983051,
+        "value": 0.88977583,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15447,15 +15416,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2059964545.pdf",
@@ -15715,7 +15684,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-08-31T07:19:18.363097",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15806,7 +15775,8 @@
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I134560555"
+                "https://openalex.org/I134560555",
+                "https://openalex.org/I4405258862"
               ]
             },
             {
@@ -15826,7 +15796,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2799535048",
                 "https://openalex.org/I2802818602",
@@ -16185,11 +16154,11 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 6.1122,
+      "fwci": 6.1116,
       "has_fulltext": false,
       "cited_by_count": 61,
       "citation_normalized_percentile": {
-        "value": 0.95769471,
+        "value": 0.95768884,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16479,8 +16448,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -16500,8 +16469,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 107,
@@ -16689,7 +16658,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-08-27T14:10:00.468798",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -17245,15 +17214,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -17656,24 +17625,17 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2802818602",
                 "https://openalex.org/I2802818602",
                 "https://openalex.org/I4210088668",
-                "https://openalex.org/I4210090127",
                 "https://openalex.org/I4210090127",
                 "https://openalex.org/I4210112832",
                 "https://openalex.org/I4210113730",
                 "https://openalex.org/I4210131494",
-                "https://openalex.org/I4210131494",
                 "https://openalex.org/I4210148025",
                 "https://openalex.org/I4210154111",
                 "https://openalex.org/I4210166444",
-                "https://openalex.org/I4210166444",
                 "https://openalex.org/I4387154391",
                 "https://openalex.org/I70900168",
-                "https://openalex.org/I899635006",
                 "https://openalex.org/I899635006"
               ]
             },
@@ -17685,7 +17647,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I12449238",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210148025",
                 "https://openalex.org/I4387155497"
@@ -17777,11 +17738,11 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 3.2547,
+      "fwci": 3.2551,
       "has_fulltext": false,
       "cited_by_count": 60,
       "citation_normalized_percentile": {
-        "value": 0.89797788,
+        "value": 0.89803396,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18154,15 +18115,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.6700000166893005,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.6700000166893005
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 117,
@@ -18360,7 +18321,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-18T07:38:42.748307",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -18727,7 +18688,7 @@
           "author": {
             "id": "https://openalex.org/A5002010059",
             "display_name": "Han van Konijnenburg‐van Cittert",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0001-5833-3439"
           },
           "institutions": [
             {
@@ -18891,11 +18852,11 @@
         "currency": "USD",
         "value_usd": 3750
       },
-      "fwci": 10.8177,
+      "fwci": 10.8208,
       "has_fulltext": false,
       "cited_by_count": 60,
       "citation_normalized_percentile": {
-        "value": 0.986848,
+        "value": 0.98685315,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19373,8 +19334,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [
@@ -19409,8 +19370,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 140,
@@ -20170,7 +20131,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-09T07:26:56.047234",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20254,7 +20215,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -20295,7 +20255,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
@@ -20468,7 +20427,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8513,
+      "fwci": 2.8511,
       "has_fulltext": false,
       "cited_by_count": 57,
       "citation_normalized_percentile": {
@@ -20786,15 +20745,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.41999998688697815,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -20931,7 +20890,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-08-27T14:10:00.468798",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21405,15 +21364,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5400000214576721,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.5400000214576721
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -21634,7 +21593,8 @@
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I161929037"
+                "https://openalex.org/I161929037",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
@@ -21839,7 +21799,7 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 3.666,
+      "fwci": 3.6657,
       "has_fulltext": false,
       "cited_by_count": 49,
       "citation_normalized_percentile": {
@@ -22046,15 +22006,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -22205,7 +22165,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22818,15 +22778,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.699999988079071,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.699999988079071
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -23028,7 +22988,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -23080,7 +23039,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
@@ -23331,7 +23289,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6293,
+      "fwci": 1.6292,
       "has_fulltext": false,
       "cited_by_count": 44,
       "citation_normalized_percentile": {
@@ -23675,8 +23633,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -24227,7 +24185,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24658,15 +24616,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -25549,7 +25507,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -25629,7 +25586,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I2802487185",
@@ -25965,7 +25921,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -26038,7 +25993,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I39804081",
                 "https://openalex.org/I4210097099",
                 "https://openalex.org/I4210148025"
@@ -26054,7 +26008,8 @@
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I32881790",
                 "https://openalex.org/I4210107625",
-                "https://openalex.org/I4210126236"
+                "https://openalex.org/I4210126236",
+                "https://openalex.org/I4405269557"
               ]
             }
           ],
@@ -26116,11 +26071,11 @@
         "value_usd": 4090
       },
       "apc_paid": null,
-      "fwci": 3.1496,
+      "fwci": 3.1455,
       "has_fulltext": false,
       "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.91209424,
+        "value": 0.911747,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -26535,15 +26490,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6899999976158142,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -26642,7 +26597,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -26745,7 +26700,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
@@ -26907,7 +26861,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
@@ -27139,11 +27092,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 3.2022,
+      "fwci": 3.193,
       "has_fulltext": true,
       "cited_by_count": 35,
       "citation_normalized_percentile": {
-        "value": 0.91825801,
+        "value": 0.91792153,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -27583,8 +27536,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7799999713897705,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7799999713897705
         }
       ],
       "awards": [
@@ -27688,8 +27641,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2761574567.pdf",
@@ -28494,7 +28447,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2017-10-20T00:00:00"
     },
     {
@@ -28595,7 +28548,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I2802487185",
@@ -28711,7 +28663,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -28784,7 +28735,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I39804081",
                 "https://openalex.org/I4210097099",
                 "https://openalex.org/I4210148025"
@@ -28851,7 +28801,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I2802487185",
@@ -28923,7 +28872,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I2802487185",
                 "https://openalex.org/I4210148025",
@@ -28994,7 +28942,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I2802487185",
                 "https://openalex.org/I4210148025",
@@ -29047,11 +28994,11 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 5.5523,
+      "fwci": 5.8664,
       "has_fulltext": false,
-      "cited_by_count": 29,
+      "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.95040154,
+        "value": 0.95477671,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -29509,8 +29456,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [
@@ -29530,8 +29477,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 131,
@@ -29712,14 +29659,14 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2018,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-26T07:47:46.906454",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30118,8 +30065,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -30131,8 +30078,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -30540,15 +30487,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6100000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6100000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30783,7 +30730,8 @@
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I134560555"
+                "https://openalex.org/I134560555",
+                "https://openalex.org/I4405258862"
               ]
             },
             {
@@ -30793,7 +30741,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2799535048",
                 "https://openalex.org/I2802818602",
@@ -30926,11 +30873,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 2.1868,
+      "fwci": 2.1859,
       "has_fulltext": false,
       "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.856478,
+        "value": 0.85651267,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31237,15 +31184,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 97,
@@ -31423,7 +31370,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-27T14:10:00.468798",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -31946,15 +31893,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -32613,8 +32560,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5299999713897705,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
@@ -32626,8 +32573,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -32881,7 +32828,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -32927,7 +32873,7 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 2.444,
+      "fwci": 2.4438,
       "has_fulltext": false,
       "cited_by_count": 38,
       "citation_normalized_percentile": {
@@ -33281,15 +33227,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -33430,7 +33376,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-19T07:32:40.446753",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33569,7 +33515,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -33619,7 +33564,7 @@
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.712364,
+        "value": 0.71233554,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33933,15 +33878,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -34060,7 +34005,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -34188,7 +34133,8 @@
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I134560555"
+                "https://openalex.org/I134560555",
+                "https://openalex.org/I4405258862"
               ]
             },
             {
@@ -34208,7 +34154,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2799535048",
                 "https://openalex.org/I2802818602",
@@ -34409,11 +34354,11 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 3.1271,
+      "fwci": 3.1269,
       "has_fulltext": false,
       "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.90098472,
+        "value": 0.90100489,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -34862,8 +34807,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -34893,8 +34838,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -35066,7 +35011,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-08-27T14:10:00.468798",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35159,7 +35104,8 @@
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I134560555"
+                "https://openalex.org/I134560555",
+                "https://openalex.org/I4405258862"
               ]
             },
             {
@@ -35179,7 +35125,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2799535048",
                 "https://openalex.org/I2802818602",
@@ -35400,11 +35345,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.6673,
+      "fwci": 3.6669,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.91809418,
+        "value": 0.91815218,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -35736,15 +35681,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -36756,7 +36701,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-27T14:10:00.468798",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -36827,7 +36772,7 @@
           "author": {
             "id": "https://openalex.org/A5079349772",
             "display_name": "Renaud Couëffé",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0009-4219-3836"
           },
           "institutions": [
             {
@@ -36931,11 +36876,11 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 1.2224,
+      "fwci": 1.2223,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.82425966,
+        "value": 0.82423528,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37391,8 +37336,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -37404,8 +37349,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -37554,7 +37499,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -38196,8 +38141,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -38232,8 +38177,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 106,
@@ -38827,8 +38772,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38983,7 +38928,8 @@
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I134560555"
+                "https://openalex.org/I134560555",
+                "https://openalex.org/I4405258862"
               ]
             },
             {
@@ -38993,7 +38939,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2799535048",
                 "https://openalex.org/I2802818602",
@@ -39225,11 +39170,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 1.2224,
+      "fwci": 1.2223,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.81240031,
+        "value": 0.81237428,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39566,15 +39511,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -39697,7 +39642,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-27T14:10:00.468798",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -39789,7 +39734,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -39841,7 +39785,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I131077856",
                 "https://openalex.org/I19894307",
@@ -39902,7 +39845,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I154526488",
                 "https://openalex.org/I39804081",
                 "https://openalex.org/I4210123595",
@@ -39938,11 +39880,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8133,
+      "fwci": 0.8135,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.75140328,
+        "value": 0.75142056,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40240,15 +40182,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4699999988079071,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.4699999988079071
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -40513,7 +40455,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-27T14:10:00.468798",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40583,7 +40525,7 @@
           "author": {
             "id": "https://openalex.org/A5109987608",
             "display_name": "Wilson A. Taylor",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0003-7498-9683"
           },
           "institutions": [
             {
@@ -40742,11 +40684,11 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 0.5261,
+      "fwci": 0.5245,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.61941212,
+        "value": 0.61909882,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41017,8 +40959,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.6600000262260437,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
@@ -41030,8 +40972,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -41133,7 +41075,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-10T07:47:47.112893",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41223,7 +41165,8 @@
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I161929037"
+                "https://openalex.org/I161929037",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
@@ -41233,7 +41176,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2802818602",
                 "https://openalex.org/I4210090127",
@@ -41342,7 +41284,8 @@
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I161929037"
+                "https://openalex.org/I161929037",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
@@ -41352,7 +41295,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2802818602",
                 "https://openalex.org/I4210090127",
@@ -41437,7 +41379,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I39804081",
                 "https://openalex.org/I4210107625",
@@ -41592,11 +41533,11 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 2.0992,
+      "fwci": 2.0893,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.84403046,
+        "value": 0.84362252,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41954,8 +41895,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5600000023841858,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5600000023841858
         }
       ],
       "awards": [],
@@ -41982,8 +41923,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 119,
@@ -42159,7 +42100,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -42269,7 +42210,7 @@
           "author": {
             "id": "https://openalex.org/A5109987608",
             "display_name": "Wilson A. Taylor",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0003-7498-9683"
           },
           "institutions": [
             {
@@ -42398,11 +42339,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3157,
+      "fwci": 0.3147,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.58068163,
+        "value": 0.58034311,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42776,8 +42717,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4699999988079071,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.4699999988079071
         }
       ],
       "awards": [
@@ -42834,8 +42775,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -43301,7 +43242,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-15T07:11:24.734988",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -43906,8 +43847,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -44634,8 +44575,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5899999737739563,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5899999737739563
         }
       ],
       "awards": [],
@@ -44662,8 +44603,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -45401,7 +45342,8 @@
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I161929037"
+                "https://openalex.org/I161929037",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
@@ -45411,7 +45353,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2802818602",
                 "https://openalex.org/I4210090127",
@@ -45511,11 +45452,11 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 1.1356,
+      "fwci": 1.1337,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.74518353,
+        "value": 0.74472841,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45870,8 +45811,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -45888,8 +45829,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -45963,7 +45904,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -46379,8 +46320,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -46392,8 +46333,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -47095,15 +47036,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.9100000262260437,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.9100000262260437
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 117,
@@ -47742,8 +47683,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 111,
@@ -47970,7 +47911,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -48118,7 +48058,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -48162,7 +48101,7 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 2.0367,
+      "fwci": 2.0365,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
@@ -48497,15 +48436,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 135,
@@ -48705,7 +48644,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-09T07:26:56.047234",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -48807,7 +48746,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -48861,11 +48799,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2800285241",
                 "https://openalex.org/I3124938446",
                 "https://openalex.org/I4210088668",
@@ -48873,11 +48806,9 @@
                 "https://openalex.org/I4210107625",
                 "https://openalex.org/I4210117091",
                 "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210148025",
                 "https://openalex.org/I4210150854",
                 "https://openalex.org/I4387156395",
                 "https://openalex.org/I4399657933",
-                "https://openalex.org/I56067802",
                 "https://openalex.org/I56067802"
               ]
             },
@@ -48938,11 +48869,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2800285241",
                 "https://openalex.org/I3124938446",
                 "https://openalex.org/I4210088668",
@@ -48950,11 +48876,9 @@
                 "https://openalex.org/I4210107625",
                 "https://openalex.org/I4210117091",
                 "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210148025",
                 "https://openalex.org/I4210150854",
                 "https://openalex.org/I4387156395",
                 "https://openalex.org/I4399657933",
-                "https://openalex.org/I56067802",
                 "https://openalex.org/I56067802"
               ]
             },
@@ -49001,11 +48925,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 1.033,
+      "fwci": 1.0328,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.73039913,
+        "value": 0.73034445,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49326,8 +49250,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5899999737739563,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5899999737739563
         }
       ],
       "awards": [],
@@ -49344,8 +49268,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -49428,7 +49352,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -50035,8 +49959,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -50058,8 +49982,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 110,
@@ -51044,7 +50968,7 @@
           "author": {
             "id": "https://openalex.org/A5102109911",
             "display_name": "Hongzhen Feng",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-3067-3084"
           },
           "institutions": [
             {
@@ -51167,11 +51091,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 2.6321,
+      "fwci": 2.6317,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.88691447,
+        "value": 0.88697273,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -51441,15 +51365,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6899999976158142,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -51582,7 +51506,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-04T10:56:28.161419",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -52061,15 +51985,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -52303,7 +52227,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -52342,7 +52265,7 @@
           "author": {
             "id": "https://openalex.org/A5068223696",
             "display_name": "Iginio Dieni",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0004-7564-5337"
           },
           "institutions": [
             {
@@ -52459,7 +52382,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -52505,11 +52427,11 @@
         "value_usd": 4190
       },
       "apc_paid": null,
-      "fwci": 2.444,
+      "fwci": 2.4424,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.88486766,
+        "value": 0.88469553,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -52831,8 +52753,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -52877,7 +52799,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -53523,15 +53445,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 218,
@@ -54237,15 +54159,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -55350,8 +55272,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -55368,8 +55290,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -56549,8 +56471,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [
@@ -56599,8 +56521,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -57677,8 +57599,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -57695,8 +57617,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 330,
@@ -59248,8 +59170,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -59261,8 +59183,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 118,
@@ -59825,15 +59747,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5699999928474426,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -61095,15 +61017,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -61314,7 +61236,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -61367,7 +61288,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -61402,11 +61322,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5131,
+      "fwci": 0.5135,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.68875885,
+        "value": 0.68873153,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -61628,15 +61548,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -62293,7 +62213,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -62752,15 +62672,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7200000286102295,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -63615,15 +63535,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -63882,7 +63802,8 @@
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I161929037"
+                "https://openalex.org/I161929037",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
@@ -64018,11 +63939,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 0.4293,
+      "fwci": 0.4294,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.71421675,
+        "value": 0.71428571,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -64281,15 +64202,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -64917,7 +64838,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -65298,15 +65219,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.46000000834465027,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -66247,8 +66168,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -66879,8 +66800,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.6800000071525574,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.6800000071525574
         }
       ],
       "awards": [
@@ -66927,8 +66848,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -67587,8 +67508,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7599999904632568,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7599999904632568
         }
       ],
       "awards": [],
@@ -67600,8 +67521,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2117658441.pdf",
@@ -68326,15 +68247,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.49000000953674316,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -68542,7 +68463,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I131077856",
                 "https://openalex.org/I19894307",
                 "https://openalex.org/I2802818602",
@@ -68619,7 +68539,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
@@ -68727,7 +68646,8 @@
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I32881790",
                 "https://openalex.org/I4210107625",
-                "https://openalex.org/I4210126236"
+                "https://openalex.org/I4210126236",
+                "https://openalex.org/I4405269557"
               ]
             }
           ],
@@ -68775,11 +68695,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 0.3936,
+      "fwci": 0.3932,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.66350482,
+        "value": 0.66359572,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -69193,8 +69113,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.47999998927116394,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.47999998927116394
         }
       ],
       "awards": [
@@ -69214,8 +69134,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 71,
@@ -69331,7 +69251,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -69759,15 +69679,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -70700,11 +70620,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2800285241",
                 "https://openalex.org/I3124938446",
                 "https://openalex.org/I4210088668",
@@ -70712,11 +70627,9 @@
                 "https://openalex.org/I4210107625",
                 "https://openalex.org/I4210117091",
                 "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210148025",
                 "https://openalex.org/I4210150854",
                 "https://openalex.org/I4387156395",
                 "https://openalex.org/I4399657933",
-                "https://openalex.org/I56067802",
                 "https://openalex.org/I56067802"
               ]
             },
@@ -70895,11 +70808,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.8371,
+      "fwci": 3.8403,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.93338931,
+        "value": 0.93344519,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -71142,8 +71055,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -71756,7 +71669,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -72141,8 +72054,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -72686,8 +72599,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6499999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6499999761581421
         }
       ],
       "awards": [],
@@ -72699,8 +72612,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1999330874.pdf",
@@ -73240,7 +73153,8 @@
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I161929037"
+                "https://openalex.org/I161929037",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
@@ -73296,11 +73210,11 @@
         "value_usd": 5120
       },
       "apc_paid": null,
-      "fwci": 1.2879,
+      "fwci": 1.2882,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.84153995,
+        "value": 0.84157819,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -73647,8 +73561,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -73680,7 +73594,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-25T07:29:55.448023",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -73771,7 +73685,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
@@ -73879,7 +73792,8 @@
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I161929037"
+                "https://openalex.org/I161929037",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
@@ -74299,8 +74213,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
@@ -74317,8 +74231,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -74365,7 +74279,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-25T07:29:55.448023",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -74450,7 +74364,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -74514,7 +74427,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -74548,11 +74460,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.035,
+      "fwci": 1.0357,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.80203428,
+        "value": 0.80214709,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -74824,15 +74736,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -74923,7 +74835,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-22T07:34:49.880490",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -75006,7 +74918,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210107855",
@@ -75113,7 +75024,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210107855",
@@ -75320,7 +75230,7 @@
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.05943451,
+        "value": 0.05937094,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -75646,8 +75556,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -75664,8 +75574,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2085575216.pdf",
@@ -76047,7 +75957,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-06T09:10:53.072986",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -76148,7 +76058,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I131077856",
                 "https://openalex.org/I19894307",
                 "https://openalex.org/I2802818602",
@@ -76225,7 +76134,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
@@ -76367,11 +76275,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 0.1671,
+      "fwci": 0.1668,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.59029918,
+        "value": 0.59034908,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -76698,8 +76606,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5400000214576721,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5400000214576721
         }
       ],
       "awards": [
@@ -76726,8 +76634,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -76797,7 +76705,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -76824,6 +76732,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I1294671590",
           "host_organization_name": "Centre National de la Recherche Scientifique",
           "host_organization_lineage": [
@@ -76909,7 +76818,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -76954,7 +76862,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.15407904,
+        "value": 0.16964125,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -77147,6 +77055,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -77176,6 +77085,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -77197,15 +77107,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.46000000834465027,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -77240,7 +77150,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-26T07:47:46.906454",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -77267,6 +77177,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I1294671590",
           "host_organization_name": "Centre National de la Recherche Scientifique",
           "host_organization_lineage": [
@@ -77297,7 +77208,7 @@
           "author": {
             "id": "https://openalex.org/A5079349772",
             "display_name": "Renaud Couëffé",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0009-4219-3836"
           },
           "institutions": [
             {
@@ -77489,7 +77400,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.61640212,
+        "value": 0.6183274,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -77648,6 +77559,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -77670,8 +77582,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -78705,7 +78617,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-26T07:47:46.906454",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -78796,7 +78708,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -78844,7 +78755,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.04722587,
+        "value": 0.04715598,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -79080,8 +78991,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -79105,7 +79016,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -79596,8 +79507,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -79629,324 +79540,6 @@
         }
       ],
       "updated_date": "2026-09-04T10:56:28.161419",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4298063717",
-      "doi": "https://doi.org/10.1016/j.revpalvo.2006.11.004",
-      "title": "Fossil microphytoplankton dynamics across the Ordovician-Silurian boundary",
-      "display_name": "Fossil microphytoplankton dynamics across the Ordovician-Silurian boundary",
-      "publication_year": 2008,
-      "publication_date": "2008-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W4298063717",
-        "doi": "https://doi.org/10.1016/j.revpalvo.2006.11.004"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "pmh:oai:HAL:hal-00310257v1",
-        "is_oa": false,
-        "landing_page_url": "https://hal.science/hal-00310257",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
-          "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
-          ],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "submittedVersion",
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": "Review of Palaeobotany and Palynology, 2008, 148 (2-4), pp.91-107. &#x27E8;10.1016/j.revpalvo.2006.11.004&#x27E9;",
-        "raw_type": "info:eu-repo/semantics/article"
-      },
-      "type": "article",
-      "indexed_in": [],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5039685767",
-            "display_name": "Marco Vecoli",
-            "orcid": "https://orcid.org/0000-0001-9203-7625"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210148734",
-              "display_name": "Unité Évolution, Écologie et Paléontologie",
-              "ror": "https://ror.org/04y91dy23",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2279609970",
-                "https://openalex.org/I4210137101",
-                "https://openalex.org/I4210139971",
-                "https://openalex.org/I4210148734"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Vecoli, Marco",
-          "raw_affiliation_strings": [
-            "LPPP - Laboratoire de paléontologie et paleogéographie du paleozoique (Bât. SN5 59655 VILLENEUVE D ASCQ CEDEX - France)",
-            "Laboratoire de paléontologie et paleogéographie du paleozoique"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "LPPP - Laboratoire de paléontologie et paleogéographie du paleozoique (Bât. SN5 59655 VILLENEUVE D ASCQ CEDEX - France)",
-              "institution_ids": [
-                "https://openalex.org/I4210148734"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Laboratoire de paléontologie et paleogéographie du paleozoique",
-              "institution_ids": [
-                "https://openalex.org/I4210148734"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5039685767"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210148734"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.14262213,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 94
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9940999746322632,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9940999746322632,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/ordovician",
-          "display_name": "Ordovician",
-          "score": 0.9433922171592712
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.6898211240768433
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6630227565765381
-        },
-        {
-          "id": "https://openalex.org/keywords/boundary",
-          "display_name": "Boundary (topology)",
-          "score": 0.6192446351051331
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.3267344832420349
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C91442348",
-          "wikidata": "https://www.wikidata.org/wiki/Q62100",
-          "display_name": "Ordovician",
-          "level": 2,
-          "score": 0.9433922171592712
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6898211240768433
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6630227565765381
-        },
-        {
-          "id": "https://openalex.org/C62354387",
-          "wikidata": "https://www.wikidata.org/wiki/Q875399",
-          "display_name": "Boundary (topology)",
-          "level": 2,
-          "score": 0.6192446351051331
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.3267344832420349
-        },
-        {
-          "id": "https://openalex.org/C134306372",
-          "wikidata": "https://www.wikidata.org/wiki/Q7754",
-          "display_name": "Mathematical analysis",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "pmh:oai:HAL:hal-00310257v1",
-          "is_oa": false,
-          "landing_page_url": "https://hal.science/hal-00310257",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
-            "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Review of Palaeobotany and Palynology, 2008, 148 (2-4), pp.91-107. &#x27E8;10.1016/j.revpalvo.2006.11.004&#x27E9;",
-          "raw_type": "info:eu-repo/semantics/article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.44999998807907104,
-          "display_name": "Life below water"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W4317402492",
-        "https://openalex.org/W1999504760",
-        "https://openalex.org/W2368522891",
-        "https://openalex.org/W1989860390",
-        "https://openalex.org/W2091534660",
-        "https://openalex.org/W2603572007",
-        "https://openalex.org/W2056293580",
-        "https://openalex.org/W1998813094",
-        "https://openalex.org/W6309456",
-        "https://openalex.org/W2161669846"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-08-26T07:47:46.906454",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -80436,15 +80029,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.49000000953674316,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -80797,6 +80390,325 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4298063717",
+      "doi": "https://doi.org/10.1016/j.revpalvo.2006.11.004",
+      "title": "Fossil microphytoplankton dynamics across the Ordovician-Silurian boundary",
+      "display_name": "Fossil microphytoplankton dynamics across the Ordovician-Silurian boundary",
+      "publication_year": 2008,
+      "publication_date": "2008-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4298063717",
+        "doi": "https://doi.org/10.1016/j.revpalvo.2006.11.004"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "pmh:oai:HAL:hal-00310257v1",
+        "is_oa": false,
+        "landing_page_url": "https://hal.science/hal-00310257",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306402512",
+          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1294671590",
+          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization_lineage": [
+            "https://openalex.org/I1294671590"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Review of Palaeobotany and Palynology, 2008, 148 (2-4), pp.91-107. &#x27E8;10.1016/j.revpalvo.2006.11.004&#x27E9;",
+        "raw_type": "info:eu-repo/semantics/article"
+      },
+      "type": "article",
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5039685767",
+            "display_name": "Marco Vecoli",
+            "orcid": "https://orcid.org/0000-0001-9203-7625"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210148734",
+              "display_name": "Unité Évolution, Écologie et Paléontologie",
+              "ror": "https://ror.org/04y91dy23",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2279609970",
+                "https://openalex.org/I4210137101",
+                "https://openalex.org/I4210139971",
+                "https://openalex.org/I4210148734"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Vecoli, Marco",
+          "raw_affiliation_strings": [
+            "LPPP - Laboratoire de paléontologie et paleogéographie du paleozoique (Bât. SN5 59655 VILLENEUVE D ASCQ CEDEX - France)",
+            "Laboratoire de paléontologie et paleogéographie du paleozoique"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LPPP - Laboratoire de paléontologie et paleogéographie du paleozoique (Bât. SN5 59655 VILLENEUVE D ASCQ CEDEX - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210148734"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Laboratoire de paléontologie et paleogéographie du paleozoique",
+              "institution_ids": [
+                "https://openalex.org/I4210148734"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5039685767"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210148734"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.15397083,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 93
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9940999746322632,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9940999746322632,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/ordovician",
+          "display_name": "Ordovician",
+          "score": 0.9433922171592712
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.6898211240768433
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.6630227565765381
+        },
+        {
+          "id": "https://openalex.org/keywords/boundary",
+          "display_name": "Boundary (topology)",
+          "score": 0.6192446351051331
+        },
+        {
+          "id": "https://openalex.org/keywords/oceanography",
+          "display_name": "Oceanography",
+          "score": 0.3267344832420349
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C91442348",
+          "wikidata": "https://www.wikidata.org/wiki/Q62100",
+          "display_name": "Ordovician",
+          "level": 2,
+          "score": 0.9433922171592712
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6898211240768433
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6630227565765381
+        },
+        {
+          "id": "https://openalex.org/C62354387",
+          "wikidata": "https://www.wikidata.org/wiki/Q875399",
+          "display_name": "Boundary (topology)",
+          "level": 2,
+          "score": 0.6192446351051331
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.3267344832420349
+        },
+        {
+          "id": "https://openalex.org/C134306372",
+          "wikidata": "https://www.wikidata.org/wiki/Q7754",
+          "display_name": "Mathematical analysis",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "pmh:oai:HAL:hal-00310257v1",
+          "is_oa": false,
+          "landing_page_url": "https://hal.science/hal-00310257",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1294671590",
+            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization_lineage": [
+              "https://openalex.org/I1294671590"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Review of Palaeobotany and Palynology, 2008, 148 (2-4), pp.91-107. &#x27E8;10.1016/j.revpalvo.2006.11.004&#x27E9;",
+          "raw_type": "info:eu-repo/semantics/article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
+          "score": 0.44999998807907104
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W4317402492",
+        "https://openalex.org/W1999504760",
+        "https://openalex.org/W2368522891",
+        "https://openalex.org/W1989860390",
+        "https://openalex.org/W2091534660",
+        "https://openalex.org/W2603572007",
+        "https://openalex.org/W2056293580",
+        "https://openalex.org/W1998813094",
+        "https://openalex.org/W6309456",
+        "https://openalex.org/W2161669846"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-21T07:43:02.447757",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4249066922",
       "doi": "https://doi.org/10.7312/webb12678-033",
       "title": "32. Acritarchs",
@@ -81033,8 +80945,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -81545,8 +81457,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -81947,15 +81859,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.800000011920929,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -82288,15 +82200,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -82471,7 +82383,7 @@
           "author": {
             "id": "https://openalex.org/A5056941463",
             "display_name": "Daniel Vizcaı̈no",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-0987-8755"
           },
           "institutions": [],
           "countries": [],
@@ -82484,16 +82396,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 8,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7474,
+      "fwci": 0.6387,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.75267413,
+        "value": 0.71115202,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -82639,15 +82551,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.47999998927116394,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.47999998927116394
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -82676,7 +82588,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -82823,7 +82735,7 @@
           "author": {
             "id": "https://openalex.org/A5049562444",
             "display_name": "Stephen G. Cheshire",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-5768-0794"
           },
           "institutions": [
             {
@@ -83110,8 +83022,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -83751,7 +83663,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-22T07:34:49.880490",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -84076,15 +83988,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -84589,8 +84501,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [
@@ -84610,8 +84522,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -85987,15 +85899,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.9100000262260437,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.9100000262260437
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -86327,15 +86239,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -86747,15 +86659,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -87120,8 +87032,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -87547,15 +87459,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -87951,8 +87863,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -88342,15 +88254,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5199999809265137,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -88824,15 +88736,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6499999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6499999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -89247,15 +89159,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4000000059604645,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4000000059604645
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -89712,8 +89624,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -90124,8 +90036,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -90532,15 +90444,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -90975,8 +90887,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -91289,15 +91201,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -91665,15 +91577,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5400000214576721,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.5400000214576721
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -92035,8 +91947,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -92093,6 +92005,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I1294671590",
           "host_organization_name": "Centre National de la Recherche Scientifique",
           "host_organization_lineage": [
@@ -92133,7 +92046,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
@@ -92183,7 +92095,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -92230,7 +92141,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.06552707,
+        "value": 0.06744868,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -92425,6 +92336,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -92447,8 +92359,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -92467,7 +92379,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-08-26T07:47:46.906454",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -92921,8 +92833,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -93334,15 +93246,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.41999998688697815,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -93683,8 +93595,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -94114,15 +94026,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6000000238418579,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6000000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -94584,15 +94496,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.699999988079071,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.699999988079071
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -95001,8 +94913,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -95367,15 +95279,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46000000834465027,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -95431,6 +95343,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I1294671590",
           "host_organization_name": "Centre National de la Recherche Scientifique",
           "host_organization_lineage": [
@@ -95471,7 +95384,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I131077856",
                 "https://openalex.org/I19894307",
@@ -95520,7 +95432,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
@@ -95602,7 +95513,8 @@
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I32881790",
                 "https://openalex.org/I4210107625",
-                "https://openalex.org/I4210126236"
+                "https://openalex.org/I4210126236",
+                "https://openalex.org/I4405269557"
               ]
             }
           ],
@@ -95636,7 +95548,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3118923,
+        "value": 0.30970556,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -95888,6 +95800,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -95917,6 +95830,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -95938,15 +95852,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5299999713897705,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -95965,7 +95879,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-08-27T14:10:00.468798",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -96069,7 +95983,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -96110,7 +96023,7 @@
           "author": {
             "id": "https://openalex.org/A5068223696",
             "display_name": "Iginio Dieni",
-            "orcid": null
+            "orcid": "https://orcid.org/0009-0004-7564-5337"
           },
           "institutions": [
             {
@@ -96231,7 +96144,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -96287,7 +96199,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.14854541,
+        "value": 0.14833681,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -96563,8 +96475,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4249337156.pdf",
@@ -96586,7 +96498,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-07T09:17:50.787605",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -96803,8 +96715,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -96850,6 +96762,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I1294671590",
           "host_organization_name": "Centre National de la Recherche Scientifique",
           "host_organization_lineage": [
@@ -96900,7 +96813,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210107855",
@@ -96955,6 +96867,7 @@
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210091644",
                 "https://openalex.org/I4210096427",
+                "https://openalex.org/I4405257448",
                 "https://openalex.org/I68947357"
               ]
             },
@@ -96965,7 +96878,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210107855",
@@ -97030,7 +96942,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -97068,7 +96979,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38746803,
+        "value": 0.38651102,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -97299,6 +97210,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -97328,6 +97240,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -97350,8 +97263,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -97370,7 +97283,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-08-26T07:47:46.906454",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -97397,6 +97310,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I1294671590",
           "host_organization_name": "Centre National de la Recherche Scientifique",
           "host_organization_lineage": [
@@ -97439,7 +97353,6 @@
               "country_code": "FR",
               "type": "facility",
               "lineage": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
@@ -97516,7 +97429,6 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I4210137101",
                 "https://openalex.org/I4210139971",
@@ -97571,7 +97483,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.35862185,
+        "value": 0.35627805,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -97715,6 +97627,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -97744,6 +97657,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -97772,6 +97686,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I1294671590",
           "host_organization_name": "Centre National de la Recherche Scientifique",
           "host_organization_lineage": [
@@ -97791,15 +97706,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4321471078.pdf",
@@ -97828,7 +97743,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -97856,6 +97771,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I1294671590",
           "host_organization_name": "Centre National de la Recherche Scientifique",
           "host_organization_lineage": [
@@ -97943,6 +97859,7 @@
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210091644",
                 "https://openalex.org/I4210096427",
+                "https://openalex.org/I4405257448",
                 "https://openalex.org/I68947357"
               ]
             },
@@ -98068,7 +97985,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.46630026,
+        "value": 0.46404446,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -98292,6 +98209,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -98321,6 +98239,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I172446870",
             "host_organization_name": "University of Cagliari",
             "host_organization_lineage": [
@@ -98342,15 +98261,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7799999713897705,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7799999713897705
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -98709,7 +98628,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -99206,8 +99125,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -99610,8 +99529,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -100578,15 +100497,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
