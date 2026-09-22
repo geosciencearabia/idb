@@ -5,7 +5,7 @@
     "observed_orcids": [
       "https://orcid.org/0000-0002-8396-3923"
     ],
-    "display_name": "Mohammed Al‐Masrahy",
+    "display_name": "Mohammed A. Al-Masrahy",
     "raw_author_names": [
       "M. A. Al-Masrahy",
       "M. Al-Masrahy",
@@ -403,7 +403,7 @@
     ],
     "block_key": "m al-masrahy",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5042665751",
-    "updated_date": "2026-09-19T12:19:47",
+    "updated_date": "2026-09-22T04:05:08",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -474,7 +474,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5042665751",
-            "display_name": "Mohammed Al‐Masrahy",
+            "display_name": "Mohammed A. Al-Masrahy",
             "orcid": "https://orcid.org/0000-0002-8396-3923"
           },
           "institutions": [
@@ -574,11 +574,11 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 13.0017,
+      "fwci": 12.9862,
       "has_fulltext": true,
       "cited_by_count": 155,
       "citation_normalized_percentile": {
-        "value": 0.9934625,
+        "value": 0.99346094,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -878,10 +878,11 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.4300000071525574
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -896,8 +897,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1999436875.pdf",
@@ -1090,7 +1091,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-10T07:47:47.112893",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1160,7 +1161,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5042665751",
-            "display_name": "Mohammed Al‐Masrahy",
+            "display_name": "Mohammed A. Al-Masrahy",
             "orcid": "https://orcid.org/0000-0002-8396-3923"
           },
           "institutions": [
@@ -1260,11 +1261,11 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 2.9618,
+      "fwci": 2.9604,
       "has_fulltext": false,
       "cited_by_count": 74,
       "citation_normalized_percentile": {
-        "value": 0.88270504,
+        "value": 0.8824577,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1540,15 +1541,16 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -1705,7 +1707,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-02T18:50:13.731487",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1734,6 +1736,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -1763,7 +1766,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5042665751",
-            "display_name": "Mohammed Al‐Masrahy",
+            "display_name": "Mohammed A. Al-Masrahy",
             "orcid": "https://orcid.org/0000-0002-8396-3923"
           },
           "institutions": [
@@ -1809,16 +1812,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.8595,
+      "fwci": 5.8462,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.94241152,
+        "value": 0.94254937,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 98
       },
       "biblio": {
@@ -2016,6 +2019,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -2035,10 +2039,11 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5799999833106995
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -2048,8 +2053,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -2944,7 +2949,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3060,7 +3065,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -3250,7 +3255,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5042665751",
-            "display_name": "Mohammed Al‐Masrahy",
+            "display_name": "Mohammed A. Al-Masrahy",
             "orcid": "https://orcid.org/0000-0002-8396-3923"
           },
           "institutions": [
@@ -3411,11 +3416,11 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 1.323,
+      "fwci": 1.3202,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.73825259,
+        "value": 0.73796103,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3705,6 +3710,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G2649556768",
@@ -3722,8 +3728,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -3818,7 +3824,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3846,6 +3852,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -3875,7 +3882,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5042665751",
-            "display_name": "Mohammed Al‐Masrahy",
+            "display_name": "Mohammed A. Al-Masrahy",
             "orcid": "https://orcid.org/0000-0002-8396-3923"
           },
           "institutions": [
@@ -3997,11 +4004,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.8994,
+      "fwci": 7.329,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.97517003,
+        "value": 0.97233837,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4259,6 +4266,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -4276,11 +4284,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -5053,7 +5062,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5197,7 +5206,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5042665751",
-            "display_name": "Mohammed Al‐Masrahy",
+            "display_name": "Mohammed A. Al-Masrahy",
             "orcid": "https://orcid.org/0000-0002-8396-3923"
           },
           "institutions": [
@@ -5346,11 +5355,11 @@
         "currency": "USD",
         "value_usd": 4250
       },
-      "fwci": 2.0887,
+      "fwci": 2.0736,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.83404369,
+        "value": 0.83251232,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5636,6 +5645,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -5695,8 +5705,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 127,
@@ -6602,7 +6612,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-29T07:29:34.045763",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6630,6 +6640,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -6659,7 +6670,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5042665751",
-            "display_name": "Mohammed Al‐Masrahy",
+            "display_name": "Mohammed A. Al-Masrahy",
             "orcid": "https://orcid.org/0000-0002-8396-3923"
           },
           "institutions": [],
@@ -6680,16 +6691,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1393,
+      "fwci": 1.1441,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.81968721,
+        "value": 0.82009132,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 97
       },
       "biblio": {
@@ -6875,6 +6886,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -6894,15 +6906,16 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "score": 0.5,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -6973,7 +6986,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7002,6 +7015,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -7031,7 +7045,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5042665751",
-            "display_name": "Mohammed Al‐Masrahy",
+            "display_name": "Mohammed A. Al-Masrahy",
             "orcid": "https://orcid.org/0000-0002-8396-3923"
           },
           "institutions": [
@@ -7077,11 +7091,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1393,
+      "fwci": 1.1441,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.69273229,
+        "value": 0.69223744,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7327,6 +7341,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -7346,15 +7361,16 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.5899999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5899999737739563
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -8255,1273 +8271,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-29T14:22:42.915294",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4414227515",
-      "doi": "https://doi.org/10.2118/227114-ms",
-      "title": "From Rock Record to Subsurface Reservoirs: A Novel Workflow Integrating Surface Analogs and Subsurface Data for Advanced Reservoir Characterization",
-      "display_name": "From Rock Record to Subsurface Reservoirs: A Novel Workflow Integrating Surface Analogs and Subsurface Data for Advanced Reservoir Characterization",
-      "publication_year": 2025,
-      "publication_date": "2025-09-16",
-      "ids": {
-        "openalex": "https://openalex.org/W4414227515",
-        "doi": "https://doi.org/10.2118/227114-ms"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2118/227114-ms",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.2118/227114-ms",
-        "pdf_url": null,
-        "source": null,
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
-        "raw_type": "proceedings-article"
-      },
-      "type": "conference-paper",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5071025908",
-            "display_name": "Ahmed A. Kassem",
-            "orcid": "https://orcid.org/0000-0001-7829-1846"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ahmed A. Kassem",
-          "raw_affiliation_strings": [
-            "GRCD, Saudi Aramco, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "GRCD, Saudi Aramco, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5042665751",
-            "display_name": "Mohammed Al‐Masrahy",
-            "orcid": "https://orcid.org/0000-0002-8396-3923"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed A. Al-Masrahy",
-          "raw_affiliation_strings": [
-            "GRCD, Saudi Aramco, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "GRCD, Saudi Aramco, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Anar Nabiyev",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Anar Nabiyev",
-          "raw_affiliation_strings": [
-            "GRCD, Saudi Aramco, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "GRCD, Saudi Aramco, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5063457131",
-            "display_name": "Syed Bahauddin Alam",
-            "orcid": "https://orcid.org/0000-0001-5506-6953"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Syed Alam",
-          "raw_affiliation_strings": [
-            "GRCD, Saudi Aramco, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "GRCD, Saudi Aramco, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 6.2797,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.95505618,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 91,
-        "max": 95
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9994000196456909,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9994000196456909,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11801",
-          "display_name": "Reservoir Engineering and Simulation Methods",
-          "score": 0.9984999895095825,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9980000257492065,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.6643999814987183
-        },
-        {
-          "id": "https://openalex.org/keywords/phreatic",
-          "display_name": "Phreatic",
-          "score": 0.6065000295639038
-        },
-        {
-          "id": "https://openalex.org/keywords/diagenesis",
-          "display_name": "Diagenesis",
-          "score": 0.5659999847412109
-        },
-        {
-          "id": "https://openalex.org/keywords/aeolian-processes",
-          "display_name": "Aeolian processes",
-          "score": 0.503600001335144
-        },
-        {
-          "id": "https://openalex.org/keywords/calcite",
-          "display_name": "Calcite",
-          "score": 0.49959999322891235
-        },
-        {
-          "id": "https://openalex.org/keywords/reservoir-modeling",
-          "display_name": "Reservoir modeling",
-          "score": 0.4528000056743622
-        },
-        {
-          "id": "https://openalex.org/keywords/cementation",
-          "display_name": "Cementation (geology)",
-          "score": 0.4203999936580658
-        },
-        {
-          "id": "https://openalex.org/keywords/permeability",
-          "display_name": "Permeability (electromagnetism)",
-          "score": 0.4138000011444092
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8420000076293945
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.6643999814987183
-        },
-        {
-          "id": "https://openalex.org/C180087314",
-          "wikidata": "https://www.wikidata.org/wiki/Q2089085",
-          "display_name": "Phreatic",
-          "level": 4,
-          "score": 0.6065000295639038
-        },
-        {
-          "id": "https://openalex.org/C130452526",
-          "wikidata": "https://www.wikidata.org/wiki/Q180621",
-          "display_name": "Diagenesis",
-          "level": 2,
-          "score": 0.5659999847412109
-        },
-        {
-          "id": "https://openalex.org/C180093795",
-          "wikidata": "https://www.wikidata.org/wiki/Q215839",
-          "display_name": "Aeolian processes",
-          "level": 2,
-          "score": 0.503600001335144
-        },
-        {
-          "id": "https://openalex.org/C2780191791",
-          "wikidata": "https://www.wikidata.org/wiki/Q171917",
-          "display_name": "Calcite",
-          "level": 2,
-          "score": 0.49959999322891235
-        },
-        {
-          "id": "https://openalex.org/C14641988",
-          "wikidata": "https://www.wikidata.org/wiki/Q7315329",
-          "display_name": "Reservoir modeling",
-          "level": 2,
-          "score": 0.4528000056743622
-        },
-        {
-          "id": "https://openalex.org/C5900021",
-          "wikidata": "https://www.wikidata.org/wiki/Q163082",
-          "display_name": "Petrology",
-          "level": 1,
-          "score": 0.4262000024318695
-        },
-        {
-          "id": "https://openalex.org/C94556721",
-          "wikidata": "https://www.wikidata.org/wiki/Q189315",
-          "display_name": "Cementation (geology)",
-          "level": 3,
-          "score": 0.4203999936580658
-        },
-        {
-          "id": "https://openalex.org/C120882062",
-          "wikidata": "https://www.wikidata.org/wiki/Q28352",
-          "display_name": "Permeability (electromagnetism)",
-          "level": 3,
-          "score": 0.4138000011444092
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.4113999903202057
-        },
-        {
-          "id": "https://openalex.org/C177212765",
-          "wikidata": "https://www.wikidata.org/wiki/Q627335",
-          "display_name": "Workflow",
-          "level": 2,
-          "score": 0.4090000092983246
-        },
-        {
-          "id": "https://openalex.org/C46293882",
-          "wikidata": "https://www.wikidata.org/wiki/Q2080707",
-          "display_name": "Petrophysics",
-          "level": 3,
-          "score": 0.38370001316070557
-        },
-        {
-          "id": "https://openalex.org/C6648577",
-          "wikidata": "https://www.wikidata.org/wiki/Q622669",
-          "display_name": "Porosity",
-          "level": 2,
-          "score": 0.36890000104904175
-        },
-        {
-          "id": "https://openalex.org/C182348080",
-          "wikidata": "https://www.wikidata.org/wiki/Q16817",
-          "display_name": "Karst",
-          "level": 2,
-          "score": 0.358599990606308
-        },
-        {
-          "id": "https://openalex.org/C100187453",
-          "wikidata": "https://www.wikidata.org/wiki/Q7632182",
-          "display_name": "Subsurface flow",
-          "level": 3,
-          "score": 0.3377000093460083
-        },
-        {
-          "id": "https://openalex.org/C64297162",
-          "wikidata": "https://www.wikidata.org/wiki/Q1987070",
-          "display_name": "Deposition (geology)",
-          "level": 3,
-          "score": 0.3321000039577484
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.3019999861717224
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.2705000042915344
-        },
-        {
-          "id": "https://openalex.org/C146357865",
-          "wikidata": "https://www.wikidata.org/wiki/Q1123245",
-          "display_name": "Stage (stratigraphy)",
-          "level": 2,
-          "score": 0.2590999901294708
-        },
-        {
-          "id": "https://openalex.org/C123677613",
-          "wikidata": "https://www.wikidata.org/wiki/Q542715",
-          "display_name": "Thin section",
-          "level": 2,
-          "score": 0.2556000053882599
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2118/227114-ms",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.2118/227114-ms",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 14,
-      "referenced_works": [
-        "https://openalex.org/W1592669541",
-        "https://openalex.org/W1999436875",
-        "https://openalex.org/W2004408791",
-        "https://openalex.org/W2047335882",
-        "https://openalex.org/W2152161497",
-        "https://openalex.org/W2154837711",
-        "https://openalex.org/W2163740354",
-        "https://openalex.org/W2549671587",
-        "https://openalex.org/W2620854490",
-        "https://openalex.org/W2979622934",
-        "https://openalex.org/W3170477656",
-        "https://openalex.org/W4307806851",
-        "https://openalex.org/W4321369000",
-        "https://openalex.org/W4392221632"
-      ],
-      "related_works": [],
-      "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
-        "This": [
-          1,
-          199
-        ],
-        "study": [
-          2,
-          178
-        ],
-        "presents": [
-          3
-        ],
-        "an": [
-          4
-        ],
-        "integrated": [
-          5
-        ],
-        "surface–subsurface": [
-          6
-        ],
-        "workflow": [
-          7,
-          240
-        ],
-        "to": [
-          8,
-          41,
-          156,
-          167,
-          225
-        ],
-        "enhance": [
-          9
-        ],
-        "reservoir": [
-          10,
-          78,
-          103,
-          171,
-          211,
-          260,
-          289
-        ],
-        "characterization": [
-          11
-        ],
-        "in": [
-          12,
-          153,
-          195,
-          208,
-          235,
-          257,
-          280,
-          287
-        ],
-        "heterogeneous": [
-          13
-        ],
-        "aeolian–fluvial": [
-          14
-        ],
-        "systems.": [
-          15
-        ],
-        "High-resolution": [
-          16
-        ],
-        "surface": [
-          17,
-          220,
-          264
-        ],
-        "analogs": [
-          18,
-          221
-        ],
-        "from": [
-          19,
-          111
-        ],
-        "the": [
-          20,
-          67,
-          81,
-          100,
-          154,
-          160,
-          180,
-          201,
-          216
-        ],
-        "Iberian": [
-          21
-        ],
-        "Desert": [
-          22
-        ],
-        "comprising": [
-          23
-        ],
-        "cross": [
-          24
-        ],
-        "bedded": [
-          25
-        ],
-        "aeolian": [
-          26,
-          96
-        ],
-        "dunes,": [
-          27
-        ],
-        "interdune": [
-          28,
-          124
-        ],
-        "elements,": [
-          29
-        ],
-        "bounding": [
-          30
-        ],
-        "surfaces,": [
-          31
-        ],
-        "and": [
-          32,
-          43,
-          57,
-          73,
-          89,
-          108,
-          118,
-          133,
-          136,
-          144,
-          165,
-          170,
-          191,
-          231,
-          243,
-          254,
-          265,
-          283
-        ],
-        "early": [
-          33,
-          120,
-          183,
-          205
-        ],
-        "calcite": [
-          34,
-          135
-        ],
-        "concretions,": [
-          35
-        ],
-        "late": [
-          36,
-          137
-        ],
-        "silica": [
-          37,
-          139
-        ],
-        "cementation,": [
-          38,
-          140
-        ],
-        "were": [
-          39
-        ],
-        "used": [
-          40
-        ],
-        "calibrate": [
-          42
-        ],
-        "validate": [
-          44
-        ],
-        "subsurface": [
-          45,
-          223,
-          266,
-          274
-        ],
-        "interpretations": [
-          46
-        ],
-        "based": [
-          47
-        ],
-        "on": [
-          48
-        ],
-        "core": [
-          49
-        ],
-        "description,": [
-          50
-        ],
-        "image": [
-          51
-        ],
-        "logs,": [
-          52,
-          54
-        ],
-        "well": [
-          53,
-          250
-        ],
-        "XRD,": [
-          55
-        ],
-        "SEM,": [
-          56
-        ],
-        "thin": [
-          58
-        ],
-        "section": [
-          59
-        ],
-        "petrography.": [
-          60
-        ],
-        "The": [
-          61,
-          213,
-          238,
-          262
-        ],
-        "analog": [
-          62
-        ],
-        "informed": [
-          63
-        ],
-        "framework": [
-          64
-        ],
-        "allowed": [
-          65
-        ],
-        "for": [
-          66,
-          248,
-          273
-        ],
-        "recognition": [
-          68
-        ],
-        "of": [
-          69,
-          84,
-          159,
-          176,
-          182,
-          204,
-          218
-        ],
-        "key": [
-          70,
-          174
-        ],
-        "architectural": [
-          71
-        ],
-        "elements": [
-          72
-        ],
-        "diagenetic": [
-          74,
-          206
-        ],
-        "features": [
-          75
-        ],
-        "that": [
-          76,
-          95
-        ],
-        "influence": [
-          77
-        ],
-        "quality,": [
-          79
-        ],
-        "including": [
-          80
-        ],
-        "spatial": [
-          82
-        ],
-        "arrangement": [
-          83
-        ],
-        "facies,": [
-          85,
-          151
-        ],
-        "phreatic": [
-          86
-        ],
-        "flow": [
-          87,
-          148,
-          229
-        ],
-        "pathways,": [
-          88
-        ],
-        "cementation": [
-          90
-        ],
-        "patterns.": [
-          91
-        ],
-        "Subsurface": [
-          92
-        ],
-        "data": [
-          93
-        ],
-        "confirm": [
-          94
-        ],
-        "dune": [
-          97,
-          197
-        ],
-        "facies": [
-          98,
-          125,
-          252,
-          275,
-          278
-        ],
-        "represent": [
-          99
-        ],
-        "highest": [
-          101
-        ],
-        "quality": [
-          102
-        ],
-        "intervals,": [
-          104
-        ],
-        "with": [
-          105,
-          222
-        ],
-        "excellent": [
-          106
-        ],
-        "porosity": [
-          107,
-          194
-        ],
-        "permeability": [
-          109
-        ],
-        "resulting": [
-          110,
-          263
-        ],
-        "their": [
-          112
-        ],
-        "well-sorted": [
-          113
-        ],
-        "textures,": [
-          114
-        ],
-        "low": [
-          115
-        ],
-        "clay": [
-          116,
-          131
-        ],
-        "content,": [
-          117,
-          132
-        ],
-        "limited": [
-          119
-        ],
-        "cementation.": [
-          121
-        ],
-        "In": [
-          122
-        ],
-        "contrast,": [
-          123
-        ],
-        "characterized": [
-          126
-        ],
-        "by": [
-          127
-        ],
-        "finer": [
-          128
-        ],
-        "grains,": [
-          129
-        ],
-        "higher": [
-          130
-        ],
-        "early-stage": [
-          134
-        ],
-        "stage": [
-          138
-        ],
-        "act": [
-          141
-        ],
-        "as": [
-          142
-        ],
-        "lateral": [
-          143
-        ],
-        "vertical": [
-          145
-        ],
-        "baffles,": [
-          146
-        ],
-        "restricting": [
-          147
-        ],
-        "continuity.": [
-          149
-        ],
-        "Fluvial-dominated": [
-          150
-        ],
-        "concentrated": [
-          152
-        ],
-        "central": [
-          155
-        ],
-        "southern": [
-          157
-        ],
-        "part": [
-          158
-        ],
-        "field,": [
-          161
-        ],
-        "introduce": [
-          162
-        ],
-        "localized": [
-          163
-        ],
-        "heterogeneity": [
-          164
-        ],
-        "contribute": [
-          166
-        ],
-        "stratigraphic": [
-          168
-        ],
-        "complexity": [
-          169
-        ],
-        "compartmentalization.": [
-          172
-        ],
-        "A": [
-          173
-        ],
-        "finding": [
-          175
-        ],
-        "this": [
-          177
-        ],
-        "is": [
-          179,
-          241
-        ],
-        "identification": [
-          181
-        ],
-        "illite": [
-          184
-        ],
-        "grain": [
-          185
-        ],
-        "coatings,": [
-          186
-        ],
-        "which": [
-          187
-        ],
-        "inhibit": [
-          188
-        ],
-        "quartz": [
-          189
-        ],
-        "overgrowths": [
-          190
-        ],
-        "preserve": [
-          192
-        ],
-        "intergranular": [
-          193
-        ],
-        "selected": [
-          196
-        ],
-        "intervals.": [
-          198
-        ],
-        "highlights": [
-          200
-        ],
-        "significant": [
-          202
-        ],
-        "role": [
-          203
-        ],
-        "processes": [
-          207
-        ],
-        "controlling": [
-          209
-        ],
-        "long-term": [
-          210
-        ],
-        "performance.": [
-          212
-        ],
-        "results": [
-          214
-        ],
-        "underscore": [
-          215
-        ],
-        "value": [
-          217
-        ],
-        "integrating": [
-          219
-        ],
-        "datasets": [
-          224
-        ],
-        "predict": [
-          226
-        ],
-        "heterogeneity,": [
-          227
-        ],
-        "constrain": [
-          228
-        ],
-        "barriers,": [
-          230
-        ],
-        "refine": [
-          232
-        ],
-        "static": [
-          233,
-          288
-        ],
-        "models": [
-          234,
-          268
-        ],
-        "data-limited": [
-          236
-        ],
-        "environments.": [
-          237
-        ],
-        "proposed": [
-          239
-        ],
-        "transferable": [
-          242
-        ],
-        "provides": [
-          244
-        ],
-        "a": [
-          245,
-          270
-        ],
-        "powerful": [
-          246
-        ],
-        "tool": [
-          247,
-          272
-        ],
-        "guiding": [
-          249
-        ],
-        "placement,": [
-          251
-        ],
-        "modeling,": [
-          253
-        ],
-        "development": [
-          255
-        ],
-        "strategies": [
-          256
-        ],
-        "similar": [
-          258
-        ],
-        "continental": [
-          259
-        ],
-        "settings.": [
-          261
-        ],
-        "conceptual": [
-          267
-        ],
-        "provide": [
-          269
-        ],
-        "predictive": [
-          271
-        ],
-        "transitions,": [
-          276
-        ],
-        "optimized": [
-          277
-        ],
-        "prediction": [
-          279
-        ],
-        "image-log": [
-          281
-        ],
-        "wells,": [
-          282
-        ],
-        "constrained": [
-          284
-        ],
-        "depositional": [
-          285
-        ],
-        "geometries": [
-          286
-        ],
-        "modeling.": [
-          290
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9762,7 +8512,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5042665751",
-            "display_name": "Mohammed Al‐Masrahy",
+            "display_name": "Mohammed A. Al-Masrahy",
             "orcid": "https://orcid.org/0000-0002-8396-3923"
           },
           "institutions": [
@@ -9823,11 +8573,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3369,
+      "fwci": 0.3373,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.51837787,
+        "value": 0.51895991,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10135,15 +8885,16 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 117,
@@ -11066,7 +9817,1274 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4414227515",
+      "doi": "https://doi.org/10.2118/227114-ms",
+      "title": "From Rock Record to Subsurface Reservoirs: A Novel Workflow Integrating Surface Analogs and Subsurface Data for Advanced Reservoir Characterization",
+      "display_name": "From Rock Record to Subsurface Reservoirs: A Novel Workflow Integrating Surface Analogs and Subsurface Data for Advanced Reservoir Characterization",
+      "publication_year": 2025,
+      "publication_date": "2025-09-16",
+      "ids": {
+        "openalex": "https://openalex.org/W4414227515",
+        "doi": "https://doi.org/10.2118/227114-ms"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2118/227114-ms",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2118/227114-ms",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
+        "raw_type": "proceedings-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5071025908",
+            "display_name": "Ahmed A. Kassem",
+            "orcid": "https://orcid.org/0000-0001-7829-1846"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "SA",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ahmed A. Kassem",
+          "raw_affiliation_strings": [
+            "GRCD, Saudi Aramco, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "GRCD, Saudi Aramco, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5042665751",
+            "display_name": "Mohammed A. Al-Masrahy",
+            "orcid": "https://orcid.org/0000-0002-8396-3923"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "SA",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed A. Al-Masrahy",
+          "raw_affiliation_strings": [
+            "GRCD, Saudi Aramco, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "GRCD, Saudi Aramco, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Anar Nabiyev",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "SA",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Anar Nabiyev",
+          "raw_affiliation_strings": [
+            "GRCD, Saudi Aramco, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "GRCD, Saudi Aramco, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5063457131",
+            "display_name": "Syed Bahauddin Alam",
+            "orcid": "https://orcid.org/0000-0001-5506-6953"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "SA",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Syed Alam",
+          "raw_affiliation_strings": [
+            "GRCD, Saudi Aramco, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "GRCD, Saudi Aramco, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 5.1831,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.94263764,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 91,
+        "max": 94
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.9994000196456909,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9994000196456909,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11801",
+          "display_name": "Reservoir Engineering and Simulation Methods",
+          "score": 0.9984999895095825,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10635",
+          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+          "score": 0.9980000257492065,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/facies",
+          "display_name": "Facies",
+          "score": 0.6643999814987183
+        },
+        {
+          "id": "https://openalex.org/keywords/phreatic",
+          "display_name": "Phreatic",
+          "score": 0.6065000295639038
+        },
+        {
+          "id": "https://openalex.org/keywords/diagenesis",
+          "display_name": "Diagenesis",
+          "score": 0.5659999847412109
+        },
+        {
+          "id": "https://openalex.org/keywords/aeolian-processes",
+          "display_name": "Aeolian processes",
+          "score": 0.503600001335144
+        },
+        {
+          "id": "https://openalex.org/keywords/calcite",
+          "display_name": "Calcite",
+          "score": 0.49959999322891235
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-modeling",
+          "display_name": "Reservoir modeling",
+          "score": 0.4528000056743622
+        },
+        {
+          "id": "https://openalex.org/keywords/cementation",
+          "display_name": "Cementation (geology)",
+          "score": 0.4203999936580658
+        },
+        {
+          "id": "https://openalex.org/keywords/permeability",
+          "display_name": "Permeability (electromagnetism)",
+          "score": 0.4138000011444092
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8420000076293945
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.6643999814987183
+        },
+        {
+          "id": "https://openalex.org/C180087314",
+          "wikidata": "https://www.wikidata.org/wiki/Q2089085",
+          "display_name": "Phreatic",
+          "level": 4,
+          "score": 0.6065000295639038
+        },
+        {
+          "id": "https://openalex.org/C130452526",
+          "wikidata": "https://www.wikidata.org/wiki/Q180621",
+          "display_name": "Diagenesis",
+          "level": 2,
+          "score": 0.5659999847412109
+        },
+        {
+          "id": "https://openalex.org/C180093795",
+          "wikidata": "https://www.wikidata.org/wiki/Q215839",
+          "display_name": "Aeolian processes",
+          "level": 2,
+          "score": 0.503600001335144
+        },
+        {
+          "id": "https://openalex.org/C2780191791",
+          "wikidata": "https://www.wikidata.org/wiki/Q171917",
+          "display_name": "Calcite",
+          "level": 2,
+          "score": 0.49959999322891235
+        },
+        {
+          "id": "https://openalex.org/C14641988",
+          "wikidata": "https://www.wikidata.org/wiki/Q7315329",
+          "display_name": "Reservoir modeling",
+          "level": 2,
+          "score": 0.4528000056743622
+        },
+        {
+          "id": "https://openalex.org/C5900021",
+          "wikidata": "https://www.wikidata.org/wiki/Q163082",
+          "display_name": "Petrology",
+          "level": 1,
+          "score": 0.4262000024318695
+        },
+        {
+          "id": "https://openalex.org/C94556721",
+          "wikidata": "https://www.wikidata.org/wiki/Q189315",
+          "display_name": "Cementation (geology)",
+          "level": 3,
+          "score": 0.4203999936580658
+        },
+        {
+          "id": "https://openalex.org/C120882062",
+          "wikidata": "https://www.wikidata.org/wiki/Q28352",
+          "display_name": "Permeability (electromagnetism)",
+          "level": 3,
+          "score": 0.4138000011444092
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.4113999903202057
+        },
+        {
+          "id": "https://openalex.org/C177212765",
+          "wikidata": "https://www.wikidata.org/wiki/Q627335",
+          "display_name": "Workflow",
+          "level": 2,
+          "score": 0.4090000092983246
+        },
+        {
+          "id": "https://openalex.org/C46293882",
+          "wikidata": "https://www.wikidata.org/wiki/Q2080707",
+          "display_name": "Petrophysics",
+          "level": 3,
+          "score": 0.38370001316070557
+        },
+        {
+          "id": "https://openalex.org/C6648577",
+          "wikidata": "https://www.wikidata.org/wiki/Q622669",
+          "display_name": "Porosity",
+          "level": 2,
+          "score": 0.36890000104904175
+        },
+        {
+          "id": "https://openalex.org/C182348080",
+          "wikidata": "https://www.wikidata.org/wiki/Q16817",
+          "display_name": "Karst",
+          "level": 2,
+          "score": 0.358599990606308
+        },
+        {
+          "id": "https://openalex.org/C100187453",
+          "wikidata": "https://www.wikidata.org/wiki/Q7632182",
+          "display_name": "Subsurface flow",
+          "level": 3,
+          "score": 0.3377000093460083
+        },
+        {
+          "id": "https://openalex.org/C64297162",
+          "wikidata": "https://www.wikidata.org/wiki/Q1987070",
+          "display_name": "Deposition (geology)",
+          "level": 3,
+          "score": 0.3321000039577484
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.3019999861717224
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.2705000042915344
+        },
+        {
+          "id": "https://openalex.org/C146357865",
+          "wikidata": "https://www.wikidata.org/wiki/Q1123245",
+          "display_name": "Stage (stratigraphy)",
+          "level": 2,
+          "score": 0.2590999901294708
+        },
+        {
+          "id": "https://openalex.org/C123677613",
+          "wikidata": "https://www.wikidata.org/wiki/Q542715",
+          "display_name": "Thin section",
+          "level": 2,
+          "score": 0.2556000053882599
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2118/227114-ms",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.2118/227114-ms",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "x_sdgs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 14,
+      "referenced_works": [
+        "https://openalex.org/W1592669541",
+        "https://openalex.org/W1999436875",
+        "https://openalex.org/W2004408791",
+        "https://openalex.org/W2047335882",
+        "https://openalex.org/W2152161497",
+        "https://openalex.org/W2154837711",
+        "https://openalex.org/W2163740354",
+        "https://openalex.org/W2549671587",
+        "https://openalex.org/W2620854490",
+        "https://openalex.org/W2979622934",
+        "https://openalex.org/W3170477656",
+        "https://openalex.org/W4307806851",
+        "https://openalex.org/W4321369000",
+        "https://openalex.org/W4392221632"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "This": [
+          1,
+          199
+        ],
+        "study": [
+          2,
+          178
+        ],
+        "presents": [
+          3
+        ],
+        "an": [
+          4
+        ],
+        "integrated": [
+          5
+        ],
+        "surface–subsurface": [
+          6
+        ],
+        "workflow": [
+          7,
+          240
+        ],
+        "to": [
+          8,
+          41,
+          156,
+          167,
+          225
+        ],
+        "enhance": [
+          9
+        ],
+        "reservoir": [
+          10,
+          78,
+          103,
+          171,
+          211,
+          260,
+          289
+        ],
+        "characterization": [
+          11
+        ],
+        "in": [
+          12,
+          153,
+          195,
+          208,
+          235,
+          257,
+          280,
+          287
+        ],
+        "heterogeneous": [
+          13
+        ],
+        "aeolian–fluvial": [
+          14
+        ],
+        "systems.": [
+          15
+        ],
+        "High-resolution": [
+          16
+        ],
+        "surface": [
+          17,
+          220,
+          264
+        ],
+        "analogs": [
+          18,
+          221
+        ],
+        "from": [
+          19,
+          111
+        ],
+        "the": [
+          20,
+          67,
+          81,
+          100,
+          154,
+          160,
+          180,
+          201,
+          216
+        ],
+        "Iberian": [
+          21
+        ],
+        "Desert": [
+          22
+        ],
+        "comprising": [
+          23
+        ],
+        "cross": [
+          24
+        ],
+        "bedded": [
+          25
+        ],
+        "aeolian": [
+          26,
+          96
+        ],
+        "dunes,": [
+          27
+        ],
+        "interdune": [
+          28,
+          124
+        ],
+        "elements,": [
+          29
+        ],
+        "bounding": [
+          30
+        ],
+        "surfaces,": [
+          31
+        ],
+        "and": [
+          32,
+          43,
+          57,
+          73,
+          89,
+          108,
+          118,
+          133,
+          136,
+          144,
+          165,
+          170,
+          191,
+          231,
+          243,
+          254,
+          265,
+          283
+        ],
+        "early": [
+          33,
+          120,
+          183,
+          205
+        ],
+        "calcite": [
+          34,
+          135
+        ],
+        "concretions,": [
+          35
+        ],
+        "late": [
+          36,
+          137
+        ],
+        "silica": [
+          37,
+          139
+        ],
+        "cementation,": [
+          38,
+          140
+        ],
+        "were": [
+          39
+        ],
+        "used": [
+          40
+        ],
+        "calibrate": [
+          42
+        ],
+        "validate": [
+          44
+        ],
+        "subsurface": [
+          45,
+          223,
+          266,
+          274
+        ],
+        "interpretations": [
+          46
+        ],
+        "based": [
+          47
+        ],
+        "on": [
+          48
+        ],
+        "core": [
+          49
+        ],
+        "description,": [
+          50
+        ],
+        "image": [
+          51
+        ],
+        "logs,": [
+          52,
+          54
+        ],
+        "well": [
+          53,
+          250
+        ],
+        "XRD,": [
+          55
+        ],
+        "SEM,": [
+          56
+        ],
+        "thin": [
+          58
+        ],
+        "section": [
+          59
+        ],
+        "petrography.": [
+          60
+        ],
+        "The": [
+          61,
+          213,
+          238,
+          262
+        ],
+        "analog": [
+          62
+        ],
+        "informed": [
+          63
+        ],
+        "framework": [
+          64
+        ],
+        "allowed": [
+          65
+        ],
+        "for": [
+          66,
+          248,
+          273
+        ],
+        "recognition": [
+          68
+        ],
+        "of": [
+          69,
+          84,
+          159,
+          176,
+          182,
+          204,
+          218
+        ],
+        "key": [
+          70,
+          174
+        ],
+        "architectural": [
+          71
+        ],
+        "elements": [
+          72
+        ],
+        "diagenetic": [
+          74,
+          206
+        ],
+        "features": [
+          75
+        ],
+        "that": [
+          76,
+          95
+        ],
+        "influence": [
+          77
+        ],
+        "quality,": [
+          79
+        ],
+        "including": [
+          80
+        ],
+        "spatial": [
+          82
+        ],
+        "arrangement": [
+          83
+        ],
+        "facies,": [
+          85,
+          151
+        ],
+        "phreatic": [
+          86
+        ],
+        "flow": [
+          87,
+          148,
+          229
+        ],
+        "pathways,": [
+          88
+        ],
+        "cementation": [
+          90
+        ],
+        "patterns.": [
+          91
+        ],
+        "Subsurface": [
+          92
+        ],
+        "data": [
+          93
+        ],
+        "confirm": [
+          94
+        ],
+        "dune": [
+          97,
+          197
+        ],
+        "facies": [
+          98,
+          125,
+          252,
+          275,
+          278
+        ],
+        "represent": [
+          99
+        ],
+        "highest": [
+          101
+        ],
+        "quality": [
+          102
+        ],
+        "intervals,": [
+          104
+        ],
+        "with": [
+          105,
+          222
+        ],
+        "excellent": [
+          106
+        ],
+        "porosity": [
+          107,
+          194
+        ],
+        "permeability": [
+          109
+        ],
+        "resulting": [
+          110,
+          263
+        ],
+        "their": [
+          112
+        ],
+        "well-sorted": [
+          113
+        ],
+        "textures,": [
+          114
+        ],
+        "low": [
+          115
+        ],
+        "clay": [
+          116,
+          131
+        ],
+        "content,": [
+          117,
+          132
+        ],
+        "limited": [
+          119
+        ],
+        "cementation.": [
+          121
+        ],
+        "In": [
+          122
+        ],
+        "contrast,": [
+          123
+        ],
+        "characterized": [
+          126
+        ],
+        "by": [
+          127
+        ],
+        "finer": [
+          128
+        ],
+        "grains,": [
+          129
+        ],
+        "higher": [
+          130
+        ],
+        "early-stage": [
+          134
+        ],
+        "stage": [
+          138
+        ],
+        "act": [
+          141
+        ],
+        "as": [
+          142
+        ],
+        "lateral": [
+          143
+        ],
+        "vertical": [
+          145
+        ],
+        "baffles,": [
+          146
+        ],
+        "restricting": [
+          147
+        ],
+        "continuity.": [
+          149
+        ],
+        "Fluvial-dominated": [
+          150
+        ],
+        "concentrated": [
+          152
+        ],
+        "central": [
+          155
+        ],
+        "southern": [
+          157
+        ],
+        "part": [
+          158
+        ],
+        "field,": [
+          161
+        ],
+        "introduce": [
+          162
+        ],
+        "localized": [
+          163
+        ],
+        "heterogeneity": [
+          164
+        ],
+        "contribute": [
+          166
+        ],
+        "stratigraphic": [
+          168
+        ],
+        "complexity": [
+          169
+        ],
+        "compartmentalization.": [
+          172
+        ],
+        "A": [
+          173
+        ],
+        "finding": [
+          175
+        ],
+        "this": [
+          177
+        ],
+        "is": [
+          179,
+          241
+        ],
+        "identification": [
+          181
+        ],
+        "illite": [
+          184
+        ],
+        "grain": [
+          185
+        ],
+        "coatings,": [
+          186
+        ],
+        "which": [
+          187
+        ],
+        "inhibit": [
+          188
+        ],
+        "quartz": [
+          189
+        ],
+        "overgrowths": [
+          190
+        ],
+        "preserve": [
+          192
+        ],
+        "intergranular": [
+          193
+        ],
+        "selected": [
+          196
+        ],
+        "intervals.": [
+          198
+        ],
+        "highlights": [
+          200
+        ],
+        "significant": [
+          202
+        ],
+        "role": [
+          203
+        ],
+        "processes": [
+          207
+        ],
+        "controlling": [
+          209
+        ],
+        "long-term": [
+          210
+        ],
+        "performance.": [
+          212
+        ],
+        "results": [
+          214
+        ],
+        "underscore": [
+          215
+        ],
+        "value": [
+          217
+        ],
+        "integrating": [
+          219
+        ],
+        "datasets": [
+          224
+        ],
+        "predict": [
+          226
+        ],
+        "heterogeneity,": [
+          227
+        ],
+        "constrain": [
+          228
+        ],
+        "barriers,": [
+          230
+        ],
+        "refine": [
+          232
+        ],
+        "static": [
+          233,
+          288
+        ],
+        "models": [
+          234,
+          268
+        ],
+        "data-limited": [
+          236
+        ],
+        "environments.": [
+          237
+        ],
+        "proposed": [
+          239
+        ],
+        "transferable": [
+          242
+        ],
+        "provides": [
+          244
+        ],
+        "a": [
+          245,
+          270
+        ],
+        "powerful": [
+          246
+        ],
+        "tool": [
+          247,
+          272
+        ],
+        "guiding": [
+          249
+        ],
+        "placement,": [
+          251
+        ],
+        "modeling,": [
+          253
+        ],
+        "development": [
+          255
+        ],
+        "strategies": [
+          256
+        ],
+        "similar": [
+          258
+        ],
+        "continental": [
+          259
+        ],
+        "settings.": [
+          261
+        ],
+        "conceptual": [
+          267
+        ],
+        "provide": [
+          269
+        ],
+        "predictive": [
+          271
+        ],
+        "transitions,": [
+          276
+        ],
+        "optimized": [
+          277
+        ],
+        "prediction": [
+          279
+        ],
+        "image-log": [
+          281
+        ],
+        "wells,": [
+          282
+        ],
+        "constrained": [
+          284
+        ],
+        "depositional": [
+          285
+        ],
+        "geometries": [
+          286
+        ],
+        "modeling.": [
+          290
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11095,6 +11113,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -11162,7 +11181,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5042665751",
-            "display_name": "Mohammed Al‐Masrahy",
+            "display_name": "Mohammed A. Al-Masrahy",
             "orcid": "https://orcid.org/0000-0002-8396-3923"
           },
           "institutions": [
@@ -11286,7 +11305,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.14469626,
+        "value": 0.1426844,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11596,6 +11615,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -11613,11 +11633,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -12119,7 +12140,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12147,6 +12168,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I2800616092",
           "host_organization_name": "White Rose University Consortium",
           "host_organization_lineage": [
@@ -12176,7 +12198,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5042665751",
-            "display_name": "Mohammed Al‐Masrahy",
+            "display_name": "Mohammed A. Al-Masrahy",
             "orcid": "https://orcid.org/0000-0002-8396-3923"
           },
           "institutions": [],
@@ -12428,6 +12450,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I2800616092",
             "host_organization_name": "White Rose University Consortium",
             "host_organization_lineage": [
@@ -12461,11 +12484,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13131,7 +13155,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13272,7 +13296,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5042665751",
-            "display_name": "Mohammed Al‐Masrahy",
+            "display_name": "Mohammed A. Al-Masrahy",
             "orcid": "https://orcid.org/0000-0002-8396-3923"
           },
           "institutions": [
@@ -13317,7 +13341,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38770282,
+        "value": 0.38340144,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13535,15 +13559,16 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14109,7 +14134,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14191,7 +14216,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5042665751",
-            "display_name": "Mohammed Al‐Masrahy",
+            "display_name": "Mohammed A. Al-Masrahy",
             "orcid": "https://orcid.org/0000-0002-8396-3923"
           },
           "institutions": [
@@ -14239,7 +14264,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3769271,
+        "value": 0.35723431,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14527,11 +14552,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -15535,7 +15561,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15655,7 +15681,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5042665751",
-            "display_name": "Mohammed Al‐Masrahy",
+            "display_name": "Mohammed A. Al-Masrahy",
             "orcid": "https://orcid.org/0000-0002-8396-3923"
           },
           "institutions": [
@@ -15703,7 +15729,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.30167598,
+        "value": 0.29468599,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15998,11 +16024,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -17028,7 +17055,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17058,6 +17085,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
@@ -17241,7 +17269,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5042665751",
-            "display_name": "Mohammed Al‐Masrahy",
+            "display_name": "Mohammed A. Al-Masrahy",
             "orcid": "https://orcid.org/0000-0002-8396-3923"
           },
           "institutions": [
@@ -17304,7 +17332,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.72735006,
+        "value": 0.60763192,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17524,6 +17552,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
             "host_organization_lineage": [
@@ -17547,15 +17576,16 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8767217397689819,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8767217397689819
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -17600,7 +17630,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-08-19T15:00:24.278416",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2026-07-14T00:00:00"
     }
   ]

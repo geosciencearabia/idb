@@ -13,7 +13,7 @@
     ],
     "full_name": "Vaslet, Denis",
     "works_count": 44,
-    "cited_by_count": 1532,
+    "cited_by_count": 1534,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 21,
@@ -245,7 +245,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0000538,
+        "value": 0.0000537,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -262,7 +262,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000436,
+        "value": 0.0000435,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -343,7 +343,7 @@
         "year": 1990,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 275
+        "cited_by_count": 276
       },
       {
         "year": 1992,
@@ -421,7 +421,7 @@
         "year": 2008,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 81
+        "cited_by_count": 82
       },
       {
         "year": 2010,
@@ -451,7 +451,7 @@
     ],
     "block_key": "d vaslet",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5038965329",
-    "updated_date": "2026-09-20T14:48:07",
+    "updated_date": "2026-09-21T12:20:07",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -812,11 +812,12 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5099999904632568,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -1284,11 +1285,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -2307,11 +2309,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -2721,7 +2724,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5055304725",
-            "display_name": "Mohammed Halawani",
+            "display_name": "Mohammed Aiman Halawani",
             "orcid": null
           },
           "institutions": [],
@@ -2743,7 +2746,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -2762,11 +2765,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 14.304,
+      "fwci": 14.3625,
       "has_fulltext": false,
       "cited_by_count": 93,
       "citation_normalized_percentile": {
-        "value": 0.98770492,
+        "value": 0.98795798,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3057,11 +3060,12 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.47999998927116394,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -4292,7 +4296,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4691,11 +4695,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6499999761581421,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -5936,11 +5941,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -6906,11 +6912,12 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7300000190734863,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -7674,7 +7681,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5066761626",
-            "display_name": "Randell Stephenson",
+            "display_name": "Randell Alexander Stephenson",
             "orcid": "https://orcid.org/0000-0003-4868-8601"
           },
           "institutions": [
@@ -7959,7 +7966,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5000986346",
-            "display_name": "Olga L. Kossovaya",
+            "display_name": "Olga Leonidovna Kossovaya",
             "orcid": "https://orcid.org/0000-0002-3893-9940"
           },
           "institutions": [
@@ -8513,11 +8520,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -8667,7 +8675,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8885,7 +8893,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5055304725",
-            "display_name": "Mohammed Halawani",
+            "display_name": "Mohammed Aiman Halawani",
             "orcid": null
           },
           "institutions": [
@@ -9237,11 +9245,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8199999928474426,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -9361,7 +9370,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-20T07:33:13.661266",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9426,7 +9435,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5065917909",
-            "display_name": "Herbert Thomas",
+            "display_name": "Herbert H. Thomas",
             "orcid": null
           },
           "institutions": [
@@ -9918,7 +9927,7 @@
       "has_fulltext": false,
       "cited_by_count": 50,
       "citation_normalized_percentile": {
-        "value": 0.07483117,
+        "value": 0.07487217,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10266,11 +10275,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -10356,7 +10366,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-18T07:38:42.748307",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10533,7 +10543,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [
@@ -10575,11 +10585,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.6046,
+      "fwci": 2.6072,
       "has_fulltext": false,
       "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.87938074,
+        "value": 0.87928693,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10975,11 +10985,12 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.41999998688697815,
-          "display_name": "Life in Land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -12146,7 +12157,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-26T07:47:46.906454",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12292,7 +12303,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [],
@@ -12307,7 +12318,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5042844492",
-            "display_name": "Roger B. Davies",
+            "display_name": "Roger Brett Davies",
             "orcid": null
           },
           "institutions": [],
@@ -12326,11 +12337,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.9356,
+      "fwci": 3.9323,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.92114849,
+        "value": 0.92110337,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12782,6 +12793,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -13688,7 +13700,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-02T18:50:13.731487",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14418,11 +14430,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -14961,11 +14974,12 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7699999809265137,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -16222,11 +16236,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -16473,7 +16488,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5111895639",
-            "display_name": "Jean Philip",
+            "display_name": "Jean M. Philip",
             "orcid": null
           },
           "institutions": [],
@@ -16650,7 +16665,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [
@@ -16698,11 +16713,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4389,
+      "fwci": 1.4397,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.85348447,
+        "value": 0.85356643,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17092,11 +17107,12 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5199999809265137,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -17620,7 +17636,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-18T07:49:30.821534",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17755,7 +17771,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -17774,11 +17790,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 12.4338,
+      "fwci": 11.7172,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.99341238,
+        "value": 0.99151436,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -17916,11 +17932,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.7200000286102295,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -18896,7 +18913,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-07-15T18:14:33.161393",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2021-05-10T00:00:00"
     },
     {
@@ -19163,7 +19180,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5055304725",
-            "display_name": "Mohammed Halawani",
+            "display_name": "Mohammed Aiman Halawani",
             "orcid": null
           },
           "institutions": [],
@@ -19622,11 +19639,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -19754,7 +19772,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20228,11 +20246,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -20394,7 +20413,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5040047585",
-            "display_name": "Mahmoud Kora",
+            "display_name": "Mahmoud Ahmed Kora",
             "orcid": "https://orcid.org/0000-0001-6949-8060"
           },
           "institutions": [],
@@ -20484,7 +20503,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5000986346",
-            "display_name": "Olga L. Kossovaya",
+            "display_name": "Olga Leonidovna Kossovaya",
             "orcid": "https://orcid.org/0000-0002-3893-9940"
           },
           "institutions": [],
@@ -20912,7 +20931,7 @@
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.61257143,
+        "value": 0.61251758,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21157,11 +21176,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -21530,7 +21550,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21952,11 +21972,12 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -22558,7 +22579,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5055304725",
-            "display_name": "Mohammed Halawani",
+            "display_name": "Mohammed Aiman Halawani",
             "orcid": null
           },
           "institutions": [],
@@ -22577,11 +22598,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6869,
+      "fwci": 1.687,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.86132542,
+        "value": 0.86133914,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22890,6 +22911,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -23434,7 +23456,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-26T07:47:46.906454",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23917,11 +23939,12 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -24710,11 +24733,12 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -25418,7 +25442,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5066761626",
-            "display_name": "Randell Stephenson",
+            "display_name": "Randell Alexander Stephenson",
             "orcid": "https://orcid.org/0000-0003-4868-8601"
           },
           "institutions": [
@@ -25526,7 +25550,7 @@
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.56800151,
+        "value": 0.56810025,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25924,11 +25948,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7300000190734863,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -26489,7 +26514,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -26554,7 +26579,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5065917909",
-            "display_name": "Herbert Thomas",
+            "display_name": "Herbert H. Thomas",
             "orcid": null
           },
           "institutions": [
@@ -26628,7 +26653,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5055304725",
-            "display_name": "Mohammed Halawani",
+            "display_name": "Mohammed Aiman Halawani",
             "orcid": null
           },
           "institutions": [
@@ -26874,7 +26899,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5035828063",
-            "display_name": "C. Cavelier",
+            "display_name": "Claude Cavelier",
             "orcid": null
           },
           "institutions": [
@@ -27029,11 +27054,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6096,
+      "fwci": 1.6098,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.84109492,
+        "value": 0.84115139,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27244,11 +27269,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -27314,7 +27340,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27466,7 +27492,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5012409426",
-            "display_name": "N. V. Goreva",
+            "display_name": "Natalia V. Goreva",
             "orcid": "https://orcid.org/0000-0002-1739-0469"
           },
           "institutions": [],
@@ -27510,7 +27536,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5000986346",
-            "display_name": "Olga L. Kossovaya",
+            "display_name": "Olga Leonidovna Kossovaya",
             "orcid": "https://orcid.org/0000-0002-3893-9940"
           },
           "institutions": [],
@@ -27558,11 +27584,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2222,
+      "fwci": 1.2228,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.81715893,
+        "value": 0.81724461,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27822,11 +27848,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7799999713897705,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -28701,7 +28728,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29092,11 +29119,12 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -30008,11 +30036,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -30500,7 +30529,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [],
@@ -30757,6 +30786,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -31083,7 +31113,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -31209,7 +31239,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5042844492",
-            "display_name": "Roger B. Davies",
+            "display_name": "Roger Brett Davies",
             "orcid": null
           },
           "institutions": [
@@ -31511,7 +31541,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [
@@ -31589,11 +31619,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4762,
+      "fwci": 1.4746,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.82596818,
+        "value": 0.82587038,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32101,6 +32131,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -32783,7 +32814,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -32847,7 +32878,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5000986346",
-            "display_name": "Olga L. Kossovaya",
+            "display_name": "Olga Leonidovna Kossovaya",
             "orcid": "https://orcid.org/0000-0002-3893-9940"
           },
           "institutions": [
@@ -32951,7 +32982,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.14680961,
+        "value": 0.14683501,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33233,11 +33264,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6800000071525574,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -34235,7 +34267,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34651,11 +34683,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -35086,6 +35119,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -35860,6 +35894,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -36144,7 +36179,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5066761626",
-            "display_name": "Randell Stephenson",
+            "display_name": "Randell Alexander Stephenson",
             "orcid": "https://orcid.org/0000-0003-4868-8601"
           },
           "institutions": [],
@@ -36174,7 +36209,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5062723574",
-            "display_name": "S. Stovba",
+            "display_name": "Sergiy Mykolayovych Stovba",
             "orcid": "https://orcid.org/0000-0002-1708-5122"
           },
           "institutions": [],
@@ -36408,11 +36443,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.699999988079071,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -38062,7 +38098,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -38393,6 +38429,7 @@
         "raw_type": null
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -38727,7 +38764,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5040147688",
-            "display_name": "Michael H. Stephenson",
+            "display_name": "Michael  Henry Stephenson",
             "orcid": "https://orcid.org/0000-0002-9881-1578"
           },
           "institutions": [],
@@ -38876,7 +38913,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 10,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -38885,7 +38922,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13548819,
+        "value": 0.13648502,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39141,6 +39178,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -39169,7 +39207,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -39449,6 +39487,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -40047,6 +40086,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -40119,7 +40159,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5058526940",
-            "display_name": "Mike Stephenson",
+            "display_name": "Mike H. Stephenson",
             "orcid": null
           },
           "institutions": [],
@@ -40149,7 +40189,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5080796115",
-            "display_name": "F. A. Darbyshire",
+            "display_name": "Fiona Ann Darbyshire",
             "orcid": "https://orcid.org/0000-0003-0967-7248"
           },
           "institutions": [],
@@ -40268,7 +40308,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 10,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -40277,7 +40317,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.15294295,
+        "value": 0.15370053,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40495,6 +40535,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -40528,7 +40569,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40887,11 +40928,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.4300000071525574,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -41464,6 +41506,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -41927,11 +41970,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7599999904632568,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {

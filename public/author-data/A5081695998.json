@@ -515,7 +515,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5062108247",
-            "display_name": "Sobhi Nasir",
+            "display_name": "Sobhi Jaber Nasir",
             "orcid": "https://orcid.org/0000-0002-4906-510X"
           },
           "institutions": [
@@ -819,7 +819,7 @@
       "has_fulltext": false,
       "cited_by_count": 100,
       "citation_normalized_percentile": {
-        "value": 0.58951142,
+        "value": 0.58937903,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1181,11 +1181,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6899999976158142
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -1200,8 +1201,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -1343,7 +1344,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1544,7 +1545,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5035645663",
-            "display_name": "Abdulkarim Al-Subbary",
+            "display_name": "Abdulkarim A. Al-Subbary",
             "orcid": "https://orcid.org/0000-0001-5031-7880"
           },
           "institutions": [
@@ -1676,7 +1677,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5012773261",
-            "display_name": "Dan Bosence",
+            "display_name": "Dan W. J. Bosence",
             "orcid": "https://orcid.org/0000-0001-8541-4138"
           },
           "institutions": [
@@ -1714,7 +1715,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5066166598",
-            "display_name": "Chris Dart",
+            "display_name": "Chris J. Dart",
             "orcid": null
           },
           "institutions": [
@@ -1765,6 +1766,16 @@
               "lineage": [
                 "https://openalex.org/I4210110995"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4405272269",
+              "display_name": "Capricorn Energy PLC (United Kingdom)",
+              "ror": "https://ror.org/03wbadt73",
+              "country_code": "GB",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4405272269"
+              ]
             }
           ],
           "countries": [
@@ -1780,7 +1791,8 @@
             {
               "raw_affiliation_string": "Cairn Energy, Cairn House, 61 Dublin Street, Edinburgh, United Kingdom EH3 6NL",
               "institution_ids": [
-                "https://openalex.org/I4210110995"
+                "https://openalex.org/I4210110995",
+                "https://openalex.org/I4405272269"
               ]
             }
           ]
@@ -1865,7 +1877,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5007408781",
-            "display_name": "Gary Nichols",
+            "display_name": "GARY J. NICHOLS",
             "orcid": "https://orcid.org/0009-0000-2458-2875"
           },
           "institutions": [
@@ -1978,16 +1990,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1394,
+      "fwci": 3.1384,
       "has_fulltext": false,
       "cited_by_count": 155,
       "citation_normalized_percentile": {
-        "value": 0.91541074,
+        "value": 0.9153838,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2203,11 +2215,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.75
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -2222,8 +2235,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -3936,7 +3949,7 @@
           "cited_by_count": 13
         }
       ],
-      "updated_date": "2026-08-22T07:34:49.880490",
+      "updated_date": "2026-09-22T17:25:34.749102",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4140,7 +4153,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5062108247",
-            "display_name": "Sobhi Nasir",
+            "display_name": "Sobhi Jaber Nasir",
             "orcid": "https://orcid.org/0000-0002-4906-510X"
           },
           "institutions": [
@@ -4321,11 +4334,11 @@
         "value_usd": 3310
       },
       "apc_paid": null,
-      "fwci": 9.1437,
+      "fwci": 9.1477,
       "has_fulltext": false,
       "cited_by_count": 122,
       "citation_normalized_percentile": {
-        "value": 0.97616113,
+        "value": 0.97617331,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4619,11 +4632,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Peace, Justice and strong institutions",
           "id": "https://metadata.un.org/sdg/16",
+          "display_name": "Peace, Justice and strong institutions",
           "score": 0.6600000262260437
         }
       ],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G3699834052",
@@ -4670,8 +4684,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -4840,7 +4854,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-23T07:36:19.812096",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4910,7 +4924,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5068579961",
-            "display_name": "Martin J. Whitehouse",
+            "display_name": "Martin John Whitehouse",
             "orcid": "https://orcid.org/0000-0003-2227-577X"
           },
           "institutions": [
@@ -4954,7 +4968,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5111850139",
-            "display_name": "Brian F. Windley",
+            "display_name": "Brian Frederick Windley",
             "orcid": null
           },
           "institutions": [
@@ -5172,7 +5186,7 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 2.4799,
+      "fwci": 2.4801,
       "has_fulltext": false,
       "cited_by_count": 116,
       "citation_normalized_percentile": {
@@ -5493,16 +5507,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -5609,7 +5624,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5719,7 +5734,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5024022389",
-            "display_name": "Morgan Blades",
+            "display_name": "Morgan Lee Blades",
             "orcid": "https://orcid.org/0000-0002-4653-4476"
           },
           "institutions": [
@@ -5833,7 +5848,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5046466285",
-            "display_name": "Alan S. Collins",
+            "display_name": "Alan Stephen Collins",
             "orcid": "https://orcid.org/0000-0002-3408-5474"
           },
           "institutions": [
@@ -6071,11 +6086,11 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 4.8262,
+      "fwci": 4.8267,
       "has_fulltext": false,
       "cited_by_count": 64,
       "citation_normalized_percentile": {
-        "value": 0.95712919,
+        "value": 0.95713247,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6492,16 +6507,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8100000023841858
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 107,
@@ -7225,7 +7241,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7672,11 +7688,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -7686,8 +7703,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -7917,7 +7934,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5068579961",
-            "display_name": "Martin J. Whitehouse",
+            "display_name": "Martin John Whitehouse",
             "orcid": "https://orcid.org/0000-0003-2227-577X"
           },
           "institutions": [
@@ -8036,11 +8053,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.0307,
+      "fwci": 3.031,
       "has_fulltext": false,
       "cited_by_count": 41,
       "citation_normalized_percentile": {
-        "value": 0.89314235,
+        "value": 0.89313219,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8509,16 +8526,17 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7699999809265137
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -9098,7 +9116,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9168,7 +9186,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5024022389",
-            "display_name": "Morgan Blades",
+            "display_name": "Morgan Lee Blades",
             "orcid": "https://orcid.org/0000-0002-4653-4476"
           },
           "institutions": [
@@ -9244,7 +9262,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5046466285",
-            "display_name": "Alan S. Collins",
+            "display_name": "Alan Stephen Collins",
             "orcid": "https://orcid.org/0000-0002-3408-5474"
           },
           "institutions": [
@@ -9396,7 +9414,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5030177136",
-            "display_name": "Peter Holden",
+            "display_name": "Peter N. Holden",
             "orcid": null
           },
           "institutions": [
@@ -9512,11 +9530,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2893,
+      "fwci": 2.289,
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.87271159,
+        "value": 0.87272656,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9779,11 +9797,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421
         }
       ],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G4487609174",
@@ -9801,8 +9820,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 100,
@@ -10513,7 +10532,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11000,6 +11019,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G595827026",
@@ -11017,8 +11037,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -11329,7 +11349,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5068579961",
-            "display_name": "Martin J. Whitehouse",
+            "display_name": "Martin John Whitehouse",
             "orcid": "https://orcid.org/0000-0003-2227-577X"
           },
           "institutions": [
@@ -11444,7 +11464,7 @@
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.73080391,
+        "value": 0.73081992,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11749,11 +11769,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8399999737739563
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -11763,8 +11784,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 83,
@@ -11908,7 +11929,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11980,7 +12001,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5062108247",
-            "display_name": "Sobhi Nasir",
+            "display_name": "Sobhi Jaber Nasir",
             "orcid": "https://orcid.org/0000-0002-4906-510X"
           },
           "institutions": [
@@ -12068,7 +12089,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5083269164",
-            "display_name": "Hugh Rollinson",
+            "display_name": "Hugh R. Rollinson",
             "orcid": "https://orcid.org/0000-0002-6553-8472"
           },
           "institutions": [
@@ -12200,7 +12221,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5040070578",
-            "display_name": "A. Al-Lazki",
+            "display_name": "Ali I. Al-Lazki",
             "orcid": null
           },
           "institutions": [
@@ -12332,7 +12353,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5056695911",
-            "display_name": "Елена Белоусова",
+            "display_name": "Elena A. Belousova",
             "orcid": "https://orcid.org/0000-0003-2315-3520"
           },
           "institutions": [
@@ -12388,11 +12409,11 @@
         "value_usd": 3990
       },
       "apc_paid": null,
-      "fwci": 1.7567,
+      "fwci": 1.7559,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.8259089,
+        "value": 0.82587721,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12821,16 +12842,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8600000143051147
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -12987,7 +13009,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-15T07:32:03.291174",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13172,7 +13194,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5008334284",
-            "display_name": "Osman Abdalla",
+            "display_name": "Osman A. E. Abdalla",
             "orcid": "https://orcid.org/0000-0001-5150-416X"
           },
           "institutions": [
@@ -13430,11 +13452,11 @@
         "value_usd": 3890
       },
       "apc_paid": null,
-      "fwci": 1.7119,
+      "fwci": 1.7127,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.8572833,
+        "value": 0.85737678,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13760,11 +13782,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -13892,7 +13915,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-19T00:03:45.406941",
+      "updated_date": "2026-09-22T17:25:34.749102",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13999,7 +14022,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5062108247",
-            "display_name": "Sobhi Nasir",
+            "display_name": "Sobhi Jaber Nasir",
             "orcid": "https://orcid.org/0000-0002-4906-510X"
           },
           "institutions": [
@@ -14118,11 +14141,11 @@
         "value_usd": 5120
       },
       "apc_paid": null,
-      "fwci": 3.6054,
+      "fwci": 3.6049,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.93497983,
+        "value": 0.93494899,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14393,11 +14416,12 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Peace, Justice and strong institutions",
           "id": "https://metadata.un.org/sdg/16",
+          "display_name": "Peace, Justice and strong institutions",
           "score": 0.5
         }
       ],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G3699834052",
@@ -14444,8 +14468,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -14598,7 +14622,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-16T18:09:00.828671",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15035,11 +15059,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G5850645428",
@@ -15057,8 +15082,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 100,
@@ -15419,7 +15444,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5062108247",
-            "display_name": "Sobhi Nasir",
+            "display_name": "Sobhi Jaber Nasir",
             "orcid": "https://orcid.org/0000-0002-4906-510X"
           },
           "institutions": [
@@ -15463,7 +15488,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5113056356",
-            "display_name": "Abdulrahman Alharthy",
+            "display_name": "Abdulrahman Mishaal Alharthy",
             "orcid": null
           },
           "institutions": [
@@ -15517,11 +15542,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 2.7375,
+      "fwci": 2.7293,
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.89102902,
+        "value": 0.89079399,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15833,11 +15858,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.44999998807907104
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -15847,8 +15873,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -15963,7 +15989,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16108,7 +16134,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5068579961",
-            "display_name": "Martin J. Whitehouse",
+            "display_name": "Martin John Whitehouse",
             "orcid": "https://orcid.org/0000-0003-2227-577X"
           },
           "institutions": [
@@ -16145,7 +16171,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5111850139",
-            "display_name": "Brian F. Windley",
+            "display_name": "Brian Frederick Windley",
             "orcid": null
           },
           "institutions": [
@@ -16234,11 +16260,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.2309,
+      "fwci": 6.2709,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.95918367,
+        "value": 0.95833333,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16526,11 +16552,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -16634,7 +16661,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17134,11 +17161,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -18310,16 +18338,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8500000238418579
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -19082,7 +19111,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5068579961",
-            "display_name": "Martin J. Whitehouse",
+            "display_name": "Martin John Whitehouse",
             "orcid": "https://orcid.org/0000-0003-2227-577X"
           },
           "institutions": [
@@ -19285,11 +19314,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.6217,
+      "fwci": 3.6122,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.92165434,
+        "value": 0.92149941,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19547,6 +19576,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G5073394978",
@@ -19564,8 +19594,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -20074,7 +20104,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20659,11 +20689,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -20739,1048 +20770,6 @@
         },
         {
           "year": 2015,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-08-21T09:56:20.448147",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4392685312",
-      "doi": "https://doi.org/10.1190/iceg2023-077.1",
-      "title": "Geophysical modeling helps interpret subsurface data: Example from North Oman",
-      "display_name": "Geophysical modeling helps interpret subsurface data: Example from North Oman",
-      "publication_year": 2024,
-      "publication_date": "2024-03-12",
-      "ids": {
-        "openalex": "https://openalex.org/W4392685312",
-        "doi": "https://doi.org/10.1190/iceg2023-077.1"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1190/iceg2023-077.1",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1190/iceg2023-077.1",
-        "pdf_url": null,
-        "source": null,
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Seventh International Conference on Engineering Geophysics, Al Ain, UAE, 16–19 October 2023",
-        "raw_type": "proceedings-article"
-      },
-      "type": "conference-paper",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5078036264",
-            "display_name": "Mohammed Farfour",
-            "orcid": "https://orcid.org/0000-0001-9023-1782"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I47818738",
-              "display_name": "Sultan Qaboos University",
-              "ror": "https://ror.org/04wq8zb47",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed Farfour",
-          "raw_affiliation_strings": [
-            "Sultan Qaboos University"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Sultan Qaboos University",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5050277999",
-            "display_name": "Talal Al-Hosni",
-            "orcid": "https://orcid.org/0000-0003-1272-5204"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I47818738",
-              "display_name": "Sultan Qaboos University",
-              "ror": "https://ror.org/04wq8zb47",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Talal Al-Hosni",
-          "raw_affiliation_strings": [
-            "Sultan Qaboos University"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Sultan Qaboos University",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5081695998",
-            "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I47818738",
-              "display_name": "Sultan Qaboos University",
-              "ror": "https://ror.org/04wq8zb47",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Salah Al-Khirbash",
-          "raw_affiliation_strings": [
-            "Sultan Qaboos University"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Sultan Qaboos University",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5044806143",
-            "display_name": "Mohamed A. K. El‐Ghali",
-            "orcid": "https://orcid.org/0000-0002-7850-3471"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I47818738",
-              "display_name": "Sultan Qaboos University",
-              "ror": "https://ror.org/04wq8zb47",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohamed A.K. El-Ghali",
-          "raw_affiliation_strings": [
-            "Sultan Qaboos University"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Sultan Qaboos University",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I47818738"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 2.796,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.81878698,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 94,
-        "max": 97
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "340",
-        "last_page": "342"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10572",
-        "display_name": "Geophysical and Geoelectrical Methods",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10572",
-          "display_name": "Geophysical and Geoelectrical Methods",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11609",
-          "display_name": "Geophysical Methods and Applications",
-          "score": 0.9975000023841858,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10271",
-          "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9944999814033508,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8389215469360352
-        },
-        {
-          "id": "https://openalex.org/keywords/petrophysics",
-          "display_name": "Petrophysics",
-          "score": 0.8212865591049194
-        },
-        {
-          "id": "https://openalex.org/keywords/lithology",
-          "display_name": "Lithology",
-          "score": 0.7678767442703247
-        },
-        {
-          "id": "https://openalex.org/keywords/geophysics",
-          "display_name": "Geophysics",
-          "score": 0.7097793817520142
-        },
-        {
-          "id": "https://openalex.org/keywords/electrical-resistivity-tomography",
-          "display_name": "Electrical resistivity tomography",
-          "score": 0.5741366744041443
-        },
-        {
-          "id": "https://openalex.org/keywords/marl",
-          "display_name": "Marl",
-          "score": 0.5577993988990784
-        },
-        {
-          "id": "https://openalex.org/keywords/electrical-resistivity-and-conductivity",
-          "display_name": "Electrical resistivity and conductivity",
-          "score": 0.5231591463088989
-        },
-        {
-          "id": "https://openalex.org/keywords/conglomerate",
-          "display_name": "Conglomerate",
-          "score": 0.5106101632118225
-        },
-        {
-          "id": "https://openalex.org/keywords/permeability",
-          "display_name": "Permeability (electromagnetism)",
-          "score": 0.47521430253982544
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-geology",
-          "display_name": "Environmental geology",
-          "score": 0.4589470624923706
-        },
-        {
-          "id": "https://openalex.org/keywords/mineralogy",
-          "display_name": "Mineralogy",
-          "score": 0.32431209087371826
-        },
-        {
-          "id": "https://openalex.org/keywords/petrology",
-          "display_name": "Petrology",
-          "score": 0.32394546270370483
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.3003997504711151
-        },
-        {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.2638510465621948
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrogeology",
-          "display_name": "Hydrogeology",
-          "score": 0.26034629344940186
-        },
-        {
-          "id": "https://openalex.org/keywords/porosity",
-          "display_name": "Porosity",
-          "score": 0.2181544303894043
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.210414320230484
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8389215469360352
-        },
-        {
-          "id": "https://openalex.org/C46293882",
-          "wikidata": "https://www.wikidata.org/wiki/Q2080707",
-          "display_name": "Petrophysics",
-          "level": 3,
-          "score": 0.8212865591049194
-        },
-        {
-          "id": "https://openalex.org/C122792734",
-          "wikidata": "https://www.wikidata.org/wiki/Q6538759",
-          "display_name": "Lithology",
-          "level": 2,
-          "score": 0.7678767442703247
-        },
-        {
-          "id": "https://openalex.org/C8058405",
-          "wikidata": "https://www.wikidata.org/wiki/Q46255",
-          "display_name": "Geophysics",
-          "level": 1,
-          "score": 0.7097793817520142
-        },
-        {
-          "id": "https://openalex.org/C60591178",
-          "wikidata": "https://www.wikidata.org/wiki/Q488986",
-          "display_name": "Electrical resistivity tomography",
-          "level": 3,
-          "score": 0.5741366744041443
-        },
-        {
-          "id": "https://openalex.org/C92927620",
-          "wikidata": "https://www.wikidata.org/wiki/Q184053",
-          "display_name": "Marl",
-          "level": 3,
-          "score": 0.5577993988990784
-        },
-        {
-          "id": "https://openalex.org/C69990965",
-          "wikidata": "https://www.wikidata.org/wiki/Q65402698",
-          "display_name": "Electrical resistivity and conductivity",
-          "level": 2,
-          "score": 0.5231591463088989
-        },
-        {
-          "id": "https://openalex.org/C106804226",
-          "wikidata": "https://www.wikidata.org/wiki/Q191704",
-          "display_name": "Conglomerate",
-          "level": 3,
-          "score": 0.5106101632118225
-        },
-        {
-          "id": "https://openalex.org/C120882062",
-          "wikidata": "https://www.wikidata.org/wiki/Q28352",
-          "display_name": "Permeability (electromagnetism)",
-          "level": 3,
-          "score": 0.47521430253982544
-        },
-        {
-          "id": "https://openalex.org/C170152797",
-          "wikidata": "https://www.wikidata.org/wiki/Q2348608",
-          "display_name": "Environmental geology",
-          "level": 4,
-          "score": 0.4589470624923706
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.32431209087371826
-        },
-        {
-          "id": "https://openalex.org/C5900021",
-          "wikidata": "https://www.wikidata.org/wiki/Q163082",
-          "display_name": "Petrology",
-          "level": 1,
-          "score": 0.32394546270370483
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.3003997504711151
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.2638510465621948
-        },
-        {
-          "id": "https://openalex.org/C33556824",
-          "wikidata": "https://www.wikidata.org/wiki/Q179509",
-          "display_name": "Hydrogeology",
-          "level": 2,
-          "score": 0.26034629344940186
-        },
-        {
-          "id": "https://openalex.org/C6648577",
-          "wikidata": "https://www.wikidata.org/wiki/Q622669",
-          "display_name": "Porosity",
-          "level": 2,
-          "score": 0.2181544303894043
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.210414320230484
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C54355233",
-          "wikidata": "https://www.wikidata.org/wiki/Q7162",
-          "display_name": "Genetics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C2776867696",
-          "wikidata": "https://www.wikidata.org/wiki/Q3743777",
-          "display_name": "Telmatology",
-          "level": 3,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C119599485",
-          "wikidata": "https://www.wikidata.org/wiki/Q43035",
-          "display_name": "Electrical engineering",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C41625074",
-          "wikidata": "https://www.wikidata.org/wiki/Q176088",
-          "display_name": "Membrane",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1190/iceg2023-077.1",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1190/iceg2023-077.1",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Seventh International Conference on Engineering Geophysics, Al Ain, UAE, 16–19 October 2023",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8100000023841858
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 2,
-      "referenced_works": [
-        "https://openalex.org/W2129108890",
-        "https://openalex.org/W4206513680"
-      ],
-      "related_works": [
-        "https://openalex.org/W4253075434",
-        "https://openalex.org/W2613872155",
-        "https://openalex.org/W4242904446",
-        "https://openalex.org/W2314623142",
-        "https://openalex.org/W4239872952",
-        "https://openalex.org/W4402159251",
-        "https://openalex.org/W1988558377",
-        "https://openalex.org/W2896408520",
-        "https://openalex.org/W2068450203",
-        "https://openalex.org/W4388865719"
-      ],
-      "abstract_inverted_index": {
-        "Geophysicists": [
-          0
-        ],
-        "use": [
-          1
-        ],
-        "numerous": [
-          2
-        ],
-        "assumptions": [
-          3
-        ],
-        "and": [
-          4,
-          15,
-          25,
-          117,
-          129,
-          182,
-          201,
-          204
-        ],
-        "simplifications": [
-          5
-        ],
-        "to": [
-          6,
-          18,
-          22,
-          80,
-          83,
-          89,
-          115,
-          125,
-          137
-        ],
-        "help": [
-          7,
-          138
-        ],
-        "them": [
-          8,
-          17
-        ],
-        "interpret": [
-          9,
-          140
-        ],
-        "geophysical": [
-          10,
-          26,
-          135
-        ],
-        "data": [
-          11,
-          30,
-          56,
-          143
-        ],
-        "collected": [
-          12,
-          58,
-          144
-        ],
-        "from": [
-          13,
-          59,
-          78,
-          113,
-          145,
-          152
-        ],
-        "subsurface": [
-          14
-        ],
-        "relate": [
-          16
-        ],
-        "geology.": [
-          19
-        ],
-        "However,": [
-          20
-        ],
-        "due": [
-          21
-        ],
-        "geological": [
-          23
-        ],
-        "complications": [
-          24
-        ],
-        "over": [
-          27
-        ],
-        "simplification,": [
-          28
-        ],
-        "the": [
-          29,
-          93,
-          127,
-          141,
-          146,
-          153,
-          158,
-          164,
-          167,
-          186,
-          189,
-          198
-        ],
-        "interpretation": [
-          31
-        ],
-        "faces": [
-          32
-        ],
-        "many": [
-          33
-        ],
-        "challenges": [
-          34,
-          48
-        ],
-        "such": [
-          35
-        ],
-        "as": [
-          36,
-          169,
-          171
-        ],
-        "non-uniqueness,": [
-          37
-        ],
-        "uncertainty,": [
-          38
-        ],
-        "etc.,": [
-          39
-        ],
-        "Geophysical": [
-          40
-        ],
-        "modeling": [
-          41,
-          136,
-          150,
-          190
-        ],
-        "plays": [
-          42
-        ],
-        "a": [
-          43,
-          100,
-          194
-        ],
-        "key": [
-          44
-        ],
-        "role": [
-          45
-        ],
-        "in": [
-          46,
-          62,
-          76,
-          92,
-          109,
-          122
-        ],
-        "reducing": [
-          47
-        ],
-        "associated": [
-          49
-        ],
-        "with": [
-          50
-        ],
-        "interpretation.": [
-          51
-        ],
-        "In": [
-          52
-        ],
-        "this": [
-          53,
-          123
-        ],
-        "study,": [
-          54
-        ],
-        "resistivity": [
-          55,
-          142,
-          159
-        ],
-        "is": [
-          57,
-          68,
-          87,
-          98,
-          103,
-          120,
-          160
-        ],
-        "two": [
-          60,
-          147
-        ],
-        "sites": [
-          61
-        ],
-        "North": [
-          63
-        ],
-        "Oman.": [
-          64
-        ],
-        "The": [
-          65,
-          95,
-          107,
-          149
-        ],
-        "first": [
-          66,
-          154
-        ],
-        "site": [
-          67,
-          97,
-          111,
-          124,
-          155
-        ],
-        "characterized": [
-          69
-        ],
-        "by": [
-          70,
-          163
-        ],
-        "tilted": [
-          71
-        ],
-        "thin": [
-          72
-        ],
-        "layers": [
-          73,
-          108
-        ],
-        "that": [
-          74,
-          102,
-          110,
-          157,
-          179
-        ],
-        "differ": [
-          75
-        ],
-        "lithology": [
-          77
-        ],
-        "sandstone,": [
-          79
-        ],
-        "dolomitic": [
-          81
-        ],
-        "conglomerate,": [
-          82
-        ],
-        "claystone.": [
-          84
-        ],
-        "Resistivity": [
-          85,
-          119
-        ],
-        "method": [
-          86
-        ],
-        "conducted": [
-          88,
-          121
-        ],
-        "delineate": [
-          90
-        ],
-        "groundwater": [
-          91
-        ],
-        "area.": [
-          94
-        ],
-        "second": [
-          96,
-          187
-        ],
-        "near": [
-          99
-        ],
-        "cavity": [
-          101,
-          128,
-          199
-        ],
-        "exposed": [
-          104
-        ],
-        "on": [
-          105
-        ],
-        "surface.": [
-          106
-        ],
-        "vary": [
-          112,
-          180
-        ],
-        "limestone": [
-          114
-        ],
-        "conglomerate": [
-          116
-        ],
-        "Marl.": [
-          118
-        ],
-        "detect": [
-          126
-        ],
-        "predict": [
-          130
-        ],
-        "its": [
-          131,
-          202
-        ],
-        "extension.": [
-          132,
-          206
-        ],
-        "We": [
-          133
-        ],
-        "conduct": [
-          134
-        ],
-        "us": [
-          139,
-          192
-        ],
-        "sites.": [
-          148
-        ],
-        "results": [
-          151
-        ],
-        "showed": [
-          156
-        ],
-        "highly": [
-          161
-        ],
-        "influenced": [
-          162
-        ],
-        "dip": [
-          165
-        ],
-        "of": [
-          166,
-          197
-        ],
-        "formations": [
-          168
-        ],
-        "well": [
-          170
-        ],
-        "their": [
-          172
-        ],
-        "petrophysical": [
-          173
-        ],
-        "properties": [
-          174
-        ],
-        "(porosity,": [
-          175
-        ],
-        "permeability,": [
-          176
-        ],
-        "saturation": [
-          177
-        ],
-        "etc.)": [
-          178
-        ],
-        "laterally": [
-          181
-        ],
-        "vertically.": [
-          183
-        ],
-        "As": [
-          184
-        ],
-        "for": [
-          185
-        ],
-        "site,": [
-          188
-        ],
-        "helped": [
-          191
-        ],
-        "gain": [
-          193
-        ],
-        "good": [
-          195
-        ],
-        "understating": [
-          196
-        ],
-        "response": [
-          200
-        ],
-        "lateral": [
-          203
-        ],
-        "vertical": [
-          205
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
           "cited_by_count": 1
         }
       ],
@@ -21891,7 +20880,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5012773261",
-            "display_name": "Dan Bosence",
+            "display_name": "Dan W. J. Bosence",
             "orcid": "https://orcid.org/0000-0001-8541-4138"
           },
           "institutions": [
@@ -22102,11 +21091,11 @@
         "value_usd": 3720
       },
       "apc_paid": null,
-      "fwci": 1.2318,
+      "fwci": 1.2315,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.74351036,
+        "value": 0.74344926,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22411,16 +21400,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -22834,7 +21824,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23431,16 +22421,17 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2327941769.pdf",
@@ -24275,6 +23266,1049 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4392685312",
+      "doi": "https://doi.org/10.1190/iceg2023-077.1",
+      "title": "Geophysical modeling helps interpret subsurface data: Example from North Oman",
+      "display_name": "Geophysical modeling helps interpret subsurface data: Example from North Oman",
+      "publication_year": 2024,
+      "publication_date": "2024-03-12",
+      "ids": {
+        "openalex": "https://openalex.org/W4392685312",
+        "doi": "https://doi.org/10.1190/iceg2023-077.1"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1190/iceg2023-077.1",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1190/iceg2023-077.1",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Seventh International Conference on Engineering Geophysics, Al Ain, UAE, 16–19 October 2023",
+        "raw_type": "proceedings-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5078036264",
+            "display_name": "Mohammed Farfour",
+            "orcid": "https://orcid.org/0000-0001-9023-1782"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I47818738",
+              "display_name": "Sultan Qaboos University",
+              "ror": "https://ror.org/04wq8zb47",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Farfour",
+          "raw_affiliation_strings": [
+            "Sultan Qaboos University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Sultan Qaboos University",
+              "institution_ids": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5050277999",
+            "display_name": "Talal K. Al-Hosni",
+            "orcid": "https://orcid.org/0000-0003-1272-5204"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I47818738",
+              "display_name": "Sultan Qaboos University",
+              "ror": "https://ror.org/04wq8zb47",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Talal Al-Hosni",
+          "raw_affiliation_strings": [
+            "Sultan Qaboos University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Sultan Qaboos University",
+              "institution_ids": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5081695998",
+            "display_name": "Salah Al‐Khirbash",
+            "orcid": "https://orcid.org/0000-0001-8467-4528"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I47818738",
+              "display_name": "Sultan Qaboos University",
+              "ror": "https://ror.org/04wq8zb47",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Salah Al-Khirbash",
+          "raw_affiliation_strings": [
+            "Sultan Qaboos University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Sultan Qaboos University",
+              "institution_ids": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5044806143",
+            "display_name": "Mohamed A. K. El‐Ghali",
+            "orcid": "https://orcid.org/0000-0002-7850-3471"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I47818738",
+              "display_name": "Sultan Qaboos University",
+              "ror": "https://ror.org/04wq8zb47",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohamed A.K. El-Ghali",
+          "raw_affiliation_strings": [
+            "Sultan Qaboos University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Sultan Qaboos University",
+              "institution_ids": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I47818738"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 2.7831,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.82184317,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 93,
+        "max": 96
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "340",
+        "last_page": "342"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10572",
+        "display_name": "Geophysical and Geoelectrical Methods",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10572",
+          "display_name": "Geophysical and Geoelectrical Methods",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11609",
+          "display_name": "Geophysical Methods and Applications",
+          "score": 0.9975000023841858,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.9944999814033508,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8389215469360352
+        },
+        {
+          "id": "https://openalex.org/keywords/petrophysics",
+          "display_name": "Petrophysics",
+          "score": 0.8212865591049194
+        },
+        {
+          "id": "https://openalex.org/keywords/lithology",
+          "display_name": "Lithology",
+          "score": 0.7678767442703247
+        },
+        {
+          "id": "https://openalex.org/keywords/geophysics",
+          "display_name": "Geophysics",
+          "score": 0.7097793817520142
+        },
+        {
+          "id": "https://openalex.org/keywords/electrical-resistivity-tomography",
+          "display_name": "Electrical resistivity tomography",
+          "score": 0.5741366744041443
+        },
+        {
+          "id": "https://openalex.org/keywords/marl",
+          "display_name": "Marl",
+          "score": 0.5577993988990784
+        },
+        {
+          "id": "https://openalex.org/keywords/electrical-resistivity-and-conductivity",
+          "display_name": "Electrical resistivity and conductivity",
+          "score": 0.5231591463088989
+        },
+        {
+          "id": "https://openalex.org/keywords/conglomerate",
+          "display_name": "Conglomerate",
+          "score": 0.5106101632118225
+        },
+        {
+          "id": "https://openalex.org/keywords/permeability",
+          "display_name": "Permeability (electromagnetism)",
+          "score": 0.47521430253982544
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-geology",
+          "display_name": "Environmental geology",
+          "score": 0.4589470624923706
+        },
+        {
+          "id": "https://openalex.org/keywords/mineralogy",
+          "display_name": "Mineralogy",
+          "score": 0.32431209087371826
+        },
+        {
+          "id": "https://openalex.org/keywords/petrology",
+          "display_name": "Petrology",
+          "score": 0.32394546270370483
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.3003997504711151
+        },
+        {
+          "id": "https://openalex.org/keywords/geomorphology",
+          "display_name": "Geomorphology",
+          "score": 0.2638510465621948
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrogeology",
+          "display_name": "Hydrogeology",
+          "score": 0.26034629344940186
+        },
+        {
+          "id": "https://openalex.org/keywords/porosity",
+          "display_name": "Porosity",
+          "score": 0.2181544303894043
+        },
+        {
+          "id": "https://openalex.org/keywords/geotechnical-engineering",
+          "display_name": "Geotechnical engineering",
+          "score": 0.210414320230484
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8389215469360352
+        },
+        {
+          "id": "https://openalex.org/C46293882",
+          "wikidata": "https://www.wikidata.org/wiki/Q2080707",
+          "display_name": "Petrophysics",
+          "level": 3,
+          "score": 0.8212865591049194
+        },
+        {
+          "id": "https://openalex.org/C122792734",
+          "wikidata": "https://www.wikidata.org/wiki/Q6538759",
+          "display_name": "Lithology",
+          "level": 2,
+          "score": 0.7678767442703247
+        },
+        {
+          "id": "https://openalex.org/C8058405",
+          "wikidata": "https://www.wikidata.org/wiki/Q46255",
+          "display_name": "Geophysics",
+          "level": 1,
+          "score": 0.7097793817520142
+        },
+        {
+          "id": "https://openalex.org/C60591178",
+          "wikidata": "https://www.wikidata.org/wiki/Q488986",
+          "display_name": "Electrical resistivity tomography",
+          "level": 3,
+          "score": 0.5741366744041443
+        },
+        {
+          "id": "https://openalex.org/C92927620",
+          "wikidata": "https://www.wikidata.org/wiki/Q184053",
+          "display_name": "Marl",
+          "level": 3,
+          "score": 0.5577993988990784
+        },
+        {
+          "id": "https://openalex.org/C69990965",
+          "wikidata": "https://www.wikidata.org/wiki/Q65402698",
+          "display_name": "Electrical resistivity and conductivity",
+          "level": 2,
+          "score": 0.5231591463088989
+        },
+        {
+          "id": "https://openalex.org/C106804226",
+          "wikidata": "https://www.wikidata.org/wiki/Q191704",
+          "display_name": "Conglomerate",
+          "level": 3,
+          "score": 0.5106101632118225
+        },
+        {
+          "id": "https://openalex.org/C120882062",
+          "wikidata": "https://www.wikidata.org/wiki/Q28352",
+          "display_name": "Permeability (electromagnetism)",
+          "level": 3,
+          "score": 0.47521430253982544
+        },
+        {
+          "id": "https://openalex.org/C170152797",
+          "wikidata": "https://www.wikidata.org/wiki/Q2348608",
+          "display_name": "Environmental geology",
+          "level": 4,
+          "score": 0.4589470624923706
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.32431209087371826
+        },
+        {
+          "id": "https://openalex.org/C5900021",
+          "wikidata": "https://www.wikidata.org/wiki/Q163082",
+          "display_name": "Petrology",
+          "level": 1,
+          "score": 0.32394546270370483
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.3003997504711151
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.2638510465621948
+        },
+        {
+          "id": "https://openalex.org/C33556824",
+          "wikidata": "https://www.wikidata.org/wiki/Q179509",
+          "display_name": "Hydrogeology",
+          "level": 2,
+          "score": 0.26034629344940186
+        },
+        {
+          "id": "https://openalex.org/C6648577",
+          "wikidata": "https://www.wikidata.org/wiki/Q622669",
+          "display_name": "Porosity",
+          "level": 2,
+          "score": 0.2181544303894043
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.210414320230484
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C54355233",
+          "wikidata": "https://www.wikidata.org/wiki/Q7162",
+          "display_name": "Genetics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C2776867696",
+          "wikidata": "https://www.wikidata.org/wiki/Q3743777",
+          "display_name": "Telmatology",
+          "level": 3,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C119599485",
+          "wikidata": "https://www.wikidata.org/wiki/Q43035",
+          "display_name": "Electrical engineering",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C41625074",
+          "wikidata": "https://www.wikidata.org/wiki/Q176088",
+          "display_name": "Membrane",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1190/iceg2023-077.1",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1190/iceg2023-077.1",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Seventh International Conference on Engineering Geophysics, Al Ain, UAE, 16–19 October 2023",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
+          "score": 0.8100000023841858
+        }
+      ],
+      "x_sdgs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 2,
+      "referenced_works": [
+        "https://openalex.org/W2129108890",
+        "https://openalex.org/W4206513680"
+      ],
+      "related_works": [
+        "https://openalex.org/W4253075434",
+        "https://openalex.org/W2613872155",
+        "https://openalex.org/W4242904446",
+        "https://openalex.org/W2314623142",
+        "https://openalex.org/W4239872952",
+        "https://openalex.org/W4402159251",
+        "https://openalex.org/W1988558377",
+        "https://openalex.org/W2896408520",
+        "https://openalex.org/W2068450203",
+        "https://openalex.org/W4388865719"
+      ],
+      "abstract_inverted_index": {
+        "Geophysicists": [
+          0
+        ],
+        "use": [
+          1
+        ],
+        "numerous": [
+          2
+        ],
+        "assumptions": [
+          3
+        ],
+        "and": [
+          4,
+          15,
+          25,
+          117,
+          129,
+          182,
+          201,
+          204
+        ],
+        "simplifications": [
+          5
+        ],
+        "to": [
+          6,
+          18,
+          22,
+          80,
+          83,
+          89,
+          115,
+          125,
+          137
+        ],
+        "help": [
+          7,
+          138
+        ],
+        "them": [
+          8,
+          17
+        ],
+        "interpret": [
+          9,
+          140
+        ],
+        "geophysical": [
+          10,
+          26,
+          135
+        ],
+        "data": [
+          11,
+          30,
+          56,
+          143
+        ],
+        "collected": [
+          12,
+          58,
+          144
+        ],
+        "from": [
+          13,
+          59,
+          78,
+          113,
+          145,
+          152
+        ],
+        "subsurface": [
+          14
+        ],
+        "relate": [
+          16
+        ],
+        "geology.": [
+          19
+        ],
+        "However,": [
+          20
+        ],
+        "due": [
+          21
+        ],
+        "geological": [
+          23
+        ],
+        "complications": [
+          24
+        ],
+        "over": [
+          27
+        ],
+        "simplification,": [
+          28
+        ],
+        "the": [
+          29,
+          93,
+          127,
+          141,
+          146,
+          153,
+          158,
+          164,
+          167,
+          186,
+          189,
+          198
+        ],
+        "interpretation": [
+          31
+        ],
+        "faces": [
+          32
+        ],
+        "many": [
+          33
+        ],
+        "challenges": [
+          34,
+          48
+        ],
+        "such": [
+          35
+        ],
+        "as": [
+          36,
+          169,
+          171
+        ],
+        "non-uniqueness,": [
+          37
+        ],
+        "uncertainty,": [
+          38
+        ],
+        "etc.,": [
+          39
+        ],
+        "Geophysical": [
+          40
+        ],
+        "modeling": [
+          41,
+          136,
+          150,
+          190
+        ],
+        "plays": [
+          42
+        ],
+        "a": [
+          43,
+          100,
+          194
+        ],
+        "key": [
+          44
+        ],
+        "role": [
+          45
+        ],
+        "in": [
+          46,
+          62,
+          76,
+          92,
+          109,
+          122
+        ],
+        "reducing": [
+          47
+        ],
+        "associated": [
+          49
+        ],
+        "with": [
+          50
+        ],
+        "interpretation.": [
+          51
+        ],
+        "In": [
+          52
+        ],
+        "this": [
+          53,
+          123
+        ],
+        "study,": [
+          54
+        ],
+        "resistivity": [
+          55,
+          142,
+          159
+        ],
+        "is": [
+          57,
+          68,
+          87,
+          98,
+          103,
+          120,
+          160
+        ],
+        "two": [
+          60,
+          147
+        ],
+        "sites": [
+          61
+        ],
+        "North": [
+          63
+        ],
+        "Oman.": [
+          64
+        ],
+        "The": [
+          65,
+          95,
+          107,
+          149
+        ],
+        "first": [
+          66,
+          154
+        ],
+        "site": [
+          67,
+          97,
+          111,
+          124,
+          155
+        ],
+        "characterized": [
+          69
+        ],
+        "by": [
+          70,
+          163
+        ],
+        "tilted": [
+          71
+        ],
+        "thin": [
+          72
+        ],
+        "layers": [
+          73,
+          108
+        ],
+        "that": [
+          74,
+          102,
+          110,
+          157,
+          179
+        ],
+        "differ": [
+          75
+        ],
+        "lithology": [
+          77
+        ],
+        "sandstone,": [
+          79
+        ],
+        "dolomitic": [
+          81
+        ],
+        "conglomerate,": [
+          82
+        ],
+        "claystone.": [
+          84
+        ],
+        "Resistivity": [
+          85,
+          119
+        ],
+        "method": [
+          86
+        ],
+        "conducted": [
+          88,
+          121
+        ],
+        "delineate": [
+          90
+        ],
+        "groundwater": [
+          91
+        ],
+        "area.": [
+          94
+        ],
+        "second": [
+          96,
+          187
+        ],
+        "near": [
+          99
+        ],
+        "cavity": [
+          101,
+          128,
+          199
+        ],
+        "exposed": [
+          104
+        ],
+        "on": [
+          105
+        ],
+        "surface.": [
+          106
+        ],
+        "vary": [
+          112,
+          180
+        ],
+        "limestone": [
+          114
+        ],
+        "conglomerate": [
+          116
+        ],
+        "Marl.": [
+          118
+        ],
+        "detect": [
+          126
+        ],
+        "predict": [
+          130
+        ],
+        "its": [
+          131,
+          202
+        ],
+        "extension.": [
+          132,
+          206
+        ],
+        "We": [
+          133
+        ],
+        "conduct": [
+          134
+        ],
+        "us": [
+          139,
+          192
+        ],
+        "sites.": [
+          148
+        ],
+        "results": [
+          151
+        ],
+        "showed": [
+          156
+        ],
+        "highly": [
+          161
+        ],
+        "influenced": [
+          162
+        ],
+        "dip": [
+          165
+        ],
+        "of": [
+          166,
+          197
+        ],
+        "formations": [
+          168
+        ],
+        "well": [
+          170
+        ],
+        "their": [
+          172
+        ],
+        "petrophysical": [
+          173
+        ],
+        "properties": [
+          174
+        ],
+        "(porosity,": [
+          175
+        ],
+        "permeability,": [
+          176
+        ],
+        "saturation": [
+          177
+        ],
+        "etc.)": [
+          178
+        ],
+        "laterally": [
+          181
+        ],
+        "vertically.": [
+          183
+        ],
+        "As": [
+          184
+        ],
+        "for": [
+          185
+        ],
+        "site,": [
+          188
+        ],
+        "helped": [
+          191
+        ],
+        "gain": [
+          193
+        ],
+        "good": [
+          195
+        ],
+        "understating": [
+          196
+        ],
+        "response": [
+          200
+        ],
+        "lateral": [
+          203
+        ],
+        "vertical": [
+          205
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-22T06:50:58.402377",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2896309226",
       "doi": "https://doi.org/10.1016/j.chemer.2018.09.003",
       "title": "Aspects of U-Th fractionation in Tertiary limestones and calcretes of Dhofar, southern Oman",
@@ -24452,7 +24486,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5050277999",
-            "display_name": "Talal Al-Hosni",
+            "display_name": "Talal K. Al-Hosni",
             "orcid": "https://orcid.org/0000-0003-1272-5204"
           },
           "institutions": [
@@ -24563,11 +24597,24 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5040070578",
-            "display_name": "A. Al-Lazki",
+            "display_name": "Ali I. Al-Lazki",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4405272748",
+              "display_name": "Petroleum Development Oman (Oman)",
+              "ror": "https://ror.org/04ng5af54",
+              "country_code": "OM",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4405272748"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Ali Al-Lazki",
           "raw_affiliation_strings": [
@@ -24577,7 +24624,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Petroleum Development Oman (PDO), Mina Al-Fahal, Muscat, Oman",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I4405272748"
+              ]
             }
           ]
         },
@@ -24606,7 +24655,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5085780088"
       ],
@@ -24619,11 +24668,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.1704,
+      "fwci": 0.17,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.49408367,
+        "value": 0.49398267,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24974,11 +25023,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7900000214576721
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -24988,8 +25038,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -25088,7 +25138,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T17:25:34.749102",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25354,16 +25404,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.4099999964237213
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25712,16 +25763,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5600000023841858
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -26691,11 +26743,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -27633,7 +27686,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5024022389",
-            "display_name": "Morgan Blades",
+            "display_name": "Morgan Lee Blades",
             "orcid": "https://orcid.org/0000-0002-4653-4476"
           },
           "institutions": [
@@ -27900,7 +27953,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5110692914",
-            "display_name": "Tadesse Alemu",
+            "display_name": "Tadesse B. Alemu",
             "orcid": null
           },
           "institutions": [
@@ -27922,6 +27975,16 @@
               "type": "company",
               "lineage": [
                 "https://openalex.org/I4210099607"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405260935",
+              "display_name": "Geological Institute of Ethiopia",
+              "ror": "https://ror.org/04gjma874",
+              "country_code": "ET",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4405260935"
               ]
             }
           ],
@@ -27945,7 +28008,9 @@
             },
             {
               "raw_affiliation_string": "Geological Survey of Ethiopia, Addis Ababa, Ethiopia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I4405260935"
+              ]
             }
           ]
         },
@@ -28185,7 +28250,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 5,
-      "institutions_distinct_count": 9,
+      "institutions_distinct_count": 10,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -28467,16 +28532,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.4300000071525574
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29042,7 +29108,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T17:25:34.749102",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29353,11 +29419,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29393,6 +29460,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -29510,7 +29578,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5083269164",
-            "display_name": "Hugh Rollinson",
+            "display_name": "Hugh R. Rollinson",
             "orcid": "https://orcid.org/0000-0002-6553-8472"
           },
           "institutions": [
@@ -29642,7 +29710,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5040070578",
-            "display_name": "A. Al-Lazki",
+            "display_name": "Ali I. Al-Lazki",
             "orcid": null
           },
           "institutions": [
@@ -29686,7 +29754,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5056695911",
-            "display_name": "Елена Белоусова",
+            "display_name": "Elena A. Belousova",
             "orcid": "https://orcid.org/0000-0003-2315-3520"
           },
           "institutions": [
@@ -29921,7 +29989,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.54226894,
+        "value": 0.54178212,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30183,6 +30251,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -30211,6 +30280,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -30227,16 +30297,17 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8700000047683716
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4231050176.pdf",
@@ -30262,7 +30333,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-05T08:02:43.246662",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2022-05-11T00:00:00"
     },
     {
@@ -30718,11 +30789,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -31769,16 +31841,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.4699999988079071
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32369,6 +32442,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -32486,7 +32560,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5083269164",
-            "display_name": "Hugh Rollinson",
+            "display_name": "Hugh R. Rollinson",
             "orcid": "https://orcid.org/0000-0002-6553-8472"
           },
           "institutions": [
@@ -32618,7 +32692,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5040070578",
-            "display_name": "A. Al-Lazki",
+            "display_name": "Ali I. Al-Lazki",
             "orcid": null
           },
           "institutions": [
@@ -32662,7 +32736,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5056695911",
-            "display_name": "Елена Белоусова",
+            "display_name": "Elena A. Belousova",
             "orcid": "https://orcid.org/0000-0003-2315-3520"
           },
           "institutions": [
@@ -32904,7 +32978,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3245283,
+        "value": 0.32270169,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33116,6 +33190,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -33144,6 +33219,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -33160,16 +33236,17 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4249711171.pdf",
@@ -33194,7 +33271,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-07T09:17:50.787605",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -33275,7 +33352,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5050277999",
-            "display_name": "Talal Al-Hosni",
+            "display_name": "Talal K. Al-Hosni",
             "orcid": "https://orcid.org/0000-0003-1272-5204"
           },
           "institutions": [
@@ -33396,7 +33473,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03427022,
+        "value": 0.0331675,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33529,16 +33606,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.8100000023841858
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -34006,7 +34084,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34034,6 +34112,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -34065,7 +34144,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5024022389",
-            "display_name": "Morgan Blades",
+            "display_name": "Morgan Lee Blades",
             "orcid": "https://orcid.org/0000-0002-4653-4476"
           },
           "institutions": [],
@@ -34095,7 +34174,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5046466285",
-            "display_name": "Alan S. Collins",
+            "display_name": "Alan Stephen Collins",
             "orcid": "https://orcid.org/0000-0002-3408-5474"
           },
           "institutions": [],
@@ -34155,7 +34234,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5030177136",
-            "display_name": "Peter Holden",
+            "display_name": "Peter N. Holden",
             "orcid": null
           },
           "institutions": [],
@@ -34392,6 +34471,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I4210132348",
             "host_organization_name": "Figshare (United Kingdom)",
             "host_organization_lineage": [
@@ -34422,6 +34502,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -34439,11 +34520,12 @@
         "raw_type": "Dataset"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34475,7 +34557,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-01T06:00:48.157686",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34503,6 +34585,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -34534,7 +34617,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5024022389",
-            "display_name": "Morgan Blades",
+            "display_name": "Morgan Lee Blades",
             "orcid": "https://orcid.org/0000-0002-4653-4476"
           },
           "institutions": [],
@@ -34564,7 +34647,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5046466285",
-            "display_name": "Alan S. Collins",
+            "display_name": "Alan Stephen Collins",
             "orcid": "https://orcid.org/0000-0002-3408-5474"
           },
           "institutions": [],
@@ -34624,7 +34707,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5030177136",
-            "display_name": "Peter Holden",
+            "display_name": "Peter N. Holden",
             "orcid": null
           },
           "institutions": [],
@@ -34861,6 +34944,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I4210132348",
             "host_organization_name": "Figshare (United Kingdom)",
             "host_organization_lineage": [
@@ -34891,6 +34975,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -34908,11 +34993,12 @@
         "raw_type": "Dataset"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34944,7 +35030,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-01T06:00:48.157686",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35004,7 +35090,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5068579961",
-            "display_name": "Martin J. Whitehouse",
+            "display_name": "Martin John Whitehouse",
             "orcid": "https://orcid.org/0000-0003-2227-577X"
           },
           "institutions": [],
@@ -35304,11 +35390,12 @@
         "raw_type": "Dataset"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35809,7 +35896,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35837,6 +35924,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -35868,7 +35956,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5024022389",
-            "display_name": "Morgan Blades",
+            "display_name": "Morgan Lee Blades",
             "orcid": "https://orcid.org/0000-0002-4653-4476"
           },
           "institutions": [],
@@ -35898,7 +35986,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5046466285",
-            "display_name": "Alan S. Collins",
+            "display_name": "Alan Stephen Collins",
             "orcid": "https://orcid.org/0000-0002-3408-5474"
           },
           "institutions": [],
@@ -35958,7 +36046,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5030177136",
-            "display_name": "Peter Holden",
+            "display_name": "Peter N. Holden",
             "orcid": null
           },
           "institutions": [],
@@ -36226,6 +36314,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I4210132348",
             "host_organization_name": "Figshare (United Kingdom)",
             "host_organization_lineage": [
@@ -36256,6 +36345,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -36273,11 +36363,12 @@
         "raw_type": "Dataset"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36309,7 +36400,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-01T06:00:48.157686",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -36337,6 +36428,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -36368,7 +36460,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5024022389",
-            "display_name": "Morgan Blades",
+            "display_name": "Morgan Lee Blades",
             "orcid": "https://orcid.org/0000-0002-4653-4476"
           },
           "institutions": [],
@@ -36398,7 +36490,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5046466285",
-            "display_name": "Alan S. Collins",
+            "display_name": "Alan Stephen Collins",
             "orcid": "https://orcid.org/0000-0002-3408-5474"
           },
           "institutions": [],
@@ -36458,7 +36550,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5030177136",
-            "display_name": "Peter Holden",
+            "display_name": "Peter N. Holden",
             "orcid": null
           },
           "institutions": [],
@@ -36683,6 +36775,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I4210132348",
             "host_organization_name": "Figshare (United Kingdom)",
             "host_organization_lineage": [
@@ -36713,6 +36806,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -36730,11 +36824,12 @@
         "raw_type": "Dataset"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36766,7 +36861,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-01T06:00:48.157686",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -36794,6 +36889,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -36825,7 +36921,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5024022389",
-            "display_name": "Morgan Blades",
+            "display_name": "Morgan Lee Blades",
             "orcid": "https://orcid.org/0000-0002-4653-4476"
           },
           "institutions": [],
@@ -36855,7 +36951,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5046466285",
-            "display_name": "Alan S. Collins",
+            "display_name": "Alan Stephen Collins",
             "orcid": "https://orcid.org/0000-0002-3408-5474"
           },
           "institutions": [],
@@ -36915,7 +37011,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5030177136",
-            "display_name": "Peter Holden",
+            "display_name": "Peter N. Holden",
             "orcid": null
           },
           "institutions": [],
@@ -37159,6 +37255,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I4210132348",
             "host_organization_name": "Figshare (United Kingdom)",
             "host_organization_lineage": [
@@ -37189,6 +37286,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -37206,11 +37304,12 @@
         "raw_type": "Dataset"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37245,7 +37344,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-01T06:00:48.157686",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37273,6 +37372,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -37304,7 +37404,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5024022389",
-            "display_name": "Morgan Blades",
+            "display_name": "Morgan Lee Blades",
             "orcid": "https://orcid.org/0000-0002-4653-4476"
           },
           "institutions": [],
@@ -37334,7 +37434,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5046466285",
-            "display_name": "Alan S. Collins",
+            "display_name": "Alan Stephen Collins",
             "orcid": "https://orcid.org/0000-0002-3408-5474"
           },
           "institutions": [],
@@ -37394,7 +37494,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5030177136",
-            "display_name": "Peter Holden",
+            "display_name": "Peter N. Holden",
             "orcid": null
           },
           "institutions": [],
@@ -37631,6 +37731,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I4210132348",
             "host_organization_name": "Figshare (United Kingdom)",
             "host_organization_lineage": [
@@ -37661,6 +37762,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -37678,11 +37780,12 @@
         "raw_type": "Dataset"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37717,7 +37820,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-01T06:00:48.157686",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37745,6 +37848,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -37776,7 +37880,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5024022389",
-            "display_name": "Morgan Blades",
+            "display_name": "Morgan Lee Blades",
             "orcid": "https://orcid.org/0000-0002-4653-4476"
           },
           "institutions": [],
@@ -37806,7 +37910,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5046466285",
-            "display_name": "Alan S. Collins",
+            "display_name": "Alan Stephen Collins",
             "orcid": "https://orcid.org/0000-0002-3408-5474"
           },
           "institutions": [],
@@ -37866,7 +37970,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5030177136",
-            "display_name": "Peter Holden",
+            "display_name": "Peter N. Holden",
             "orcid": null
           },
           "institutions": [],
@@ -38098,6 +38202,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I4210132348",
             "host_organization_name": "Figshare (United Kingdom)",
             "host_organization_lineage": [
@@ -38128,6 +38233,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -38145,11 +38251,12 @@
         "raw_type": "Dataset"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38181,7 +38288,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-01T06:00:48.157686",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -38209,6 +38316,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -38240,7 +38348,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5024022389",
-            "display_name": "Morgan Blades",
+            "display_name": "Morgan Lee Blades",
             "orcid": "https://orcid.org/0000-0002-4653-4476"
           },
           "institutions": [],
@@ -38270,7 +38378,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5046466285",
-            "display_name": "Alan S. Collins",
+            "display_name": "Alan Stephen Collins",
             "orcid": "https://orcid.org/0000-0002-3408-5474"
           },
           "institutions": [],
@@ -38330,7 +38438,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5030177136",
-            "display_name": "Peter Holden",
+            "display_name": "Peter N. Holden",
             "orcid": null
           },
           "institutions": [],
@@ -38591,6 +38699,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I4210132348",
             "host_organization_name": "Figshare (United Kingdom)",
             "host_organization_lineage": [
@@ -38621,6 +38730,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I4210132348",
           "host_organization_name": "Figshare (United Kingdom)",
           "host_organization_lineage": [
@@ -38638,11 +38748,12 @@
         "raw_type": "Dataset"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38674,7 +38785,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-01T06:00:48.157686",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -39145,16 +39256,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 125,
@@ -40167,7 +40279,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5058473670",
-            "display_name": "Nabil M. Al‐Areeq",
+            "display_name": "Nabil Mohammed Al-Areeq",
             "orcid": "https://orcid.org/0000-0002-9574-0954"
           },
           "institutions": [
@@ -40212,7 +40324,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.1486318,
+        "value": 0.14810638,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40617,11 +40729,12 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41184,7 +41297,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-08T01:25:22.217667",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-12-02T00:00:00"
     }
   ]

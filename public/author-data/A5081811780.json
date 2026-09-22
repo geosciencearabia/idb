@@ -5,7 +5,7 @@
     "observed_orcids": [
       "https://orcid.org/0009-0002-1087-5882"
     ],
-    "display_name": "Moujahed Al-Husseini",
+    "display_name": "Moujahed I. Al-Husseini",
     "raw_author_names": [
       "M.I Al-Husseini",
       "Moujahed Al-Husseini",
@@ -533,7 +533,7 @@
     ],
     "block_key": "m al-husseini",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5081811780",
-    "updated_date": "2026-09-19T12:19:47",
+    "updated_date": "2026-09-22T04:05:08",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -599,7 +599,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -627,11 +627,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.4346,
+      "fwci": 4.4333,
       "has_fulltext": false,
       "cited_by_count": 354,
       "citation_normalized_percentile": {
-        "value": 0.94219088,
+        "value": 0.94221509,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -955,10 +955,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -1685,7 +1686,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-09-13T09:14:26.050021",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1825,7 +1826,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [
@@ -1961,7 +1962,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.2312,
+      "fwci": 7.2281,
       "has_fulltext": true,
       "cited_by_count": 207,
       "citation_normalized_percentile": {
@@ -2287,10 +2288,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -3215,7 +3217,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-09-12T09:15:50.089291",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3280,7 +3282,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -3308,7 +3310,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.6985,
+      "fwci": 2.6988,
       "has_fulltext": false,
       "cited_by_count": 205,
       "citation_normalized_percentile": {
@@ -3655,10 +3657,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -4361,7 +4364,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-05T08:02:43.246662",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4468,7 +4471,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -4506,11 +4509,11 @@
         "currency": "USD",
         "value_usd": 3300
       },
-      "fwci": 12.9211,
+      "fwci": 12.9247,
       "has_fulltext": true,
       "cited_by_count": 75,
       "citation_normalized_percentile": {
-        "value": 0.99042982,
+        "value": 0.99043196,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4975,10 +4978,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8199999928474426
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -5795,7 +5799,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5855,7 +5859,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -5919,11 +5923,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 55.0236,
+      "fwci": 54.3824,
       "has_fulltext": false,
       "cited_by_count": 145,
       "citation_normalized_percentile": {
-        "value": 0.99838013,
+        "value": 0.99838362,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -6177,6 +6181,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -7129,7 +7134,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-09-18T07:38:42.748307",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -7354,7 +7359,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5089188834",
-            "display_name": "Madeleine J. Raven",
+            "display_name": "Madeleine Julia Raven",
             "orcid": "https://orcid.org/0000-0001-6131-9056"
           },
           "institutions": [
@@ -7428,7 +7433,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -7484,7 +7489,7 @@
         "value_usd": 3720
       },
       "apc_paid": null,
-      "fwci": 34.1842,
+      "fwci": 34.167,
       "has_fulltext": false,
       "cited_by_count": 129,
       "citation_normalized_percentile": {
@@ -7726,10 +7731,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -8191,7 +8197,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8500,7 +8506,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5055304725",
-            "display_name": "Mohammed Halawani",
+            "display_name": "Mohammed Aiman Halawani",
             "orcid": null
           },
           "institutions": [],
@@ -8522,7 +8528,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -8541,11 +8547,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 14.304,
+      "fwci": 14.3625,
       "has_fulltext": false,
       "cited_by_count": 93,
       "citation_normalized_percentile": {
-        "value": 0.98770492,
+        "value": 0.98795798,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8837,10 +8843,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.47999998927116394,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.47999998927116394
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -10071,7 +10078,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10136,7 +10143,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -10161,7 +10168,7 @@
       "has_fulltext": false,
       "cited_by_count": 52,
       "citation_normalized_percentile": {
-        "value": 0.64646389,
+        "value": 0.6465284,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10557,6 +10564,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -11865,7 +11873,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-18T07:49:30.821534",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11930,7 +11938,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -11951,11 +11959,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2234,
+      "fwci": 1.2232,
       "has_fulltext": false,
       "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.82434502,
+        "value": 0.82438074,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12246,6 +12254,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -13027,7 +13036,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-31T08:31:51.225901",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13204,7 +13213,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [
@@ -13246,11 +13255,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.6046,
+      "fwci": 2.6072,
       "has_fulltext": false,
       "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.87938074,
+        "value": 0.87928693,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13647,10 +13656,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.41999998688697815,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.41999998688697815
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -14817,7 +14827,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-26T07:47:46.906454",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14922,7 +14932,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5031199375",
-            "display_name": "Nicolas Thibault",
+            "display_name": "Nicolas Rudolph Thibault",
             "orcid": "https://orcid.org/0000-0003-4147-5531"
           },
           "institutions": [
@@ -14959,7 +14969,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -14989,11 +14999,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 17.7577,
+      "fwci": 17.7832,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.99038462,
+        "value": 0.99037883,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -15293,10 +15303,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7599999904632568,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7599999904632568
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -15486,7 +15497,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-01-15T23:16:33.117629",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15593,7 +15604,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -15631,11 +15642,11 @@
         "currency": "USD",
         "value_usd": 2900
       },
-      "fwci": 1.9661,
+      "fwci": 1.967,
       "has_fulltext": false,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.85936421,
+        "value": 0.8594306,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15943,10 +15954,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6100000143051147,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6100000143051147
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -16629,7 +16641,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16757,7 +16769,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [
@@ -16806,11 +16818,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 10.8229,
+      "fwci": 10.8138,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.98387615,
+        "value": 0.98393144,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17146,10 +17158,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -17265,7 +17278,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17334,7 +17347,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -17356,7 +17369,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5075565519",
-            "display_name": "Ian Stewart",
+            "display_name": "Ian C. F. Stewart",
             "orcid": "https://orcid.org/0000-0002-4968-527X"
           },
           "institutions": [
@@ -17409,11 +17422,11 @@
         "currency": "USD",
         "value_usd": 3700
       },
-      "fwci": 3.6282,
+      "fwci": 3.6122,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.93681954,
+        "value": 0.93650193,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17677,6 +17690,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -18095,7 +18109,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-08-12T07:12:00.856984",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-12-13T00:00:00"
     },
     {
@@ -18165,7 +18179,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [
@@ -18286,11 +18300,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6282,
+      "fwci": 0.6286,
       "has_fulltext": false,
       "cited_by_count": 57,
       "citation_normalized_percentile": {
-        "value": 0.67024625,
+        "value": 0.67042931,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18608,6 +18622,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -19316,7 +19331,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-08-01T09:00:35.917206",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19381,7 +19396,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5003614553",
-            "display_name": "R. K. Matthews",
+            "display_name": "Robley K. Matthews",
             "orcid": null
           },
           "institutions": [],
@@ -19396,7 +19411,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -19415,11 +19430,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8466,
+      "fwci": 2.847,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.89669689,
+        "value": 0.89672662,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19750,10 +19765,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -20132,7 +20148,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-01T09:00:35.917206",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20197,7 +20213,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -20212,7 +20228,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5003614553",
-            "display_name": "R. K. Matthews",
+            "display_name": "Robley K. Matthews",
             "orcid": null
           },
           "institutions": [],
@@ -20246,11 +20262,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1086,
+      "fwci": 2.1088,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.884273,
+        "value": 0.88428444,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20495,10 +20511,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6399999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6399999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -20577,7 +20594,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-18T07:38:42.748307",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20642,7 +20659,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -20663,11 +20680,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8524,
+      "fwci": 2.8523,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.90505583,
+        "value": 0.90509227,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -21039,10 +21056,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5699999928474426,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5699999928474426
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -22000,7 +22018,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22045,7 +22063,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -22060,7 +22078,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5003614553",
-            "display_name": "R. K. Matthews",
+            "display_name": "Robley K. Matthews",
             "orcid": null
           },
           "institutions": [],
@@ -22079,7 +22097,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.2889,
+      "fwci": 5.2981,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
@@ -22258,10 +22276,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.49000000953674316,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.49000000953674316
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -23548,7 +23567,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-17T22:18:28.273824",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2021-05-10T00:00:00"
     },
     {
@@ -23613,7 +23632,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -23634,11 +23653,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5057,
+      "fwci": 1.5051,
       "has_fulltext": true,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.80807208,
+        "value": 0.80808265,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23938,10 +23957,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -24832,7 +24852,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-08T07:41:39.490200",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24897,7 +24917,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -24918,11 +24938,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6619,
+      "fwci": 1.6628,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.83493041,
+        "value": 0.83501916,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25318,10 +25338,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -26241,7 +26262,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-31T08:31:51.225901",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -26306,7 +26327,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -26327,11 +26348,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1489,
+      "fwci": 2.1485,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.88069293,
+        "value": 0.88070626,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26657,10 +26678,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8399999737739563
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -27697,7 +27719,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-31T08:31:51.225901",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27832,7 +27854,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -27851,11 +27873,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 12.4338,
+      "fwci": 11.7172,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.99341238,
+        "value": 0.99151436,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -27994,10 +28016,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7200000286102295,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.7200000286102295
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -28973,7 +28996,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-07-15T18:14:33.161393",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2021-05-10T00:00:00"
     },
     {
@@ -29038,7 +29061,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -29059,11 +29082,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5996,
+      "fwci": 2.5969,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.89706165,
+        "value": 0.89687455,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29397,10 +29420,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6700000166893005,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6700000166893005
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -30253,7 +30277,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30318,7 +30342,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -30339,11 +30363,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2159,
+      "fwci": 0.2164,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.63232397,
+        "value": 0.63295949,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30610,6 +30634,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -30694,7 +30719,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-13T09:14:26.050021",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30795,7 +30820,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [
@@ -31141,10 +31166,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6700000166893005,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6700000166893005
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -31204,7 +31230,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-18T07:49:30.821534",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -31327,7 +31353,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5040068710",
-            "display_name": "Jean Laherrère",
+            "display_name": "Jean H. Laherrère",
             "orcid": null
           },
           "institutions": [
@@ -31452,7 +31478,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [
@@ -31520,11 +31546,11 @@
         "value_usd": 3990
       },
       "apc_paid": null,
-      "fwci": 0.4691,
+      "fwci": 0.467,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.54106838,
+        "value": 0.54004585,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31732,6 +31758,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -31780,7 +31807,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -31851,7 +31878,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -31873,7 +31900,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5103430678",
-            "display_name": "Ian C. Stewart",
+            "display_name": "Ian C. F. Stewart",
             "orcid": "https://orcid.org/0009-0008-9885-4974"
           },
           "institutions": [
@@ -31922,11 +31949,11 @@
         "currency": "USD",
         "value_usd": 2100
       },
-      "fwci": 5.0004,
+      "fwci": 4.966,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.94767409,
+        "value": 0.94739781,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -32305,6 +32332,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -32889,7 +32917,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-12T07:12:00.856984",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-12-08T00:00:00"
     },
     {
@@ -33002,7 +33030,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -33032,7 +33060,7 @@
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.25323555,
+        "value": 0.25307443,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33436,6 +33464,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -34028,7 +34057,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34093,7 +34122,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -34108,7 +34137,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5003614553",
-            "display_name": "R. K. Matthews",
+            "display_name": "Robley K. Matthews",
             "orcid": null
           },
           "institutions": [],
@@ -34127,11 +34156,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.5995,
+      "fwci": 4.5981,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.94034911,
+        "value": 0.9403405,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -34486,10 +34515,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5799999833106995,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5799999833106995
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -35568,7 +35598,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-31T08:31:51.225901",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35633,7 +35663,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -35648,7 +35678,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5003614553",
-            "display_name": "R. K. Matthews",
+            "display_name": "Robley K. Matthews",
             "orcid": null
           },
           "institutions": [],
@@ -35667,11 +35697,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9086,
+      "fwci": 1.9088,
       "has_fulltext": true,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.84834672,
+        "value": 0.84836904,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35933,10 +35963,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.47999998927116394,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.47999998927116394
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -36654,7 +36685,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-08T07:41:39.490200",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -36699,7 +36730,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5050066018",
-            "display_name": "Peter Osterloff",
+            "display_name": "Peter L. Osterloff",
             "orcid": "https://orcid.org/0000-0002-4111-5336"
           },
           "institutions": [],
@@ -36729,7 +36760,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5045849431",
-            "display_name": "Randall Penney",
+            "display_name": "Randall A. Penney",
             "orcid": null
           },
           "institutions": [],
@@ -36789,7 +36820,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5050822476",
-            "display_name": "N.S. Jones",
+            "display_name": "Neil S. Jones",
             "orcid": null
           },
           "institutions": [],
@@ -36819,7 +36850,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5040147688",
-            "display_name": "Michael H. Stephenson",
+            "display_name": "Michael  Henry Stephenson",
             "orcid": "https://orcid.org/0000-0002-9881-1578"
           },
           "institutions": [],
@@ -36849,7 +36880,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -36868,11 +36899,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.2892,
+      "fwci": 7.8115,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.98023715,
+        "value": 0.97780679,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -37047,10 +37078,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5600000023841858,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5600000023841858
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -38216,7 +38248,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-15T18:14:33.161393",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2021-03-29T00:00:00"
     },
     {
@@ -38281,7 +38313,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -38315,11 +38347,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.0707,
+      "fwci": 3.0701,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.90823817,
+        "value": 0.90824352,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -38643,10 +38675,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.699999988079071,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.699999988079071
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -39947,7 +39980,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40049,7 +40082,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [
@@ -40092,11 +40125,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6828,
+      "fwci": 1.6834,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.84264206,
+        "value": 0.84272529,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40463,10 +40496,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.5099999904632568,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.5099999904632568
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -40786,7 +40820,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40851,7 +40885,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -40876,7 +40910,7 @@
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.82036316,
+        "value": 0.82035583,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41256,6 +41290,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -41865,7 +41900,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41930,7 +41965,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -41945,7 +41980,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5003614553",
-            "display_name": "R. K. Matthews",
+            "display_name": "Robley K. Matthews",
             "orcid": null
           },
           "institutions": [],
@@ -41964,11 +41999,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5744,
+      "fwci": 0.575,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.74974076,
+        "value": 0.75,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42299,10 +42334,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -42925,7 +42961,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -42993,7 +43029,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -43058,11 +43094,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1445,
+      "fwci": 2.1218,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.91150442,
+        "value": 0.90956341,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -43406,10 +43442,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -43607,7 +43644,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-29T09:40:50.615796",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -43675,7 +43712,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -43703,11 +43740,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.8636,
+      "fwci": 3.8696,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.93415418,
+        "value": 0.93468951,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -43977,10 +44014,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.46000000834465027,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.46000000834465027
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -44122,7 +44160,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -44193,7 +44231,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -44221,11 +44259,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7249,
+      "fwci": 0.7241,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.59373127,
+        "value": 0.59336615,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44563,10 +44601,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -45265,7 +45304,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -45330,7 +45369,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -45345,7 +45384,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5003614553",
-            "display_name": "R. K. Matthews",
+            "display_name": "Robley K. Matthews",
             "orcid": null
           },
           "institutions": [],
@@ -45364,11 +45403,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1278,
+      "fwci": 2.1293,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.86690206,
+        "value": 0.86704848,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45735,10 +45774,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -46525,7 +46565,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-31T08:31:51.225901",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -46570,7 +46610,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5050066018",
-            "display_name": "Peter Osterloff",
+            "display_name": "Peter L. Osterloff",
             "orcid": "https://orcid.org/0000-0002-4111-5336"
           },
           "institutions": [],
@@ -46585,7 +46625,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5045849431",
-            "display_name": "Randall Penney",
+            "display_name": "Randall A. Penney",
             "orcid": null
           },
           "institutions": [],
@@ -46630,7 +46670,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -46649,11 +46689,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.0723,
+      "fwci": 1.9529,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.89459816,
+        "value": 0.89033943,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46826,6 +46866,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -47794,7 +47835,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-15T18:14:33.161393",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2021-04-26T00:00:00"
     },
     {
@@ -47859,7 +47900,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -47874,7 +47915,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5003614553",
-            "display_name": "R. K. Matthews",
+            "display_name": "Robley K. Matthews",
             "orcid": null
           },
           "institutions": [],
@@ -47893,11 +47934,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2651,
+      "fwci": 1.2653,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.83630069,
+        "value": 0.83631688,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48214,10 +48255,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4099999964237213,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4099999964237213
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -48296,7 +48338,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -48361,7 +48403,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -48435,7 +48477,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5003614553",
-            "display_name": "R. K. Matthews",
+            "display_name": "Robley K. Matthews",
             "orcid": null
           },
           "institutions": [
@@ -48496,11 +48538,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1296,
+      "fwci": 1.1294,
       "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.81387585,
+        "value": 0.81390286,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48824,10 +48866,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -50298,7 +50341,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-08T07:41:39.490200",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -50363,7 +50406,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -50384,11 +50427,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7845,
+      "fwci": 0.7848,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.74807547,
+        "value": 0.74827401,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -50698,10 +50741,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -51679,7 +51723,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -51744,7 +51788,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -51765,11 +51809,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4181,
+      "fwci": 0.418,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.76586844,
+        "value": 0.7659068,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -52179,10 +52223,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -53187,7 +53232,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -53247,7 +53292,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -53296,7 +53341,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1835,
+      "fwci": 1.1832,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
@@ -53513,10 +53558,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8199999928474426
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -53559,7 +53605,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-16T18:09:00.828671",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2021-02-01T00:00:00"
     },
     {
@@ -53624,7 +53670,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -53649,7 +53695,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.42873994,
+        "value": 0.42861538,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -54021,6 +54067,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -55148,7 +55195,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-18T07:49:30.821534",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -55217,7 +55264,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5042048546",
-            "display_name": "Philipp Wolpert",
+            "display_name": "Philipp J. Wolpert",
             "orcid": "https://orcid.org/0000-0002-5423-6831"
           },
           "institutions": [],
@@ -55350,7 +55397,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [
@@ -55427,7 +55474,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5108215259",
-            "display_name": "H. Dirks",
+            "display_name": "Heiko Dirks",
             "orcid": null
           },
           "institutions": [
@@ -55518,11 +55565,11 @@
         "currency": "USD",
         "value_usd": 2990
       },
-      "fwci": 1.0696,
+      "fwci": 1.0671,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.69731223,
+        "value": 0.69670661,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -55886,10 +55933,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7300000190734863,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.7300000190734863
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -56418,7 +56466,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -56483,7 +56531,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -56504,11 +56552,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.251,
+      "fwci": 0.2508,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.62679165,
+        "value": 0.62676922,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -56825,10 +56873,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -57678,7 +57727,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -57799,7 +57848,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [
@@ -57915,11 +57964,11 @@
         "currency": "USD",
         "value_usd": 3700
       },
-      "fwci": 2.6302,
+      "fwci": 2.6234,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.89154689,
+        "value": 0.89137427,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -58224,6 +58273,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -58958,7 +59008,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-15T08:34:33.830935",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -58986,6 +59036,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -59013,7 +59064,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [
@@ -59036,6 +59087,7 @@
           "raw_affiliation_strings": [
             "Saudi-Aramco, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi-Aramco, Saudi Arabia",
@@ -59057,11 +59109,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9801,
+      "fwci": 0.9644,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.76231061,
+        "value": 0.76200101,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -59252,6 +59304,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -59269,6 +59322,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -59315,7 +59369,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-10-10T17:16:08.811792",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -59380,7 +59434,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -59395,7 +59449,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5003614553",
-            "display_name": "R. K. Matthews",
+            "display_name": "Robley K. Matthews",
             "orcid": null
           },
           "institutions": [],
@@ -59414,11 +59468,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6383,
+      "fwci": 0.6388,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.71087913,
+        "value": 0.71103498,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -59811,10 +59865,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -60337,7 +60392,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -60402,7 +60457,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -60423,11 +60478,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8351,
+      "fwci": 1.8348,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.85842359,
+        "value": 0.85850264,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -60672,10 +60727,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8299999833106995,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.8299999833106995
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -60717,7 +60773,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -60797,7 +60853,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -60820,7 +60876,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.60269531,
+        "value": 0.60212698,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -61125,10 +61181,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6499999761581421,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6499999761581421
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -61163,7 +61220,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -61228,7 +61285,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -61576,10 +61633,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6700000166893005,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6700000166893005
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -61605,7 +61663,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -61664,7 +61722,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -61922,10 +61980,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7835737466812134,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7835737466812134
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -61938,7 +61997,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-17T22:18:28.273824",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2026-09-16T00:00:00"
     },
     {
@@ -62003,7 +62062,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -62018,7 +62077,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5003614553",
-            "display_name": "R. K. Matthews",
+            "display_name": "Robley K. Matthews",
             "orcid": null
           },
           "institutions": [],
@@ -62037,11 +62096,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4256,
+      "fwci": 0.4259,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.6745983,
+        "value": 0.67483125,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -62283,10 +62342,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4699999988079071,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4699999988079071
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -62319,7 +62379,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-05-22T06:13:13.366637",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -62387,7 +62447,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -62769,10 +62829,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -63323,7 +63384,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-10-10T17:16:08.811792",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -63367,7 +63428,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -63392,7 +63453,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.74209651,
+        "value": 0.72789116,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -63703,10 +63764,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8761091828346252,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8761091828346252
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -64776,7 +64838,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-12T05:44:59.229162",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2026-07-11T00:00:00"
     },
     {
@@ -64804,6 +64866,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I157674565",
           "host_organization_name": "University of Liège",
           "host_organization_lineage": [
@@ -64870,7 +64933,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5112354030",
-            "display_name": "Ken Higgs",
+            "display_name": "Ken T. Higgs",
             "orcid": null
           },
           "institutions": [],
@@ -64900,7 +64963,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -65017,6 +65080,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I157674565",
             "host_organization_name": "University of Liège",
             "host_organization_lineage": [
@@ -65052,10 +65116,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4699999988079071,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4699999988079071
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -65089,7 +65154,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -65117,6 +65182,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I157674565",
           "host_organization_name": "University of Liège",
           "host_organization_lineage": [
@@ -65161,7 +65227,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5112354030",
-            "display_name": "Ken Higgs",
+            "display_name": "Ken T. Higgs",
             "orcid": null
           },
           "institutions": [],
@@ -65213,7 +65279,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -65236,7 +65302,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.45787546,
+        "value": 0.45620438,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -65419,6 +65485,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I157674565",
             "host_organization_name": "University of Liège",
             "host_organization_lineage": [
@@ -65452,6 +65519,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -65485,7 +65553,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-09T07:26:56.047234",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -65572,7 +65640,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5089188834",
-            "display_name": "Madeleine J. Raven",
+            "display_name": "Madeleine Julia Raven",
             "orcid": "https://orcid.org/0000-0001-6131-9056"
           },
           "institutions": [],
@@ -65602,7 +65670,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -65640,7 +65708,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.41062923,
+        "value": 0.41050389,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -65822,10 +65890,11 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -66199,7 +66268,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -66243,7 +66312,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [],
@@ -66268,7 +66337,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77876106,
+        "value": 0.78787879,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -66471,6 +66540,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -66483,7 +66553,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-10T05:49:55.623906",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2026-07-09T00:00:00"
     },
     {
@@ -66527,7 +66597,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
+            "display_name": "Moujahed I. Al-Husseini",
             "orcid": "https://orcid.org/0009-0002-1087-5882"
           },
           "institutions": [
@@ -66610,6 +66680,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -66622,7 +66693,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-14T23:27:15.235271",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2026-07-11T00:00:00"
     }
   ]

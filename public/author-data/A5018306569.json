@@ -13,9 +13,9 @@
     ],
     "full_name": "Mohammad Eid Alsuwaidi",
     "works_count": 49,
-    "cited_by_count": 383,
+    "cited_by_count": 384,
     "summary_stats": {
-      "2yr_mean_citedness": 3.739130434782609,
+      "2yr_mean_citedness": 3.782608695652174,
       "h_index": 13,
       "i10_index": 15
     },
@@ -213,7 +213,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001003,
+        "value": 0.0001002,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -264,7 +264,7 @@
       {
         "id": "https://openalex.org/T13192",
         "display_name": "Forensic Fingerprint Detection Methods",
-        "value": 0.0000284,
+        "value": 0.0000283,
         "subfield": {
           "id": "https://openalex.org/subfields/3311",
           "display_name": "Safety Research"
@@ -387,7 +387,7 @@
         "year": 2025,
         "works_count": 8,
         "oa_works_count": 1,
-        "cited_by_count": 10
+        "cited_by_count": 11
       },
       {
         "year": 2026,
@@ -403,7 +403,7 @@
     ],
     "block_key": "m alsuwaidi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5018306569",
-    "updated_date": "2026-09-19T12:19:47",
+    "updated_date": "2026-09-21T12:20:07",
     "created_date": "2020-09-14T00:00:00"
   },
   "works": [
@@ -616,7 +616,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5057027693",
-            "display_name": "S. Morad",
+            "display_name": "Sadoon Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
           "institutions": [
@@ -690,7 +690,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5052331702",
-            "display_name": "Osama Al Jallad",
+            "display_name": "Osama A. Al Jallad",
             "orcid": null
           },
           "institutions": [],
@@ -728,11 +728,11 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 3.8683,
+      "fwci": 3.8589,
       "has_fulltext": true,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.95185845,
+        "value": 0.95162317,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1258,11 +1258,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4399999976158142
         }
       ],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G1014726591",
@@ -1747,7 +1748,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1928,7 +1929,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5057027693",
-            "display_name": "S. Morad",
+            "display_name": "Sadoon Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
           "institutions": [
@@ -2002,7 +2003,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044402103",
-            "display_name": "Emad W. Al-Shalabi",
+            "display_name": "Emad Walid Al-Shalabi",
             "orcid": "https://orcid.org/0000-0003-2055-1398"
           },
           "institutions": [
@@ -2076,7 +2077,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -2199,11 +2200,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 2.8125,
+      "fwci": 2.8133,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.90626965,
+        "value": 0.9063435,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2544,11 +2545,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5199999809265137
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -2684,7 +2686,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2846,7 +2848,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5010386396",
-            "display_name": "Namam Salih",
+            "display_name": "Namam Muhammed Salih",
             "orcid": "https://orcid.org/0000-0002-5691-5205"
           },
           "institutions": [
@@ -2905,7 +2907,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5057027693",
-            "display_name": "S. Morad",
+            "display_name": "Sadoon Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
           "institutions": [
@@ -2955,11 +2957,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 1.8725,
+      "fwci": 1.8733,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.84635786,
+        "value": 0.84639407,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3288,11 +3290,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -3444,7 +3447,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4177,11 +4180,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.4099999964237213
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -4919,7 +4923,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5070497387",
-            "display_name": "Fadi H. Nader",
+            "display_name": "Fadi Henri Nader",
             "orcid": "https://orcid.org/0000-0002-4379-0175"
           },
           "institutions": [
@@ -4963,7 +4967,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5057027693",
-            "display_name": "S. Morad",
+            "display_name": "Sadoon Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
           "institutions": [
@@ -5239,11 +5243,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 0.9049,
+      "fwci": 0.9042,
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.68639094,
+        "value": 0.68606337,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5674,11 +5678,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -5784,7 +5789,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6354,11 +6359,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.46000000834465027
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -7167,11 +7173,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G302735620",
@@ -8040,7 +8047,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044402103",
-            "display_name": "Emad W. Al-Shalabi",
+            "display_name": "Emad Walid Al-Shalabi",
             "orcid": "https://orcid.org/0000-0003-2055-1398"
           },
           "institutions": [
@@ -8077,7 +8084,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5052331702",
-            "display_name": "Osama Al Jallad",
+            "display_name": "Osama A. Al Jallad",
             "orcid": null
           },
           "institutions": [],
@@ -8115,11 +8122,11 @@
         "currency": "USD",
         "value_usd": 2290
       },
-      "fwci": 3.3117,
+      "fwci": 3.3005,
       "has_fulltext": true,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.93071352,
+        "value": 0.93036591,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8726,6 +8733,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G4371932456",
@@ -9369,7 +9377,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9476,7 +9484,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5057027693",
-            "display_name": "S. Morad",
+            "display_name": "Sadoon Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
           "institutions": [
@@ -9617,11 +9625,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 2.1034,
+      "fwci": 2.104,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.8524737,
+        "value": 0.85245076,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9904,11 +9912,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.41999998688697815
         }
       ],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G302735620",
@@ -10069,7 +10078,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10138,7 +10147,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5057027693",
-            "display_name": "S. Morad",
+            "display_name": "Sadoon Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
           "institutions": [
@@ -10427,7 +10436,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5065054982",
-            "display_name": "Hemin Koyi",
+            "display_name": "HEMIN A. KOYI",
             "orcid": "https://orcid.org/0000-0002-1872-052X"
           },
           "institutions": [
@@ -10476,11 +10485,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 8.3631,
+      "fwci": 8.3561,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.97434112,
+        "value": 0.97434387,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10871,11 +10880,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -11043,7 +11053,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11241,7 +11251,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5057027693",
-            "display_name": "S. Morad",
+            "display_name": "Sadoon Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
           "institutions": [
@@ -11315,7 +11325,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -11352,7 +11362,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -11405,7 +11415,7 @@
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.80548441,
+        "value": 0.80545784,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11730,6 +11740,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G1014726591",
@@ -11863,7 +11874,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12053,7 +12064,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5057027693",
-            "display_name": "S. Morad",
+            "display_name": "Sadoon Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
           "institutions": [],
@@ -12186,7 +12197,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5065054982",
-            "display_name": "Hemin Koyi",
+            "display_name": "HEMIN A. KOYI",
             "orcid": "https://orcid.org/0000-0002-1872-052X"
           },
           "institutions": [
@@ -12227,11 +12238,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.987,
+      "fwci": 1.9803,
       "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.84426947,
+        "value": 0.843627,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12600,11 +12611,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7699999809265137,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7699999809265137
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -13069,7 +13081,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2024-03-22T00:00:00"
     },
     {
@@ -13321,7 +13333,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5070497387",
-            "display_name": "Fadi H. Nader",
+            "display_name": "Fadi Henri Nader",
             "orcid": "https://orcid.org/0000-0002-4379-0175"
           },
           "institutions": [
@@ -13413,7 +13425,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044402103",
-            "display_name": "Emad W. Al-Shalabi",
+            "display_name": "Emad Walid Al-Shalabi",
             "orcid": "https://orcid.org/0000-0003-2055-1398"
           },
           "institutions": [
@@ -13450,7 +13462,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5052331702",
-            "display_name": "Osama Al Jallad",
+            "display_name": "Osama A. Al Jallad",
             "orcid": null
           },
           "institutions": [
@@ -13500,11 +13512,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 1.6558,
+      "fwci": 1.8136,
       "has_fulltext": false,
-      "cited_by_count": 10,
+      "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.81858171,
+        "value": 0.83702174,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13993,6 +14005,7 @@
         "raw_type": "Article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G1014726591",
@@ -14152,14 +14165,14 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-09-05T08:02:43.246662",
+      "updated_date": "2026-09-22T17:25:34.749102",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14393,7 +14406,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5057027693",
-            "display_name": "S. Morad",
+            "display_name": "Sadoon Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
           "institutions": [
@@ -14442,11 +14455,11 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 6.1371,
+      "fwci": 6.1212,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.95619976,
+        "value": 0.95609162,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14807,11 +14820,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8199999928474426
         }
       ],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G1014726591",
@@ -15025,7 +15039,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15399,7 +15413,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5058091212",
-            "display_name": "Daria Ivanova",
+            "display_name": "Daria K. Ivanova",
             "orcid": "https://orcid.org/0000-0003-4810-2885"
           },
           "institutions": [
@@ -15572,11 +15586,11 @@
         "currency": "USD",
         "value_usd": 3400
       },
-      "fwci": 6.6558,
+      "fwci": 6.6213,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.96420594,
+        "value": 0.9638709,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15991,6 +16005,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -16957,7 +16972,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-11-19T00:00:00"
     },
     {
@@ -17115,7 +17130,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5110758005",
-            "display_name": "Fadhil A. Lawa",
+            "display_name": "Fadhil Ahmed Ameen Lawa",
             "orcid": "https://orcid.org/0000-0003-4856-6719"
           },
           "institutions": [
@@ -17203,7 +17218,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5057027693",
-            "display_name": "S. Morad",
+            "display_name": "Sadoon Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
           "institutions": [
@@ -17263,7 +17278,7 @@
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.89023776,
+        "value": 0.89021934,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17551,11 +17566,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -18151,7 +18167,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18485,11 +18501,11 @@
         "value_usd": 3250
       },
       "apc_paid": null,
-      "fwci": 1.2013,
+      "fwci": 1.2019,
       "has_fulltext": true,
-      "cited_by_count": 13,
+      "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.74201149,
+        "value": 0.74214438,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18890,11 +18906,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -19362,7 +19379,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -19377,7 +19394,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20025,11 +20042,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G4480036322",
@@ -20312,7 +20330,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5057027693",
-            "display_name": "S. Morad",
+            "display_name": "Sadoon Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
           "institutions": [
@@ -20533,11 +20551,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 6.1371,
+      "fwci": 6.1212,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.95649208,
+        "value": 0.95638402,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20844,11 +20862,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G1014726591",
@@ -21008,7 +21027,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21715,11 +21734,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G302735620",
@@ -22963,11 +22983,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.5699999928474426
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -24514,11 +24535,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7799999713897705,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.7799999713897705
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -24805,7 +24827,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044402103",
-            "display_name": "Emad W. Al-Shalabi",
+            "display_name": "Emad Walid Al-Shalabi",
             "orcid": "https://orcid.org/0000-0003-2055-1398"
           },
           "institutions": [],
@@ -24873,11 +24895,11 @@
         "currency": "USD",
         "value_usd": 3640
       },
-      "fwci": 5.5209,
+      "fwci": 5.4408,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.94003801,
+        "value": 0.93908295,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -25139,6 +25161,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G2582087611",
@@ -25868,7 +25891,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2026-02-11T00:00:00"
     },
     {
@@ -26028,7 +26051,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027303936",
-            "display_name": "Ali I. Al‐Juboury",
+            "display_name": "Ali Ismail Al-Juboury",
             "orcid": "https://orcid.org/0000-0003-2516-782X"
           },
           "institutions": [
@@ -26065,7 +26088,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5010386396",
-            "display_name": "Namam Salih",
+            "display_name": "Namam Muhammed Salih",
             "orcid": "https://orcid.org/0000-0002-5691-5205"
           },
           "institutions": [
@@ -26303,11 +26326,11 @@
         "currency": "CHF",
         "value_usd": 2447
       },
-      "fwci": 0.6044,
+      "fwci": 0.6029,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.55870672,
+        "value": 0.55816677,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26787,11 +26810,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8299999833106995
         }
       ],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G2556638973",
@@ -27274,7 +27298,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-09T07:26:56.047234",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27494,7 +27518,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5057027693",
-            "display_name": "S. Morad",
+            "display_name": "Sadoon Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
           "institutions": [
@@ -27548,11 +27572,11 @@
         "currency": "CHF",
         "value_usd": 2160
       },
-      "fwci": 2.1387,
+      "fwci": 2.139,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.85649156,
+        "value": 0.85653593,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28054,11 +28078,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -28552,7 +28577,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-09T07:26:56.047234",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28787,7 +28812,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5057027693",
-            "display_name": "S. Morad",
+            "display_name": "Sadoon Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
           "institutions": [
@@ -28824,7 +28849,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044402103",
-            "display_name": "Emad W. Al-Shalabi",
+            "display_name": "Emad Walid Al-Shalabi",
             "orcid": "https://orcid.org/0000-0003-2055-1398"
           },
           "institutions": [
@@ -28861,7 +28886,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5052331702",
-            "display_name": "Osama Al Jallad",
+            "display_name": "Osama A. Al Jallad",
             "orcid": null
           },
           "institutions": [],
@@ -28895,11 +28920,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 0.7253,
+      "fwci": 0.7235,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.59386456,
+        "value": 0.5934564,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29272,11 +29297,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G1014726591",
@@ -29478,7 +29504,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-12T09:15:50.089291",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30158,6 +30184,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G1014726591",
@@ -30864,11 +30891,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.41999998688697815
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -31469,11 +31497,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G4480036322",
@@ -31696,7 +31725,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5024513089",
-            "display_name": "Sruthi P. Sreenivasan",
+            "display_name": "Sruthi Padampath Sreenivasan",
             "orcid": "https://orcid.org/0000-0003-0999-2846"
           },
           "institutions": [
@@ -31949,11 +31978,11 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 8.984,
+      "fwci": 8.8728,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.93960544,
+        "value": 0.93860459,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -32343,11 +32372,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4302540421485901,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4302540421485901
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -32913,7 +32943,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2026-02-13T00:00:00"
     },
     {
@@ -33552,11 +33582,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4364251494407654,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4364251494407654
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -35045,11 +35076,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8797712922096252,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8797712922096252
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -36028,11 +36060,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7699999809265137,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7699999809265137
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -36238,822 +36271,6 @@
         }
       ],
       "updated_date": "2026-08-29T07:29:34.045763",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W3036971384",
-      "doi": "https://doi.org/10.1109/aset48392.2020.9118193",
-      "title": "Camphoric based Nano carbon for the visual enhancement of latent fingerprints",
-      "display_name": "Camphoric based Nano carbon for the visual enhancement of latent fingerprints",
-      "publication_year": 2020,
-      "publication_date": "2020-02-01",
-      "ids": {
-        "openalex": "https://openalex.org/W3036971384",
-        "doi": "https://doi.org/10.1109/aset48392.2020.9118193",
-        "mag": "3036971384"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1109/aset48392.2020.9118193",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1109/aset48392.2020.9118193",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306498633",
-          "display_name": "2020 Advances in Science and Engineering Technology International Conferences (ASET)",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "2020 Advances in Science and Engineering Technology International Conferences (ASET)",
-        "raw_type": "proceedings-article"
-      },
-      "type": "conference-paper",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5088436123",
-            "display_name": "Asha Anish Madhavan",
-            "orcid": "https://orcid.org/0000-0002-8073-9299"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210126505",
-              "display_name": "Amity University",
-              "ror": "https://ror.org/02exxtn84",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I191972202",
-                "https://openalex.org/I4210126505"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Asha Anish Madhavan",
-          "raw_affiliation_strings": [
-            "Engineering Department, Amity University, Dubai, UAE"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Engineering Department, Amity University, Dubai, UAE",
-              "institution_ids": [
-                "https://openalex.org/I4210126505"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5017000428",
-            "display_name": "Sharon Philip",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210126505",
-              "display_name": "Amity University",
-              "ror": "https://ror.org/02exxtn84",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I191972202",
-                "https://openalex.org/I4210126505"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Sharon Philip",
-          "raw_affiliation_strings": [
-            "Forensic Department, Amity University, Dubai, UAE"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Forensic Department, Amity University, Dubai, UAE",
-              "institution_ids": [
-                "https://openalex.org/I4210126505"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5015462907",
-            "display_name": "Michelle Ann",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210126505",
-              "display_name": "Amity University",
-              "ror": "https://ror.org/02exxtn84",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I191972202",
-                "https://openalex.org/I4210126505"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Michelle Ann",
-          "raw_affiliation_strings": [
-            "Forensic Department, Amity University, Dubai, UAE"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Forensic Department, Amity University, Dubai, UAE",
-              "institution_ids": [
-                "https://openalex.org/I4210126505"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5018306569",
-            "display_name": "Mohammad Alsuwaidi",
-            "orcid": "https://orcid.org/0000-0002-2477-0654"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammad Alsuwaidi",
-          "raw_affiliation_strings": [
-            "Fingerprint Department, Dubai Police, Dubai, UAE"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Fingerprint Department, Dubai Police, Dubai, UAE",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.4821,
-      "has_fulltext": false,
-      "cited_by_count": 2,
-      "citation_normalized_percentile": {
-        "value": 0.73317422,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 94
-      },
-      "biblio": {
-        "volume": "45",
-        "issue": null,
-        "first_page": "1",
-        "last_page": "4"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13192",
-        "display_name": "Forensic Fingerprint Detection Methods",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/3311",
-          "display_name": "Safety Research"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/33",
-          "display_name": "Social Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13192",
-          "display_name": "Forensic Fingerprint Detection Methods",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/3311",
-            "display_name": "Safety Research"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/33",
-            "display_name": "Social Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10828",
-          "display_name": "Biometric Identification and Security",
-          "score": 0.977400004863739,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1711",
-            "display_name": "Signal Processing"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/nano",
-          "display_name": "Nano-",
-          "score": 0.5869663953781128
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-fibers",
-          "display_name": "Carbon fibers",
-          "score": 0.586098849773407
-        },
-        {
-          "id": "https://openalex.org/keywords/minutiae",
-          "display_name": "Minutiae",
-          "score": 0.5665485858917236
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-black",
-          "display_name": "Carbon black",
-          "score": 0.529573917388916
-        },
-        {
-          "id": "https://openalex.org/keywords/materials-science",
-          "display_name": "Materials science",
-          "score": 0.5262826085090637
-        },
-        {
-          "id": "https://openalex.org/keywords/soot",
-          "display_name": "Soot",
-          "score": 0.4800459146499634
-        },
-        {
-          "id": "https://openalex.org/keywords/porosity",
-          "display_name": "Porosity",
-          "score": 0.44969022274017334
-        },
-        {
-          "id": "https://openalex.org/keywords/latent-image",
-          "display_name": "Latent image",
-          "score": 0.43611961603164673
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.4115681052207947
-        },
-        {
-          "id": "https://openalex.org/keywords/nanotechnology",
-          "display_name": "Nanotechnology",
-          "score": 0.39809471368789673
-        },
-        {
-          "id": "https://openalex.org/keywords/artificial-intelligence",
-          "display_name": "Artificial intelligence",
-          "score": 0.29116666316986084
-        },
-        {
-          "id": "https://openalex.org/keywords/image",
-          "display_name": "Image (mathematics)",
-          "score": 0.2561523914337158
-        },
-        {
-          "id": "https://openalex.org/keywords/composite-material",
-          "display_name": "Composite material",
-          "score": 0.20122885704040527
-        },
-        {
-          "id": "https://openalex.org/keywords/fingerprint",
-          "display_name": "Fingerprint (computing)",
-          "score": 0.16902992129325867
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.1105826199054718
-        },
-        {
-          "id": "https://openalex.org/keywords/combustion",
-          "display_name": "Combustion",
-          "score": 0.104699045419693
-        },
-        {
-          "id": "https://openalex.org/keywords/fingerprint-recognition",
-          "display_name": "Fingerprint recognition",
-          "score": 0.08526760339736938
-        },
-        {
-          "id": "https://openalex.org/keywords/composite-number",
-          "display_name": "Composite number",
-          "score": 0.08068457245826721
-        },
-        {
-          "id": "https://openalex.org/keywords/organic-chemistry",
-          "display_name": "Organic chemistry",
-          "score": 0.07818719744682312
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2780357685",
-          "wikidata": "https://www.wikidata.org/wiki/Q154357",
-          "display_name": "Nano-",
-          "level": 2,
-          "score": 0.5869663953781128
-        },
-        {
-          "id": "https://openalex.org/C140205800",
-          "wikidata": "https://www.wikidata.org/wiki/Q5860",
-          "display_name": "Carbon fibers",
-          "level": 3,
-          "score": 0.586098849773407
-        },
-        {
-          "id": "https://openalex.org/C67174900",
-          "wikidata": "https://www.wikidata.org/wiki/Q178022",
-          "display_name": "Minutiae",
-          "level": 4,
-          "score": 0.5665485858917236
-        },
-        {
-          "id": "https://openalex.org/C44038986",
-          "wikidata": "https://www.wikidata.org/wiki/Q764245",
-          "display_name": "Carbon black",
-          "level": 3,
-          "score": 0.529573917388916
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.5262826085090637
-        },
-        {
-          "id": "https://openalex.org/C2775925408",
-          "wikidata": "https://www.wikidata.org/wiki/Q13174856",
-          "display_name": "Soot",
-          "level": 3,
-          "score": 0.4800459146499634
-        },
-        {
-          "id": "https://openalex.org/C6648577",
-          "wikidata": "https://www.wikidata.org/wiki/Q622669",
-          "display_name": "Porosity",
-          "level": 2,
-          "score": 0.44969022274017334
-        },
-        {
-          "id": "https://openalex.org/C205372313",
-          "wikidata": "https://www.wikidata.org/wiki/Q355645",
-          "display_name": "Latent image",
-          "level": 3,
-          "score": 0.43611961603164673
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.4115681052207947
-        },
-        {
-          "id": "https://openalex.org/C171250308",
-          "wikidata": "https://www.wikidata.org/wiki/Q11468",
-          "display_name": "Nanotechnology",
-          "level": 1,
-          "score": 0.39809471368789673
-        },
-        {
-          "id": "https://openalex.org/C154945302",
-          "wikidata": "https://www.wikidata.org/wiki/Q11660",
-          "display_name": "Artificial intelligence",
-          "level": 1,
-          "score": 0.29116666316986084
-        },
-        {
-          "id": "https://openalex.org/C115961682",
-          "wikidata": "https://www.wikidata.org/wiki/Q860623",
-          "display_name": "Image (mathematics)",
-          "level": 2,
-          "score": 0.2561523914337158
-        },
-        {
-          "id": "https://openalex.org/C159985019",
-          "wikidata": "https://www.wikidata.org/wiki/Q181790",
-          "display_name": "Composite material",
-          "level": 1,
-          "score": 0.20122885704040527
-        },
-        {
-          "id": "https://openalex.org/C2777826928",
-          "wikidata": "https://www.wikidata.org/wiki/Q3745713",
-          "display_name": "Fingerprint (computing)",
-          "level": 2,
-          "score": 0.16902992129325867
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.1105826199054718
-        },
-        {
-          "id": "https://openalex.org/C105923489",
-          "wikidata": "https://www.wikidata.org/wiki/Q133235",
-          "display_name": "Combustion",
-          "level": 2,
-          "score": 0.104699045419693
-        },
-        {
-          "id": "https://openalex.org/C168406668",
-          "wikidata": "https://www.wikidata.org/wiki/Q178022",
-          "display_name": "Fingerprint recognition",
-          "level": 3,
-          "score": 0.08526760339736938
-        },
-        {
-          "id": "https://openalex.org/C104779481",
-          "wikidata": "https://www.wikidata.org/wiki/Q50707",
-          "display_name": "Composite number",
-          "level": 2,
-          "score": 0.08068457245826721
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0.07818719744682312
-        },
-        {
-          "id": "https://openalex.org/C176933379",
-          "wikidata": "https://www.wikidata.org/wiki/Q131877",
-          "display_name": "Natural rubber",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1109/aset48392.2020.9118193",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1109/aset48392.2020.9118193",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306498633",
-            "display_name": "2020 Advances in Science and Engineering Technology International Conferences (ASET)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "2020 Advances in Science and Engineering Technology International Conferences (ASET)",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 16,
-      "referenced_works": [
-        "https://openalex.org/W749291036",
-        "https://openalex.org/W1842826158",
-        "https://openalex.org/W1932136531",
-        "https://openalex.org/W1996725989",
-        "https://openalex.org/W2002549965",
-        "https://openalex.org/W2027566309",
-        "https://openalex.org/W2066741737",
-        "https://openalex.org/W2075822532",
-        "https://openalex.org/W2087169671",
-        "https://openalex.org/W2099562625",
-        "https://openalex.org/W2131650136",
-        "https://openalex.org/W2321729933",
-        "https://openalex.org/W2411802610",
-        "https://openalex.org/W2896332646",
-        "https://openalex.org/W2944848530",
-        "https://openalex.org/W7073887097"
-      ],
-      "related_works": [
-        "https://openalex.org/W2389331403",
-        "https://openalex.org/W2151980775",
-        "https://openalex.org/W1570615827",
-        "https://openalex.org/W2352456833",
-        "https://openalex.org/W2051063947",
-        "https://openalex.org/W2014007110",
-        "https://openalex.org/W2082512011",
-        "https://openalex.org/W2045645392",
-        "https://openalex.org/W2028590273",
-        "https://openalex.org/W2905825507"
-      ],
-      "abstract_inverted_index": {
-        "In": [
-          0
-        ],
-        "this": [
-          1
-        ],
-        "present": [
-          2
-        ],
-        "study,": [
-          3
-        ],
-        "we": [
-          4
-        ],
-        "are": [
-          5,
-          44
-        ],
-        "demonstrating": [
-          6
-        ],
-        "the": [
-          7,
-          27,
-          31,
-          48
-        ],
-        "application": [
-          8
-        ],
-        "of": [
-          9,
-          33,
-          50,
-          74
-        ],
-        "green": [
-          10
-        ],
-        "synthesized": [
-          11
-        ],
-        "Nanocarbon": [
-          12,
-          58
-        ],
-        "soot": [
-          13
-        ],
-        "which": [
-          14,
-          22
-        ],
-        "is": [
-          15
-        ],
-        "environmentally": [
-          16
-        ],
-        "benign,": [
-          17
-        ],
-        "and": [
-          18,
-          42,
-          67
-        ],
-        "low": [
-          19
-        ],
-        "cost": [
-          20
-        ],
-        "option": [
-          21
-        ],
-        "can": [
-          23
-        ],
-        "be": [
-          24
-        ],
-        "used": [
-          25
-        ],
-        "in": [
-          26,
-          76
-        ],
-        "crime": [
-          28
-        ],
-        "scene": [
-          29
-        ],
-        "for": [
-          30
-        ],
-        "development": [
-          32
-        ],
-        "latent": [
-          34
-        ],
-        "finger": [
-          35
-        ],
-        "print.": [
-          36
-        ],
-        "Different": [
-          37
-        ],
-        "surfaces": [
-          38,
-          69
-        ],
-        "like": [
-          39
-        ],
-        "paper,": [
-          40
-        ],
-        "plastic": [
-          41
-        ],
-        "metals": [
-          43
-        ],
-        "explored": [
-          45
-        ],
-        "to": [
-          46
-        ],
-        "evaluate": [
-          47
-        ],
-        "performance": [
-          49
-        ],
-        "nanocarbon": [
-          51
-        ],
-        "as": [
-          52
-        ],
-        "compared": [
-          53
-        ],
-        "with": [
-          54,
-          78
-        ],
-        "standard": [
-          55
-        ],
-        "carbon": [
-          56
-        ],
-        "powder.": [
-          57,
-          81
-        ],
-        "showed": [
-          59
-        ],
-        "an": [
-          60
-        ],
-        "improved": [
-          61
-        ],
-        "image": [
-          62
-        ],
-        "quality": [
-          63
-        ],
-        "on": [
-          64
-        ],
-        "both": [
-          65
-        ],
-        "porous": [
-          66
-        ],
-        "nonporous": [
-          68
-        ],
-        "by": [
-          70
-        ],
-        "revealing": [
-          71
-        ],
-        "more": [
-          72
-        ],
-        "number": [
-          73
-        ],
-        "minutiae": [
-          75
-        ],
-        "comparison": [
-          77
-        ],
-        "commercial": [
-          79
-        ],
-        "black": [
-          80
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37662,6 +36879,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -39097,6 +38315,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -39847,6 +39066,825 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W3036971384",
+      "doi": "https://doi.org/10.1109/aset48392.2020.9118193",
+      "title": "Camphoric based Nano carbon for the visual enhancement of latent fingerprints",
+      "display_name": "Camphoric based Nano carbon for the visual enhancement of latent fingerprints",
+      "publication_year": 2020,
+      "publication_date": "2020-02-01",
+      "ids": {
+        "openalex": "https://openalex.org/W3036971384",
+        "doi": "https://doi.org/10.1109/aset48392.2020.9118193",
+        "mag": "3036971384"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1109/aset48392.2020.9118193",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/aset48392.2020.9118193",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306498633",
+          "display_name": "2020 Advances in Science and Engineering Technology International Conferences (ASET)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2020 Advances in Science and Engineering Technology International Conferences (ASET)",
+        "raw_type": "proceedings-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5088436123",
+            "display_name": "Asha Anish Madhavan",
+            "orcid": "https://orcid.org/0000-0002-8073-9299"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210126505",
+              "display_name": "Amity University",
+              "ror": "https://ror.org/02exxtn84",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I191972202",
+                "https://openalex.org/I4210126505"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Asha Anish Madhavan",
+          "raw_affiliation_strings": [
+            "Engineering Department, Amity University, Dubai, UAE"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Engineering Department, Amity University, Dubai, UAE",
+              "institution_ids": [
+                "https://openalex.org/I4210126505"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5017000428",
+            "display_name": "Sharon Ann Philip",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210126505",
+              "display_name": "Amity University",
+              "ror": "https://ror.org/02exxtn84",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I191972202",
+                "https://openalex.org/I4210126505"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sharon Philip",
+          "raw_affiliation_strings": [
+            "Forensic Department, Amity University, Dubai, UAE"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Forensic Department, Amity University, Dubai, UAE",
+              "institution_ids": [
+                "https://openalex.org/I4210126505"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5015462907",
+            "display_name": "Michelle Ann",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210126505",
+              "display_name": "Amity University",
+              "ror": "https://ror.org/02exxtn84",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I191972202",
+                "https://openalex.org/I4210126505"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michelle Ann",
+          "raw_affiliation_strings": [
+            "Forensic Department, Amity University, Dubai, UAE"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Forensic Department, Amity University, Dubai, UAE",
+              "institution_ids": [
+                "https://openalex.org/I4210126505"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5018306569",
+            "display_name": "Mohammad Alsuwaidi",
+            "orcid": "https://orcid.org/0000-0002-2477-0654"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammad Alsuwaidi",
+          "raw_affiliation_strings": [
+            "Fingerprint Department, Dubai Police, Dubai, UAE"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Fingerprint Department, Dubai Police, Dubai, UAE",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.4903,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.73639375,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 93
+      },
+      "biblio": {
+        "volume": "45",
+        "issue": null,
+        "first_page": "1",
+        "last_page": "4"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13192",
+        "display_name": "Forensic Fingerprint Detection Methods",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13192",
+          "display_name": "Forensic Fingerprint Detection Methods",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3311",
+            "display_name": "Safety Research"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10828",
+          "display_name": "Biometric Identification and Security",
+          "score": 0.977400004863739,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1711",
+            "display_name": "Signal Processing"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/nano",
+          "display_name": "Nano-",
+          "score": 0.5869663953781128
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-fibers",
+          "display_name": "Carbon fibers",
+          "score": 0.586098849773407
+        },
+        {
+          "id": "https://openalex.org/keywords/minutiae",
+          "display_name": "Minutiae",
+          "score": 0.5665485858917236
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-black",
+          "display_name": "Carbon black",
+          "score": 0.529573917388916
+        },
+        {
+          "id": "https://openalex.org/keywords/materials-science",
+          "display_name": "Materials science",
+          "score": 0.5262826085090637
+        },
+        {
+          "id": "https://openalex.org/keywords/soot",
+          "display_name": "Soot",
+          "score": 0.4800459146499634
+        },
+        {
+          "id": "https://openalex.org/keywords/porosity",
+          "display_name": "Porosity",
+          "score": 0.44969022274017334
+        },
+        {
+          "id": "https://openalex.org/keywords/latent-image",
+          "display_name": "Latent image",
+          "score": 0.43611961603164673
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.4115681052207947
+        },
+        {
+          "id": "https://openalex.org/keywords/nanotechnology",
+          "display_name": "Nanotechnology",
+          "score": 0.39809471368789673
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.29116666316986084
+        },
+        {
+          "id": "https://openalex.org/keywords/image",
+          "display_name": "Image (mathematics)",
+          "score": 0.2561523914337158
+        },
+        {
+          "id": "https://openalex.org/keywords/composite-material",
+          "display_name": "Composite material",
+          "score": 0.20122885704040527
+        },
+        {
+          "id": "https://openalex.org/keywords/fingerprint",
+          "display_name": "Fingerprint (computing)",
+          "score": 0.16902992129325867
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.1105826199054718
+        },
+        {
+          "id": "https://openalex.org/keywords/combustion",
+          "display_name": "Combustion",
+          "score": 0.104699045419693
+        },
+        {
+          "id": "https://openalex.org/keywords/fingerprint-recognition",
+          "display_name": "Fingerprint recognition",
+          "score": 0.08526760339736938
+        },
+        {
+          "id": "https://openalex.org/keywords/composite-number",
+          "display_name": "Composite number",
+          "score": 0.08068457245826721
+        },
+        {
+          "id": "https://openalex.org/keywords/organic-chemistry",
+          "display_name": "Organic chemistry",
+          "score": 0.07818719744682312
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2780357685",
+          "wikidata": "https://www.wikidata.org/wiki/Q154357",
+          "display_name": "Nano-",
+          "level": 2,
+          "score": 0.5869663953781128
+        },
+        {
+          "id": "https://openalex.org/C140205800",
+          "wikidata": "https://www.wikidata.org/wiki/Q5860",
+          "display_name": "Carbon fibers",
+          "level": 3,
+          "score": 0.586098849773407
+        },
+        {
+          "id": "https://openalex.org/C67174900",
+          "wikidata": "https://www.wikidata.org/wiki/Q178022",
+          "display_name": "Minutiae",
+          "level": 4,
+          "score": 0.5665485858917236
+        },
+        {
+          "id": "https://openalex.org/C44038986",
+          "wikidata": "https://www.wikidata.org/wiki/Q764245",
+          "display_name": "Carbon black",
+          "level": 3,
+          "score": 0.529573917388916
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.5262826085090637
+        },
+        {
+          "id": "https://openalex.org/C2775925408",
+          "wikidata": "https://www.wikidata.org/wiki/Q13174856",
+          "display_name": "Soot",
+          "level": 3,
+          "score": 0.4800459146499634
+        },
+        {
+          "id": "https://openalex.org/C6648577",
+          "wikidata": "https://www.wikidata.org/wiki/Q622669",
+          "display_name": "Porosity",
+          "level": 2,
+          "score": 0.44969022274017334
+        },
+        {
+          "id": "https://openalex.org/C205372313",
+          "wikidata": "https://www.wikidata.org/wiki/Q355645",
+          "display_name": "Latent image",
+          "level": 3,
+          "score": 0.43611961603164673
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.4115681052207947
+        },
+        {
+          "id": "https://openalex.org/C171250308",
+          "wikidata": "https://www.wikidata.org/wiki/Q11468",
+          "display_name": "Nanotechnology",
+          "level": 1,
+          "score": 0.39809471368789673
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.29116666316986084
+        },
+        {
+          "id": "https://openalex.org/C115961682",
+          "wikidata": "https://www.wikidata.org/wiki/Q860623",
+          "display_name": "Image (mathematics)",
+          "level": 2,
+          "score": 0.2561523914337158
+        },
+        {
+          "id": "https://openalex.org/C159985019",
+          "wikidata": "https://www.wikidata.org/wiki/Q181790",
+          "display_name": "Composite material",
+          "level": 1,
+          "score": 0.20122885704040527
+        },
+        {
+          "id": "https://openalex.org/C2777826928",
+          "wikidata": "https://www.wikidata.org/wiki/Q3745713",
+          "display_name": "Fingerprint (computing)",
+          "level": 2,
+          "score": 0.16902992129325867
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.1105826199054718
+        },
+        {
+          "id": "https://openalex.org/C105923489",
+          "wikidata": "https://www.wikidata.org/wiki/Q133235",
+          "display_name": "Combustion",
+          "level": 2,
+          "score": 0.104699045419693
+        },
+        {
+          "id": "https://openalex.org/C168406668",
+          "wikidata": "https://www.wikidata.org/wiki/Q178022",
+          "display_name": "Fingerprint recognition",
+          "level": 3,
+          "score": 0.08526760339736938
+        },
+        {
+          "id": "https://openalex.org/C104779481",
+          "wikidata": "https://www.wikidata.org/wiki/Q50707",
+          "display_name": "Composite number",
+          "level": 2,
+          "score": 0.08068457245826721
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0.07818719744682312
+        },
+        {
+          "id": "https://openalex.org/C176933379",
+          "wikidata": "https://www.wikidata.org/wiki/Q131877",
+          "display_name": "Natural rubber",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1109/aset48392.2020.9118193",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1109/aset48392.2020.9118193",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306498633",
+            "display_name": "2020 Advances in Science and Engineering Technology International Conferences (ASET)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "2020 Advances in Science and Engineering Technology International Conferences (ASET)",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
+          "score": 0.44999998807907104
+        }
+      ],
+      "x_sdgs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 16,
+      "referenced_works": [
+        "https://openalex.org/W749291036",
+        "https://openalex.org/W1842826158",
+        "https://openalex.org/W1932136531",
+        "https://openalex.org/W1996725989",
+        "https://openalex.org/W2002549965",
+        "https://openalex.org/W2027566309",
+        "https://openalex.org/W2066741737",
+        "https://openalex.org/W2075822532",
+        "https://openalex.org/W2087169671",
+        "https://openalex.org/W2099562625",
+        "https://openalex.org/W2131650136",
+        "https://openalex.org/W2321729933",
+        "https://openalex.org/W2411802610",
+        "https://openalex.org/W2896332646",
+        "https://openalex.org/W2944848530",
+        "https://openalex.org/W7073887097"
+      ],
+      "related_works": [
+        "https://openalex.org/W2389331403",
+        "https://openalex.org/W2151980775",
+        "https://openalex.org/W1570615827",
+        "https://openalex.org/W2352456833",
+        "https://openalex.org/W2051063947",
+        "https://openalex.org/W2014007110",
+        "https://openalex.org/W2082512011",
+        "https://openalex.org/W2045645392",
+        "https://openalex.org/W2028590273",
+        "https://openalex.org/W2905825507"
+      ],
+      "abstract_inverted_index": {
+        "In": [
+          0
+        ],
+        "this": [
+          1
+        ],
+        "present": [
+          2
+        ],
+        "study,": [
+          3
+        ],
+        "we": [
+          4
+        ],
+        "are": [
+          5,
+          44
+        ],
+        "demonstrating": [
+          6
+        ],
+        "the": [
+          7,
+          27,
+          31,
+          48
+        ],
+        "application": [
+          8
+        ],
+        "of": [
+          9,
+          33,
+          50,
+          74
+        ],
+        "green": [
+          10
+        ],
+        "synthesized": [
+          11
+        ],
+        "Nanocarbon": [
+          12,
+          58
+        ],
+        "soot": [
+          13
+        ],
+        "which": [
+          14,
+          22
+        ],
+        "is": [
+          15
+        ],
+        "environmentally": [
+          16
+        ],
+        "benign,": [
+          17
+        ],
+        "and": [
+          18,
+          42,
+          67
+        ],
+        "low": [
+          19
+        ],
+        "cost": [
+          20
+        ],
+        "option": [
+          21
+        ],
+        "can": [
+          23
+        ],
+        "be": [
+          24
+        ],
+        "used": [
+          25
+        ],
+        "in": [
+          26,
+          76
+        ],
+        "crime": [
+          28
+        ],
+        "scene": [
+          29
+        ],
+        "for": [
+          30
+        ],
+        "development": [
+          32
+        ],
+        "latent": [
+          34
+        ],
+        "finger": [
+          35
+        ],
+        "print.": [
+          36
+        ],
+        "Different": [
+          37
+        ],
+        "surfaces": [
+          38,
+          69
+        ],
+        "like": [
+          39
+        ],
+        "paper,": [
+          40
+        ],
+        "plastic": [
+          41
+        ],
+        "metals": [
+          43
+        ],
+        "explored": [
+          45
+        ],
+        "to": [
+          46
+        ],
+        "evaluate": [
+          47
+        ],
+        "performance": [
+          49
+        ],
+        "nanocarbon": [
+          51
+        ],
+        "as": [
+          52
+        ],
+        "compared": [
+          53
+        ],
+        "with": [
+          54,
+          78
+        ],
+        "standard": [
+          55
+        ],
+        "carbon": [
+          56
+        ],
+        "powder.": [
+          57,
+          81
+        ],
+        "showed": [
+          59
+        ],
+        "an": [
+          60
+        ],
+        "improved": [
+          61
+        ],
+        "image": [
+          62
+        ],
+        "quality": [
+          63
+        ],
+        "on": [
+          64
+        ],
+        "both": [
+          65
+        ],
+        "porous": [
+          66
+        ],
+        "nonporous": [
+          68
+        ],
+        "by": [
+          70
+        ],
+        "revealing": [
+          71
+        ],
+        "more": [
+          72
+        ],
+        "number": [
+          73
+        ],
+        "minutiae": [
+          75
+        ],
+        "comparison": [
+          77
+        ],
+        "commercial": [
+          79
+        ],
+        "black": [
+          80
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-22T06:50:58.402377",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2319324401",
       "doi": "https://doi.org/10.1190/ice2016-6351610.1",
       "title": "Oxygen stable isotopes help explain distinctive pore architecture in a tight carbonate reservoir rock",
@@ -39989,7 +40027,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "John Humphrey",
+            "display_name": "JOHN D. HUMPHREY",
             "orcid": "https://orcid.org/0000-0002-8927-2322"
           },
           "institutions": [
@@ -40104,7 +40142,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5057027693",
-            "display_name": "S. Morad",
+            "display_name": "Sadoon Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
           "institutions": [
@@ -40469,11 +40507,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.46000000834465027
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -41214,7 +41253,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41622,11 +41661,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -42280,7 +42320,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5110758005",
-            "display_name": "Fadhil A. Lawa",
+            "display_name": "Fadhil Ahmed Ameen Lawa",
             "orcid": "https://orcid.org/0000-0003-4856-6719"
           },
           "institutions": [],
@@ -42310,7 +42350,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5057027693",
-            "display_name": "S. Morad",
+            "display_name": "Sadoon Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
           "institutions": [],
@@ -42578,11 +42618,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6700000166893005,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.6700000166893005
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -42760,7 +42801,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -42834,7 +42875,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5110758005",
-            "display_name": "Fadhil A. Lawa",
+            "display_name": "Fadhil Ahmed Ameen Lawa",
             "orcid": "https://orcid.org/0000-0003-4856-6719"
           },
           "institutions": [],
@@ -42864,7 +42905,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5057027693",
-            "display_name": "S. Morad",
+            "display_name": "Sadoon Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
           "institutions": [],
@@ -43132,11 +43173,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6700000166893005,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.6700000166893005
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -43314,7 +43356,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -43342,6 +43384,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -43445,7 +43488,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027303936",
-            "display_name": "Ali I. Al‐Juboury",
+            "display_name": "Ali Ismail Al-Juboury",
             "orcid": "https://orcid.org/0000-0003-2516-782X"
           },
           "institutions": [],
@@ -43467,7 +43510,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5010386396",
-            "display_name": "Namam Salih",
+            "display_name": "Namam Muhammed Salih",
             "orcid": "https://orcid.org/0000-0002-5691-5205"
           },
           "institutions": [
@@ -43949,6 +43992,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -43977,6 +44021,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -43993,11 +44038,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -44095,7 +44141,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-18T07:49:30.821534",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -44123,6 +44169,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -44263,7 +44310,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5057027693",
-            "display_name": "S. Morad",
+            "display_name": "Sadoon Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
           "institutions": [
@@ -44707,6 +44754,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -44735,6 +44783,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -44751,11 +44800,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.44999998807907104
         }
       ],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G1014726591",
@@ -45204,7 +45254,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-07T09:17:50.787605",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -45322,7 +45372,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5057027693",
-            "display_name": "S. Morad",
+            "display_name": "Sadoon Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
           "institutions": [
@@ -45724,11 +45774,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -46543,7 +46594,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-14T23:27:15.235271",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -47063,11 +47114,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -48300,6 +48352,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -49581,7 +49634,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5057027693",
-            "display_name": "S. Morad",
+            "display_name": "Sadoon Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
           "institutions": [
@@ -49635,7 +49688,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.17719479,
+        "value": 0.17645135,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -50016,6 +50069,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -50130,7 +50184,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -50174,7 +50228,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5024513089",
-            "display_name": "Sruthi P. Sreenivasan",
+            "display_name": "Sruthi Padampath Sreenivasan",
             "orcid": "https://orcid.org/0000-0003-0999-2846"
           },
           "institutions": [],
@@ -50257,7 +50311,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.42613636,
+        "value": 0.38806388,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -50460,6 +50514,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -50472,7 +50527,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-24T00:00:00"
     },
     {
@@ -50877,6 +50932,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -51226,7 +51282,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5057027693",
-            "display_name": "S. Morad",
+            "display_name": "Sadoon Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
           "institutions": [
@@ -51664,11 +51720,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8764263391494751,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8764263391494751
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -52313,7 +52370,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-14T23:27:15.235271",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2026-03-15T00:00:00"
     }
   ]

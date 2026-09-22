@@ -5,7 +5,7 @@
     "observed_orcids": [
       "https://orcid.org/0000-0001-8551-3240"
     ],
-    "display_name": "Abdullah Memesh",
+    "display_name": "Abdullah M. Memesh",
     "raw_author_names": [
       "A. MEMESH",
       "A.M.S. Memesh",
@@ -87,7 +87,6 @@
           "country_code": "FR",
           "type": "facility",
           "lineage": [
-            "https://openalex.org/I1294671590",
             "https://openalex.org/I1294671590",
             "https://openalex.org/I39804081",
             "https://openalex.org/I4210097099",
@@ -510,7 +509,7 @@
     ],
     "block_key": "a memesh",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044930714",
-    "updated_date": "2026-09-19T12:19:47",
+    "updated_date": "2026-09-22T04:05:08",
     "created_date": "2018-04-24T00:00:00"
   },
   "works": [
@@ -808,7 +807,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5062177152",
-            "display_name": "Simon J. Armitage",
+            "display_name": "Simon James Armitage",
             "orcid": "https://orcid.org/0000-0003-1480-9188"
           },
           "institutions": [
@@ -1070,7 +1069,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5043088893",
-            "display_name": "Laura T. Buck",
+            "display_name": "Laura Tabitha Buck",
             "orcid": "https://orcid.org/0000-0002-1768-9049"
           },
           "institutions": [
@@ -1375,7 +1374,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5008698053",
-            "display_name": "Gilbert J. Price",
+            "display_name": "Gilbert James Price",
             "orcid": "https://orcid.org/0000-0001-8406-4594"
           },
           "institutions": [
@@ -1412,7 +1411,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5050153608",
-            "display_name": "Leslie Kinsley",
+            "display_name": "Leslie P. J. Kinsley",
             "orcid": null
           },
           "institutions": [
@@ -1582,7 +1581,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [
@@ -1930,11 +1929,11 @@
         "value_usd": 12690
       },
       "apc_paid": null,
-      "fwci": 114.164,
+      "fwci": 113.5128,
       "has_fulltext": true,
       "cited_by_count": 190,
       "citation_normalized_percentile": {
-        "value": 0.99954417,
+        "value": 0.99954443,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2833,11 +2832,12 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G2553481603",
@@ -2845,6 +2845,20 @@
           "funder_award_id": "262618",
           "funder_id": "https://openalex.org/F4320323299",
           "funder_display_name": "Norges Forskningsråd"
+        },
+        {
+          "id": "https://openalex.org/G7350375456",
+          "display_name": "Climate Change and Hominin Evolution in the Arabian Desert: Life and Death at the Cross-roads of the Old World",
+          "funder_award_id": "295719",
+          "funder_id": "https://openalex.org/F4320338352",
+          "funder_display_name": "FP7 Ideas: European Research Council"
+        },
+        {
+          "id": "https://openalex.org/G8171447520",
+          "display_name": "Adaptation, Dispersals and Phenotype: understanding the roles of climate,  natural selection and energetics in shaping global hunter-gatherer adaptability.",
+          "funder_award_id": "617627",
+          "funder_id": "https://openalex.org/F4320338352",
+          "funder_display_name": "FP7 Ideas: European Research Council"
         },
         {
           "id": "https://openalex.org/G970620420",
@@ -2889,11 +2903,16 @@
           "id": "https://openalex.org/F4320335935",
           "display_name": "Royal Holloway, University of London",
           "ror": "https://ror.org/04g2vpn86"
+        },
+        {
+          "id": "https://openalex.org/F4320338352",
+          "display_name": "FP7 Ideas: European Research Council",
+          "ror": "https://ror.org/0472cxd90"
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2797614480.pdf",
@@ -3054,7 +3073,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T17:25:34.749102",
       "created_date": "2018-04-24T00:00:00"
     },
     {
@@ -3125,7 +3144,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5026745332",
-            "display_name": "Christopher Stimpson",
+            "display_name": "Christopher M. Stimpson",
             "orcid": "https://orcid.org/0000-0003-4327-4987"
           },
           "institutions": [
@@ -3787,7 +3806,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [],
@@ -3870,11 +3889,11 @@
         "value_usd": 3920
       },
       "apc_paid": null,
-      "fwci": 26.8512,
+      "fwci": 26.8551,
       "has_fulltext": true,
       "cited_by_count": 47,
       "citation_normalized_percentile": {
-        "value": 0.99247111,
+        "value": 0.9924949,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4417,11 +4436,12 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6200000047683716,
           "display_name": "Life below water",
-          "score": 0.6200000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G2710629218",
@@ -4444,8 +4464,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2399942965.pdf",
@@ -4646,7 +4666,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4785,7 +4805,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [],
@@ -4870,11 +4890,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.0593,
+      "fwci": 3.0624,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.88338454,
+        "value": 0.88346537,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5238,16 +5258,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -5948,7 +5969,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-22T07:34:49.880490",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6094,7 +6115,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [],
@@ -6109,7 +6130,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5042844492",
-            "display_name": "Roger B. Davies",
+            "display_name": "Roger Brett Davies",
             "orcid": null
           },
           "institutions": [],
@@ -6128,11 +6149,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.9356,
+      "fwci": 3.9323,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.92114849,
+        "value": 0.92110337,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6584,11 +6605,12 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -7490,7 +7512,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-02T18:50:13.731487",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7770,7 +7792,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5062177152",
-            "display_name": "Simon J. Armitage",
+            "display_name": "Simon James Armitage",
             "orcid": "https://orcid.org/0000-0003-1480-9188"
           },
           "institutions": [
@@ -7845,7 +7867,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [
@@ -8139,11 +8161,11 @@
         "value_usd": 2750
       },
       "apc_paid": null,
-      "fwci": 1.9604,
+      "fwci": 1.9606,
       "has_fulltext": true,
       "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.84331444,
+        "value": 0.84333764,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8728,6 +8750,7 @@
         "raw_type": "info:eu-repo/semantics/article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G3292515912",
@@ -8745,8 +8768,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -8852,7 +8875,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8917,7 +8940,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5111895639",
-            "display_name": "Jean Philip",
+            "display_name": "Jean M. Philip",
             "orcid": null
           },
           "institutions": [],
@@ -9094,7 +9117,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [
@@ -9142,11 +9165,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4389,
+      "fwci": 1.4397,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.85348447,
+        "value": 0.85356643,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9536,16 +9559,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5199999809265137,
           "display_name": "Life below water",
-          "score": 0.5199999809265137
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -10064,7 +10088,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-18T07:49:30.821534",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10330,7 +10354,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [
@@ -10470,11 +10494,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2602,
+      "fwci": 1.2604,
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.85338394,
+        "value": 0.85338908,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10661,11 +10685,12 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5400000214576721,
           "display_name": "Life below water",
-          "score": 0.5400000214576721
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -10675,8 +10700,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4254410303.pdf",
@@ -11232,7 +11257,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-06T09:10:53.072986",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11341,7 +11366,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [],
@@ -11401,7 +11426,7 @@
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.65748462,
+        "value": 0.65748566,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11683,11 +11708,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -11767,7 +11793,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11839,7 +11865,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5053303871",
-            "display_name": "Bridget S. Wade",
+            "display_name": "Bridget Susan Wade",
             "orcid": "https://orcid.org/0000-0002-7245-8614"
           },
           "institutions": [
@@ -11951,7 +11977,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [
@@ -12093,11 +12119,11 @@
         "currency": "EUR",
         "value_usd": 841
       },
-      "fwci": 0.0936,
+      "fwci": 0.0937,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.39386013,
+        "value": 0.39425521,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12502,11 +12528,12 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.800000011920929,
           "display_name": "Life below water",
-          "score": 0.800000011920929
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G4281737871",
@@ -12543,8 +12570,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3203435426.pdf",
@@ -13042,7 +13069,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-05T08:02:43.246662",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13185,7 +13212,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [
@@ -13349,11 +13376,11 @@
         "currency": "USD",
         "value_usd": 4940
       },
-      "fwci": 1.3475,
+      "fwci": 1.3431,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.78270312,
+        "value": 0.78186462,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13677,6 +13704,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G3662876810",
@@ -13716,8 +13744,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -14494,7 +14522,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-04T10:56:28.161419",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14655,7 +14683,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [
@@ -14735,11 +14763,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7978,
+      "fwci": 1.798,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.82476572,
+        "value": 0.82460209,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15114,16 +15142,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -16185,7 +16214,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16347,7 +16376,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [],
@@ -16441,11 +16470,11 @@
         "value_usd": 3330
       },
       "apc_paid": null,
-      "fwci": 0.9798,
+      "fwci": 0.9775,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.79419749,
+        "value": 0.79395138,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16702,11 +16731,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -16716,8 +16746,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -16797,7 +16827,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16826,6 +16856,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/P4310316082",
           "host_organization_name": "American Association of Petroleum Geologists",
           "host_organization_lineage": [
@@ -16933,7 +16964,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5012935449",
-            "display_name": "Nigel Hooker",
+            "display_name": "Nigel P. Hooker",
             "orcid": null
           },
           "institutions": [
@@ -17033,7 +17064,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [
@@ -17113,16 +17144,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.737,
+      "fwci": 2.7768,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.91358399,
+        "value": 0.91436051,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 97
       },
       "biblio": {
@@ -17356,6 +17387,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/P4310316082",
             "host_organization_name": "American Association of Petroleum Geologists",
             "host_organization_lineage": [
@@ -17378,16 +17410,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -17966,7 +17999,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-08T06:17:01.165560",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2019-12-13T00:00:00"
     },
     {
@@ -18294,7 +18327,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [
@@ -18423,11 +18456,11 @@
         "currency": "CHF",
         "value_usd": 1944
       },
-      "fwci": 2.1387,
+      "fwci": 2.139,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.85168109,
+        "value": 0.85171753,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18817,11 +18850,12 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -18831,8 +18865,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3146973300.pdf",
@@ -19405,7 +19439,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19511,7 +19545,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [
@@ -19630,11 +19664,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5301,
+      "fwci": 1.5116,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.84150613,
+        "value": 0.84003497,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19962,16 +19996,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6899999976158142,
           "display_name": "Life below water",
-          "score": 0.6899999976158142
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -20033,7 +20068,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-04T08:18:43.703281",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20096,7 +20131,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [],
@@ -20353,11 +20388,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20679,7 +20715,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20805,7 +20841,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5042844492",
-            "display_name": "Roger B. Davies",
+            "display_name": "Roger Brett Davies",
             "orcid": null
           },
           "institutions": [
@@ -21107,7 +21143,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [
@@ -21185,11 +21221,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4762,
+      "fwci": 1.4746,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.82596818,
+        "value": 0.82587038,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21697,6 +21733,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -21706,8 +21743,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385358246.pdf",
@@ -22379,7 +22416,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22484,7 +22521,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5060256566",
-            "display_name": "S. Allam",
+            "display_name": "Sherif Allam",
             "orcid": "https://orcid.org/0009-0004-4049-9237"
           },
           "institutions": [
@@ -22521,7 +22558,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "John Humphrey",
+            "display_name": "JOHN D. HUMPHREY",
             "orcid": "https://orcid.org/0000-0002-8927-2322"
           },
           "institutions": [
@@ -22558,7 +22595,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -22632,7 +22669,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5030338408",
-            "display_name": "Mohammad Najjar",
+            "display_name": "Mohammad A. Najjar",
             "orcid": "https://orcid.org/0000-0001-5827-8345"
           },
           "institutions": [
@@ -22743,7 +22780,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [
@@ -22829,11 +22866,11 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 1.6668,
+      "fwci": 1.6553,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.81370414,
+        "value": 0.81315613,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23064,6 +23101,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G6694089279",
@@ -23086,8 +23124,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -23189,7 +23227,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23448,7 +23486,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5032509318",
-            "display_name": "Mahmoud Al-Shanti",
+            "display_name": "Mahmoud A. Al-Shanti",
             "orcid": "https://orcid.org/0009-0000-5626-4425"
           },
           "institutions": [
@@ -23590,7 +23628,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5053711058",
-            "display_name": "Nicole Boivin",
+            "display_name": "Nicole L. Boivin",
             "orcid": "https://orcid.org/0000-0002-7783-4199"
           },
           "institutions": [
@@ -23751,7 +23789,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [
@@ -23838,7 +23876,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5008698053",
-            "display_name": "Gilbert J. Price",
+            "display_name": "Gilbert James Price",
             "orcid": "https://orcid.org/0000-0001-8406-4594"
           },
           "institutions": [
@@ -24259,11 +24297,11 @@
         "currency": "USD",
         "value_usd": 2382
       },
-      "fwci": 5.5502,
+      "fwci": 5.5369,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.95914171,
+        "value": 0.9590058,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -25111,6 +25149,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G6805317064",
@@ -25138,8 +25177,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4416430946.pdf",
@@ -25619,7 +25658,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-11-20T00:00:00"
     },
     {
@@ -25648,6 +25687,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -25751,7 +25791,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [
@@ -25831,11 +25871,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.4077,
+      "fwci": 3.3693,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.92221085,
+        "value": 0.92132505,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -26164,6 +26204,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -26191,6 +26232,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1294671590",
             "host_organization_name": "Centre National de la Recherche Scientifique",
             "host_organization_lineage": [
@@ -26210,11 +26252,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -26535,7 +26578,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-26T07:47:46.906454",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -26676,7 +26719,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [
@@ -26750,7 +26793,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5020462389",
-            "display_name": "Abdelbaset S. El‐Sorogy",
+            "display_name": "Abdelbaset Sabry El-Sorogy",
             "orcid": "https://orcid.org/0000-0003-0283-1433"
           },
           "institutions": [
@@ -26851,11 +26894,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2039,
+      "fwci": 0.2038,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.4959361,
+        "value": 0.49699259,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27146,16 +27189,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -27771,7 +27815,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27895,7 +27939,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5060256566",
-            "display_name": "S. Allam",
+            "display_name": "Sherif Allam",
             "orcid": "https://orcid.org/0009-0004-4049-9237"
           },
           "institutions": [
@@ -28024,7 +28068,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [
@@ -28180,7 +28224,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.01923077,
+        "value": 0.01818182,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28505,6 +28549,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -28524,8 +28569,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415609376.pdf",
@@ -29066,7 +29111,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-28T00:00:00"
     },
     {
@@ -29134,7 +29179,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5060256566",
-            "display_name": "S. Allam",
+            "display_name": "Sherif Allam",
             "orcid": "https://orcid.org/0009-0004-4049-9237"
           },
           "institutions": [
@@ -29245,7 +29290,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5082826691",
-            "display_name": "John Humphrey",
+            "display_name": "JOHN D. HUMPHREY",
             "orcid": "https://orcid.org/0000-0002-8927-2322"
           },
           "institutions": [
@@ -29356,7 +29401,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [
@@ -29475,7 +29520,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.10046351,
+        "value": 0.10001117,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29791,11 +29836,12 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415698517.pdf",
@@ -30263,7 +30309,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-22T07:34:49.880490",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-30T00:00:00"
     },
     {
@@ -30344,7 +30390,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5030338408",
-            "display_name": "Mohammad Najjar",
+            "display_name": "Mohammad A. Najjar",
             "orcid": "https://orcid.org/0000-0001-5827-8345"
           },
           "institutions": [],
@@ -30404,7 +30450,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
+            "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
           "institutions": [],
@@ -30662,11 +30708,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30674,7 +30721,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-12-11T00:00:00"
     }
   ]

@@ -11,7 +11,7 @@
     ],
     "full_name": "Rabah Alouani",
     "works_count": 19,
-    "cited_by_count": 207,
+    "cited_by_count": 208,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 7,
@@ -330,7 +330,7 @@
         "year": 2008,
         "works_count": 3,
         "oa_works_count": 2,
-        "cited_by_count": 66
+        "cited_by_count": 67
       },
       {
         "year": 2010,
@@ -382,7 +382,7 @@
     ],
     "block_key": "r alouani",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051221143",
-    "updated_date": "2026-09-19T12:19:47",
+    "updated_date": "2026-09-21T12:20:07",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1018,10 +1018,11 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -1351,7 +1352,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5111646354",
-            "display_name": "H. Ben Rhaïem",
+            "display_name": "Hafsia Ben Rhaiem",
             "orcid": null
           },
           "institutions": [],
@@ -1387,11 +1388,11 @@
         "currency": "USD",
         "value_usd": 1630
       },
-      "fwci": 1.1133,
+      "fwci": 1.1132,
       "has_fulltext": true,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.79415148,
+        "value": 0.79410745,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1872,6 +1873,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -2296,7 +2298,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2910,10 +2912,11 @@
       "sustainable_development_goals": [
         {
           "score": 0.5600000023841858,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -3992,10 +3995,11 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -4350,7 +4354,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5052382945",
-            "display_name": "V. Perthuisot",
+            "display_name": "Vincent Perthuisot",
             "orcid": null
           },
           "institutions": [
@@ -4413,11 +4417,11 @@
         "value_usd": 1490
       },
       "apc_paid": null,
-      "fwci": 0.7905,
+      "fwci": 0.7897,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.69490518,
+        "value": 0.6947113,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4708,6 +4712,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -5320,7 +5325,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-12T09:15:50.089291",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5736,10 +5741,11 @@
       "sustainable_development_goals": [
         {
           "score": 0.47999998927116394,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -6762,7 +6768,7 @@
           "author": {
             "id": "https://openalex.org/A5028508336",
             "display_name": "Wiem Ben Aïssa",
-            "orcid": "https://orcid.org/0000-0001-7605-5233"
+            "orcid": null
           },
           "institutions": [
             {
@@ -6977,11 +6983,11 @@
         "value_usd": 3890
       },
       "apc_paid": null,
-      "fwci": 0.3712,
+      "fwci": 0.3704,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.56914833,
+        "value": 0.56902228,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7331,6 +7337,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -7413,7 +7420,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T17:25:34.749102",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7831,10 +7838,11 @@
       "sustainable_development_goals": [
         {
           "score": 0.5799999833106995,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -8965,10 +8973,11 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -9353,10 +9362,11 @@
       "sustainable_development_goals": [
         {
           "score": 0.4000000059604645,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -9949,6 +9959,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -10750,10 +10761,11 @@
       "sustainable_development_goals": [
         {
           "score": 0.5699999928474426,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -11608,6 +11620,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -12187,10 +12200,11 @@
       "sustainable_development_goals": [
         {
           "score": 0.8100000023841858,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -12600,10 +12614,11 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -13366,6 +13381,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -14317,6 +14333,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -14971,10 +14988,11 @@
       "sustainable_development_goals": [
         {
           "score": 0.6600000262260437,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -15153,7 +15171,7 @@
           "author": {
             "id": "https://openalex.org/A5028508336",
             "display_name": "Wiem Ben Aïssa",
-            "orcid": "https://orcid.org/0000-0001-7605-5233"
+            "orcid": null
           },
           "institutions": [
             {
@@ -15702,6 +15720,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -15720,7 +15739,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T17:25:34.749102",
       "created_date": "2025-10-30T00:00:00"
     }
   ]

@@ -289,7 +289,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000562,
+        "value": 0.0000561,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -1103,11 +1103,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7300000190734863,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7300000190734863
         }
       ],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G4281104375",
@@ -1125,8 +1126,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 107,
@@ -1454,7 +1455,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -1639,7 +1640,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -1695,11 +1696,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 4.7145,
+      "fwci": 4.703,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.96733707,
+        "value": 0.96707829,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2004,16 +2005,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -2125,7 +2127,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-09-16T18:09:00.828671",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2814,11 +2816,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -2833,8 +2836,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4306251871.pdf",
@@ -3774,7 +3777,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -3885,7 +3888,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -3934,11 +3937,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 4.1101,
+      "fwci": 4.1001,
       "has_fulltext": false,
       "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.95807026,
+        "value": 0.95781031,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4329,11 +4332,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5699999928474426
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -4343,8 +4347,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
@@ -4481,7 +4485,7 @@
           "cited_by_count": 14
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4661,7 +4665,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -4735,7 +4739,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -4791,11 +4795,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 3.3117,
+      "fwci": 3.3005,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.93496646,
+        "value": 0.93454492,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5016,16 +5020,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 125,
@@ -5183,7 +5188,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5363,7 +5368,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -5437,7 +5442,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -5708,11 +5713,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 3.471,
+      "fwci": 3.4708,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.94013866,
+        "value": 0.94014485,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6097,6 +6102,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -6106,8 +6112,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 95,
@@ -6243,7 +6249,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6968,16 +6974,17 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6100000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6100000143051147
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -7251,7 +7258,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -7304,11 +7311,11 @@
         "currency": "CHF",
         "value_usd": 2094
       },
-      "fwci": 3.008,
+      "fwci": 3.0081,
       "has_fulltext": true,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.91972578,
+        "value": 0.91976203,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7797,11 +7804,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -7811,8 +7819,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4225129549.pdf",
@@ -8584,7 +8592,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-09-05T08:02:43.246662",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8845,7 +8853,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -8882,7 +8890,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -8938,11 +8946,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 5.0743,
+      "fwci": 5.0685,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.97221033,
+        "value": 0.97205221,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9152,11 +9160,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -9292,7 +9301,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-17T07:59:56.861425",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9398,7 +9407,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -9516,7 +9525,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -9566,11 +9575,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 2.4295,
+      "fwci": 2.4296,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.89025999,
+        "value": 0.89027419,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9906,16 +9915,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -10024,7 +10034,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-09-13T09:14:26.050021",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10204,7 +10214,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -10292,7 +10302,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -10341,11 +10351,11 @@
         "value_usd": 3430
       },
       "apc_paid": null,
-      "fwci": 2.9012,
+      "fwci": 2.8942,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.91736253,
+        "value": 0.91702101,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10662,16 +10672,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 95,
@@ -10799,7 +10810,7 @@
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11137,7 +11148,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -11181,7 +11192,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -11329,7 +11340,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5109617590",
-            "display_name": "M.B. Abubakar",
+            "display_name": "Muhammad Bello Abubakar",
             "orcid": "https://orcid.org/0000-0002-7794-4435"
           },
           "institutions": [
@@ -11452,11 +11463,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 4.6926,
+      "fwci": 4.6867,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.96043065,
+        "value": 0.9599944,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11739,16 +11750,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 116,
@@ -11901,7 +11913,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12193,7 +12205,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -12250,7 +12262,7 @@
       "has_fulltext": true,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.83492433,
+        "value": 0.83491981,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12683,11 +12695,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.800000011920929
         }
       ],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G4281104375",
@@ -12710,8 +12723,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4292081009.pdf",
@@ -13365,7 +13378,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-09T07:26:56.047234",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13508,7 +13521,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -13545,7 +13558,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -14075,11 +14088,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 6.3932,
+      "fwci": 6.3795,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.98122845,
+        "value": 0.98122605,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14314,11 +14327,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8199999928474426
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -14328,8 +14342,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 130,
@@ -14492,7 +14506,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14680,7 +14694,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -14791,7 +14805,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -14848,11 +14862,11 @@
         "value_usd": 2760
       },
       "apc_paid": null,
-      "fwci": 2.6493,
+      "fwci": 2.6404,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.90220667,
+        "value": 0.9017445,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15050,16 +15064,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -15164,7 +15179,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-04T10:56:28.161419",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15269,7 +15284,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5049649985",
-            "display_name": "Mohamed Mahmoud",
+            "display_name": "MOHAMED A. MAHMOUD",
             "orcid": "https://orcid.org/0000-0002-4395-9567"
           },
           "institutions": [
@@ -15306,7 +15321,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5024608621",
-            "display_name": "Dhafer Al Shehri",
+            "display_name": "Dhafer Abdullah Al Shehri",
             "orcid": "https://orcid.org/0000-0002-7032-5199"
           },
           "institutions": [
@@ -15397,11 +15412,11 @@
         "currency": "USD",
         "value_usd": 3530
       },
-      "fwci": 1.6221,
+      "fwci": 1.6183,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.81400835,
+        "value": 0.81358957,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15724,6 +15739,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -15733,8 +15749,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -16621,7 +16637,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16764,7 +16780,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -16838,7 +16854,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -17350,11 +17366,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 2.7709,
+      "fwci": 2.7683,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.90398698,
+        "value": 0.90385137,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17586,6 +17602,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -17595,8 +17612,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 150,
@@ -17779,7 +17796,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2024-11-28T00:00:00"
     },
     {
@@ -17923,7 +17940,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -17965,6 +17982,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4405254986",
+              "display_name": "North-Eastern University, Gombe",
+              "ror": "https://ror.org/02fqgjy67",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4405254986"
+              ]
+            },
+            {
               "id": "https://openalex.org/I876237426",
               "display_name": "Gombe State University",
               "ror": "https://ror.org/04fbh1w34",
@@ -17988,6 +18015,7 @@
             {
               "raw_affiliation_string": "3 Department of Chemical Sciences, Faculty of Science and Computing, North-Eastern University, Gombe, Gombe State, Nigeria",
               "institution_ids": [
+                "https://openalex.org/I4405254986",
                 "https://openalex.org/I876237426"
               ]
             }
@@ -17997,7 +18025,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -18040,16 +18068,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2926,
+      "fwci": 3.2632,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.92865199,
+        "value": 0.92787605,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18270,11 +18298,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -19197,7 +19226,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-08-08T01:25:22.217667",
+      "updated_date": "2026-09-22T17:25:34.749102",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19341,7 +19370,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -19489,7 +19518,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -19549,11 +19578,11 @@
         "currency": "USD",
         "value_usd": 2950
       },
-      "fwci": 0.9255,
+      "fwci": 0.9256,
       "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.67541068,
+        "value": 0.67540093,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19914,11 +19943,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -19933,8 +19963,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4309609812.pdf",
@@ -20817,7 +20847,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-19T07:32:40.446753",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21062,7 +21092,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -21137,11 +21167,11 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 5.4114,
+      "fwci": 5.4069,
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.95119991,
+        "value": 0.95109802,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -21515,11 +21545,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -21529,8 +21560,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387996609.pdf",
@@ -22241,7 +22272,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-07T09:17:50.787605",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22350,7 +22381,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5059738250",
-            "display_name": "Ahmed Al‐Yaseri",
+            "display_name": "Ahmed Zarzor Al-Yaseri",
             "orcid": "https://orcid.org/0000-0001-9094-1258"
           },
           "institutions": [
@@ -22387,7 +22418,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -22424,7 +22455,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -22484,11 +22515,11 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 1.3726,
+      "fwci": 1.3693,
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.77332866,
+        "value": 0.77289097,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22865,6 +22896,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -22874,8 +22906,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -23850,7 +23882,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-19T00:03:45.406941",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2024-07-16T00:00:00"
     },
     {
@@ -24371,16 +24403,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "score": 0.4399999976158142
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -25091,7 +25124,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -25232,11 +25265,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5245,
+      "fwci": 2.5149,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.89079846,
+        "value": 0.89044877,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25433,11 +25466,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 132,
@@ -26507,7 +26541,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -26705,7 +26739,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -26878,7 +26912,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -26934,11 +26968,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 2.3581,
+      "fwci": 2.3503,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.86548288,
+        "value": 0.86449553,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27135,16 +27169,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 137,
@@ -27318,7 +27353,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2024-07-27T00:00:00"
     },
     {
@@ -27459,7 +27494,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -27556,11 +27591,11 @@
         "currency": "CHF",
         "value_usd": 2896
       },
-      "fwci": 2.0196,
+      "fwci": 2.0119,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.85420006,
+        "value": 0.85325893,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27826,11 +27861,12 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -28675,7 +28711,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28742,7 +28778,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5077822143",
-            "display_name": "Mashaer Alfaraj",
+            "display_name": "Mashaer A. Alfaraj",
             "orcid": null
           },
           "institutions": [
@@ -28853,7 +28889,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -28913,11 +28949,11 @@
         "currency": "CHF",
         "value_usd": 2896
       },
-      "fwci": 2.0262,
+      "fwci": 2.0119,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.86899745,
+        "value": 0.86777277,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29241,11 +29277,12 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -29847,7 +29884,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-09-05T08:02:43.246662",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-12-19T00:00:00"
     },
     {
@@ -30466,7 +30503,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5070815292",
-            "display_name": "Miranda N. Mboringong",
+            "display_name": "Miranda Nchang Mboringong",
             "orcid": null
           },
           "institutions": [
@@ -30517,11 +30554,11 @@
         "currency": "USD",
         "value_usd": 2100
       },
-      "fwci": 2.0907,
+      "fwci": 2.0848,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.86510989,
+        "value": 0.86461623,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30909,11 +30946,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5400000214576721,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5400000214576721
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -30928,8 +30966,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -31804,7 +31842,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-29T07:29:34.045763",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -31910,7 +31948,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5024608621",
-            "display_name": "Dhafer Al Shehri",
+            "display_name": "Dhafer Abdullah Al Shehri",
             "orcid": "https://orcid.org/0000-0002-7032-5199"
           },
           "institutions": [
@@ -31984,7 +32022,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5049649985",
-            "display_name": "Mohamed Mahmoud",
+            "display_name": "MOHAMED A. MAHMOUD",
             "orcid": "https://orcid.org/0000-0002-4395-9567"
           },
           "institutions": [
@@ -32078,11 +32116,11 @@
         "value_usd": 4260
       },
       "apc_paid": null,
-      "fwci": 2.2696,
+      "fwci": 2.2538,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.87423446,
+        "value": 0.8732486,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32345,6 +32383,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -32354,8 +32393,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -32436,7 +32475,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -32542,7 +32581,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -32666,11 +32705,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7672,
+      "fwci": 1.7604,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.84395963,
+        "value": 0.84301911,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33007,11 +33046,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -33495,7 +33535,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33645,7 +33685,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5122163086",
-            "display_name": "Abduljamiu Amao",
+            "display_name": "Abduljamiu O. Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -33756,7 +33796,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -33816,11 +33856,11 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 10.6457,
+      "fwci": 10.5521,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.98534579,
+        "value": 0.98510249,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -34291,11 +34331,12 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -34852,7 +34893,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2026-03-06T00:00:00"
     },
     {
@@ -35547,16 +35588,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8299999833106995
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -35766,7 +35808,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -35847,7 +35889,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -36012,11 +36054,11 @@
         "currency": "USD",
         "value_usd": 3295
       },
-      "fwci": 1.8133,
+      "fwci": 1.8088,
       "has_fulltext": true,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.82309063,
+        "value": 0.82245703,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36291,11 +36333,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -36305,8 +36348,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4365516011.pdf",
@@ -37279,7 +37322,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-08T07:41:39.490200",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37416,7 +37459,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5012603201",
-            "display_name": "Simon V. Hohl",
+            "display_name": "Simon  Valentin Hohl",
             "orcid": "https://orcid.org/0000-0002-0522-4973"
           },
           "institutions": [
@@ -37738,11 +37781,11 @@
         "value_usd": 2760
       },
       "apc_paid": null,
-      "fwci": 2.7709,
+      "fwci": 2.7683,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.89557906,
+        "value": 0.89571467,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38026,11 +38069,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.46000000834465027
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -38040,8 +38084,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -38173,7 +38217,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -39022,16 +39066,17 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.4099999964237213
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -39773,7 +39818,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -39963,7 +40008,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5042665751",
-            "display_name": "Mohammed Al‐Masrahy",
+            "display_name": "Mohammed A. Al-Masrahy",
             "orcid": "https://orcid.org/0000-0002-8396-3923"
           },
           "institutions": [
@@ -40124,11 +40169,11 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 1.323,
+      "fwci": 1.3202,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.73825259,
+        "value": 0.73796103,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40418,6 +40463,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G2649556768",
@@ -40435,8 +40481,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -40531,7 +40577,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40845,7 +40891,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -40926,7 +40972,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -40982,11 +41028,11 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 7.0138,
+      "fwci": 6.9957,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.96224117,
+        "value": 0.9621345,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -41269,11 +41315,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -41288,8 +41335,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -41383,7 +41430,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41489,7 +41536,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5059738250",
-            "display_name": "Ahmed Al‐Yaseri",
+            "display_name": "Ahmed Zarzor Al-Yaseri",
             "orcid": "https://orcid.org/0000-0001-9094-1258"
           },
           "institutions": [
@@ -41526,7 +41573,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -41563,7 +41610,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -41619,11 +41666,11 @@
         "value_usd": 5000
       },
       "apc_paid": null,
-      "fwci": 0.5894,
+      "fwci": 0.5883,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.5842487,
+        "value": 0.5838713,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41923,16 +41970,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.47999998927116394
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -42671,7 +42719,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -42777,7 +42825,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -42962,7 +43010,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -43018,11 +43066,11 @@
         "value_usd": 3430
       },
       "apc_paid": null,
-      "fwci": 3.5069,
+      "fwci": 3.4978,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.92034105,
+        "value": 0.91993177,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -43243,11 +43291,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.44999998807907104
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -43257,8 +43306,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 125,
@@ -43412,7 +43461,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -43624,7 +43673,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5122163086",
-            "display_name": "Abduljamiu Amao",
+            "display_name": "Abduljamiu O. Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -43661,7 +43710,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -43713,11 +43762,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 26.952,
+      "fwci": 26.6184,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.99401752,
+        "value": 0.99382497,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -44056,6 +44105,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G4360844425",
@@ -44078,8 +44128,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -44180,7 +44230,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2026-02-11T00:00:00"
     },
     {
@@ -44358,7 +44408,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -44418,11 +44468,11 @@
         "currency": "CHF",
         "value_usd": 2896
       },
-      "fwci": 0.5066,
+      "fwci": 0.503,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.59672345,
+        "value": 0.59542325,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44702,6 +44752,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G4360844425",
@@ -44719,8 +44770,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4413826908.pdf",
@@ -45185,7 +45236,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -45329,7 +45380,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -45385,11 +45436,11 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 0.7347,
+      "fwci": 0.73,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.67217213,
+        "value": 0.67055251,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45767,11 +45818,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -45840,7 +45892,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-11-06T00:00:00"
     },
     {
@@ -45984,7 +46036,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5079774230",
-            "display_name": "David Peacock",
+            "display_name": "David C.P. Peacock",
             "orcid": "https://orcid.org/0000-0002-6337-4646"
           },
           "institutions": [
@@ -46033,11 +46085,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.7712,
+      "fwci": 0.7695,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.66772433,
+        "value": 0.6672046,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46255,16 +46307,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -46336,7 +46389,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -46997,16 +47050,17 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5699999928474426
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2972228046.pdf",
@@ -47214,7 +47268,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5078146087",
-            "display_name": "John Howell",
+            "display_name": "John Anthony Howell",
             "orcid": "https://orcid.org/0000-0003-3818-8048"
           },
           "institutions": [
@@ -47452,7 +47506,7 @@
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.639167,
+        "value": 0.63891113,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47785,6 +47839,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G1750555186",
@@ -47802,8 +47857,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -47878,7 +47933,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -47947,7 +48002,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5059738250",
-            "display_name": "Ahmed Al‐Yaseri",
+            "display_name": "Ahmed Zarzor Al-Yaseri",
             "orcid": "https://orcid.org/0000-0001-9094-1258"
           },
           "institutions": [
@@ -47984,7 +48039,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5086234953",
-            "display_name": "Nurudeen Yekeen",
+            "display_name": "Nurudeen Peter Yekeen",
             "orcid": "https://orcid.org/0000-0001-6738-7893"
           },
           "institutions": [
@@ -48181,11 +48236,11 @@
         "value_usd": 5000
       },
       "apc_paid": null,
-      "fwci": 1.0461,
+      "fwci": 1.0438,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.71856432,
+        "value": 0.71824935,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48485,16 +48540,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -49161,7 +49217,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -49637,16 +49693,17 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7900000214576721,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7900000214576721
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -50134,7 +50191,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5049649985",
-            "display_name": "Mohamed Mahmoud",
+            "display_name": "MOHAMED A. MAHMOUD",
             "orcid": "https://orcid.org/0000-0002-4395-9567"
           },
           "institutions": [
@@ -50171,7 +50228,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5024608621",
-            "display_name": "Dhafer Al Shehri",
+            "display_name": "Dhafer Abdullah Al Shehri",
             "orcid": "https://orcid.org/0000-0002-7032-5199"
           },
           "institutions": [
@@ -50258,11 +50315,11 @@
         "value_usd": 3250
       },
       "apc_paid": null,
-      "fwci": 0.5489,
+      "fwci": 0.548,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.62646327,
+        "value": 0.62641909,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -50583,11 +50640,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7599999904632568,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7599999904632568
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -50597,8 +50655,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -50713,7 +50771,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -51050,7 +51108,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -51206,11 +51264,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.5184,
+      "fwci": 5.4968,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.94982309,
+        "value": 0.94928702,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -51427,11 +51485,12 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -51477,7 +51536,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -51657,7 +51716,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5049649985",
-            "display_name": "Mohamed Mahmoud",
+            "display_name": "MOHAMED A. MAHMOUD",
             "orcid": "https://orcid.org/0000-0002-4395-9567"
           },
           "institutions": [
@@ -51694,7 +51753,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5024608621",
-            "display_name": "Dhafer Al Shehri",
+            "display_name": "Dhafer Abdullah Al Shehri",
             "orcid": "https://orcid.org/0000-0002-7032-5199"
           },
           "institutions": [
@@ -51818,11 +51877,11 @@
         "value_usd": 4500
       },
       "apc_paid": null,
-      "fwci": 0.2135,
+      "fwci": 0.2129,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.43737653,
+        "value": 0.43695652,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -52093,11 +52152,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.550000011920929
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -52107,8 +52167,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -52736,7 +52796,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -52858,7 +52918,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5059191240",
-            "display_name": "J.M. Ishaku",
+            "display_name": "Jackson Makpane Ishaku",
             "orcid": null
           },
           "institutions": [
@@ -53200,7 +53260,7 @@
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.09027429,
+        "value": 0.09023123,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -53500,16 +53560,17 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6399999856948853,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.6399999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2969851177.pdf",
@@ -53973,7 +54034,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-08T07:41:39.490200",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -54079,7 +54140,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5059738250",
-            "display_name": "Ahmed Al‐Yaseri",
+            "display_name": "Ahmed Zarzor Al-Yaseri",
             "orcid": "https://orcid.org/0000-0001-9094-1258"
           },
           "institutions": [
@@ -54153,7 +54214,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5024608621",
-            "display_name": "Dhafer Al Shehri",
+            "display_name": "Dhafer Abdullah Al Shehri",
             "orcid": "https://orcid.org/0000-0002-7032-5199"
           },
           "institutions": [
@@ -54190,7 +54251,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5049649985",
-            "display_name": "Mohamed Mahmoud",
+            "display_name": "MOHAMED A. MAHMOUD",
             "orcid": "https://orcid.org/0000-0002-4395-9567"
           },
           "institutions": [
@@ -54239,11 +54300,11 @@
         "value_usd": 5000
       },
       "apc_paid": null,
-      "fwci": 0.3624,
+      "fwci": 0.362,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.52029631,
+        "value": 0.52000856,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -54600,16 +54661,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -55329,7 +55391,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -55810,16 +55872,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.44999998807907104
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -56640,11 +56703,12 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2834067065.pdf",
@@ -57396,7 +57460,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5057318000",
-            "display_name": "Solomon A. Adekola",
+            "display_name": "Solomon Adeniyi Adekola",
             "orcid": null
           },
           "institutions": [
@@ -57704,11 +57768,11 @@
         "value_usd": 3270
       },
       "apc_paid": null,
-      "fwci": 0.5091,
+      "fwci": 0.5048,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.52068336,
+        "value": 0.51954134,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -57952,6 +58016,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -57961,8 +58026,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -58051,7 +58116,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -58342,7 +58407,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -58402,11 +58467,11 @@
         "currency": "USD",
         "value_usd": 3600
       },
-      "fwci": 1.6668,
+      "fwci": 1.6553,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.82956386,
+        "value": 0.82884744,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -58727,11 +58792,12 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -58741,8 +58807,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -59518,7 +59584,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-09T07:26:56.047234",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -59548,6 +59614,7 @@
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I1318003438",
           "host_organization_name": "RELX Group (Netherlands)",
           "host_organization_lineage": [
@@ -59646,7 +59713,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [],
@@ -59676,7 +59743,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [],
@@ -59887,6 +59954,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1318003438",
             "host_organization_name": "RELX Group (Netherlands)",
             "host_organization_lineage": [
@@ -59919,6 +59987,7 @@
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I1318003438",
           "host_organization_name": "RELX Group (Netherlands)",
           "host_organization_lineage": [
@@ -59937,16 +60006,17 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -59970,7 +60040,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-04T08:18:43.703281",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -60360,16 +60430,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -61043,16 +61114,17 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7799999713897705,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7799999713897705
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -61164,6 +61236,7 @@
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I1318003438",
           "host_organization_name": "RELX Group (Netherlands)",
           "host_organization_lineage": [
@@ -61210,7 +61283,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [],
@@ -61240,7 +61313,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [],
@@ -61484,6 +61557,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I1318003438",
             "host_organization_name": "RELX Group (Netherlands)",
             "host_organization_lineage": [
@@ -61516,6 +61590,7 @@
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I1318003438",
           "host_organization_name": "RELX Group (Netherlands)",
           "host_organization_lineage": [
@@ -61534,16 +61609,17 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -61562,7 +61638,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-08-04T08:18:43.703281",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -62136,16 +62212,17 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8399999737739563
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -62382,7 +62459,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -62566,7 +62643,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -62887,16 +62964,17 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5600000023841858,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5600000023841858
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -63688,7 +63766,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -64250,11 +64328,12 @@
         "raw_type": "posted-content"
       },
       "sustainable_development_goals": [],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -64339,7 +64418,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -64539,7 +64618,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -64887,16 +64966,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.4399999976158142
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -64915,7 +64995,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2023-12-06T00:00:00"
     },
     {
@@ -65070,7 +65150,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -65144,7 +65224,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -65434,16 +65514,17 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -66274,7 +66355,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -66466,7 +66547,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu O. Amao",
+            "display_name": "Abduljamiu Olalekan Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
           "institutions": [
@@ -66503,7 +66584,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid A. Al-Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [
@@ -66550,7 +66631,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.18082619,
+        "value": 0.18090062,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -66814,16 +66895,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -67604,7 +67686,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -68236,7 +68318,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5073092237",
-            "display_name": "Temitope O. Akinsanpe",
+            "display_name": "Olumuyiwa T. Akinsanpe",
             "orcid": "https://orcid.org/0000-0002-4320-7410"
           },
           "institutions": [
@@ -68326,7 +68408,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.17792366,
+        "value": 0.17490864,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -68688,11 +68770,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5982216000556946,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5982216000556946
         }
       ],
+      "x_sdgs": [],
       "awards": [
         {
           "id": "https://openalex.org/G4360844425",
@@ -68715,8 +68798,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -68827,7 +68910,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2026-03-25T00:00:00"
     },
     {
@@ -69402,11 +69485,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8751643896102905,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8751643896102905
         }
       ],
+      "x_sdgs": [],
       "awards": [],
       "funders": [
         {
@@ -69416,8 +69500,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
