@@ -791,9 +791,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -2217,6 +2217,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/P4310316082",
           "host_organization_name": "American Association of Petroleum Geologists",
           "host_organization_lineage": [
@@ -2253,22 +2254,8 @@
             "display_name": "R. A. Rahmani",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I252914616",
-              "display_name": "BP (Canada)",
-              "ror": "https://ror.org/051177492",
-              "country_code": "CA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I20303223",
-                "https://openalex.org/I252914616"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Riyadh A. Rahmani",
           "raw_affiliation_strings": [
@@ -2278,9 +2265,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "RRC Petroleum Consulting, #415, 59-22 Ave, SW Calgary, Alberta, T2S 3C7, Canada (e-mail: rahmani44@hotmail.com)",
-              "institution_ids": [
-                "https://openalex.org/I252914616"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -2360,17 +2345,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.948,
+      "fwci": 0.8649,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.76923077,
+        "value": 0.77142857,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2669,6 +2654,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/P4310316082",
             "host_organization_name": "American Association of Petroleum Geologists",
             "host_organization_lineage": [
@@ -2691,9 +2677,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "x_sdgs": [],
@@ -3969,7 +3955,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-08T06:17:01.165560",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2019-12-05T00:00:00"
     },
     {
@@ -6906,9 +6892,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -7922,9 +7908,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6200000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6200000047683716
         }
       ],
       "x_sdgs": [],

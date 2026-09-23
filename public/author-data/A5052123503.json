@@ -4377,8 +4377,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "x_sdgs": [],
@@ -5703,8 +5703,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "x_sdgs": [],
@@ -8839,16 +8839,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210145671",
-              "display_name": "Advanced Imaging Research (United States)",
-              "ror": "https://ror.org/047c3xe48",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210145671"
-              ]
-            },
-            {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
               "ror": "https://ror.org/035n7q728",
@@ -8873,9 +8863,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center 1 ,",
-              "institution_ids": [
-                "https://openalex.org/I4210145671"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco",
@@ -8893,16 +8881,6 @@
             "orcid": "https://orcid.org/0000-0002-9223-1273"
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I4210145671",
-              "display_name": "Advanced Imaging Research (United States)",
-              "ror": "https://ror.org/047c3xe48",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210145671"
-              ]
-            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -8928,9 +8906,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center 1 ,",
-              "institution_ids": [
-                "https://openalex.org/I4210145671"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco",
@@ -8948,16 +8924,6 @@
             "orcid": "https://orcid.org/0000-0002-7443-7278"
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I4210145671",
-              "display_name": "Advanced Imaging Research (United States)",
-              "ror": "https://ror.org/047c3xe48",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210145671"
-              ]
-            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -8983,9 +8949,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center 1 ,",
-              "institution_ids": [
-                "https://openalex.org/I4210145671"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco",
@@ -9003,16 +8967,6 @@
             "orcid": "https://orcid.org/0000-0003-1746-2861"
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I4210145671",
-              "display_name": "Advanced Imaging Research (United States)",
-              "ror": "https://ror.org/047c3xe48",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210145671"
-              ]
-            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -9038,9 +8992,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center 1 ,",
-              "institution_ids": [
-                "https://openalex.org/I4210145671"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco",
@@ -9053,16 +9005,18 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6261,
+      "fwci": 0.6243,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.70684168,
+        "value": 0.70620518,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9609,7 +9563,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10064,8 +10018,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -12093,8 +12047,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6899999976158142,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -14255,8 +14209,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "x_sdgs": [],
@@ -14820,21 +14774,8 @@
             "display_name": "Richard Berquist",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210105687",
-              "display_name": "Energoservis (Czechia)",
-              "ror": "https://ror.org/01b3d1c61",
-              "country_code": "CZ",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210105687"
-              ]
-            }
-          ],
-          "countries": [
-            "CZ"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Richard Berquist",
           "raw_affiliation_strings": [
@@ -14845,9 +14786,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "2 Geoservices",
-              "institution_ids": [
-                "https://openalex.org/I4210105687"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Geoservices",
@@ -14862,21 +14801,8 @@
             "display_name": "Francois Hermal",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210140671",
-              "display_name": "Argans (United Kingdom)",
-              "ror": "https://ror.org/04mmhym95",
-              "country_code": "GB",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210140671"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Francois Hermal",
           "raw_affiliation_strings": [
@@ -14887,9 +14813,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "3 ARGAS",
-              "institution_ids": [
-                "https://openalex.org/I4210140671"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "ARGAS",
@@ -14899,17 +14823,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5908,
+      "fwci": 0.5909,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.5753729,
+        "value": 0.57543377,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15635,7 +15559,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16196,8 +16120,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7200000286102295,
-          "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "x_sdgs": [],
@@ -17080,8 +17004,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -18617,8 +18541,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -20176,8 +20100,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -22988,8 +22912,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6399999856948853,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -23743,8 +23667,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6299999952316284,
-          "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "x_sdgs": [],
@@ -25212,21 +25136,8 @@
             "display_name": "George Barnes",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I51579864",
-              "display_name": "Stryker (United States)",
-              "ror": "https://ror.org/043affe91",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I51579864"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "George Barnes",
           "raw_affiliation_strings": [
@@ -25236,9 +25147,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "STRYDE 2",
-              "institution_ids": [
-                "https://openalex.org/I51579864"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -25249,21 +25158,8 @@
             "display_name": "Eamonn Murray",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I51579864",
-              "display_name": "Stryker (United States)",
-              "ror": "https://ror.org/043affe91",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I51579864"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Eamonn Murray",
           "raw_affiliation_strings": [
@@ -25273,9 +25169,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "STRYDE 2",
-              "institution_ids": [
-                "https://openalex.org/I51579864"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -25320,7 +25214,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -26128,7 +26022,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2026-04-02T00:00:00"
     },
     {
@@ -27269,8 +27163,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4758980870246887,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "x_sdgs": [],

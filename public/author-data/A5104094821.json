@@ -558,21 +558,8 @@
             "display_name": "Robert H. Lander",
             "orcid": "https://orcid.org/0009-0006-8046-8456"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143890",
-              "display_name": "Autonomous University of Durango",
-              "ror": "https://ror.org/04wd2n987",
-              "country_code": "MX",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210143890"
-              ]
-            }
-          ],
-          "countries": [
-            "MX"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "ROBERT H. Lander",
           "raw_affiliation_strings": [
@@ -583,9 +570,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "3 Geocosm LLC, Durango, Colorado U.S.A",
-              "institution_ids": [
-                "https://openalex.org/I4210143890"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "3Geocosm LLC, Durango, CO, USA",
@@ -646,17 +631,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5149,
+      "fwci": 2.4957,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.89044877,
+        "value": 0.88941651,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1928,7 +1913,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2025-10-10T00:00:00"
     },
     {

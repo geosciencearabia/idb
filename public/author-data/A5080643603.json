@@ -15,9 +15,9 @@
     ],
     "full_name": "Septriandi Asmaidi Chan",
     "works_count": 34,
-    "cited_by_count": 482,
+    "cited_by_count": 483,
     "summary_stats": {
-      "2yr_mean_citedness": 1.8333333333333333,
+      "2yr_mean_citedness": 2,
       "h_index": 9,
       "i10_index": 9
     },
@@ -408,7 +408,7 @@
         "year": 2026,
         "works_count": 2,
         "oa_works_count": 2,
-        "cited_by_count": 3
+        "cited_by_count": 4
       }
     ],
     "display_name_alternatives": [
@@ -420,7 +420,7 @@
     ],
     "block_key": "s chan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5080643603",
-    "updated_date": "2026-09-19T12:19:47",
+    "updated_date": "2026-09-22T12:21:30",
     "created_date": "2018-12-11T00:00:00"
   },
   "works": [
@@ -977,9 +977,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.49000000953674316
+          "display_name": "Life in Land"
         }
       ],
       "x_sdgs": [],
@@ -1666,9 +1666,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -3820,9 +3820,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/8",
-          "display_name": "Decent work and economic growth",
-          "score": 0.4099999964237213
+          "display_name": "Decent work and economic growth"
         }
       ],
       "x_sdgs": [],
@@ -5129,9 +5129,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7400000095367432,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7400000095367432
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -6128,9 +6128,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8999999761581421
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -12500,9 +12500,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -14968,9 +14968,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.4699999988079071
+          "display_name": "Responsible consumption and production"
         }
       ],
       "x_sdgs": [],
@@ -18692,9 +18692,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8999999761581421
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -19376,9 +19376,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7799999713897705,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.7799999713897705
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -19803,9 +19803,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.5299999713897705
+          "display_name": "Life in Land"
         }
       ],
       "x_sdgs": [],
@@ -21638,20 +21638,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210167079",
-              "display_name": "Nano Carbon (Poland)",
-              "ror": "https://ror.org/05v34hx56",
-              "country_code": "PL",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210167079"
-              ]
             }
           ],
           "countries": [
-            "PL",
             "SA"
           ],
           "is_corresponding": false,
@@ -21671,9 +21660,7 @@
             },
             {
               "raw_affiliation_string": "Microfacies and Depositional Environments of the Bathonian-Bajocian Middle Dhruma Carbonates , Central Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210167079"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals. Dhahran, 31261, Saudi Arabia",
@@ -21773,8 +21760,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -22007,9 +21994,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.41999998688697815
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -22598,7 +22585,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-06T09:10:53.072986",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2018-12-11T00:00:00"
     },
     {
@@ -23718,9 +23705,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6800000071525574,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.6800000071525574
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -24165,9 +24152,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -25756,9 +25743,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5699999928474426,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5699999928474426
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -27251,22 +27238,8 @@
             "display_name": "Septriandi A. Chan",
             "orcid": "https://orcid.org/0000-0002-3681-7464"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I8691672",
-              "display_name": "KPMG (United Kingdom)",
-              "ror": "https://ror.org/05rjsp326",
-              "country_code": "GB",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210135825",
-                "https://openalex.org/I8691672"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Septriandi Chan",
           "raw_affiliation_strings": [
@@ -27276,9 +27249,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "1CPG-KFUPM (septriandi.chan@kfupm.edu.sa)",
-              "institution_ids": [
-                "https://openalex.org/I8691672"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -27289,22 +27260,8 @@
             "display_name": "JOHN D. HUMPHREY",
             "orcid": "https://orcid.org/0000-0002-8927-2322"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I8691672",
-              "display_name": "KPMG (United Kingdom)",
-              "ror": "https://ror.org/05rjsp326",
-              "country_code": "GB",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210135825",
-                "https://openalex.org/I8691672"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "John D. Humphrey",
           "raw_affiliation_strings": [
@@ -27314,9 +27271,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "1CPG-KFUPM (septriandi.chan@kfupm.edu.sa)",
-              "institution_ids": [
-                "https://openalex.org/I8691672"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -27360,8 +27315,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -27370,7 +27325,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.69035984,
+        "value": 0.69100623,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27993,7 +27948,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2025-10-21T00:00:00"
     }
   ]

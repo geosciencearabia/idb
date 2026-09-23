@@ -211,7 +211,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001083,
+        "value": 0.0001082,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -812,9 +812,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.5099999904632568,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -1285,9 +1285,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -2016,21 +2016,8 @@
             "display_name": "Charles Mangold",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210100260",
-              "display_name": "Centre Hospitalier Régional et Universitaire de Nancy",
-              "ror": "https://ror.org/016ncsr12",
-              "country_code": "FR",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I4210100260"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Charles Mangold",
           "raw_affiliation_strings": [
@@ -2040,9 +2027,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Laboratoire de Géologie des ensembles sédimentaires, Université de Nancy I-B.P.239, 54506 Vandoeuvre-les-Nancy France",
-              "institution_ids": [
-                "https://openalex.org/I4210100260"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -2123,7 +2108,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -2132,11 +2117,11 @@
         "value_usd": 3030
       },
       "apc_paid": null,
-      "fwci": 2.4193,
+      "fwci": 2.4191,
       "has_fulltext": false,
       "cited_by_count": 101,
       "citation_normalized_percentile": {
-        "value": 0.87301587,
+        "value": 0.87297921,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2309,9 +2294,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -2415,7 +2400,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-18T07:38:42.748307",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3060,9 +3045,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -4695,9 +4680,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6499999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -5941,9 +5926,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -6912,9 +6897,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -8520,9 +8505,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -9245,9 +9230,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -10275,9 +10260,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -10985,9 +10970,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land"
         }
       ],
       "x_sdgs": [],
@@ -14430,9 +14415,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -14974,9 +14959,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7699999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -16236,9 +16221,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -17107,9 +17092,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -17932,9 +17917,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.7200000286102295,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -19639,9 +19624,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -20246,9 +20231,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -21176,9 +21161,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -21972,9 +21957,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -23939,9 +23924,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -24733,9 +24718,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -25948,9 +25933,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -27269,9 +27254,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -27848,9 +27833,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -29119,9 +29104,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -30036,9 +30021,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -31189,16 +31174,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I129774422",
-              "display_name": "University of Vienna",
-              "ror": "https://ror.org/03prydq77",
-              "country_code": "AT",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I129774422"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210158893",
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
@@ -31210,7 +31185,6 @@
             }
           ],
           "countries": [
-            "AT",
             "FR"
           ],
           "is_corresponding": false,
@@ -31223,9 +31197,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "UZA II) 1090 Vienna (retired ), Austria",
-              "institution_ids": [
-                "https://openalex.org/I129774422"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Geo-consultant (BRGM retired), 58 Rue Gustave Flaubert 45100, Orléans, France",
@@ -31244,17 +31216,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210093967",
-              "display_name": "Fugro (United Kingdom)",
-              "ror": "https://ror.org/00p77cm62",
-              "country_code": "GB",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210093967",
-                "https://openalex.org/I4210157192"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210158893",
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
@@ -31266,8 +31227,7 @@
             }
           ],
           "countries": [
-            "FR",
-            "GB"
+            "FR"
           ],
           "is_corresponding": false,
           "raw_author_name": "Roger Brett Davies",
@@ -31280,9 +31240,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Davies Geoconsulting (retired) , Wintergreen House , Queen's Road , Harrogate , North Yorkshire , HG2 0HB , UK",
-              "institution_ids": [
-                "https://openalex.org/I4210093967"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Geo-consultant (BRGM retired) , 58 Rue Gustave Flaubert 45100 , Orléans , France",
@@ -31567,21 +31525,10 @@
                 "https://openalex.org/I4210097099",
                 "https://openalex.org/I4210148025"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210109070",
-              "display_name": "Prince Mohammed bin Abdulaziz Hospital",
-              "ror": "https://ror.org/01j5awv26",
-              "country_code": "SA",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I4210109070"
-              ]
             }
           ],
           "countries": [
-            "FR",
-            "SA"
+            "FR"
           ],
           "is_corresponding": false,
           "raw_author_name": "Abdullah Memesh",
@@ -31601,9 +31548,7 @@
             },
             {
               "raw_affiliation_string": "Saudi Geological Survey , 54141 , Ahmed bin Mohammed Al Ashab St. , Jeddah 21514 , Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210109070"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "SGS - Saudi Geological Survey (Jeddah - Saudi Arabia)",
@@ -31613,17 +31558,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 9,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 7,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4746,
+      "fwci": 1.4723,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.82587038,
+        "value": 0.82569102,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32814,7 +32759,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33264,9 +33209,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6800000071525574,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -34683,9 +34628,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -36443,9 +36388,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.699999988079071,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -40928,9 +40873,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -41970,9 +41915,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],

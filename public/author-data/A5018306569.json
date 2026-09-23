@@ -13,7 +13,7 @@
     ],
     "full_name": "Mohammad Eid Alsuwaidi",
     "works_count": 49,
-    "cited_by_count": 384,
+    "cited_by_count": 385,
     "summary_stats": {
       "2yr_mean_citedness": 3.782608695652174,
       "h_index": 13,
@@ -369,7 +369,7 @@
         "year": 2022,
         "works_count": 5,
         "oa_works_count": 4,
-        "cited_by_count": 54
+        "cited_by_count": 55
       },
       {
         "year": 2023,
@@ -403,7 +403,7 @@
     ],
     "block_key": "m alsuwaidi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5018306569",
-    "updated_date": "2026-09-21T12:20:07",
+    "updated_date": "2026-09-22T12:21:30",
     "created_date": "2020-09-14T00:00:00"
   },
   "works": [
@@ -1258,9 +1258,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.4399999976158142
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -2545,9 +2545,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5199999809265137
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -3290,9 +3290,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -4180,9 +4180,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.4099999964237213
+          "display_name": "Life in Land"
         }
       ],
       "x_sdgs": [],
@@ -5678,9 +5678,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -6359,9 +6359,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.46000000834465027
+          "display_name": "Responsible consumption and production"
         }
       ],
       "x_sdgs": [],
@@ -7173,9 +7173,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -9912,9 +9912,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.41999998688697815
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "x_sdgs": [],
@@ -10880,9 +10880,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -12611,9 +12611,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.7699999809265137,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7699999809265137
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -13299,21 +13299,8 @@
             "display_name": "Daniel Morad",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I123387679",
-              "display_name": "Uppsala University",
-              "ror": "https://ror.org/048a87296",
-              "country_code": "SE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I123387679"
-              ]
-            }
-          ],
-          "countries": [
-            "SE"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Daniel Morad",
           "raw_affiliation_strings": [
@@ -13323,9 +13310,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Petrographica, Vikvagen 82, SE-75655, Uppsala, Sweden",
-              "institution_ids": [
-                "https://openalex.org/I123387679"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -13498,8 +13483,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 5,
-      "institutions_distinct_count": 7,
+      "countries_distinct_count": 4,
+      "institutions_distinct_count": 6,
       "corresponding_author_ids": [
         "https://openalex.org/A5018306569"
       ],
@@ -13512,11 +13497,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 1.8136,
+      "fwci": 1.807,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.83702174,
+        "value": 0.83624438,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14172,7 +14157,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-09-22T17:25:34.749102",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14820,9 +14805,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8199999928474426,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8199999928474426
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -15518,31 +15503,8 @@
             "display_name": "Abdullah Awdal",
             "orcid": "https://orcid.org/0000-0003-3439-8910"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294182474",
-              "display_name": "Cihan University-Erbil",
-              "ror": "https://ror.org/03hevjm30",
-              "country_code": "IQ",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I1294182474"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I3151615967",
-              "display_name": "University of Kurdistan Hewler",
-              "ror": "https://ror.org/00268wk31",
-              "country_code": "IQ",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I3151615967"
-              ]
-            }
-          ],
-          "countries": [
-            "IQ"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "A. Awdal",
           "raw_affiliation_strings": [
@@ -15553,22 +15515,18 @@
           "affiliations": [
             {
               "raw_affiliation_string": "KAR Group  Erbil Iraq",
-              "institution_ids": [
-                "https://openalex.org/I1294182474"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "KAR Group, Erbil, Iraq",
-              "institution_ids": [
-                "https://openalex.org/I3151615967"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
       "countries_distinct_count": 7,
-      "institutions_distinct_count": 11,
+      "institutions_distinct_count": 9,
       "corresponding_author_ids": [
         "https://openalex.org/A5061877618"
       ],
@@ -15586,11 +15544,11 @@
         "currency": "USD",
         "value_usd": 3400
       },
-      "fwci": 6.6213,
+      "fwci": 6.593,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.9638709,
+        "value": 0.96353789,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16972,7 +16930,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2025-11-19T00:00:00"
     },
     {
@@ -17566,9 +17524,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -18906,9 +18864,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -20042,9 +20000,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -20862,9 +20820,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -21734,9 +21692,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -22983,9 +22941,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5699999928474426,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.5699999928474426
+          "display_name": "Affordable and clean energy"
         }
       ],
       "x_sdgs": [],
@@ -24535,9 +24493,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7799999713897705,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.7799999713897705
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -26810,9 +26768,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8299999833106995
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -28078,9 +28036,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -29297,9 +29255,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -29650,21 +29608,8 @@
             "display_name": "Daniel Morad",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I123387679",
-              "display_name": "Uppsala University",
-              "ror": "https://ror.org/048a87296",
-              "country_code": "SE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I123387679"
-              ]
-            }
-          ],
-          "countries": [
-            "SE"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Daniel Morad",
           "raw_affiliation_strings": [
@@ -29674,9 +29619,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Petrographica, Vikvagen 82, SE-75655 Uppsala, Sweden",
-              "institution_ids": [
-                "https://openalex.org/I123387679"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -29860,8 +29803,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 7,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 6,
       "corresponding_author_ids": [
         "https://openalex.org/A5018306569"
       ],
@@ -29874,11 +29817,11 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 2.6302,
+      "fwci": 2.6095,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.89588307,
+        "value": 0.89516011,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30353,7 +30296,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30891,9 +30834,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.41999998688697815
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -31497,9 +31440,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -32372,9 +32315,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4302540421485901,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.4302540421485901
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -33582,9 +33525,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.4364251494407654,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.4364251494407654
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -35076,9 +35019,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8797712922096252,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8797712922096252
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -36060,9 +36003,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.7699999809265137,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7699999809265137
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -39609,9 +39552,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.44999998807907104
+          "display_name": "Life in Land"
         }
       ],
       "x_sdgs": [],
@@ -39983,22 +39926,9 @@
               "lineage": [
                 "https://openalex.org/I167576493"
               ]
-            },
-            {
-              "id": "https://openalex.org/I3151458036",
-              "display_name": "Department of Mines and Petroleum",
-              "ror": "https://ror.org/007ef4t67",
-              "country_code": "AU",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I2799506148",
-                "https://openalex.org/I3151458036",
-                "https://openalex.org/I4387156273"
-              ]
             }
           ],
           "countries": [
-            "AU",
             "US"
           ],
           "is_corresponding": false,
@@ -40012,7 +39942,7 @@
             {
               "raw_affiliation_string": "2Colorado School of Mines",
               "institution_ids": [
-                "https://openalex.org/I3151458036"
+                "https://openalex.org/I167576493"
               ]
             },
             {
@@ -40040,22 +39970,9 @@
               "lineage": [
                 "https://openalex.org/I167576493"
               ]
-            },
-            {
-              "id": "https://openalex.org/I3151458036",
-              "display_name": "Department of Mines and Petroleum",
-              "ror": "https://ror.org/007ef4t67",
-              "country_code": "AU",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I2799506148",
-                "https://openalex.org/I3151458036",
-                "https://openalex.org/I4387156273"
-              ]
             }
           ],
           "countries": [
-            "AU",
             "US"
           ],
           "is_corresponding": false,
@@ -40069,7 +39986,7 @@
             {
               "raw_affiliation_string": "2Colorado School of Mines",
               "institution_ids": [
-                "https://openalex.org/I3151458036"
+                "https://openalex.org/I167576493"
               ]
             },
             {
@@ -40198,8 +40115,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 5,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -40507,9 +40424,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.46000000834465027
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "x_sdgs": [],
@@ -41253,7 +41170,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41661,9 +41578,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -42618,9 +42535,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.6700000166893005,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.6700000166893005
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "x_sdgs": [],
@@ -43173,9 +43090,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.6700000166893005,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.6700000166893005
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "x_sdgs": [],
@@ -44038,9 +43955,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -44800,9 +44717,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.44999998807907104
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -45774,9 +45691,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -47114,9 +47031,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -49474,21 +49391,8 @@
             "display_name": "Filippo Casali",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210132581",
-              "display_name": "Giuliani (Italy)",
-              "ror": "https://ror.org/03f9ys929",
-              "country_code": "IT",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210132581"
-              ]
-            }
-          ],
-          "countries": [
-            "IT"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Filippo Casali",
           "raw_affiliation_strings": [
@@ -49498,9 +49402,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "GEOLOG Srl, Via Monte Nero, San Giuliano Milanese, 3020098, Milan, Italy",
-              "institution_ids": [
-                "https://openalex.org/I4210132581"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -49637,21 +49539,8 @@
             "display_name": "Sadoon Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I114457229",
-              "display_name": "University of Geneva",
-              "ror": "https://ror.org/01swzsf04",
-              "country_code": "CH",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114457229"
-              ]
-            }
-          ],
-          "countries": [
-            "CH"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Sadoon Morad",
           "raw_affiliation_strings": [
@@ -49661,16 +49550,14 @@
           "affiliations": [
             {
               "raw_affiliation_string": "AdTerra Group, Chemin des Vergers, 41208, Geneva, Switzerland",
-              "institution_ids": [
-                "https://openalex.org/I114457229"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 5,
-      "institutions_distinct_count": 9,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 7,
       "corresponding_author_ids": [
         "https://openalex.org/A5061877618"
       ],
@@ -49688,7 +49575,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.17645135,
+        "value": 0.17526279,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -50184,7 +50071,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -51720,9 +51607,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8764263391494751,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8764263391494751
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],

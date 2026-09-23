@@ -876,9 +876,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -1139,21 +1139,8 @@
             "display_name": "Hussain Al Ajmi",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210160020",
-              "display_name": "Ministry of Environment and Climate Change",
-              "ror": "https://ror.org/04ck23c90",
-              "country_code": "QA",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210160020"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [
@@ -1168,9 +1155,7 @@
             },
             {
               "raw_affiliation_string": "Water Resources Development Department, Ministry of Water and Electricity, King Fahd Road, Saud Mall Center , Riyadh, 11233, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210160020"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -1235,8 +1220,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5088006882"
       ],
@@ -1249,11 +1234,11 @@
         "value_usd": 2390
       },
       "apc_paid": null,
-      "fwci": 1.3358,
+      "fwci": 1.3361,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.80035571,
+        "value": 0.80036816,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1718,7 +1703,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2979,9 +2964,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -3915,9 +3900,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.5799999833106995
+          "score": 0.5799999833106995,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "x_sdgs": [],
@@ -8613,9 +8598,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6299999952316284
+          "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "x_sdgs": [],
@@ -10575,9 +10560,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -11881,9 +11866,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.6469302177429199
+          "score": 0.6469302177429199,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "x_sdgs": [],

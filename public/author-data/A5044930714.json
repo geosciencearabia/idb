@@ -2832,9 +2832,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -4436,9 +4436,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6200000047683716,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -5258,9 +5258,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -9559,9 +9559,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5199999809265137,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -10403,17 +10403,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210135230",
-              "display_name": "Geological Survey of Japan",
-              "ror": "https://ror.org/02wzg6d13",
-              "country_code": "JP",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I4210135230",
-                "https://openalex.org/I73613424"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -10422,20 +10411,9 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210165529",
-              "display_name": "University of Business and Technology",
-              "ror": "https://ror.org/05tcr1n44",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210165529"
-              ]
             }
           ],
           "countries": [
-            "JP",
             "SA"
           ],
           "is_corresponding": false,
@@ -10449,15 +10427,11 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey , Department of Paleontology , Jeddah , Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210165529"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Saudi Geological Survey , Department of Sedimentary Geology , Jeddah , Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210135230"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
@@ -10484,8 +10458,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 5,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5032633264"
       ],
@@ -10494,11 +10468,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2604,
+      "fwci": 1.2602,
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.85338908,
+        "value": 0.85331326,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10685,9 +10659,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5400000214576721,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -11257,7 +11231,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12528,9 +12502,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.800000011920929,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -15142,9 +15116,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -16731,9 +16705,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -17067,22 +17041,8 @@
             "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdullah Memesh",
           "raw_affiliation_strings": [
@@ -17092,9 +17052,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, P.O. Box: 54141, Jeddah, 21514, Kingdom of Saudi Arabia (e-mail: memesh.am@sgs.org.sa; s-dini@hotmail.com)",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -17105,22 +17063,8 @@
             "display_name": "Saleh M. Dini",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Saleh Dini",
           "raw_affiliation_strings": [
@@ -17130,25 +17074,23 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, P.O. Box: 54141, Jeddah, 21514, Kingdom of Saudi Arabia (e-mail: memesh.am@sgs.org.sa; s-dini@hotmail.com)",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
       "countries_distinct_count": 3,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.7768,
+      "fwci": 2.7623,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.91436051,
+        "value": 0.91429641,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17410,9 +17352,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -17999,7 +17941,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2019-12-13T00:00:00"
     },
     {
@@ -18850,9 +18792,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -19996,9 +19938,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6899999976158142,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -20791,16 +20733,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I129774422",
-              "display_name": "University of Vienna",
-              "ror": "https://ror.org/03prydq77",
-              "country_code": "AT",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I129774422"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210158893",
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
@@ -20812,7 +20744,6 @@
             }
           ],
           "countries": [
-            "AT",
             "FR"
           ],
           "is_corresponding": false,
@@ -20825,9 +20756,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "UZA II) 1090 Vienna (retired ), Austria",
-              "institution_ids": [
-                "https://openalex.org/I129774422"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Geo-consultant (BRGM retired), 58 Rue Gustave Flaubert 45100, Orléans, France",
@@ -20846,17 +20775,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210093967",
-              "display_name": "Fugro (United Kingdom)",
-              "ror": "https://ror.org/00p77cm62",
-              "country_code": "GB",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210093967",
-                "https://openalex.org/I4210157192"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210158893",
               "display_name": "Bureau de Recherches Géologiques et Minières",
               "ror": "https://ror.org/05hnb7x64",
@@ -20868,8 +20786,7 @@
             }
           ],
           "countries": [
-            "FR",
-            "GB"
+            "FR"
           ],
           "is_corresponding": false,
           "raw_author_name": "Roger Brett Davies",
@@ -20882,9 +20799,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Davies Geoconsulting (retired) , Wintergreen House , Queen's Road , Harrogate , North Yorkshire , HG2 0HB , UK",
-              "institution_ids": [
-                "https://openalex.org/I4210093967"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Geo-consultant (BRGM retired) , 58 Rue Gustave Flaubert 45100 , Orléans , France",
@@ -21169,21 +21084,10 @@
                 "https://openalex.org/I4210097099",
                 "https://openalex.org/I4210148025"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210109070",
-              "display_name": "Prince Mohammed bin Abdulaziz Hospital",
-              "ror": "https://ror.org/01j5awv26",
-              "country_code": "SA",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I4210109070"
-              ]
             }
           ],
           "countries": [
-            "FR",
-            "SA"
+            "FR"
           ],
           "is_corresponding": false,
           "raw_author_name": "Abdullah Memesh",
@@ -21203,9 +21107,7 @@
             },
             {
               "raw_affiliation_string": "Saudi Geological Survey , 54141 , Ahmed bin Mohammed Al Ashab St. , Jeddah 21514 , Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210109070"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "SGS - Saudi Geological Survey (Jeddah - Saudi Arabia)",
@@ -21215,17 +21117,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 9,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 7,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4746,
+      "fwci": 1.4723,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.82587038,
+        "value": 0.82569102,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22416,7 +22318,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22672,21 +22574,8 @@
             "display_name": "Mohammad A. Najjar",
             "orcid": "https://orcid.org/0000-0001-5827-8345"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I64389444",
-              "display_name": "Geological Survey of India",
-              "ror": "https://ror.org/00nthx533",
-              "country_code": "IN",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I64389444"
-              ]
-            }
-          ],
-          "countries": [
-            "IN"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Mohammed I. Najjar",
           "raw_affiliation_strings": [
@@ -22696,9 +22585,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Survey and Exploration Center, Saudi Geological Survey, Jeddah 21514, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I64389444"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -22709,21 +22596,8 @@
             "display_name": "Ahmed A. Bahameem",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I64389444",
-              "display_name": "Geological Survey of India",
-              "ror": "https://ror.org/00nthx533",
-              "country_code": "IN",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I64389444"
-              ]
-            }
-          ],
-          "countries": [
-            "IN"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Ahmed A. Bahameem",
           "raw_affiliation_strings": [
@@ -22733,9 +22607,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Survey and Exploration Center, Saudi Geological Survey, Jeddah 21514, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I64389444"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -22746,21 +22618,8 @@
             "display_name": "Iyad S. Zalmout",
             "orcid": "https://orcid.org/0000-0003-1874-801X"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I64389444",
-              "display_name": "Geological Survey of India",
-              "ror": "https://ror.org/00nthx533",
-              "country_code": "IN",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I64389444"
-              ]
-            }
-          ],
-          "countries": [
-            "IN"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Iyad S. Zalmout",
           "raw_affiliation_strings": [
@@ -22770,9 +22629,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Survey and Exploration Center, Saudi Geological Survey, Jeddah 21514, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I64389444"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -22783,21 +22640,8 @@
             "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I64389444",
-              "display_name": "Geological Survey of India",
-              "ror": "https://ror.org/00nthx533",
-              "country_code": "IN",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I64389444"
-              ]
-            }
-          ],
-          "countries": [
-            "IN"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdullah M. Memesh",
           "raw_affiliation_strings": [
@@ -22807,9 +22651,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Survey and Exploration Center, Saudi Geological Survey, Jeddah 21514, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I64389444"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -22852,8 +22694,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5035815399"
       ],
@@ -22866,11 +22708,11 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 1.6553,
+      "fwci": 1.6483,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.81315613,
+        "value": 0.81249651,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23227,7 +23069,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27189,9 +27031,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -28018,28 +27860,17 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210090847",
-              "display_name": "Ann Arbor Hands On Museum",
-              "ror": "https://ror.org/00d3bct21",
+              "id": "https://openalex.org/I27837315",
+              "display_name": "University of Michigan",
+              "ror": "https://ror.org/00jmfr291",
               "country_code": "US",
-              "type": "archive",
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I4210090847"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I64389444",
-              "display_name": "Geological Survey of India",
-              "ror": "https://ror.org/00nthx533",
-              "country_code": "IN",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I64389444"
+                "https://openalex.org/I27837315"
               ]
             }
           ],
           "countries": [
-            "IN",
             "US"
           ],
           "is_corresponding": false,
@@ -28053,14 +27884,12 @@
             {
               "raw_affiliation_string": "Museum of Paleontology , Research Museum Center , The University of Michigan , 3600 Varsity Drive , Ann Arbor , Michigan 48108-2228 USA;",
               "institution_ids": [
-                "https://openalex.org/I4210090847"
+                "https://openalex.org/I27837315"
               ]
             },
             {
               "raw_affiliation_string": "Survey and Exploration Center , Saudi Geological Survey , Jeddah , Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I64389444"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -28071,21 +27900,8 @@
             "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I64389444",
-              "display_name": "Geological Survey of India",
-              "ror": "https://ror.org/00nthx533",
-              "country_code": "IN",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I64389444"
-              ]
-            }
-          ],
-          "countries": [
-            "IN"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdullah Memesh",
           "raw_affiliation_strings": [
@@ -28095,9 +27911,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Survey and Exploration Center , Saudi Geological Survey , Jeddah , Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I64389444"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -28108,21 +27922,8 @@
             "display_name": "Mohammed I. Alnajjar",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I64389444",
-              "display_name": "Geological Survey of India",
-              "ror": "https://ror.org/00nthx533",
-              "country_code": "IN",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I64389444"
-              ]
-            }
-          ],
-          "countries": [
-            "IN"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Mohammed Alnajjar",
           "raw_affiliation_strings": [
@@ -28132,9 +27933,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Survey and Exploration Center , Saudi Geological Survey , Jeddah , Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I64389444"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -28145,21 +27944,8 @@
             "display_name": "Ahmed A. Bahameem",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I64389444",
-              "display_name": "Geological Survey of India",
-              "ror": "https://ror.org/00nthx533",
-              "country_code": "IN",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I64389444"
-              ]
-            }
-          ],
-          "countries": [
-            "IN"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Ahmed Bahameem",
           "raw_affiliation_strings": [
@@ -28169,9 +27955,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Survey and Exploration Center , Saudi Geological Survey , Jeddah , Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I64389444"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -28214,8 +27998,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 4,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -29111,7 +28895,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2025-10-28T00:00:00"
     },
     {
@@ -29330,21 +29114,8 @@
             "display_name": "Mohammed I. Alnajjar",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I64389444",
-              "display_name": "Geological Survey of India",
-              "ror": "https://ror.org/00nthx533",
-              "country_code": "IN",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I64389444"
-              ]
-            }
-          ],
-          "countries": [
-            "IN"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Mohammed I. Alnajjar",
           "raw_affiliation_strings": [
@@ -29354,9 +29125,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Survey and Exploration Center, Saudi Geological Survey, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I64389444"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -29367,21 +29136,8 @@
             "display_name": "Ahmed A. Bahameem",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I64389444",
-              "display_name": "Geological Survey of India",
-              "ror": "https://ror.org/00nthx533",
-              "country_code": "IN",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I64389444"
-              ]
-            }
-          ],
-          "countries": [
-            "IN"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Ahmed A. Bahameem",
           "raw_affiliation_strings": [
@@ -29391,9 +29147,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Survey and Exploration Center, Saudi Geological Survey, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I64389444"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -29404,21 +29158,8 @@
             "display_name": "Abdullah M. Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I64389444",
-              "display_name": "Geological Survey of India",
-              "ror": "https://ror.org/00nthx533",
-              "country_code": "IN",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I64389444"
-              ]
-            }
-          ],
-          "countries": [
-            "IN"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdullah M. Memesh",
           "raw_affiliation_strings": [
@@ -29428,9 +29169,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Survey and Exploration Center, Saudi Geological Survey, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I64389444"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -29441,21 +29180,8 @@
             "display_name": "Iyad S. Zalmout",
             "orcid": "https://orcid.org/0000-0003-1874-801X"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I64389444",
-              "display_name": "Geological Survey of India",
-              "ror": "https://ror.org/00nthx533",
-              "country_code": "IN",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I64389444"
-              ]
-            }
-          ],
-          "countries": [
-            "IN"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Iyad S. Zalmout",
           "raw_affiliation_strings": [
@@ -29465,9 +29191,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Survey and Exploration Center, Saudi Geological Survey, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I64389444"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -29510,8 +29234,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -29520,7 +29244,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.10001117,
+        "value": 0.09978223,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30309,7 +30033,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2025-10-30T00:00:00"
     },
     {

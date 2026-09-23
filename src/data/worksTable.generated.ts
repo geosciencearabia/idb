@@ -545,14 +545,13 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2019,
     "venue": "American Association of Petroleum Geologists eBooks",
     "citations": 2,
-    "fwci": 0.948,
+    "fwci": 0.8649,
     "topics": [
       "Geological formations and processes",
       "Hydrocarbon exploration and reservoir analysis",
       "Geological and Geophysical Studies"
     ],
     "institutions": [
-      "BP (Canada)",
       "The University of Texas at Austin",
       "Saudi Aramco (Saudi Arabia)"
     ]
@@ -2166,9 +2165,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "The Research Council",
-      "University of St.Gallen",
-      "Millennium Science Initiative",
-      "Wrexham Maelor Hospital"
+      "University of St.Gallen"
     ]
   },
   {
@@ -4159,8 +4156,7 @@ export const worksTable: WorkTableRecord[] = [
       "Geological and Geophysical Studies"
     ],
     "institutions": [
-      "United Arab Emirates University",
-      "Engineering Associates (United States)"
+      "United Arab Emirates University"
     ]
   },
   {
@@ -5810,14 +5806,13 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2000,
     "venue": "SEPM (Society for Sedimentary Geology) eBooks",
     "citations": 10,
-    "fwci": 0.9039,
+    "fwci": 0.9084,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological Studies and Exploration"
     ],
     "institutions": [
-      "United Arab Emirates University",
-      "Engineering Associates (United States)"
+      "United Arab Emirates University"
     ]
   },
   {
@@ -6244,7 +6239,6 @@ export const worksTable: WorkTableRecord[] = [
       "Hydrocarbon exploration and reservoir analysis"
     ],
     "institutions": [
-      "Core Laboratories (United States)",
       "United Arab Emirates University"
     ]
   },
@@ -8088,8 +8082,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2015-11-01",
     "year": 2015,
     "venue": "Nature",
-    "citations": 496,
-    "fwci": 21.7653,
+    "citations": 497,
+    "fwci": 21.7392,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -8770,6 +8764,43 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4404428452",
+    "doi": "https://doi.org/10.1080/00206814.2024.2426200",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5036162476",
+      "A5101767240",
+      "A5081759059"
+    ],
+    "firstAuthorLastName": "Ndonfack",
+    "allAuthors": [
+      "Kevin Igor Azeuda Ndonfack",
+      "Zhiming Yang",
+      "Jinlin Zhang",
+      "Scott Andrew Whattam",
+      "Yuling Xie"
+    ],
+    "title": "Geology, geochemistry, and exploration of the Central African Copperbelt: a review",
+    "publicationDate": "2024-11-14",
+    "year": 2024,
+    "venue": "International Geology Review",
+    "citations": 16,
+    "fwci": 3.5133,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Geological and Geochemical Analysis",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Chinese Academy of Geological Sciences",
+      "Czech Academy of Sciences, Institute of Geology",
+      "King Fahd University of Petroleum and Minerals",
+      "University of Science and Technology Beijing"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4410043106",
     "doi": "https://doi.org/10.1080/00206814.2025.2497938",
     "program": "",
@@ -9004,8 +9035,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-03-26",
     "year": 2020,
     "venue": "American Mineralogist",
-    "citations": 57,
-    "fwci": 4.0972,
+    "citations": 58,
+    "fwci": 4.0954,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -9102,15 +9133,14 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Proceedings of the International Ocean Discovery Program. Expedition reports",
     "citations": 42,
-    "fwci": 16.7932,
+    "fwci": 16.8059,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Geological and Geochemical Analysis",
       "Geological formations and processes"
     ],
     "institutions": [
-      "International Ocean Discovery Program",
-      "Marian University - Indiana"
+      "International Ocean Discovery Program"
     ]
   },
   {
@@ -9600,6 +9630,43 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4308862435",
+    "doi": "https://doi.org/10.1007/s00410-022-01968-9",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5058038066",
+      "A5042158045",
+      "A5067442143"
+    ],
+    "firstAuthorLastName": "Whattam",
+    "allAuthors": [
+      "Scott Andrew Whattam",
+      "Jan C.M. De Hoog",
+      "Matthew I. Leybourne",
+      "Mohamed Zaki Khedr"
+    ],
+    "title": "Link between melt-impregnation and metamorphism of Atlantis Massif peridotite (IODP Expedition 357)",
+    "publicationDate": "2022-11-01",
+    "year": 2022,
+    "venue": "Contributions to Mineralogy and Petrology",
+    "citations": 16,
+    "fwci": 1.5194,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Edinburgh",
+      "Queen's University",
+      "Arthur B. McDonald-Canadian Astroparticle Physics Research Institute",
+      "Kafrelsheikh University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4294678214",
     "doi": "https://doi.org/10.1016/j.precamres.2022.106840",
     "program": "",
@@ -9638,81 +9705,6 @@ export const worksTable: WorkTableRecord[] = [
       "Central South University",
       "Université de Yaoundé I",
       "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4308862435",
-    "doi": "https://doi.org/10.1007/s00410-022-01968-9",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5011750653",
-    "allAuthorOpenAlexIds": [
-      "A5011750653",
-      "A5058038066",
-      "A5042158045",
-      "A5067442143"
-    ],
-    "firstAuthorLastName": "Whattam",
-    "allAuthors": [
-      "Scott Andrew Whattam",
-      "Jan C.M. De Hoog",
-      "Matthew I. Leybourne",
-      "Mohamed Zaki Khedr"
-    ],
-    "title": "Link between melt-impregnation and metamorphism of Atlantis Massif peridotite (IODP Expedition 357)",
-    "publicationDate": "2022-11-01",
-    "year": 2022,
-    "venue": "Contributions to Mineralogy and Petrology",
-    "citations": 15,
-    "fwci": 1.5196,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "High-pressure geophysics and materials",
-      "Geochemistry and Geologic Mapping"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "University of Edinburgh",
-      "Queen's University",
-      "Arthur B. McDonald-Canadian Astroparticle Physics Research Institute",
-      "Kafrelsheikh University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4404428452",
-    "doi": "https://doi.org/10.1080/00206814.2024.2426200",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5011750653",
-    "allAuthorOpenAlexIds": [
-      "A5011750653",
-      "A5036162476",
-      "A5101767240",
-      "A5081759059"
-    ],
-    "firstAuthorLastName": "Ndonfack",
-    "allAuthors": [
-      "Kevin Igor Azeuda Ndonfack",
-      "Zhiming Yang",
-      "Jinlin Zhang",
-      "Scott Andrew Whattam",
-      "Yuling Xie"
-    ],
-    "title": "Geology, geochemistry, and exploration of the Central African Copperbelt: a review",
-    "publicationDate": "2024-11-14",
-    "year": 2024,
-    "venue": "International Geology Review",
-    "citations": 15,
-    "fwci": 3.304,
-    "topics": [
-      "Geochemistry and Geologic Mapping",
-      "Geological and Geochemical Analysis",
-      "Geological and Geophysical Studies"
-    ],
-    "institutions": [
-      "Chinese Academy of Geological Sciences",
-      "Czech Academy of Sciences, Institute of Geology",
-      "Institute of Mining",
-      "King Fahd University of Petroleum and Minerals",
-      "University of Science and Technology Beijing"
     ]
   },
   {
@@ -9763,6 +9755,45 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4403284436",
+    "doi": "https://doi.org/10.1016/j.ijhydene.2024.09.256",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5094100781",
+      "A5000790686",
+      "A5054922583",
+      "A5111604304",
+      "A5111359907",
+      "A5082334094"
+    ],
+    "firstAuthorLastName": "Saidy",
+    "allAuthors": [
+      "Kebba Saidy",
+      "Manzar Fawad",
+      "Scott Andrew Whattam",
+      "Abdullatif Abdulrahman Al-Shuhail",
+      "Abdullah A. Alshuhail",
+      "M. de S. Campos",
+      "Faris Sulistyohariyanto"
+    ],
+    "title": "Unlocking the H2 potential in Saudi Arabia: Exploring serpentinites as a source of H2 production",
+    "publicationDate": "2024-10-10",
+    "year": 2024,
+    "venue": "International Journal of Hydrogen Energy",
+    "citations": 14,
+    "fwci": 2.4705,
+    "topics": [
+      "Atmospheric and Environmental Gas Dynamics",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Groundwater and Isotope Geochemistry"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4386140262",
     "doi": "https://doi.org/10.1080/00206814.2023.2250846",
     "program": "",
@@ -9807,45 +9838,6 @@ export const worksTable: WorkTableRecord[] = [
       "King Fahd University of Petroleum and Minerals",
       "Shandong Geological Sciences Institute",
       "China Geological Survey"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4403284436",
-    "doi": "https://doi.org/10.1016/j.ijhydene.2024.09.256",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5011750653",
-    "allAuthorOpenAlexIds": [
-      "A5011750653",
-      "A5094100781",
-      "A5000790686",
-      "A5054922583",
-      "A5111604304",
-      "A5111359907",
-      "A5082334094"
-    ],
-    "firstAuthorLastName": "Saidy",
-    "allAuthors": [
-      "Kebba Saidy",
-      "Manzar Fawad",
-      "Scott Andrew Whattam",
-      "Abdullatif Abdulrahman Al-Shuhail",
-      "Abdullah A. Alshuhail",
-      "M. de S. Campos",
-      "Faris Sulistyohariyanto"
-    ],
-    "title": "Unlocking the H2 potential in Saudi Arabia: Exploring serpentinites as a source of H2 production",
-    "publicationDate": "2024-10-10",
-    "year": 2024,
-    "venue": "International Journal of Hydrogen Energy",
-    "citations": 13,
-    "fwci": 2.3057,
-    "topics": [
-      "Atmospheric and Environmental Gas Dynamics",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Groundwater and Isotope Geochemistry"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -10356,15 +10348,14 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Proceedings of the International Ocean Discovery Program. Expedition reports",
     "citations": 25,
-    "fwci": 2.8104,
+    "fwci": 2.8206,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geology and Paleoclimatology Research",
       "earthquake and tectonic studies"
     ],
     "institutions": [
-      "International Ocean Discovery Program",
-      "Marian University - Indiana"
+      "International Ocean Discovery Program"
     ]
   },
   {
@@ -10673,7 +10664,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Journal of the Geological Society",
     "citations": 6,
-    "fwci": 5.3808,
+    "fwci": 5.3012,
     "topics": [
       "Geological and Geophysical Studies",
       "Geological and Geochemical Analysis",
@@ -10685,8 +10676,7 @@ export const worksTable: WorkTableRecord[] = [
       "Faculty (United Kingdom)",
       "Engineering (Italy)",
       "Oregon State University",
-      "Central South University",
-      "Ministry of Education"
+      "Central South University"
     ]
   },
   {
@@ -13064,7 +13054,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
-      "Rockefeller Foundation",
       "Pontificia Universidad Católica del Perú"
     ]
   },
@@ -22119,7 +22108,7 @@ export const worksTable: WorkTableRecord[] = [
       "A5033951300",
       "A5030084676",
       "A5134215776",
-      "A5125022185",
+      "A5010910479",
       "A5086919759",
       "A5124987720",
       "A5125079445",
@@ -22194,7 +22183,7 @@ export const worksTable: WorkTableRecord[] = [
       "A5033951300",
       "A5030084676",
       "A5134215776",
-      "A5125022185",
+      "A5010910479",
       "A5086919759",
       "A5124987720",
       "A5125079445",
@@ -22412,8 +22401,7 @@ export const worksTable: WorkTableRecord[] = [
       "Metal Extraction and Bioleaching"
     ],
     "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Array Information Technology (United States)"
+      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -23174,7 +23162,7 @@ export const worksTable: WorkTableRecord[] = [
     "allAuthorOpenAlexIds": [
       "A5013083803",
       "A5021185414",
-      "A5043831529",
+      "A5080868669",
       "A5017796048",
       "A5056138445",
       "A5047229999",
@@ -23197,7 +23185,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Elsevier eBooks",
     "citations": 1,
-    "fwci": 1.3741,
+    "fwci": 1.379,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Reservoir Engineering and Simulation Methods",
@@ -23336,7 +23324,7 @@ export const worksTable: WorkTableRecord[] = [
     "primaryAuthorOpenAlexId": "A5013083803",
     "allAuthorOpenAlexIds": [
       "A5013083803",
-      "A5086012728",
+      "A5041825716",
       "A5045570928"
     ],
     "firstAuthorLastName": "Michael",
@@ -23590,8 +23578,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "National University of Río Negro",
-      "Saudi Aramco (Saudi Arabia)",
-      "National Agricultural Technology Institute"
+      "Saudi Aramco (Saudi Arabia)"
     ]
   },
   {
@@ -23695,8 +23682,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2019-04-01",
     "year": 2019,
     "venue": "Facies",
-    "citations": 133,
-    "fwci": 13.478,
+    "citations": 134,
+    "fwci": 13.4508,
     "topics": [
       "Ichthyology and Marine Biology",
       "Marine Sponges and Natural Products",
@@ -23836,8 +23823,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-02-26",
     "year": 2020,
     "venue": "Papers in Palaeontology",
-    "citations": 60,
-    "fwci": 5.0222,
+    "citations": 61,
+    "fwci": 5.0252,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -24077,7 +24064,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Annales Societatis Geologorum Poloniae/Rocznik Polskiego Towarzystwa Geologicznego",
     "citations": 63,
-    "fwci": 13.1937,
+    "fwci": 13.1926,
     "topics": [
       "Ichthyology and Marine Biology",
       "Coral and Marine Ecosystems Studies",
@@ -24085,7 +24072,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Senckenberg am Meer",
-      "Viña del Mar University",
       "University of Münster",
       "Equinor (Norway)",
       "DNV (Norway)",
@@ -24195,8 +24181,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-11-29",
     "year": 2017,
     "venue": "Earth-Science Reviews",
-    "citations": 54,
-    "fwci": 3.4112,
+    "citations": 55,
+    "fwci": 3.6464,
     "topics": [
       "Geological formations and processes",
       "Geological and Geophysical Studies",
@@ -24619,7 +24605,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "American Association of Petroleum Geologists eBooks",
     "citations": 29,
-    "fwci": 20.8132,
+    "fwci": 21.227,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -24628,10 +24614,8 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Marathon Oil (United States)",
       "Marine Scotland",
-      "West Midlands Police",
       "Petroleum Geo-Services (United Kingdom)",
       "Equinor (Norway)",
-      "Magna International (Germany)",
       "Imperial College London"
     ]
   },
@@ -25300,7 +25284,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Papers in Palaeontology",
     "citations": 10,
-    "fwci": 2.0377,
+    "fwci": 2.033,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -25310,7 +25294,6 @@ export const worksTable: WorkTableRecord[] = [
       "Equinor (Norway)",
       "Russian Academy of Sciences",
       "Institute of the Earth’s Crust",
-      "Institute of Geology, Komi Science Centre",
       "Tallinn University of Technology"
     ]
   },
@@ -25610,7 +25593,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Paläontologische Zeitschrift",
     "citations": 11,
-    "fwci": 1.5162,
+    "fwci": 1.5173,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -25619,8 +25602,7 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Jagiellonian University",
       "Instytut Nauk Geologicznych",
-      "Equinor (Norway)",
-      "InfoConsult (Germany)"
+      "Equinor (Norway)"
     ]
   },
   {
@@ -26974,7 +26956,6 @@ export const worksTable: WorkTableRecord[] = [
       "Equinor (United Kingdom)",
       "Equinor (Norway)",
       "Moesgaard Museum",
-      "Museum of the Earth",
       "University of West Alabama"
     ]
   },
@@ -27950,7 +27931,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Marine and Petroleum Geology",
     "citations": 19,
-    "fwci": 6.3795,
+    "fwci": 6.3987,
     "topics": [
       "Geological formations and processes",
       "Hydrocarbon exploration and reservoir analysis",
@@ -27962,7 +27943,6 @@ export const worksTable: WorkTableRecord[] = [
       "Tongji University",
       "State Key Laboratory of Marine Geology",
       "Federal University Dutse",
-      "ET Enterprises (United Kingdom)",
       "Abubakar Tafawa Balewa University",
       "Obafemi Awolowo University"
     ]
@@ -28089,7 +28069,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Marine and Petroleum Geology",
     "citations": 13,
-    "fwci": 2.7683,
+    "fwci": 2.7554,
     "topics": [
       "Geochemistry and Elemental Analysis",
       "Hydrocarbon exploration and reservoir analysis",
@@ -28102,7 +28082,6 @@ export const worksTable: WorkTableRecord[] = [
       "State Key Laboratory of Marine Geology",
       "Federal University Dutse",
       "Abubakar Tafawa Balewa University",
-      "ET Enterprises (United Kingdom)",
       "Obafemi Awolowo University"
     ]
   },
@@ -28272,15 +28251,14 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Journal of Sedimentary Research",
     "citations": 10,
-    "fwci": 2.5149,
+    "fwci": 2.4957,
     "topics": [
       "Calcium Carbonate Crystallization and Inhibition",
       "Hydrocarbon exploration and reservoir analysis",
       "Paleontology and Stratigraphy of Fossils"
     ],
     "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Autonomous University of Durango"
+      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -29198,7 +29176,6 @@ export const worksTable: WorkTableRecord[] = [
       "Groundwater and Isotope Geochemistry"
     ],
     "institutions": [
-      "Federal University of Agriculture, Abeokuta",
       "Federal University Dutse",
       "Modibbo Adama University of Technology",
       "Gombe State University"
@@ -29309,7 +29286,6 @@ export const worksTable: WorkTableRecord[] = [
       "University of Manchester",
       "Environmental Earth Sciences",
       "Usmanu Danfodiyo University",
-      "Sokoto State University",
       "Soroti University"
     ]
   },
@@ -29348,7 +29324,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Organic Geochemistry",
     "citations": 1,
-    "fwci": 0.5048,
+    "fwci": 0.4991,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Geological Studies and Exploration",
@@ -29362,7 +29338,6 @@ export const worksTable: WorkTableRecord[] = [
       "Federal University of Technology Minna",
       "Gombe State University",
       "King Fahd University of Petroleum and Minerals",
-      "Canadian Natural Resources",
       "University of East London"
     ]
   },
@@ -30199,7 +30174,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Marine and Petroleum Geology",
     "citations": 11,
-    "fwci": 1.8136,
+    "fwci": 1.807,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Enhanced Oil Recovery Techniques",
@@ -30209,7 +30184,6 @@ export const worksTable: WorkTableRecord[] = [
       "Khalifa University of Science and Technology",
       "BP (United Kingdom)",
       "Heriot-Watt University",
-      "Uppsala University",
       "Utrecht University",
       "IFP Énergies nouvelles",
       "Halliburton (United Kingdom)"
@@ -30286,7 +30260,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Journal of Petroleum Geology",
     "citations": 4,
-    "fwci": 6.6213,
+    "fwci": 6.593,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",
@@ -30301,9 +30275,7 @@ export const worksTable: WorkTableRecord[] = [
       "Palacký University Olomouc",
       "Bulgarian Academy of Sciences",
       "Institute of Mineralogy",
-      "Universitat de Barcelona",
-      "Cihan University-Erbil",
-      "University of Kurdistan Hewler"
+      "Universitat de Barcelona"
     ]
   },
   {
@@ -30772,7 +30744,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Sedimentary Geology",
     "citations": 3,
-    "fwci": 2.6302,
+    "fwci": 2.6095,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -30780,7 +30752,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Khalifa University of Science and Technology",
-      "Uppsala University",
       "Universitat de Barcelona",
       "Ministry of Natural Resources",
       "Chengdu University of Technology",
@@ -31131,7 +31102,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Abu Dhabi National Oil (United Arab Emirates)",
       "Colorado School of Mines",
-      "Department of Mines and Petroleum",
       "American Petroleum Institute",
       "Institute of Petroleum Chemistry"
     ]
@@ -31469,9 +31439,7 @@ export const worksTable: WorkTableRecord[] = [
       "Kurdistan Regional Government",
       "University of Kurdistan Hewler",
       "Iraqi University",
-      "Giuliani (Italy)",
-      "University of Al Maarif",
-      "University of Geneva"
+      "University of Al Maarif"
     ]
   },
   {
@@ -31627,8 +31595,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2011-12-14",
     "year": 2011,
     "venue": "Quaternary Research",
-    "citations": 47,
-    "fwci": 1.1926,
+    "citations": 48,
+    "fwci": 1.1922,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Geological formations and processes",
@@ -32619,7 +32587,7 @@ export const worksTable: WorkTableRecord[] = [
     "allAuthorOpenAlexIds": [
       "A5027197211",
       "A5017097772",
-      "A5094005517",
+      "A5025014497",
       "A5002974432",
       "A5067074454",
       "A5024843025"
@@ -32638,7 +32606,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "SPE Journal",
     "citations": 14,
-    "fwci": 1.84,
+    "fwci": 1.8278,
     "topics": [
       "Hydraulic Fracturing and Reservoir Analysis",
       "Drilling and Well Engineering",
@@ -34305,15 +34273,14 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Revue de Micropaléontologie",
     "citations": 1,
-    "fwci": 1.6553,
+    "fwci": 1.6483,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Evolution and Paleontology Studies",
       "Geology and Paleoclimatology Research"
     ],
     "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Geological Survey of India"
+      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -35859,8 +35826,7 @@ export const worksTable: WorkTableRecord[] = [
       "Petroleum Processing and Analysis"
     ],
     "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Integrative Medicine Institute"
+      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -36830,7 +36796,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Journal of Sedimentary Environments",
     "citations": 3,
-    "fwci": 0.4951,
+    "fwci": 0.4928,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -36838,9 +36804,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "University of Ibadan",
-      "University of Petroleum",
-      "Pan-Atlantic University",
-      "China National Administration of Coal Geology"
+      "Pan-Atlantic University"
     ]
   },
   {
@@ -37654,15 +37618,13 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Journal of Sedimentary Environments",
     "citations": 2,
-    "fwci": 0.3301,
+    "fwci": 0.3286,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
       "Geological formations and processes"
     ],
     "institutions": [
-      "Cocoa Research Institute of Nigeria",
-      "University of Petroleum",
       "Pan-Atlantic University",
       "Saad Specialist Hospital",
       "University of Ibadan"
@@ -38783,8 +38745,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "University of Petroleum",
-      "King Fahd University of Petroleum and Minerals",
-      "Nano Carbon (Poland)"
+      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -39994,8 +39955,7 @@ export const worksTable: WorkTableRecord[] = [
       "University of Bahri",
       "Pan-Atlantic University",
       "University of Ibadan",
-      "China Geological Survey",
-      "Lagos State Health Service Commission"
+      "China Geological Survey"
     ]
   },
   {
@@ -42199,8 +42159,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2021-09-30",
     "year": 2021,
     "venue": "Journal of Petroleum Exploration and Production Technology",
-    "citations": 20,
-    "fwci": 1.7074,
+    "citations": 21,
+    "fwci": 1.7075,
     "topics": [
       "Petroleum Processing and Analysis",
       "Enhanced Oil Recovery Techniques",
@@ -42789,6 +42749,49 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4403118199",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2024.107146",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5093832213",
+      "A5009594846",
+      "A5023467994",
+      "A5045824304",
+      "A5085811814",
+      "A5108751417"
+    ],
+    "firstAuthorLastName": "Lathbl",
+    "allAuthors": [
+      "Mahdi Ali Lathbl",
+      "Mohammed Hail Hakimi",
+      "AKM Eahsanul Haque",
+      "Aref Lashin",
+      "Madyan M. A. Yahya",
+      "S. M. Talha Qadri",
+      "Danis Karlovich Nurgaliev"
+    ],
+    "title": "Organic geochemistry and 1D-basin modeling in the Taranaki Basin, New Zealand: Implications for deltaic-source rocks of the cenozoic oil and condensate reservoirs",
+    "publicationDate": "2024-10-04",
+    "year": 2024,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 7,
+    "fwci": 1.1499,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological Studies and Exploration",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "Universiti Teknologi Petronas",
+      "Kazan Federal University",
+      "King Saud University",
+      "King Abdulaziz University",
+      "Government of Northwest Territories"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4414299984",
     "doi": "https://doi.org/10.1016/j.coal.2025.104882",
     "program": "",
@@ -42831,49 +42834,6 @@ export const worksTable: WorkTableRecord[] = [
       "University of Technology Malaysia",
       "Taiz University",
       "Wadia Institute of Himalayan Geology"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4403118199",
-    "doi": "https://doi.org/10.1016/j.marpetgeo.2024.107146",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5093832213",
-      "A5009594846",
-      "A5023467994",
-      "A5045824304",
-      "A5085811814",
-      "A5108751417"
-    ],
-    "firstAuthorLastName": "Lathbl",
-    "allAuthors": [
-      "Mahdi Ali Lathbl",
-      "Mohammed Hail Hakimi",
-      "AKM Eahsanul Haque",
-      "Aref Lashin",
-      "Madyan M. A. Yahya",
-      "S. M. Talha Qadri",
-      "Danis Karlovich Nurgaliev"
-    ],
-    "title": "Organic geochemistry and 1D-basin modeling in the Taranaki Basin, New Zealand: Implications for deltaic-source rocks of the cenozoic oil and condensate reservoirs",
-    "publicationDate": "2024-10-04",
-    "year": 2024,
-    "venue": "Marine and Petroleum Geology",
-    "citations": 6,
-    "fwci": 0.9902,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological Studies and Exploration",
-      "Geochemistry and Geologic Mapping"
-    ],
-    "institutions": [
-      "Universiti Teknologi Petronas",
-      "Kazan Federal University",
-      "King Saud University",
-      "King Abdulaziz University",
-      "Government of Northwest Territories"
     ]
   },
   {
@@ -42993,7 +42953,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2026,
     "venue": "Scientific Reports",
     "citations": 4,
-    "fwci": 9.9793,
+    "fwci": 9.7039,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -43003,9 +42963,7 @@ export const worksTable: WorkTableRecord[] = [
       "Kazan Federal University",
       "Banaras Hindu University",
       "King Saud University",
-      "Ufa State Petroleum Technological University",
       "University of Malaya",
-      "Indian Institute of Management Lucknow",
       "Government of Northwest Territories"
     ]
   },
@@ -44221,7 +44179,6 @@ export const worksTable: WorkTableRecord[] = [
       "University of Malaya",
       "King Saud University",
       "University of Technology Malaysia",
-      "Dynavax Technologies (Germany)",
       "Jagiellonian University",
       "Instytut Nauk Geologicznych",
       "Usmanu Danfodiyo University"
@@ -44294,7 +44251,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "ACS Omega",
     "citations": 8,
-    "fwci": 1.3202,
+    "fwci": 1.3142,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Atmospheric and Environmental Gas Dynamics",
@@ -44306,11 +44263,9 @@ export const worksTable: WorkTableRecord[] = [
       "Taiz University",
       "Soran University",
       "Tishk International University",
-      "University of Kurdistan",
       "Kurdistan Institute for Strategic Studies and Scientific Research",
       "Universiti Teknologi Petronas",
       "University of Azad Jammu and Kashmir",
-      "Chulalongkorn University",
       "University of Poonch Rawalakot"
     ]
   },
@@ -44665,7 +44620,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "ACS Omega",
     "citations": 4,
-    "fwci": 0.6601,
+    "fwci": 0.6571,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -44677,7 +44632,6 @@ export const worksTable: WorkTableRecord[] = [
       "Ministry of Education Science and Technology",
       "Ministry of Health",
       "University of Azad Jammu and Kashmir",
-      "Chulalongkorn University",
       "University of Poonch Rawalakot",
       "Najran University",
       "Egyptian Petroleum Research Institute",
@@ -46592,7 +46546,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Journal of Petroleum Exploration and Production Technology",
     "citations": 1,
-    "fwci": 0.3673,
+    "fwci": 0.3615,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Atmospheric and Environmental Gas Dynamics",
@@ -46603,7 +46557,6 @@ export const worksTable: WorkTableRecord[] = [
       "Universiti Teknologi Petronas",
       "King Saud University",
       "University of Technology Malaysia",
-      "Petroleum Technology Company (Norway)",
       "University of Azad Jammu and Kashmir",
       "University of Poonch Rawalakot"
     ]
@@ -47196,7 +47149,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Geological Journal",
     "citations": 2,
-    "fwci": 0.2411,
+    "fwci": 0.2406,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Petroleum Processing and Analysis",
@@ -47204,11 +47157,9 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Kazan Federal University",
-      "Petroleum Technology Company (Norway)",
       "University of Technology Malaysia",
       "University of the Fraser Valley",
       "King Saud University",
-      "University of Management and Technology",
       "University of Poonch Rawalakot",
       "Soran University",
       "Tishk International University"
@@ -48775,7 +48726,7 @@ export const worksTable: WorkTableRecord[] = [
     "allAuthorOpenAlexIds": [
       "A5029716563",
       "A5093832213",
-      "A5018234281",
+      "A5072984996",
       "A5036262291",
       "A5146717492",
       "A5077736949",
@@ -48786,7 +48737,7 @@ export const worksTable: WorkTableRecord[] = [
     "allAuthors": [
       "Mahdi Ali Lathbl",
       "Mohammed Hail Hakimi",
-      "A. K. M. Ehsanul Haque",
+      "Armanul Haque",
       "Ali Y. Kahal",
       "Afikah Rahim",
       "Fahad Ali",
@@ -49037,13 +48988,11 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "University of Azad Jammu and Kashmir",
       "University of Peshawar",
-      "Geoscience BC",
       "Kazan Federal University",
       "Federal Ministry of Health",
       "Ministry of Energy",
       "King Saud University",
       "University of Malaya",
-      "Schlumberger (United States)",
       "Government of Northwest Territories"
     ]
   },
@@ -49192,7 +49141,7 @@ export const worksTable: WorkTableRecord[] = [
       "A5146149481",
       "A5056681463",
       "A5073694501",
-      "A5146084515",
+      "A5138637949",
       "A5032522266",
       "A5146107237",
       "A5033796914"
@@ -51733,7 +51682,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 3,
-    "fwci": 0.9698,
+    "fwci": 0.9537,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -52008,7 +51957,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Paddy and Water Environment",
     "citations": 1,
-    "fwci": 0.322,
+    "fwci": 0.3181,
     "topics": [
       "Groundwater and Watershed Analysis",
       "Groundwater and Isotope Geochemistry",
@@ -52016,7 +51965,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Universiti Sains Malaysia",
-      "Libyan Academy",
       "National University of Malaysia",
       "Center for Solar Energy Research and Studies",
       "Universitas Nahdlatul Wathan Mataram",
@@ -52585,6 +52533,43 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W7138279513",
+    "doi": "https://doi.org/10.1016/j.pce.2026.104399",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5034568196",
+    "allAuthorOpenAlexIds": [
+      "A5034568196",
+      "A5129708590",
+      "A5129661867",
+      "A5115846327"
+    ],
+    "firstAuthorLastName": "Rahman",
+    "allAuthors": [
+      "Mahfuzur Rahman",
+      "Mahfuzur Rahman",
+      "Mahmudur Rahman",
+      "Mahmudur Rahman",
+      "Mohammed Benaafi",
+      "Md. Rafsan Jany"
+    ],
+    "title": "Multi-sensor remote sensing with Bayesian uncertainty for urban heat vulnerability mapping in Dhaka City",
+    "publicationDate": "2026-03-17",
+    "year": 2026,
+    "venue": "Physics and Chemistry of the Earth Parts A/B/C",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [
+      "Urban Heat Island Mitigation",
+      "Remote-Sensing Image Classification",
+      "Flood Risk Assessment and Management"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "International University of Business Agriculture and Technology",
+      "Bangladesh University of Engineering and Technology"
     ]
   },
   {
@@ -53212,9 +53197,7 @@ export const worksTable: WorkTableRecord[] = [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis"
     ],
-    "institutions": [
-      "Umm al-Qura University"
-    ]
+    "institutions": []
   },
   {
     "workId": "https://openalex.org/W7155918887",
@@ -54272,8 +54255,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2006-05-31",
     "year": 2006,
     "venue": "Nature",
-    "citations": 550,
-    "fwci": 194.5149,
+    "citations": 553,
+    "fwci": 194.5582,
     "topics": [
       "Geological Studies and Exploration",
       "Methane Hydrates and Related Phenomena",
@@ -54968,41 +54951,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W2125461804",
-    "doi": "https://doi.org/10.1144/jm.19.1.23",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5035815399",
-    "allAuthorOpenAlexIds": [
-      "A5035815399",
-      "A5023839520",
-      "A5051532295",
-      "A5087328761"
-    ],
-    "firstAuthorLastName": "Akker",
-    "allAuthors": [
-      "T. J. H. A. Van Den Akker",
-      "Michael A. Kaminski",
-      "Felix M. Gradstein",
-      "John W. Wood"
-    ],
-    "title": "Campanian to Palaeocene biostratigraphy and palaeoenvironments in the Foula Sub-basin, west of the Shetland Islands, UK",
-    "publicationDate": "2000-05-01",
-    "year": 2000,
-    "venue": "Journal of Micropalaeontology",
-    "citations": 71,
-    "fwci": 0.5434,
-    "topics": [
-      "Geology and Paleoclimatology Research",
-      "Paleontology and Stratigraphy of Fossils",
-      "earthquake and tectonic studies"
-    ],
-    "institutions": [
-      "University College London",
-      "Birkbeck, University of London",
-      "Petroleum Geo-Services (United Kingdom)"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W2612186309",
     "doi": "https://doi.org/10.1016/j.bmc.2017.05.015",
     "program": "",
@@ -55036,8 +54984,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-05-08",
     "year": 2017,
     "venue": "Bioorganic & Medicinal Chemistry",
-    "citations": 70,
-    "fwci": 4.1819,
+    "citations": 72,
+    "fwci": 4.3306,
     "topics": [
       "Mycobacterium research and diagnosis",
       "Tuberculosis Research and Epidemiology",
@@ -55046,6 +54994,41 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Creighton University",
       "Colorado State University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2125461804",
+    "doi": "https://doi.org/10.1144/jm.19.1.23",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5035815399",
+    "allAuthorOpenAlexIds": [
+      "A5035815399",
+      "A5023839520",
+      "A5051532295",
+      "A5087328761"
+    ],
+    "firstAuthorLastName": "Akker",
+    "allAuthors": [
+      "T. J. H. A. Van Den Akker",
+      "Michael A. Kaminski",
+      "Felix M. Gradstein",
+      "John W. Wood"
+    ],
+    "title": "Campanian to Palaeocene biostratigraphy and palaeoenvironments in the Foula Sub-basin, west of the Shetland Islands, UK",
+    "publicationDate": "2000-05-01",
+    "year": 2000,
+    "venue": "Journal of Micropalaeontology",
+    "citations": 71,
+    "fwci": 0.5434,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "University College London",
+      "Birkbeck, University of London",
+      "Petroleum Geo-Services (United Kingdom)"
     ]
   },
   {
@@ -55124,6 +55107,51 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W1527374606",
+    "doi": "https://doi.org/10.1007/978-1-4020-5302-3_5",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5035815399",
+    "allAuthorOpenAlexIds": [
+      "A5035815399",
+      "A5109987361",
+      "A5042615413",
+      "A5111182215",
+      "A5108445863",
+      "A5080960280",
+      "A5043609728"
+    ],
+    "firstAuthorLastName": "HISCOTT",
+    "allAuthors": [
+      "Richard Nicholas HISCOTT",
+      "Ali Engin AKSU",
+      "Peta J. Mudie",
+      "Michael A. Kaminski",
+      "Teofilo A. Abrajano",
+      "Doğan Yaşar",
+      "André Rochon"
+    ],
+    "title": "The Marmara Sea Gateway since ~16 ky BP: non-catastrophic causes of paleoceanographic events in the Black Sea at 8.4 and 7.15 ky BP",
+    "publicationDate": "2006-11-15",
+    "year": 2006,
+    "venue": "",
+    "citations": 59,
+    "fwci": 8.3958,
+    "topics": [
+      "Marine and environmental studies",
+      "Soil and Environmental Studies",
+      "Archaeology and ancient environmental studies"
+    ],
+    "institutions": [
+      "Memorial University of Newfoundland",
+      "Geological Survey of Canada",
+      "University College London",
+      "Rensselaer Polytechnic Institute",
+      "Dokuz Eylül University",
+      "Université du Québec à Rimouski",
+      "Institut des sciences de la mer"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2085404279",
     "doi": "https://doi.org/10.1016/j.palaeo.2011.04.021",
     "program": "",
@@ -55181,51 +55209,6 @@ export const worksTable: WorkTableRecord[] = [
       "Methane Hydrates and Related Phenomena"
     ],
     "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W1527374606",
-    "doi": "https://doi.org/10.1007/978-1-4020-5302-3_5",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5035815399",
-    "allAuthorOpenAlexIds": [
-      "A5035815399",
-      "A5109987361",
-      "A5042615413",
-      "A5111182215",
-      "A5108445863",
-      "A5080960280",
-      "A5043609728"
-    ],
-    "firstAuthorLastName": "HISCOTT",
-    "allAuthors": [
-      "Richard Nicholas HISCOTT",
-      "Ali Engin AKSU",
-      "Peta J. Mudie",
-      "Michael A. Kaminski",
-      "Teofilo A. Abrajano",
-      "Doğan Yaşar",
-      "André Rochon"
-    ],
-    "title": "The Marmara Sea Gateway since ~16 ky BP: non-catastrophic causes of paleoceanographic events in the Black Sea at 8.4 and 7.15 ky BP",
-    "publicationDate": "2006-11-15",
-    "year": 2006,
-    "venue": "",
-    "citations": 58,
-    "fwci": 8.4017,
-    "topics": [
-      "Marine and environmental studies",
-      "Soil and Environmental Studies",
-      "Archaeology and ancient environmental studies"
-    ],
-    "institutions": [
-      "Memorial University of Newfoundland",
-      "Geological Survey of Canada",
-      "University College London",
-      "Rensselaer Polytechnic Institute",
-      "Dokuz Eylül University",
-      "Université du Québec à Rimouski",
-      "Institut des sciences de la mer"
-    ]
   },
   {
     "workId": "https://openalex.org/W1579438866",
@@ -55482,8 +55465,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2012-12-31",
     "year": 2012,
     "venue": "Geological Quarterly",
-    "citations": 37,
-    "fwci": 1.7923,
+    "citations": 38,
+    "fwci": 1.792,
     "topics": [
       "Marine and environmental studies",
       "Isotope Analysis in Ecology",
@@ -55516,7 +55499,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "Marine Biodiversity",
     "citations": 24,
-    "fwci": 2.1577,
+    "fwci": 2.1582,
     "topics": [
       "Marine and environmental studies",
       "Isotope Analysis in Ecology",
@@ -55526,7 +55509,6 @@ export const worksTable: WorkTableRecord[] = [
       "University of Urbino",
       "King Fahd University of Petroleum and Minerals",
       "University College London",
-      "Guildford Hospital",
       "Centre National de la Recherche Scientifique",
       "Université de Lille"
     ]
@@ -56019,6 +56001,38 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2109465392",
+    "doi": "https://doi.org/10.47894/mpal.55.2.03",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5035815399",
+    "allAuthorOpenAlexIds": [
+      "A5035815399",
+      "A5089663982",
+      "A5040877678"
+    ],
+    "firstAuthorLastName": "Kaminski",
+    "allAuthors": [
+      "Michael A. Kaminski",
+      "Lóránd Silye",
+      "Sev Kender"
+    ],
+    "title": "Miocene deep-water agglutinated foraminifera from the Lomonosov Ridge and the opening of the Fram Strait",
+    "publicationDate": "2009-01-01",
+    "year": 2009,
+    "venue": "Micropaleontology",
+    "citations": 19,
+    "fwci": 0.6054,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Methane Hydrates and Related Phenomena",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": [
+      "University College London",
+      "Babeș-Bolyai University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W283674652",
     "doi": "https://doi.org/10.47894/mpal.60.1.06",
     "program": "",
@@ -56044,38 +56058,6 @@ export const worksTable: WorkTableRecord[] = [
       "Marine Biology and Ecology Research"
     ],
     "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W2109465392",
-    "doi": "https://doi.org/10.47894/mpal.55.2.03",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5035815399",
-    "allAuthorOpenAlexIds": [
-      "A5035815399",
-      "A5089663982",
-      "A5040877678"
-    ],
-    "firstAuthorLastName": "Kaminski",
-    "allAuthors": [
-      "Michael A. Kaminski",
-      "Lóránd Silye",
-      "Sev Kender"
-    ],
-    "title": "Miocene deep-water agglutinated foraminifera from the Lomonosov Ridge and the opening of the Fram Strait",
-    "publicationDate": "2009-01-01",
-    "year": 2009,
-    "venue": "Micropaleontology",
-    "citations": 18,
-    "fwci": 0.6053,
-    "topics": [
-      "Geology and Paleoclimatology Research",
-      "Methane Hydrates and Related Phenomena",
-      "Geological Studies and Exploration"
-    ],
-    "institutions": [
-      "University College London",
-      "Babeș-Bolyai University"
-    ]
   },
   {
     "workId": "https://openalex.org/W2110474846",
@@ -56892,14 +56874,11 @@ export const worksTable: WorkTableRecord[] = [
       "University of Rhode Island",
       "University of Toronto",
       "University-National Oceanographic Laboratory System",
-      "Ocean Renewable Power Company (United States)",
-      "College Station Medical Center",
       "Geotop",
       "Woods Hole Oceanographic Institution",
       "Columbia University",
       "Florida International University",
       "Texas A&M University",
-      "Southern University Law Center",
       "Dalhousie University",
       "Geological Survey of Canada",
       "Florida State University"
@@ -57693,7 +57672,6 @@ export const worksTable: WorkTableRecord[] = [
       "Bedford Institute of Oceanography",
       "GEOMAR Technologie GmbH - GTG",
       "University College London",
-      "College Station Medical Center",
       "Jagiellonian University",
       "Instytut Nauk Geologicznych"
     ]
@@ -57932,7 +57910,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1993,
     "venue": "Journal of Micropalaeontology",
     "citations": 15,
-    "fwci": 0.2741,
+    "fwci": 0.274,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Evolution and Paleontology Studies",
@@ -57940,7 +57918,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Natural History Museum",
-      "Lahore Leads University",
       "Christian-Albrechts-Universität zu Kiel",
       "University College London"
     ]
@@ -58457,7 +58434,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2013,
     "venue": "Geological Quarterly",
     "citations": 7,
-    "fwci": 0.1961,
+    "fwci": 0.1962,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Methane Hydrates and Related Phenomena",
@@ -58466,9 +58443,7 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
       "British Geological Survey",
-      "University of Agriculture in Krakow",
-      "Babeș-Bolyai University",
-      "Saudi Aramco (Saudi Arabia)"
+      "Babeș-Bolyai University"
     ]
   },
   {
@@ -59331,7 +59306,6 @@ export const worksTable: WorkTableRecord[] = [
       "Sorbonne Université",
       "Christian-Albrechts-Universität zu Kiel",
       "University of Tübingen",
-      "GA Drilling (Slovakia)",
       "University College London",
       "Birkbeck, University of London",
       "Laboratoire d’HYdrologie et de GEochimie",
@@ -59441,7 +59415,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1991,
     "venue": "",
     "citations": 7,
-    "fwci": 2.4304,
+    "fwci": 2.4343,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Paleontology and Stratigraphy of Fossils",
@@ -59449,7 +59423,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Louisiana State University",
-      "College Station Medical Center",
       "Texas A&M University",
       "Goethe University Frankfurt",
       "GEOMAR Technologie GmbH - GTG",
@@ -59534,20 +59507,20 @@ export const worksTable: WorkTableRecord[] = [
     "allAuthorOpenAlexIds": [
       "A5035815399",
       "A5053676730",
-      "A5059571507"
+      "A5002161250"
     ],
     "firstAuthorLastName": "Hikmahtiar",
     "allAuthors": [
       "Syouma Hikmahtiar",
       "Michael A. Kaminski",
-      "CLAUDIA G. CETEAN"
+      "Claudia G. Cetean"
     ],
     "title": "LOWER PALEOCENE DEEP-WATER AGGLUTINATED FORAMINIFERA FROM THE CONTESSA HIGHWAY SECTION (UMBRIA-MARCHE BASIN, ITALY): TAXONOMY, STRATIGRAPHIC DISTRIBUTION AND ASSEMBLAGE TURNOVER ACROSS THE CRETACEOUS/PALEOGENE BOUNDARY",
     "publicationDate": "2022-11-11",
     "year": 2022,
     "venue": "RIVISTA ITALIANA DI PALEONTOLOGIA E STRATIGRAFIA",
     "citations": 5,
-    "fwci": 0.5461,
+    "fwci": 0.5463,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Paleontology and Stratigraphy of Fossils",
@@ -59685,7 +59658,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1992,
     "venue": "",
     "citations": 12,
-    "fwci": 1.7906,
+    "fwci": 1.8063,
     "topics": [
       "Geological and Geophysical Studies",
       "Paleontology and Stratigraphy of Fossils",
@@ -59694,8 +59667,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "University College London",
       "University of Lausanne",
-      "RESULTS and RESULTS Educational Fund",
-      "College Station Medical Center",
       "University of Nebraska–Lincoln",
       "Université Paris Cité",
       "Institut de Mathématiques de Jussieu-Paris Rive Gauche",
@@ -59847,18 +59818,16 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1992,
     "venue": "",
     "citations": 7,
-    "fwci": 1.5339,
+    "fwci": 1.5363,
     "topics": [
       "Marine and environmental studies",
       "Geochemistry and Geologic Mapping",
       "earthquake and tectonic studies"
     ],
     "institutions": [
-      "College Station Medical Center",
       "GEOMAR Technologie GmbH - GTG",
       "University College London",
       "University of Lausanne",
-      "RESULTS and RESULTS Educational Fund",
       "The University of Western Australia",
       "Leibniz University Hannover",
       "Geological Survey of Western Australia",
@@ -65884,8 +65853,7 @@ export const worksTable: WorkTableRecord[] = [
       "Methane Hydrates and Related Phenomena"
     ],
     "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "I.R.C.C.S. Oasi Maria SS"
+      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -67442,8 +67410,7 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
       "Port Said University",
-      "Ann Arbor Hands On Museum",
-      "Geological Survey of India"
+      "University of Michigan"
     ]
   },
   {
@@ -67515,8 +67482,7 @@ export const worksTable: WorkTableRecord[] = [
       "Marine Biology and Ecology Research"
     ],
     "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Geological Survey of India"
+      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -67680,7 +67646,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1987,
     "venue": "Geobios",
     "citations": 101,
-    "fwci": 2.4193,
+    "fwci": 2.4191,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -67689,8 +67655,7 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Lyon 1 Université",
       "Centre National de la Recherche Scientifique",
-      "Bureau de Recherches Géologiques et Minières",
-      "Centre Hospitalier Régional et Universitaire de Nancy"
+      "Bureau de Recherches Géologiques et Minières"
     ]
   },
   {
@@ -68793,22 +68758,20 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Comptes Rendus Géoscience",
     "citations": 3,
-    "fwci": 1.4746,
+    "fwci": 1.4723,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
       "Geological and Geophysical Studies"
     ],
     "institutions": [
-      "University of Vienna",
       "Bureau de Recherches Géologiques et Minières",
-      "Fugro (United Kingdom)",
+      "University of Vienna",
       "Geological Survey of Austria",
       "GGG (France)",
       "Sorbonne Université",
       "Institut des Sciences de la Terre de Paris",
-      "Université de Strasbourg",
-      "Prince Mohammed bin Abdulaziz Hospital"
+      "Université de Strasbourg"
     ]
   },
   {
@@ -70073,15 +70036,14 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Ecological Frontiers",
     "citations": 2,
-    "fwci": 1.5142,
+    "fwci": 1.5019,
     "topics": [
       "Environmental DNA in Biodiversity Studies",
       "Microbial Community Ecology and Physiology",
       "Protist diversity and phylogeny"
     ],
     "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "National Public Health Laboratory"
+      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -70109,15 +70071,14 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geoheritage",
     "citations": 2,
-    "fwci": 1.7936,
+    "fwci": 1.7671,
     "topics": [
       "Geotourism and Geoheritage Conservation",
       "Geological Formations and Processes Exploration",
       "Building materials and conservation"
     ],
     "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Saudi Center for Disease Prevention and Control"
+      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -70149,16 +70110,14 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geoheritage",
     "citations": 2,
-    "fwci": 1.7936,
+    "fwci": 1.7671,
     "topics": [
       "Geotourism and Geoheritage Conservation",
       "Karst Systems and Hydrogeology",
       "Geochemistry and Geologic Mapping"
     ],
     "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Saudi Center for Disease Prevention and Control",
-      "Saudi Center for Organ Transplantation"
+      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -70194,7 +70153,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2026,
     "venue": "Geoheritage",
     "citations": 2,
-    "fwci": 14.4319,
+    "fwci": 13.856,
     "topics": [
       "Geotourism and Geoheritage Conservation",
       "Geography Education and Pedagogy",
@@ -70202,10 +70161,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
-      "Sion College",
-      "Saudi Arabia Basic Industries (Saudi Arabia)",
-      "Saudi Center for Organ Transplantation",
-      "Dr. NTR University of Health Sciences"
+      "Koneru Lakshmaiah Education Foundation"
     ]
   },
   {
@@ -70905,8 +70861,7 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
       "Cochin University of Science and Technology",
-      "University of Oslo",
-      "Public Health Agency"
+      "University of Oslo"
     ]
   },
   {
@@ -70937,8 +70892,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2008-05-12",
     "year": 2008,
     "venue": "Lethaia",
-    "citations": 220,
-    "fwci": 15.1429,
+    "citations": 221,
+    "fwci": 15.139,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -71103,8 +71058,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2014-06-25",
     "year": 2014,
     "venue": "PLoS ONE",
-    "citations": 121,
-    "fwci": 14.6096,
+    "citations": 125,
+    "fwci": 15.0297,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Evolution and Paleontology Studies",
@@ -71201,7 +71156,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2002,
     "venue": "Geological Society London Special Publications",
     "citations": 85,
-    "fwci": 4.5103,
+    "fwci": 4.5098,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -71212,13 +71167,45 @@ export const worksTable: WorkTableRecord[] = [
       "British Geological Survey",
       "Royal Museum for Central Africa",
       "KU Leuven",
-      "United States Geological Survey",
       "Statistics Belgium",
       "Royal Observatory of Belgium",
       "Université Libre de Bruxelles",
       "Uppsala University",
       "Université de Bretagne Occidentale",
       "Geo-Ocean"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2087996039",
+    "doi": "https://doi.org/10.1016/j.palaeo.2008.05.015",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5039685767",
+    "allAuthorOpenAlexIds": [
+      "A5039685767",
+      "A5004160583",
+      "A5059501865"
+    ],
+    "firstAuthorLastName": "Vecoli",
+    "allAuthors": [
+      "Marco Vecoli",
+      "Armelle Riboulleau",
+      "Gerard J M Versteegh"
+    ],
+    "title": "Palynology, organic geochemistry and carbon isotope analysis of a latest Ordovician through Silurian clastic succession from borehole Tt1, Ghadamis Basin, southern Tunisia, North Africa: Palaeoenvironmental interpretation",
+    "publicationDate": "2008-06-18",
+    "year": 2008,
+    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "citations": 84,
+    "fwci": 4.2096,
+    "topics": [
+      "Geological and Geophysical Studies Worldwide",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Université de Lille",
+      "University of Bremen"
     ]
   },
   {
@@ -71254,39 +71241,6 @@ export const worksTable: WorkTableRecord[] = [
       "Centre National de la Recherche Scientifique",
       "Université de Lille",
       "Saudi Aramco (Saudi Arabia)"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2087996039",
-    "doi": "https://doi.org/10.1016/j.palaeo.2008.05.015",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5039685767",
-    "allAuthorOpenAlexIds": [
-      "A5039685767",
-      "A5004160583",
-      "A5059501865"
-    ],
-    "firstAuthorLastName": "Vecoli",
-    "allAuthors": [
-      "Marco Vecoli",
-      "Armelle Riboulleau",
-      "Gerard J M Versteegh"
-    ],
-    "title": "Palynology, organic geochemistry and carbon isotope analysis of a latest Ordovician through Silurian clastic succession from borehole Tt1, Ghadamis Basin, southern Tunisia, North Africa: Palaeoenvironmental interpretation",
-    "publicationDate": "2008-06-18",
-    "year": 2008,
-    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
-    "citations": 80,
-    "fwci": 3.6889,
-    "topics": [
-      "Geological and Geophysical Studies Worldwide",
-      "Paleontology and Stratigraphy of Fossils",
-      "Geology and Paleoclimatology Research"
-    ],
-    "institutions": [
-      "Centre National de la Recherche Scientifique",
-      "Université de Lille",
-      "University of Bremen"
     ]
   },
   {
@@ -71418,7 +71372,7 @@ export const worksTable: WorkTableRecord[] = [
       "A5014990922",
       "A5113788807",
       "A5016262042",
-      "A5017112014",
+      "A5003846686",
       "A5056941463"
     ],
     "firstAuthorLastName": "Álvaro",
@@ -71436,7 +71390,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2007,
     "venue": "Earth-Science Reviews",
     "citations": 66,
-    "fwci": 2.839,
+    "fwci": 2.8382,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -72210,6 +72164,43 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W1976008949",
+    "doi": "https://doi.org/10.1080/01916122.2010.491639",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5039685767",
+    "allAuthorOpenAlexIds": [
+      "A5039685767",
+      "A5018450545",
+      "A5038394462",
+      "A5088719239"
+    ],
+    "firstAuthorLastName": "Delabroye",
+    "allAuthors": [
+      "Aurélien Delabroye",
+      "Marco Vecoli",
+      "Olle Hints",
+      "Thomas Servais"
+    ],
+    "title": "Acritarchs from the Ordovician–Silurian boundary beds of the Valga-10 drill core, southern Estonia (Baltica) and their stratigraphical and palaeobiogeographical implications",
+    "publicationDate": "2011-05-26",
+    "year": 2011,
+    "venue": "Palynology",
+    "citations": 34,
+    "fwci": 3.6662,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Marine Biology and Ecology Research"
+    ],
+    "institutions": [
+      "Centre National de la Recherche Scientifique",
+      "Université Toulouse III - Paul Sabatier",
+      "Université de Lille",
+      "Géosciences Environnement Toulouse",
+      "Tallinn University of Technology"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W1983374490",
     "doi": "https://doi.org/10.1016/j.palaeo.2012.02.029",
     "program": "",
@@ -72246,43 +72237,6 @@ export const worksTable: WorkTableRecord[] = [
       "Université Toulouse III - Paul Sabatier",
       "Université de Lille",
       "Géosciences Environnement Toulouse"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W1976008949",
-    "doi": "https://doi.org/10.1080/01916122.2010.491639",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5039685767",
-    "allAuthorOpenAlexIds": [
-      "A5039685767",
-      "A5018450545",
-      "A5038394462",
-      "A5088719239"
-    ],
-    "firstAuthorLastName": "Delabroye",
-    "allAuthors": [
-      "Aurélien Delabroye",
-      "Marco Vecoli",
-      "Olle Hints",
-      "Thomas Servais"
-    ],
-    "title": "Acritarchs from the Ordovician–Silurian boundary beds of the Valga-10 drill core, southern Estonia (Baltica) and their stratigraphical and palaeobiogeographical implications",
-    "publicationDate": "2011-05-26",
-    "year": 2011,
-    "venue": "Palynology",
-    "citations": 33,
-    "fwci": 3.6669,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geology and Paleoclimatology Research",
-      "Marine Biology and Ecology Research"
-    ],
-    "institutions": [
-      "Centre National de la Recherche Scientifique",
-      "Université Toulouse III - Paul Sabatier",
-      "Université de Lille",
-      "Géosciences Environnement Toulouse",
-      "Tallinn University of Technology"
     ]
   },
   {
@@ -72390,8 +72344,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2004-12-31",
     "year": 2004,
     "venue": "Columbia University Press eBooks",
-    "citations": 27,
-    "fwci": 1.1687,
+    "citations": 28,
+    "fwci": 1.1617,
     "topics": [
       "Parasite Biology and Host Interactions",
       "Nematode management and characterization studies",
@@ -72647,8 +72601,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2014-09-22",
     "year": 2014,
     "venue": "Palynology",
-    "citations": 16,
-    "fwci": 1.2894,
+    "citations": 17,
+    "fwci": 1.2883,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
@@ -73037,7 +72991,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2008,
     "venue": "RENDICONTI LINCEI",
     "citations": 10,
-    "fwci": 2.444,
+    "fwci": 2.4424,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Plant Diversity and Evolution",
@@ -73047,7 +73001,7 @@ export const worksTable: WorkTableRecord[] = [
       "Centre National de la Recherche Scientifique",
       "Université de Lille",
       "Unité Évolution, Écologie et Paléontologie",
-      "Institute of Geosciences and Earth Resources"
+      "University of Padua"
     ]
   },
   {
@@ -73504,8 +73458,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2008-08-04",
     "year": 2008,
     "venue": "Review of Palaeobotany and Palynology",
-    "citations": 10,
-    "fwci": 1.1897,
+    "citations": 11,
+    "fwci": 1.7837,
     "topics": [
       "Plant Diversity and Evolution",
       "Plant and Fungal Species Descriptions",
@@ -75570,7 +75524,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2005,
     "venue": "Journal of Sedimentary Research",
     "citations": 128,
-    "fwci": 6.7274,
+    "fwci": 6.7287,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -75581,7 +75535,6 @@ export const worksTable: WorkTableRecord[] = [
       "Saudi Aramco (Saudi Arabia)",
       "Friedrich-Alexander-Universität Erlangen-Nürnberg",
       "Search",
-      "Systems & Materials Research Corporation (United States)",
       "University of South Carolina"
     ]
   },
@@ -75952,7 +75905,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "AAPG Bulletin",
     "citations": 27,
-    "fwci": 2.5009,
+    "fwci": 2.495,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -75964,8 +75917,7 @@ export const worksTable: WorkTableRecord[] = [
       "Colorado School of Mines",
       "Chevron (Netherlands)",
       "Chevron (United States)",
-      "King Fahd University of Petroleum and Minerals",
-      "University of Colorado Boulder"
+      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -77782,8 +77734,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2011-11-21",
     "year": 2011,
     "venue": "Palynology",
-    "citations": 23,
-    "fwci": 1.6271,
+    "citations": 24,
+    "fwci": 1.6281,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -78007,6 +77959,40 @@ export const worksTable: WorkTableRecord[] = [
       "Field Museum of Natural History",
       "University of Jordan",
       "TU Bergakademie Freiberg"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4388701331",
+    "doi": "https://doi.org/10.1134/s0869593823060047",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040147688",
+    "allAuthorOpenAlexIds": [
+      "A5040147688",
+      "A5069621152",
+      "A5080092392",
+      "A5067101715"
+    ],
+    "firstAuthorLastName": "Korngreen",
+    "allAuthors": [
+      "Dorit Korngreen",
+      "OLGA ORLOV-LABKOVSKY",
+      "Tami Zilberman",
+      "Michael  Henry Stephenson"
+    ],
+    "title": "Time Constrains and the Tectono-Sedimentary Setting of the Permian Sequence in Israel: Insights from Pleshet-1 and David-1 Boreholes, Western Israel",
+    "publicationDate": "2023-11-15",
+    "year": 2023,
+    "venue": "Stratigraphy and Geological Correlation",
+    "citations": 5,
+    "fwci": 0.674,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Geological Survey of Israel",
+      "Tel Aviv University"
     ]
   },
   {
@@ -79106,40 +79092,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4388701331",
-    "doi": "https://doi.org/10.1134/s0869593823060047",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5040147688",
-    "allAuthorOpenAlexIds": [
-      "A5040147688",
-      "A5069621152",
-      "A5080092392",
-      "A5067101715"
-    ],
-    "firstAuthorLastName": "Korngreen",
-    "allAuthors": [
-      "Dorit Korngreen",
-      "OLGA ORLOV-LABKOVSKY",
-      "Tami Zilberman",
-      "Michael  Henry Stephenson"
-    ],
-    "title": "Time Constrains and the Tectono-Sedimentary Setting of the Permian Sequence in Israel: Insights from Pleshet-1 and David-1 Boreholes, Western Israel",
-    "publicationDate": "2023-11-15",
-    "year": 2023,
-    "venue": "Stratigraphy and Geological Correlation",
-    "citations": 4,
-    "fwci": 0.5411,
-    "topics": [
-      "Geology and Paleoclimatology Research",
-      "Paleontology and Stratigraphy of Fossils",
-      "Geological formations and processes"
-    ],
-    "institutions": [
-      "Geological Survey of Israel",
-      "Tel Aviv University"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4410205451",
     "doi": "https://doi.org/10.1144/petgeo2025-011",
     "program": "",
@@ -79189,14 +79141,13 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Review of Palaeobotany and Palynology",
     "citations": 4,
-    "fwci": 6.6213,
+    "fwci": 6.593,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",
       "Geological and Geophysical Studies"
     ],
     "institutions": [
-      "British Geological Survey",
       "Nanjing University",
       "Zhejiang University"
     ]
@@ -79269,7 +79220,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geoenergy",
     "citations": 2,
-    "fwci": 1.7936,
+    "fwci": 1.7671,
     "topics": [
       "Geological and Geophysical Studies",
       "Reservoir Engineering and Simulation Methods",
@@ -79282,8 +79233,7 @@ export const worksTable: WorkTableRecord[] = [
       "Institute of Ecology and Geography",
       "V. B. Sochava Institute of Geography",
       "Xinjiang Institute of Ecology and Geography",
-      "National Science Library",
-      "Renovo (United Kingdom)"
+      "National Science Library"
     ]
   },
   {
@@ -80099,7 +80049,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
     "citations": 2,
-    "fwci": 1.0096,
+    "fwci": 0.9982,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Evolution and Paleontology Studies",
@@ -80112,7 +80062,6 @@ export const worksTable: WorkTableRecord[] = [
       "Chengdu University of Technology",
       "Universidad de Zaragoza",
       "University of California, Riverside",
-      "British Geological Survey",
       "East China University of Technology"
     ]
   },
@@ -80684,7 +80633,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
     "citations": 1,
-    "fwci": 0.6713,
+    "fwci": 0.6651,
     "topics": [
       "Marine and coastal ecosystems",
       "Oceanographic and Atmospheric Processes",
@@ -80694,9 +80643,7 @@ export const worksTable: WorkTableRecord[] = [
       "Nanjing University",
       "University of Oxford",
       "Hefei University of Technology",
-      "Innovation Team (China)",
-      "Merrimack College",
-      "British Geological Survey"
+      "Merrimack College"
     ]
   },
   {
@@ -82205,7 +82152,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Queen's University Belfast",
-      "Suzhou Research Institute",
       "American Association of Petroleum Geologists",
       "Lear (United States)",
       "China University of Geosciences",
@@ -82315,9 +82261,7 @@ export const worksTable: WorkTableRecord[] = [
       "Paleontology and Stratigraphy of Fossils",
       "Geological Studies and Exploration"
     ],
-    "institutions": [
-      "Mira Geoscience (Canada)"
-    ]
+    "institutions": []
   },
   {
     "workId": "https://openalex.org/W7135216397",
@@ -82358,8 +82302,7 @@ export const worksTable: WorkTableRecord[] = [
       "The University of Sydney",
       "Bureau of Economic Analysis",
       "The University of Texas at Austin",
-      "Kingston Technology (United States)",
-      "Stephens College"
+      "Kingston Technology (United States)"
     ]
   },
   {
@@ -82397,8 +82340,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Nanjing University",
-      "British Geological Survey",
-      "Stephens College",
       "Zhejiang Lab"
     ]
   },
@@ -82459,7 +82400,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Queen's University Belfast",
-      "Suzhou Research Institute",
       "American Association of Petroleum Geologists",
       "Lear (United States)",
       "China University of Geosciences",
@@ -82470,8 +82410,7 @@ export const worksTable: WorkTableRecord[] = [
       "Institute of Ecology and Geography",
       "V. B. Sochava Institute of Geography",
       "Xinjiang Institute of Ecology and Geography",
-      "National Science Library",
-      "Renovo (United Kingdom)"
+      "National Science Library"
     ]
   },
   {
@@ -85049,7 +84988,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2009,
     "venue": "Journal of Sedimentary Research",
     "citations": 62,
-    "fwci": 3.4723,
+    "fwci": 3.4709,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Elemental Analysis",
@@ -85058,7 +84997,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Uppsala University",
       "Universidad Complutense de Madrid",
-      "American Petroleum Institute",
       "Universitat Autònoma de Barcelona",
       "Centre National de la Recherche Scientifique",
       "Mines Saint-Étienne",
@@ -86244,7 +86182,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Maǧallaẗ ǧāmiʿaẗ al-Sulṭān Qābūs li-l-ʿulūm/Sultan Qaboos University journal for science",
     "citations": 3,
-    "fwci": 2.6302,
+    "fwci": 2.6095,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",
@@ -86252,8 +86190,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Sultan Qaboos University",
-      "Institut Facultaire des Sciences de l'Information et de la Communication",
-      "Universitas Muhammadiyah Jember",
       "Muscat College"
     ]
   },
@@ -88123,7 +88059,6 @@ export const worksTable: WorkTableRecord[] = [
       "Flood Risk Assessment and Management"
     ],
     "institutions": [
-      "The Research Council",
       "Petroleum Development Oman (Oman)",
       "Sultan Qaboos University"
     ]
@@ -88236,7 +88171,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Sultan Qaboos University",
-      "Research Institute of Petroleum Exploration and Development",
       "Petroleum Development Oman (Oman)"
     ]
   },
@@ -88575,16 +88509,14 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Applied Ecology and Environmental Research",
     "citations": 14,
-    "fwci": 1.2604,
+    "fwci": 1.2602,
     "topics": [
       "Geochemistry and Geologic Mapping"
     ],
     "institutions": [
       "King Abdulaziz University",
       "German University of Technology",
-      "Saudi Aramco (Saudi Arabia)",
-      "Geological Survey of Japan",
-      "University of Business and Technology"
+      "Saudi Aramco (Saudi Arabia)"
     ]
   },
   {
@@ -88795,7 +88727,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2019,
     "venue": "American Association of Petroleum Geologists eBooks",
     "citations": 12,
-    "fwci": 2.7768,
+    "fwci": 2.7623,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -88804,8 +88736,7 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Bureau de Recherches Géologiques et Minières",
       "Saudi Aramco (Saudi Arabia)",
-      "Saudi Aramco (United States)",
-      "United States Geological Survey"
+      "Saudi Aramco (United States)"
     ]
   },
   {
@@ -90045,7 +89976,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Chemical Geology",
     "citations": 127,
-    "fwci": 9.7701,
+    "fwci": 9.7611,
     "topics": [
       "Geochemistry and Elemental Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -90055,10 +89986,10 @@ export const worksTable: WorkTableRecord[] = [
       "Geoscience Australia",
       "Curtin University",
       "ARC Centre of Excellence for Core to Crust Fluid Systems",
+      "Geotop",
       "McGill University",
       "The University of Adelaide",
-      "Université du Québec à Montréal",
-      "Geotop"
+      "Université du Québec à Montréal"
     ]
   },
   {
@@ -90199,8 +90130,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2015-01-06",
     "year": 2015,
     "venue": "Tectonophysics",
-    "citations": 111,
-    "fwci": 9.6735,
+    "citations": 112,
+    "fwci": 9.9034,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological and Geophysical Studies Worldwide",
@@ -90954,8 +90885,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1996-01-01",
     "year": 1996,
     "venue": "Geological Society London Special Publications",
-    "citations": 245,
-    "fwci": 8.8247,
+    "citations": 246,
+    "fwci": 8.8269,
     "topics": [
       "Geological and Geophysical Studies Worldwide",
       "Geological and Geochemical Analysis",
@@ -91220,7 +91151,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "Gondwana Research",
     "citations": 114,
-    "fwci": 7.6441,
+    "fwci": 7.6429,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -91479,7 +91410,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2010,
     "venue": "Tectonics",
     "citations": 104,
-    "fwci": 4.5152,
+    "fwci": 4.5151,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -91487,7 +91418,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "The University of Adelaide",
-      "Medical Insurance Group Australia",
       "Geological Survey of Western Australia",
       "Swedish Museum of Natural History"
     ]
@@ -91760,6 +91690,46 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2742409633",
+    "doi": "https://doi.org/10.1016/j.earscirev.2017.07.019",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5084273448",
+      "A5057796926",
+      "A5060145218",
+      "A5037653750",
+      "A5011312843"
+    ],
+    "firstAuthorLastName": "Morley",
+    "allAuthors": [
+      "C.K. Morley",
+      "Christoph von Hagke",
+      "Rowan Hansberry",
+      "Alan Stephen Collins",
+      "Waruntorn Kanitpanyacharoen",
+      "Rosalind King"
+    ],
+    "title": "Review of major shale-dominated detachment and thrust characteristics in the diagenetic zone: Part I, meso- and macro-scopic scale",
+    "publicationDate": "2017-08-03",
+    "year": 2017,
+    "venue": "Earth-Science Reviews",
+    "citations": 90,
+    "fwci": 4.9889,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Chiang Mai University",
+      "RWTH Aachen University",
+      "The University of Adelaide",
+      "Chulalongkorn University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W1989148885",
     "doi": "https://doi.org/10.1016/j.precamres.2007.09.003",
     "program": "",
@@ -91794,46 +91764,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "The University of Adelaide"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2742409633",
-    "doi": "https://doi.org/10.1016/j.earscirev.2017.07.019",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5084273448",
-      "A5057796926",
-      "A5060145218",
-      "A5037653750",
-      "A5011312843"
-    ],
-    "firstAuthorLastName": "Morley",
-    "allAuthors": [
-      "C.K. Morley",
-      "Christoph von Hagke",
-      "Rowan Hansberry",
-      "Alan Stephen Collins",
-      "Waruntorn Kanitpanyacharoen",
-      "Rosalind King"
-    ],
-    "title": "Review of major shale-dominated detachment and thrust characteristics in the diagenetic zone: Part I, meso- and macro-scopic scale",
-    "publicationDate": "2017-08-03",
-    "year": 2017,
-    "venue": "Earth-Science Reviews",
-    "citations": 89,
-    "fwci": 4.8267,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "earthquake and tectonic studies",
-      "Geology and Paleoclimatology Research"
-    ],
-    "institutions": [
-      "Chiang Mai University",
-      "RWTH Aachen University",
-      "The University of Adelaide",
-      "Chulalongkorn University"
     ]
   },
   {
@@ -92477,8 +92407,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-10-10",
     "year": 2017,
     "venue": "Earth-Science Reviews",
-    "citations": 60,
-    "fwci": 3.7129,
+    "citations": 61,
+    "fwci": 3.8803,
     "topics": [
       "earthquake and tectonic studies",
       "Geological and Geochemical Analysis",
@@ -93011,7 +92941,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Tectonics",
     "citations": 46,
-    "fwci": 3.0677,
+    "fwci": 3.0581,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -93023,7 +92953,6 @@ export const worksTable: WorkTableRecord[] = [
       "Novosibirsk State University",
       "Curtin University",
       "Interstate Commission for Water Coordination of Central Asia",
-      "State Conservatory of Uzbekistan",
       "Academy of Sciences of the Republic of Tajikistan"
     ]
   },
@@ -93058,7 +92987,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2013,
     "venue": "Terra Nova",
     "citations": 44,
-    "fwci": 2.6318,
+    "fwci": 2.6339,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
@@ -93071,8 +93000,7 @@ export const worksTable: WorkTableRecord[] = [
       "Boise State University",
       "South Australian Museum",
       "University of Portland",
-      "Saudi Aramco (Saudi Arabia)",
-      "Geological Survey of India"
+      "Saudi Aramco (Saudi Arabia)"
     ]
   },
   {
@@ -93111,7 +93039,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "AAPG Bulletin",
     "citations": 44,
-    "fwci": 9.2437,
+    "fwci": 9.2376,
     "topics": [
       "Geological and Geophysical Studies",
       "Hydrocarbon exploration and reservoir analysis",
@@ -93121,8 +93049,6 @@ export const worksTable: WorkTableRecord[] = [
       "The University of Adelaide",
       "Government of the Northern Territory",
       "Medical Insurance Group Australia",
-      "University of South Australia",
-      "Universidade Metropolitana de Santos",
       "Santos Limited (Australia)",
       "Origin Energy (Australia)"
     ]
@@ -93941,7 +93867,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Basin Research",
     "citations": 35,
-    "fwci": 4.0972,
+    "fwci": 4.0954,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Elemental Analysis",
@@ -93949,7 +93875,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "The University of Adelaide",
-      "Northern Minerals (Australia)",
       "Geoscience Australia",
       "The University of Western Australia"
     ]
@@ -94119,7 +94044,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Tectonics",
     "citations": 31,
-    "fwci": 2.4876,
+    "fwci": 2.4865,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -94129,7 +94054,6 @@ export const worksTable: WorkTableRecord[] = [
       "Chinese Academy of Sciences",
       "Institute of Geology and Geophysics",
       "University of Chinese Academy of Sciences",
-      "Beijing Advanced Sciences and Innovation Center",
       "Xinjiang Institute of Ecology and Geography",
       "University of Leicester",
       "The University of Adelaide",
@@ -94620,7 +94544,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Basin Research",
     "citations": 16,
-    "fwci": 2.4313,
+    "fwci": 2.431,
     "topics": [
       "Geological and Geochemical Analysis",
       "Hydrocarbon exploration and reservoir analysis",
@@ -94628,7 +94552,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "The University of Adelaide",
-      "University of South Australia",
       "Santos Limited (Australia)",
       "Geoscience Australia"
     ]
@@ -95467,38 +95390,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W2554434976",
-    "doi": "https://doi.org/10.1016/bs.sats.2016.10.003",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5039566675",
-      "A5083930531"
-    ],
-    "firstAuthorLastName": "Saha",
-    "allAuthors": [
-      "Dilip Kumar Saha",
-      "Sarbani Patranabis‐Deb",
-      "Alan Stephen Collins"
-    ],
-    "title": "Proterozoic Stratigraphy of Southern Indian Cratons and Global Context",
-    "publicationDate": "2016-01-01",
-    "year": 2016,
-    "venue": "Stratigraphy & timescales",
-    "citations": 22,
-    "fwci": 6.802,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "Geochemistry and Geologic Mapping",
-      "earthquake and tectonic studies"
-    ],
-    "institutions": [
-      "Indian Statistical Institute",
-      "The University of Adelaide"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W2019165895",
     "doi": "https://doi.org/10.1016/j.jseaes.2015.04.015",
     "program": "",
@@ -95528,8 +95419,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2015-04-25",
     "year": 2015,
     "venue": "Journal of Asian Earth Sciences",
-    "citations": 21,
-    "fwci": 0.8988,
+    "citations": 22,
+    "fwci": 0.8978,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "earthquake and tectonic studies",
@@ -95543,6 +95434,38 @@ export const worksTable: WorkTableRecord[] = [
       "PTT Public Company Limited (Thailand)",
       "PTT Exploration and Production Public Company Limited (Thailand)",
       "Chulalongkorn University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2554434976",
+    "doi": "https://doi.org/10.1016/bs.sats.2016.10.003",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5039566675",
+      "A5083930531"
+    ],
+    "firstAuthorLastName": "Saha",
+    "allAuthors": [
+      "Dilip Kumar Saha",
+      "Sarbani Patranabis‐Deb",
+      "Alan Stephen Collins"
+    ],
+    "title": "Proterozoic Stratigraphy of Southern Indian Cratons and Global Context",
+    "publicationDate": "2016-01-01",
+    "year": 2016,
+    "venue": "Stratigraphy & timescales",
+    "citations": 22,
+    "fwci": 6.802,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "Indian Statistical Institute",
+      "The University of Adelaide"
     ]
   },
   {
@@ -95972,7 +95895,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Tectonics",
     "citations": 12,
-    "fwci": 1.0334,
+    "fwci": 1.0333,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -95983,7 +95906,6 @@ export const worksTable: WorkTableRecord[] = [
       "Laurentian University",
       "The University of Adelaide",
       "Universidade Federal do Rio de Janeiro",
-      "Japan Organization for Metals and Energy Security (Japan)",
       "University of Toliara",
       "University of South Australia"
     ]
@@ -96207,7 +96129,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Economic Geology",
     "citations": 9,
-    "fwci": 1.6276,
+    "fwci": 1.6235,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Geologic Mapping",
@@ -96220,8 +96142,7 @@ export const worksTable: WorkTableRecord[] = [
       "Geological Survey of South Australia",
       "The University of Adelaide",
       "Durham University",
-      "University of South Australia",
-      "Jiangxi Copper (China)"
+      "University of South Australia"
     ]
   },
   {
@@ -96552,7 +96473,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "American Mineralogist",
     "citations": 2,
-    "fwci": 0.4399,
+    "fwci": 0.4392,
     "topics": [
       "Geochemistry and Geologic Mapping",
       "Mine drainage and remediation techniques",
@@ -96562,7 +96483,6 @@ export const worksTable: WorkTableRecord[] = [
       "Geological Survey of Western Australia",
       "University of Tasmania",
       "Department of State Development",
-      "Mind Australia",
       "Centre for Ore Deposit and Earth Sciences",
       "Geological Survey of South Australia",
       "The University of Adelaide",
@@ -96600,7 +96520,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Earth and Planetary Science Letters",
     "citations": 2,
-    "fwci": 3.3107,
+    "fwci": 3.2965,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -96610,7 +96530,7 @@ export const worksTable: WorkTableRecord[] = [
       "The University of Adelaide",
       "University of Copenhagen",
       "University of St Andrews",
-      "Australian Resources Research Centre",
+      "Commonwealth Scientific and Industrial Research Organisation",
       "Monash University"
     ]
   },
@@ -96649,7 +96569,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2026,
     "venue": "Precambrian Research",
     "citations": 2,
-    "fwci": 10.0642,
+    "fwci": 9.698,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Elemental Analysis",
@@ -96657,8 +96577,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "University College Dublin",
-      "The University of Adelaide",
-      "Systems, Applications & Products in Data Processing (United Kingdom)"
+      "The University of Adelaide"
     ]
   },
   {
@@ -97088,7 +97007,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Geological Journal",
     "citations": 14,
-    "fwci": 0.6817,
+    "fwci": 0.6796,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -97857,8 +97776,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1999-07-01",
     "year": 1999,
     "venue": "Gondwana Research",
-    "citations": 20,
-    "fwci": 1.9496,
+    "citations": 21,
+    "fwci": 1.9497,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -98137,7 +98056,6 @@ export const worksTable: WorkTableRecord[] = [
       "Natural History Museum",
       "University of Hong Kong",
       "Johannes Gutenberg University Mainz",
-      "Continental (United States)",
       "Geological Institute",
       "Chinese Academy of Geological Sciences",
       "Institute of Precambrian Geology and Geochronology",
@@ -98457,7 +98375,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "The APPEA Journal",
     "citations": 3,
-    "fwci": 0.4095,
+    "fwci": 0.4092,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological and Geophysical Studies",
@@ -98465,12 +98383,10 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Geoscience Australia",
-      "Schlumberger (Ireland)",
       "The University of Adelaide",
       "Australian National University",
       "CSIRO Manufacturing",
-      "Geological Survey of Western Australia",
-      "The University of Queensland"
+      "Geological Survey of Western Australia"
     ]
   },
   {
@@ -98679,7 +98595,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-04-21",
     "year": 2022,
     "venue": "",
-    "citations": 5,
+    "citations": 6,
     "fwci": 0,
     "topics": [
       "Geochemistry and Geologic Mapping",
@@ -98854,7 +98770,6 @@ export const worksTable: WorkTableRecord[] = [
       "Geological and Geophysical Studies"
     ],
     "institutions": [
-      "Ocean University of China",
       "Planetary Science Institute",
       "Curtin University",
       "University of Wollongong",
@@ -100875,7 +100790,6 @@ export const worksTable: WorkTableRecord[] = [
       "Geological Studies and Exploration"
     ],
     "institutions": [
-      "ChemCentre",
       "The University of Adelaide",
       "Geoscience Australia",
       "Department of Primary Industry and Resources"
@@ -101323,7 +101237,6 @@ export const worksTable: WorkTableRecord[] = [
       "Geological formations and processes"
     ],
     "institutions": [
-      "Medical Insurance Group Australia",
       "The University of Adelaide",
       "University of Saskatchewan",
       "Commonwealth Scientific and Industrial Research Organisation",
@@ -101414,7 +101327,6 @@ export const worksTable: WorkTableRecord[] = [
       "Isotope Analysis in Ecology"
     ],
     "institutions": [
-      "Medical Insurance Group Australia",
       "The University of Adelaide",
       "Commonwealth Scientific and Industrial Research Organisation",
       "Mineral Resources",
@@ -102058,7 +101970,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Abdulaziz University",
       "The University of Adelaide",
-      "Department of Earth Sciences",
       "Australian National University",
       "Graz University of Technology",
       "Christian-Albrechts-Universität zu Kiel"
@@ -102135,7 +102046,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "UCL Australia",
       "Department of Mines and Petroleum",
-      "Earth Science Institute of the Slovak Academy of Sciences",
       "The University of Adelaide"
     ]
   },
@@ -102192,8 +102102,7 @@ export const worksTable: WorkTableRecord[] = [
       "Government of the Northern Territory",
       "Northern Territory Geological Survey",
       "Macquarie University",
-      "University College London",
-      "Earth Science Institute of the Slovak Academy of Sciences"
+      "University College London"
     ]
   },
   {
@@ -102477,7 +102386,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "The University of Adelaide",
-      "Alice Springs Hospital",
       "Northern Territory Geological Survey"
     ]
   },
@@ -102583,11 +102491,9 @@ export const worksTable: WorkTableRecord[] = [
       "Geological Survey of Western Australia",
       "Northern Territory Geological Survey",
       "Macquarie University",
-      "Universidade Católica de Santos",
       "Santos Limited (Australia)",
       "University College London",
-      "King Abdulaziz University",
-      "Department of Earth Sciences"
+      "King Abdulaziz University"
     ]
   },
   {
@@ -104941,10 +104847,7 @@ export const worksTable: WorkTableRecord[] = [
       "Clay minerals and soil interactions",
       "Crystal Structures and Properties"
     ],
-    "institutions": [
-      "Analytical Engineering (United States)",
-      "Montfort Social Institute"
-    ]
+    "institutions": []
   },
   {
     "workId": "https://openalex.org/W7203949311",
@@ -105121,15 +105024,14 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2010,
     "venue": "Hydrogeology Journal",
     "citations": 20,
-    "fwci": 1.3358,
+    "fwci": 1.3361,
     "topics": [
       "Groundwater flow and contamination studies",
       "Groundwater and Watershed Analysis",
       "Geophysical and Geoelectrical Methods"
     ],
     "institutions": [
-      "University of Tübingen",
-      "Ministry of Environment and Climate Change"
+      "University of Tübingen"
     ]
   },
   {
@@ -105799,8 +105701,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Tunis University",
-      "Université Toulouse III - Paul Sabatier",
-      "Centre Hospitalier Intercommunal Castres-Mazamet"
+      "Université Toulouse III - Paul Sabatier"
     ]
   },
   {
@@ -106292,7 +106193,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Journal of Sedimentary Research",
     "citations": 7,
-    "fwci": 4.699,
+    "fwci": 4.656,
     "topics": [
       "Marine and environmental studies",
       "Astro and Planetary Science",
@@ -106491,7 +106392,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Marine and Petroleum Geology",
     "citations": 1,
-    "fwci": 0.8992,
+    "fwci": 0.8835,
     "topics": [
       "Geological and Geophysical Studies",
       "Hydrocarbon exploration and reservoir analysis",
@@ -106504,8 +106405,7 @@ export const worksTable: WorkTableRecord[] = [
       "Akita International University",
       "University of Bergen",
       "King Fahd University of Petroleum and Minerals",
-      "Imperial College London",
-      "Ministry of Energy"
+      "Imperial College London"
     ]
   },
   {
@@ -106600,7 +106500,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "AIP conference proceedings",
     "citations": 1,
-    "fwci": 2.9887,
+    "fwci": 2.9793,
     "topics": [
       "Methane Hydrates and Related Phenomena",
       "Geological and Geophysical Studies",
@@ -106608,7 +106508,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Pertamina (Indonesia)",
-      "National Nuclear Energy Agency of Indonesia",
       "King Fahd University of Petroleum and Minerals",
       "Bandung Institute of Technology"
     ]
@@ -106855,8 +106754,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
-      "University of Technology Sydney",
-      "University of Bisha"
+      "University of Technology Sydney"
     ]
   },
   {
@@ -107314,14 +107212,13 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "",
     "citations": 2,
-    "fwci": 0.6261,
+    "fwci": 0.6243,
     "topics": [
       "Seismology and Earthquake Studies",
       "Geological Modeling and Analysis",
       "Soft Robotics and Applications"
     ],
     "institutions": [
-      "Advanced Imaging Research (United States)",
       "Saudi Aramco (United States)"
     ]
   },
@@ -107516,16 +107413,14 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "",
     "citations": 1,
-    "fwci": 0.5908,
+    "fwci": 0.5909,
     "topics": [
       "Drilling and Well Engineering",
       "Geotechnical Engineering and Underground Structures",
       "Seismic Waves and Analysis"
     ],
     "institutions": [
-      "Saudi Aramco (United States)",
-      "Energoservis (Czechia)",
-      "Argans (United Kingdom)"
+      "Saudi Aramco (United States)"
     ]
   },
   {
@@ -107944,8 +107839,7 @@ export const worksTable: WorkTableRecord[] = [
       "Seismology and Earthquake Studies"
     ],
     "institutions": [
-      "Saudi Aramco (United States)",
-      "Stryker (United States)"
+      "Saudi Aramco (United States)"
     ]
   },
   {
@@ -108245,8 +108139,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2014-11-05",
     "year": 2014,
     "venue": "Review of Palaeobotany and Palynology",
-    "citations": 37,
-    "fwci": 5.586,
+    "citations": 38,
+    "fwci": 5.5825,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -109405,8 +109299,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2015-07-30",
     "year": 2015,
     "venue": "Comptes Rendus Géoscience",
-    "citations": 16,
-    "fwci": 0.4088,
+    "citations": 17,
+    "fwci": 0.6122,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Hydrocarbon exploration and reservoir analysis",
@@ -109584,7 +109478,6 @@ export const worksTable: WorkTableRecord[] = [
       "Clay minerals and soil interactions"
     ],
     "institutions": [
-      "Fugro (United Kingdom)",
       "Compugraphics (United Kingdom)"
     ]
   },
@@ -109897,8 +109790,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-04-22",
     "year": 2024,
     "venue": "Journal of environmental chemical engineering",
-    "citations": 49,
-    "fwci": 6.0996,
+    "citations": 51,
+    "fwci": 6.3185,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Methane Hydrates and Related Phenomena",
@@ -110053,8 +109946,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-06-01",
     "year": 2020,
     "venue": "Environmental Earth Sciences",
-    "citations": 38,
-    "fwci": 1.5858,
+    "citations": 39,
+    "fwci": 1.5818,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -110340,6 +110233,35 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2019965381",
+    "doi": "https://doi.org/10.3997/2214-4609.20149878",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054922583",
+    "allAuthorOpenAlexIds": [
+      "A5054922583",
+      "A5042237070"
+    ],
+    "firstAuthorLastName": "Al-Shuhail",
+    "allAuthors": [
+      "Abdullatif Abdulrahman Al-Shuhail",
+      "Wail A. Mousa"
+    ],
+    "title": "Processing of Seismic Reflection Data Using Matlab",
+    "publicationDate": "2012-07-04",
+    "year": 2012,
+    "venue": "Proceedings",
+    "citations": 27,
+    "fwci": 1.7351,
+    "topics": [
+      "Geophysical Methods and Applications",
+      "Seismic Imaging and Inversion Techniques",
+      "Seismic Waves and Analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4297149413",
     "doi": "https://doi.org/10.3390/app12199611",
     "program": "",
@@ -110566,7 +110488,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Scientific Reports",
     "citations": 11,
-    "fwci": 3.6901,
+    "fwci": 3.7045,
     "topics": [
       "Geological formations and processes",
       "Methane Hydrates and Related Phenomena",
@@ -110575,8 +110497,7 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
       "The University of Western Australia",
-      "Oceans Institute",
-      "ET Enterprises (United Kingdom)"
+      "Oceans Institute"
     ]
   },
   {
@@ -110990,6 +110911,70 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4360604124",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106231",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054922583",
+    "allAuthorOpenAlexIds": [
+      "A5054922583",
+      "A5018253069",
+      "A5006028315",
+      "A5081449036"
+    ],
+    "firstAuthorLastName": "Bargees",
+    "allAuthors": [
+      "Amen Bargees",
+      "Dicky Harishidayat",
+      "Naveed Iqbal",
+      "Abdullatif Abdulrahman Al-Shuhail"
+    ],
+    "title": "Automatic gas chimney detection from 3D seismic reflection data using a single amplitude attribute",
+    "publicationDate": "2023-03-23",
+    "year": 2023,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 10,
+    "fwci": 1.8038,
+    "topics": [
+      "Seismic Imaging and Inversion Techniques",
+      "Seismic Waves and Analysis",
+      "Geophysical and Geoelectrical Methods"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2991007228",
+    "doi": "https://doi.org/10.1115/ajkfluids2019-4809",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054922583",
+    "allAuthorOpenAlexIds": [
+      "A5054922583",
+      "A5065687785",
+      "A5011094295"
+    ],
+    "firstAuthorLastName": "Khan",
+    "allAuthors": [
+      "Sikandar Khan",
+      "Yehia Abel Khulief",
+      "Abdullatif Abdulrahman Al-Shuhail"
+    ],
+    "title": "Reservoir Geomechanical Modeling and Ground Uplift During CO2 Injection Into Khuff Reservoir",
+    "publicationDate": "2019-07-28",
+    "year": 2019,
+    "venue": "",
+    "citations": 8,
+    "fwci": 0.5181,
+    "topics": [
+      "CO2 Sequestration and Geologic Interactions",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Drilling and Well Engineering"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4409191406",
     "doi": "https://doi.org/10.1007/s13369-025-10121-0",
     "program": "",
@@ -111305,7 +111290,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2019,
     "venue": "Arabian Journal of Geosciences",
     "citations": 11,
-    "fwci": 1.5237,
+    "fwci": 1.5215,
     "topics": [
       "Seismic Imaging and Inversion Techniques",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -111512,39 +111497,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4360604124",
-    "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106231",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054922583",
-    "allAuthorOpenAlexIds": [
-      "A5054922583",
-      "A5018253069",
-      "A5006028315",
-      "A5081449036"
-    ],
-    "firstAuthorLastName": "Bargees",
-    "allAuthors": [
-      "Amen Bargees",
-      "Dicky Harishidayat",
-      "Naveed Iqbal",
-      "Abdullatif Abdulrahman Al-Shuhail"
-    ],
-    "title": "Automatic gas chimney detection from 3D seismic reflection data using a single amplitude attribute",
-    "publicationDate": "2023-03-23",
-    "year": 2023,
-    "venue": "Marine and Petroleum Geology",
-    "citations": 9,
-    "fwci": 1.6292,
-    "topics": [
-      "Seismic Imaging and Inversion Techniques",
-      "Seismic Waves and Analysis",
-      "Geophysical and Geoelectrical Methods"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W3193448040",
     "doi": "https://doi.org/10.3390/min11080891",
     "program": "",
@@ -111609,37 +111561,6 @@ export const worksTable: WorkTableRecord[] = [
       "Advanced Image Processing Techniques",
       "Image and Signal Denoising Methods",
       "Image Processing Techniques and Applications"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2991007228",
-    "doi": "https://doi.org/10.1115/ajkfluids2019-4809",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054922583",
-    "allAuthorOpenAlexIds": [
-      "A5054922583",
-      "A5065687785",
-      "A5011094295"
-    ],
-    "firstAuthorLastName": "Khan",
-    "allAuthors": [
-      "Sikandar Khan",
-      "Yehia Abel Khulief",
-      "Abdullatif Abdulrahman Al-Shuhail"
-    ],
-    "title": "Reservoir Geomechanical Modeling and Ground Uplift During CO2 Injection Into Khuff Reservoir",
-    "publicationDate": "2019-07-28",
-    "year": 2019,
-    "venue": "",
-    "citations": 7,
-    "fwci": 0.5189,
-    "topics": [
-      "CO2 Sequestration and Geologic Interactions",
-      "Hydraulic Fracturing and Reservoir Analysis",
-      "Drilling and Well Engineering"
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
@@ -111863,16 +111784,13 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Journal of Environmental and Engineering Geophysics",
     "citations": 9,
-    "fwci": 1.6596,
+    "fwci": 1.6593,
     "topics": [
       "Geophysical Methods and Applications",
       "Seismic Waves and Analysis",
       "Geophysical and Geoelectrical Methods"
     ],
-    "institutions": [
-      "Beihai People's Hospital",
-      "Demos"
-    ]
+    "institutions": []
   },
   {
     "workId": "https://openalex.org/W3130243820",
@@ -113579,9 +113497,8 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Abdullah University of Science and Technology",
-      "King University",
-      "Delft University of Technology",
-      "King Fahd University of Petroleum and Minerals"
+      "King Fahd University of Petroleum and Minerals",
+      "Delft University of Technology"
     ]
   },
   {
@@ -114009,7 +113926,6 @@ export const worksTable: WorkTableRecord[] = [
       "Khalifa University of Science and Technology",
       "Saudi Aramco Medical Services Organization",
       "Saudi Aramco (Saudi Arabia)",
-      "Geophysical Survey",
       "Geophysical Laboratory"
     ]
   },
@@ -114571,7 +114487,6 @@ export const worksTable: WorkTableRecord[] = [
       "Geological Modeling and Analysis"
     ],
     "institutions": [
-      "Oman Medical College",
       "Petroleum Development Oman (Oman)",
       "King Fahd University of Petroleum and Minerals"
     ]
@@ -114638,7 +114553,7 @@ export const worksTable: WorkTableRecord[] = [
     "allAuthorOpenAlexIds": [
       "A5054922583",
       "A5061327523",
-      "A5114596568",
+      "A5098950259",
       "A5077467560"
     ],
     "firstAuthorLastName": "Edigbue",
@@ -114865,7 +114780,6 @@ export const worksTable: WorkTableRecord[] = [
       "Drilling and Well Engineering"
     ],
     "institutions": [
-      "King Fahd Security College",
       "King Fahd University of Petroleum and Minerals"
     ]
   },
@@ -116026,15 +115940,15 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2003,
     "venue": "Journal of Sedimentary Research",
     "citations": 126,
-    "fwci": 6.0053,
+    "fwci": 6.0074,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",
       "Geological and Geochemical Analysis"
     ],
     "institutions": [
-      "Institut Français",
       "Shell (Netherlands)",
+      "Institut Français",
       "Université de Bordeaux",
       "Lyon 1 Université",
       "Abu Dhabi National Oil (United Arab Emirates)",
@@ -117474,7 +117388,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Journal of Petroleum Geology",
     "citations": 44,
-    "fwci": 0.9907,
+    "fwci": 0.9896,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological and Geophysical Studies",
@@ -117483,7 +117397,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
       "GeneFluidics (United States)",
-      "PerkinElmer (United States)",
       "Saudi Aramco (Saudi Arabia)"
     ]
   },
@@ -117565,51 +117478,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
       "University of Leeds"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2739240634",
-    "doi": "https://doi.org/10.1002/gj.2965",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5059881838",
-    "allAuthorOpenAlexIds": [
-      "A5059881838",
-      "A5037670462",
-      "A5109049489",
-      "A5038759635",
-      "A5029189031",
-      "A5083162714",
-      "A5019288162"
-    ],
-    "firstAuthorLastName": "Jafarian",
-    "allAuthors": [
-      "Arman Jafarian",
-      "Mohammad Javanbakht",
-      "Ardiansyah Koeshidayatullah",
-      "Nuno L. A. Pimentel",
-      "Osman Salad Hersi",
-      "Ahmad Yahyaei",
-      "Maryam Beigi"
-    ],
-    "title": "Paleoenvironmental, diagenetic, and eustatic controls on the Permo–Triassic carbonate–evaporite reservoir quality, Upper Dalan and Kangan formations, Lavan Gas Field, Zagros Basin",
-    "publicationDate": "2017-07-19",
-    "year": 2017,
-    "venue": "Geological Journal",
-    "citations": 39,
-    "fwci": 3.5125,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological and Geochemical Analysis"
-    ],
-    "institutions": [
-      "Islamic Azad University, Mashhad",
-      "University of Manchester",
-      "Iscte – Instituto Universitário de Lisboa",
-      "Instituto Dom Luiz",
-      "University of Regina",
-      "National Iranian Oil Company (Iran)",
-      "Islamic Azad University North Tehran Branch"
     ]
   },
   {
@@ -118117,6 +117985,51 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2739240634",
+    "doi": "https://doi.org/10.1002/gj.2965",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5059881838",
+    "allAuthorOpenAlexIds": [
+      "A5059881838",
+      "A5037670462",
+      "A5109049489",
+      "A5038759635",
+      "A5029189031",
+      "A5083162714",
+      "A5019288162"
+    ],
+    "firstAuthorLastName": "Jafarian",
+    "allAuthors": [
+      "Arman Jafarian",
+      "Mohammad Javanbakht",
+      "Ardiansyah Koeshidayatullah",
+      "Nuno L. A. Pimentel",
+      "Osman Salad Hersi",
+      "Ahmad Yahyaei",
+      "Maryam Beigi"
+    ],
+    "title": "Paleoenvironmental, diagenetic, and eustatic controls on the Permo–Triassic carbonate–evaporite reservoir quality, Upper Dalan and Kangan formations, Lavan Gas Field, Zagros Basin",
+    "publicationDate": "2017-07-19",
+    "year": 2017,
+    "venue": "Geological Journal",
+    "citations": 39,
+    "fwci": 3.5,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "Islamic Azad University, Mashhad",
+      "University of Manchester",
+      "University of Lisbon",
+      "Instituto Dom Luiz",
+      "University of Regina",
+      "National Iranian Oil Company (Iran)",
+      "Islamic Azad University North Tehran Branch"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W1571804710",
     "doi": "https://doi.org/10.1002/gj.2678",
     "program": "",
@@ -118298,34 +118211,54 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4411972762",
-    "doi": "https://doi.org/10.1080/01431161.2025.2526000",
+    "workId": "https://openalex.org/W4411984658",
+    "doi": "https://doi.org/10.1038/s41598-025-09471-4",
     "program": "",
     "primaryAuthorOpenAlexId": "A5059881838",
     "allAuthorOpenAlexIds": [
       "A5059881838",
-      "A5026749097",
-      "A5104094821"
+      "A5037670462",
+      "A5064466413",
+      "A5100329853",
+      "A5100377202",
+      "A5067004532",
+      "A5021829364",
+      "A5033327731",
+      "A5001810569"
     ],
-    "firstAuthorLastName": "Hammam",
+    "firstAuthorLastName": "Jafarian",
     "allAuthors": [
-      "Ahmed Hammam",
+      "Arman Jafarian",
+      "Antun Husinec",
       "Ardiansyah Koeshidayatullah",
-      "Khalid Al‐Ramadan"
+      "Xi Chen",
+      "Meng Wang",
+      "Clemens Vinzenz Ullmann",
+      "Abdus Saboor",
+      "Kaibo Han",
+      "Chengshan Wang"
     ],
-    "title": "Unraveling factors controlling spectral characteristics and spectrofacies in carbonate rocks: a case study from the upper Jurassic carbonate sequence, Central Saudi Arabia",
+    "title": "Cerium anomalies and iodine track nonuniform paleoredox conditions during the Aptian Oceanic Anoxic Event 1a",
     "publicationDate": "2025-07-03",
     "year": 2025,
-    "venue": "International Journal of Remote Sensing",
-    "citations": 2,
-    "fwci": 1.9104,
+    "venue": "Scientific Reports",
+    "citations": 4,
+    "fwci": 2.1275,
     "topics": [
-      "Geochemistry and Geologic Mapping",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Remote-Sensing Image Classification"
+      "Geochemistry and Elemental Analysis",
+      "Radioactive element chemistry and processing",
+      "Paleontology and Stratigraphy of Fossils"
     ],
     "institutions": [
-      "King Fahd University of Petroleum and Minerals"
+      "Zhejiang Ocean University",
+      "St. Lawrence University",
+      "King Fahd University of Petroleum and Minerals",
+      "China University of Geosciences (Beijing)",
+      "Institute of Ecology and Geography",
+      "Xinjiang Institute of Ecology and Geography",
+      "University of Exeter",
+      "University of Peshawar",
+      "Hebei GEO University"
     ]
   },
   {
@@ -118356,8 +118289,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2025-12-12",
     "year": 2025,
     "venue": "Geoenergy Science and Engineering",
-    "citations": 2,
-    "fwci": 1.0776,
+    "citations": 3,
+    "fwci": 1.5956,
     "topics": [
       "Geological Modeling and Analysis",
       "Reservoir Engineering and Simulation Methods",
@@ -118367,6 +118300,37 @@ export const worksTable: WorkTableRecord[] = [
       "King Fahd University of Petroleum and Minerals",
       "Planetary Science Institute",
       "Saudi Aramco (Saudi Arabia)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4411972762",
+    "doi": "https://doi.org/10.1080/01431161.2025.2526000",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5059881838",
+    "allAuthorOpenAlexIds": [
+      "A5059881838",
+      "A5026749097",
+      "A5104094821"
+    ],
+    "firstAuthorLastName": "Hammam",
+    "allAuthors": [
+      "Ahmed Hammam",
+      "Ardiansyah Koeshidayatullah",
+      "Khalid Al‐Ramadan"
+    ],
+    "title": "Unraveling factors controlling spectral characteristics and spectrofacies in carbonate rocks: a case study from the upper Jurassic carbonate sequence, Central Saudi Arabia",
+    "publicationDate": "2025-07-03",
+    "year": 2025,
+    "venue": "International Journal of Remote Sensing",
+    "citations": 2,
+    "fwci": 1.9104,
+    "topics": [
+      "Geochemistry and Geologic Mapping",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Remote-Sensing Image Classification"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -118426,57 +118390,6 @@ export const worksTable: WorkTableRecord[] = [
       "earthquake and tectonic studies"
     ],
     "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W4411984658",
-    "doi": "https://doi.org/10.1038/s41598-025-09471-4",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5059881838",
-    "allAuthorOpenAlexIds": [
-      "A5059881838",
-      "A5037670462",
-      "A5064466413",
-      "A5100329853",
-      "A5100377202",
-      "A5067004532",
-      "A5021829364",
-      "A5033327731",
-      "A5001810569"
-    ],
-    "firstAuthorLastName": "Jafarian",
-    "allAuthors": [
-      "Arman Jafarian",
-      "Antun Husinec",
-      "Ardiansyah Koeshidayatullah",
-      "Xi Chen",
-      "Meng Wang",
-      "Clemens Vinzenz Ullmann",
-      "Abdus Saboor",
-      "Kaibo Han",
-      "Chengshan Wang"
-    ],
-    "title": "Cerium anomalies and iodine track nonuniform paleoredox conditions during the Aptian Oceanic Anoxic Event 1a",
-    "publicationDate": "2025-07-03",
-    "year": 2025,
-    "venue": "Scientific Reports",
-    "citations": 3,
-    "fwci": 1.6059,
-    "topics": [
-      "Geochemistry and Elemental Analysis",
-      "Radioactive element chemistry and processing",
-      "Paleontology and Stratigraphy of Fossils"
-    ],
-    "institutions": [
-      "Zhejiang Ocean University",
-      "St. Lawrence University",
-      "King Fahd University of Petroleum and Minerals",
-      "China University of Geosciences (Beijing)",
-      "Institute of Ecology and Geography",
-      "Xinjiang Institute of Ecology and Geography",
-      "University of Exeter",
-      "University of Peshawar",
-      "Hebei GEO University"
-    ]
   },
   {
     "workId": "https://openalex.org/W1997639027",
@@ -120232,7 +120145,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2019,
     "venue": "Extremophiles",
     "citations": 65,
-    "fwci": 7.5375,
+    "fwci": 7.5345,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -120391,8 +120304,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2025-07-08",
     "year": 2025,
     "venue": "Environmental Monitoring and Assessment",
-    "citations": 25,
-    "fwci": 2.7432,
+    "citations": 26,
+    "fwci": 2.8444,
     "topics": [
       "Heavy metals in environment",
       "Arsenic contamination and mitigation",
@@ -120422,13 +120335,12 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2000,
     "venue": "SEPM (Society for Sedimentary Geology) eBooks",
     "citations": 95,
-    "fwci": 0.8276,
+    "fwci": 0.8326,
     "topics": [
       "Geochemistry and Geologic Mapping"
     ],
     "institutions": [
-      "Qatar Petroleum (Qatar)",
-      "Equinor (Norway)"
+      "Qatar Petroleum (Qatar)"
     ]
   },
   {
@@ -120895,7 +120807,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "The Science of The Total Environment",
     "citations": 14,
-    "fwci": 1.3929,
+    "fwci": 1.3868,
     "topics": [
       "Methane Hydrates and Related Phenomena",
       "Paleontology and Stratigraphy of Fossils",
@@ -121063,7 +120975,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Biogeochemistry",
     "citations": 9,
-    "fwci": 6.8139,
+    "fwci": 6.7588,
     "topics": [
       "Coastal wetland ecosystem dynamics",
       "Geology and Paleoclimatology Research",
@@ -121073,7 +120985,6 @@ export const worksTable: WorkTableRecord[] = [
       "Qatar University",
       "University of Toronto",
       "Scarborough Health Network",
-      "Department of Biological Sciences",
       "University of Windsor"
     ]
   },
@@ -121100,7 +121011,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "The Science of The Total Environment",
     "citations": 5,
-    "fwci": 1.0696,
+    "fwci": 1.0608,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Paleontology and Stratigraphy of Fossils",
@@ -121257,7 +121168,6 @@ export const worksTable: WorkTableRecord[] = [
       "Hydrocarbon exploration and reservoir analysis"
     ],
     "institutions": [
-      "Treasury",
       "Yarmouk University"
     ]
   },
@@ -124223,7 +124133,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "University of Basel",
-      "Hôpital de la Providence",
       "Qatar University"
     ]
   },
@@ -124299,8 +124208,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-09-07",
     "year": 2024,
     "venue": "Computers & Geosciences",
-    "citations": 27,
-    "fwci": 3.3691,
+    "citations": 28,
+    "fwci": 3.4673,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Hydrocarbon exploration and reservoir analysis",
@@ -124309,7 +124218,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Environmental and Water Resources Engineering",
       "Stanford University",
-      "Total (France)",
       "Imperial College London"
     ]
   },
@@ -124550,6 +124458,39 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4387426980",
+    "doi": "https://doi.org/10.47514/phyaccess.2022.2.2.013",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5072935704",
+    "allAuthorOpenAlexIds": [
+      "A5072935704",
+      "A5011572450",
+      "A5114088991"
+    ],
+    "firstAuthorLastName": "Salisu",
+    "allAuthors": [
+      "Anas Muhammad Salisu",
+      "Joseph I Abaleni",
+      "Aisha S Abdullahi"
+    ],
+    "title": "Determination of shielding Effectiveness of Concretes with different Aggregate and cement composition",
+    "publicationDate": "2022-01-01",
+    "year": 2022,
+    "venue": "Physics Access",
+    "citations": 2,
+    "fwci": 0.1344,
+    "topics": [
+      "Radiation Shielding Materials Analysis",
+      "Graphite, nuclear technology, radiation studies",
+      "Nuclear and radioactivity studies"
+    ],
+    "institutions": [
+      "Ahmadu Bello University",
+      "Kaduna State University",
+      "Kaduna State College of Education Gidan Waya"
     ]
   },
   {
@@ -124838,8 +124779,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-09-15",
     "year": 2022,
     "venue": "Energy Conversion and Management X",
-    "citations": 84,
-    "fwci": 6.6832,
+    "citations": 85,
+    "fwci": 6.6822,
     "topics": [
       "Carbon Dioxide Capture Technologies",
       "CO2 Sequestration and Geologic Interactions",
@@ -124887,8 +124828,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-08-10",
     "year": 2023,
     "venue": "Earth-Science Reviews",
-    "citations": 84,
-    "fwci": 7.0602,
+    "citations": 85,
+    "fwci": 7.1228,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Reservoir Engineering and Simulation Methods",
@@ -128210,14 +128151,13 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1995,
     "venue": "Journal of Petroleum Geology",
     "citations": 35,
-    "fwci": 3.8179,
+    "fwci": 3.8186,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
       "Geological formations and processes"
     ],
     "institutions": [
-      "Ministry of Public Health",
       "American University of Beirut"
     ]
   },
@@ -128509,8 +128449,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "United States Geological Survey",
-      "China Geological Survey",
-      "Imation (United States)"
+      "China Geological Survey"
     ]
   },
   {
@@ -129322,7 +129261,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Energy & Fuels",
     "citations": 20,
-    "fwci": 3.3074,
+    "fwci": 3.2855,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Coal Properties and Utilization",
@@ -129331,7 +129270,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Abdullah University of Science and Technology",
       "Edith Cowan University",
-      "Center for Environmental Health",
       "University of Kerbala",
       "Umm al-Qura University",
       "Institute of Construction and Architecture of the Slovak Academy of Sciences",
@@ -129396,8 +129334,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-03-18",
     "year": 2020,
     "venue": "Geology",
-    "citations": 44,
-    "fwci": 2.5933,
+    "citations": 45,
+    "fwci": 2.7291,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -130624,7 +130562,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "ACS Omega",
     "citations": 1,
-    "fwci": 0.365,
+    "fwci": 0.3615,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Coal Properties and Utilization",
@@ -130632,9 +130570,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Hashemite University",
-      "Department of Chemistry and Earth Sciences",
-      "King Fahd University of Petroleum and Minerals",
-      "Centre de Géosciences"
+      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -131159,6 +131095,54 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W7165128792",
+    "doi": "https://doi.org/10.1016/j.palaeo.2026.113986",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5079903196",
+    "allAuthorOpenAlexIds": [
+      "A5079903196",
+      "A5116126038",
+      "A5011098712",
+      "A5090938258",
+      "A5138939053",
+      "A5138888982",
+      "A5094009312",
+      "A5136621371",
+      "A5134710682",
+      "A5127808215"
+    ],
+    "firstAuthorLastName": "Ardila-Sanchez",
+    "allAuthors": [
+      "Maria Ardila-Sanchez",
+      "Jihede Haj Messaoud",
+      "Amir Kalifi",
+      "Khalil Ibrahim",
+      "Muhammad Usman",
+      "Israa S. Abu‐Mahfouz",
+      "Samer Aljurf",
+      "Volker Vahrenkamp",
+      "John H. Powell",
+      "Frans van Buchem"
+    ],
+    "title": "Evolution of Maastrichtian paleoproductivity along the southern Tethys margin (Jordan): From upwelling to runoff",
+    "publicationDate": "2026-06-18",
+    "year": 2026,
+    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geochemistry and Elemental Analysis",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "King Abdullah University of Science and Technology",
+      "Hashemite University",
+      "King Fahd University of Petroleum and Minerals",
+      "British Geological Survey"
     ]
   },
   {
@@ -131776,7 +131760,6 @@ export const worksTable: WorkTableRecord[] = [
       "Geochemistry and Geologic Mapping"
     ],
     "institutions": [
-      "KPMG (United Kingdom)",
       "Saudi Aramco (United States)"
     ]
   },
@@ -131977,8 +131960,7 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Saudi Aramco (Saudi Arabia)",
       "The University of Texas at Austin",
-      "Bureau of Economic Analysis",
-      "Kitware (United States)"
+      "Bureau of Economic Analysis"
     ]
   },
   {
@@ -132396,7 +132378,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2009,
     "venue": "Water Air & Soil Pollution",
     "citations": 30,
-    "fwci": 1.7127,
+    "fwci": 19.5789,
     "topics": [
       "Geochemistry and Elemental Analysis",
       "Heavy metals in environment",
@@ -132494,7 +132476,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2013,
     "venue": "Arabian Journal of Geosciences",
     "citations": 25,
-    "fwci": 2.7293,
+    "fwci": 2.7288,
     "topics": [
       "Geochemistry and Elemental Analysis",
       "Geological and Geochemical Analysis",
@@ -132502,8 +132484,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Sultan Qaboos University",
-      "Centre Marc Bloch",
-      "Ferrer Grupo (Spain)",
       "InfoConsult (Germany)"
     ]
   },
@@ -132635,7 +132615,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geological Society London Special Publications",
     "citations": 5,
-    "fwci": 3.6122,
+    "fwci": 3.567,
     "topics": [
       "Geological and Geophysical Studies Worldwide",
       "Hydrocarbon exploration and reservoir analysis",
@@ -132643,7 +132623,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Swedish Museum of Natural History",
-      "University of Cambridge",
       "Sultan Qaboos University",
       "Dŵr Cymru Welsh Water (United Kingdom)"
     ]
@@ -133188,8 +133167,7 @@ export const worksTable: WorkTableRecord[] = [
       "King Abdulaziz University",
       "Mineral Resources",
       "Helwan University",
-      "Sultan Qaboos University",
-      "University of Hohenheim"
+      "Sultan Qaboos University"
     ]
   },
   {
@@ -133579,8 +133557,7 @@ export const worksTable: WorkTableRecord[] = [
       "Seismology and Earthquake Studies"
     ],
     "institutions": [
-      "Saudi Aramco (United States)",
-      "Western Isles Hospital"
+      "Saudi Aramco (United States)"
     ]
   },
   {
@@ -134276,6 +134253,31 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W3011458131",
+    "doi": "https://doi.org/10.2113/geoarabia180117",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5081811780",
+    "allAuthorOpenAlexIds": [
+      "A5081811780"
+    ],
+    "firstAuthorLastName": "Al-Husseini",
+    "allAuthors": [
+      "Moujahed I. Al-Husseini"
+    ],
+    "title": "MIDDLE EAST GEOLOGIC TIME SCALE 2013",
+    "publicationDate": "2013-01-01",
+    "year": 2013,
+    "venue": "GeoArabia",
+    "citations": 13,
+    "fwci": 0.7848,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "earthquake and tectonic studies",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
     "workId": "https://openalex.org/W2955710534",
     "doi": "https://doi.org/10.2113/geoarabia1502175",
     "program": "",
@@ -134304,31 +134306,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Kingdom University"
     ]
-  },
-  {
-    "workId": "https://openalex.org/W3011458131",
-    "doi": "https://doi.org/10.2113/geoarabia180117",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5081811780",
-    "allAuthorOpenAlexIds": [
-      "A5081811780"
-    ],
-    "firstAuthorLastName": "Al-Husseini",
-    "allAuthors": [
-      "Moujahed I. Al-Husseini"
-    ],
-    "title": "MIDDLE EAST GEOLOGIC TIME SCALE 2013",
-    "publicationDate": "2013-01-01",
-    "year": 2013,
-    "venue": "GeoArabia",
-    "citations": 12,
-    "fwci": 0.7848,
-    "topics": [
-      "Geology and Paleoclimatology Research",
-      "earthquake and tectonic studies",
-      "Paleontology and Stratigraphy of Fossils"
-    ],
-    "institutions": []
   },
   {
     "workId": "https://openalex.org/W3083121467",
@@ -134476,7 +134453,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Gondwana Research",
     "citations": 3,
-    "fwci": 2.6234,
+    "fwci": 2.6095,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -134485,7 +134462,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Christian-Albrechts-Universität zu Kiel",
       "Bahrain Center for Strategic International and Energy Studies",
-      "Kuwait Petroleum Corporation (Kuwait)",
       "Kuwait Oil Company (Kuwait)"
     ]
   },
@@ -135066,8 +135042,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2005-01-24",
     "year": 2005,
     "venue": "Facies",
-    "citations": 60,
-    "fwci": 5.1787,
+    "citations": 61,
+    "fwci": 5.1764,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -135079,7 +135055,6 @@ export const worksTable: WorkTableRecord[] = [
       "École Nationale Supérieure des Mines de Nancy",
       "Lyon 1 Université",
       "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
-      "United States Army Reserve",
       "Nantes Université",
       "Université de Franche-Comté",
       "Université de Bourgogne",
@@ -135251,6 +135226,35 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W2973012426",
+    "doi": "https://doi.org/10.1016/j.cretres.2019.104241",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "The Jurassic/Cretaceous system boundary is an impasse. Why do not go back to Oppel’s 1865 original an historic definition of the Tithonian?",
+    "publicationDate": "2019-09-10",
+    "year": 2019,
+    "venue": "Cretaceous Research",
+    "citations": 24,
+    "fwci": 3.4533,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Lyon 1 Université",
+      "Laboratoire de Sciences de la Terre",
+      "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W3173931679",
     "doi": "",
     "program": "",
@@ -135274,35 +135278,6 @@ export const worksTable: WorkTableRecord[] = [
       "Evolution and Paleontology Studies"
     ],
     "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W2973012426",
-    "doi": "https://doi.org/10.1016/j.cretres.2019.104241",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5084630459",
-    "allAuthorOpenAlexIds": [
-      "A5084630459"
-    ],
-    "firstAuthorLastName": "Énay",
-    "allAuthors": [
-      "Raymond Énay"
-    ],
-    "title": "The Jurassic/Cretaceous system boundary is an impasse. Why do not go back to Oppel’s 1865 original an historic definition of the Tithonian?",
-    "publicationDate": "2019-09-10",
-    "year": 2019,
-    "venue": "Cretaceous Research",
-    "citations": 23,
-    "fwci": 3.4621,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geological and Geochemical Analysis",
-      "Geology and Paleoclimatology Research"
-    ],
-    "institutions": [
-      "Lyon 1 Université",
-      "Laboratoire de Sciences de la Terre",
-      "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement"
-    ]
   },
   {
     "workId": "https://openalex.org/W8606722",
@@ -135940,8 +135915,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1985-09-01",
     "year": 1985,
     "venue": "Bulletin de la Société Géologique de France",
-    "citations": 80,
-    "fwci": 5.2361,
+    "citations": 81,
+    "fwci": 5.2369,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Pleistocene-Era Hominins and Archaeology",
@@ -136042,6 +136017,31 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W2335753855",
+    "doi": "https://doi.org/10.2113/gssgfbull.s7-xxii.4.581",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5084630459",
+    "allAuthorOpenAlexIds": [
+      "A5084630459"
+    ],
+    "firstAuthorLastName": "Énay",
+    "allAuthors": [
+      "Raymond Énay"
+    ],
+    "title": "Indices d'emersion et d'influence continentales dans l'Oxfordien superieur-Kimmeridgien inferieur en France; Interpretation paleogeographique et consequences paleobiogeographiques",
+    "publicationDate": "1980-01-01",
+    "year": 1980,
+    "venue": "Bulletin de la Société Géologique de France",
+    "citations": 20,
+    "fwci": 2.1609,
+    "topics": [
+      "Evolution and Paleontology Studies",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": []
+  },
+  {
     "workId": "https://openalex.org/W2022942026",
     "doi": "https://doi.org/10.1016/s1631-0713(02)01867-9",
     "program": "",
@@ -136080,29 +136080,40 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W2335753855",
-    "doi": "https://doi.org/10.2113/gssgfbull.s7-xxii.4.581",
+    "workId": "https://openalex.org/W2001904440",
+    "doi": "https://doi.org/10.1016/j.geobios.2004.01.001",
     "program": "",
     "primaryAuthorOpenAlexId": "A5084630459",
     "allAuthorOpenAlexIds": [
-      "A5084630459"
+      "A5084630459",
+      "A5002382844",
+      "A5040276116",
+      "A5113658841"
     ],
     "firstAuthorLastName": "Énay",
     "allAuthors": [
-      "Raymond Énay"
+      "Raymond Énay",
+      "Pierre Hantzpergue",
+      "Mohamed Soussi",
+      "Charles Mangold"
     ],
-    "title": "Indices d'emersion et d'influence continentales dans l'Oxfordien superieur-Kimmeridgien inferieur en France; Interpretation paleogeographique et consequences paleobiogeographiques",
-    "publicationDate": "1980-01-01",
-    "year": 1980,
-    "venue": "Bulletin de la Société Géologique de France",
-    "citations": 19,
-    "fwci": 2.1617,
+    "title": "La limite Kimméridgien–Tithonien et l'âge des formations du Jurassique supérieur de la Dorsale tunisienne, comparaisons avec l'Algérie et la Sicile",
+    "publicationDate": "2005-06-29",
+    "year": 2005,
+    "venue": "Geobios",
+    "citations": 15,
+    "fwci": 0.8004,
     "topics": [
-      "Evolution and Paleontology Studies",
-      "Paleontology and Stratigraphy of Fossils",
-      "Geological and Geochemical Analysis"
+      "Geological and Geophysical Studies Worldwide",
+      "Geological formations and processes",
+      "Geology and Paleoclimatology Research"
     ],
-    "institutions": []
+    "institutions": [
+      "Lyon 1 Université",
+      "Centre National de la Recherche Scientifique",
+      "Tunis University",
+      "Tunis El Manar University"
+    ]
   },
   {
     "workId": "https://openalex.org/W2312232033",
@@ -136165,42 +136176,6 @@ export const worksTable: WorkTableRecord[] = [
       "Centre National de la Recherche Scientifique",
       "Lyon College",
       "Institute of Paleoprimatology Human Paleontology Evolution and Paleoenvironments"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2001904440",
-    "doi": "https://doi.org/10.1016/j.geobios.2004.01.001",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5084630459",
-    "allAuthorOpenAlexIds": [
-      "A5084630459",
-      "A5002382844",
-      "A5040276116",
-      "A5113658841"
-    ],
-    "firstAuthorLastName": "Énay",
-    "allAuthors": [
-      "Raymond Énay",
-      "Pierre Hantzpergue",
-      "Mohamed Soussi",
-      "Charles Mangold"
-    ],
-    "title": "La limite Kimméridgien–Tithonien et l'âge des formations du Jurassique supérieur de la Dorsale tunisienne, comparaisons avec l'Algérie et la Sicile",
-    "publicationDate": "2005-06-29",
-    "year": 2005,
-    "venue": "Geobios",
-    "citations": 14,
-    "fwci": 0.8004,
-    "topics": [
-      "Geological and Geophysical Studies Worldwide",
-      "Geological formations and processes",
-      "Geology and Paleoclimatology Research"
-    ],
-    "institutions": [
-      "Lyon 1 Université",
-      "Centre National de la Recherche Scientifique",
-      "Tunis University",
-      "Tunis El Manar University"
     ]
   },
   {
@@ -136328,7 +136303,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2004,
     "venue": "Bulletin de la Société Géologique de France",
     "citations": 10,
-    "fwci": 2.147,
+    "fwci": 2.1473,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
@@ -136340,7 +136315,6 @@ export const worksTable: WorkTableRecord[] = [
       "Nantes Université",
       "Université de Bourgogne",
       "Biogéosciences",
-      "Saint-Gobain (France)",
       "Bayer (United States)"
     ]
   },
@@ -136490,7 +136464,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2000-11-01",
     "year": 2000,
     "venue": "Bulletin de la Société Géologique de France",
-    "citations": 2,
+    "citations": 3,
     "fwci": 0,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
@@ -136582,7 +136556,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1981-01-01",
     "year": 1981,
     "venue": "Geobios",
-    "citations": 26,
+    "citations": 27,
     "fwci": 0,
     "topics": [
       "Geology and Paleoclimatology Research",
@@ -136654,8 +136628,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1999-08-01",
     "year": 1999,
     "venue": "Comptes Rendus de l Académie des Sciences - Series IIA - Earth and Planetary Science",
-    "citations": 13,
-    "fwci": 0.6497,
+    "citations": 14,
+    "fwci": 0.6499,
     "topics": [
       "Geological and Geophysical Studies Worldwide",
       "Geology and Paleoclimatology Research",
@@ -137249,7 +137223,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1980-01-01",
     "year": 1980,
     "venue": "Bulletin mensuel de la Société linnéenne de Lyon",
-    "citations": 6,
+    "citations": 7,
     "fwci": 0,
     "topics": [
       "Maritime and Coastal Archaeology",
@@ -138311,8 +138285,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2010-07-20",
     "year": 2010,
     "venue": "AAPG Bulletin",
-    "citations": 749,
-    "fwci": 12.4239,
+    "citations": 750,
+    "fwci": 12.4166,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -138320,7 +138294,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Uppsala University",
-      "American Petroleum Institute",
       "King Fahd University of Petroleum and Minerals",
       "Pontifícia Universidade Católica do Rio Grande do Sul",
       "Universidade Federal do Rio Grande do Sul"
@@ -138649,8 +138622,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2009-08-01",
     "year": 2009,
     "venue": "The Canadian Mineralogist",
-    "citations": 33,
-    "fwci": 1.1418,
+    "citations": 34,
+    "fwci": 1.1414,
     "topics": [
       "Geochemistry and Elemental Analysis",
       "Clay minerals and soil interactions",
@@ -139119,12 +139092,12 @@ export const worksTable: WorkTableRecord[] = [
     "allAuthorOpenAlexIds": [
       "A5085007251",
       "A5047530160",
-      "A5000601328"
+      "A5084911171"
     ],
     "firstAuthorLastName": "Radwan",
     "allAuthors": [
       "Omar A. Radwan",
-      "Ali BU KHAMSIN",
+      "Ali Bu Khamsin",
       "Khalid A. Al-Ramadan"
     ],
     "title": "Detrital dolomite: characterization and characteristics",
@@ -139132,15 +139105,14 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Geological Quarterly",
     "citations": 7,
-    "fwci": 0.2252,
+    "fwci": 0.2244,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes"
     ],
     "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Grantmakers for Effective Organizations"
+      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -139150,7 +139122,7 @@ export const worksTable: WorkTableRecord[] = [
     "primaryAuthorOpenAlexId": "A5085007251",
     "allAuthorOpenAlexIds": [
       "A5085007251",
-      "A5136530507",
+      "A5122163086",
       "A5031433168",
       "A5136562939",
       "A5077816186",
@@ -139170,7 +139142,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2026,
     "venue": "Scientific Reports",
     "citations": 1,
-    "fwci": 3.9907,
+    "fwci": 3.8877,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Paleontology and Stratigraphy of Fossils",
@@ -140563,15 +140535,14 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2011,
     "venue": "",
     "citations": 2,
-    "fwci": 0.4596,
+    "fwci": 0.3858,
     "topics": [
       "Geological formations and processes",
       "Geological and Geophysical Studies",
       "Geological Modeling and Analysis"
     ],
     "institutions": [
-      "Heidelberg University",
-      "Institute of Electrodynamics"
+      "Heidelberg University"
     ]
   },
   {
@@ -141435,8 +141406,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2003-05-19",
     "year": 2003,
     "venue": "Sedimentary Geology",
-    "citations": 108,
-    "fwci": 2.0018,
+    "citations": 109,
+    "fwci": 2.0025,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -141463,8 +141434,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2013-04-01",
     "year": 2013,
     "venue": "GeoArabia",
-    "citations": 108,
-    "fwci": 3.5635,
+    "citations": 109,
+    "fwci": 3.563,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geology and Paleoclimatology Research",
@@ -141722,8 +141693,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1989-05-01",
     "year": 1989,
     "venue": "Journal of the Geological Society",
-    "citations": 32,
-    "fwci": 0.8748,
+    "citations": 33,
+    "fwci": 0.8752,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Geologic Mapping",
@@ -141846,7 +141817,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1998-09-01",
     "year": 1998,
     "venue": "Journal of Sedimentary Research",
-    "citations": 45,
+    "citations": 46,
     "fwci": 0,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
@@ -141906,8 +141877,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1999-04-01",
     "year": 1999,
     "venue": "Cretaceous Research",
-    "citations": 38,
-    "fwci": 1.1432,
+    "citations": 39,
+    "fwci": 1.1439,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -141935,7 +141906,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1996-09-01",
     "year": 1996,
     "venue": "Chemical Geology",
-    "citations": 37,
+    "citations": 38,
     "fwci": 0.9446,
     "topics": [
       "Radioactivity and Radon Measurements",
@@ -143091,8 +143062,7 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "University of Jordan",
       "Tafila Technical University",
-      "Thermo Fisher Scientific (Japan)",
-      "Sage (United Kingdom)"
+      "Thermo Fisher Scientific (Japan)"
     ]
   },
   {
@@ -143136,7 +143106,7 @@ export const worksTable: WorkTableRecord[] = [
       "A5111725569",
       "A5053481382",
       "A5001315797",
-      "A5063113745",
+      "A5042354060",
       "A5042551923",
       "A5001889707",
       "A5075403090"
@@ -143165,14 +143135,11 @@ export const worksTable: WorkTableRecord[] = [
       "Lyon 1 Université",
       "University of Jordan",
       "Centre National de la Recherche Scientifique",
-      "Centro Studi GISED",
       "Université de Bordeaux",
       "STMicroelectronics (France)",
-      "Centre de Recherche et d’Enseignement de Géosciences de l’Environnement",
       "Laboratoire des Sciences du Climat et de l'Environnement",
       "Archéorient",
-      "Berger (Canada)",
-      "Institut des Sciences du Végétal"
+      "Berger (Canada)"
     ]
   },
   {
@@ -143544,7 +143511,6 @@ export const worksTable: WorkTableRecord[] = [
       "The University of Texas at Dallas",
       "Saudi Aramco (Saudi Arabia)",
       "University of Portland",
-      "United States Geological Survey",
       "Polish Geological Institute"
     ]
   },
@@ -143596,15 +143562,13 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "The Open Geology Journal",
     "citations": 111,
-    "fwci": 8.241,
+    "fwci": 8.2401,
     "topics": [
       "Geochemistry and Geologic Mapping",
       "Hydrocarbon exploration and reservoir analysis",
       "Geological Studies and Exploration"
     ],
-    "institutions": [
-      "University of Portland"
-    ]
+    "institutions": []
   },
   {
     "workId": "https://openalex.org/W2076675713",
@@ -143631,7 +143595,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2013,
     "venue": "Geosciences",
     "citations": 108,
-    "fwci": 6.5802,
+    "fwci": 6.5847,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
@@ -143639,6 +143603,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Wild Salmon Center",
+      "Geotop",
       "McGill University",
       "China University of Geosciences",
       "The University of Texas at Dallas",
@@ -143745,7 +143710,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Tectonics",
     "citations": 81,
-    "fwci": 3.2835,
+    "fwci": 3.2752,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -143755,8 +143720,7 @@ export const worksTable: WorkTableRecord[] = [
       "University of Kansas",
       "Chevron (Netherlands)",
       "Chevron (United States)",
-      "The University of Texas at Austin",
-      "University of Portland"
+      "The University of Texas at Austin"
     ]
   },
   {
@@ -144298,6 +144262,31 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2079727754",
+    "doi": "https://doi.org/10.1016/s1342-937x(05)70683-3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson"
+    ],
+    "title": "Implications of SHRIMP and Microstructural Data on the Age and Kinematics of Shearing in the Asir Terrane, Southern Arabian Shield, Saudi Arabia",
+    "publicationDate": "2001-04-01",
+    "year": 2001,
+    "venue": "Gondwana Research",
+    "citations": 28,
+    "fwci": 1.5405,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": []
+  },
+  {
     "workId": "https://openalex.org/W4225001827",
     "doi": "https://doi.org/10.1016/j.precamres.2022.106674",
     "program": "",
@@ -144322,17 +144311,17 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Precambrian Research",
     "citations": 23,
-    "fwci": 8.143,
+    "fwci": 8.1446,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
       "Geology and Paleoclimatology Research"
     ],
     "institutions": [
+      "Geotop",
       "McGill University",
       "Boise State University",
-      "Université du Québec à Montréal",
-      "Geotop"
+      "Université du Québec à Montréal"
     ]
   },
   {
@@ -144423,31 +144412,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Mineral Resources"
     ]
-  },
-  {
-    "workId": "https://openalex.org/W2079727754",
-    "doi": "https://doi.org/10.1016/s1342-937x(05)70683-3",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5103098706",
-    "allAuthorOpenAlexIds": [
-      "A5103098706"
-    ],
-    "firstAuthorLastName": "Johnson",
-    "allAuthors": [
-      "Peter R. Johnson"
-    ],
-    "title": "Implications of SHRIMP and Microstructural Data on the Age and Kinematics of Shearing in the Asir Terrane, Southern Arabian Shield, Saudi Arabia",
-    "publicationDate": "2001-04-01",
-    "year": 2001,
-    "venue": "Gondwana Research",
-    "citations": 27,
-    "fwci": 1.54,
-    "topics": [
-      "Geological and Geophysical Studies",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological Studies and Exploration"
-    ],
-    "institutions": []
   },
   {
     "workId": "https://openalex.org/W2604512930",
@@ -144929,9 +144893,7 @@ export const worksTable: WorkTableRecord[] = [
       "Clay minerals and soil interactions",
       "Geology and Paleoclimatology Research"
     ],
-    "institutions": [
-      "Hospital San Pedro"
-    ]
+    "institutions": []
   },
   {
     "workId": "https://openalex.org/W2095963960",
@@ -146118,8 +146080,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2009-04-16",
     "year": 2009,
     "venue": "Science",
-    "citations": 277,
-    "fwci": 14.1263,
+    "citations": 278,
+    "fwci": 14.1249,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Plant Diversity and Evolution",
@@ -146210,8 +146172,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2014-09-16",
     "year": 2014,
     "venue": "Review of Palaeobotany and Palynology",
-    "citations": 30,
-    "fwci": 5.9218,
+    "citations": 31,
+    "fwci": 5.9203,
     "topics": [
       "Geological formations and processes",
       "Geology and Paleoclimatology Research",
@@ -146598,15 +146560,13 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1984,
     "venue": "American Association of Petroleum Geologists eBooks",
     "citations": 22,
-    "fwci": 2.0721,
+    "fwci": 2.0787,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological Studies and Exploration",
       "Methane Hydrates and Related Phenomena"
     ],
-    "institutions": [
-      "Petroleum Technology Company (Norway)"
-    ]
+    "institutions": []
   },
   {
     "workId": "https://openalex.org/W1600919588",

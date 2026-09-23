@@ -2078,20 +2078,9 @@
               "lineage": [
                 "https://openalex.org/I139660479"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210150840",
-              "display_name": "Ministry of Education",
-              "ror": "https://ror.org/04a3gjw65",
-              "country_code": "BD",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210150840"
-              ]
             }
           ],
           "countries": [
-            "BD",
             "CN"
           ],
           "is_corresponding": false,
@@ -2106,9 +2095,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "(Ministry of Education), School of Geosciences and Info-Physics",
-              "institution_ids": [
-                "https://openalex.org/I4210150840"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Central South University",
@@ -2177,8 +2164,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 7,
-      "institutions_distinct_count": 7,
+      "countries_distinct_count": 6,
+      "institutions_distinct_count": 6,
       "corresponding_author_ids": [
         "https://openalex.org/A5011750653"
       ],
@@ -2187,11 +2174,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.3808,
+      "fwci": 5.3012,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.95255157,
+        "value": 0.95113476,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3461,7 +3448,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2025-04-18T00:00:00"
     },
     {
@@ -4043,8 +4030,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.699999988079071,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -7122,8 +7109,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6100000143051147,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -8366,8 +8353,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -11871,8 +11858,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -13905,8 +13892,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -16707,8 +16694,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -18160,8 +18147,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "x_sdgs": [],
@@ -19104,8 +19091,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5099999904632568,
-          "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "x_sdgs": [],
@@ -19999,8 +19986,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -20808,8 +20795,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -21609,8 +21596,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -22360,8 +22347,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -22755,8 +22742,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "x_sdgs": [],
@@ -23261,8 +23248,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -25151,8 +25138,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "x_sdgs": [],
@@ -25971,8 +25958,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -26866,8 +26853,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -27765,8 +27752,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -29140,8 +29127,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -29805,8 +29792,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "x_sdgs": [],
@@ -30238,8 +30225,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -30737,8 +30724,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -32219,8 +32206,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "x_sdgs": [],
@@ -35484,21 +35471,8 @@
             "display_name": "Mutasim Sami Osman",
             "orcid": "https://orcid.org/0000-0002-6344-9257"
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I199693650",
-              "display_name": "Umm al-Qura University",
-              "ror": "https://ror.org/01xjqrm90",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I199693650"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": true,
           "raw_author_name": "Mutasim Osman",
           "raw_affiliation_strings": [
@@ -35508,22 +35482,18 @@
           "affiliations": [
             {
               "raw_affiliation_string": "KFUPM, Science, Geology, Saudi Arabia (s2040765@siswa.um.edu.my)",
-              "institution_ids": [
-                "https://openalex.org/I199693650"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5035421092"
       ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I199693650"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": null,
@@ -35876,8 +35846,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7713814377784729,
-          "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "x_sdgs": [],
@@ -36615,7 +36585,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-23T05:00:35.095934",
       "created_date": "2026-03-14T00:00:00"
     },
     {
@@ -37836,8 +37806,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6050946116447449,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -38398,8 +38368,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7608852982521057,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -38974,8 +38944,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7608852982521057,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
