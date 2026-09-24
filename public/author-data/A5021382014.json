@@ -10,7 +10,7 @@
     ],
     "full_name": "Khalid Al Ramadan",
     "works_count": 8,
-    "cited_by_count": 58,
+    "cited_by_count": 60,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 3,
@@ -276,7 +276,7 @@
         "year": 2011,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 46
+        "cited_by_count": 48
       },
       {
         "year": 2014,
@@ -303,7 +303,7 @@
     ],
     "block_key": "k al ramadan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5021382014",
-    "updated_date": "2026-09-19T12:19:47",
+    "updated_date": "2026-09-23T12:19:55",
     "created_date": "2020-10-08T00:00:00"
   },
   "works": [
@@ -1078,9 +1078,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8600000143051147
         }
       ],
       "x_sdgs": [],
@@ -2156,9 +2156,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8999999761581421
         }
       ],
       "x_sdgs": [],
@@ -3768,9 +3768,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8500000238418579
         }
       ],
       "x_sdgs": [],
@@ -4600,9 +4600,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -5530,9 +5530,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8299999833106995
         }
       ],
       "x_sdgs": [],
@@ -6306,6 +6306,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -6334,7 +6335,12 @@
           "author": {
             "id": "https://openalex.org/A5062234351",
             "display_name": "Muhammad Arslan",
-            "orcid": "https://orcid.org/0000-0002-9620-6710"
+            "orcid": "https://orcid.org/0000-0002-9620-6710",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9620-6710",
+              "https://orcid.org/0000-0003-3682-7002",
+              "https://orcid.org/0009-0000-7036-1264"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -6349,7 +6355,10 @@
           "author": {
             "id": "https://openalex.org/A5035815399",
             "display_name": "Michael A. Kaminski",
-            "orcid": "https://orcid.org/0000-0002-7344-5874"
+            "orcid": "https://orcid.org/0000-0002-7344-5874",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7344-5874"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -6364,7 +6373,10 @@
           "author": {
             "id": "https://openalex.org/A5074883327",
             "display_name": "Bassam Tawabini",
-            "orcid": "https://orcid.org/0000-0002-0096-2723"
+            "orcid": "https://orcid.org/0000-0002-0096-2723",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0096-2723"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -6379,7 +6391,8 @@
           "author": {
             "id": "https://openalex.org/A5021382014",
             "display_name": "Khalid Al Ramadan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -6394,7 +6407,10 @@
           "author": {
             "id": "https://openalex.org/A5044235421",
             "display_name": "Lamidi Babalola",
-            "orcid": "https://orcid.org/0000-0002-0052-5603"
+            "orcid": "https://orcid.org/0000-0002-0052-5603",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0052-5603"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -6409,7 +6425,10 @@
           "author": {
             "id": "https://openalex.org/A5070748180",
             "display_name": "Fabrizio Frontalini",
-            "orcid": "https://orcid.org/0000-0002-0425-9306"
+            "orcid": "https://orcid.org/0000-0002-0425-9306",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0425-9306"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -6431,7 +6450,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.58230453,
+        "value": 0.57078539,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6614,6 +6633,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -6632,9 +6652,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6000000238418579,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.6000000238418579
         }
       ],
       "x_sdgs": [],
@@ -6671,7 +6691,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-24T07:57:37.273135",
       "created_date": "2020-10-08T00:00:00"
     },
     {
@@ -7164,9 +7184,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.6800000071525574
         }
       ],
       "x_sdgs": [],

@@ -228,7 +228,7 @@
       {
         "id": "https://openalex.org/T12456",
         "display_name": "Geotourism and Geoheritage Conservation",
-        "value": 0.0002543,
+        "value": 0.0002541,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -279,7 +279,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000537,
+        "value": 0.0000536,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -451,7 +451,7 @@
     ],
     "block_key": "m abouelresh",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039010638",
-    "updated_date": "2026-09-22T12:21:30",
+    "updated_date": "2026-09-23T12:19:55",
     "created_date": "2019-08-13T00:00:00"
   },
   "works": [
@@ -877,9 +877,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721
+          "score": 0.7900000214576721,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -2665,9 +2665,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "x_sdgs": [],
@@ -4373,9 +4373,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "x_sdgs": [],
@@ -5572,9 +5572,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Decent work and economic growth",
           "id": "https://metadata.un.org/sdg/8",
-          "score": 0.6399999856948853
+          "score": 0.6399999856948853,
+          "display_name": "Decent work and economic growth"
         }
       ],
       "x_sdgs": [],
@@ -9113,9 +9113,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "x_sdgs": [],
@@ -10372,9 +10372,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "x_sdgs": [],
@@ -15094,9 +15094,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.75
+          "score": 0.75,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "x_sdgs": [],
@@ -16124,9 +16124,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6600000262260437
+          "score": 0.6600000262260437,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -16777,9 +16777,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7799999713897705
+          "score": 0.7799999713897705,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -19553,9 +19553,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -22615,9 +22615,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "x_sdgs": [],
@@ -23574,7 +23574,10 @@
           "author": {
             "id": "https://openalex.org/A5078509022",
             "display_name": "Jayanath Gopi",
-            "orcid": "https://orcid.org/0000-0002-4028-2028"
+            "orcid": "https://orcid.org/0000-0002-4028-2028",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4028-2028"
+            ]
           },
           "institutions": [
             {
@@ -23611,7 +23614,10 @@
           "author": {
             "id": "https://openalex.org/A5061144117",
             "display_name": "Thadickal V. Joydas",
-            "orcid": "https://orcid.org/0000-0002-6725-4094"
+            "orcid": "https://orcid.org/0000-0002-6725-4094",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6725-4094"
+            ]
           },
           "institutions": [
             {
@@ -23648,7 +23654,10 @@
           "author": {
             "id": "https://openalex.org/A5015538346",
             "display_name": "Seerangan Manokaran",
-            "orcid": "https://orcid.org/0000-0001-5482-5866"
+            "orcid": "https://orcid.org/0000-0001-5482-5866",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5482-5866"
+            ]
           },
           "institutions": [
             {
@@ -23685,7 +23694,10 @@
           "author": {
             "id": "https://openalex.org/A5039010638",
             "display_name": "Mohamed Omar Abouelresh",
-            "orcid": "https://orcid.org/0000-0002-4373-8713"
+            "orcid": "https://orcid.org/0000-0002-4373-8713",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4373-8713"
+            ]
           },
           "institutions": [
             {
@@ -23722,7 +23734,10 @@
           "author": {
             "id": "https://openalex.org/A5043684379",
             "display_name": "Paravanparambil Rajakumar Jayachandran",
-            "orcid": "https://orcid.org/0000-0002-4710-2130"
+            "orcid": "https://orcid.org/0000-0002-4710-2130",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4710-2130"
+            ]
           },
           "institutions": [
             {
@@ -23759,7 +23774,11 @@
           "author": {
             "id": "https://openalex.org/A5072739054",
             "display_name": "Sudhanshu Dixit",
-            "orcid": "https://orcid.org/0000-0003-0056-1409"
+            "orcid": "https://orcid.org/0000-0003-0056-1409",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0056-1409",
+              "https://orcid.org/0009-0000-2638-6552"
+            ]
           },
           "institutions": [
             {
@@ -23796,7 +23815,8 @@
           "author": {
             "id": "https://openalex.org/A5108598618",
             "display_name": "M. Rafeeq",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -23833,7 +23853,8 @@
           "author": {
             "id": "https://openalex.org/A5053999990",
             "display_name": "Ali H. Almusabeh",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -23870,7 +23891,10 @@
           "author": {
             "id": "https://openalex.org/A5044218213",
             "display_name": "Mazen Khaled Nazal",
-            "orcid": "https://orcid.org/0000-0001-5673-1900"
+            "orcid": "https://orcid.org/0000-0001-5673-1900",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5673-1900"
+            ]
           },
           "institutions": [
             {
@@ -23907,7 +23931,10 @@
           "author": {
             "id": "https://openalex.org/A5050282879",
             "display_name": "Karuppasamy P. Manikandan",
-            "orcid": "https://orcid.org/0000-0003-4975-3938"
+            "orcid": "https://orcid.org/0000-0003-4975-3938",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4975-3938"
+            ]
           },
           "institutions": [
             {
@@ -23944,7 +23971,10 @@
           "author": {
             "id": "https://openalex.org/A5073563634",
             "display_name": "Sharif M. Hala",
-            "orcid": "https://orcid.org/0009-0007-1195-014X"
+            "orcid": "https://orcid.org/0009-0007-1195-014X",
+            "observed_orcids": [
+              "https://orcid.org/0009-0007-1195-014X"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -23966,7 +23996,8 @@
           "author": {
             "id": "https://openalex.org/A5093126377",
             "display_name": "Bruno Pulido",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -24000,11 +24031,11 @@
         "value_usd": 2500
       },
       "apc_paid": null,
-      "fwci": 1.5019,
+      "fwci": 1.4945,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.82187159,
+        "value": 0.82110688,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24349,7 +24380,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-09-24T07:57:37.273135",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24421,7 +24452,10 @@
           "author": {
             "id": "https://openalex.org/A5026735444",
             "display_name": "Subhajit Sen",
-            "orcid": "https://orcid.org/0000-0002-8729-355X"
+            "orcid": "https://orcid.org/0000-0002-8729-355X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8729-355X"
+            ]
           },
           "institutions": [
             {
@@ -24463,7 +24497,11 @@
           "author": {
             "id": "https://openalex.org/A5036476594",
             "display_name": "Jan Freedman",
-            "orcid": "https://orcid.org/0000-0002-5321-4155"
+            "orcid": "https://orcid.org/0000-0002-5321-4155",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5321-4155",
+              "https://orcid.org/0009-0008-2116-8853"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -24485,7 +24523,8 @@
           "author": {
             "id": "https://openalex.org/A5053999990",
             "display_name": "Ali H. Almusabeh",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -24522,7 +24561,10 @@
           "author": {
             "id": "https://openalex.org/A5102822130",
             "display_name": "Fahad Saleh Al–Ismail",
-            "orcid": "https://orcid.org/0000-0002-8743-5706"
+            "orcid": "https://orcid.org/0000-0002-8743-5706",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8743-5706"
+            ]
           },
           "institutions": [
             {
@@ -24559,7 +24601,10 @@
           "author": {
             "id": "https://openalex.org/A5039010638",
             "display_name": "Mohamed Omar Abouelresh",
-            "orcid": "https://orcid.org/0000-0002-4373-8713"
+            "orcid": "https://orcid.org/0000-0002-4373-8713",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4373-8713"
+            ]
           },
           "institutions": [
             {
@@ -24607,11 +24652,11 @@
         "value_usd": 2490
       },
       "apc_paid": null,
-      "fwci": 1.7671,
+      "fwci": 1.7629,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.86002823,
+        "value": 0.85974815,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25004,7 +25049,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-09-24T07:57:37.273135",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28694,9 +28739,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -31108,9 +31153,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -33233,9 +33278,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -35591,9 +35636,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -37988,9 +38033,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -40032,9 +40077,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -41914,9 +41959,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -42575,9 +42620,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Decent work and economic growth",
           "id": "https://metadata.un.org/sdg/8",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Decent work and economic growth"
         }
       ],
       "x_sdgs": [],
@@ -44185,9 +44230,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -47995,7 +48040,10 @@
           "author": {
             "id": "https://openalex.org/A5078509022",
             "display_name": "Jayanath Gopi",
-            "orcid": "https://orcid.org/0000-0002-4028-2028"
+            "orcid": "https://orcid.org/0000-0002-4028-2028",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4028-2028"
+            ]
           },
           "institutions": [
             {
@@ -48032,7 +48080,10 @@
           "author": {
             "id": "https://openalex.org/A5061144117",
             "display_name": "Thadickal V. Joydas",
-            "orcid": "https://orcid.org/0000-0002-6725-4094"
+            "orcid": "https://orcid.org/0000-0002-6725-4094",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6725-4094"
+            ]
           },
           "institutions": [
             {
@@ -48069,7 +48120,10 @@
           "author": {
             "id": "https://openalex.org/A5043684379",
             "display_name": "Paravanparambil Rajakumar Jayachandran",
-            "orcid": "https://orcid.org/0000-0002-4710-2130"
+            "orcid": "https://orcid.org/0000-0002-4710-2130",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4710-2130"
+            ]
           },
           "institutions": [
             {
@@ -48106,7 +48160,10 @@
           "author": {
             "id": "https://openalex.org/A5015538346",
             "display_name": "Seerangan Manokaran",
-            "orcid": "https://orcid.org/0000-0001-5482-5866"
+            "orcid": "https://orcid.org/0000-0001-5482-5866",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5482-5866"
+            ]
           },
           "institutions": [
             {
@@ -48143,7 +48200,10 @@
           "author": {
             "id": "https://openalex.org/A5016328226",
             "display_name": "Sowmya Pazhur Mohandas",
-            "orcid": "https://orcid.org/0000-0002-1713-7770"
+            "orcid": "https://orcid.org/0000-0002-1713-7770",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1713-7770"
+            ]
           },
           "institutions": [
             {
@@ -48180,7 +48240,10 @@
           "author": {
             "id": "https://openalex.org/A5048802682",
             "display_name": "Sajan C. Raju",
-            "orcid": "https://orcid.org/0000-0002-4443-9504"
+            "orcid": "https://orcid.org/0000-0002-4443-9504",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4443-9504"
+            ]
           },
           "institutions": [
             {
@@ -48217,7 +48280,10 @@
           "author": {
             "id": "https://openalex.org/A5073624851",
             "display_name": "Syed Asim Hussain",
-            "orcid": "https://orcid.org/0000-0002-8643-0532"
+            "orcid": "https://orcid.org/0000-0002-8643-0532",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8643-0532"
+            ]
           },
           "institutions": [
             {
@@ -48254,7 +48320,10 @@
           "author": {
             "id": "https://openalex.org/A5039010638",
             "display_name": "Mohamed Omar Abouelresh",
-            "orcid": "https://orcid.org/0000-0002-4373-8713"
+            "orcid": "https://orcid.org/0000-0002-4373-8713",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4373-8713"
+            ]
           },
           "institutions": [
             {
@@ -48291,7 +48360,11 @@
           "author": {
             "id": "https://openalex.org/A5072739054",
             "display_name": "Sudhanshu Dixit",
-            "orcid": "https://orcid.org/0000-0003-0056-1409"
+            "orcid": "https://orcid.org/0000-0003-0056-1409",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0056-1409",
+              "https://orcid.org/0009-0000-2638-6552"
+            ]
           },
           "institutions": [
             {
@@ -48328,7 +48401,8 @@
           "author": {
             "id": "https://openalex.org/A5108598618",
             "display_name": "M. Rafeeq",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -48365,7 +48439,8 @@
           "author": {
             "id": "https://openalex.org/A5123567967",
             "display_name": "Mohamed Asharaf T.T.",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -48380,7 +48455,8 @@
           "author": {
             "id": "https://openalex.org/A5102697123",
             "display_name": "Karuppasamy P Manikandan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -48417,7 +48493,10 @@
           "author": {
             "id": "https://openalex.org/A5073563634",
             "display_name": "Sharif M. Hala",
-            "orcid": "https://orcid.org/0009-0007-1195-014X"
+            "orcid": "https://orcid.org/0009-0007-1195-014X",
+            "observed_orcids": [
+              "https://orcid.org/0009-0007-1195-014X"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -48439,7 +48518,8 @@
           "author": {
             "id": "https://openalex.org/A5093126377",
             "display_name": "Bruno Pulido",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -48477,7 +48557,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.04261524,
+        "value": 0.04234689,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48896,7 +48976,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-09-24T07:57:37.273135",
       "created_date": "2026-01-23T00:00:00"
     }
   ]

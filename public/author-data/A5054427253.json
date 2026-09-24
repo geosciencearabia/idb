@@ -14,10 +14,10 @@
     ],
     "full_name": "LE NINDRE, YVES-MICHEL, and JACQUES",
     "works_count": 41,
-    "cited_by_count": 1017,
+    "cited_by_count": 1018,
     "summary_stats": {
       "2yr_mean_citedness": 0,
-      "h_index": 16,
+      "h_index": 17,
       "i10_index": 21
     },
     "ids": {
@@ -26,21 +26,6 @@
       "observed_orcids": []
     },
     "affiliations": [
-      {
-        "institution": {
-          "id": "https://openalex.org/I129774422",
-          "ror": "https://ror.org/03prydq77",
-          "display_name": "University of Vienna",
-          "country_code": "AT",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I129774422"
-          ]
-        },
-        "years": [
-          2023
-        ]
-      },
       {
         "institution": {
           "id": "https://openalex.org/I4210158893",
@@ -71,16 +56,6 @@
       }
     ],
     "last_known_institutions": [
-      {
-        "id": "https://openalex.org/I129774422",
-        "ror": "https://ror.org/03prydq77",
-        "display_name": "University of Vienna",
-        "country_code": "AT",
-        "type": "education",
-        "lineage": [
-          "https://openalex.org/I129774422"
-        ]
-      },
       {
         "id": "https://openalex.org/I4210158893",
         "ror": "https://ror.org/05hnb7x64",
@@ -387,7 +362,7 @@
         "year": 2015,
         "works_count": 3,
         "oa_works_count": 2,
-        "cited_by_count": 52
+        "cited_by_count": 53
       },
       {
         "year": 2018,
@@ -424,7 +399,7 @@
     ],
     "block_key": "y le nindre",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054427253",
-    "updated_date": "2026-09-22T12:21:30",
+    "updated_date": "2026-09-23T12:19:55",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -494,7 +469,10 @@
           "author": {
             "id": "https://openalex.org/A5024336947",
             "display_name": "Thomas Vangkilde‐Pedersen",
-            "orcid": "https://orcid.org/0000-0002-6561-1406"
+            "orcid": "https://orcid.org/0000-0002-6561-1406",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6561-1406"
+            ]
           },
           "institutions": [
             {
@@ -532,7 +510,10 @@
           "author": {
             "id": "https://openalex.org/A5001494362",
             "display_name": "K.L. Anthonsen",
-            "orcid": "https://orcid.org/0000-0002-0155-8386"
+            "orcid": "https://orcid.org/0000-0002-0155-8386",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0155-8386"
+            ]
           },
           "institutions": [
             {
@@ -570,7 +551,10 @@
           "author": {
             "id": "https://openalex.org/A5044415887",
             "display_name": "Darren Smith",
-            "orcid": "https://orcid.org/0000-0003-4925-467X"
+            "orcid": "https://orcid.org/0000-0003-4925-467X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4925-467X"
+            ]
           },
           "institutions": [
             {
@@ -616,7 +600,10 @@
           "author": {
             "id": "https://openalex.org/A5003652374",
             "display_name": "Karen Kirk",
-            "orcid": "https://orcid.org/0000-0003-1091-1150"
+            "orcid": "https://orcid.org/0000-0003-1091-1150",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1091-1150"
+            ]
           },
           "institutions": [
             {
@@ -662,7 +649,10 @@
           "author": {
             "id": "https://openalex.org/A5031539136",
             "display_name": "Filip P. Neele",
-            "orcid": "https://orcid.org/0000-0001-8279-8252"
+            "orcid": "https://orcid.org/0000-0001-8279-8252",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8279-8252"
+            ]
           },
           "institutions": [
             {
@@ -699,7 +689,8 @@
           "author": {
             "id": "https://openalex.org/A5025041614",
             "display_name": "Bert van der Meer",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -736,7 +727,10 @@
           "author": {
             "id": "https://openalex.org/A5084361375",
             "display_name": "Y. Le Gallo",
-            "orcid": "https://orcid.org/0000-0002-5586-9008"
+            "orcid": "https://orcid.org/0000-0002-5586-9008",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5586-9008"
+            ]
           },
           "institutions": [
             {
@@ -773,7 +767,8 @@
           "author": {
             "id": "https://openalex.org/A5109122656",
             "display_name": "D. Bossie-Codreanu",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -810,7 +805,11 @@
           "author": {
             "id": "https://openalex.org/A5006218080",
             "display_name": "Adam Wójcicki",
-            "orcid": "https://orcid.org/0000-0003-0969-9666"
+            "orcid": "https://orcid.org/0000-0003-0969-9666",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0969-9666",
+              "https://orcid.org/0000-0002-5329-0836"
+            ]
           },
           "institutions": [
             {
@@ -847,7 +846,8 @@
           "author": {
             "id": "https://openalex.org/A5054427253",
             "display_name": "Yves-Michel Le Nindre",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -884,7 +884,8 @@
           "author": {
             "id": "https://openalex.org/A5067235968",
             "display_name": "Chris A. Hendriks",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -921,7 +922,8 @@
           "author": {
             "id": "https://openalex.org/A5043740867",
             "display_name": "Finn Dalhoff",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -959,7 +961,8 @@
           "author": {
             "id": "https://openalex.org/A5103420102",
             "display_name": "Niels Peter Christensen",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -1004,11 +1007,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 22.504,
+      "fwci": 22.1782,
       "has_fulltext": false,
       "cited_by_count": 170,
       "citation_normalized_percentile": {
-        "value": 0.99862259,
+        "value": 0.99862306,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1501,8 +1504,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -1794,7 +1797,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-24T07:57:37.273135",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2448,8 +2451,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -4229,8 +4232,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -5200,8 +5203,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -6424,8 +6427,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -7139,8 +7142,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1542845244.pdf"
@@ -9512,8 +9515,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 115,
@@ -10323,8 +10326,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -11097,8 +11100,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -12810,8 +12813,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -14329,8 +14332,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -15671,8 +15674,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -17013,8 +17016,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2954113145.pdf"
@@ -17571,7 +17574,10 @@
           "author": {
             "id": "https://openalex.org/A5101668043",
             "display_name": "Wenying Chen",
-            "orcid": "https://orcid.org/0000-0002-2211-8697"
+            "orcid": "https://orcid.org/0000-0002-2211-8697",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2211-8697"
+            ]
           },
           "institutions": [
             {
@@ -17613,7 +17619,8 @@
           "author": {
             "id": "https://openalex.org/A5054427253",
             "display_name": "Yves-Michel Le Nindre",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -17657,7 +17664,10 @@
           "author": {
             "id": "https://openalex.org/A5080138605",
             "display_name": "Ruina Xu",
-            "orcid": "https://orcid.org/0000-0001-8561-560X"
+            "orcid": "https://orcid.org/0000-0001-8561-560X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8561-560X"
+            ]
           },
           "institutions": [
             {
@@ -17699,7 +17709,10 @@
           "author": {
             "id": "https://openalex.org/A5047435631",
             "display_name": "Delphine Allier",
-            "orcid": "https://orcid.org/0000-0002-6869-3451"
+            "orcid": "https://orcid.org/0000-0002-6869-3451",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6869-3451"
+            ]
           },
           "institutions": [
             {
@@ -17743,7 +17756,12 @@
           "author": {
             "id": "https://openalex.org/A5100603950",
             "display_name": "Fei Teng",
-            "orcid": "https://orcid.org/0000-0003-0371-1142"
+            "orcid": "https://orcid.org/0000-0003-0371-1142",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0371-1142",
+              "https://orcid.org/0000-0001-7669-174X",
+              "https://orcid.org/0009-0007-3947-7200"
+            ]
           },
           "institutions": [
             {
@@ -17785,7 +17803,8 @@
           "author": {
             "id": "https://openalex.org/A5049486660",
             "display_name": "Kim Domptail",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -17852,7 +17871,10 @@
           "author": {
             "id": "https://openalex.org/A5079409628",
             "display_name": "Xing Xiang",
-            "orcid": "https://orcid.org/0000-0003-4838-806X"
+            "orcid": "https://orcid.org/0000-0003-4838-806X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4838-806X"
+            ]
           },
           "institutions": [
             {
@@ -17894,7 +17916,8 @@
           "author": {
             "id": "https://openalex.org/A5073598089",
             "display_name": "Laura Guillon",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -17961,7 +17984,10 @@
           "author": {
             "id": "https://openalex.org/A5028703498",
             "display_name": "Jiyong Chen",
-            "orcid": "https://orcid.org/0000-0002-8484-0300"
+            "orcid": "https://orcid.org/0000-0002-8484-0300",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8484-0300"
+            ]
           },
           "institutions": [
             {
@@ -18003,7 +18029,10 @@
           "author": {
             "id": "https://openalex.org/A5035572801",
             "display_name": "Lingyan Huang",
-            "orcid": "https://orcid.org/0000-0003-3493-2431"
+            "orcid": "https://orcid.org/0000-0003-3493-2431",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3493-2431"
+            ]
           },
           "institutions": [
             {
@@ -18045,7 +18074,10 @@
           "author": {
             "id": "https://openalex.org/A5103467086",
             "display_name": "Rongshu Zeng",
-            "orcid": "https://orcid.org/0009-0003-2221-8115"
+            "orcid": "https://orcid.org/0009-0003-2221-8115",
+            "observed_orcids": [
+              "https://orcid.org/0009-0003-2221-8115"
+            ]
           },
           "institutions": [
             {
@@ -18114,11 +18146,11 @@
         "value_usd": 4100
       },
       "apc_paid": null,
-      "fwci": 3.5297,
+      "fwci": 3.5198,
       "has_fulltext": false,
       "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.9134533,
+        "value": 0.91309932,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18488,8 +18520,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -18578,7 +18610,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-24T07:57:37.273135",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19290,8 +19322,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 128,
@@ -20249,8 +20281,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1056795926.pdf",
@@ -20818,7 +20850,8 @@
           "author": {
             "id": "https://openalex.org/A5054427253",
             "display_name": "Yves-Michel Le Nindre",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -20855,7 +20888,10 @@
           "author": {
             "id": "https://openalex.org/A5047435631",
             "display_name": "Delphine Allier",
-            "orcid": "https://orcid.org/0000-0002-6869-3451"
+            "orcid": "https://orcid.org/0000-0002-6869-3451",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6869-3451"
+            ]
           },
           "institutions": [
             {
@@ -20890,9 +20926,10 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5110006235",
-            "display_name": "Albert Duchkov",
-            "orcid": null
+            "id": "https://openalex.org/A5033369731",
+            "display_name": "Albert D. Duchkov",
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -20931,7 +20968,10 @@
           "author": {
             "id": "https://openalex.org/A5013239518",
             "display_name": "Л. К. Алтунина",
-            "orcid": "https://orcid.org/0000-0001-9502-1864"
+            "orcid": "https://orcid.org/0000-0001-9502-1864",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9502-1864"
+            ]
           },
           "institutions": [
             {
@@ -20970,7 +21010,8 @@
           "author": {
             "id": "https://openalex.org/A5003556624",
             "display_name": "Stepan L’vovich Shvartsev",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -21009,7 +21050,8 @@
           "author": {
             "id": "https://openalex.org/A5112404860",
             "display_name": "Mikhail N. Zhelezniak",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -21048,7 +21090,8 @@
           "author": {
             "id": "https://openalex.org/A5110101345",
             "display_name": "J. Klerkx",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -21092,11 +21135,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.6597,
+      "fwci": 2.6535,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.84122807,
+        "value": 0.84035088,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21552,8 +21595,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2006757505.pdf",
@@ -22358,7 +22401,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-24T07:57:37.273135",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22789,8 +22832,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2188233270.pdf"
@@ -23723,8 +23766,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3127056474.pdf"
@@ -24893,8 +24936,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -26516,8 +26559,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -27588,8 +27631,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2968599283.pdf"
@@ -28382,8 +28425,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2979942938.pdf"
@@ -29297,8 +29340,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2972134149.pdf"
@@ -30367,8 +30410,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -30866,8 +30909,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32275,8 +32318,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385358246.pdf",
@@ -33395,8 +33438,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -33731,8 +33774,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34664,8 +34707,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35225,8 +35268,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36101,8 +36144,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -36240,7 +36283,8 @@
           "author": {
             "id": "https://openalex.org/A5054427253",
             "display_name": "Yves-Michel Le Nindre",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -36277,7 +36321,10 @@
           "author": {
             "id": "https://openalex.org/A5047435631",
             "display_name": "Delphine Allier",
-            "orcid": "https://orcid.org/0000-0002-6869-3451"
+            "orcid": "https://orcid.org/0000-0002-6869-3451",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6869-3451"
+            ]
           },
           "institutions": [
             {
@@ -36314,7 +36361,10 @@
           "author": {
             "id": "https://openalex.org/A5101668042",
             "display_name": "Wenying Chen",
-            "orcid": "https://orcid.org/0000-0001-9376-5579"
+            "orcid": "https://orcid.org/0000-0001-9376-5579",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9376-5579"
+            ]
           },
           "institutions": [
             {
@@ -36358,7 +36408,12 @@
           "author": {
             "id": "https://openalex.org/A5100603950",
             "display_name": "Fei Teng",
-            "orcid": "https://orcid.org/0000-0003-0371-1142"
+            "orcid": "https://orcid.org/0000-0003-0371-1142",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0371-1142",
+              "https://orcid.org/0000-0001-7669-174X",
+              "https://orcid.org/0009-0007-3947-7200"
+            ]
           },
           "institutions": [
             {
@@ -36402,7 +36457,10 @@
           "author": {
             "id": "https://openalex.org/A5080138605",
             "display_name": "Ruina Xu",
-            "orcid": "https://orcid.org/0000-0001-8561-560X"
+            "orcid": "https://orcid.org/0000-0001-8561-560X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8561-560X"
+            ]
           },
           "institutions": [
             {
@@ -36446,7 +36504,10 @@
           "author": {
             "id": "https://openalex.org/A5103467086",
             "display_name": "Rongshu Zeng",
-            "orcid": "https://orcid.org/0009-0003-2221-8115"
+            "orcid": "https://orcid.org/0009-0003-2221-8115",
+            "observed_orcids": [
+              "https://orcid.org/0009-0003-2221-8115"
+            ]
           },
           "institutions": [
             {
@@ -36502,7 +36563,10 @@
           "author": {
             "id": "https://openalex.org/A5115604734",
             "display_name": "Ming Li",
-            "orcid": "https://orcid.org/0009-0007-9451-9303"
+            "orcid": "https://orcid.org/0009-0007-9451-9303",
+            "observed_orcids": [
+              "https://orcid.org/0009-0007-9451-9303"
+            ]
           },
           "institutions": [
             {
@@ -36569,7 +36633,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13651498,
+        "value": 0.13671658,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36930,8 +36994,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2037835118.pdf",
@@ -37784,7 +37848,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-26T07:47:46.906454",
+      "updated_date": "2026-09-24T07:57:37.273135",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -38142,8 +38206,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38784,8 +38848,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -40843,8 +40907,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -42159,8 +42223,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43498,8 +43562,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43963,8 +44027,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -44536,8 +44600,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -45005,8 +45069,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

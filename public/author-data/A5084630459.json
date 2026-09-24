@@ -15,7 +15,7 @@
     ],
     "full_name": "Énay, Raymond",
     "works_count": 104,
-    "cited_by_count": 1854,
+    "cited_by_count": 1863,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 22,
@@ -385,7 +385,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002205,
+        "value": 0.0002204,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -402,7 +402,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0001382,
+        "value": 0.0001381,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -565,13 +565,13 @@
         "year": 1980,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 25
+        "cited_by_count": 27
       },
       {
         "year": 1981,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 30
+        "cited_by_count": 31
       },
       {
         "year": 1982,
@@ -589,7 +589,7 @@
         "year": 1985,
         "works_count": 3,
         "oa_works_count": 0,
-        "cited_by_count": 81
+        "cited_by_count": 82
       },
       {
         "year": 1987,
@@ -655,13 +655,13 @@
         "year": 1999,
         "works_count": 5,
         "oa_works_count": 0,
-        "cited_by_count": 77
+        "cited_by_count": 78
       },
       {
         "year": 2000,
         "works_count": 5,
         "oa_works_count": 0,
-        "cited_by_count": 57
+        "cited_by_count": 58
       },
       {
         "year": 2001,
@@ -691,7 +691,7 @@
         "year": 2005,
         "works_count": 5,
         "oa_works_count": 0,
-        "cited_by_count": 78
+        "cited_by_count": 80
       },
       {
         "year": 2006,
@@ -757,7 +757,7 @@
         "year": 2019,
         "works_count": 3,
         "oa_works_count": 2,
-        "cited_by_count": 31
+        "cited_by_count": 32
       },
       {
         "year": 2020,
@@ -783,7 +783,7 @@
     ],
     "block_key": "r enay",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5084630459",
-    "updated_date": "2026-09-22T04:05:08",
+    "updated_date": "2026-09-23T12:19:55",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1229,9 +1229,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -1772,9 +1772,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -2105,7 +2105,10 @@
           "author": {
             "id": "https://openalex.org/A5038818609",
             "display_name": "Grzegorz Pieńkowski",
-            "orcid": "https://orcid.org/0000-0002-6010-5846"
+            "orcid": "https://orcid.org/0000-0002-6010-5846",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6010-5846"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -2120,7 +2123,8 @@
           "author": {
             "id": "https://openalex.org/A5019153528",
             "display_name": "Michael Schudack",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -2135,7 +2139,10 @@
           "author": {
             "id": "https://openalex.org/A5036772661",
             "display_name": "Pavel Bosák",
-            "orcid": "https://orcid.org/0000-0002-1117-3965"
+            "orcid": "https://orcid.org/0000-0002-1117-3965",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1117-3965"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -2150,7 +2157,8 @@
           "author": {
             "id": "https://openalex.org/A5084630459",
             "display_name": "Raymond Énay",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -2165,7 +2173,10 @@
           "author": {
             "id": "https://openalex.org/A5068001956",
             "display_name": "Anna Feldman-Olszewska",
-            "orcid": "https://orcid.org/0000-0001-8870-5707"
+            "orcid": "https://orcid.org/0000-0001-8870-5707",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8870-5707"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -2180,7 +2191,10 @@
           "author": {
             "id": "https://openalex.org/A5025789583",
             "display_name": "Jan Golonka",
-            "orcid": "https://orcid.org/0000-0001-9671-5809"
+            "orcid": "https://orcid.org/0000-0001-9671-5809",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9671-5809"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -2195,7 +2209,8 @@
           "author": {
             "id": "https://openalex.org/A5037339394",
             "display_name": "Jacek Gutowski",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -2210,7 +2225,8 @@
           "author": {
             "id": "https://openalex.org/A5001961554",
             "display_name": "G.F.W. Herngreen",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -2225,7 +2241,10 @@
           "author": {
             "id": "https://openalex.org/A5003698677",
             "display_name": "Peter Jordan",
-            "orcid": "https://orcid.org/0000-0001-8576-5587"
+            "orcid": "https://orcid.org/0000-0001-8576-5587",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8576-5587"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -2240,7 +2259,10 @@
           "author": {
             "id": "https://openalex.org/A5001108064",
             "display_name": "Michał Krobicki",
-            "orcid": "https://orcid.org/0000-0001-8814-6386"
+            "orcid": "https://orcid.org/0000-0001-8814-6386",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8814-6386"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -2255,7 +2277,11 @@
           "author": {
             "id": "https://openalex.org/A5044568829",
             "display_name": "Bernard Lathuilière",
-            "orcid": "https://orcid.org/0000-0001-5088-3057"
+            "orcid": "https://orcid.org/0000-0001-5088-3057",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5088-3057",
+              "https://orcid.org/0009-0008-0148-8083"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -2270,7 +2296,10 @@
           "author": {
             "id": "https://openalex.org/A5043465473",
             "display_name": "Reinhold Leinfelder",
-            "orcid": "https://orcid.org/0000-0002-4107-2161"
+            "orcid": "https://orcid.org/0000-0002-4107-2161",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4107-2161"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -2285,7 +2314,8 @@
           "author": {
             "id": "https://openalex.org/A5033257000",
             "display_name": "Jozef Michalı́k",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -2300,7 +2330,10 @@
           "author": {
             "id": "https://openalex.org/A5076954793",
             "display_name": "Eckhard Mönnig",
-            "orcid": "https://orcid.org/0000-0003-4109-5715"
+            "orcid": "https://orcid.org/0000-0003-4109-5715",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4109-5715"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -2315,7 +2348,8 @@
           "author": {
             "id": "https://openalex.org/A5001029020",
             "display_name": "Nanna Noe‐Nygaard",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -2330,7 +2364,10 @@
           "author": {
             "id": "https://openalex.org/A5084687478",
             "display_name": "József Pálfy",
-            "orcid": "https://orcid.org/0000-0001-9686-1849"
+            "orcid": "https://orcid.org/0000-0001-9686-1849",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9686-1849"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -2345,7 +2382,10 @@
           "author": {
             "id": "https://openalex.org/A5086559300",
             "display_name": "Anna Pint",
-            "orcid": "https://orcid.org/0000-0003-4880-5716"
+            "orcid": "https://orcid.org/0000-0003-4880-5716",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4880-5716"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -2360,7 +2400,10 @@
           "author": {
             "id": "https://openalex.org/A5070114935",
             "display_name": "Michael W. Rasser",
-            "orcid": "https://orcid.org/0000-0003-0024-5561"
+            "orcid": "https://orcid.org/0000-0003-0024-5561",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0024-5561"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -2375,7 +2418,8 @@
           "author": {
             "id": "https://openalex.org/A5045796351",
             "display_name": "Achim G. Reisdorf",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -2390,7 +2434,8 @@
           "author": {
             "id": "https://openalex.org/A5107031467",
             "display_name": "Dieter U. Schmid",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -2405,7 +2450,10 @@
           "author": {
             "id": "https://openalex.org/A5015726777",
             "display_name": "Günter Schweigert",
-            "orcid": "https://orcid.org/0000-0003-3798-8609"
+            "orcid": "https://orcid.org/0000-0003-3798-8609",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3798-8609"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -2420,7 +2468,10 @@
           "author": {
             "id": "https://openalex.org/A5113465675",
             "display_name": "Finn Surlyk",
-            "orcid": "https://orcid.org/0009-0006-1986-8477"
+            "orcid": "https://orcid.org/0009-0006-1986-8477",
+            "observed_orcids": [
+              "https://orcid.org/0009-0006-1986-8477"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -2435,7 +2486,10 @@
           "author": {
             "id": "https://openalex.org/A5054441748",
             "display_name": "Andreas Wetzel",
-            "orcid": "https://orcid.org/0000-0003-0134-887X"
+            "orcid": "https://orcid.org/0000-0003-0134-887X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0134-887X"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -2450,7 +2504,8 @@
           "author": {
             "id": "https://openalex.org/A5112531313",
             "display_name": "Theo E. Wong",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -2468,11 +2523,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 9.2861,
+      "fwci": 9.2249,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.98119859,
+        "value": 0.98117647,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2764,9 +2819,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -3479,7 +3534,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-24T07:57:37.273135",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -4151,9 +4206,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -4288,7 +4343,8 @@
           "author": {
             "id": "https://openalex.org/A5113572525",
             "display_name": "Bernard Lathuili�re",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -4350,7 +4406,8 @@
           "author": {
             "id": "https://openalex.org/A5110130149",
             "display_name": "Christian Gaillard",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -4423,7 +4480,8 @@
           "author": {
             "id": "https://openalex.org/A5109104692",
             "display_name": "Nad�ge Habrant",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -4450,7 +4508,8 @@
           "author": {
             "id": "https://openalex.org/A5036229728",
             "display_name": "Y. Bodeur",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -4494,7 +4553,8 @@
           "author": {
             "id": "https://openalex.org/A5002257432",
             "display_name": "Annick Boullier",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -4539,7 +4599,8 @@
           "author": {
             "id": "https://openalex.org/A5084630459",
             "display_name": "Raymond Énay",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -4612,7 +4673,8 @@
           "author": {
             "id": "https://openalex.org/A5041328041",
             "display_name": "Micheline Hanzo",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -4683,7 +4745,8 @@
           "author": {
             "id": "https://openalex.org/A5113783964",
             "display_name": "Didier Marchand",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -4756,7 +4819,8 @@
           "author": {
             "id": "https://openalex.org/A5110747383",
             "display_name": "Jacques Thierry",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -4829,7 +4893,8 @@
           "author": {
             "id": "https://openalex.org/A5017337735",
             "display_name": "Winfried Werner",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -4880,11 +4945,11 @@
         "value_usd": 2490
       },
       "apc_paid": null,
-      "fwci": 5.1764,
+      "fwci": 5.1649,
       "has_fulltext": false,
       "cited_by_count": 61,
       "citation_normalized_percentile": {
-        "value": 0.94538606,
+        "value": 0.9452919,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5191,9 +5256,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -5315,7 +5380,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-23T09:40:40.371523",
+      "updated_date": "2026-09-24T07:57:37.273135",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5682,9 +5747,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -6112,9 +6177,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -6742,9 +6807,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -7435,9 +7500,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7200000286102295,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -8545,9 +8610,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -10717,9 +10782,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -15004,9 +15069,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -16758,9 +16823,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -17698,9 +17763,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -19081,7 +19146,8 @@
           "author": {
             "id": "https://openalex.org/A5084630459",
             "display_name": "Raymond Énay",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -19119,7 +19185,8 @@
           "author": {
             "id": "https://openalex.org/A5112292787",
             "display_name": "Élie Cariou",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -19171,7 +19238,7 @@
       "has_fulltext": false,
       "cited_by_count": 35,
       "citation_normalized_percentile": {
-        "value": 0.12861588,
+        "value": 0.12853026,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19478,9 +19545,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5299999713897705,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -19491,7 +19558,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 133,
+      "referenced_works_count": 134,
       "referenced_works": [
         "https://openalex.org/W164696664",
         "https://openalex.org/W277479889",
@@ -19555,6 +19622,7 @@
         "https://openalex.org/W2166567214",
         "https://openalex.org/W2166889892",
         "https://openalex.org/W2184820601",
+        "https://openalex.org/W2189340095",
         "https://openalex.org/W2287546624",
         "https://openalex.org/W2326850436",
         "https://openalex.org/W2332560913",
@@ -19686,7 +19754,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-01T08:31:24.195828",
+      "updated_date": "2026-09-24T07:57:37.273135",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20065,9 +20133,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5899999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -20705,9 +20773,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -21227,9 +21295,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -23864,9 +23932,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -24279,9 +24347,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -25026,9 +25094,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6200000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -27096,9 +27164,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -28249,9 +28317,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -29215,9 +29283,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -32610,9 +32678,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -32984,9 +33052,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -33851,9 +33919,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -34680,9 +34748,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -35546,9 +35614,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6800000071525574,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -36060,9 +36128,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -36232,7 +36300,8 @@
           "author": {
             "id": "https://openalex.org/A5110130149",
             "display_name": "Christian Gaillard",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -36270,7 +36339,10 @@
           "author": {
             "id": "https://openalex.org/A5068894767",
             "display_name": "Laurent Emmanuel",
-            "orcid": "https://orcid.org/0000-0001-9905-3986"
+            "orcid": "https://orcid.org/0000-0001-9905-3986",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9905-3986"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -36292,7 +36364,8 @@
           "author": {
             "id": "https://openalex.org/A5041328041",
             "display_name": "Micheline Hanzo",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -36329,7 +36402,11 @@
           "author": {
             "id": "https://openalex.org/A5044568829",
             "display_name": "Bernard Lathuilière",
-            "orcid": "https://orcid.org/0000-0001-5088-3057"
+            "orcid": "https://orcid.org/0000-0001-5088-3057",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5088-3057",
+              "https://orcid.org/0009-0008-0148-8083"
+            ]
           },
           "institutions": [
             {
@@ -36366,7 +36443,10 @@
           "author": {
             "id": "https://openalex.org/A5039086654",
             "display_name": "François Atrops",
-            "orcid": "https://orcid.org/0000-0003-3476-0684"
+            "orcid": "https://orcid.org/0000-0003-3476-0684",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3476-0684"
+            ]
           },
           "institutions": [
             {
@@ -36404,7 +36484,8 @@
           "author": {
             "id": "https://openalex.org/A5036229728",
             "display_name": "Y. Bodeur",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -36441,7 +36522,8 @@
           "author": {
             "id": "https://openalex.org/A5061022136",
             "display_name": "Abdelkader Bouhamdi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -36479,7 +36561,8 @@
           "author": {
             "id": "https://openalex.org/A5113783964",
             "display_name": "Didier Marchand",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -36533,7 +36616,8 @@
           "author": {
             "id": "https://openalex.org/A5084630459",
             "display_name": "Raymond Énay",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -36571,7 +36655,8 @@
           "author": {
             "id": "https://openalex.org/A5057797380",
             "display_name": "Christiane Ruget",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -36593,7 +36678,8 @@
           "author": {
             "id": "https://openalex.org/A5017337735",
             "display_name": "Winfried Werner",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -36638,11 +36724,11 @@
         "value_usd": 539
       },
       "apc_paid": null,
-      "fwci": 2.1473,
+      "fwci": 2.1439,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.88101846,
+        "value": 0.88084028,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37009,9 +37095,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -37392,7 +37478,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-09-24T07:57:37.273135",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37463,7 +37549,11 @@
           "author": {
             "id": "https://openalex.org/A5102845214",
             "display_name": "Didier Bert",
-            "orcid": "https://orcid.org/0000-0002-6927-6756"
+            "orcid": "https://orcid.org/0000-0002-6927-6756",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6927-6756",
+              "https://orcid.org/0000-0002-7475-6367"
+            ]
           },
           "institutions": [
             {
@@ -37516,7 +37606,8 @@
           "author": {
             "id": "https://openalex.org/A5084630459",
             "display_name": "Raymond Énay",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -37565,7 +37656,10 @@
           "author": {
             "id": "https://openalex.org/A5039086654",
             "display_name": "François Atrops",
-            "orcid": "https://orcid.org/0000-0003-3476-0684"
+            "orcid": "https://orcid.org/0000-0003-3476-0684",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3476-0684"
+            ]
           },
           "institutions": [
             {
@@ -37626,11 +37720,11 @@
         "value_usd": 3030
       },
       "apc_paid": null,
-      "fwci": 1.3159,
+      "fwci": 1.3081,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.82423097,
+        "value": 0.82425653,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37833,9 +37927,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -37933,7 +38027,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-24T07:57:37.273135",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -38377,9 +38471,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -38939,9 +39033,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7200000286102295,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -39836,9 +39930,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -40548,9 +40642,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6399999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -41610,9 +41704,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6100000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -42379,9 +42473,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5400000214576721,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -44218,9 +44312,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -45017,9 +45111,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -45563,9 +45657,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6000000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -46085,9 +46179,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -46712,9 +46806,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -47126,9 +47220,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -47513,9 +47607,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -48816,9 +48910,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -49763,9 +49857,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -50419,9 +50513,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -52277,9 +52371,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -53330,9 +53424,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -53757,9 +53851,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -54503,9 +54597,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land"
         }
       ],
       "x_sdgs": [],
@@ -55255,9 +55349,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6899999976158142,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -55780,9 +55874,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.49000000953674316,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -56571,9 +56665,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -56915,9 +57009,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -57266,9 +57360,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6100000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -57597,9 +57691,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "score": 0.6100000143051147,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land"
         }
       ],
       "x_sdgs": [],
@@ -58047,9 +58141,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -58482,9 +58576,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5600000023841858,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -58940,9 +59034,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -59462,9 +59556,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -59958,9 +60052,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -60345,9 +60439,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5299999713897705,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -61932,9 +62026,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -62571,9 +62665,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -64191,9 +64285,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -65505,9 +65599,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -66520,9 +66614,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Peace, Justice and strong institutions",
           "score": 0.7699999809265137,
-          "id": "https://metadata.un.org/sdg/16"
+          "id": "https://metadata.un.org/sdg/16",
+          "display_name": "Peace, Justice and strong institutions"
         }
       ],
       "x_sdgs": [],
@@ -67788,9 +67882,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -69479,9 +69573,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6700000166893005,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],

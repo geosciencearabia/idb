@@ -12,9 +12,9 @@
     ],
     "full_name": "Kanfar, Rayan",
     "works_count": 8,
-    "cited_by_count": 108,
+    "cited_by_count": 110,
     "summary_stats": {
-      "2yr_mean_citedness": 7.75,
+      "2yr_mean_citedness": 8.25,
       "h_index": 4,
       "i10_index": 3
     },
@@ -336,13 +336,13 @@
         "year": 2024,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 27
+        "cited_by_count": 28
       },
       {
         "year": 2025,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 4
+        "cited_by_count": 5
       }
     ],
     "display_name_alternatives": [
@@ -351,7 +351,7 @@
     ],
     "block_key": "r kanfar",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5071165005",
-    "updated_date": "2026-09-19T12:19:47",
+    "updated_date": "2026-09-23T12:19:55",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -845,8 +845,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -1556,8 +1556,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -2250,7 +2250,10 @@
           "author": {
             "id": "https://openalex.org/A5013827317",
             "display_name": "Abdulrahman Al‐Fakih",
-            "orcid": "https://orcid.org/0000-0001-7583-768X"
+            "orcid": "https://orcid.org/0000-0001-7583-768X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7583-768X"
+            ]
           },
           "institutions": [
             {
@@ -2294,7 +2297,10 @@
           "author": {
             "id": "https://openalex.org/A5059881838",
             "display_name": "Ardiansyah Koeshidayatullah",
-            "orcid": "https://orcid.org/0000-0001-7558-8783"
+            "orcid": "https://orcid.org/0000-0001-7558-8783",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7558-8783"
+            ]
           },
           "institutions": [
             {
@@ -2336,9 +2342,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5120786628",
-            "display_name": "Nabil A. Saraih",
-            "orcid": null
+            "id": "https://openalex.org/A5088388992",
+            "display_name": "Nabil Ali Saraih",
+            "orcid": "https://orcid.org/0009-0006-8245-3792",
+            "observed_orcids": [
+              "https://orcid.org/0009-0006-8245-3792"
+            ]
           },
           "institutions": [
             {
@@ -2375,7 +2384,10 @@
           "author": {
             "id": "https://openalex.org/A5013088513",
             "display_name": "Tapan Mukerji",
-            "orcid": "https://orcid.org/0000-0003-1711-1850"
+            "orcid": "https://orcid.org/0000-0003-1711-1850",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1711-1850"
+            ]
           },
           "institutions": [
             {
@@ -2412,7 +2424,10 @@
           "author": {
             "id": "https://openalex.org/A5071165005",
             "display_name": "Rayan Kanfar",
-            "orcid": "https://orcid.org/0000-0003-4321-5573"
+            "orcid": "https://orcid.org/0000-0003-4321-5573",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4321-5573"
+            ]
           },
           "institutions": [
             {
@@ -2449,7 +2464,10 @@
           "author": {
             "id": "https://openalex.org/A5084495777",
             "display_name": "Abdulmohsen Alali",
-            "orcid": "https://orcid.org/0000-0002-5128-992X"
+            "orcid": "https://orcid.org/0000-0002-5128-992X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5128-992X"
+            ]
           },
           "institutions": [
             {
@@ -2486,7 +2504,10 @@
           "author": {
             "id": "https://openalex.org/A5024607591",
             "display_name": "SanLinn I. Kaka",
-            "orcid": "https://orcid.org/0000-0003-1229-4627"
+            "orcid": "https://orcid.org/0000-0003-1229-4627",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1229-4627"
+            ]
           },
           "institutions": [
             {
@@ -2545,11 +2566,11 @@
         "currency": "USD",
         "value_usd": 3640
       },
-      "fwci": 1.5956,
+      "fwci": 1.5867,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.83226443,
+        "value": 0.83123612,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2944,8 +2965,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -3781,7 +3802,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-09-24T07:57:37.273135",
       "created_date": "2025-12-12T00:00:00"
     },
     {
@@ -4324,8 +4345,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -4980,8 +5001,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -5495,6 +5516,7 @@
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I205783295",
           "host_organization_name": "Cornell University",
           "host_organization_lineage": [
@@ -5528,7 +5550,11 @@
           "author": {
             "id": "https://openalex.org/A5101867027",
             "display_name": "Xin Ju",
-            "orcid": "https://orcid.org/0000-0003-2742-3719"
+            "orcid": "https://orcid.org/0000-0003-2742-3719",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2742-3719",
+              "https://orcid.org/0000-0001-9847-7621"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -5543,7 +5569,10 @@
           "author": {
             "id": "https://openalex.org/A5047662931",
             "display_name": "François P. Hamon",
-            "orcid": "https://orcid.org/0000-0001-8229-963X"
+            "orcid": "https://orcid.org/0000-0001-8229-963X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8229-963X"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -5558,7 +5587,10 @@
           "author": {
             "id": "https://openalex.org/A5007168661",
             "display_name": "Gege Wen",
-            "orcid": "https://orcid.org/0000-0003-1668-3777"
+            "orcid": "https://orcid.org/0000-0003-1668-3777",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1668-3777"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -5573,7 +5605,10 @@
           "author": {
             "id": "https://openalex.org/A5071165005",
             "display_name": "Rayan Kanfar",
-            "orcid": "https://orcid.org/0000-0003-4321-5573"
+            "orcid": "https://orcid.org/0000-0003-4321-5573",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4321-5573"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -5588,7 +5623,10 @@
           "author": {
             "id": "https://openalex.org/A5027534318",
             "display_name": "Mauricio Araya–Polo",
-            "orcid": "https://orcid.org/0000-0002-5537-1840"
+            "orcid": "https://orcid.org/0000-0002-5537-1840",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5537-1840"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -5603,7 +5641,10 @@
           "author": {
             "id": "https://openalex.org/A5033541460",
             "display_name": "Hamdi A. Tchelepi",
-            "orcid": "https://orcid.org/0000-0002-3084-6635"
+            "orcid": "https://orcid.org/0000-0002-3084-6635",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3084-6635"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -5878,6 +5919,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I205783295",
             "host_organization_name": "Cornell University",
             "host_organization_lineage": [
@@ -5909,6 +5951,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I205783295",
             "host_organization_name": "Cornell University",
             "host_organization_lineage": [
@@ -5941,6 +5984,7 @@
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I205783295",
           "host_organization_name": "Cornell University",
           "host_organization_lineage": [
@@ -5968,8 +6012,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6427,7 +6471,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-08-26T07:47:46.906454",
+      "updated_date": "2026-09-24T07:57:37.273135",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6905,8 +6949,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -7593,8 +7637,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
