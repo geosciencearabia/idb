@@ -14,7 +14,7 @@
     ],
     "full_name": "Moujahed I. Al-Husseini",
     "works_count": 64,
-    "cited_by_count": 2077,
+    "cited_by_count": 2080,
     "summary_stats": {
       "2yr_mean_citedness": 3.8,
       "h_index": 23,
@@ -384,7 +384,7 @@
         "year": 1997,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 205
+        "cited_by_count": 206
       },
       {
         "year": 1998,
@@ -438,7 +438,7 @@
         "year": 2007,
         "works_count": 4,
         "oa_works_count": 4,
-        "cited_by_count": 270
+        "cited_by_count": 271
       },
       {
         "year": 2008,
@@ -468,7 +468,7 @@
         "year": 2012,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 152
+        "cited_by_count": 153
       },
       {
         "year": 2013,
@@ -533,7 +533,7 @@
     ],
     "block_key": "m al-husseini",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5081811780",
-    "updated_date": "2026-09-23T12:19:55",
+    "updated_date": "2026-09-24T12:17:56",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -600,7 +600,10 @@
           "author": {
             "id": "https://openalex.org/A5081811780",
             "display_name": "Moujahed I. Al-Husseini",
-            "orcid": "https://orcid.org/0009-0002-1087-5882"
+            "orcid": "https://orcid.org/0009-0002-1087-5882",
+            "observed_orcids": [
+              "https://orcid.org/0009-0002-1087-5882"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -627,11 +630,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.4333,
+      "fwci": 4.078,
       "has_fulltext": false,
-      "cited_by_count": 354,
+      "cited_by_count": 355,
       "citation_normalized_percentile": {
-        "value": 0.94221509,
+        "value": 0.93687911,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -954,17 +957,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -1686,7 +1689,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2287,17 +2290,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2948813096.pdf",
@@ -3659,17 +3662,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -4980,17 +4983,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8199999928474426,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3006915709.pdf",
@@ -6188,8 +6191,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 90,
@@ -7750,9 +7753,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -7770,8 +7773,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -8862,17 +8865,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.47999998927116394,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -10588,8 +10591,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -12281,8 +12284,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3093533935.pdf"
@@ -13678,17 +13681,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.41999998688697815,
-          "display_name": "Life in Land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -15325,17 +15328,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7599999904632568,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 140,
@@ -15976,17 +15979,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6100000143051147,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 141,
@@ -17180,17 +17183,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -17717,8 +17720,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -18619,8 +18622,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -19757,17 +19760,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2922003475.pdf"
@@ -20503,17 +20506,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6399999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2946023000.pdf"
@@ -21048,17 +21051,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5699999928474426,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2998820729.pdf"
@@ -22268,17 +22271,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.49000000953674316,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -23949,17 +23952,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2967258048.pdf",
@@ -25330,17 +25333,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2202216454.pdf"
@@ -26670,17 +26673,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3004523161.pdf"
@@ -28008,17 +28011,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.7200000286102295,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -29412,17 +29415,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6700000166893005,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2951871263.pdf"
@@ -30631,8 +30634,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2970361768.pdf"
@@ -31158,17 +31161,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6700000166893005,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -31755,8 +31758,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -32329,8 +32332,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -33461,8 +33464,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -34507,17 +34510,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5799999833106995,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2972289394.pdf"
@@ -35955,17 +35958,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.47999998927116394,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2990369555.pdf",
@@ -37070,17 +37073,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5600000023841858,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -38667,17 +38670,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.699999988079071,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2574973601.pdf"
@@ -40488,17 +40491,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
           "score": 0.5099999904632568,
-          "display_name": "Industry, innovation and infrastructure"
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -40811,1086 +40814,6 @@
         {
           "year": 2015,
           "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-09-22T06:50:58.402377",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2150065718",
-      "doi": "https://doi.org/10.2113/geoarabia1102181",
-      "title": "The debate over Hubbert’s Peak: a review",
-      "display_name": "The debate over Hubbert’s Peak: a review",
-      "publication_year": 2006,
-      "publication_date": "2006-04-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2150065718",
-        "doi": "https://doi.org/10.2113/geoarabia1102181",
-        "mag": "2150065718"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2113/geoarabia1102181",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.2113/geoarabia1102181",
-        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/181/5442745/peak_alhusseini.pdf",
-        "source": {
-          "id": "https://openalex.org/S189311251",
-          "display_name": "GeoArabia",
-          "issn_l": "1025-6059",
-          "issn": [
-            "1025-6059"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-1",
-            "norway-1"
-          ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": "cc-by-nc",
-        "license_id": "https://openalex.org/licenses/cc-by-nc",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "GeoArabia",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/181/5442745/peak_alhusseini.pdf",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed I. Al-Husseini",
-            "orcid": "https://orcid.org/0009-0002-1087-5882"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Moujahed Al-Husseini",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081811780"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.3156,
-      "has_fulltext": false,
-      "cited_by_count": 15,
-      "citation_normalized_percentile": {
-        "value": 0.82035583,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "11",
-        "issue": "2",
-        "first_page": "181",
-        "last_page": "210"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12639",
-        "display_name": "Global Energy and Sustainability Research",
-        "score": 0.9997000098228455,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2105",
-          "display_name": "Renewable Energy, Sustainability and the Environment"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/21",
-          "display_name": "Energy"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12639",
-          "display_name": "Global Energy and Sustainability Research",
-          "score": 0.9997000098228455,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2105",
-            "display_name": "Renewable Energy, Sustainability and the Environment"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11059",
-          "display_name": "Market Dynamics and Volatility",
-          "score": 0.9757999777793884,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2002",
-            "display_name": "Economics and Econometrics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/20",
-            "display_name": "Economics, Econometrics and Finance"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12617",
-          "display_name": "Energy, Environment, and Transportation Policies",
-          "score": 0.9241999983787537,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2105",
-            "display_name": "Renewable Energy, Sustainability and the Environment"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/crude-oil",
-          "display_name": "Crude oil",
-          "score": 0.5985633730888367
-        },
-        {
-          "id": "https://openalex.org/keywords/peak-oil",
-          "display_name": "Peak oil",
-          "score": 0.5421018004417419
-        },
-        {
-          "id": "https://openalex.org/keywords/oil-price",
-          "display_name": "Oil price",
-          "score": 0.5171098709106445
-        },
-        {
-          "id": "https://openalex.org/keywords/oil-production",
-          "display_name": "Oil production",
-          "score": 0.4431923031806946
-        },
-        {
-          "id": "https://openalex.org/keywords/production",
-          "display_name": "Production (economics)",
-          "score": 0.4267701804637909
-        },
-        {
-          "id": "https://openalex.org/keywords/fossil-fuel",
-          "display_name": "Fossil fuel",
-          "score": 0.42610540986061096
-        },
-        {
-          "id": "https://openalex.org/keywords/agricultural-economics",
-          "display_name": "Agricultural economics",
-          "score": 0.3945389986038208
-        },
-        {
-          "id": "https://openalex.org/keywords/economics",
-          "display_name": "Economics",
-          "score": 0.3840678334236145
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.35722869634628296
-        },
-        {
-          "id": "https://openalex.org/keywords/natural-resource-economics",
-          "display_name": "Natural resource economics",
-          "score": 0.35320422053337097
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.26515012979507446
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.2206282913684845
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-engineering",
-          "display_name": "Petroleum engineering",
-          "score": 0.2127944529056549
-        },
-        {
-          "id": "https://openalex.org/keywords/climate-change",
-          "display_name": "Climate change",
-          "score": 0.13743770122528076
-        },
-        {
-          "id": "https://openalex.org/keywords/waste-management",
-          "display_name": "Waste management",
-          "score": 0.13472741842269897
-        },
-        {
-          "id": "https://openalex.org/keywords/monetary-economics",
-          "display_name": "Monetary economics",
-          "score": 0.12420210242271423
-        },
-        {
-          "id": "https://openalex.org/keywords/macroeconomics",
-          "display_name": "Macroeconomics",
-          "score": 0.09781017899513245
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.09400895237922668
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2987168347",
-          "wikidata": "https://www.wikidata.org/wiki/Q22656",
-          "display_name": "Crude oil",
-          "level": 2,
-          "score": 0.5985633730888367
-        },
-        {
-          "id": "https://openalex.org/C2778552509",
-          "wikidata": "https://www.wikidata.org/wiki/Q209916",
-          "display_name": "Peak oil",
-          "level": 3,
-          "score": 0.5421018004417419
-        },
-        {
-          "id": "https://openalex.org/C2984556133",
-          "wikidata": "https://www.wikidata.org/wiki/Q297279",
-          "display_name": "Oil price",
-          "level": 2,
-          "score": 0.5171098709106445
-        },
-        {
-          "id": "https://openalex.org/C2984309096",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349660",
-          "display_name": "Oil production",
-          "level": 2,
-          "score": 0.4431923031806946
-        },
-        {
-          "id": "https://openalex.org/C2778348673",
-          "wikidata": "https://www.wikidata.org/wiki/Q739302",
-          "display_name": "Production (economics)",
-          "level": 2,
-          "score": 0.4267701804637909
-        },
-        {
-          "id": "https://openalex.org/C68189081",
-          "wikidata": "https://www.wikidata.org/wiki/Q12748",
-          "display_name": "Fossil fuel",
-          "level": 2,
-          "score": 0.42610540986061096
-        },
-        {
-          "id": "https://openalex.org/C48824518",
-          "wikidata": "https://www.wikidata.org/wiki/Q396340",
-          "display_name": "Agricultural economics",
-          "level": 1,
-          "score": 0.3945389986038208
-        },
-        {
-          "id": "https://openalex.org/C162324750",
-          "wikidata": "https://www.wikidata.org/wiki/Q8134",
-          "display_name": "Economics",
-          "level": 0,
-          "score": 0.3840678334236145
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.35722869634628296
-        },
-        {
-          "id": "https://openalex.org/C175605778",
-          "wikidata": "https://www.wikidata.org/wiki/Q3299701",
-          "display_name": "Natural resource economics",
-          "level": 1,
-          "score": 0.35320422053337097
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.26515012979507446
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.2206282913684845
-        },
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.2127944529056549
-        },
-        {
-          "id": "https://openalex.org/C132651083",
-          "wikidata": "https://www.wikidata.org/wiki/Q7942",
-          "display_name": "Climate change",
-          "level": 2,
-          "score": 0.13743770122528076
-        },
-        {
-          "id": "https://openalex.org/C548081761",
-          "wikidata": "https://www.wikidata.org/wiki/Q180388",
-          "display_name": "Waste management",
-          "level": 1,
-          "score": 0.13472741842269897
-        },
-        {
-          "id": "https://openalex.org/C556758197",
-          "wikidata": "https://www.wikidata.org/wiki/Q580018",
-          "display_name": "Monetary economics",
-          "level": 1,
-          "score": 0.12420210242271423
-        },
-        {
-          "id": "https://openalex.org/C139719470",
-          "wikidata": "https://www.wikidata.org/wiki/Q39680",
-          "display_name": "Macroeconomics",
-          "level": 1,
-          "score": 0.09781017899513245
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.09400895237922668
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2113/geoarabia1102181",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.2113/geoarabia1102181",
-          "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/181/5442745/peak_alhusseini.pdf",
-          "source": {
-            "id": "https://openalex.org/S189311251",
-            "display_name": "GeoArabia",
-            "issn_l": "1025-6059",
-            "issn": [
-              "1025-6059"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "jufo-1",
-              "norway-1"
-            ],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": "cc-by-nc",
-          "license_id": "https://openalex.org/licenses/cc-by-nc",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "GeoArabia",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.2113/geoarabia1102181",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.2113/geoarabia1102181",
-        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/181/5442745/peak_alhusseini.pdf",
-        "source": {
-          "id": "https://openalex.org/S189311251",
-          "display_name": "GeoArabia",
-          "issn_l": "1025-6059",
-          "issn": [
-            "1025-6059"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-1",
-            "norway-1"
-          ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": "cc-by-nc",
-        "license_id": "https://openalex.org/licenses/cc-by-nc",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "GeoArabia",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": false
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2150065718.pdf"
-      },
-      "referenced_works_count": 44,
-      "referenced_works": [
-        "https://openalex.org/W18189937",
-        "https://openalex.org/W100370939",
-        "https://openalex.org/W144725662",
-        "https://openalex.org/W194499206",
-        "https://openalex.org/W375166418",
-        "https://openalex.org/W379301160",
-        "https://openalex.org/W636153567",
-        "https://openalex.org/W1486612337",
-        "https://openalex.org/W1487775665",
-        "https://openalex.org/W1500975038",
-        "https://openalex.org/W1524608880",
-        "https://openalex.org/W1538285846",
-        "https://openalex.org/W1549263809",
-        "https://openalex.org/W1645038718",
-        "https://openalex.org/W1970635216",
-        "https://openalex.org/W2001755259",
-        "https://openalex.org/W2010381412",
-        "https://openalex.org/W2010659024",
-        "https://openalex.org/W2024019198",
-        "https://openalex.org/W2037378611",
-        "https://openalex.org/W2039554364",
-        "https://openalex.org/W2067712590",
-        "https://openalex.org/W2068685056",
-        "https://openalex.org/W2070527452",
-        "https://openalex.org/W2073080915",
-        "https://openalex.org/W2079282013",
-        "https://openalex.org/W2089525676",
-        "https://openalex.org/W2121188496",
-        "https://openalex.org/W2157556768",
-        "https://openalex.org/W2169491110",
-        "https://openalex.org/W2489534597",
-        "https://openalex.org/W2730278869",
-        "https://openalex.org/W2942871681",
-        "https://openalex.org/W2971835661",
-        "https://openalex.org/W2973630856",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W6600727680",
-        "https://openalex.org/W6605859395",
-        "https://openalex.org/W6607870885",
-        "https://openalex.org/W6612958586",
-        "https://openalex.org/W6631393310",
-        "https://openalex.org/W6631814218",
-        "https://openalex.org/W6677883197",
-        "https://openalex.org/W6762431745"
-      ],
-      "related_works": [
-        "https://openalex.org/W2285024751",
-        "https://openalex.org/W1964637598",
-        "https://openalex.org/W2800359859",
-        "https://openalex.org/W2597603772",
-        "https://openalex.org/W1636268136",
-        "https://openalex.org/W4294959624",
-        "https://openalex.org/W186732131",
-        "https://openalex.org/W2051653273",
-        "https://openalex.org/W1974930753",
-        "https://openalex.org/W2990681678"
-      ],
-      "abstract_inverted_index": {
-        "85": [
-          174
-        ],
-        "120": [
-          203
-        ],
-        "200": [
-          221
-        ],
-        "2030": [
-          198
-        ],
-        "ABSTRACT": [
-          0
-        ],
-        "The": [
-          1,
-          29
-        ],
-        "application": [
-          2
-        ],
-        "of": [
-          3,
-          52,
-          75,
-          95,
-          131,
-          150,
-          167,
-          202,
-          224
-        ],
-        "various": [
-          4
-        ],
-        "quantitative": [
-          5
-        ],
-        "techniques": [
-          6
-        ],
-        "and": [
-          7,
-          45,
-          102,
-          123,
-          137,
-          145
-        ],
-        "assumptions": [
-          8
-        ],
-        "by": [
-          9,
-          61,
-          141,
-          216
-        ],
-        "different": [
-          10
-        ],
-        "authors": [
-          11,
-          84,
-          110,
-          182
-        ],
-        "to": [
-          12,
-          32,
-          139,
-          173
-        ],
-        "forecast": [
-          13,
-          103
-        ],
-        "the": [
-          14,
-          21,
-          34,
-          53,
-          65,
-          73,
-          80,
-          112,
-          127,
-          132,
-          227
-        ],
-        "world’s": [
-          15
-        ],
-        "conventional": [
-          16
-        ],
-        "crude": [
-          17
-        ],
-        "oil": [
-          18,
-          37,
-          144
-        ],
-        "production": [
-          19,
-          38,
-          43,
-          165
-        ],
-        "in": [
-          20,
-          25,
-          64,
-          79,
-          106,
-          159,
-          177,
-          197,
-          226
-        ],
-        "21st": [
-          22
-        ],
-        "Century": [
-          23
-        ],
-        "results": [
-          24
-        ],
-        "highly": [
-          26
-        ],
-        "inconsistent": [
-          27
-        ],
-        "predictions.": [
-          28
-        ],
-        "forecasts": [
-          30
-        ],
-        "attempt": [
-          31
-        ],
-        "pinpoint": [
-          33
-        ],
-        "peak": [
-          35,
-          42
-        ],
-        "world": [
-          36
-        ],
-        "year": [
-          39
-        ],
-        "(Hubbert’s": [
-          40
-        ],
-        "Peak),": [
-          41
-        ],
-        "rate,": [
-          44,
-          48
-        ],
-        "post-peak": [
-          46
-        ],
-        "decline": [
-          47
-        ],
-        "based": [
-          49
-        ],
-        "on": [
-          50
-        ],
-        "estimates": [
-          51
-        ],
-        "ultimate": [
-          54
-        ],
-        "recoverable": [
-          55
-        ],
-        "reserves": [
-          56
-        ],
-        "(EURR).": [
-          57
-        ],
-        "These": [
-          58
-        ],
-        "techniques,": [
-          59
-        ],
-        "pioneered": [
-          60
-        ],
-        "M.K.": [
-          62
-        ],
-        "Hubbert": [
-          63
-        ],
-        "mid-1950s,": [
-          66
-        ],
-        "generally": [
-          67
-        ],
-        "consider": [
-          68
-        ],
-        "economic": [
-          69
-        ],
-        "factors,": [
-          70
-        ],
-        "such": [
-          71
-        ],
-        "as": [
-          72,
-          77
-        ],
-        "price": [
-          74
-        ],
-        "oil,": [
-          76
-        ],
-        "irrelevant": [
-          78
-        ],
-        "long": [
-          81
-        ],
-        "run.": [
-          82
-        ],
-        "Some": [
-          83
-        ],
-        "support": [
-          85,
-          183
-        ],
-        "a": [
-          86,
-          164,
-          184,
-          200
-        ],
-        "Low": [
-          87
-        ],
-        "EURR": [
-          88,
-          113,
-          120,
-          129,
-          149,
-          186
-        ],
-        "World": [
-          89,
-          121,
-          187
-        ],
-        "Scenario": [
-          90,
-          188
-        ],
-        "(about": [
-          91
-        ],
-        "2.0": [
-          92
-        ],
-        "trillion": [
-          93,
-          117,
-          152,
-          190
-        ],
-        "barrels,": [
-          94
-        ],
-        "which": [
-          96
-        ],
-        "half": [
-          97
-        ],
-        "has": [
-          98
-        ],
-        "already": [
-          99
-        ],
-        "been": [
-          100
-        ],
-        "produced)": [
-          101
-        ],
-        "Hubbert’s": [
-          104,
-          155,
-          195,
-          209,
-          213
-        ],
-        "Peak": [
-          105,
-          156,
-          196,
-          214
-        ],
-        "this": [
-          107,
-          124
-        ],
-        "decade.": [
-          108
-        ],
-        "Other": [
-          109
-        ],
-        "estimate": [
-          111,
-          125
-        ],
-        "at": [
-          114,
-          163,
-          199
-        ],
-        "about": [
-          115,
-          168
-        ],
-        "3.0": [
-          116,
-          151
-        ],
-        "barrels": [
-          118,
-          153,
-          191,
-          223
-        ],
-        "(Median": [
-          119
-        ],
-        "Scenario),": [
-          122
-        ],
-        "is": [
-          126
-        ],
-        "mean": [
-          128
-        ],
-        "assessment": [
-          130
-        ],
-        "United": [
-          133
-        ],
-        "States": [
-          134
-        ],
-        "Geological": [
-          135
-        ],
-        "Survey": [
-          136
-        ],
-        "similar": [
-          138
-        ],
-        "assessments": [
-          140
-        ],
-        "several": [
-          142
-        ],
-        "major": [
-          143
-        ],
-        "gas": [
-          146
-        ],
-        "companies.": [
-          147
-        ],
-        "An": [
-          148
-        ],
-        "implies": [
-          154
-        ],
-        "will": [
-          157
-        ],
-        "occur": [
-          158
-        ],
-        "2020,": [
-          160
-        ],
-        "or": [
-          161,
-          192
-        ],
-        "so,": [
-          162
-        ],
-        "rate": [
-          166,
-          201
-        ],
-        "90–100": [
-          169
-        ],
-        "million": [
-          170,
-          175,
-          204
-        ],
-        "barrels/day": [
-          171,
-          176
-        ],
-        "(compared": [
-          172
-        ],
-        "late": [
-          178
-        ],
-        "2005).": [
-          179
-        ],
-        "A": [
-          180
-        ],
-        "few": [
-          181
-        ],
-        "High": [
-          185
-        ],
-        "(4.0": [
-          189
-        ],
-        "more)": [
-          193
-        ],
-        "with": [
-          194
-        ],
-        "barrels/day.": [
-          205
-        ],
-        "Sensitivity": [
-          206
-        ],
-        "analysis": [
-          207
-        ],
-        "for": [
-          208,
-          219
-        ],
-        "Curve": [
-          210
-        ],
-        "suggest": [
-          211
-        ],
-        "that": [
-          212
-        ],
-        "moves": [
-          215
-        ],
-        "three": [
-          217
-        ],
-        "years": [
-          218
-        ],
-        "every": [
-          220
-        ],
-        "billion": [
-          222
-        ],
-        "error": [
-          225
-        ],
-        "EURR.": [
-          228
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 2
         }
       ],
       "updated_date": "2026-09-22T06:50:58.402377",
@@ -42326,17 +41249,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2964097576.pdf"
@@ -43434,17 +42357,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 148,
@@ -44006,17 +42929,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.46000000834465027,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
@@ -44593,17 +43516,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -45766,17 +44689,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2782942463.pdf"
@@ -46863,8 +45786,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -48247,17 +47170,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.4099999964237213,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3094434653.pdf"
@@ -48335,6 +47258,1089 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2150065718",
+      "doi": "https://doi.org/10.2113/geoarabia1102181",
+      "title": "The debate over Hubbert’s Peak: a review",
+      "display_name": "The debate over Hubbert’s Peak: a review",
+      "publication_year": 2006,
+      "publication_date": "2006-04-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2150065718",
+        "doi": "https://doi.org/10.2113/geoarabia1102181",
+        "mag": "2150065718"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2113/geoarabia1102181",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2113/geoarabia1102181",
+        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/181/5442745/peak_alhusseini.pdf",
+        "source": {
+          "id": "https://openalex.org/S189311251",
+          "display_name": "GeoArabia",
+          "issn_l": "1025-6059",
+          "issn": [
+            "1025-6059"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "GeoArabia",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/181/5442745/peak_alhusseini.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5081811780",
+            "display_name": "Moujahed I. Al-Husseini",
+            "orcid": "https://orcid.org/0009-0002-1087-5882",
+            "observed_orcids": [
+              "https://orcid.org/0009-0002-1087-5882"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Moujahed Al-Husseini",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5081811780"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.3079,
+      "has_fulltext": false,
+      "cited_by_count": 14,
+      "citation_normalized_percentile": {
+        "value": 0.8191104,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "11",
+        "issue": "2",
+        "first_page": "181",
+        "last_page": "210"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12639",
+        "display_name": "Global Energy and Sustainability Research",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2105",
+          "display_name": "Renewable Energy, Sustainability and the Environment"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/21",
+          "display_name": "Energy"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12639",
+          "display_name": "Global Energy and Sustainability Research",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2105",
+            "display_name": "Renewable Energy, Sustainability and the Environment"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11059",
+          "display_name": "Market Dynamics and Volatility",
+          "score": 0.9757999777793884,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2002",
+            "display_name": "Economics and Econometrics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/20",
+            "display_name": "Economics, Econometrics and Finance"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12617",
+          "display_name": "Energy, Environment, and Transportation Policies",
+          "score": 0.9241999983787537,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2105",
+            "display_name": "Renewable Energy, Sustainability and the Environment"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/crude-oil",
+          "display_name": "Crude oil",
+          "score": 0.5985633730888367
+        },
+        {
+          "id": "https://openalex.org/keywords/peak-oil",
+          "display_name": "Peak oil",
+          "score": 0.5421018004417419
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-price",
+          "display_name": "Oil price",
+          "score": 0.5171098709106445
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-production",
+          "display_name": "Oil production",
+          "score": 0.4431923031806946
+        },
+        {
+          "id": "https://openalex.org/keywords/production",
+          "display_name": "Production (economics)",
+          "score": 0.4267701804637909
+        },
+        {
+          "id": "https://openalex.org/keywords/fossil-fuel",
+          "display_name": "Fossil fuel",
+          "score": 0.42610540986061096
+        },
+        {
+          "id": "https://openalex.org/keywords/agricultural-economics",
+          "display_name": "Agricultural economics",
+          "score": 0.3945389986038208
+        },
+        {
+          "id": "https://openalex.org/keywords/economics",
+          "display_name": "Economics",
+          "score": 0.3840678334236145
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.35722869634628296
+        },
+        {
+          "id": "https://openalex.org/keywords/natural-resource-economics",
+          "display_name": "Natural resource economics",
+          "score": 0.35320422053337097
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.26515012979507446
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.2206282913684845
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-engineering",
+          "display_name": "Petroleum engineering",
+          "score": 0.2127944529056549
+        },
+        {
+          "id": "https://openalex.org/keywords/climate-change",
+          "display_name": "Climate change",
+          "score": 0.13743770122528076
+        },
+        {
+          "id": "https://openalex.org/keywords/waste-management",
+          "display_name": "Waste management",
+          "score": 0.13472741842269897
+        },
+        {
+          "id": "https://openalex.org/keywords/monetary-economics",
+          "display_name": "Monetary economics",
+          "score": 0.12420210242271423
+        },
+        {
+          "id": "https://openalex.org/keywords/macroeconomics",
+          "display_name": "Macroeconomics",
+          "score": 0.09781017899513245
+        },
+        {
+          "id": "https://openalex.org/keywords/oceanography",
+          "display_name": "Oceanography",
+          "score": 0.09400895237922668
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2987168347",
+          "wikidata": "https://www.wikidata.org/wiki/Q22656",
+          "display_name": "Crude oil",
+          "level": 2,
+          "score": 0.5985633730888367
+        },
+        {
+          "id": "https://openalex.org/C2778552509",
+          "wikidata": "https://www.wikidata.org/wiki/Q209916",
+          "display_name": "Peak oil",
+          "level": 3,
+          "score": 0.5421018004417419
+        },
+        {
+          "id": "https://openalex.org/C2984556133",
+          "wikidata": "https://www.wikidata.org/wiki/Q297279",
+          "display_name": "Oil price",
+          "level": 2,
+          "score": 0.5171098709106445
+        },
+        {
+          "id": "https://openalex.org/C2984309096",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349660",
+          "display_name": "Oil production",
+          "level": 2,
+          "score": 0.4431923031806946
+        },
+        {
+          "id": "https://openalex.org/C2778348673",
+          "wikidata": "https://www.wikidata.org/wiki/Q739302",
+          "display_name": "Production (economics)",
+          "level": 2,
+          "score": 0.4267701804637909
+        },
+        {
+          "id": "https://openalex.org/C68189081",
+          "wikidata": "https://www.wikidata.org/wiki/Q12748",
+          "display_name": "Fossil fuel",
+          "level": 2,
+          "score": 0.42610540986061096
+        },
+        {
+          "id": "https://openalex.org/C48824518",
+          "wikidata": "https://www.wikidata.org/wiki/Q396340",
+          "display_name": "Agricultural economics",
+          "level": 1,
+          "score": 0.3945389986038208
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.3840678334236145
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.35722869634628296
+        },
+        {
+          "id": "https://openalex.org/C175605778",
+          "wikidata": "https://www.wikidata.org/wiki/Q3299701",
+          "display_name": "Natural resource economics",
+          "level": 1,
+          "score": 0.35320422053337097
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.26515012979507446
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.2206282913684845
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.2127944529056549
+        },
+        {
+          "id": "https://openalex.org/C132651083",
+          "wikidata": "https://www.wikidata.org/wiki/Q7942",
+          "display_name": "Climate change",
+          "level": 2,
+          "score": 0.13743770122528076
+        },
+        {
+          "id": "https://openalex.org/C548081761",
+          "wikidata": "https://www.wikidata.org/wiki/Q180388",
+          "display_name": "Waste management",
+          "level": 1,
+          "score": 0.13472741842269897
+        },
+        {
+          "id": "https://openalex.org/C556758197",
+          "wikidata": "https://www.wikidata.org/wiki/Q580018",
+          "display_name": "Monetary economics",
+          "level": 1,
+          "score": 0.12420210242271423
+        },
+        {
+          "id": "https://openalex.org/C139719470",
+          "wikidata": "https://www.wikidata.org/wiki/Q39680",
+          "display_name": "Macroeconomics",
+          "level": 1,
+          "score": 0.09781017899513245
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.09400895237922668
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2113/geoarabia1102181",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.2113/geoarabia1102181",
+          "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/181/5442745/peak_alhusseini.pdf",
+          "source": {
+            "id": "https://openalex.org/S189311251",
+            "display_name": "GeoArabia",
+            "issn_l": "1025-6059",
+            "issn": [
+              "1025-6059"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "GeoArabia",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.2113/geoarabia1102181",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2113/geoarabia1102181",
+        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/181/5442745/peak_alhusseini.pdf",
+        "source": {
+          "id": "https://openalex.org/S189311251",
+          "display_name": "GeoArabia",
+          "issn_l": "1025-6059",
+          "issn": [
+            "1025-6059"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "GeoArabia",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "x_sdgs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2150065718.pdf"
+      },
+      "referenced_works_count": 44,
+      "referenced_works": [
+        "https://openalex.org/W18189937",
+        "https://openalex.org/W100370939",
+        "https://openalex.org/W144725662",
+        "https://openalex.org/W194499206",
+        "https://openalex.org/W375166418",
+        "https://openalex.org/W379301160",
+        "https://openalex.org/W636153567",
+        "https://openalex.org/W1486612337",
+        "https://openalex.org/W1487775665",
+        "https://openalex.org/W1500975038",
+        "https://openalex.org/W1524608880",
+        "https://openalex.org/W1538285846",
+        "https://openalex.org/W1549263809",
+        "https://openalex.org/W1645038718",
+        "https://openalex.org/W1970635216",
+        "https://openalex.org/W2001755259",
+        "https://openalex.org/W2010381412",
+        "https://openalex.org/W2010659024",
+        "https://openalex.org/W2024019198",
+        "https://openalex.org/W2037378611",
+        "https://openalex.org/W2039554364",
+        "https://openalex.org/W2067712590",
+        "https://openalex.org/W2068685056",
+        "https://openalex.org/W2070527452",
+        "https://openalex.org/W2073080915",
+        "https://openalex.org/W2079282013",
+        "https://openalex.org/W2089525676",
+        "https://openalex.org/W2121188496",
+        "https://openalex.org/W2157556768",
+        "https://openalex.org/W2169491110",
+        "https://openalex.org/W2489534597",
+        "https://openalex.org/W2730278869",
+        "https://openalex.org/W2942871681",
+        "https://openalex.org/W2971835661",
+        "https://openalex.org/W2973630856",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W6600727680",
+        "https://openalex.org/W6605859395",
+        "https://openalex.org/W6607870885",
+        "https://openalex.org/W6612958586",
+        "https://openalex.org/W6631393310",
+        "https://openalex.org/W6631814218",
+        "https://openalex.org/W6677883197",
+        "https://openalex.org/W6762431745"
+      ],
+      "related_works": [
+        "https://openalex.org/W2285024751",
+        "https://openalex.org/W1964637598",
+        "https://openalex.org/W2800359859",
+        "https://openalex.org/W2597603772",
+        "https://openalex.org/W1636268136",
+        "https://openalex.org/W4294959624",
+        "https://openalex.org/W186732131",
+        "https://openalex.org/W2051653273",
+        "https://openalex.org/W1974930753",
+        "https://openalex.org/W2990681678"
+      ],
+      "abstract_inverted_index": {
+        "85": [
+          174
+        ],
+        "120": [
+          203
+        ],
+        "200": [
+          221
+        ],
+        "2030": [
+          198
+        ],
+        "ABSTRACT": [
+          0
+        ],
+        "The": [
+          1,
+          29
+        ],
+        "application": [
+          2
+        ],
+        "of": [
+          3,
+          52,
+          75,
+          95,
+          131,
+          150,
+          167,
+          202,
+          224
+        ],
+        "various": [
+          4
+        ],
+        "quantitative": [
+          5
+        ],
+        "techniques": [
+          6
+        ],
+        "and": [
+          7,
+          45,
+          102,
+          123,
+          137,
+          145
+        ],
+        "assumptions": [
+          8
+        ],
+        "by": [
+          9,
+          61,
+          141,
+          216
+        ],
+        "different": [
+          10
+        ],
+        "authors": [
+          11,
+          84,
+          110,
+          182
+        ],
+        "to": [
+          12,
+          32,
+          139,
+          173
+        ],
+        "forecast": [
+          13,
+          103
+        ],
+        "the": [
+          14,
+          21,
+          34,
+          53,
+          65,
+          73,
+          80,
+          112,
+          127,
+          132,
+          227
+        ],
+        "world’s": [
+          15
+        ],
+        "conventional": [
+          16
+        ],
+        "crude": [
+          17
+        ],
+        "oil": [
+          18,
+          37,
+          144
+        ],
+        "production": [
+          19,
+          38,
+          43,
+          165
+        ],
+        "in": [
+          20,
+          25,
+          64,
+          79,
+          106,
+          159,
+          177,
+          197,
+          226
+        ],
+        "21st": [
+          22
+        ],
+        "Century": [
+          23
+        ],
+        "results": [
+          24
+        ],
+        "highly": [
+          26
+        ],
+        "inconsistent": [
+          27
+        ],
+        "predictions.": [
+          28
+        ],
+        "forecasts": [
+          30
+        ],
+        "attempt": [
+          31
+        ],
+        "pinpoint": [
+          33
+        ],
+        "peak": [
+          35,
+          42
+        ],
+        "world": [
+          36
+        ],
+        "year": [
+          39
+        ],
+        "(Hubbert’s": [
+          40
+        ],
+        "Peak),": [
+          41
+        ],
+        "rate,": [
+          44,
+          48
+        ],
+        "post-peak": [
+          46
+        ],
+        "decline": [
+          47
+        ],
+        "based": [
+          49
+        ],
+        "on": [
+          50
+        ],
+        "estimates": [
+          51
+        ],
+        "ultimate": [
+          54
+        ],
+        "recoverable": [
+          55
+        ],
+        "reserves": [
+          56
+        ],
+        "(EURR).": [
+          57
+        ],
+        "These": [
+          58
+        ],
+        "techniques,": [
+          59
+        ],
+        "pioneered": [
+          60
+        ],
+        "M.K.": [
+          62
+        ],
+        "Hubbert": [
+          63
+        ],
+        "mid-1950s,": [
+          66
+        ],
+        "generally": [
+          67
+        ],
+        "consider": [
+          68
+        ],
+        "economic": [
+          69
+        ],
+        "factors,": [
+          70
+        ],
+        "such": [
+          71
+        ],
+        "as": [
+          72,
+          77
+        ],
+        "price": [
+          74
+        ],
+        "oil,": [
+          76
+        ],
+        "irrelevant": [
+          78
+        ],
+        "long": [
+          81
+        ],
+        "run.": [
+          82
+        ],
+        "Some": [
+          83
+        ],
+        "support": [
+          85,
+          183
+        ],
+        "a": [
+          86,
+          164,
+          184,
+          200
+        ],
+        "Low": [
+          87
+        ],
+        "EURR": [
+          88,
+          113,
+          120,
+          129,
+          149,
+          186
+        ],
+        "World": [
+          89,
+          121,
+          187
+        ],
+        "Scenario": [
+          90,
+          188
+        ],
+        "(about": [
+          91
+        ],
+        "2.0": [
+          92
+        ],
+        "trillion": [
+          93,
+          117,
+          152,
+          190
+        ],
+        "barrels,": [
+          94
+        ],
+        "which": [
+          96
+        ],
+        "half": [
+          97
+        ],
+        "has": [
+          98
+        ],
+        "already": [
+          99
+        ],
+        "been": [
+          100
+        ],
+        "produced)": [
+          101
+        ],
+        "Hubbert’s": [
+          104,
+          155,
+          195,
+          209,
+          213
+        ],
+        "Peak": [
+          105,
+          156,
+          196,
+          214
+        ],
+        "this": [
+          107,
+          124
+        ],
+        "decade.": [
+          108
+        ],
+        "Other": [
+          109
+        ],
+        "estimate": [
+          111,
+          125
+        ],
+        "at": [
+          114,
+          163,
+          199
+        ],
+        "about": [
+          115,
+          168
+        ],
+        "3.0": [
+          116,
+          151
+        ],
+        "barrels": [
+          118,
+          153,
+          191,
+          223
+        ],
+        "(Median": [
+          119
+        ],
+        "Scenario),": [
+          122
+        ],
+        "is": [
+          126
+        ],
+        "mean": [
+          128
+        ],
+        "assessment": [
+          130
+        ],
+        "United": [
+          133
+        ],
+        "States": [
+          134
+        ],
+        "Geological": [
+          135
+        ],
+        "Survey": [
+          136
+        ],
+        "similar": [
+          138
+        ],
+        "assessments": [
+          140
+        ],
+        "several": [
+          142
+        ],
+        "major": [
+          143
+        ],
+        "gas": [
+          146
+        ],
+        "companies.": [
+          147
+        ],
+        "An": [
+          148
+        ],
+        "implies": [
+          154
+        ],
+        "will": [
+          157
+        ],
+        "occur": [
+          158
+        ],
+        "2020,": [
+          160
+        ],
+        "or": [
+          161,
+          192
+        ],
+        "so,": [
+          162
+        ],
+        "rate": [
+          166,
+          201
+        ],
+        "90–100": [
+          169
+        ],
+        "million": [
+          170,
+          175,
+          204
+        ],
+        "barrels/day": [
+          171,
+          176
+        ],
+        "(compared": [
+          172
+        ],
+        "late": [
+          178
+        ],
+        "2005).": [
+          179
+        ],
+        "A": [
+          180
+        ],
+        "few": [
+          181
+        ],
+        "High": [
+          185
+        ],
+        "(4.0": [
+          189
+        ],
+        "more)": [
+          193
+        ],
+        "with": [
+          194
+        ],
+        "barrels/day.": [
+          205
+        ],
+        "Sensitivity": [
+          206
+        ],
+        "analysis": [
+          207
+        ],
+        "for": [
+          208,
+          219
+        ],
+        "Curve": [
+          210
+        ],
+        "suggest": [
+          211
+        ],
+        "that": [
+          212
+        ],
+        "moves": [
+          215
+        ],
+        "three": [
+          217
+        ],
+        "years": [
+          218
+        ],
+        "every": [
+          220
+        ],
+        "billion": [
+          222
+        ],
+        "error": [
+          225
+        ],
+        "EURR.": [
+          228
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-09-25T08:18:29.962427",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W3011458131",
       "doi": "https://doi.org/10.2113/geoarabia180117",
       "title": "MIDDLE EAST GEOLOGIC TIME SCALE 2013",
@@ -48397,7 +48403,10 @@
           "author": {
             "id": "https://openalex.org/A5081811780",
             "display_name": "Moujahed I. Al-Husseini",
-            "orcid": "https://orcid.org/0009-0002-1087-5882"
+            "orcid": "https://orcid.org/0009-0002-1087-5882",
+            "observed_orcids": [
+              "https://orcid.org/0009-0002-1087-5882"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -48417,11 +48426,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7848,
+      "fwci": 0.7817,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.74821096,
+        "value": 0.74708713,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48730,22 +48739,22 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3011458131.pdf"
       },
-      "referenced_works_count": 100,
+      "referenced_works_count": 101,
       "referenced_works": [
         "https://openalex.org/W69505290",
         "https://openalex.org/W189388857",
@@ -48807,6 +48816,7 @@
         "https://openalex.org/W2172915333",
         "https://openalex.org/W2176559116",
         "https://openalex.org/W2184264100",
+        "https://openalex.org/W2188407409",
         "https://openalex.org/W2200214261",
         "https://openalex.org/W2252391300",
         "https://openalex.org/W2412279685",
@@ -49713,7 +49723,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -50240,9 +50250,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -50255,8 +50265,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2955710534.pdf",
@@ -52215,17 +52225,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3083121467.pdf"
@@ -53550,17 +53560,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8199999928474426,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -54064,8 +54074,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -55925,9 +55935,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation",
           "score": 0.7300000190734863,
-          "display_name": "Clean water and sanitation"
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "x_sdgs": [],
@@ -55950,8 +55960,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4393192528.pdf",
@@ -56865,17 +56875,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3123020830.pdf"
@@ -58259,8 +58269,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -59308,8 +59318,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -59846,17 +59856,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2968475188.pdf"
@@ -60708,17 +60718,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.8299999833106995,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3128531337.pdf"
@@ -61162,17 +61172,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6499999761581421,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3012103603.pdf"
@@ -61614,17 +61624,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6700000166893005,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2952036994.pdf"
@@ -61690,7 +61700,8 @@
           "author": {
             "id": "https://openalex.org/A5151746028",
             "display_name": "Frans S.P. van Buchem",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -61705,7 +61716,10 @@
           "author": {
             "id": "https://openalex.org/A5081811780",
             "display_name": "Moujahed I. Al-Husseini",
-            "orcid": "https://orcid.org/0009-0002-1087-5882"
+            "orcid": "https://orcid.org/0009-0002-1087-5882",
+            "observed_orcids": [
+              "https://orcid.org/0009-0002-1087-5882"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -61718,9 +61732,10 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5151876802",
+            "id": "https://openalex.org/A5110956932",
             "display_name": "Florian Maurer",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -61733,9 +61748,12 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5140989114",
-            "display_name": "Henk J. Droste",
-            "orcid": null
+            "id": "https://openalex.org/A5058646530",
+            "display_name": "Henk Droste",
+            "orcid": "https://orcid.org/0009-0008-1422-1783",
+            "observed_orcids": [
+              "https://orcid.org/0009-0008-1422-1783"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -61753,11 +61771,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1769,
+      "fwci": 3.0652,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.92811839,
+        "value": 0.92391304,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -61961,17 +61979,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7835737466812134,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -61979,7 +61997,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2026-09-16T00:00:00"
     },
     {
@@ -62323,17 +62341,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.4699999988079071,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2967961194.pdf"
@@ -62810,17 +62828,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -63745,17 +63763,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8761091828346252,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -65097,17 +65115,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.4699999988079071,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65505,8 +65523,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65887,17 +65905,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -66542,8 +66560,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -66682,8 +66700,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -66692,6 +66710,155 @@
       "abstract_inverted_index": null,
       "counts_by_year": [],
       "updated_date": "2026-09-22T06:50:58.402377",
+      "created_date": "2026-07-11T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7167978995",
+      "doi": "https://doi.org/10.2113/9781733475723-preface",
+      "title": "PREFACE",
+      "display_name": "PREFACE",
+      "publication_year": 2004,
+      "publication_date": "2004-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W7167978995",
+        "doi": "https://doi.org/10.2113/9781733475723-preface"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2113/9781733475723-preface",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2113/9781733475723-preface",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Carboniferous, Permian and Early Triassic Arabian Stratigraphy",
+        "raw_type": "book-chapter"
+      },
+      "type": "paratext",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5081811780",
+            "display_name": "Moujahed I. Al-Husseini",
+            "orcid": "https://orcid.org/0009-0002-1087-5882",
+            "observed_orcids": [
+              "https://orcid.org/0009-0002-1087-5882"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2781680685",
+              "display_name": "Cambia",
+              "ror": "https://ror.org/0307tfa50",
+              "country_code": "AU",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I2781680685"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Moujahed Al-Husseini",
+          "raw_affiliation_strings": [
+            "Editor-in-Chief, GeoArabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Editor-in-Chief, GeoArabia",
+              "institution_ids": [
+                "https://openalex.org/I2781680685"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5081811780"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I2781680685"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": null,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": null,
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "7",
+        "last_page": "13"
+      },
+      "is_retracted": false,
+      "is_paratext": true,
+      "is_xpac": false,
+      "primary_topic": null,
+      "topics": [],
+      "keywords": [],
+      "concepts": [],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2113/9781733475723-preface",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.2113/9781733475723-preface",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Carboniferous, Permian and Early Triassic Arabian Stratigraphy",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "x_sdgs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 5,
+      "referenced_works": [
+        "https://openalex.org/W88175743",
+        "https://openalex.org/W1518311132",
+        "https://openalex.org/W1580287752",
+        "https://openalex.org/W2974346296",
+        "https://openalex.org/W2986225371"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": null,
+      "counts_by_year": [],
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2026-07-11T00:00:00"
     }
   ]

@@ -26,7 +26,7 @@
     ],
     "full_name": "Abdullatif Abdulrahman Al-Shuhail",
     "works_count": 172,
-    "cited_by_count": 1388,
+    "cited_by_count": 1389,
     "summary_stats": {
       "2yr_mean_citedness": 3.903225806451613,
       "h_index": 22,
@@ -484,7 +484,7 @@
         "year": 2019,
         "works_count": 17,
         "oa_works_count": 3,
-        "cited_by_count": 204
+        "cited_by_count": 205
       },
       {
         "year": 2020,
@@ -549,7 +549,7 @@
     ],
     "block_key": "a al-shuhail",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054922583",
-    "updated_date": "2026-09-23T12:19:55",
+    "updated_date": "2026-09-24T12:17:56",
     "created_date": "2016-11-30T00:00:00"
   },
   "works": [
@@ -1751,9 +1751,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8299999833106995,
-          "display_name": "Affordable and clean energy"
+          "score": 0.8299999833106995
         }
       ],
       "x_sdgs": [],
@@ -2363,7 +2363,10 @@
           "author": {
             "id": "https://openalex.org/A5065687785",
             "display_name": "Sikandar Khan",
-            "orcid": "https://orcid.org/0000-0002-5631-8312"
+            "orcid": "https://orcid.org/0000-0002-5631-8312",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5631-8312"
+            ]
           },
           "institutions": [
             {
@@ -2400,7 +2403,10 @@
           "author": {
             "id": "https://openalex.org/A5011094295",
             "display_name": "Yehia Abel Khulief",
-            "orcid": "https://orcid.org/0000-0002-0773-9663"
+            "orcid": "https://orcid.org/0000-0002-0773-9663",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0773-9663"
+            ]
           },
           "institutions": [
             {
@@ -2437,7 +2443,10 @@
           "author": {
             "id": "https://openalex.org/A5037732794",
             "display_name": "Rubén Juanes",
-            "orcid": "https://orcid.org/0000-0002-7370-2332"
+            "orcid": "https://orcid.org/0000-0002-7370-2332",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7370-2332"
+            ]
           },
           "institutions": [
             {
@@ -2474,7 +2483,10 @@
           "author": {
             "id": "https://openalex.org/A5060638733",
             "display_name": "Salem Bashmal",
-            "orcid": "https://orcid.org/0000-0002-6985-0316"
+            "orcid": "https://orcid.org/0000-0002-6985-0316",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6985-0316"
+            ]
           },
           "institutions": [
             {
@@ -2518,7 +2530,10 @@
           "author": {
             "id": "https://openalex.org/A5090138718",
             "display_name": "Muhammad Usman",
-            "orcid": "https://orcid.org/0000-0002-9451-3696"
+            "orcid": "https://orcid.org/0000-0002-9451-3696",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9451-3696"
+            ]
           },
           "institutions": [
             {
@@ -2555,7 +2570,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -2603,11 +2621,11 @@
         "value_usd": 3250
       },
       "apc_paid": null,
-      "fwci": 6.3185,
+      "fwci": 6.2671,
       "has_fulltext": false,
       "cited_by_count": 51,
       "citation_normalized_percentile": {
-        "value": 0.98180544,
+        "value": 0.98159352,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3013,9 +3031,10 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 165,
+      "referenced_works_count": 168,
       "referenced_works": [
         "https://openalex.org/W619456448",
+        "https://openalex.org/W1509612231",
         "https://openalex.org/W1533563182",
         "https://openalex.org/W1927645379",
         "https://openalex.org/W1964967062",
@@ -3034,6 +3053,7 @@
         "https://openalex.org/W1999646019",
         "https://openalex.org/W1999647928",
         "https://openalex.org/W2000437664",
+        "https://openalex.org/W2001871102",
         "https://openalex.org/W2002509073",
         "https://openalex.org/W2005706384",
         "https://openalex.org/W2009395568",
@@ -3081,6 +3101,7 @@
         "https://openalex.org/W2117781836",
         "https://openalex.org/W2122435865",
         "https://openalex.org/W2123134406",
+        "https://openalex.org/W2127182688",
         "https://openalex.org/W2130138644",
         "https://openalex.org/W2133490387",
         "https://openalex.org/W2143673685",
@@ -3208,7 +3229,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4499,7 +4520,10 @@
           "author": {
             "id": "https://openalex.org/A5065687785",
             "display_name": "Sikandar Khan",
-            "orcid": "https://orcid.org/0000-0002-5631-8312"
+            "orcid": "https://orcid.org/0000-0002-5631-8312",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5631-8312"
+            ]
           },
           "institutions": [
             {
@@ -4536,7 +4560,10 @@
           "author": {
             "id": "https://openalex.org/A5011094295",
             "display_name": "Yehia Abel Khulief",
-            "orcid": "https://orcid.org/0000-0002-0773-9663"
+            "orcid": "https://orcid.org/0000-0002-0773-9663",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0773-9663"
+            ]
           },
           "institutions": [
             {
@@ -4573,7 +4600,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -4619,11 +4649,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.2402,
+      "fwci": 1.2266,
       "has_fulltext": false,
       "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.75143854,
+        "value": 0.7484205,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5022,9 +5052,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8399999737739563,
-          "display_name": "Climate action"
+          "score": 0.8399999737739563
         }
       ],
       "x_sdgs": [],
@@ -5049,7 +5079,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 72,
+      "referenced_works_count": 73,
       "referenced_works": [
         "https://openalex.org/W300514308",
         "https://openalex.org/W588209678",
@@ -5072,6 +5102,7 @@
         "https://openalex.org/W1986647983",
         "https://openalex.org/W1995018832",
         "https://openalex.org/W1998754639",
+        "https://openalex.org/W2001871102",
         "https://openalex.org/W2009697501",
         "https://openalex.org/W2011310061",
         "https://openalex.org/W2017007552",
@@ -5171,7 +5202,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6456,7 +6487,10 @@
           "author": {
             "id": "https://openalex.org/A5065687785",
             "display_name": "Sikandar Khan",
-            "orcid": "https://orcid.org/0000-0002-5631-8312"
+            "orcid": "https://orcid.org/0000-0002-5631-8312",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5631-8312"
+            ]
           },
           "institutions": [
             {
@@ -6493,7 +6527,10 @@
           "author": {
             "id": "https://openalex.org/A5011094295",
             "display_name": "Yehia Abel Khulief",
-            "orcid": "https://orcid.org/0000-0002-0773-9663"
+            "orcid": "https://orcid.org/0000-0002-0773-9663",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0773-9663"
+            ]
           },
           "institutions": [
             {
@@ -6530,7 +6567,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -6578,16 +6618,16 @@
         "value_usd": 2750
       },
       "apc_paid": null,
-      "fwci": 1.5818,
+      "fwci": 1.5679,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.80333282,
+        "value": 0.80155718,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -6898,16 +6938,18 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 48,
+      "referenced_works_count": 50,
       "referenced_works": [
         "https://openalex.org/W54956797",
         "https://openalex.org/W203584942",
+        "https://openalex.org/W1525106091",
         "https://openalex.org/W1907781017",
         "https://openalex.org/W1965028328",
         "https://openalex.org/W1966941707",
         "https://openalex.org/W1973977895",
         "https://openalex.org/W1993510378",
         "https://openalex.org/W1998754639",
+        "https://openalex.org/W2001871102",
         "https://openalex.org/W2011707720",
         "https://openalex.org/W2014738020",
         "https://openalex.org/W2021138571",
@@ -6992,7 +7034,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9457,9 +9499,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8899999856948853,
-          "display_name": "Affordable and clean energy"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -9953,6 +9995,7 @@
             "cwts-core",
             "doaj",
             "jufo-1",
+            "ki-jl-1",
             "norway-1"
           ],
           "host_organization": "https://openalex.org/P4310319808",
@@ -9990,7 +10033,10 @@
           "author": {
             "id": "https://openalex.org/A5056812780",
             "display_name": "Naveed Iqbal",
-            "orcid": "https://orcid.org/0000-0002-2633-9761"
+            "orcid": "https://orcid.org/0000-0002-2633-9761",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2633-9761"
+            ]
           },
           "institutions": [
             {
@@ -10027,7 +10073,10 @@
           "author": {
             "id": "https://openalex.org/A5085319299",
             "display_name": "Entao Liu",
-            "orcid": "https://orcid.org/0000-0002-0388-5540"
+            "orcid": "https://orcid.org/0000-0002-0388-5540",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0388-5540"
+            ]
           },
           "institutions": [
             {
@@ -10064,7 +10113,10 @@
           "author": {
             "id": "https://openalex.org/A5006151039",
             "display_name": "James H. McClellan",
-            "orcid": "https://orcid.org/0000-0003-0647-9561"
+            "orcid": "https://orcid.org/0000-0003-0647-9561",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0647-9561"
+            ]
           },
           "institutions": [
             {
@@ -10101,7 +10153,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -10138,7 +10193,10 @@
           "author": {
             "id": "https://openalex.org/A5024607591",
             "display_name": "SanLinn I. Kaka",
-            "orcid": "https://orcid.org/0000-0003-1229-4627"
+            "orcid": "https://orcid.org/0000-0003-1229-4627",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1229-4627"
+            ]
           },
           "institutions": [
             {
@@ -10175,7 +10233,10 @@
           "author": {
             "id": "https://openalex.org/A5016405871",
             "display_name": "Azzedine Zerguine",
-            "orcid": "https://orcid.org/0000-0002-2621-4969"
+            "orcid": "https://orcid.org/0000-0002-2621-4969",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2621-4969"
+            ]
           },
           "institutions": [
             {
@@ -10223,11 +10284,11 @@
         "currency": "USD",
         "value_usd": 2075
       },
-      "fwci": 1.5339,
+      "fwci": 1.4264,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.77698448,
+        "value": 0.76006697,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10695,6 +10756,7 @@
               "cwts-core",
               "doaj",
               "jufo-1",
+              "ki-jl-1",
               "norway-1"
             ],
             "host_organization": "https://openalex.org/P4310319808",
@@ -10763,6 +10825,7 @@
             "cwts-core",
             "doaj",
             "jufo-1",
+            "ki-jl-1",
             "norway-1"
           ],
           "host_organization": "https://openalex.org/P4310319808",
@@ -10811,10 +10874,11 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 92,
+      "referenced_works_count": 93,
       "referenced_works": [
         "https://openalex.org/W292716351",
         "https://openalex.org/W1480246942",
+        "https://openalex.org/W1480403266",
         "https://openalex.org/W1492221128",
         "https://openalex.org/W1543207505",
         "https://openalex.org/W1584927526",
@@ -11399,7 +11463,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12142,9 +12206,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.7900000214576721,
-          "display_name": "Sustainable cities and communities"
+          "score": 0.7900000214576721
         }
       ],
       "x_sdgs": [],
@@ -14417,7 +14481,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -14452,9 +14519,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5112761121",
-            "display_name": "Saleh A. Al‐Dossary",
-            "orcid": null
+            "id": "https://openalex.org/A5111753752",
+            "display_name": "Saleh Al‐Dossary",
+            "orcid": "https://orcid.org/0000-0003-3738-2666",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3738-2666"
+            ]
           },
           "institutions": [
             {
@@ -14491,7 +14561,10 @@
           "author": {
             "id": "https://openalex.org/A5042237070",
             "display_name": "Wail A. Mousa",
-            "orcid": "https://orcid.org/0000-0003-4159-8304"
+            "orcid": "https://orcid.org/0000-0003-4159-8304",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4159-8304"
+            ]
           },
           "institutions": [
             {
@@ -14531,16 +14604,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3105,
+      "fwci": 2.2803,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.92653061,
+        "value": 0.92448513,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -14767,9 +14840,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7300000190734863,
-          "display_name": "Climate action"
+          "score": 0.7300000190734863
         }
       ],
       "x_sdgs": [],
@@ -14825,7 +14898,7 @@
           "cited_by_count": 13
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15844,7 +15917,10 @@
           "author": {
             "id": "https://openalex.org/A5006028315",
             "display_name": "Dicky Harishidayat",
-            "orcid": "https://orcid.org/0000-0003-3729-2441"
+            "orcid": "https://orcid.org/0000-0003-3729-2441",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3729-2441"
+            ]
           },
           "institutions": [
             {
@@ -15881,7 +15957,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -15918,7 +15997,10 @@
           "author": {
             "id": "https://openalex.org/A5065191040",
             "display_name": "Giovanni Randazzo",
-            "orcid": "https://orcid.org/0000-0003-0671-5341"
+            "orcid": "https://orcid.org/0000-0003-0671-5341",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0671-5341"
+            ]
           },
           "institutions": [
             {
@@ -15955,7 +16037,10 @@
           "author": {
             "id": "https://openalex.org/A5091911636",
             "display_name": "Stefania Lanza",
-            "orcid": "https://orcid.org/0000-0003-0373-394X"
+            "orcid": "https://orcid.org/0000-0003-0373-394X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0373-394X"
+            ]
           },
           "institutions": [
             {
@@ -15992,7 +16077,10 @@
           "author": {
             "id": "https://openalex.org/A5078345137",
             "display_name": "Anselme Muzirafuti",
-            "orcid": "https://orcid.org/0000-0002-3563-9264"
+            "orcid": "https://orcid.org/0000-0002-3563-9264",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3563-9264"
+            ]
           },
           "institutions": [
             {
@@ -16046,11 +16134,11 @@
         "currency": "CHF",
         "value_usd": 2408
       },
-      "fwci": 3.7789,
+      "fwci": 3.7695,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.9459345,
+        "value": 0.94585042,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16361,14 +16449,14 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5,
-          "display_name": "Life below water"
+          "score": 0.5
         },
         {
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.46000000834465027,
-          "display_name": "Sustainable cities and communities"
+          "score": 0.46000000834465027
         }
       ],
       "x_sdgs": [],
@@ -16395,7 +16483,7 @@
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4297149413.pdf"
       },
-      "referenced_works_count": 147,
+      "referenced_works_count": 149,
       "referenced_works": [
         "https://openalex.org/W639475909",
         "https://openalex.org/W1483157968",
@@ -16465,6 +16553,7 @@
         "https://openalex.org/W2750168540",
         "https://openalex.org/W2750266033",
         "https://openalex.org/W2750367269",
+        "https://openalex.org/W2769122466",
         "https://openalex.org/W2771587358",
         "https://openalex.org/W2789616304",
         "https://openalex.org/W2794057883",
@@ -16473,6 +16562,7 @@
         "https://openalex.org/W2807914764",
         "https://openalex.org/W2886963418",
         "https://openalex.org/W2901669506",
+        "https://openalex.org/W2907346126",
         "https://openalex.org/W2911170314",
         "https://openalex.org/W2911424749",
         "https://openalex.org/W2912441687",
@@ -16914,7 +17004,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17608,9 +17698,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.800000011920929,
-          "display_name": "Affordable and clean energy"
+          "score": 0.800000011920929
         }
       ],
       "x_sdgs": [],
@@ -18579,9 +18669,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.44999998807907104,
-          "display_name": "Life below water"
+          "score": 0.44999998807907104
         }
       ],
       "x_sdgs": [],
@@ -19604,9 +19694,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7099999785423279,
-          "display_name": "Life below water"
+          "score": 0.7099999785423279
         }
       ],
       "x_sdgs": [],
@@ -20263,9 +20353,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7599999904632568,
-          "display_name": "Life below water"
+          "score": 0.7599999904632568
         }
       ],
       "x_sdgs": [],
@@ -22368,7 +22458,10 @@
           "author": {
             "id": "https://openalex.org/A5101904548",
             "display_name": "Adnan Hamida",
-            "orcid": "https://orcid.org/0000-0002-7209-0960"
+            "orcid": "https://orcid.org/0000-0002-7209-0960",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7209-0960"
+            ]
           },
           "institutions": [
             {
@@ -22405,7 +22498,10 @@
           "author": {
             "id": "https://openalex.org/A5063764685",
             "display_name": "Motaz Alfarraj",
-            "orcid": "https://orcid.org/0000-0002-6052-7221"
+            "orcid": "https://orcid.org/0000-0002-6052-7221",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6052-7221"
+            ]
           },
           "institutions": [
             {
@@ -22442,7 +22538,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -22479,7 +22578,10 @@
           "author": {
             "id": "https://openalex.org/A5087004954",
             "display_name": "Salam A. Zummo",
-            "orcid": "https://orcid.org/0000-0002-8517-0724"
+            "orcid": "https://orcid.org/0000-0002-8517-0724",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8517-0724"
+            ]
           },
           "institutions": [
             {
@@ -22525,11 +22627,11 @@
         "value_usd": 2345
       },
       "apc_paid": null,
-      "fwci": 1.1131,
+      "fwci": 1.1047,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.76601283,
+        "value": 0.76451768,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22837,7 +22939,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 44,
+      "referenced_works_count": 45,
       "referenced_works": [
         "https://openalex.org/W1885185971",
         "https://openalex.org/W1901129140",
@@ -22864,6 +22966,7 @@
         "https://openalex.org/W2891354999",
         "https://openalex.org/W2904961181",
         "https://openalex.org/W2911424749",
+        "https://openalex.org/W2913647591",
         "https://openalex.org/W2937462842",
         "https://openalex.org/W2950689937",
         "https://openalex.org/W2962595906",
@@ -23398,7 +23501,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24134,9 +24237,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5099999904632568,
-          "display_name": "Life in Land"
+          "score": 0.5099999904632568
         }
       ],
       "x_sdgs": [],
@@ -25376,9 +25479,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5899999737739563,
-          "display_name": "Life below water"
+          "score": 0.5899999737739563
         }
       ],
       "x_sdgs": [],
@@ -26223,7 +26326,8 @@
             {
               "raw_affiliation_string": "School of Information Technology and Electrical Engineering University of Queensland  Brisbane QLD Australia",
               "institution_ids": [
-                "https://openalex.org/I160993911"
+                "https://openalex.org/I160993911",
+                "https://openalex.org/I165143802"
               ]
             },
             {
@@ -26349,11 +26453,11 @@
         "currency": "USD",
         "value_usd": 2100
       },
-      "fwci": 0.7669,
+      "fwci": 0.7607,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.77913601,
+        "value": 0.77732009,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27373,7 +27477,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30171,7 +30275,10 @@
           "author": {
             "id": "https://openalex.org/A5065687785",
             "display_name": "Sikandar Khan",
-            "orcid": "https://orcid.org/0000-0002-5631-8312"
+            "orcid": "https://orcid.org/0000-0002-5631-8312",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5631-8312"
+            ]
           },
           "institutions": [
             {
@@ -30208,7 +30315,10 @@
           "author": {
             "id": "https://openalex.org/A5011094295",
             "display_name": "Yehia Abel Khulief",
-            "orcid": "https://orcid.org/0000-0002-0773-9663"
+            "orcid": "https://orcid.org/0000-0002-0773-9663",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0773-9663"
+            ]
           },
           "institutions": [
             {
@@ -30245,7 +30355,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -30293,11 +30406,11 @@
         "value_usd": 2290
       },
       "apc_paid": null,
-      "fwci": 1.5915,
+      "fwci": 1.5795,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.81068863,
+        "value": 0.80933014,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30691,7 +30804,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 53,
+      "referenced_works_count": 54,
       "referenced_works": [
         "https://openalex.org/W151579903",
         "https://openalex.org/W588209678",
@@ -30705,6 +30818,7 @@
         "https://openalex.org/W1987177557",
         "https://openalex.org/W1995018832",
         "https://openalex.org/W1998512922",
+        "https://openalex.org/W2001871102",
         "https://openalex.org/W2017057050",
         "https://openalex.org/W2025067929",
         "https://openalex.org/W2032247692",
@@ -30794,7 +30908,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -32940,7 +33054,10 @@
           "author": {
             "id": "https://openalex.org/A5077467560",
             "display_name": "Sherif M. Hanafy",
-            "orcid": "https://orcid.org/0000-0003-4568-2941"
+            "orcid": "https://orcid.org/0000-0003-4568-2941",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4568-2941"
+            ]
           },
           "institutions": [
             {
@@ -32984,7 +33101,10 @@
           "author": {
             "id": "https://openalex.org/A5008213975",
             "display_name": "Pantelis M. Soupios",
-            "orcid": "https://orcid.org/0000-0002-4153-3415"
+            "orcid": "https://orcid.org/0000-0002-4153-3415",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4153-3415"
+            ]
           },
           "institutions": [
             {
@@ -33028,7 +33148,10 @@
           "author": {
             "id": "https://openalex.org/A5017749705",
             "display_name": "Alexandros Stampolidis",
-            "orcid": "https://orcid.org/0000-0002-0605-5382"
+            "orcid": "https://orcid.org/0000-0002-0605-5382",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0605-5382"
+            ]
           },
           "institutions": [
             {
@@ -33072,7 +33195,10 @@
           "author": {
             "id": "https://openalex.org/A5013919197",
             "display_name": "Christian Koch",
-            "orcid": "https://orcid.org/0000-0002-7496-297X"
+            "orcid": "https://orcid.org/0000-0002-7496-297X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7496-297X"
+            ]
           },
           "institutions": [
             {
@@ -33116,7 +33242,10 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "orcid": "https://orcid.org/0000-0002-4872-6201",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4872-6201"
+            ]
           },
           "institutions": [
             {
@@ -33160,7 +33289,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -33204,7 +33336,10 @@
           "author": {
             "id": "https://openalex.org/A5038432622",
             "display_name": "Theis Ivan Sølling",
-            "orcid": "https://orcid.org/0000-0003-1710-9072"
+            "orcid": "https://orcid.org/0000-0003-1710-9072",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1710-9072"
+            ]
           },
           "institutions": [
             {
@@ -33248,7 +33383,10 @@
           "author": {
             "id": "https://openalex.org/A5077816186",
             "display_name": "Ignatius Argadestya",
-            "orcid": "https://orcid.org/0000-0002-7540-3897"
+            "orcid": "https://orcid.org/0000-0002-7540-3897",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7540-3897"
+            ]
           },
           "institutions": [
             {
@@ -33307,11 +33445,11 @@
         "currency": "USD",
         "value_usd": 1800
       },
-      "fwci": 0.9367,
+      "fwci": 0.9275,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.69100879,
+        "value": 0.68898441,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33625,9 +33763,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5400000214576721,
-          "display_name": "Life below water"
+          "score": 0.5400000214576721
         }
       ],
       "x_sdgs": [],
@@ -33641,8 +33779,9 @@
         "pdf": "https://content.openalex.org/works/W3128211510.pdf",
         "grobid_xml": "https://content.openalex.org/works/W3128211510.grobid-xml"
       },
-      "referenced_works_count": 44,
+      "referenced_works_count": 45,
       "referenced_works": [
+        "https://openalex.org/W161876490",
         "https://openalex.org/W602057047",
         "https://openalex.org/W1532676516",
         "https://openalex.org/W1597269288",
@@ -34289,7 +34428,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35065,9 +35204,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "score": 0.8600000143051147
         }
       ],
       "x_sdgs": [],
@@ -37424,7 +37563,10 @@
           "author": {
             "id": "https://openalex.org/A5061327523",
             "display_name": "Paul Irikefe Edigbue",
-            "orcid": "https://orcid.org/0000-0002-4029-2728"
+            "orcid": "https://orcid.org/0000-0002-4029-2728",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4029-2728"
+            ]
           },
           "institutions": [
             {
@@ -37461,7 +37603,10 @@
           "author": {
             "id": "https://openalex.org/A5029383522",
             "display_name": "İsmail Demirci",
-            "orcid": "https://orcid.org/0000-0002-9234-4841"
+            "orcid": "https://orcid.org/0000-0002-9234-4841",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9234-4841"
+            ]
           },
           "institutions": [
             {
@@ -37498,7 +37643,10 @@
           "author": {
             "id": "https://openalex.org/A5048811713",
             "display_name": "Irfan Akça",
-            "orcid": "https://orcid.org/0000-0002-4229-2705"
+            "orcid": "https://orcid.org/0000-0002-4229-2705",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4229-2705"
+            ]
           },
           "institutions": [
             {
@@ -37535,7 +37683,10 @@
           "author": {
             "id": "https://openalex.org/A5112877651",
             "display_name": "Hamdan Ali Hamdan",
-            "orcid": "https://orcid.org/0000-0002-6672-6205"
+            "orcid": "https://orcid.org/0000-0002-6672-6205",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6672-6205"
+            ]
           },
           "institutions": [
             {
@@ -37572,7 +37723,10 @@
           "author": {
             "id": "https://openalex.org/A5019303345",
             "display_name": "Panagiotis Kirmizakis",
-            "orcid": "https://orcid.org/0000-0002-2723-7855"
+            "orcid": "https://orcid.org/0000-0002-2723-7855",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2723-7855"
+            ]
           },
           "institutions": [
             {
@@ -37609,7 +37763,10 @@
           "author": {
             "id": "https://openalex.org/A5008213975",
             "display_name": "Pantelis M. Soupios",
-            "orcid": "https://orcid.org/0000-0002-4153-3415"
+            "orcid": "https://orcid.org/0000-0002-4153-3415",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4153-3415"
+            ]
           },
           "institutions": [
             {
@@ -37646,7 +37803,10 @@
           "author": {
             "id": "https://openalex.org/A5053715257",
             "display_name": "M. Emin Candansayar",
-            "orcid": "https://orcid.org/0000-0002-4379-1653"
+            "orcid": "https://orcid.org/0000-0002-4379-1653",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4379-1653"
+            ]
           },
           "institutions": [
             {
@@ -37683,7 +37843,10 @@
           "author": {
             "id": "https://openalex.org/A5077467560",
             "display_name": "Sherif M. Hanafy",
-            "orcid": "https://orcid.org/0000-0003-4568-2941"
+            "orcid": "https://orcid.org/0000-0003-4568-2941",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4568-2941"
+            ]
           },
           "institutions": [
             {
@@ -37720,7 +37883,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -37772,11 +37938,11 @@
         "currency": "CHF",
         "value_usd": 2408
       },
-      "fwci": 1.3674,
+      "fwci": 1.2973,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.77203137,
+        "value": 0.75914863,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38130,9 +38296,10 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 46,
+      "referenced_works_count": 47,
       "referenced_works": [
         "https://openalex.org/W1492298502",
+        "https://openalex.org/W1497256448",
         "https://openalex.org/W1538120041",
         "https://openalex.org/W1659842140",
         "https://openalex.org/W1827669647",
@@ -38693,7 +38860,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -38764,7 +38931,10 @@
           "author": {
             "id": "https://openalex.org/A5008312376",
             "display_name": "Huijian Li",
-            "orcid": "https://orcid.org/0000-0001-5725-2944"
+            "orcid": "https://orcid.org/0000-0001-5725-2944",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5725-2944"
+            ]
           },
           "institutions": [
             {
@@ -38808,7 +38978,10 @@
           "author": {
             "id": "https://openalex.org/A5022899503",
             "display_name": "Xu Liu",
-            "orcid": "https://orcid.org/0000-0003-2835-2844"
+            "orcid": "https://orcid.org/0000-0003-2835-2844",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2835-2844"
+            ]
           },
           "institutions": [
             {
@@ -38852,7 +39025,10 @@
           "author": {
             "id": "https://openalex.org/A5091188360",
             "display_name": "Bo Liu",
-            "orcid": "https://orcid.org/0000-0001-6615-1096"
+            "orcid": "https://orcid.org/0000-0001-6615-1096",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6615-1096"
+            ]
           },
           "institutions": [
             {
@@ -38896,7 +39072,10 @@
           "author": {
             "id": "https://openalex.org/A5061868460",
             "display_name": "Stewart Alan Greenhalgh",
-            "orcid": "https://orcid.org/0000-0002-0028-2779"
+            "orcid": "https://orcid.org/0000-0002-0028-2779",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0028-2779"
+            ]
           },
           "institutions": [
             {
@@ -38967,7 +39146,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -39011,7 +39193,11 @@
           "author": {
             "id": "https://openalex.org/A5019972279",
             "display_name": "Yangkang Chen",
-            "orcid": "https://orcid.org/0000-0001-6429-4261"
+            "orcid": "https://orcid.org/0000-0001-6429-4261",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6429-4261",
+              "https://orcid.org/0000-0001-9843-3995"
+            ]
           },
           "institutions": [
             {
@@ -39059,11 +39245,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3285,
+      "fwci": 1.2539,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.76519973,
+        "value": 0.75130026,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39463,8 +39649,9 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 40,
+      "referenced_works_count": 41,
       "referenced_works": [
+        "https://openalex.org/W1529680163",
         "https://openalex.org/W1870168971",
         "https://openalex.org/W1973874945",
         "https://openalex.org/W1987836090",
@@ -39980,7 +40167,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T17:25:34.749102",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40050,7 +40237,10 @@
           "author": {
             "id": "https://openalex.org/A5018253069",
             "display_name": "Amen Bargees",
-            "orcid": "https://orcid.org/0000-0002-2778-5253"
+            "orcid": "https://orcid.org/0000-0002-2778-5253",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2778-5253"
+            ]
           },
           "institutions": [
             {
@@ -40087,7 +40277,10 @@
           "author": {
             "id": "https://openalex.org/A5006028315",
             "display_name": "Dicky Harishidayat",
-            "orcid": "https://orcid.org/0000-0003-3729-2441"
+            "orcid": "https://orcid.org/0000-0003-3729-2441",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3729-2441"
+            ]
           },
           "institutions": [
             {
@@ -40124,7 +40317,10 @@
           "author": {
             "id": "https://openalex.org/A5081449036",
             "display_name": "Naveed Iqbal",
-            "orcid": "https://orcid.org/0000-0002-8548-7078"
+            "orcid": "https://orcid.org/0000-0002-8548-7078",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8548-7078"
+            ]
           },
           "institutions": [
             {
@@ -40168,7 +40364,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -40220,11 +40419,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 1.8038,
+      "fwci": 1.7186,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.82205675,
+        "value": 0.81280832,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40642,9 +40841,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4300000071525574,
-          "display_name": "Responsible consumption and production"
+          "score": 0.4300000071525574
         }
       ],
       "x_sdgs": [],
@@ -40655,7 +40854,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 97,
+      "referenced_works_count": 98,
       "referenced_works": [
         "https://openalex.org/W78443961",
         "https://openalex.org/W290635100",
@@ -40711,6 +40910,7 @@
         "https://openalex.org/W2726776970",
         "https://openalex.org/W2734401432",
         "https://openalex.org/W2744274792",
+        "https://openalex.org/W2769122466",
         "https://openalex.org/W2799848182",
         "https://openalex.org/W2886811593",
         "https://openalex.org/W2911281319",
@@ -41296,7 +41496,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -42600,9 +42800,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6200000047683716,
-          "display_name": "Climate action"
+          "score": 0.6200000047683716
         }
       ],
       "x_sdgs": [],
@@ -42704,6 +42904,7 @@
             "doaj",
             "doyens",
             "jufo-1",
+            "ki-jl-1",
             "medline",
             "norway-1"
           ],
@@ -42745,7 +42946,10 @@
           "author": {
             "id": "https://openalex.org/A5006028315",
             "display_name": "Dicky Harishidayat",
-            "orcid": "https://orcid.org/0000-0003-3729-2441"
+            "orcid": "https://orcid.org/0000-0003-3729-2441",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3729-2441"
+            ]
           },
           "institutions": [
             {
@@ -42807,7 +43011,10 @@
           "author": {
             "id": "https://openalex.org/A5111753752",
             "display_name": "Saleh Al‐Dossary",
-            "orcid": "https://orcid.org/0000-0003-3738-2666"
+            "orcid": "https://orcid.org/0000-0003-3738-2666",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3738-2666"
+            ]
           },
           "institutions": [
             {
@@ -42844,7 +43051,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -42892,11 +43102,11 @@
         "currency": "USD",
         "value_usd": 2590
       },
-      "fwci": 1.3431,
+      "fwci": 1.3404,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.77228608,
+        "value": 0.77118536,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43125,6 +43335,7 @@
               "doaj",
               "doyens",
               "jufo-1",
+              "ki-jl-1",
               "medline",
               "norway-1"
             ],
@@ -43257,6 +43468,7 @@
             "doaj",
             "doyens",
             "jufo-1",
+            "ki-jl-1",
             "medline",
             "norway-1"
           ],
@@ -43282,9 +43494,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5199999809265137,
-          "display_name": "Sustainable cities and communities"
+          "score": 0.5199999809265137
         }
       ],
       "x_sdgs": [],
@@ -43309,7 +43521,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 92,
+      "referenced_works_count": 93,
       "referenced_works": [
         "https://openalex.org/W101633874",
         "https://openalex.org/W584173116",
@@ -43346,6 +43558,7 @@
         "https://openalex.org/W2132695741",
         "https://openalex.org/W2135589970",
         "https://openalex.org/W2135852905",
+        "https://openalex.org/W2137348668",
         "https://openalex.org/W2147161024",
         "https://openalex.org/W2147576281",
         "https://openalex.org/W2150749861",
@@ -44158,7 +44371,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -51358,7 +51571,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -51398,7 +51611,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -51510,10 +51723,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5143755406",
-            "display_name": "Yehia A. Khulief",
-            "orcid": null,
-            "observed_orcids": []
+            "id": "https://openalex.org/A5011094295",
+            "display_name": "Yehia Abel Khulief",
+            "orcid": "https://orcid.org/0000-0002-0773-9663",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0773-9663"
+            ]
           },
           "institutions": [
             {
@@ -51602,10 +51817,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5143764226",
+            "id": "https://openalex.org/A5080643603",
             "display_name": "Septriandi A. Chan",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0002-3681-7464",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3681-7464"
+            ]
           },
           "institutions": [
             {
@@ -51942,6 +52159,7 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
+        "https://openalex.org/A5054922583",
         "https://openalex.org/A5111604304"
       ],
       "corresponding_institution_ids": [
@@ -51953,11 +52171,11 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.5214,
+      "fwci": 1.4265,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.78208897,
+        "value": 0.76728534,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -52285,9 +52503,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7099999785423279,
-          "display_name": "Climate action"
+          "score": 0.7099999785423279
         }
       ],
       "x_sdgs": [],
@@ -52382,7 +52600,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -59161,9 +59379,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5,
-          "display_name": "Life below water"
+          "score": 0.5
         }
       ],
       "x_sdgs": [],
@@ -59721,7 +59939,10 @@
           "author": {
             "id": "https://openalex.org/A5101904548",
             "display_name": "Adnan Hamida",
-            "orcid": "https://orcid.org/0000-0002-7209-0960"
+            "orcid": "https://orcid.org/0000-0002-7209-0960",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7209-0960"
+            ]
           },
           "institutions": [
             {
@@ -59765,7 +59986,10 @@
           "author": {
             "id": "https://openalex.org/A5063764685",
             "display_name": "Motaz Alfarraj",
-            "orcid": "https://orcid.org/0000-0002-6052-7221"
+            "orcid": "https://orcid.org/0000-0002-6052-7221",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6052-7221"
+            ]
           },
           "institutions": [
             {
@@ -59809,7 +60033,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -59853,7 +60080,10 @@
           "author": {
             "id": "https://openalex.org/A5087004954",
             "display_name": "Salam A. Zummo",
-            "orcid": "https://orcid.org/0000-0002-8517-0724"
+            "orcid": "https://orcid.org/0000-0002-8517-0724",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8517-0724"
+            ]
           },
           "institutions": [
             {
@@ -59902,11 +60132,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7347,
+      "fwci": 0.7153,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.80489031,
+        "value": 0.80172522,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -60085,7 +60315,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 18,
+      "referenced_works_count": 19,
       "referenced_works": [
         "https://openalex.org/W1901129140",
         "https://openalex.org/W2133665775",
@@ -60098,6 +60328,7 @@
         "https://openalex.org/W2891354999",
         "https://openalex.org/W2904961181",
         "https://openalex.org/W2911424749",
+        "https://openalex.org/W2913647591",
         "https://openalex.org/W2962595906",
         "https://openalex.org/W2963941635",
         "https://openalex.org/W2981972535",
@@ -60511,7 +60742,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -60581,7 +60812,10 @@
           "author": {
             "id": "https://openalex.org/A5008312376",
             "display_name": "Huijian Li",
-            "orcid": "https://orcid.org/0000-0001-5725-2944"
+            "orcid": "https://orcid.org/0000-0001-5725-2944",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5725-2944"
+            ]
           },
           "institutions": [
             {
@@ -60618,7 +60852,10 @@
           "author": {
             "id": "https://openalex.org/A5091188360",
             "display_name": "Bo Liu",
-            "orcid": "https://orcid.org/0000-0001-6615-1096"
+            "orcid": "https://orcid.org/0000-0001-6615-1096",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6615-1096"
+            ]
           },
           "institutions": [
             {
@@ -60655,7 +60892,10 @@
           "author": {
             "id": "https://openalex.org/A5022899503",
             "display_name": "Xu Liu",
-            "orcid": "https://orcid.org/0000-0003-2835-2844"
+            "orcid": "https://orcid.org/0000-0003-2835-2844",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2835-2844"
+            ]
           },
           "institutions": [
             {
@@ -60692,7 +60932,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -60729,7 +60972,8 @@
           "author": {
             "id": "https://openalex.org/A5112956795",
             "display_name": "Sherif M. H. Mahmoud",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -60766,7 +61010,11 @@
           "author": {
             "id": "https://openalex.org/A5019972279",
             "display_name": "Yangkang Chen",
-            "orcid": "https://orcid.org/0000-0001-6429-4261"
+            "orcid": "https://orcid.org/0000-0001-6429-4261",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6429-4261",
+              "https://orcid.org/0000-0001-9843-3995"
+            ]
           },
           "institutions": [
             {
@@ -60830,11 +61078,11 @@
         "value_usd": 2345
       },
       "apc_paid": null,
-      "fwci": 0.6646,
+      "fwci": 0.6611,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.62547235,
+        "value": 0.62428524,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -61155,9 +61403,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8999999761581421,
-          "display_name": "Affordable and clean energy"
+          "score": 0.8999999761581421
         }
       ],
       "x_sdgs": [],
@@ -61675,7 +61923,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -61739,7 +61987,10 @@
           "author": {
             "id": "https://openalex.org/A5056812780",
             "display_name": "Naveed Iqbal",
-            "orcid": "https://orcid.org/0000-0002-2633-9761"
+            "orcid": "https://orcid.org/0000-0002-2633-9761",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2633-9761"
+            ]
           },
           "institutions": [
             {
@@ -61774,9 +62025,10 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5088012844",
-            "display_name": "E. Liu",
-            "orcid": null
+            "id": "https://openalex.org/A5081925017",
+            "display_name": "E.W.Y. Liu",
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -61813,7 +62065,10 @@
           "author": {
             "id": "https://openalex.org/A5006151039",
             "display_name": "James H. McClellan",
-            "orcid": "https://orcid.org/0000-0003-0647-9561"
+            "orcid": "https://orcid.org/0000-0003-0647-9561",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0647-9561"
+            ]
           },
           "institutions": [
             {
@@ -61850,7 +62105,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -61887,7 +62145,10 @@
           "author": {
             "id": "https://openalex.org/A5024607591",
             "display_name": "SanLinn I. Kaka",
-            "orcid": "https://orcid.org/0000-0003-1229-4627"
+            "orcid": "https://orcid.org/0000-0003-1229-4627",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1229-4627"
+            ]
           },
           "institutions": [
             {
@@ -61924,7 +62185,10 @@
           "author": {
             "id": "https://openalex.org/A5016405871",
             "display_name": "Azzedine Zerguine",
-            "orcid": "https://orcid.org/0000-0002-2621-4969"
+            "orcid": "https://orcid.org/0000-0002-2621-4969",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2621-4969"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -61942,11 +62206,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.6861,
+      "fwci": 4.7737,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.94071734,
+        "value": 0.94009734,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -62348,9 +62612,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "score": 0.4399999976158142
         }
       ],
       "x_sdgs": [],
@@ -62516,7 +62780,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -62552,6 +62816,7 @@
             "doaj",
             "doyens",
             "jufo-1",
+            "ki-jl-1",
             "medline",
             "norway-1"
           ],
@@ -62593,7 +62858,10 @@
           "author": {
             "id": "https://openalex.org/A5091233497",
             "display_name": "Lutfi Mulyadi Surachman",
-            "orcid": "https://orcid.org/0000-0001-7015-7183"
+            "orcid": "https://orcid.org/0000-0001-7015-7183",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7015-7183"
+            ]
           },
           "institutions": [
             {
@@ -62630,7 +62898,10 @@
           "author": {
             "id": "https://openalex.org/A5024607591",
             "display_name": "SanLinn I. Kaka",
-            "orcid": "https://orcid.org/0000-0003-1229-4627"
+            "orcid": "https://orcid.org/0000-0003-1229-4627",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1229-4627"
+            ]
           },
           "institutions": [
             {
@@ -62667,7 +62938,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -62719,11 +62993,11 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 2.6852,
+      "fwci": 2.6266,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.89455558,
+        "value": 0.89129661,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -62973,6 +63247,7 @@
               "doaj",
               "doyens",
               "jufo-1",
+              "ki-jl-1",
               "medline",
               "norway-1"
             ],
@@ -63105,6 +63380,7 @@
             "doaj",
             "doyens",
             "jufo-1",
+            "ki-jl-1",
             "medline",
             "norway-1"
           ],
@@ -63151,7 +63427,7 @@
         "pdf": "https://content.openalex.org/works/W4411866371.pdf",
         "grobid_xml": "https://content.openalex.org/works/W4411866371.grobid-xml"
       },
-      "referenced_works_count": 42,
+      "referenced_works_count": 43,
       "referenced_works": [
         "https://openalex.org/W28412257",
         "https://openalex.org/W1887132811",
@@ -63171,6 +63447,7 @@
         "https://openalex.org/W2611868077",
         "https://openalex.org/W2767607556",
         "https://openalex.org/W2787894218",
+        "https://openalex.org/W2891118671",
         "https://openalex.org/W2906364729",
         "https://openalex.org/W2908339429",
         "https://openalex.org/W2952754164",
@@ -63781,7 +64058,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -64839,9 +65116,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.550000011920929,
-          "display_name": "Life in Land"
+          "score": 0.550000011920929
         }
       ],
       "x_sdgs": [],
@@ -65603,9 +65880,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "score": 0.8700000047683716
         }
       ],
       "x_sdgs": [],
@@ -69848,9 +70125,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7300000190734863,
-          "display_name": "Life below water"
+          "score": 0.7300000190734863
         }
       ],
       "x_sdgs": [],
@@ -71020,9 +71297,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7900000214576721,
-          "display_name": "Climate action"
+          "score": 0.7900000214576721
         }
       ],
       "x_sdgs": [],
@@ -72519,9 +72796,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.41999998688697815,
-          "display_name": "Climate action"
+          "score": 0.41999998688697815
         }
       ],
       "x_sdgs": [],
@@ -74514,9 +74791,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "score": 0.8399999737739563
         }
       ],
       "x_sdgs": [],
@@ -78234,9 +78511,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8700000047683716,
-          "display_name": "Affordable and clean energy"
+          "score": 0.8700000047683716
         }
       ],
       "x_sdgs": [],
@@ -79642,9 +79919,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6800000071525574,
-          "display_name": "Climate action"
+          "score": 0.6800000071525574
         }
       ],
       "x_sdgs": [],
@@ -80508,9 +80785,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.800000011920929,
-          "display_name": "Climate action"
+          "score": 0.800000011920929
         }
       ],
       "x_sdgs": [],
@@ -81573,9 +81850,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.699999988079071,
-          "display_name": "Clean water and sanitation"
+          "score": 0.699999988079071
         }
       ],
       "x_sdgs": [],
@@ -82303,11 +82580,11 @@
         "value_usd": 4150
       },
       "apc_paid": null,
-      "fwci": 5.6008,
+      "fwci": 5.4294,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.94940079,
+        "value": 0.94795215,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -82718,7 +82995,7 @@
         "pdf": "https://content.openalex.org/works/W7153309765.pdf",
         "grobid_xml": "https://content.openalex.org/works/W7153309765.grobid-xml"
       },
-      "referenced_works_count": 34,
+      "referenced_works_count": 35,
       "referenced_works": [
         "https://openalex.org/W1881291174",
         "https://openalex.org/W2063240270",
@@ -82739,6 +83016,7 @@
         "https://openalex.org/W3047855151",
         "https://openalex.org/W3097459854",
         "https://openalex.org/W3112048877",
+        "https://openalex.org/W3129912572",
         "https://openalex.org/W3164024600",
         "https://openalex.org/W3196029987",
         "https://openalex.org/W3202979466",
@@ -83231,7 +83509,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2026-04-11T00:00:00"
     },
     {
@@ -83735,9 +84013,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "score": 0.8600000143051147
         }
       ],
       "x_sdgs": [],
@@ -86718,9 +86996,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6100000143051147,
-          "display_name": "Climate action"
+          "score": 0.6100000143051147
         }
       ],
       "x_sdgs": [],
@@ -87191,9 +87469,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5899999737739563,
-          "display_name": "Sustainable cities and communities"
+          "score": 0.5899999737739563
         }
       ],
       "x_sdgs": [],
@@ -88886,9 +89164,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5799999833106995,
-          "display_name": "Climate action"
+          "score": 0.5799999833106995
         }
       ],
       "x_sdgs": [],
@@ -89448,9 +89726,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5199999809265137,
-          "display_name": "Life below water"
+          "score": 0.5199999809265137
         }
       ],
       "x_sdgs": [],
@@ -91441,9 +91719,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.6399999856948853,
-          "display_name": "Affordable and clean energy"
+          "score": 0.6399999856948853
         }
       ],
       "x_sdgs": [],
@@ -94370,9 +94648,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Reduced inequalities",
           "id": "https://metadata.un.org/sdg/10",
-          "score": 0.4099999964237213,
-          "display_name": "Reduced inequalities"
+          "score": 0.4099999964237213
         }
       ],
       "x_sdgs": [],
@@ -95428,9 +95706,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Reduced inequalities",
           "id": "https://metadata.un.org/sdg/10",
-          "score": 0.800000011920929,
-          "display_name": "Reduced inequalities"
+          "score": 0.800000011920929
         }
       ],
       "x_sdgs": [],
@@ -96152,9 +96430,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Reduced inequalities",
           "id": "https://metadata.un.org/sdg/10",
-          "score": 0.7799999713897705,
-          "display_name": "Reduced inequalities"
+          "score": 0.7799999713897705
         }
       ],
       "x_sdgs": [],
@@ -100990,9 +101268,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6800000071525574,
-          "display_name": "Life below water"
+          "score": 0.6800000071525574
         }
       ],
       "x_sdgs": [],
@@ -101945,9 +102223,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5799999833106995,
-          "display_name": "Climate action"
+          "score": 0.5799999833106995
         }
       ],
       "x_sdgs": [],
@@ -107487,9 +107765,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.4300000071525574,
-          "display_name": "Sustainable cities and communities"
+          "score": 0.4300000071525574
         }
       ],
       "x_sdgs": [],
@@ -108501,9 +108779,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6700000166893005,
-          "display_name": "Life below water"
+          "score": 0.6700000166893005
         }
       ],
       "x_sdgs": [],
@@ -108982,6 +109260,335 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4298176330",
+      "doi": "https://doi.org/10.1007/978-3-031-02534-1_1",
+      "title": "Seismic Data Processing: A Quick Overview",
+      "display_name": "Seismic Data Processing: A Quick Overview",
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4298176330",
+        "doi": "https://doi.org/10.1007/978-3-031-02534-1_1"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/978-3-031-02534-1_1",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-3-031-02534-1_1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S35274427",
+          "display_name": "Synthesis lectures on signal processing",
+          "issn_l": "1932-1236",
+          "issn": [
+            "1932-1236",
+            "1932-1694"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310322570",
+          "host_organization_name": "Morgan & Claypool Publishers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310322570"
+          ],
+          "host_organization_lineage_names": [
+            "Morgan & Claypool Publishers"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Synthesis Lectures on Signal Processing",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5042237070",
+            "display_name": "Wail A. Mousa",
+            "orcid": "https://orcid.org/0000-0003-4159-8304",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4159-8304"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Wail A. Mousa",
+          "raw_affiliation_strings": [
+            "King Fahd University of Petroleoum & Minerals, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleoum & Minerals, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5054922583",
+            "display_name": "Abdullatif Abdulrahman Al-Shuhail",
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdullatif A. Al-Shuhail",
+          "raw_affiliation_strings": [
+            "King Fahd University of Petroleoum & Minerals, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleoum & Minerals, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.60559627,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 93
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "1",
+        "last_page": "5"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11801",
+        "display_name": "Reservoir Engineering and Simulation Methods",
+        "score": 0.9643999934196472,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2212",
+          "display_name": "Ocean Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11801",
+          "display_name": "Reservoir Engineering and Simulation Methods",
+          "score": 0.9643999934196472,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13067",
+          "display_name": "Geological Modeling and Analysis",
+          "score": 0.9279000163078308,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.5324493646621704
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.4006282091140747
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.5324493646621704
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.4006282091140747
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/978-3-031-02534-1_1",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/978-3-031-02534-1_1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S35274427",
+            "display_name": "Synthesis lectures on signal processing",
+            "issn_l": "1932-1236",
+            "issn": [
+              "1932-1236",
+              "1932-1694"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4310322570",
+            "host_organization_name": "Morgan & Claypool Publishers",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310322570"
+            ],
+            "host_organization_lineage_names": [
+              "Morgan & Claypool Publishers"
+            ],
+            "type": "book series"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Synthesis Lectures on Signal Processing",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5899999737739563
+        }
+      ],
+      "x_sdgs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2324615561",
+        "https://openalex.org/W2141795027",
+        "https://openalex.org/W2086120259",
+        "https://openalex.org/W2390279801",
+        "https://openalex.org/W2245170124",
+        "https://openalex.org/W2358668433",
+        "https://openalex.org/W3186982001",
+        "https://openalex.org/W2137941439"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-25T08:18:29.962427",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4389080816",
       "doi": "https://doi.org/10.1306/42328putra2018",
       "title": "Seismic Array Response in the Presence of Intra-Array Variations in Element Weights, Elevations, and Positions",
@@ -109246,9 +109853,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6899999976158142,
-          "display_name": "Climate action"
+          "score": 0.6899999976158142
         }
       ],
       "x_sdgs": [],
@@ -109326,7 +109933,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -109361,9 +109971,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5112761121",
-            "display_name": "Saleh A. Al‐Dossary",
-            "orcid": null
+            "id": "https://openalex.org/A5111753752",
+            "display_name": "Saleh Al‐Dossary",
+            "orcid": "https://orcid.org/0000-0003-3738-2666",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3738-2666"
+            ]
           },
           "institutions": [
             {
@@ -109400,7 +110013,10 @@
           "author": {
             "id": "https://openalex.org/A5042237070",
             "display_name": "Wail A. Mousa",
-            "orcid": "https://orcid.org/0000-0003-4159-8304"
+            "orcid": "https://orcid.org/0000-0003-4159-8304",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4159-8304"
+            ]
           },
           "institutions": [
             {
@@ -109752,9 +110368,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8199999928474426,
-          "display_name": "Climate action"
+          "score": 0.8199999928474426
         }
       ],
       "x_sdgs": [],
@@ -110124,7 +110740,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2017-06-09T00:00:00"
     },
     {
@@ -110170,7 +110786,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -110205,9 +110824,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5112761121",
-            "display_name": "Saleh A. Al‐Dossary",
-            "orcid": null
+            "id": "https://openalex.org/A5111753752",
+            "display_name": "Saleh Al‐Dossary",
+            "orcid": "https://orcid.org/0000-0003-3738-2666",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3738-2666"
+            ]
           },
           "institutions": [
             {
@@ -110244,7 +110866,10 @@
           "author": {
             "id": "https://openalex.org/A5042237070",
             "display_name": "Wail A. Mousa",
-            "orcid": "https://orcid.org/0000-0003-4159-8304"
+            "orcid": "https://orcid.org/0000-0003-4159-8304",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4159-8304"
+            ]
           },
           "institutions": [
             {
@@ -110616,9 +111241,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.550000011920929,
-          "display_name": "Climate action"
+          "score": 0.550000011920929
         }
       ],
       "x_sdgs": [],
@@ -111015,7 +111640,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2017-06-09T00:00:00"
     },
     {
@@ -111060,7 +111685,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -111095,9 +111723,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5112761121",
-            "display_name": "Saleh A. Al‐Dossary",
-            "orcid": null
+            "id": "https://openalex.org/A5111753752",
+            "display_name": "Saleh Al‐Dossary",
+            "orcid": "https://orcid.org/0000-0003-3738-2666",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3738-2666"
+            ]
           },
           "institutions": [
             {
@@ -111134,7 +111765,10 @@
           "author": {
             "id": "https://openalex.org/A5042237070",
             "display_name": "Wail A. Mousa",
-            "orcid": "https://orcid.org/0000-0003-4159-8304"
+            "orcid": "https://orcid.org/0000-0003-4159-8304",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4159-8304"
+            ]
           },
           "institutions": [
             {
@@ -111544,9 +112178,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6600000262260437,
-          "display_name": "Climate action"
+          "score": 0.6600000262260437
         }
       ],
       "x_sdgs": [],
@@ -111934,7 +112568,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -112555,9 +113189,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4399999976158142,
-          "display_name": "Responsible consumption and production"
+          "score": 0.4399999976158142
         }
       ],
       "x_sdgs": [],
@@ -112954,9 +113588,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.75,
-          "display_name": "Climate action"
+          "score": 0.75
         }
       ],
       "x_sdgs": [],
@@ -113384,9 +114018,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.699999988079071,
-          "display_name": "Climate action"
+          "score": 0.699999988079071
         }
       ],
       "x_sdgs": [],
@@ -113831,9 +114465,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6000000238418579,
-          "display_name": "Climate action"
+          "score": 0.6000000238418579
         }
       ],
       "x_sdgs": [],
@@ -115241,9 +115875,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5099999904632568,
-          "display_name": "Affordable and clean energy"
+          "score": 0.5099999904632568
         }
       ],
       "x_sdgs": [],
@@ -116698,7 +117332,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -116733,9 +117370,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5112761121",
-            "display_name": "Saleh A. Al‐Dossary",
-            "orcid": null
+            "id": "https://openalex.org/A5111753752",
+            "display_name": "Saleh Al‐Dossary",
+            "orcid": "https://orcid.org/0000-0003-3738-2666",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3738-2666"
+            ]
           },
           "institutions": [
             {
@@ -116772,7 +117412,10 @@
           "author": {
             "id": "https://openalex.org/A5042237070",
             "display_name": "Wail A. Mousa",
-            "orcid": "https://orcid.org/0000-0003-4159-8304"
+            "orcid": "https://orcid.org/0000-0003-4159-8304",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4159-8304"
+            ]
           },
           "institutions": [
             {
@@ -117449,7 +118092,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2017-06-09T00:00:00"
     },
     {
@@ -117495,7 +118138,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -117530,9 +118176,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5112761121",
-            "display_name": "Saleh A. Al‐Dossary",
-            "orcid": null
+            "id": "https://openalex.org/A5111753752",
+            "display_name": "Saleh Al‐Dossary",
+            "orcid": "https://orcid.org/0000-0003-3738-2666",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3738-2666"
+            ]
           },
           "institutions": [
             {
@@ -117569,7 +118218,10 @@
           "author": {
             "id": "https://openalex.org/A5042237070",
             "display_name": "Wail A. Mousa",
-            "orcid": "https://orcid.org/0000-0003-4159-8304"
+            "orcid": "https://orcid.org/0000-0003-4159-8304",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4159-8304"
+            ]
           },
           "institutions": [
             {
@@ -118291,7 +118943,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2017-06-09T00:00:00"
     },
     {
@@ -118646,9 +119298,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -120709,9 +121361,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5299999713897705,
-          "display_name": "Sustainable cities and communities"
+          "score": 0.5299999713897705
         }
       ],
       "x_sdgs": [],
@@ -121578,9 +122230,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4000000059604645,
-          "display_name": "Climate action"
+          "score": 0.4000000059604645
         }
       ],
       "x_sdgs": [],
@@ -123864,9 +124516,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46000000834465027,
-          "display_name": "Climate action"
+          "score": 0.46000000834465027
         }
       ],
       "x_sdgs": [],
@@ -127561,9 +128213,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "score": 0.4399999976158142
         }
       ],
       "x_sdgs": [],
@@ -127645,7 +128297,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -127680,9 +128335,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5112761121",
-            "display_name": "Saleh A. Al‐Dossary",
-            "orcid": null
+            "id": "https://openalex.org/A5111753752",
+            "display_name": "Saleh Al‐Dossary",
+            "orcid": "https://orcid.org/0000-0003-3738-2666",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3738-2666"
+            ]
           },
           "institutions": [
             {
@@ -127719,7 +128377,10 @@
           "author": {
             "id": "https://openalex.org/A5042237070",
             "display_name": "Wail A. Mousa",
-            "orcid": "https://orcid.org/0000-0003-4159-8304"
+            "orcid": "https://orcid.org/0000-0003-4159-8304",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4159-8304"
+            ]
           },
           "institutions": [
             {
@@ -128049,7 +128710,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -128094,7 +128755,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -128129,9 +128793,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5112761121",
-            "display_name": "Saleh A. Al‐Dossary",
-            "orcid": null
+            "id": "https://openalex.org/A5111753752",
+            "display_name": "Saleh Al‐Dossary",
+            "orcid": "https://orcid.org/0000-0003-3738-2666",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3738-2666"
+            ]
           },
           "institutions": [
             {
@@ -128168,7 +128835,10 @@
           "author": {
             "id": "https://openalex.org/A5042237070",
             "display_name": "Wail A. Mousa",
-            "orcid": "https://orcid.org/0000-0003-4159-8304"
+            "orcid": "https://orcid.org/0000-0003-4159-8304",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4159-8304"
+            ]
           },
           "institutions": [
             {
@@ -128959,7 +129629,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -129452,9 +130122,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6800000071525574,
-          "display_name": "Climate action"
+          "score": 0.6800000071525574
         }
       ],
       "x_sdgs": [],
@@ -130086,7 +130756,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -130121,9 +130794,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5112761121",
-            "display_name": "Saleh A. Al‐Dossary",
-            "orcid": null
+            "id": "https://openalex.org/A5111753752",
+            "display_name": "Saleh Al‐Dossary",
+            "orcid": "https://orcid.org/0000-0003-3738-2666",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3738-2666"
+            ]
           },
           "institutions": [
             {
@@ -130160,7 +130836,10 @@
           "author": {
             "id": "https://openalex.org/A5042237070",
             "display_name": "Wail A. Mousa",
-            "orcid": "https://orcid.org/0000-0003-4159-8304"
+            "orcid": "https://orcid.org/0000-0003-4159-8304",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4159-8304"
+            ]
           },
           "institutions": [
             {
@@ -130490,7 +131169,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -130558,7 +131237,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -130593,9 +131275,12 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5040836404",
-            "display_name": "Saleh Al-Dossary",
-            "orcid": null
+            "id": "https://openalex.org/A5111753752",
+            "display_name": "Saleh Al‐Dossary",
+            "orcid": "https://orcid.org/0000-0003-3738-2666",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3738-2666"
+            ]
           },
           "institutions": [
             {
@@ -130643,7 +131328,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3422619,
+        "value": 0.34892638,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -131137,7 +131822,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -131182,7 +131867,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -131217,9 +131905,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5112761121",
-            "display_name": "Saleh A. Al‐Dossary",
-            "orcid": null
+            "id": "https://openalex.org/A5111753752",
+            "display_name": "Saleh Al‐Dossary",
+            "orcid": "https://orcid.org/0000-0003-3738-2666",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3738-2666"
+            ]
           },
           "institutions": [
             {
@@ -131256,7 +131947,10 @@
           "author": {
             "id": "https://openalex.org/A5042237070",
             "display_name": "Wail A. Mousa",
-            "orcid": "https://orcid.org/0000-0003-4159-8304"
+            "orcid": "https://orcid.org/0000-0003-4159-8304",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4159-8304"
+            ]
           },
           "institutions": [
             {
@@ -131484,9 +132178,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4000000059604645,
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.4000000059604645
         }
       ],
       "x_sdgs": [],
@@ -131513,7 +132207,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -131558,7 +132252,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -131593,9 +132290,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5112761121",
-            "display_name": "Saleh A. Al‐Dossary",
-            "orcid": null
+            "id": "https://openalex.org/A5111753752",
+            "display_name": "Saleh Al‐Dossary",
+            "orcid": "https://orcid.org/0000-0003-3738-2666",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3738-2666"
+            ]
           },
           "institutions": [
             {
@@ -131632,7 +132332,10 @@
           "author": {
             "id": "https://openalex.org/A5042237070",
             "display_name": "Wail A. Mousa",
-            "orcid": "https://orcid.org/0000-0003-4159-8304"
+            "orcid": "https://orcid.org/0000-0003-4159-8304",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4159-8304"
+            ]
           },
           "institutions": [
             {
@@ -131784,7 +132487,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -131852,7 +132555,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -131887,9 +132593,12 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5040836404",
-            "display_name": "Saleh Al-Dossary",
-            "orcid": null
+            "id": "https://openalex.org/A5111753752",
+            "display_name": "Saleh Al‐Dossary",
+            "orcid": "https://orcid.org/0000-0003-3738-2666",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3738-2666"
+            ]
           },
           "institutions": [
             {
@@ -131937,7 +132646,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.65561224,
+        "value": 0.65588423,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -132223,7 +132932,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -133859,321 +134568,6 @@
       "created_date": "2022-10-01T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4298176330",
-      "doi": "https://doi.org/10.1007/978-3-031-02534-1_1",
-      "title": "Seismic Data Processing: A Quick Overview",
-      "display_name": "Seismic Data Processing: A Quick Overview",
-      "publication_year": 2011,
-      "publication_date": "2011-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W4298176330",
-        "doi": "https://doi.org/10.1007/978-3-031-02534-1_1"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/978-3-031-02534-1_1",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1007/978-3-031-02534-1_1",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S35274427",
-          "display_name": "Synthesis lectures on signal processing",
-          "issn_l": "1932-1236",
-          "issn": [
-            "1932-1236",
-            "1932-1694"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4310322570",
-          "host_organization_name": "Morgan & Claypool Publishers",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310322570"
-          ],
-          "host_organization_lineage_names": [
-            "Morgan & Claypool Publishers"
-          ],
-          "type": "book series"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Synthesis Lectures on Signal Processing",
-        "raw_type": "book-chapter"
-      },
-      "type": "book-chapter",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5042237070",
-            "display_name": "Wail A. Mousa",
-            "orcid": "https://orcid.org/0000-0003-4159-8304"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Wail A. Mousa",
-          "raw_affiliation_strings": [
-            "King Fahd University of Petroleoum & Minerals, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleoum & Minerals, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5054922583",
-            "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdullatif A. Al-Shuhail",
-          "raw_affiliation_strings": [
-            "King Fahd University of Petroleoum & Minerals, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleoum & Minerals, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.60626249,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "1",
-        "last_page": "5"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11801",
-        "display_name": "Reservoir Engineering and Simulation Methods",
-        "score": 0.9643999934196472,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2212",
-          "display_name": "Ocean Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11801",
-          "display_name": "Reservoir Engineering and Simulation Methods",
-          "score": 0.9643999934196472,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13067",
-          "display_name": "Geological Modeling and Analysis",
-          "score": 0.9279000163078308,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.5324493646621704
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.4006282091140747
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.5324493646621704
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.4006282091140747
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/978-3-031-02534-1_1",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1007/978-3-031-02534-1_1",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S35274427",
-            "display_name": "Synthesis lectures on signal processing",
-            "issn_l": "1932-1236",
-            "issn": [
-              "1932-1236",
-              "1932-1694"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4310322570",
-            "host_organization_name": "Morgan & Claypool Publishers",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310322570"
-            ],
-            "host_organization_lineage_names": [
-              "Morgan & Claypool Publishers"
-            ],
-            "type": "book series"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Synthesis Lectures on Signal Processing",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5899999737739563,
-          "display_name": "Climate action"
-        }
-      ],
-      "x_sdgs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2899084033",
-        "https://openalex.org/W2748952813",
-        "https://openalex.org/W2324615561",
-        "https://openalex.org/W2141795027",
-        "https://openalex.org/W2086120259",
-        "https://openalex.org/W2390279801",
-        "https://openalex.org/W2245170124",
-        "https://openalex.org/W2358668433",
-        "https://openalex.org/W3186982001",
-        "https://openalex.org/W2137941439"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4298470303",
       "doi": "https://doi.org/10.1007/978-3-031-02534-1_3",
       "title": "Quality Control of Real Seismic Data",
@@ -134571,9 +134965,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7200000286102295,
-          "display_name": "Climate action"
+          "score": 0.7200000286102295
         }
       ],
       "x_sdgs": [],
@@ -134939,9 +135333,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6800000071525574,
-          "display_name": "Climate action"
+          "score": 0.6800000071525574
         }
       ],
       "x_sdgs": [],
@@ -135362,9 +135756,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.800000011920929,
-          "display_name": "Climate action"
+          "score": 0.800000011920929
         }
       ],
       "x_sdgs": [],
@@ -136157,9 +136551,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Reduced inequalities",
           "id": "https://metadata.un.org/sdg/10",
-          "score": 0.6000000238418579,
-          "display_name": "Reduced inequalities"
+          "score": 0.6000000238418579
         }
       ],
       "x_sdgs": [],
@@ -137352,9 +137746,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5199999809265137,
-          "display_name": "Life below water"
+          "score": 0.5199999809265137
         }
       ],
       "x_sdgs": [],
@@ -137940,9 +138334,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4699999988079071,
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.4699999988079071
         }
       ],
       "x_sdgs": [],
@@ -139917,7 +140311,10 @@
           "author": {
             "id": "https://openalex.org/A5061327523",
             "display_name": "Paul Irikefe Edigbue",
-            "orcid": "https://orcid.org/0000-0002-4029-2728"
+            "orcid": "https://orcid.org/0000-0002-4029-2728",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4029-2728"
+            ]
           },
           "institutions": [
             {
@@ -139954,7 +140351,8 @@
           "author": {
             "id": "https://openalex.org/A5098950259",
             "display_name": "Hammed Oyekan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -139991,7 +140389,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -140028,7 +140429,10 @@
           "author": {
             "id": "https://openalex.org/A5077467560",
             "display_name": "Sherif M. Hanafy",
-            "orcid": "https://orcid.org/0000-0003-4568-2941"
+            "orcid": "https://orcid.org/0000-0003-4568-2941",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4568-2941"
+            ]
           },
           "institutions": [
             {
@@ -140084,7 +140488,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.09431266,
+        "value": 0.10000435,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -140471,7 +140875,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 16,
+      "referenced_works_count": 17,
       "referenced_works": [
         "https://openalex.org/W2033801267",
         "https://openalex.org/W2055779254",
@@ -140479,6 +140883,7 @@
         "https://openalex.org/W2162185865",
         "https://openalex.org/W2321053157",
         "https://openalex.org/W2782772175",
+        "https://openalex.org/W2925329277",
         "https://openalex.org/W2968945909",
         "https://openalex.org/W3044719873",
         "https://openalex.org/W3094462717",
@@ -141077,7 +141482,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-23T09:40:40.371523",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -142596,9 +143001,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.699999988079071,
-          "display_name": "Clean water and sanitation"
+          "score": 0.699999988079071
         }
       ],
       "x_sdgs": [],
@@ -144263,9 +144668,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4300000071525574,
-          "display_name": "Climate action"
+          "score": 0.4300000071525574
         }
       ],
       "x_sdgs": [],
@@ -146996,7 +147401,10 @@
           "author": {
             "id": "https://openalex.org/A5101873895",
             "display_name": "Ahmed Salem",
-            "orcid": "https://orcid.org/0000-0002-1631-7278"
+            "orcid": "https://orcid.org/0000-0002-1631-7278",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1631-7278"
+            ]
           },
           "institutions": [
             {
@@ -147033,7 +147441,10 @@
           "author": {
             "id": "https://openalex.org/A5077467560",
             "display_name": "Sherif M. Hanafy",
-            "orcid": "https://orcid.org/0000-0003-4568-2941"
+            "orcid": "https://orcid.org/0000-0003-4568-2941",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4568-2941"
+            ]
           },
           "institutions": [
             {
@@ -147082,7 +147493,10 @@
           "author": {
             "id": "https://openalex.org/A5008213975",
             "display_name": "Pantelis M. Soupios",
-            "orcid": "https://orcid.org/0000-0002-4153-3415"
+            "orcid": "https://orcid.org/0000-0002-4153-3415",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4153-3415"
+            ]
           },
           "institutions": [
             {
@@ -147131,7 +147545,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -147187,7 +147604,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.19003047,
+        "value": 0.1911958,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -147532,12 +147949,13 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 11,
+      "referenced_works_count": 12,
       "referenced_works": [
         "https://openalex.org/W1901616594",
         "https://openalex.org/W1991623636",
         "https://openalex.org/W2025768430",
         "https://openalex.org/W2156387975",
+        "https://openalex.org/W2163605009",
         "https://openalex.org/W2163922914",
         "https://openalex.org/W2618530766",
         "https://openalex.org/W2776585113",
@@ -148153,7 +148571,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {

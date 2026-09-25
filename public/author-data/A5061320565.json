@@ -18,7 +18,7 @@
     ],
     "full_name": "Abdulaziz Abdullah al-Laboun",
     "works_count": 15,
-    "cited_by_count": 278,
+    "cited_by_count": 279,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 8,
@@ -222,7 +222,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000201,
+        "value": 0.00002,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -339,7 +339,7 @@
         "year": 2014,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 6
+        "cited_by_count": 7
       },
       {
         "year": 2017,
@@ -374,7 +374,7 @@
     ],
     "block_key": "a al-laboun",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5061320565",
-    "updated_date": "2026-09-19T12:19:47",
+    "updated_date": "2026-09-24T12:17:56",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -6206,16 +6206,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0673,
+      "fwci": 1.0618,
       "has_fulltext": true,
-      "cited_by_count": 7,
+      "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.78094761,
+        "value": 0.77996336,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 96
       },
       "biblio": {
@@ -7256,12 +7256,28 @@
       },
       "counts_by_year": [
         {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
           "year": 2020,
           "cited_by_count": 2
         },
         {
           "year": 2019,
           "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
         },
         {
           "year": 2017,
@@ -7276,7 +7292,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -12264,9 +12280,12 @@
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5040147958",
-            "display_name": "Faisal M. AlGhamdi",
-            "orcid": null
+            "id": "https://openalex.org/A5070455488",
+            "display_name": "Faisal AlGhamdi",
+            "orcid": "https://orcid.org/0000-0001-5966-888X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5966-888X"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -12281,7 +12300,8 @@
           "author": {
             "id": "https://openalex.org/A5109239773",
             "display_name": "Abdulrahman A. AlQuraishi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -12296,7 +12316,10 @@
           "author": {
             "id": "https://openalex.org/A5045527478",
             "display_name": "Abiodun Matthew Amao",
-            "orcid": "https://orcid.org/0000-0002-9671-0247"
+            "orcid": "https://orcid.org/0000-0002-9671-0247",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9671-0247"
+            ]
           },
           "institutions": [
             {
@@ -12340,7 +12363,8 @@
           "author": {
             "id": "https://openalex.org/A5061320565",
             "display_name": "Abdulaziz A. Al-Laboun",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -12384,7 +12408,10 @@
           "author": {
             "id": "https://openalex.org/A5114041950",
             "display_name": "Khalid Abdel Fattah",
-            "orcid": "https://orcid.org/0000-0002-8901-9351"
+            "orcid": "https://orcid.org/0000-0002-8901-9351",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8901-9351"
+            ]
           },
           "institutions": [
             {
@@ -12428,7 +12455,10 @@
           "author": {
             "id": "https://openalex.org/A5036262291",
             "display_name": "Ali Y. Kahal",
-            "orcid": "https://orcid.org/0000-0003-0129-2423"
+            "orcid": "https://orcid.org/0000-0003-0129-2423",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0129-2423"
+            ]
           },
           "institutions": [
             {
@@ -12472,7 +12502,10 @@
           "author": {
             "id": "https://openalex.org/A5023467994",
             "display_name": "Aref Lashin",
-            "orcid": "https://orcid.org/0000-0002-1834-3234"
+            "orcid": "https://orcid.org/0000-0002-1834-3234",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1834-3234"
+            ]
           },
           "institutions": [
             {
@@ -12859,7 +12892,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     }
   ]

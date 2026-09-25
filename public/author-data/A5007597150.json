@@ -841,8 +841,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -1458,7 +1458,10 @@
           "author": {
             "id": "https://openalex.org/A5063297406",
             "display_name": "David Cousins",
-            "orcid": "https://orcid.org/0009-0005-2430-9517"
+            "orcid": "https://orcid.org/0009-0005-2430-9517",
+            "observed_orcids": [
+              "https://orcid.org/0009-0005-2430-9517"
+            ]
           },
           "institutions": [
             {
@@ -1495,7 +1498,8 @@
           "author": {
             "id": "https://openalex.org/A5098284429",
             "display_name": "Gary Kocurek",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -1532,7 +1536,10 @@
           "author": {
             "id": "https://openalex.org/A5007597150",
             "display_name": "Mohammed H. Al Kindi",
-            "orcid": "https://orcid.org/0000-0002-8456-158X"
+            "orcid": "https://orcid.org/0000-0002-8456-158X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8456-158X"
+            ]
           },
           "institutions": [
             {
@@ -1569,7 +1576,8 @@
           "author": {
             "id": "https://openalex.org/A5117717224",
             "display_name": "Omer Al Mashaykhi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -1606,7 +1614,10 @@
           "author": {
             "id": "https://openalex.org/A5030853355",
             "display_name": "Caroline Y. Hern",
-            "orcid": "https://orcid.org/0000-0002-2747-2548"
+            "orcid": "https://orcid.org/0000-0002-2747-2548",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2747-2548"
+            ]
           },
           "institutions": [
             {
@@ -1643,7 +1654,8 @@
           "author": {
             "id": "https://openalex.org/A5110360466",
             "display_name": "Calum I. Macaulay",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -1680,7 +1692,10 @@
           "author": {
             "id": "https://openalex.org/A5081805141",
             "display_name": "Robert M. Campbell",
-            "orcid": "https://orcid.org/0000-0003-2120-6887"
+            "orcid": "https://orcid.org/0000-0003-2120-6887",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2120-6887"
+            ]
           },
           "institutions": [
             {
@@ -1717,7 +1732,8 @@
           "author": {
             "id": "https://openalex.org/A5112513583",
             "display_name": "Michelle Thompson",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -1769,11 +1785,11 @@
         "currency": "USD",
         "value_usd": 5330
       },
-      "fwci": 1.9037,
+      "fwci": 1.8626,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.87542426,
+        "value": 0.87314455,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2084,9 +2100,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -2099,13 +2115,14 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 73,
+      "referenced_works_count": 74,
       "referenced_works": [
         "https://openalex.org/W1495168473",
+        "https://openalex.org/W1523916934",
         "https://openalex.org/W1571958385",
         "https://openalex.org/W1955431138",
         "https://openalex.org/W1966393306",
@@ -2922,7 +2939,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3459,8 +3476,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3107735373.pdf",
@@ -4855,17 +4872,17 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.6899999976158142,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -6029,8 +6046,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3010622588.pdf",
@@ -7343,9 +7360,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -7358,8 +7375,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386162512.pdf",
@@ -8047,17 +8064,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Sustainable cities and communities",
           "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -8560,17 +8577,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life in Land",
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -9095,17 +9112,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -9611,17 +9628,17 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.45413655042648315,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10456,17 +10473,17 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.45413655042648315,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11536,8 +11553,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7155534781.pdf",
@@ -12035,7 +12052,10 @@
           "author": {
             "id": "https://openalex.org/A5007597150",
             "display_name": "Mohammed H. Al Kindi",
-            "orcid": "https://orcid.org/0000-0002-8456-158X"
+            "orcid": "https://orcid.org/0000-0002-8456-158X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8456-158X"
+            ]
           },
           "institutions": [
             {
@@ -12072,7 +12092,10 @@
           "author": {
             "id": "https://openalex.org/A5135459311",
             "display_name": "ALAN P. HEWARD",
-            "orcid": "https://orcid.org/0000-0001-7154-3123"
+            "orcid": "https://orcid.org/0000-0001-7154-3123",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7154-3123"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -12092,9 +12115,10 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5137280195",
-            "display_name": "Lorraine B. Eglinton",
-            "orcid": null
+            "id": "https://openalex.org/A5019244893",
+            "display_name": "Lorraine Buxton Eglinton",
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -12131,7 +12155,8 @@
           "author": {
             "id": "https://openalex.org/A5137303484",
             "display_name": "Steve R. Packer",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -12153,7 +12178,8 @@
           "author": {
             "id": "https://openalex.org/A5075805678",
             "display_name": "Darrin T. Stead",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -12192,7 +12218,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.40448808,
+        "value": 0.39760712,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12572,17 +12598,17 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.5195932388305664,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -13033,7 +13059,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2026-05-29T00:00:00"
     },
     {
@@ -13554,8 +13580,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14370,8 +14396,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

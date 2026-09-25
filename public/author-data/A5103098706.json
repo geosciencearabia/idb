@@ -24,7 +24,7 @@
     ],
     "full_name": "Johnson, Peter Roland Andrew",
     "works_count": 86,
-    "cited_by_count": 6169,
+    "cited_by_count": 6170,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 33,
@@ -719,7 +719,7 @@
         "year": 2013,
         "works_count": 5,
         "oa_works_count": 2,
-        "cited_by_count": 1075
+        "cited_by_count": 1076
       },
       {
         "year": 2014,
@@ -800,7 +800,7 @@
     ],
     "block_key": "p johnson",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103098706",
-    "updated_date": "2026-09-23T12:19:55",
+    "updated_date": "2026-09-24T12:17:56",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -837,6 +837,7 @@
           "listed_in": [
             "cwts-core",
             "jufo-1",
+            "ki-jl-1",
             "norway-1"
           ],
           "host_organization": "https://openalex.org/P4310320990",
@@ -873,7 +874,10 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -895,7 +899,10 @@
           "author": {
             "id": "https://openalex.org/A5065999250",
             "display_name": "Arild Andresen",
-            "orcid": "https://orcid.org/0000-0003-0035-4223"
+            "orcid": "https://orcid.org/0000-0003-0035-4223",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0035-4223"
+            ]
           },
           "institutions": [
             {
@@ -939,7 +946,10 @@
           "author": {
             "id": "https://openalex.org/A5046466285",
             "display_name": "Alan Stephen Collins",
-            "orcid": "https://orcid.org/0000-0002-3408-5474"
+            "orcid": "https://orcid.org/0000-0002-3408-5474",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3408-5474"
+            ]
           },
           "institutions": [
             {
@@ -977,7 +987,10 @@
           "author": {
             "id": "https://openalex.org/A5001875934",
             "display_name": "Abdel-Rahman Fowler",
-            "orcid": "https://orcid.org/0000-0002-9767-4604"
+            "orcid": "https://orcid.org/0000-0002-9767-4604",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9767-4604"
+            ]
           },
           "institutions": [
             {
@@ -1021,7 +1034,8 @@
           "author": {
             "id": "https://openalex.org/A5028367160",
             "display_name": "Harald Fritz",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -1058,7 +1072,8 @@
           "author": {
             "id": "https://openalex.org/A5045718178",
             "display_name": "Woldai Ghebreab",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -1095,7 +1110,10 @@
           "author": {
             "id": "https://openalex.org/A5039177320",
             "display_name": "Timothy Kusky",
-            "orcid": "https://orcid.org/0000-0002-4553-620X"
+            "orcid": "https://orcid.org/0000-0002-4553-620X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4553-620X"
+            ]
           },
           "institutions": [
             {
@@ -1132,7 +1150,10 @@
           "author": {
             "id": "https://openalex.org/A5035240990",
             "display_name": "Robert J. Stern",
-            "orcid": "https://orcid.org/0000-0002-8083-4632"
+            "orcid": "https://orcid.org/0000-0002-8083-4632",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8083-4632"
+            ]
           },
           "institutions": [
             {
@@ -1178,11 +1199,11 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 21.6818,
+      "fwci": 20.0084,
       "has_fulltext": false,
-      "cited_by_count": 817,
+      "cited_by_count": 820,
       "citation_normalized_percentile": {
-        "value": 0.99836882,
+        "value": 0.99822355,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1440,6 +1461,7 @@
             "listed_in": [
               "cwts-core",
               "jufo-1",
+              "ki-jl-1",
               "norway-1"
             ],
             "host_organization": "https://openalex.org/P4310320990",
@@ -1494,9 +1516,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -1923,7 +1945,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 71
+          "cited_by_count": 72
         },
         {
           "year": 2025,
@@ -1943,7 +1965,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 88
+          "cited_by_count": 90
         },
         {
           "year": 2020,
@@ -1982,7 +2004,7 @@
           "cited_by_count": 16
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2658,11 +2680,11 @@
         "currency": "USD",
         "value_usd": 3370
       },
-      "fwci": 24.1663,
+      "fwci": 22.5811,
       "has_fulltext": false,
-      "cited_by_count": 812,
+      "cited_by_count": 815,
       "citation_normalized_percentile": {
-        "value": 0.99886801,
+        "value": 0.99878222,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -3159,9 +3181,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -4274,7 +4296,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 93
+          "cited_by_count": 96
         },
         {
           "year": 2020,
@@ -4309,7 +4331,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4380,7 +4402,10 @@
           "author": {
             "id": "https://openalex.org/A5035240990",
             "display_name": "Robert J. Stern",
-            "orcid": "https://orcid.org/0000-0002-8083-4632"
+            "orcid": "https://orcid.org/0000-0002-8083-4632",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8083-4632"
+            ]
           },
           "institutions": [
             {
@@ -4417,7 +4442,10 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -4450,11 +4478,11 @@
         "value_usd": 5120
       },
       "apc_paid": null,
-      "fwci": 17.3106,
+      "fwci": 16.0267,
       "has_fulltext": false,
-      "cited_by_count": 711,
+      "cited_by_count": 712,
       "citation_normalized_percentile": {
-        "value": 0.9978614,
+        "value": 0.99768245,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4881,9 +4909,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -5127,7 +5155,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 35
+          "cited_by_count": 36
         },
         {
           "year": 2025,
@@ -5186,7 +5214,7 @@
           "cited_by_count": 15
         }
       ],
-      "updated_date": "2026-09-22T17:25:34.749102",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5257,7 +5285,10 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -5284,7 +5315,8 @@
           "author": {
             "id": "https://openalex.org/A5014025524",
             "display_name": "Beraki Woldehaimanot",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -5331,11 +5363,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.3173,
+      "fwci": 5.9151,
       "has_fulltext": false,
       "cited_by_count": 496,
       "citation_normalized_percentile": {
-        "value": 0.97179374,
+        "value": 0.96964587,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5599,9 +5631,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -6300,7 +6332,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 46
+          "cited_by_count": 47
         },
         {
           "year": 2020,
@@ -6339,7 +6371,7 @@
           "cited_by_count": 12
         }
       ],
-      "updated_date": "2026-09-19T07:32:40.446753",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6752,9 +6784,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -7003,7 +7035,8 @@
           "author": {
             "id": "https://openalex.org/A5020686584",
             "display_name": "Ulysses S. Hargrove",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -7040,7 +7073,10 @@
           "author": {
             "id": "https://openalex.org/A5035240990",
             "display_name": "Robert J. Stern",
-            "orcid": "https://orcid.org/0000-0002-8083-4632"
+            "orcid": "https://orcid.org/0000-0002-8083-4632",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8083-4632"
+            ]
           },
           "institutions": [
             {
@@ -7077,7 +7113,10 @@
           "author": {
             "id": "https://openalex.org/A5008927496",
             "display_name": "Jun‐Ichi Kimura",
-            "orcid": "https://orcid.org/0000-0002-2677-515X"
+            "orcid": "https://orcid.org/0000-0002-2677-515X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2677-515X"
+            ]
           },
           "institutions": [
             {
@@ -7114,7 +7153,8 @@
           "author": {
             "id": "https://openalex.org/A5088101750",
             "display_name": "William I. Manton",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -7151,7 +7191,10 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -7184,11 +7227,11 @@
         "value_usd": 4670
       },
       "apc_paid": null,
-      "fwci": 6.9066,
+      "fwci": 6.1909,
       "has_fulltext": false,
       "cited_by_count": 285,
       "citation_normalized_percentile": {
-        "value": 0.97552983,
+        "value": 0.97156668,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7447,9 +7490,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -7578,7 +7621,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 31
+          "cited_by_count": 32
         },
         {
           "year": 2020,
@@ -7617,7 +7660,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7689,7 +7732,8 @@
           "author": {
             "id": "https://openalex.org/A5032099830",
             "display_name": "R. J. Stern",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -7758,7 +7802,10 @@
           "author": {
             "id": "https://openalex.org/A5072203156",
             "display_name": "Kamal Ahmed Ali",
-            "orcid": "https://orcid.org/0000-0002-7332-7843"
+            "orcid": "https://orcid.org/0000-0002-7332-7843",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7332-7843"
+            ]
           },
           "institutions": [
             {
@@ -7827,7 +7874,10 @@
           "author": {
             "id": "https://openalex.org/A5049639227",
             "display_name": "Jean-Paul Liégeois",
-            "orcid": "https://orcid.org/0000-0001-5367-0671"
+            "orcid": "https://orcid.org/0000-0001-5367-0671",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5367-0671"
+            ]
           },
           "institutions": [
             {
@@ -7864,7 +7914,10 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
           "institutions": [
             {
@@ -7924,7 +7977,10 @@
           "author": {
             "id": "https://openalex.org/A5004013824",
             "display_name": "Wiesław Kozdrój",
-            "orcid": "https://orcid.org/0000-0002-8468-3544"
+            "orcid": "https://orcid.org/0000-0002-8468-3544",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8468-3544"
+            ]
           },
           "institutions": [
             {
@@ -7984,7 +8040,8 @@
           "author": {
             "id": "https://openalex.org/A5064885805",
             "display_name": "Fayek H. Kattan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -8052,11 +8109,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.271,
+      "fwci": 5.8068,
       "has_fulltext": true,
-      "cited_by_count": 191,
+      "cited_by_count": 192,
       "citation_normalized_percentile": {
-        "value": 0.9701479,
+        "value": 0.96760355,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8383,9 +8440,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8100000023841858
+          "score": 0.8100000023841858,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -9080,7 +9137,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 18
+          "cited_by_count": 19
         },
         {
           "year": 2020,
@@ -9119,7 +9176,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9861,7 +9918,10 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -9898,11 +9958,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.2401,
+      "fwci": 8.167,
       "has_fulltext": true,
-      "cited_by_count": 111,
+      "cited_by_count": 112,
       "citation_normalized_percentile": {
-        "value": 0.97202054,
+        "value": 0.97174245,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10167,9 +10227,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -10969,7 +11029,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 20
+          "cited_by_count": 21
         },
         {
           "year": 2020,
@@ -11000,7 +11060,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11071,7 +11131,10 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
           "institutions": [
             {
@@ -11108,7 +11171,10 @@
           "author": {
             "id": "https://openalex.org/A5043756168",
             "display_name": "Galen P. Halverson",
-            "orcid": "https://orcid.org/0000-0003-3061-7928"
+            "orcid": "https://orcid.org/0000-0003-3061-7928",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3061-7928"
+            ]
           },
           "institutions": [
             {
@@ -11156,7 +11222,10 @@
           "author": {
             "id": "https://openalex.org/A5039177320",
             "display_name": "Timothy Kusky",
-            "orcid": "https://orcid.org/0000-0002-4553-620X"
+            "orcid": "https://orcid.org/0000-0002-4553-620X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4553-620X"
+            ]
           },
           "institutions": [
             {
@@ -11193,7 +11262,10 @@
           "author": {
             "id": "https://openalex.org/A5035240990",
             "display_name": "Robert J. Stern",
-            "orcid": "https://orcid.org/0000-0002-8083-4632"
+            "orcid": "https://orcid.org/0000-0002-8083-4632",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8083-4632"
+            ]
           },
           "institutions": [
             {
@@ -11230,7 +11302,10 @@
           "author": {
             "id": "https://openalex.org/A5041673378",
             "display_name": "Victoria Pease",
-            "orcid": "https://orcid.org/0000-0003-0498-1849"
+            "orcid": "https://orcid.org/0000-0003-0498-1849",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0498-1849"
+            ]
           },
           "institutions": [
             {
@@ -11300,11 +11375,11 @@
         "currency": "CHF",
         "value_usd": 2172
       },
-      "fwci": 6.5847,
+      "fwci": 6.4983,
       "has_fulltext": false,
-      "cited_by_count": 108,
+      "cited_by_count": 109,
       "citation_normalized_percentile": {
-        "value": 0.96149589,
+        "value": 0.96092509,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11643,9 +11718,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -12282,7 +12357,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 15
+          "cited_by_count": 16
         },
         {
           "year": 2020,
@@ -12317,7 +12392,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -12388,7 +12463,10 @@
           "author": {
             "id": "https://openalex.org/A5056332242",
             "display_name": "Basem Zoheir",
-            "orcid": "https://orcid.org/0000-0003-1792-9134"
+            "orcid": "https://orcid.org/0000-0003-1792-9134",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1792-9134"
+            ]
           },
           "institutions": [
             {
@@ -12443,7 +12521,10 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
           "institutions": [
             {
@@ -12480,7 +12561,10 @@
           "author": {
             "id": "https://openalex.org/A5082538179",
             "display_name": "Richard J. Goldfarb",
-            "orcid": "https://orcid.org/0000-0002-6979-6356"
+            "orcid": "https://orcid.org/0000-0002-6979-6356",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6979-6356"
+            ]
           },
           "institutions": [
             {
@@ -12517,7 +12601,8 @@
           "author": {
             "id": "https://openalex.org/A5015557176",
             "display_name": "Dietrich D. Klemm",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -12566,11 +12651,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 5.6547,
+      "fwci": 5.4208,
       "has_fulltext": false,
-      "cited_by_count": 102,
+      "cited_by_count": 103,
       "citation_normalized_percentile": {
-        "value": 0.97518134,
+        "value": 0.97454226,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12899,9 +12984,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -13177,14 +13262,14 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 15
+          "cited_by_count": 16
         },
         {
           "year": 2020,
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-09-19T07:32:40.446753",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13219,6 +13304,7 @@
           "listed_in": [
             "cwts-core",
             "jufo-1",
+            "ki-jl-1",
             "norway-1"
           ],
           "host_organization": "https://openalex.org/P4310320822",
@@ -13255,7 +13341,10 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -13277,7 +13366,10 @@
           "author": {
             "id": "https://openalex.org/A5056332242",
             "display_name": "Basem Zoheir",
-            "orcid": "https://orcid.org/0000-0003-1792-9134"
+            "orcid": "https://orcid.org/0000-0003-1792-9134",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1792-9134"
+            ]
           },
           "institutions": [
             {
@@ -13314,7 +13406,8 @@
           "author": {
             "id": "https://openalex.org/A5045718178",
             "display_name": "Woldai Ghebreab",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -13351,7 +13444,10 @@
           "author": {
             "id": "https://openalex.org/A5035240990",
             "display_name": "Robert J. Stern",
-            "orcid": "https://orcid.org/0000-0002-8083-4632"
+            "orcid": "https://orcid.org/0000-0002-8083-4632",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8083-4632"
+            ]
           },
           "institutions": [
             {
@@ -13388,7 +13484,10 @@
           "author": {
             "id": "https://openalex.org/A5031713577",
             "display_name": "Christopher Barrie",
-            "orcid": "https://orcid.org/0000-0002-9156-990X"
+            "orcid": "https://orcid.org/0000-0002-9156-990X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9156-990X"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -13410,7 +13509,8 @@
           "author": {
             "id": "https://openalex.org/A5017064204",
             "display_name": "R. D. Hamer",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -13446,11 +13546,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.9103,
+      "fwci": 3.6457,
       "has_fulltext": false,
-      "cited_by_count": 95,
+      "cited_by_count": 96,
       "citation_normalized_percentile": {
-        "value": 0.93978626,
+        "value": 0.93489796,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13635,6 +13735,7 @@
             "listed_in": [
               "cwts-core",
               "jufo-1",
+              "ki-jl-1",
               "norway-1"
             ],
             "host_organization": "https://openalex.org/P4310320822",
@@ -13659,9 +13760,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -15076,7 +15177,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2020,
@@ -15091,7 +15192,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-17T07:59:56.861425",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15694,9 +15795,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -16910,9 +17011,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -17162,7 +17263,10 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -17189,11 +17293,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.0591,
+      "fwci": 7.1782,
       "has_fulltext": false,
-      "cited_by_count": 32,
+      "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.9677673,
+        "value": 0.96805112,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17542,10 +17646,11 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 177,
+      "referenced_works_count": 178,
       "referenced_works": [
         "https://openalex.org/W135661281",
         "https://openalex.org/W151464013",
+        "https://openalex.org/W294973992",
         "https://openalex.org/W654973716",
         "https://openalex.org/W1147559249",
         "https://openalex.org/W1549422452",
@@ -17738,7 +17843,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2025,
@@ -17757,7 +17862,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-17T07:59:56.861425",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17828,7 +17933,10 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
           "institutions": [
             {
@@ -17876,11 +17984,11 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 2.2972,
+      "fwci": 2.151,
       "has_fulltext": false,
-      "cited_by_count": 124,
+      "cited_by_count": 123,
       "citation_normalized_percentile": {
-        "value": 0.84876912,
+        "value": 0.83797639,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18192,9 +18300,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -18324,7 +18432,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18820,9 +18928,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7699999809265137
+          "score": 0.7699999809265137,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -19596,9 +19704,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -20220,9 +20328,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "x_sdgs": [],
@@ -20806,9 +20914,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5799999833106995
+          "score": 0.5799999833106995,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -21025,7 +21133,10 @@
           "author": {
             "id": "https://openalex.org/A5009519783",
             "display_name": "Jeff L. Doebrich",
-            "orcid": "https://orcid.org/0009-0009-3427-0985"
+            "orcid": "https://orcid.org/0009-0009-3427-0985",
+            "observed_orcids": [
+              "https://orcid.org/0009-0009-3427-0985"
+            ]
           },
           "institutions": [
             {
@@ -21063,7 +21174,8 @@
           "author": {
             "id": "https://openalex.org/A5030332147",
             "display_name": "Abdullah M. Al-Jehani",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -21100,7 +21212,8 @@
           "author": {
             "id": "https://openalex.org/A5083795365",
             "display_name": "Alim A. Siddiqui",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -21137,7 +21250,8 @@
           "author": {
             "id": "https://openalex.org/A5091429576",
             "display_name": "Timothy S. Hayes",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -21174,7 +21288,8 @@
           "author": {
             "id": "https://openalex.org/A5067200603",
             "display_name": "Joseph L. Wooden",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -21212,7 +21327,10 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
           "institutions": [
             {
@@ -21260,11 +21378,11 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 1.2913,
+      "fwci": 1.1986,
       "has_fulltext": false,
-      "cited_by_count": 89,
+      "cited_by_count": 90,
       "citation_normalized_percentile": {
-        "value": 0.7688901,
+        "value": 0.75109067,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21638,9 +21756,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -21771,7 +21889,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2020,
@@ -21810,7 +21928,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23387,9 +23505,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/3",
           "display_name": "Good health and well-being",
-          "score": 0.7300000190734863
+          "score": 0.7300000190734863,
+          "id": "https://metadata.un.org/sdg/3"
         }
       ],
       "x_sdgs": [],
@@ -23584,7 +23702,10 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -23606,7 +23727,10 @@
           "author": {
             "id": "https://openalex.org/A5060678984",
             "display_name": "Mohamed G. Abdelsalam",
-            "orcid": "https://orcid.org/0000-0002-0913-9469"
+            "orcid": "https://orcid.org/0000-0002-0913-9469",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0913-9469"
+            ]
           },
           "institutions": [
             {
@@ -23643,7 +23767,10 @@
           "author": {
             "id": "https://openalex.org/A5035240990",
             "display_name": "Robert J. Stern",
-            "orcid": "https://orcid.org/0000-0002-8083-4632"
+            "orcid": "https://orcid.org/0000-0002-8083-4632",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8083-4632"
+            ]
           },
           "institutions": [
             {
@@ -23689,16 +23816,16 @@
         "value_usd": 3700
       },
       "apc_paid": null,
-      "fwci": 1.1486,
+      "fwci": 1.0755,
       "has_fulltext": false,
-      "cited_by_count": 78,
+      "cited_by_count": 79,
       "citation_normalized_percentile": {
-        "value": 0.74079204,
+        "value": 0.7227656,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -24014,9 +24141,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -24091,7 +24218,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2020,
@@ -24130,7 +24257,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-19T07:32:40.446753",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24630,9 +24757,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6499999761581421
+          "score": 0.6499999761581421,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -24850,7 +24977,10 @@
           "author": {
             "id": "https://openalex.org/A5072203156",
             "display_name": "Kamal Ahmed Ali",
-            "orcid": "https://orcid.org/0000-0002-7332-7843"
+            "orcid": "https://orcid.org/0000-0002-7332-7843",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7332-7843"
+            ]
           },
           "institutions": [
             {
@@ -24887,7 +25017,10 @@
           "author": {
             "id": "https://openalex.org/A5035240990",
             "display_name": "Robert J. Stern",
-            "orcid": "https://orcid.org/0000-0002-8083-4632"
+            "orcid": "https://orcid.org/0000-0002-8083-4632",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8083-4632"
+            ]
           },
           "institutions": [
             {
@@ -24924,7 +25057,8 @@
           "author": {
             "id": "https://openalex.org/A5088101750",
             "display_name": "William I. Manton",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -24961,7 +25095,10 @@
           "author": {
             "id": "https://openalex.org/A5008927496",
             "display_name": "Jun‐Ichi Kimura",
-            "orcid": "https://orcid.org/0000-0002-2677-515X"
+            "orcid": "https://orcid.org/0000-0002-2677-515X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2677-515X"
+            ]
           },
           "institutions": [
             {
@@ -24998,7 +25135,10 @@
           "author": {
             "id": "https://openalex.org/A5068579961",
             "display_name": "Martin John Whitehouse",
-            "orcid": "https://orcid.org/0000-0003-2227-577X"
+            "orcid": "https://orcid.org/0000-0003-2227-577X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2227-577X"
+            ]
           },
           "institutions": [
             {
@@ -25042,7 +25182,8 @@
           "author": {
             "id": "https://openalex.org/A5056577179",
             "display_name": "Sumit K. Mukherjee",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -25080,7 +25221,10 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -25102,7 +25246,8 @@
           "author": {
             "id": "https://openalex.org/A5007548281",
             "display_name": "William R. Griffin",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -25150,11 +25295,11 @@
         "value_usd": 3350
       },
       "apc_paid": null,
-      "fwci": 3.7626,
+      "fwci": 3.4841,
       "has_fulltext": false,
-      "cited_by_count": 68,
+      "cited_by_count": 69,
       "citation_normalized_percentile": {
-        "value": 0.92308743,
+        "value": 0.91671598,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -25447,9 +25592,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7300000190734863
+          "score": 0.7300000190734863,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -25586,7 +25731,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2020,
@@ -25625,7 +25770,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -26040,9 +26185,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/16",
           "display_name": "Peace, Justice and strong institutions",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/16"
         }
       ],
       "x_sdgs": [],
@@ -27522,9 +27667,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -28700,9 +28845,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -30749,9 +30894,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -31035,7 +31180,10 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -31059,16 +31207,16 @@
         "value_usd": 3700
       },
       "apc_paid": null,
-      "fwci": 1.5405,
+      "fwci": 1.5066,
       "has_fulltext": false,
-      "cited_by_count": 28,
+      "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.83404535,
+        "value": 0.8321489,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -31348,9 +31496,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -31399,7 +31547,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2020,
@@ -31434,7 +31582,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -32106,9 +32254,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -33393,9 +33541,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -36578,9 +36726,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/3",
           "display_name": "Good health and well-being",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/3"
         }
       ],
       "x_sdgs": [],
@@ -38399,9 +38547,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.699999988079071
+          "score": 0.699999988079071,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -38953,9 +39101,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -41287,9 +41435,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -42411,9 +42559,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/5",
           "display_name": "Gender equality",
-          "score": 0.75
+          "score": 0.75,
+          "id": "https://metadata.un.org/sdg/5"
         }
       ],
       "x_sdgs": [],
@@ -42957,9 +43105,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7699999809265137
+          "score": 0.7699999809265137,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -46405,9 +46553,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -47496,9 +47644,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -50004,9 +50152,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "x_sdgs": [],
@@ -51623,9 +51771,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6399999856948853
+          "score": 0.6399999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -53608,9 +53756,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -55040,9 +55188,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5799999833106995
+          "score": 0.5799999833106995,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -56174,9 +56322,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -61690,9 +61838,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "x_sdgs": [],
@@ -62124,9 +62272,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6600000262260437
+          "score": 0.6600000262260437,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -63102,9 +63250,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -64257,9 +64405,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -64636,9 +64784,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -67354,9 +67502,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -69665,9 +69813,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -70998,9 +71146,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -72326,9 +72474,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -73764,9 +73912,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/4",
           "display_name": "Quality Education",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "id": "https://metadata.un.org/sdg/4"
         }
       ],
       "x_sdgs": [],
@@ -77694,9 +77842,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/17",
           "display_name": "Partnerships for the goals",
-          "score": 0.5504250526428223
+          "score": 0.5504250526428223,
+          "id": "https://metadata.un.org/sdg/17"
         }
       ],
       "x_sdgs": [],
@@ -77714,6 +77862,824 @@
       "counts_by_year": [],
       "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2026-02-20T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7202169806",
+      "doi": "https://doi.org/10.1016/j.earscirev.2026.105651",
+      "title": "Microplate subdivision, terrane identification and intra-terrane stratigraphic framework of the Arabian Shield—volcanic arcs priming the planet for the Cryogenian?",
+      "display_name": "Microplate subdivision, terrane identification and intra-terrane stratigraphic framework of the Arabian Shield—volcanic arcs priming the planet for the Cryogenian?",
+      "publication_year": 2026,
+      "publication_date": "2026-08-11",
+      "ids": {
+        "openalex": "https://openalex.org/W7202169806",
+        "doi": "https://doi.org/10.1016/j.earscirev.2026.105651"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.earscirev.2026.105651",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.earscirev.2026.105651",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S40187045",
+          "display_name": "Earth-Science Reviews",
+          "issn_l": "0012-8252",
+          "issn": [
+            "0012-8252",
+            "1872-6828"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-3",
+            "norway-2"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Earth-Science Reviews",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1016/j.earscirev.2026.105651",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5146552042",
+            "display_name": "Alan S. Collins",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Alan S. Collins",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052345421",
+            "display_name": "Mahrous M. Abu El-Enen",
+            "orcid": "https://orcid.org/0000-0002-5999-5511",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5999-5511"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mahrous M. Abu El-Enen",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5068221180",
+            "display_name": "Pierre Nehlig",
+            "orcid": "https://orcid.org/0000-0002-3513-5285",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3513-5285"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Pierre Nehlig",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5046845730",
+            "display_name": "P.H. Macey",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Paul H. Macey",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5146515691",
+            "display_name": "Joachim Jacobs",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Joachim Jacobs",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5146485709",
+            "display_name": "Cees Passchier",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Cees W. Passchier",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5146480613",
+            "display_name": "Fayak Kattan",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Fayek H. Kattan",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5146577926",
+            "display_name": "Martin Whitehouse",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Martin J. Whitehouse",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051730909",
+            "display_name": "Rami A. Bakhsh",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Rami A. Bakhsh",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5089060972",
+            "display_name": "Saad Al Garni",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Saad M. Al Garni",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5146448594",
+            "display_name": "Mohammed B. Elkomi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed B. Elkomi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5103098706",
+            "display_name": "Peter R. Johnson",
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Peter R. Johnson",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5146514351",
+            "display_name": "Robert J. Stern",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Robert J. Stern",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5146515534",
+            "display_name": "Fahd M.H. Harbi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Fahd M.H. Harbi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5146577123",
+            "display_name": "Nawaf Rimi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Nawaf N. Rimi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5124270706",
+            "display_name": "Ashraf Qubsani",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Ashraf N. Al Qubsani",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5074006392",
+            "display_name": "Wadee Kashghari",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Wadee A. Kashghari",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 5120,
+        "currency": "USD",
+        "value_usd": 5120
+      },
+      "apc_paid": {
+        "value": 5120,
+        "currency": "USD",
+        "value_usd": 5120
+      },
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.69285079,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "282",
+        "issue": null,
+        "first_page": "105651",
+        "last_page": "105651"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10001",
+        "display_name": "Geological and Geochemical Analysis",
+        "score": 0.5766000151634216,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 0.5766000151634216,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.1648000031709671,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10413",
+          "display_name": "High-pressure geophysics and materials",
+          "score": 0.06629999727010727,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/terrane",
+          "display_name": "Terrane",
+          "score": 0.6995000243186951
+        },
+        {
+          "id": "https://openalex.org/keywords/identification",
+          "display_name": "Identification (biology)",
+          "score": 0.5981000065803528
+        },
+        {
+          "id": "https://openalex.org/keywords/planet",
+          "display_name": "Planet",
+          "score": 0.36469998955726624
+        },
+        {
+          "id": "https://openalex.org/keywords/feature",
+          "display_name": "Feature (linguistics)",
+          "score": 0.28940001130104065
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.2816999852657318
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8428000211715698
+        },
+        {
+          "id": "https://openalex.org/C150999391",
+          "wikidata": "https://www.wikidata.org/wiki/Q509037",
+          "display_name": "Terrane",
+          "level": 3,
+          "score": 0.6995000243186951
+        },
+        {
+          "id": "https://openalex.org/C116834253",
+          "wikidata": "https://www.wikidata.org/wiki/Q2039217",
+          "display_name": "Identification (biology)",
+          "level": 2,
+          "score": 0.5981000065803528
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.5228000283241272
+        },
+        {
+          "id": "https://openalex.org/C51244244",
+          "wikidata": "https://www.wikidata.org/wiki/Q634",
+          "display_name": "Planet",
+          "level": 2,
+          "score": 0.36469998955726624
+        },
+        {
+          "id": "https://openalex.org/C62649853",
+          "wikidata": "https://www.wikidata.org/wiki/Q199687",
+          "display_name": "Remote sensing",
+          "level": 1,
+          "score": 0.3303999900817871
+        },
+        {
+          "id": "https://openalex.org/C2776401178",
+          "wikidata": "https://www.wikidata.org/wiki/Q12050496",
+          "display_name": "Feature (linguistics)",
+          "level": 2,
+          "score": 0.28940001130104065
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.2816999852657318
+        },
+        {
+          "id": "https://openalex.org/C87355193",
+          "wikidata": "https://www.wikidata.org/wiki/Q411",
+          "display_name": "Astrobiology",
+          "level": 1,
+          "score": 0.2791999876499176
+        },
+        {
+          "id": "https://openalex.org/C179158327",
+          "wikidata": "https://www.wikidata.org/wiki/Q52151",
+          "display_name": "Palaeogeography",
+          "level": 4,
+          "score": 0.27160000801086426
+        },
+        {
+          "id": "https://openalex.org/C83415579",
+          "wikidata": "https://www.wikidata.org/wiki/Q161973",
+          "display_name": "Arc (geometry)",
+          "level": 2,
+          "score": 0.2685999870300293
+        },
+        {
+          "id": "https://openalex.org/C165205528",
+          "wikidata": "https://www.wikidata.org/wiki/Q83371",
+          "display_name": "Seismology",
+          "level": 1,
+          "score": 0.2630000114440918
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.earscirev.2026.105651",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.earscirev.2026.105651",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S40187045",
+            "display_name": "Earth-Science Reviews",
+            "issn_l": "0012-8252",
+            "issn": [
+              "0012-8252",
+              "1872-6828"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-3",
+              "norway-2"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Earth-Science Reviews",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:HAL:hal-05727872v1",
+          "is_oa": true,
+          "landing_page_url": "https://brgm.hal.science/hal-05727872",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1294671590",
+            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization_lineage": [
+              "https://openalex.org/I1294671590"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Earth-Science Reviews, 2026, 282, pp.105651. &#x27E8;10.1016/j.earscirev.2026.105651&#x27E9;",
+          "raw_type": "info:eu-repo/semantics/article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.earscirev.2026.105651",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.earscirev.2026.105651",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S40187045",
+          "display_name": "Earth-Science Reviews",
+          "issn_l": "0012-8252",
+          "issn": [
+            "0012-8252",
+            "1872-6828"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-3",
+            "norway-2"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Earth-Science Reviews",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "x_sdgs": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G2132551500",
+          "display_name": "Plate Tectonics, Critical Metals and our Habitable Earth",
+          "funder_award_id": "FL240100114",
+          "funder_id": "https://openalex.org/F4320334704",
+          "funder_display_name": "Australian Research Council"
+        },
+        {
+          "id": "https://openalex.org/G7721758663",
+          "display_name": "Oceanic Oxygen in Deep Time: Have We Been Looking in the Wrong Places?",
+          "funder_award_id": "DP250102570",
+          "funder_id": "https://openalex.org/F4320334704",
+          "funder_display_name": "Australian Research Council"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320334704",
+          "display_name": "Australian Research Council",
+          "ror": "https://ror.org/05mmh0f86"
+        },
+        {
+          "id": "https://openalex.org/F4320334926",
+          "display_name": "China Geological Survey",
+          "ror": "https://ror.org/04wtq2305"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 98,
+      "referenced_works": [
+        "https://openalex.org/W1963707156",
+        "https://openalex.org/W1964591197",
+        "https://openalex.org/W1969920122",
+        "https://openalex.org/W1976950473",
+        "https://openalex.org/W1982712732",
+        "https://openalex.org/W1992174251",
+        "https://openalex.org/W2002898265",
+        "https://openalex.org/W2008056984",
+        "https://openalex.org/W2009798783",
+        "https://openalex.org/W2011145781",
+        "https://openalex.org/W2011379108",
+        "https://openalex.org/W2013617939",
+        "https://openalex.org/W2020648348",
+        "https://openalex.org/W2027334351",
+        "https://openalex.org/W2028179054",
+        "https://openalex.org/W2028864600",
+        "https://openalex.org/W2029292238",
+        "https://openalex.org/W2032905075",
+        "https://openalex.org/W2046904619",
+        "https://openalex.org/W2047643971",
+        "https://openalex.org/W2048464517",
+        "https://openalex.org/W2052105902",
+        "https://openalex.org/W2053246573",
+        "https://openalex.org/W2057248218",
+        "https://openalex.org/W2060366933",
+        "https://openalex.org/W2063931846",
+        "https://openalex.org/W2064300797",
+        "https://openalex.org/W2067787424",
+        "https://openalex.org/W2070236345",
+        "https://openalex.org/W2070699579",
+        "https://openalex.org/W2072299862",
+        "https://openalex.org/W2076548720",
+        "https://openalex.org/W2076675713",
+        "https://openalex.org/W2077850576",
+        "https://openalex.org/W2079727754",
+        "https://openalex.org/W2083253928",
+        "https://openalex.org/W2085045890",
+        "https://openalex.org/W2089609821",
+        "https://openalex.org/W2090951243",
+        "https://openalex.org/W2094886494",
+        "https://openalex.org/W2095633464",
+        "https://openalex.org/W2097828895",
+        "https://openalex.org/W2104770849",
+        "https://openalex.org/W2127039475",
+        "https://openalex.org/W2127806207",
+        "https://openalex.org/W2129795443",
+        "https://openalex.org/W2145047298",
+        "https://openalex.org/W2151727220",
+        "https://openalex.org/W2163106821",
+        "https://openalex.org/W2174216460",
+        "https://openalex.org/W2204495290",
+        "https://openalex.org/W2206793504",
+        "https://openalex.org/W2318056206",
+        "https://openalex.org/W2349612939",
+        "https://openalex.org/W2594487706",
+        "https://openalex.org/W2605017508",
+        "https://openalex.org/W2749763761",
+        "https://openalex.org/W2752695001",
+        "https://openalex.org/W2765962086",
+        "https://openalex.org/W2766581413",
+        "https://openalex.org/W2782406074",
+        "https://openalex.org/W2795250968",
+        "https://openalex.org/W2979223134",
+        "https://openalex.org/W2999006960",
+        "https://openalex.org/W3007441856",
+        "https://openalex.org/W3116053913",
+        "https://openalex.org/W3130482162",
+        "https://openalex.org/W3135713256",
+        "https://openalex.org/W3191148501",
+        "https://openalex.org/W3194184597",
+        "https://openalex.org/W3205436623",
+        "https://openalex.org/W4214911357",
+        "https://openalex.org/W4225001827",
+        "https://openalex.org/W4226090706",
+        "https://openalex.org/W4306194637",
+        "https://openalex.org/W4307296481",
+        "https://openalex.org/W4310088484",
+        "https://openalex.org/W4323663999",
+        "https://openalex.org/W4382318703",
+        "https://openalex.org/W4388553367",
+        "https://openalex.org/W4390025542",
+        "https://openalex.org/W4393031637",
+        "https://openalex.org/W4398159676",
+        "https://openalex.org/W4402494453",
+        "https://openalex.org/W4403447275",
+        "https://openalex.org/W4405444409",
+        "https://openalex.org/W4408303375",
+        "https://openalex.org/W4409101266",
+        "https://openalex.org/W4410917036",
+        "https://openalex.org/W4417119323",
+        "https://openalex.org/W4417299216",
+        "https://openalex.org/W4417506769",
+        "https://openalex.org/W7126111649",
+        "https://openalex.org/W7128370827",
+        "https://openalex.org/W7128382297",
+        "https://openalex.org/W7152408288",
+        "https://openalex.org/W7155981520",
+        "https://openalex.org/W7161940137"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "International": [
+          0
+        ],
+        "audience": [
+          1
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-09-25T08:18:29.962427",
+      "created_date": "2026-08-12T00:00:00"
     }
   ]
 }

@@ -215,7 +215,7 @@
       {
         "id": "https://openalex.org/T13018",
         "display_name": "Seismology and Earthquake Studies",
-        "value": 0.0000389,
+        "value": 0.0000388,
         "subfield": {
           "id": "https://openalex.org/subfields/1702",
           "display_name": "Artificial Intelligence"
@@ -450,7 +450,10 @@
           "author": {
             "id": "https://openalex.org/A5015584307",
             "display_name": "Aleksei Titov",
-            "orcid": "https://orcid.org/0000-0001-7699-7773"
+            "orcid": "https://orcid.org/0000-0001-7699-7773",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7699-7773"
+            ]
           },
           "institutions": [
             {
@@ -487,7 +490,10 @@
           "author": {
             "id": "https://openalex.org/A5006480587",
             "display_name": "Vladimir Kazei",
-            "orcid": "https://orcid.org/0000-0003-1214-3175"
+            "orcid": "https://orcid.org/0000-0003-1214-3175",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1214-3175"
+            ]
           },
           "institutions": [
             {
@@ -525,7 +531,10 @@
           "author": {
             "id": "https://openalex.org/A5102799927",
             "display_name": "Ali Aldawood",
-            "orcid": "https://orcid.org/0000-0002-9535-0825"
+            "orcid": "https://orcid.org/0000-0002-9535-0825",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9535-0825"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -547,7 +556,10 @@
           "author": {
             "id": "https://openalex.org/A5052123503",
             "display_name": "Ezzedeen Alfataierge",
-            "orcid": "https://orcid.org/0000-0003-4543-530X"
+            "orcid": "https://orcid.org/0000-0003-4543-530X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4543-530X"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -569,7 +581,10 @@
           "author": {
             "id": "https://openalex.org/A5067998463",
             "display_name": "Andrey V. Bakulin",
-            "orcid": "https://orcid.org/0000-0002-6638-7821"
+            "orcid": "https://orcid.org/0000-0002-6638-7821",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6638-7821"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -591,7 +606,10 @@
           "author": {
             "id": "https://openalex.org/A5018727373",
             "display_name": "Konstantin S. Osypov",
-            "orcid": "https://orcid.org/0000-0002-4671-6982"
+            "orcid": "https://orcid.org/0000-0002-4671-6982",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4671-6982"
+            ]
           },
           "institutions": [
             {
@@ -646,11 +664,11 @@
         "currency": "CHF",
         "value_usd": 2513
       },
-      "fwci": 2.1271,
+      "fwci": 2.018,
       "has_fulltext": true,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.85407491,
+        "value": 0.84587814,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1170,8 +1188,9 @@
         "pdf": "https://content.openalex.org/works/W4210484148.pdf",
         "grobid_xml": "https://content.openalex.org/works/W4210484148.grobid-xml"
       },
-      "referenced_works_count": 26,
+      "referenced_works_count": 27,
       "referenced_works": [
+        "https://openalex.org/W621460498",
         "https://openalex.org/W1485858323",
         "https://openalex.org/W2047249221",
         "https://openalex.org/W2146625715",
@@ -1711,7 +1730,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4361,9 +4380,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4300000071525574,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "x_sdgs": [],
@@ -5687,9 +5706,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.4300000071525574,
-          "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         }
       ],
       "x_sdgs": [],
@@ -10002,9 +10021,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.47999998927116394,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -10582,7 +10601,10 @@
           "author": {
             "id": "https://openalex.org/A5006480587",
             "display_name": "Vladimir Kazei",
-            "orcid": "https://orcid.org/0000-0003-1214-3175"
+            "orcid": "https://orcid.org/0000-0003-1214-3175",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1214-3175"
+            ]
           },
           "institutions": [
             {
@@ -10627,7 +10649,8 @@
           "author": {
             "id": "https://openalex.org/A5017050338",
             "display_name": "Nour Alzamil",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -10684,7 +10707,10 @@
           "author": {
             "id": "https://openalex.org/A5102799927",
             "display_name": "Ali Aldawood",
-            "orcid": "https://orcid.org/0000-0002-9535-0825"
+            "orcid": "https://orcid.org/0000-0002-9535-0825",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9535-0825"
+            ]
           },
           "institutions": [
             {
@@ -10741,7 +10767,10 @@
           "author": {
             "id": "https://openalex.org/A5052123503",
             "display_name": "Ezzedeen Alfataierge",
-            "orcid": "https://orcid.org/0000-0003-4543-530X"
+            "orcid": "https://orcid.org/0000-0003-4543-530X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4543-530X"
+            ]
           },
           "institutions": [
             {
@@ -10798,7 +10827,8 @@
           "author": {
             "id": "https://openalex.org/A5020766559",
             "display_name": "Ali Shaiban",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -10845,11 +10875,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7224,
+      "fwci": 0.6913,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.6700706,
+        "value": 0.65809171,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11035,7 +11065,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 29,
+      "referenced_works_count": 30,
       "referenced_works": [
         "https://openalex.org/W1883731917",
         "https://openalex.org/W2026497869",
@@ -11050,6 +11080,7 @@
         "https://openalex.org/W2933456541",
         "https://openalex.org/W2955412401",
         "https://openalex.org/W2991811110",
+        "https://openalex.org/W2995848547",
         "https://openalex.org/W3048737892",
         "https://openalex.org/W3144035744",
         "https://openalex.org/W3144502051",
@@ -11559,7 +11590,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12031,9 +12062,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6899999976158142,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -14193,9 +14224,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.4300000071525574,
-          "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         }
       ],
       "x_sdgs": [],
@@ -16104,9 +16135,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7200000286102295,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "x_sdgs": [],
@@ -16988,9 +17019,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6600000262260437,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -18538,9 +18569,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8199999928474426,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -20097,9 +20128,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8100000023841858,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -22909,9 +22940,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6399999856948853,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -23664,9 +23695,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.6299999952316284,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "x_sdgs": [],
@@ -27167,9 +27198,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.4758980870246887,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "x_sdgs": [],

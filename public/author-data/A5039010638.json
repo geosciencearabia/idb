@@ -228,7 +228,7 @@
       {
         "id": "https://openalex.org/T12456",
         "display_name": "Geotourism and Geoheritage Conservation",
-        "value": 0.0002541,
+        "value": 0.000254,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -524,7 +524,10 @@
           "author": {
             "id": "https://openalex.org/A5039010638",
             "display_name": "Mohamed Omar Abouelresh",
-            "orcid": "https://orcid.org/0000-0002-4373-8713"
+            "orcid": "https://orcid.org/0000-0002-4373-8713",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4373-8713"
+            ]
           },
           "institutions": [
             {
@@ -561,7 +564,10 @@
           "author": {
             "id": "https://openalex.org/A5042762651",
             "display_name": "Roger M. Slatt",
-            "orcid": "https://orcid.org/0000-0003-4617-4113"
+            "orcid": "https://orcid.org/0000-0003-4617-4113",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4617-4113"
+            ]
           },
           "institutions": [
             {
@@ -601,11 +607,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 16.6314,
+      "fwci": 16.5239,
       "has_fulltext": false,
-      "cited_by_count": 258,
+      "cited_by_count": 259,
       "citation_normalized_percentile": {
-        "value": 0.99624829,
+        "value": 0.99618373,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -878,16 +884,16 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7900000214576721
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -1855,7 +1861,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2025,
@@ -1910,7 +1916,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2666,8 +2672,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4000000059604645,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.4000000059604645
         }
       ],
       "x_sdgs": [],
@@ -2680,8 +2686,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -3545,8 +3551,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -4374,16 +4380,16 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4399999976158142,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.4399999976158142
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2980007598.pdf",
@@ -5573,8 +5579,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/8",
-          "score": 0.6399999856948853,
-          "display_name": "Decent work and economic growth"
+          "display_name": "Decent work and economic growth",
+          "score": 0.6399999856948853
         }
       ],
       "x_sdgs": [],
@@ -5587,8 +5593,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -6198,8 +6204,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -7033,8 +7039,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -8096,8 +8102,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -9114,16 +9120,16 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4699999988079071,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.4699999988079071
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -10373,16 +10379,16 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4000000059604645,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.4000000059604645
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -11898,8 +11904,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -13605,8 +13611,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 114,
@@ -15095,8 +15101,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.75,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.75
         }
       ],
       "x_sdgs": [],
@@ -15114,8 +15120,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387404935.pdf",
@@ -16125,16 +16131,16 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6600000262260437,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6600000262260437
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -16289,7 +16295,10 @@
           "author": {
             "id": "https://openalex.org/A5026735444",
             "display_name": "Subhajit Sen",
-            "orcid": "https://orcid.org/0000-0002-8729-355X"
+            "orcid": "https://orcid.org/0000-0002-8729-355X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8729-355X"
+            ]
           },
           "institutions": [
             {
@@ -16326,7 +16335,10 @@
           "author": {
             "id": "https://openalex.org/A5039010638",
             "display_name": "Mohamed Omar Abouelresh",
-            "orcid": "https://orcid.org/0000-0002-4373-8713"
+            "orcid": "https://orcid.org/0000-0002-4373-8713",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4373-8713"
+            ]
           },
           "institutions": [
             {
@@ -16363,7 +16375,10 @@
           "author": {
             "id": "https://openalex.org/A5061144117",
             "display_name": "Thadickal V. Joydas",
-            "orcid": "https://orcid.org/0000-0002-6725-4094"
+            "orcid": "https://orcid.org/0000-0002-6725-4094",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6725-4094"
+            ]
           },
           "institutions": [
             {
@@ -16400,7 +16415,8 @@
           "author": {
             "id": "https://openalex.org/A5053999990",
             "display_name": "Ali H. Almusabeh",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -16437,7 +16453,10 @@
           "author": {
             "id": "https://openalex.org/A5102822130",
             "display_name": "Fahad Saleh Al–Ismail",
-            "orcid": "https://orcid.org/0000-0002-8743-5706"
+            "orcid": "https://orcid.org/0000-0002-8743-5706",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8743-5706"
+            ]
           },
           "institutions": [
             {
@@ -16474,7 +16493,8 @@
           "author": {
             "id": "https://openalex.org/A5093126377",
             "display_name": "Bruno Pulido",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -16507,11 +16527,11 @@
         "value_usd": 3690
       },
       "apc_paid": null,
-      "fwci": 6.332,
+      "fwci": 6.1989,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.96356716,
+        "value": 0.96221441,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16778,19 +16798,19 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7799999713897705,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7799999713897705
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 77,
+      "referenced_works_count": 78,
       "referenced_works": [
         "https://openalex.org/W77019426",
         "https://openalex.org/W630757218",
@@ -16811,6 +16831,7 @@
         "https://openalex.org/W2252646399",
         "https://openalex.org/W2292799448",
         "https://openalex.org/W2298570460",
+        "https://openalex.org/W2407710273",
         "https://openalex.org/W2478932601",
         "https://openalex.org/W2489461197",
         "https://openalex.org/W2500618303",
@@ -16897,7 +16918,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16968,7 +16989,10 @@
           "author": {
             "id": "https://openalex.org/A5026735444",
             "display_name": "Subhajit Sen",
-            "orcid": "https://orcid.org/0000-0002-8729-355X"
+            "orcid": "https://orcid.org/0000-0002-8729-355X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8729-355X"
+            ]
           },
           "institutions": [
             {
@@ -17005,7 +17029,10 @@
           "author": {
             "id": "https://openalex.org/A5039010638",
             "display_name": "Mohamed Omar Abouelresh",
-            "orcid": "https://orcid.org/0000-0002-4373-8713"
+            "orcid": "https://orcid.org/0000-0002-4373-8713",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4373-8713"
+            ]
           },
           "institutions": [
             {
@@ -17042,7 +17069,8 @@
           "author": {
             "id": "https://openalex.org/A5053999990",
             "display_name": "Ali H. Almusabeh",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -17079,7 +17107,10 @@
           "author": {
             "id": "https://openalex.org/A5102822130",
             "display_name": "Fahad Saleh Al–Ismail",
-            "orcid": "https://orcid.org/0000-0002-8743-5706"
+            "orcid": "https://orcid.org/0000-0002-8743-5706",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8743-5706"
+            ]
           },
           "institutions": [
             {
@@ -17127,11 +17158,11 @@
         "value_usd": 0
       },
       "apc_paid": null,
-      "fwci": 5.9362,
+      "fwci": 5.8115,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.95986949,
+        "value": 0.95891916,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17533,7 +17564,7 @@
         {
           "id": "https://openalex.org/F4320319142",
           "display_name": "Znanstveni centar izvrsnosti za napredne materijale i senzore, Hrvatska Zaklada za Znanost",
-          "ror": null
+          "ror": "https://ror.org/036xrj420"
         },
         {
           "id": "https://openalex.org/F4320322323",
@@ -17542,8 +17573,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -18101,7 +18132,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18831,8 +18862,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -19554,16 +19585,16 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2150830456.pdf",
@@ -21047,8 +21078,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 114,
@@ -22010,8 +22041,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -22616,8 +22647,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4099999964237213,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.4099999964237213
         }
       ],
       "x_sdgs": [],
@@ -22630,8 +22661,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 105,
@@ -23430,8 +23461,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -24304,8 +24335,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -24993,8 +25024,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -25121,7 +25152,10 @@
           "author": {
             "id": "https://openalex.org/A5026735444",
             "display_name": "Subhajit Sen",
-            "orcid": "https://orcid.org/0000-0002-8729-355X"
+            "orcid": "https://orcid.org/0000-0002-8729-355X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8729-355X"
+            ]
           },
           "institutions": [
             {
@@ -25163,7 +25197,10 @@
           "author": {
             "id": "https://openalex.org/A5039010638",
             "display_name": "Mohamed Omar Abouelresh",
-            "orcid": "https://orcid.org/0000-0002-4373-8713"
+            "orcid": "https://orcid.org/0000-0002-4373-8713",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4373-8713"
+            ]
           },
           "institutions": [
             {
@@ -25200,7 +25237,8 @@
           "author": {
             "id": "https://openalex.org/A5116618993",
             "display_name": "Hussam Zuhair Turki",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -25222,7 +25260,10 @@
           "author": {
             "id": "https://openalex.org/A5087617335",
             "display_name": "Haris Ahmed Khan",
-            "orcid": "https://orcid.org/0000-0001-8806-5199"
+            "orcid": "https://orcid.org/0000-0001-8806-5199",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8806-5199"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -25244,7 +25285,8 @@
           "author": {
             "id": "https://openalex.org/A5053999990",
             "display_name": "Ali H. Almusabeh",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -25281,7 +25323,10 @@
           "author": {
             "id": "https://openalex.org/A5048928058",
             "display_name": "Young Ng",
-            "orcid": "https://orcid.org/0000-0002-6066-5456"
+            "orcid": "https://orcid.org/0000-0002-6066-5456",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6066-5456"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -25303,7 +25348,10 @@
           "author": {
             "id": "https://openalex.org/A5102822130",
             "display_name": "Fahad Saleh Al–Ismail",
-            "orcid": "https://orcid.org/0000-0002-8743-5706"
+            "orcid": "https://orcid.org/0000-0002-8743-5706",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8743-5706"
+            ]
           },
           "institutions": [
             {
@@ -25351,11 +25399,11 @@
         "value_usd": 2490
       },
       "apc_paid": null,
-      "fwci": 1.7671,
+      "fwci": 1.7462,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.86089695,
+        "value": 0.85923178,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25645,11 +25693,11 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 46,
+      "referenced_works_count": 47,
       "referenced_works": [
         "https://openalex.org/W253435267",
         "https://openalex.org/W1573851682",
@@ -25667,6 +25715,7 @@
         "https://openalex.org/W2131113048",
         "https://openalex.org/W2161853037",
         "https://openalex.org/W2278199984",
+        "https://openalex.org/W2407710273",
         "https://openalex.org/W2460362857",
         "https://openalex.org/W2486467601",
         "https://openalex.org/W2510198534",
@@ -25706,7 +25755,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25778,7 +25827,10 @@
           "author": {
             "id": "https://openalex.org/A5026735444",
             "display_name": "Subhajit Sen",
-            "orcid": "https://orcid.org/0000-0002-8729-355X"
+            "orcid": "https://orcid.org/0000-0002-8729-355X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8729-355X"
+            ]
           },
           "institutions": [
             {
@@ -25825,7 +25877,8 @@
           "author": {
             "id": "https://openalex.org/A5116618993",
             "display_name": "Hussam Zuhair Turki",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -25852,7 +25905,10 @@
           "author": {
             "id": "https://openalex.org/A5087617335",
             "display_name": "Haris Ahmed Khan",
-            "orcid": "https://orcid.org/0000-0001-8806-5199"
+            "orcid": "https://orcid.org/0000-0001-8806-5199",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8806-5199"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -25879,7 +25935,8 @@
           "author": {
             "id": "https://openalex.org/A5143699335",
             "display_name": "Mohamad Sameh Mohamad Antar",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -25901,7 +25958,8 @@
           "author": {
             "id": "https://openalex.org/A5143681393",
             "display_name": "Mohamed Talaat El Hennawy",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -25914,9 +25972,10 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5143701999",
-            "display_name": "Ali Hassan Almusabeh",
-            "orcid": null
+            "id": "https://openalex.org/A5053999990",
+            "display_name": "Ali H. Almusabeh",
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -25953,7 +26012,8 @@
           "author": {
             "id": "https://openalex.org/A5114092907",
             "display_name": "Azher Hussain Syed",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -25990,7 +26050,8 @@
           "author": {
             "id": "https://openalex.org/A5088112668",
             "display_name": "Abhijit Santra",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -26027,7 +26088,10 @@
           "author": {
             "id": "https://openalex.org/A5039010638",
             "display_name": "Mohamed Omar Abouelresh",
-            "orcid": "https://orcid.org/0000-0002-4373-8713"
+            "orcid": "https://orcid.org/0000-0002-4373-8713",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4373-8713"
+            ]
           },
           "institutions": [
             {
@@ -26076,11 +26140,11 @@
         "value_usd": 2490
       },
       "apc_paid": null,
-      "fwci": 13.856,
+      "fwci": 13.5074,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.98580284,
+        "value": 0.98564879,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -26416,8 +26480,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -26469,7 +26533,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2026-07-28T00:00:00"
     },
     {
@@ -27177,8 +27241,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -28740,8 +28804,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8299999833106995
         }
       ],
       "x_sdgs": [],
@@ -28762,8 +28826,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 118,
@@ -29486,8 +29550,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -30748,8 +30812,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -31154,16 +31218,16 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46000000834465027,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.46000000834465027
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -31950,8 +32014,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -33279,16 +33343,16 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5099999904632568,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5099999904632568
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33830,8 +33894,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -33963,7 +34027,10 @@
           "author": {
             "id": "https://openalex.org/A5075429508",
             "display_name": "Amjed Hassan",
-            "orcid": "https://orcid.org/0000-0002-4487-6982"
+            "orcid": "https://orcid.org/0000-0002-4487-6982",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4487-6982"
+            ]
           },
           "institutions": [
             {
@@ -33998,9 +34065,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5022181105",
-            "display_name": "Mahmoud K. Elsayed",
-            "orcid": null
+            "id": "https://openalex.org/A5085377966",
+            "display_name": "Mahmoud Mohamed Elsayed",
+            "orcid": "https://orcid.org/0000-0002-8387-2810",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8387-2810"
+            ]
           },
           "institutions": [
             {
@@ -34037,7 +34107,10 @@
           "author": {
             "id": "https://openalex.org/A5067756597",
             "display_name": "Ali Oshaish",
-            "orcid": "https://orcid.org/0009-0003-9238-4397"
+            "orcid": "https://orcid.org/0009-0003-9238-4397",
+            "observed_orcids": [
+              "https://orcid.org/0009-0003-9238-4397"
+            ]
           },
           "institutions": [
             {
@@ -34074,7 +34147,8 @@
           "author": {
             "id": "https://openalex.org/A5024055548",
             "display_name": "Salah Al-Ofi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -34111,7 +34185,10 @@
           "author": {
             "id": "https://openalex.org/A5051304682",
             "display_name": "Ammar Ammar H. El-Husseiny",
-            "orcid": "https://orcid.org/0000-0001-5762-6109"
+            "orcid": "https://orcid.org/0000-0001-5762-6109",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5762-6109"
+            ]
           },
           "institutions": [
             {
@@ -34148,7 +34225,10 @@
           "author": {
             "id": "https://openalex.org/A5079903196",
             "display_name": "Israa S. Abu‐Mahfouz",
-            "orcid": "https://orcid.org/0000-0001-5832-7354"
+            "orcid": "https://orcid.org/0000-0001-5832-7354",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5832-7354"
+            ]
           },
           "institutions": [
             {
@@ -34185,7 +34265,10 @@
           "author": {
             "id": "https://openalex.org/A5049649985",
             "display_name": "MOHAMED A. MAHMOUD",
-            "orcid": "https://orcid.org/0000-0002-4395-9567"
+            "orcid": "https://orcid.org/0000-0002-4395-9567",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4395-9567"
+            ]
           },
           "institutions": [
             {
@@ -34222,7 +34305,10 @@
           "author": {
             "id": "https://openalex.org/A5039010638",
             "display_name": "Mohamed Omar Abouelresh",
-            "orcid": "https://orcid.org/0000-0002-4373-8713"
+            "orcid": "https://orcid.org/0000-0002-4373-8713",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4373-8713"
+            ]
           },
           "institutions": [
             {
@@ -34259,7 +34345,10 @@
           "author": {
             "id": "https://openalex.org/A5008145904",
             "display_name": "Hussein M. Attia",
-            "orcid": "https://orcid.org/0000-0002-6407-9251"
+            "orcid": "https://orcid.org/0000-0002-6407-9251",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6407-9251"
+            ]
           },
           "institutions": [
             {
@@ -34299,11 +34388,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.0163,
+      "fwci": 5.9993,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.96984641,
+        "value": 0.96955603,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -34540,8 +34629,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -35266,7 +35355,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35637,16 +35726,16 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2961227834.pdf",
@@ -36730,8 +36819,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -37532,8 +37621,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38034,16 +38123,16 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39116,8 +39205,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -40078,8 +40167,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "x_sdgs": [],
@@ -40102,8 +40191,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2073573915.pdf",
@@ -41026,8 +41115,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41960,16 +42049,16 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.49000000953674316,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.49000000953674316
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3175054679.pdf",
@@ -42621,16 +42710,16 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/8",
-          "score": 0.4399999976158142,
-          "display_name": "Decent work and economic growth"
+          "display_name": "Decent work and economic growth",
+          "score": 0.4399999976158142
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43538,8 +43627,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -44231,16 +44320,16 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.47999998927116394,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.47999998927116394
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -45681,8 +45770,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -47044,8 +47133,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -47502,8 +47591,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -48925,8 +49014,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -48978,6 +49067,1414 @@
       "counts_by_year": [],
       "updated_date": "2026-09-24T07:57:37.273135",
       "created_date": "2026-01-23T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7204596775",
+      "doi": "https://doi.org/10.1111/1440-1703.70118",
+      "title": "Bioaccumulation and Trophic Transfer of Heavy Metals in Terrestrial Soil–Plant–Insect Food Chains Within Agricultural Systems: Patterns, Mechanisms, and Ecological Implications",
+      "display_name": "Bioaccumulation and Trophic Transfer of Heavy Metals in Terrestrial Soil–Plant–Insect Food Chains Within Agricultural Systems: Patterns, Mechanisms, and Ecological Implications",
+      "publication_year": 2026,
+      "publication_date": "2026-08-28",
+      "ids": {
+        "openalex": "https://openalex.org/W7204596775",
+        "doi": "https://doi.org/10.1111/1440-1703.70118"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1111/1440-1703.70118",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1111/1440-1703.70118",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1440-1703.70118",
+        "source": {
+          "id": "https://openalex.org/S56956558",
+          "display_name": "Ecological Research",
+          "issn_l": "0912-3814",
+          "issn": [
+            "0912-3814",
+            "1440-1703"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Ecological Research",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1440-1703.70118",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5050840011",
+            "display_name": "Mohd Irfan Naikoo",
+            "orcid": "https://orcid.org/0000-0003-1121-1690",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1121-1690"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Mohd Irfan Naikoo",
+          "raw_affiliation_strings": [
+            "Applied Research Center for Environment and Marine Studies, Research &amp; Innovation, King Fahd University of Petroleum &amp; Minerals  Dhahran Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-1121-1690",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research &amp; Innovation, King Fahd University of Petroleum &amp; Minerals  Dhahran Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044218213",
+            "display_name": "Mazen Khaled Nazal",
+            "orcid": "https://orcid.org/0000-0001-5673-1900",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5673-1900"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mazen K. Nazal",
+          "raw_affiliation_strings": [
+            "Applied Research Center for Environment and Marine Studies, Research &amp; Innovation, King Fahd University of Petroleum &amp; Minerals  Dhahran Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research &amp; Innovation, King Fahd University of Petroleum &amp; Minerals  Dhahran Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039010638",
+            "display_name": "Mohamed Omar Abouelresh",
+            "orcid": "https://orcid.org/0000-0002-4373-8713",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4373-8713"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohamed O. Abouelresh",
+          "raw_affiliation_strings": [
+            "Applied Research Center for Environment and Marine Studies, Research &amp; Innovation, King Fahd University of Petroleum &amp; Minerals  Dhahran Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research &amp; Innovation, King Fahd University of Petroleum &amp; Minerals  Dhahran Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5147102665",
+            "display_name": "Naveen Kumar Veettil",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Naveen Kumar Vannaratta Veettil",
+          "raw_affiliation_strings": [
+            "Applied Research Center for Environment and Marine Studies, Research &amp; Innovation, King Fahd University of Petroleum &amp; Minerals  Dhahran Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research &amp; Innovation, King Fahd University of Petroleum &amp; Minerals  Dhahran Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5053999990",
+            "display_name": "Ali H. Almusabeh",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ali Hassan Almusabeh",
+          "raw_affiliation_strings": [
+            "Applied Research Center for Environment and Marine Studies, Research &amp; Innovation, King Fahd University of Petroleum &amp; Minerals  Dhahran Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research &amp; Innovation, King Fahd University of Petroleum &amp; Minerals  Dhahran Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5066017708",
+            "display_name": "Fauzia Naushin",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I171210897",
+              "display_name": "Aligarh Muslim University",
+              "ror": "https://ror.org/03kw9gc02",
+              "country_code": "IN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I171210897"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Fauzia Naushin",
+          "raw_affiliation_strings": [
+            "Botany Section Women's College, Aligarh Muslim University  Aligarh Uttar Pradesh India"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Botany Section Women's College, Aligarh Muslim University  Aligarh Uttar Pradesh India",
+              "institution_ids": [
+                "https://openalex.org/I171210897"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5120205827",
+            "display_name": "Luai M. Alhems",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Luai M. Alhems",
+          "raw_affiliation_strings": [
+            "Applied Research Center for Environment and Marine Studies, Research &amp; Innovation, King Fahd University of Petroleum &amp; Minerals  Dhahran Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, Research &amp; Innovation, King Fahd University of Petroleum &amp; Minerals  Dhahran Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5050840011"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 3000,
+        "currency": "USD",
+        "value_usd": 3000
+      },
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": true,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.66949186,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "41",
+        "issue": "5",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10139",
+        "display_name": "Heavy metals in environment",
+        "score": 0.8026000261306763,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2310",
+          "display_name": "Pollution"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10139",
+          "display_name": "Heavy metals in environment",
+          "score": 0.8026000261306763,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2310",
+            "display_name": "Pollution"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10447",
+          "display_name": "Environmental Toxicology and Ecotoxicology",
+          "score": 0.11400000005960464,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2307",
+            "display_name": "Health, Toxicology and Mutagenesis"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10014",
+          "display_name": "Plant Stress Responses and Tolerance",
+          "score": 0.010900000110268593,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1110",
+            "display_name": "Plant Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/11",
+            "display_name": "Agricultural and Biological Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/trophic-level",
+          "display_name": "Trophic level",
+          "score": 0.9277999997138977
+        },
+        {
+          "id": "https://openalex.org/keywords/food-chain",
+          "display_name": "Food chain",
+          "score": 0.8826000094413757
+        },
+        {
+          "id": "https://openalex.org/keywords/biomagnification",
+          "display_name": "Biomagnification",
+          "score": 0.8100000023841858
+        },
+        {
+          "id": "https://openalex.org/keywords/bioaccumulation",
+          "display_name": "Bioaccumulation",
+          "score": 0.7889999747276306
+        },
+        {
+          "id": "https://openalex.org/keywords/terrestrial-ecosystem",
+          "display_name": "Terrestrial ecosystem",
+          "score": 0.5843999981880188
+        },
+        {
+          "id": "https://openalex.org/keywords/ecosystem",
+          "display_name": "Ecosystem",
+          "score": 0.517300009727478
+        },
+        {
+          "id": "https://openalex.org/keywords/food-web",
+          "display_name": "Food web",
+          "score": 0.4902999997138977
+        },
+        {
+          "id": "https://openalex.org/keywords/agriculture",
+          "display_name": "Agriculture",
+          "score": 0.44699999690055847
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C72958200",
+          "wikidata": "https://www.wikidata.org/wiki/Q1053008",
+          "display_name": "Trophic level",
+          "level": 2,
+          "score": 0.9277999997138977
+        },
+        {
+          "id": "https://openalex.org/C155373166",
+          "wikidata": "https://www.wikidata.org/wiki/Q159462",
+          "display_name": "Food chain",
+          "level": 2,
+          "score": 0.8826000094413757
+        },
+        {
+          "id": "https://openalex.org/C8139548",
+          "wikidata": "https://www.wikidata.org/wiki/Q2304799",
+          "display_name": "Biomagnification",
+          "level": 3,
+          "score": 0.8100000023841858
+        },
+        {
+          "id": "https://openalex.org/C71572567",
+          "wikidata": "https://www.wikidata.org/wiki/Q864231",
+          "display_name": "Bioaccumulation",
+          "level": 2,
+          "score": 0.7889999747276306
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.6449000239372253
+        },
+        {
+          "id": "https://openalex.org/C65680412",
+          "wikidata": "https://www.wikidata.org/wiki/Q3718755",
+          "display_name": "Terrestrial ecosystem",
+          "level": 3,
+          "score": 0.5843999981880188
+        },
+        {
+          "id": "https://openalex.org/C110872660",
+          "wikidata": "https://www.wikidata.org/wiki/Q37813",
+          "display_name": "Ecosystem",
+          "level": 2,
+          "score": 0.517300009727478
+        },
+        {
+          "id": "https://openalex.org/C109931610",
+          "wikidata": "https://www.wikidata.org/wiki/Q1775153",
+          "display_name": "Food web",
+          "level": 3,
+          "score": 0.4902999997138977
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.4722999930381775
+        },
+        {
+          "id": "https://openalex.org/C118518473",
+          "wikidata": "https://www.wikidata.org/wiki/Q11451",
+          "display_name": "Agriculture",
+          "level": 2,
+          "score": 0.44699999690055847
+        },
+        {
+          "id": "https://openalex.org/C170859357",
+          "wikidata": "https://www.wikidata.org/wiki/Q131427",
+          "display_name": "Primary producers",
+          "level": 4,
+          "score": 0.3921999931335449
+        },
+        {
+          "id": "https://openalex.org/C159750122",
+          "wikidata": "https://www.wikidata.org/wiki/Q96621023",
+          "display_name": "Soil water",
+          "level": 2,
+          "score": 0.35589998960494995
+        },
+        {
+          "id": "https://openalex.org/C2776053758",
+          "wikidata": "https://www.wikidata.org/wiki/Q105789",
+          "display_name": "Heavy metals",
+          "level": 2,
+          "score": 0.34790000319480896
+        },
+        {
+          "id": "https://openalex.org/C175327387",
+          "wikidata": "https://www.wikidata.org/wiki/Q3289906",
+          "display_name": "Aquatic ecosystem",
+          "level": 2,
+          "score": 0.3433000147342682
+        },
+        {
+          "id": "https://openalex.org/C107872376",
+          "wikidata": "https://www.wikidata.org/wiki/Q321355",
+          "display_name": "Environmental chemistry",
+          "level": 1,
+          "score": 0.323199987411499
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.30709999799728394
+        },
+        {
+          "id": "https://openalex.org/C2776713116",
+          "wikidata": "https://www.wikidata.org/wiki/Q751760",
+          "display_name": "Honeydew",
+          "level": 2,
+          "score": 0.29490000009536743
+        },
+        {
+          "id": "https://openalex.org/C12949176",
+          "wikidata": "https://www.wikidata.org/wiki/Q4671452",
+          "display_name": "Terrestrial plant",
+          "level": 2,
+          "score": 0.2930000126361847
+        },
+        {
+          "id": "https://openalex.org/C73447217",
+          "wikidata": "https://www.wikidata.org/wiki/Q5333258",
+          "display_name": "Ecological stoichiometry",
+          "level": 3,
+          "score": 0.26440000534057617
+        },
+        {
+          "id": "https://openalex.org/C2909641344",
+          "wikidata": "https://www.wikidata.org/wiki/Q6980681",
+          "display_name": "Whole food",
+          "level": 2,
+          "score": 0.26260000467300415
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1111/1440-1703.70118",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1111/1440-1703.70118",
+          "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1440-1703.70118",
+          "source": {
+            "id": "https://openalex.org/S56956558",
+            "display_name": "Ecological Research",
+            "issn_l": "0912-3814",
+            "issn": [
+              "0912-3814",
+              "1440-1703"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Ecological Research",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1111/1440-1703.70118",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1111/1440-1703.70118",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1440-1703.70118",
+        "source": {
+          "id": "https://openalex.org/S56956558",
+          "display_name": "Ecological Research",
+          "issn_l": "0912-3814",
+          "issn": [
+            "0912-3814",
+            "1440-1703"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Ecological Research",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/2",
+          "display_name": "Zero hunger",
+          "score": 0.5606032609939575
+        }
+      ],
+      "x_sdgs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W7204596775.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W7204596775.grobid-xml"
+      },
+      "referenced_works_count": 80,
+      "referenced_works": [
+        "https://openalex.org/W128289094",
+        "https://openalex.org/W1053460912",
+        "https://openalex.org/W1466703591",
+        "https://openalex.org/W1966451404",
+        "https://openalex.org/W1966546646",
+        "https://openalex.org/W1976416147",
+        "https://openalex.org/W1983518034",
+        "https://openalex.org/W1990751822",
+        "https://openalex.org/W1990936465",
+        "https://openalex.org/W1990999444",
+        "https://openalex.org/W2002924950",
+        "https://openalex.org/W2003359867",
+        "https://openalex.org/W2003771626",
+        "https://openalex.org/W2005879575",
+        "https://openalex.org/W2015643746",
+        "https://openalex.org/W2020260065",
+        "https://openalex.org/W2021755915",
+        "https://openalex.org/W2024160896",
+        "https://openalex.org/W2025809070",
+        "https://openalex.org/W2029179522",
+        "https://openalex.org/W2030773523",
+        "https://openalex.org/W2033858545",
+        "https://openalex.org/W2033951690",
+        "https://openalex.org/W2038446744",
+        "https://openalex.org/W2040734647",
+        "https://openalex.org/W2045458106",
+        "https://openalex.org/W2045505489",
+        "https://openalex.org/W2046003961",
+        "https://openalex.org/W2052138755",
+        "https://openalex.org/W2052445177",
+        "https://openalex.org/W2054518237",
+        "https://openalex.org/W2054655262",
+        "https://openalex.org/W2056312698",
+        "https://openalex.org/W2058692578",
+        "https://openalex.org/W2066910766",
+        "https://openalex.org/W2068848097",
+        "https://openalex.org/W2074462889",
+        "https://openalex.org/W2078732690",
+        "https://openalex.org/W2085163063",
+        "https://openalex.org/W2091075908",
+        "https://openalex.org/W2108791511",
+        "https://openalex.org/W2112824566",
+        "https://openalex.org/W2123398717",
+        "https://openalex.org/W2135499016",
+        "https://openalex.org/W2136748361",
+        "https://openalex.org/W2141243665",
+        "https://openalex.org/W2150114209",
+        "https://openalex.org/W2150488783",
+        "https://openalex.org/W2156258253",
+        "https://openalex.org/W2166257060",
+        "https://openalex.org/W2179753067",
+        "https://openalex.org/W2202098217",
+        "https://openalex.org/W2234401678",
+        "https://openalex.org/W2237039149",
+        "https://openalex.org/W2316314360",
+        "https://openalex.org/W2325112381",
+        "https://openalex.org/W2556713016",
+        "https://openalex.org/W2562903440",
+        "https://openalex.org/W2582371243",
+        "https://openalex.org/W2619478777",
+        "https://openalex.org/W2794265242",
+        "https://openalex.org/W2804360452",
+        "https://openalex.org/W2897984002",
+        "https://openalex.org/W2903454720",
+        "https://openalex.org/W2957729375",
+        "https://openalex.org/W3013593214",
+        "https://openalex.org/W3083126743",
+        "https://openalex.org/W3152702139",
+        "https://openalex.org/W3156397992",
+        "https://openalex.org/W4230041736",
+        "https://openalex.org/W4322620023",
+        "https://openalex.org/W4390629745",
+        "https://openalex.org/W4391906552",
+        "https://openalex.org/W4401963819",
+        "https://openalex.org/W4405870387",
+        "https://openalex.org/W4415063314",
+        "https://openalex.org/W4416096040",
+        "https://openalex.org/W7125834719",
+        "https://openalex.org/W7160419789",
+        "https://openalex.org/W7161139805"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "ABSTRACT": [
+          0
+        ],
+        "Heavy": [
+          1
+        ],
+        "metal": [
+          2,
+          148,
+          179,
+          189,
+          246
+        ],
+        "contamination": [
+          3
+        ],
+        "is": [
+          4,
+          61,
+          155,
+          191
+        ],
+        "a": [
+          5
+        ],
+        "persistent": [
+          6
+        ],
+        "environmental": [
+          7
+        ],
+        "problem": [
+          8
+        ],
+        "in": [
+          9,
+          15,
+          64,
+          98,
+          199,
+          212
+        ],
+        "terrestrial": [
+          10,
+          29,
+          99
+        ],
+        "ecosystems,": [
+          11,
+          71
+        ],
+        "where": [
+          12,
+          72
+        ],
+        "metals": [
+          13,
+          32,
+          97,
+          125
+        ],
+        "present": [
+          14
+        ],
+        "soils": [
+          16,
+          36
+        ],
+        "can": [
+          17,
+          177
+        ],
+        "enter": [
+          18
+        ],
+        "food": [
+          19,
+          57,
+          101
+        ],
+        "chains": [
+          20
+        ],
+        "and": [
+          21,
+          39,
+          44,
+          93,
+          113,
+          123,
+          131,
+          133,
+          144,
+          159,
+          167,
+          174,
+          194,
+          204,
+          233
+        ],
+        "affect": [
+          22
+        ],
+        "organisms": [
+          23
+        ],
+        "across": [
+          24,
+          150,
+          223
+        ],
+        "multiple": [
+          25
+        ],
+        "trophic": [
+          26,
+          91,
+          151,
+          200
+        ],
+        "levels.": [
+          27,
+          152
+        ],
+        "In": [
+          28
+        ],
+        "systems,": [
+          30,
+          214
+        ],
+        "heavy": [
+          31,
+          96
+        ],
+        "are": [
+          33
+        ],
+        "transferred": [
+          34
+        ],
+        "from": [
+          35,
+          106
+        ],
+        "to": [
+          37,
+          41,
+          157,
+          165,
+          181,
+          197,
+          239
+        ],
+        "plants": [
+          38
+        ],
+        "subsequently": [
+          40
+        ],
+        "phytophagous": [
+          42
+        ],
+        "insects": [
+          43
+        ],
+        "their": [
+          45
+        ],
+        "predators,": [
+          46
+        ],
+        "yet": [
+          47
+        ],
+        "these": [
+          48
+        ],
+        "pathways": [
+          49,
+          169
+        ],
+        "have": [
+          50
+        ],
+        "received": [
+          51
+        ],
+        "less": [
+          52
+        ],
+        "integrated": [
+          53
+        ],
+        "attention": [
+          54,
+          154
+        ],
+        "than": [
+          55
+        ],
+        "aquatic": [
+          56
+        ],
+        "webs.": [
+          58
+        ],
+        "This": [
+          59,
+          83
+        ],
+        "issue": [
+          60
+        ],
+        "especially": [
+          62
+        ],
+        "relevant": [
+          63
+        ],
+        "naturally": [
+          65
+        ],
+        "metal‐rich": [
+          66
+        ],
+        "environments": [
+          67
+        ],
+        "such": [
+          68,
+          170
+        ],
+        "as": [
+          69,
+          109,
+          111,
+          162,
+          164,
+          171
+        ],
+        "serpentine": [
+          70
+        ],
+        "elevated": [
+          73
+        ],
+        "concentrations": [
+          74
+        ],
+        "of": [
+          75,
+          95,
+          120
+        ],
+        "metals,": [
+          76
+        ],
+        "particularly": [
+          77
+        ],
+        "nickel,": [
+          78
+        ],
+        "strongly": [
+          79
+        ],
+        "shape": [
+          80
+        ],
+        "plant–insect": [
+          81
+        ],
+        "interactions.": [
+          82
+        ],
+        "review": [
+          84,
+          186
+        ],
+        "synthesizes": [
+          85
+        ],
+        "current": [
+          86
+        ],
+        "knowledge": [
+          87,
+          231
+        ],
+        "on": [
+          88,
+          104
+        ],
+        "the": [
+          89,
+          118,
+          185,
+          216
+        ],
+        "bioaccumulation,": [
+          90
+        ],
+        "transfer,": [
+          92
+        ],
+        "elimination": [
+          94,
+          168
+        ],
+        "soil–plant–insect": [
+          100
+        ],
+        "chains,": [
+          102
+        ],
+        "drawing": [
+          103
+        ],
+        "evidence": [
+          105
+        ],
+        "natural": [
+          107,
+          224
+        ],
+        "ecosystems": [
+          108
+        ],
+        "well": [
+          110,
+          163
+        ],
+        "laboratory": [
+          112
+        ],
+        "field": [
+          114
+        ],
+        "studies.": [
+          115
+        ],
+        "We": [
+          116,
+          226
+        ],
+        "examine": [
+          117
+        ],
+        "behavior": [
+          119
+        ],
+        "key": [
+          121,
+          230
+        ],
+        "essential": [
+          122
+        ],
+        "non‐essential": [
+          124
+        ],
+        "(Cd,": [
+          126
+        ],
+        "Zn,": [
+          127
+        ],
+        "Pb,": [
+          128
+        ],
+        "Hg,": [
+          129
+        ],
+        "Cu,": [
+          130
+        ],
+        "Ni)": [
+          132
+        ],
+        "highlight": [
+          134
+        ],
+        "how": [
+          135
+        ],
+        "soil": [
+          136
+        ],
+        "properties,": [
+          137
+        ],
+        "plant": [
+          138
+        ],
+        "uptake": [
+          139
+        ],
+        "mechanisms,": [
+          140
+        ],
+        "insect": [
+          141
+        ],
+        "feeding": [
+          142
+        ],
+        "strategies,": [
+          143
+        ],
+        "detoxification": [
+          145
+        ],
+        "processes": [
+          146
+        ],
+        "regulate": [
+          147
+        ],
+        "movement": [
+          149
+        ],
+        "Particular": [
+          153
+        ],
+        "given": [
+          156
+        ],
+        "bioaccumulation": [
+          158
+        ],
+        "biomagnification": [
+          160
+        ],
+        "patterns,": [
+          161
+        ],
+        "excretion": [
+          166
+        ],
+        "honeydew": [
+          172
+        ],
+        "production": [
+          173
+        ],
+        "molting": [
+          175
+        ],
+        "that": [
+          176,
+          188
+        ],
+        "limit": [
+          178
+        ],
+        "transfer": [
+          180,
+          190
+        ],
+        "higher": [
+          182
+        ],
+        "consumers.": [
+          183
+        ],
+        "Overall,": [
+          184
+        ],
+        "shows": [
+          187
+        ],
+        "highly": [
+          192
+        ],
+        "species": [
+          193
+        ],
+        "metal‐specific,": [
+          195
+        ],
+        "leading": [
+          196
+        ],
+        "changes": [
+          198
+        ],
+        "interactions,": [
+          201
+        ],
+        "community": [
+          202
+        ],
+        "structure,": [
+          203
+        ],
+        "ecosystem": [
+          205
+        ],
+        "functioning.": [
+          206
+        ],
+        "Most": [
+          207
+        ],
+        "available": [
+          208
+        ],
+        "studies": [
+          209
+        ],
+        "were": [
+          210
+        ],
+        "conducted": [
+          211
+        ],
+        "agricultural": [
+          213
+        ],
+        "highlighting": [
+          215
+        ],
+        "need": [
+          217
+        ],
+        "for": [
+          218
+        ],
+        "more": [
+          219
+        ],
+        "field‐based": [
+          220
+        ],
+        "ecological": [
+          221,
+          242
+        ],
+        "investigations": [
+          222
+        ],
+        "ecosystems.": [
+          225
+        ],
+        "conclude": [
+          227
+        ],
+        "by": [
+          228
+        ],
+        "identifying": [
+          229
+        ],
+        "gaps": [
+          232
+        ],
+        "outlining": [
+          234
+        ],
+        "future": [
+          235
+        ],
+        "research": [
+          236
+        ],
+        "directions": [
+          237
+        ],
+        "needed": [
+          238
+        ],
+        "better": [
+          240
+        ],
+        "predict": [
+          241
+        ],
+        "risks": [
+          243
+        ],
+        "under": [
+          244
+        ],
+        "increasing": [
+          245
+        ],
+        "contamination.": [
+          247
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-09-25T08:18:29.962427",
+      "created_date": "2026-08-29T00:00:00"
     }
   ]
 }

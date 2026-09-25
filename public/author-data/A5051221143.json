@@ -1018,8 +1018,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -1360,8 +1360,10 @@
           "author": {
             "id": "https://openalex.org/A5111646354",
             "display_name": "Hafsia Ben Rhaiem",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0001-8598-2047",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8598-2047"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -1396,11 +1398,11 @@
         "currency": "USD",
         "value_usd": 1630
       },
-      "fwci": 1.1128,
+      "fwci": 1.1066,
       "has_fulltext": true,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.79415101,
+        "value": 0.79289978,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2306,7 +2308,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2920,8 +2922,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.5600000023841858,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5600000023841858
         }
       ],
       "x_sdgs": [],
@@ -4003,8 +4005,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -5736,8 +5738,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.47999998927116394
         }
       ],
       "x_sdgs": [],
@@ -7841,8 +7843,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5799999833106995
         }
       ],
       "x_sdgs": [],
@@ -8976,8 +8978,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -9365,8 +9367,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.4000000059604645
         }
       ],
       "x_sdgs": [],
@@ -10764,8 +10766,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Sustainable cities and communities",
-          "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.5699999928474426
         }
       ],
       "x_sdgs": [],
@@ -11090,7 +11092,10 @@
           "author": {
             "id": "https://openalex.org/A5101690321",
             "display_name": "Benmohamed Mohammed",
-            "orcid": "https://orcid.org/0000-0002-7073-8225"
+            "orcid": "https://orcid.org/0000-0002-7073-8225",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7073-8225"
+            ]
           },
           "institutions": [
             {
@@ -11127,7 +11132,10 @@
           "author": {
             "id": "https://openalex.org/A5021087468",
             "display_name": "Haykel Galai",
-            "orcid": "https://orcid.org/0000-0002-4349-7438"
+            "orcid": "https://orcid.org/0000-0002-4349-7438",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4349-7438"
+            ]
           },
           "institutions": [
             {
@@ -11171,7 +11179,8 @@
           "author": {
             "id": "https://openalex.org/A5051221143",
             "display_name": "Rabah Alouani",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -11208,7 +11217,8 @@
           "author": {
             "id": null,
             "display_name": "Bejaoui Marouene",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -11245,7 +11255,8 @@
           "author": {
             "id": "https://openalex.org/A5006315734",
             "display_name": "Ben Haj Amara Abdessalem",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -11280,9 +11291,10 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5072712416",
-            "display_name": "Ben Rhaim Hafsia",
-            "orcid": null
+            "id": "https://openalex.org/A5062040378",
+            "display_name": "Ben Rhaiem Hafsia",
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -11334,7 +11346,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.20432241,
+        "value": 0.20433971,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11705,7 +11717,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12203,8 +12215,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8100000023841858
         }
       ],
       "x_sdgs": [],
@@ -12617,8 +12629,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -14991,8 +15003,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6600000262260437
         }
       ],
       "x_sdgs": [],

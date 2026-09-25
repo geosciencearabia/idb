@@ -13,9 +13,9 @@
     ],
     "full_name": "Mohammad Eid Alsuwaidi",
     "works_count": 49,
-    "cited_by_count": 386,
+    "cited_by_count": 387,
     "summary_stats": {
-      "2yr_mean_citedness": 3.8260869565217392,
+      "2yr_mean_citedness": 3.869565217391304,
       "h_index": 13,
       "i10_index": 15
     },
@@ -230,7 +230,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000722,
+        "value": 0.0000721,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -381,7 +381,7 @@
         "year": 2024,
         "works_count": 10,
         "oa_works_count": 5,
-        "cited_by_count": 72
+        "cited_by_count": 73
       },
       {
         "year": 2025,
@@ -403,7 +403,7 @@
     ],
     "block_key": "m alsuwaidi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5018306569",
-    "updated_date": "2026-09-23T12:19:55",
+    "updated_date": "2026-09-24T12:17:56",
     "created_date": "2020-09-14T00:00:00"
   },
   "works": [
@@ -14358,7 +14358,10 @@
           "author": {
             "id": "https://openalex.org/A5010834212",
             "display_name": "Tianyu Cao",
-            "orcid": "https://orcid.org/0000-0002-1526-4995"
+            "orcid": "https://orcid.org/0000-0002-1526-4995",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1526-4995"
+            ]
           },
           "institutions": [
             {
@@ -14395,7 +14398,10 @@
           "author": {
             "id": "https://openalex.org/A5018306569",
             "display_name": "Mohammad Alsuwaidi",
-            "orcid": "https://orcid.org/0000-0002-2477-0654"
+            "orcid": "https://orcid.org/0000-0002-2477-0654",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2477-0654"
+            ]
           },
           "institutions": [
             {
@@ -14432,7 +14438,10 @@
           "author": {
             "id": "https://openalex.org/A5009947929",
             "display_name": "Gilad Antler",
-            "orcid": "https://orcid.org/0000-0002-6865-5412"
+            "orcid": "https://orcid.org/0000-0002-6865-5412",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6865-5412"
+            ]
           },
           "institutions": [
             {
@@ -14486,7 +14495,8 @@
           "author": {
             "id": "https://openalex.org/A5108978062",
             "display_name": "Guibin Zhao",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -14523,7 +14533,10 @@
           "author": {
             "id": "https://openalex.org/A5057027693",
             "display_name": "Sadoon Morad",
-            "orcid": "https://orcid.org/0000-0002-8214-0896"
+            "orcid": "https://orcid.org/0000-0002-8214-0896",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8214-0896"
+            ]
           },
           "institutions": [
             {
@@ -14571,11 +14584,11 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 6.1212,
+      "fwci": 6.0293,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.95609162,
+        "value": 0.95533657,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14963,7 +14976,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 166,
+      "referenced_works_count": 167,
       "referenced_works": [
         "https://openalex.org/W121857346",
         "https://openalex.org/W318147160",
@@ -14972,6 +14985,7 @@
         "https://openalex.org/W1505105687",
         "https://openalex.org/W1507515467",
         "https://openalex.org/W1563041753",
+        "https://openalex.org/W1597269286",
         "https://openalex.org/W1608694173",
         "https://openalex.org/W1721554464",
         "https://openalex.org/W1943121318",
@@ -15155,7 +15169,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17161,7 +17175,10 @@
           "author": {
             "id": "https://openalex.org/A5047944312",
             "display_name": "Ibrahim Mohammed",
-            "orcid": "https://orcid.org/0000-0002-5650-4588"
+            "orcid": "https://orcid.org/0000-0002-5650-4588",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5650-4588"
+            ]
           },
           "institutions": [
             {
@@ -17205,7 +17222,10 @@
           "author": {
             "id": "https://openalex.org/A5004740184",
             "display_name": "Sherif Farouk",
-            "orcid": "https://orcid.org/0000-0003-1133-7461"
+            "orcid": "https://orcid.org/0000-0003-1133-7461",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1133-7461"
+            ]
           },
           "institutions": [
             {
@@ -17249,7 +17269,10 @@
           "author": {
             "id": "https://openalex.org/A5110758005",
             "display_name": "Fadhil Ahmed Ameen Lawa",
-            "orcid": "https://orcid.org/0000-0003-4856-6719"
+            "orcid": "https://orcid.org/0000-0003-4856-6719",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4856-6719"
+            ]
           },
           "institutions": [
             {
@@ -17293,7 +17316,10 @@
           "author": {
             "id": "https://openalex.org/A5018306569",
             "display_name": "Mohammad Alsuwaidi",
-            "orcid": "https://orcid.org/0000-0002-2477-0654"
+            "orcid": "https://orcid.org/0000-0002-2477-0654",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2477-0654"
+            ]
           },
           "institutions": [
             {
@@ -17337,7 +17363,10 @@
           "author": {
             "id": "https://openalex.org/A5057027693",
             "display_name": "Sadoon Morad",
-            "orcid": "https://orcid.org/0000-0002-8214-0896"
+            "orcid": "https://orcid.org/0000-0002-8214-0896",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8214-0896"
+            ]
           },
           "institutions": [
             {
@@ -17392,11 +17421,11 @@
         "value_usd": 3500
       },
       "apc_paid": null,
-      "fwci": 2.7052,
+      "fwci": 2.6722,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.89021934,
+        "value": 0.88896412,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17697,9 +17726,10 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 69,
+      "referenced_works_count": 70,
       "referenced_works": [
         "https://openalex.org/W651893707",
+        "https://openalex.org/W1498877843",
         "https://openalex.org/W1533729466",
         "https://openalex.org/W1851947372",
         "https://openalex.org/W1941753701",
@@ -18285,7 +18315,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24193,7 +24223,10 @@
           "author": {
             "id": "https://openalex.org/A5041641220",
             "display_name": "Ahmed Abdeldaim",
-            "orcid": "https://orcid.org/0000-0002-1869-8131"
+            "orcid": "https://orcid.org/0000-0002-1869-8131",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1869-8131"
+            ]
           },
           "institutions": [
             {
@@ -24230,7 +24263,10 @@
           "author": {
             "id": "https://openalex.org/A5004740184",
             "display_name": "Sherif Farouk",
-            "orcid": "https://orcid.org/0000-0003-1133-7461"
+            "orcid": "https://orcid.org/0000-0003-1133-7461",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1133-7461"
+            ]
           },
           "institutions": [
             {
@@ -24267,7 +24303,10 @@
           "author": {
             "id": "https://openalex.org/A5050324042",
             "display_name": "Wolfgang Ruebsam",
-            "orcid": "https://orcid.org/0000-0003-3952-7830"
+            "orcid": "https://orcid.org/0000-0003-3952-7830",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3952-7830"
+            ]
           },
           "institutions": [
             {
@@ -24304,7 +24343,10 @@
           "author": {
             "id": "https://openalex.org/A5001905156",
             "display_name": "Zaineb Elamri",
-            "orcid": "https://orcid.org/0000-0002-1616-6078"
+            "orcid": "https://orcid.org/0000-0002-1616-6078",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1616-6078"
+            ]
           },
           "institutions": [
             {
@@ -24341,7 +24383,10 @@
           "author": {
             "id": "https://openalex.org/A5018306569",
             "display_name": "Mohammad Alsuwaidi",
-            "orcid": "https://orcid.org/0000-0002-2477-0654"
+            "orcid": "https://orcid.org/0000-0002-2477-0654",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2477-0654"
+            ]
           },
           "institutions": [
             {
@@ -24376,9 +24421,12 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5100203938",
-            "display_name": "Khaled Al-Kahtany",
-            "orcid": null
+            "id": "https://openalex.org/A5036995255",
+            "display_name": "Khaled M. Al-Kahtany",
+            "orcid": "https://orcid.org/0000-0003-2813-1013",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2813-1013"
+            ]
           },
           "institutions": [
             {
@@ -24426,11 +24474,11 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 2.9025,
+      "fwci": 2.7653,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.88599773,
+        "value": 0.87894692,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24839,7 +24887,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30625,7 +30673,10 @@
           "author": {
             "id": "https://openalex.org/A5004740184",
             "display_name": "Sherif Farouk",
-            "orcid": "https://orcid.org/0000-0003-1133-7461"
+            "orcid": "https://orcid.org/0000-0003-1133-7461",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1133-7461"
+            ]
           },
           "institutions": [
             {
@@ -30662,7 +30713,10 @@
           "author": {
             "id": "https://openalex.org/A5041641220",
             "display_name": "Ahmed Abdeldaim",
-            "orcid": "https://orcid.org/0000-0002-1869-8131"
+            "orcid": "https://orcid.org/0000-0002-1869-8131",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1869-8131"
+            ]
           },
           "institutions": [
             {
@@ -30699,7 +30753,10 @@
           "author": {
             "id": "https://openalex.org/A5101975062",
             "display_name": "Fayez Ahmad",
-            "orcid": "https://orcid.org/0000-0002-9307-4513"
+            "orcid": "https://orcid.org/0000-0002-9307-4513",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9307-4513"
+            ]
           },
           "institutions": [
             {
@@ -30736,7 +30793,10 @@
           "author": {
             "id": "https://openalex.org/A5050324042",
             "display_name": "Wolfgang Ruebsam",
-            "orcid": "https://orcid.org/0000-0003-3952-7830"
+            "orcid": "https://orcid.org/0000-0003-3952-7830",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3952-7830"
+            ]
           },
           "institutions": [
             {
@@ -30773,7 +30833,10 @@
           "author": {
             "id": "https://openalex.org/A5018306569",
             "display_name": "Mohammad Alsuwaidi",
-            "orcid": "https://orcid.org/0000-0002-2477-0654"
+            "orcid": "https://orcid.org/0000-0002-2477-0654",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2477-0654"
+            ]
           },
           "institutions": [
             {
@@ -30808,9 +30871,12 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5100203938",
-            "display_name": "Khaled Al-Kahtany",
-            "orcid": null
+            "id": "https://openalex.org/A5036995255",
+            "display_name": "Khaled M. Al-Kahtany",
+            "orcid": "https://orcid.org/0000-0003-2813-1013",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2813-1013"
+            ]
           },
           "institutions": [
             {
@@ -30854,11 +30920,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 3.3336,
+      "fwci": 3.2416,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.89579494,
+        "value": 0.8927626,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31268,7 +31334,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -31928,7 +31994,10 @@
           "author": {
             "id": "https://openalex.org/A5024513089",
             "display_name": "Sruthi Padampath Sreenivasan",
-            "orcid": "https://orcid.org/0000-0003-0999-2846"
+            "orcid": "https://orcid.org/0000-0003-0999-2846",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0999-2846"
+            ]
           },
           "institutions": [
             {
@@ -31965,7 +32034,10 @@
           "author": {
             "id": "https://openalex.org/A5012668465",
             "display_name": "Thomas Steuber",
-            "orcid": "https://orcid.org/0000-0003-3342-9885"
+            "orcid": "https://orcid.org/0000-0003-3342-9885",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3342-9885"
+            ]
           },
           "institutions": [
             {
@@ -32002,7 +32074,10 @@
           "author": {
             "id": "https://openalex.org/A5018306569",
             "display_name": "Mohammad Alsuwaidi",
-            "orcid": "https://orcid.org/0000-0002-2477-0654"
+            "orcid": "https://orcid.org/0000-0002-2477-0654",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2477-0654"
+            ]
           },
           "institutions": [
             {
@@ -32039,7 +32114,8 @@
           "author": {
             "id": "https://openalex.org/A5107845168",
             "display_name": "Michael Wiedenbeck",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -32075,9 +32151,10 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5125721391",
+            "id": "https://openalex.org/A5004319348",
             "display_name": "Ikfi Maasyi Hanif",
-            "orcid": "https://orcid.org/0009-0005-3877-0937"
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -32114,7 +32191,10 @@
           "author": {
             "id": "https://openalex.org/A5146682406",
             "display_name": "Khaled Mohamed",
-            "orcid": "https://orcid.org/0009-0002-3996-8396"
+            "orcid": "https://orcid.org/0009-0002-3996-8396",
+            "observed_orcids": [
+              "https://orcid.org/0009-0002-3996-8396"
+            ]
           },
           "institutions": [
             {
@@ -32180,11 +32260,11 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 8.8728,
+      "fwci": 8.5727,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.93860459,
+        "value": 0.93684877,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -33145,7 +33225,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2026-02-13T00:00:00"
     },
     {
@@ -50461,7 +50541,10 @@
           "author": {
             "id": "https://openalex.org/A5024513089",
             "display_name": "Sruthi Padampath Sreenivasan",
-            "orcid": "https://orcid.org/0000-0003-0999-2846"
+            "orcid": "https://orcid.org/0000-0003-0999-2846",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0999-2846"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -50476,7 +50559,10 @@
           "author": {
             "id": "https://openalex.org/A5012668465",
             "display_name": "Thomas Steuber",
-            "orcid": "https://orcid.org/0000-0003-3342-9885"
+            "orcid": "https://orcid.org/0000-0003-3342-9885",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3342-9885"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -50491,7 +50577,10 @@
           "author": {
             "id": "https://openalex.org/A5018306569",
             "display_name": "Mohammad Alsuwaidi",
-            "orcid": "https://orcid.org/0000-0002-2477-0654"
+            "orcid": "https://orcid.org/0000-0002-2477-0654",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2477-0654"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -50506,7 +50595,8 @@
           "author": {
             "id": "https://openalex.org/A5107845168",
             "display_name": "Michael Wiedenbeck",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -50519,9 +50609,10 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5120122518",
+            "id": "https://openalex.org/A5004319348",
             "display_name": "Ikfi Maasyi Hanif",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -50543,7 +50634,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38806388,
+        "value": 0.38776655,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -50759,7 +50850,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2025-10-24T00:00:00"
     },
     {
@@ -51253,7 +51344,8 @@
           "author": {
             "id": "https://openalex.org/A5129267857",
             "display_name": "Almog Ash",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -51290,7 +51382,10 @@
           "author": {
             "id": "https://openalex.org/A5002305567",
             "display_name": "Boáz Lazar",
-            "orcid": "https://orcid.org/0000-0002-2304-8993"
+            "orcid": "https://orcid.org/0000-0002-2304-8993",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2304-8993"
+            ]
           },
           "institutions": [
             {
@@ -51327,7 +51422,10 @@
           "author": {
             "id": "https://openalex.org/A5075789692",
             "display_name": "Adi Torfstein",
-            "orcid": "https://orcid.org/0000-0003-3918-8410"
+            "orcid": "https://orcid.org/0000-0003-3918-8410",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3918-8410"
+            ]
           },
           "institutions": [
             {
@@ -51381,7 +51479,10 @@
           "author": {
             "id": "https://openalex.org/A5009947929",
             "display_name": "Gilad Antler",
-            "orcid": "https://orcid.org/0000-0002-6865-5412"
+            "orcid": "https://orcid.org/0000-0002-6865-5412",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6865-5412"
+            ]
           },
           "institutions": [
             {
@@ -51433,9 +51534,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5129247172",
+            "id": "https://openalex.org/A5010834212",
             "display_name": "Tianyu Cao",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-1526-4995",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1526-4995"
+            ]
           },
           "institutions": [
             {
@@ -51472,7 +51576,10 @@
           "author": {
             "id": "https://openalex.org/A5033450264",
             "display_name": "Tanya Rivlin",
-            "orcid": "https://orcid.org/0000-0001-9353-9280"
+            "orcid": "https://orcid.org/0000-0001-9353-9280",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9353-9280"
+            ]
           },
           "institutions": [
             {
@@ -51509,7 +51616,10 @@
           "author": {
             "id": "https://openalex.org/A5018306569",
             "display_name": "Mohammad Alsuwaidi",
-            "orcid": "https://orcid.org/0000-0002-2477-0654"
+            "orcid": "https://orcid.org/0000-0002-2477-0654",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2477-0654"
+            ]
           },
           "institutions": [
             {
@@ -51546,7 +51656,10 @@
           "author": {
             "id": "https://openalex.org/A5057027693",
             "display_name": "Sadoon Morad",
-            "orcid": "https://orcid.org/0000-0002-8214-0896"
+            "orcid": "https://orcid.org/0000-0002-8214-0896",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8214-0896"
+            ]
           },
           "institutions": [
             {
@@ -51581,9 +51694,12 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5129334810",
+            "id": "https://openalex.org/A5063727388",
             "display_name": "Mordechai Stein",
-            "orcid": null
+            "orcid": "https://orcid.org/0000-0002-3126-416X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3126-416X"
+            ]
           },
           "institutions": [
             {
@@ -52633,7 +52749,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-25T08:18:29.962427",
       "created_date": "2026-03-15T00:00:00"
     }
   ]
