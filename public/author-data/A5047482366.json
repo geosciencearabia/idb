@@ -7,15 +7,16 @@
     "raw_author_names": [
       "Al Ajmi, Hussain",
       "H. Al Ajmi",
-      "Hussain Al Ajmi"
+      "Hussain Al Ajmi",
+      "Hussain F. Al Ajmi"
     ],
     "full_name": "Al Ajmi, Hussain",
-    "works_count": 15,
-    "cited_by_count": 91,
+    "works_count": 17,
+    "cited_by_count": 107,
     "summary_stats": {
-      "2yr_mean_citedness": 0,
+      "2yr_mean_citedness": 5.5,
       "h_index": 5,
-      "i10_index": 4
+      "i10_index": 5
     },
     "ids": {
       "openalex": "https://openalex.org/A5047482366",
@@ -78,6 +79,23 @@
     ],
     "topics": [
       {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "count": 6,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
         "count": 6,
@@ -112,23 +130,6 @@
         }
       },
       {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "count": 5,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
         "count": 4,
@@ -146,9 +147,28 @@
         }
       },
       {
-        "id": "https://openalex.org/T10894",
-        "display_name": "Groundwater flow and contamination studies",
+        "id": "https://openalex.org/T10017",
+        "display_name": "Geology and Paleoclimatology Research",
         "count": 3,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1902",
+          "display_name": "Atmospheric Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      }
+    ],
+    "topic_share": [
+      {
+        "id": "https://openalex.org/T12543",
+        "display_name": "Groundwater and Watershed Analysis",
+        "value": 0.0000352,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -161,13 +181,28 @@
           "id": "https://openalex.org/domains/3",
           "display_name": "Physical Sciences"
         }
-      }
-    ],
-    "topic_share": [
+      },
+      {
+        "id": "https://openalex.org/T13282",
+        "display_name": "Automated Road and Building Extraction",
+        "value": 0.0000289,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2212",
+          "display_name": "Ocean Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000237,
+        "value": 0.0000238,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -182,16 +217,16 @@
         }
       },
       {
-        "id": "https://openalex.org/T12543",
-        "display_name": "Groundwater and Watershed Analysis",
-        "value": 0.0000234,
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "value": 0.0000209,
         "subfield": {
-          "id": "https://openalex.org/subfields/2305",
-          "display_name": "Environmental Engineering"
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
         },
         "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -209,40 +244,6 @@
         "field": {
           "id": "https://openalex.org/fields/19",
           "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "value": 0.0000173,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
-        "id": "https://openalex.org/T10894",
-        "display_name": "Groundwater flow and contamination studies",
-        "value": 0.000015,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2305",
-          "display_name": "Environmental Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -273,13 +274,13 @@
         "id": "17409809",
         "wikidata": "https://www.wikidata.org/wiki/Q161764",
         "display_name": "Geochemistry",
-        "score": 0.4409443438053131
+        "score": 0.44229656457901
       },
       {
         "id": "109007969",
         "wikidata": "https://www.wikidata.org/wiki/Q749565",
         "display_name": "Structural basin",
-        "score": 0.09664922952651978
+        "score": 0.43266984820365906
       }
     ],
     "counts_by_year": [
@@ -320,10 +321,22 @@
         "cited_by_count": 15
       },
       {
+        "year": 2017,
+        "works_count": 1,
+        "oa_works_count": 0,
+        "cited_by_count": 5
+      },
+      {
         "year": 2018,
         "works_count": 1,
         "oa_works_count": 0,
         "cited_by_count": 29
+      },
+      {
+        "year": 2025,
+        "works_count": 1,
+        "oa_works_count": 1,
+        "cited_by_count": 11
       },
       {
         "year": 2026,
@@ -335,11 +348,12 @@
     "display_name_alternatives": [
       "Al Ajmi, Hussain",
       "H. Al Ajmi",
-      "Hussain Al Ajmi"
+      "Hussain Al Ajmi",
+      "Hussain F. Al Ajmi"
     ],
     "block_key": "h al ajmi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5047482366",
-    "updated_date": "2026-09-23T12:19:55",
+    "updated_date": "2026-09-25T12:19:18",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1002,8 +1016,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -2315,17 +2329,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8500000238418579
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -2685,11 +2699,11 @@
         "value_usd": 2390
       },
       "apc_paid": null,
-      "fwci": 1.3238,
+      "fwci": 1.5899,
       "has_fulltext": false,
-      "cited_by_count": 20,
+      "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.79834626,
+        "value": 0.82102091,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3060,8 +3074,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -3181,10 +3195,10 @@
         },
         {
           "year": 2012,
-          "cited_by_count": 1
+          "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3862,8 +3876,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -4445,17 +4459,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5199999809265137
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -5033,17 +5047,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -5427,8 +5441,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -5980,17 +5994,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.5799999833106995
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6926,8 +6940,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -7396,8 +7410,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10678,17 +10692,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6299999952316284,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.6299999952316284
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11174,8 +11188,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11690,8 +11704,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1821045717.pdf",
@@ -12640,17 +12654,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6000000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6000000238418579
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -12999,8 +13013,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13959,17 +13973,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.6469302177429199,
-          "id": "https://metadata.un.org/sdg/9"
+          "score": 0.6469302177429199
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14900,8 +14914,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

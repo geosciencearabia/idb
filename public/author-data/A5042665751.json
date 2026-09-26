@@ -7,6 +7,7 @@
     ],
     "display_name": "Mohammed A. Al-Masrahy",
     "raw_author_names": [
+      "AL-MASRAHY, MOHAMMED ALI",
       "M. A. Al-Masrahy",
       "M. Al-Masrahy",
       "Mohammed A. Al-Masrahy",
@@ -14,7 +15,7 @@
       "Mohammed Al‐Masrahy"
     ],
     "full_name": "Mohammed A. Al-Masrahy",
-    "works_count": 16,
+    "works_count": 17,
     "cited_by_count": 265,
     "summary_stats": {
       "2yr_mean_citedness": 2.2857142857142856,
@@ -164,7 +165,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "count": 7,
+        "count": 8,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -196,16 +197,16 @@
         }
       },
       {
-        "id": "https://openalex.org/T10635",
-        "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
         "count": 3,
         "subfield": {
-          "id": "https://openalex.org/subfields/2210",
-          "display_name": "Mechanical Engineering"
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -217,7 +218,7 @@
       {
         "id": "https://openalex.org/T12383",
         "display_name": "Aeolian processes and effects",
-        "value": 0.000052,
+        "value": 0.0000522,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -234,7 +235,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000347,
+        "value": 0.0000348,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -251,7 +252,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000153,
+        "value": 0.0000175,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -266,12 +267,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T10017",
-        "display_name": "Geology and Paleoclimatology Research",
-        "value": 0.0000119,
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "value": 0.0000121,
         "subfield": {
-          "id": "https://openalex.org/subfields/1902",
-          "display_name": "Atmospheric Science"
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -283,12 +284,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T13177",
-        "display_name": "Geological and Geophysical Studies",
+        "id": "https://openalex.org/T10017",
+        "display_name": "Geology and Paleoclimatology Research",
         "value": 0.0000119,
         "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
+          "id": "https://openalex.org/subfields/1902",
+          "display_name": "Atmospheric Science"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -335,7 +336,7 @@
     "counts_by_year": [
       {
         "year": 2011,
-        "works_count": 1,
+        "works_count": 2,
         "oa_works_count": 0,
         "cited_by_count": 0
       },
@@ -395,6 +396,7 @@
       }
     ],
     "display_name_alternatives": [
+      "AL-MASRAHY, MOHAMMED ALI",
       "M. A. Al-Masrahy",
       "M. Al-Masrahy",
       "Mohammed A. Al-Masrahy",
@@ -403,7 +405,7 @@
     ],
     "block_key": "m al-masrahy",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5042665751",
-    "updated_date": "2026-09-22T04:05:08",
+    "updated_date": "2026-09-25T12:19:18",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -877,9 +879,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.4300000071525574,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4300000071525574
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "x_sdgs": [],
@@ -1162,7 +1164,10 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
-            "orcid": "https://orcid.org/0000-0002-8396-3923"
+            "orcid": "https://orcid.org/0000-0002-8396-3923",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8396-3923"
+            ]
           },
           "institutions": [
             {
@@ -1206,7 +1211,10 @@
           "author": {
             "id": "https://openalex.org/A5022451423",
             "display_name": "Nigel P. Mountney",
-            "orcid": "https://orcid.org/0000-0002-8356-9889"
+            "orcid": "https://orcid.org/0000-0002-8356-9889",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8356-9889"
+            ]
           },
           "institutions": [
             {
@@ -1261,11 +1269,11 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 2.9604,
+      "fwci": 2.9318,
       "has_fulltext": false,
       "cited_by_count": 74,
       "citation_normalized_percentile": {
-        "value": 0.8824577,
+        "value": 0.88178791,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1540,9 +1548,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -1608,6 +1616,7 @@
         "https://openalex.org/W2158072954",
         "https://openalex.org/W2161489103",
         "https://openalex.org/W2188281866",
+        "https://openalex.org/W2229627351",
         "https://openalex.org/W2315544345",
         "https://openalex.org/W2328761321",
         "https://openalex.org/W2334259256",
@@ -1621,7 +1630,6 @@
         "https://openalex.org/W3208769113",
         "https://openalex.org/W4238884877",
         "https://openalex.org/W4238986447",
-        "https://openalex.org/W4245268773",
         "https://openalex.org/W4252428613",
         "https://openalex.org/W4285719527",
         "https://openalex.org/W4294957173",
@@ -1707,7 +1715,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2041,9 +2049,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5799999833106995,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5799999833106995
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "x_sdgs": [],
@@ -6932,9 +6940,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -7387,9 +7395,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5899999737739563,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5899999737739563
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -8911,9 +8919,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -13585,9 +13593,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -17915,9 +17923,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8767217397689819,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8767217397689819
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],

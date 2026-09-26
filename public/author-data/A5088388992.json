@@ -153,7 +153,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000451,
+        "value": 0.0000454,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -187,7 +187,7 @@
       {
         "id": "https://openalex.org/T10491",
         "display_name": "Enhanced Oil Recovery Techniques",
-        "value": 0.0000246,
+        "value": 0.0000247,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -993,8 +993,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -1878,8 +1878,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -3195,8 +3195,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -3891,8 +3891,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -5340,8 +5340,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -6944,8 +6944,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2971780062.pdf"
@@ -8310,8 +8310,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3085505323.pdf",
@@ -9790,8 +9790,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -11184,8 +11184,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3123103367.pdf",
@@ -12507,8 +12507,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13479,7 +13479,10 @@
           "author": {
             "id": "https://openalex.org/A5007783400",
             "display_name": "Abid Khogali",
-            "orcid": "https://orcid.org/0000-0002-5750-3309"
+            "orcid": "https://orcid.org/0000-0002-5750-3309",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5750-3309"
+            ]
           },
           "institutions": [
             {
@@ -13516,7 +13519,8 @@
           "author": {
             "id": "https://openalex.org/A5044457172",
             "display_name": "Rika N. Syahputra",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -13553,7 +13557,10 @@
           "author": {
             "id": "https://openalex.org/A5088388992",
             "display_name": "Nabil Ali Saraih",
-            "orcid": "https://orcid.org/0009-0006-8245-3792"
+            "orcid": "https://orcid.org/0009-0006-8245-3792",
+            "observed_orcids": [
+              "https://orcid.org/0009-0006-8245-3792"
+            ]
           },
           "institutions": [
             {
@@ -13590,7 +13597,10 @@
           "author": {
             "id": "https://openalex.org/A5040857714",
             "display_name": "Hassan A. Eltom",
-            "orcid": "https://orcid.org/0000-0002-3515-0127"
+            "orcid": "https://orcid.org/0000-0002-3515-0127",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3515-0127"
+            ]
           },
           "institutions": [
             {
@@ -13636,7 +13646,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.0251117,
+        "value": 0.02507642,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14007,16 +14017,16 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
       "referenced_works": [
         "https://openalex.org/W1998908429",
         "https://openalex.org/W2023398964",
+        "https://openalex.org/W2478940386",
         "https://openalex.org/W2899900456",
-        "https://openalex.org/W4210965228",
         "https://openalex.org/W4255726453",
         "https://openalex.org/W4255729883",
         "https://openalex.org/W6721558696",
@@ -14631,7 +14641,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15148,8 +15158,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15798,8 +15808,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -16576,7 +16586,7 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5121661447",
+            "id": "https://openalex.org/A5075168324",
             "display_name": "Mobeen Murtaza",
             "orcid": "https://orcid.org/0000-0003-4279-4665",
             "observed_orcids": [
@@ -16666,8 +16676,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5125330854",
-            "display_name": "Israa  S. Abu-Mahfouz",
+            "id": "https://openalex.org/A5079903196",
+            "display_name": "Israa S. Abu‐Mahfouz",
             "orcid": "https://orcid.org/0000-0001-5832-7354",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5832-7354"
@@ -16963,8 +16973,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -16992,7 +17002,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2026-02-08T00:00:00"
     },
     {
@@ -17562,8 +17572,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18487,8 +18497,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19053,7 +19063,7 @@
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5121661447",
+            "id": "https://openalex.org/A5075168324",
             "display_name": "Mobeen Murtaza",
             "orcid": "https://orcid.org/0000-0003-4279-4665",
             "observed_orcids": [
@@ -19213,10 +19223,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5126113149",
+            "id": "https://openalex.org/A5084940954",
             "display_name": "Muhammad Shahzad Kamal",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0003-2359-836X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2359-836X"
+            ]
           },
           "institutions": [
             {
@@ -19396,7 +19408,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.59357707,
+        "value": 0.58437992,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19739,8 +19751,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7171327959.pdf",
@@ -20600,7 +20612,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2026-07-27T00:00:00"
     }
   ]

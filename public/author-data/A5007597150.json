@@ -841,8 +841,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -1731,7 +1731,7 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5112513583",
-            "display_name": "Michelle Thompson",
+            "display_name": "M.D. Thompson",
             "orcid": null,
             "observed_orcids": []
           },
@@ -1785,11 +1785,11 @@
         "currency": "USD",
         "value_usd": 5330
       },
-      "fwci": 1.8626,
+      "fwci": 1.855,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.87314455,
+        "value": 0.87285156,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2101,8 +2101,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -2115,8 +2115,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 74,
@@ -2939,7 +2939,1113 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-09-26T08:19:03.415552",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4396578111",
+      "doi": "https://doi.org/10.1144/sp550-2023-220",
+      "title": "The search for petroleum in the Sultanate of Oman – the first 120 years",
+      "display_name": "The search for petroleum in the Sultanate of Oman – the first 120 years",
+      "publication_year": 2024,
+      "publication_date": "2024-05-02",
+      "ids": {
+        "openalex": "https://openalex.org/W4396578111",
+        "doi": "https://doi.org/10.1144/sp550-2023-220"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1144/sp550-2023-220",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1144/sp550-2023-220",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S29311329",
+          "display_name": "Geological Society London Special Publications",
+          "issn_l": "0305-8719",
+          "issn": [
+            "0305-8719",
+            "2041-4927"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310311650",
+          "host_organization_name": "Geological Society of London",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311650"
+          ],
+          "host_organization_lineage_names": [
+            "Geological Society of London"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geological Society, London, Special Publications",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1144/sp550-2023-220",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5012623177",
+            "display_name": "ALAN P. HEWARD",
+            "orcid": "https://orcid.org/0000-0001-7154-3123"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1340949323",
+              "display_name": "Crown College",
+              "ror": "https://ror.org/059617j81",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I1340949323"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210126300",
+              "display_name": "Worcestershire Health and Care NHS Trust",
+              "ror": "https://ror.org/03nkk3987",
+              "country_code": "GB",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210126300"
+              ]
+            }
+          ],
+          "countries": [
+            "GB",
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Alan Peter Heward",
+          "raw_affiliation_strings": [
+            "23 Croftdown Court",
+            "23 Croftdown Court, Malvern, Worcestershire WR14 3HZ, UK"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-7154-3123",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "23 Croftdown Court",
+              "institution_ids": [
+                "https://openalex.org/I1340949323"
+              ]
+            },
+            {
+              "raw_affiliation_string": "23 Croftdown Court, Malvern, Worcestershire WR14 3HZ, UK",
+              "institution_ids": [
+                "https://openalex.org/I4210126300"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5096114208",
+            "display_name": "M. Quentin Morton",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I116867862",
+              "display_name": "Green Mountain College",
+              "ror": "https://ror.org/04gfner94",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I116867862"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210104395",
+              "display_name": "Green Mountain Radio Research (United States)",
+              "ror": "https://ror.org/01g07dr78",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210104395"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. Quentin Morton",
+          "raw_affiliation_strings": [
+            "Green Mountain Press",
+            "Green Mountain Press, P.O. Box 348, Aylesford, Kent, ME6 9AP, U.K"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Green Mountain Press",
+              "institution_ids": [
+                "https://openalex.org/I116867862",
+                "https://openalex.org/I4210104395"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Green Mountain Press, P.O. Box 348, Aylesford, Kent, ME6 9AP, U.K",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5007597150",
+            "display_name": "Mohammed H. Al Kindi",
+            "orcid": "https://orcid.org/0000-0002-8456-158X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210122910",
+              "display_name": "The Research Council",
+              "ror": "https://ror.org/03tcppy59",
+              "country_code": "OM",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210122910"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Al-Kindi",
+          "raw_affiliation_strings": [
+            "Earth Sciences Consultancy Centre",
+            "Earth Sciences Consultancy Centre, P.O. Box 979, PC. 611, Muscat, Sultanate of Oman"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-8456-158X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Consultancy Centre",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Earth Sciences Consultancy Centre, P.O. Box 979, PC. 611, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210122910"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 5,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5012623177"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I1340949323",
+        "https://openalex.org/I4210126300"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.7799,
+      "has_fulltext": false,
+      "cited_by_count": 3,
+      "citation_normalized_percentile": {
+        "value": 0.85487783,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "550",
+        "issue": "1",
+        "first_page": "403",
+        "last_page": "447"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11823",
+        "display_name": "Natural Resources and Economic Development",
+        "score": 0.9180999994277954,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2000",
+          "display_name": "General Economics, Econometrics and Finance"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11823",
+          "display_name": "Natural Resources and Economic Development",
+          "score": 0.9180999994277954,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2000",
+            "display_name": "General Economics, Econometrics and Finance"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/20",
+            "display_name": "Economics, Econometrics and Finance"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/disappointment",
+          "display_name": "Disappointment",
+          "score": 0.7868213653564453
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum",
+          "display_name": "Petroleum",
+          "score": 0.5807454586029053
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.5631745457649231
+        },
+        {
+          "id": "https://openalex.org/keywords/fossil-fuel",
+          "display_name": "Fossil fuel",
+          "score": 0.5187497138977051
+        },
+        {
+          "id": "https://openalex.org/keywords/submarine-pipeline",
+          "display_name": "Submarine pipeline",
+          "score": 0.4786173701286316
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-industry",
+          "display_name": "Petroleum industry",
+          "score": 0.4570815861225128
+        },
+        {
+          "id": "https://openalex.org/keywords/drilling",
+          "display_name": "Drilling",
+          "score": 0.42288535833358765
+        },
+        {
+          "id": "https://openalex.org/keywords/earth-science",
+          "display_name": "Earth science",
+          "score": 0.3489581346511841
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.25016552209854126
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.2139151692390442
+        },
+        {
+          "id": "https://openalex.org/keywords/oceanography",
+          "display_name": "Oceanography",
+          "score": 0.16717511415481567
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779628136",
+          "wikidata": "https://www.wikidata.org/wiki/Q621206",
+          "display_name": "Disappointment",
+          "level": 2,
+          "score": 0.7868213653564453
+        },
+        {
+          "id": "https://openalex.org/C548895740",
+          "wikidata": "https://www.wikidata.org/wiki/Q22656",
+          "display_name": "Petroleum",
+          "level": 2,
+          "score": 0.5807454586029053
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5631745457649231
+        },
+        {
+          "id": "https://openalex.org/C68189081",
+          "wikidata": "https://www.wikidata.org/wiki/Q12748",
+          "display_name": "Fossil fuel",
+          "level": 2,
+          "score": 0.5187497138977051
+        },
+        {
+          "id": "https://openalex.org/C162284963",
+          "wikidata": "https://www.wikidata.org/wiki/Q17106102",
+          "display_name": "Submarine pipeline",
+          "level": 2,
+          "score": 0.4786173701286316
+        },
+        {
+          "id": "https://openalex.org/C526740375",
+          "wikidata": "https://www.wikidata.org/wiki/Q862571",
+          "display_name": "Petroleum industry",
+          "level": 2,
+          "score": 0.4570815861225128
+        },
+        {
+          "id": "https://openalex.org/C25197100",
+          "wikidata": "https://www.wikidata.org/wiki/Q890886",
+          "display_name": "Drilling",
+          "level": 2,
+          "score": 0.42288535833358765
+        },
+        {
+          "id": "https://openalex.org/C1965285",
+          "wikidata": "https://www.wikidata.org/wiki/Q8008",
+          "display_name": "Earth science",
+          "level": 1,
+          "score": 0.3489581346511841
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.25016552209854126
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.2139151692390442
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.16717511415481567
+        },
+        {
+          "id": "https://openalex.org/C548081761",
+          "wikidata": "https://www.wikidata.org/wiki/Q180388",
+          "display_name": "Waste management",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C78519656",
+          "wikidata": "https://www.wikidata.org/wiki/Q101333",
+          "display_name": "Mechanical engineering",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C77805123",
+          "wikidata": "https://www.wikidata.org/wiki/Q161272",
+          "display_name": "Social psychology",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1144/sp550-2023-220",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1144/sp550-2023-220",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S29311329",
+            "display_name": "Geological Society London Special Publications",
+            "issn_l": "0305-8719",
+            "issn": [
+              "0305-8719",
+              "2041-4927"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310311650",
+            "host_organization_name": "Geological Society of London",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310311650"
+            ],
+            "host_organization_lineage_names": [
+              "Geological Society of London"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geological Society, London, Special Publications",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1144/sp550-2023-220",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1144/sp550-2023-220",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S29311329",
+          "display_name": "Geological Society London Special Publications",
+          "issn_l": "0305-8719",
+          "issn": [
+            "0305-8719",
+            "2041-4927"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310311650",
+          "host_organization_name": "Geological Society of London",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311650"
+          ],
+          "host_organization_lineage_names": [
+            "Geological Society of London"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geological Society, London, Special Publications",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6899999976158142
+        }
+      ],
+      "x_sdgs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 75,
+      "referenced_works": [
+        "https://openalex.org/W575412826",
+        "https://openalex.org/W643068591",
+        "https://openalex.org/W1531587811",
+        "https://openalex.org/W1572495630",
+        "https://openalex.org/W1592324393",
+        "https://openalex.org/W1610837456",
+        "https://openalex.org/W1963803326",
+        "https://openalex.org/W1966297860",
+        "https://openalex.org/W1980096862",
+        "https://openalex.org/W1985748982",
+        "https://openalex.org/W1992985873",
+        "https://openalex.org/W1994788357",
+        "https://openalex.org/W1996304308",
+        "https://openalex.org/W1997806358",
+        "https://openalex.org/W2023273466",
+        "https://openalex.org/W2026416412",
+        "https://openalex.org/W2035862951",
+        "https://openalex.org/W2063147594",
+        "https://openalex.org/W2068451724",
+        "https://openalex.org/W2071582006",
+        "https://openalex.org/W2073297172",
+        "https://openalex.org/W2080088198",
+        "https://openalex.org/W2081949219",
+        "https://openalex.org/W2085188216",
+        "https://openalex.org/W2087043430",
+        "https://openalex.org/W2089762325",
+        "https://openalex.org/W2092406316",
+        "https://openalex.org/W2094017768",
+        "https://openalex.org/W2114016266",
+        "https://openalex.org/W2145995786",
+        "https://openalex.org/W2146480283",
+        "https://openalex.org/W2146586425",
+        "https://openalex.org/W2151933828",
+        "https://openalex.org/W2151947712",
+        "https://openalex.org/W2165090300",
+        "https://openalex.org/W2165493724",
+        "https://openalex.org/W2166730905",
+        "https://openalex.org/W2284894460",
+        "https://openalex.org/W2313411240",
+        "https://openalex.org/W2320029521",
+        "https://openalex.org/W2320807207",
+        "https://openalex.org/W2321741277",
+        "https://openalex.org/W2501674867",
+        "https://openalex.org/W2732874933",
+        "https://openalex.org/W2790739284",
+        "https://openalex.org/W2795304344",
+        "https://openalex.org/W2938243655",
+        "https://openalex.org/W2944058958",
+        "https://openalex.org/W2960608112",
+        "https://openalex.org/W2967069995",
+        "https://openalex.org/W2992005560",
+        "https://openalex.org/W2992820450",
+        "https://openalex.org/W3000198898",
+        "https://openalex.org/W3004259856",
+        "https://openalex.org/W3186318625",
+        "https://openalex.org/W4210694078",
+        "https://openalex.org/W4234969817",
+        "https://openalex.org/W4241978057",
+        "https://openalex.org/W4248854731",
+        "https://openalex.org/W4249009346",
+        "https://openalex.org/W6604406349",
+        "https://openalex.org/W6605333369",
+        "https://openalex.org/W6605425114",
+        "https://openalex.org/W6617009604",
+        "https://openalex.org/W6632064628",
+        "https://openalex.org/W6632499132",
+        "https://openalex.org/W6635232110",
+        "https://openalex.org/W6643559261",
+        "https://openalex.org/W6750538592",
+        "https://openalex.org/W6786109005",
+        "https://openalex.org/W6793695841",
+        "https://openalex.org/W6893461676",
+        "https://openalex.org/W7038122752",
+        "https://openalex.org/W7048498360",
+        "https://openalex.org/W7070125064"
+      ],
+      "related_works": [
+        "https://openalex.org/W2347604034",
+        "https://openalex.org/W3215079794",
+        "https://openalex.org/W2379993415",
+        "https://openalex.org/W4243621685",
+        "https://openalex.org/W4385440266",
+        "https://openalex.org/W1569978046",
+        "https://openalex.org/W3047086230",
+        "https://openalex.org/W2058626071",
+        "https://openalex.org/W2025663274",
+        "https://openalex.org/W2380601683"
+      ],
+      "abstract_inverted_index": {
+        "20": [
+          100
+        ],
+        "1984": [
+          146
+        ],
+        "This": [
+          0
+        ],
+        "is": [
+          1
+        ],
+        "a": [
+          2,
+          14,
+          83,
+          134
+        ],
+        "story": [
+          3
+        ],
+        "of": [
+          4,
+          8,
+          26,
+          37,
+          44,
+          47,
+          53,
+          74,
+          136,
+          162,
+          178
+        ],
+        "failure": [
+          5
+        ],
+        "and": [
+          6,
+          10,
+          20,
+          40,
+          42,
+          56,
+          71,
+          89,
+          111,
+          123,
+          164,
+          186
+        ],
+        "success,": [
+          7
+        ],
+        "disappointment": [
+          9
+        ],
+        "elation.": [
+          11
+        ],
+        "World": [
+          12
+        ],
+        "wars,": [
+          13
+        ],
+        "market": [
+          15
+        ],
+        "glutted": [
+          16
+        ],
+        "with": [
+          17
+        ],
+        "cheap": [
+          18
+        ],
+        "oil": [
+          19,
+          76,
+          80,
+          137
+        ],
+        "geologists": [
+          21
+        ],
+        "unable": [
+          22
+        ],
+        "to": [
+          23,
+          66,
+          174,
+          184
+        ],
+        "access": [
+          24
+        ],
+        "areas": [
+          25
+        ],
+        "interest": [
+          27,
+          118
+        ],
+        "hampered": [
+          28
+        ],
+        "the": [
+          29,
+          34,
+          38,
+          45,
+          48,
+          63,
+          67,
+          72,
+          98,
+          152,
+          176,
+          179,
+          194
+        ],
+        "search.": [
+          30
+        ],
+        "Early": [
+          31,
+          107
+        ],
+        "expeditions": [
+          32
+        ],
+        "provided": [
+          33
+        ],
+        "first": [
+          35,
+          68
+        ],
+        "maps": [
+          36
+        ],
+        "mountains": [
+          39
+        ],
+        "Dhofar,": [
+          41
+        ],
+        "glimpses": [
+          43
+        ],
+        "geology": [
+          46
+        ],
+        "interior,": [
+          49
+        ],
+        "but": [
+          50
+        ],
+        "no": [
+          51
+        ],
+        "evidence": [
+          52
+        ],
+        "oil.": [
+          54
+        ],
+        "Geological": [
+          55
+        ],
+        "geophysical": [
+          57
+        ],
+        "surveys": [
+          58
+        ],
+        "began": [
+          59
+        ],
+        "in": [
+          60,
+          62,
+          120,
+          169
+        ],
+        "earnest": [
+          61
+        ],
+        "1950s,": [
+          64
+        ],
+        "leading": [
+          65
+        ],
+        "exploratory": [
+          69
+        ],
+        "drilling": [
+          70
+        ],
+        "discovery": [
+          73
+        ],
+        "heavy": [
+          75
+        ],
+        "at": [
+          77,
+          87
+        ],
+        "Marmul.": [
+          78
+        ],
+        "Commercial": [
+          79
+        ],
+        "was": [
+          81,
+          126,
+          131
+        ],
+        "discovered": [
+          82,
+          168
+        ],
+        "few": [
+          84
+        ],
+        "years": [
+          85,
+          101
+        ],
+        "later": [
+          86
+        ],
+        "Fahud": [
+          88
+        ],
+        "Natih.": [
+          90
+        ],
+        "All": [
+          91
+        ],
+        "Oman's": [
+          92
+        ],
+        "largest": [
+          93
+        ],
+        "oilfields": [
+          94
+        ],
+        "were": [
+          95,
+          109,
+          155,
+          166
+        ],
+        "found": [
+          96
+        ],
+        "over": [
+          97
+        ],
+        "next": [
+          99
+        ],
+        "based": [
+          102
+        ],
+        "on": [
+          103
+        ],
+        "2D": [
+          104
+        ],
+        "seismic": [
+          105
+        ],
+        "data.": [
+          106
+        ],
+        "concessions": [
+          108
+        ],
+        "large": [
+          110
+        ],
+        "ill-defined.": [
+          112
+        ],
+        "More": [
+          113
+        ],
+        "companies": [
+          114
+        ],
+        "became": [
+          115,
+          149
+        ],
+        "involved": [
+          116
+        ],
+        "as": [
+          117,
+          124,
+          133,
+          181
+        ],
+        "grew": [
+          119
+        ],
+        "exploration": [
+          121,
+          139
+        ],
+        "offshore": [
+          122
+        ],
+        "acreage": [
+          125
+        ],
+        "relinquished": [
+          127
+        ],
+        "onshore.": [
+          128
+        ],
+        "Although": [
+          129
+        ],
+        "gas": [
+          130,
+          141,
+          163
+        ],
+        "encountered": [
+          132
+        ],
+        "byproduct": [
+          135
+        ],
+        "activities,": [
+          138
+        ],
+        "for": [
+          140,
+          157
+        ],
+        "did": [
+          142
+        ],
+        "not": [
+          143
+        ],
+        "begin": [
+          144
+        ],
+        "until": [
+          145
+        ],
+        "when": [
+          147
+        ],
+        "it": [
+          148,
+          182
+        ],
+        "apparent": [
+          150
+        ],
+        "that": [
+          151
+        ],
+        "known": [
+          153
+        ],
+        "accumulations": [
+          154,
+          161
+        ],
+        "insufficient": [
+          156
+        ],
+        "future": [
+          158
+        ],
+        "needs.": [
+          159
+        ],
+        "Large": [
+          160
+        ],
+        "condensate": [
+          165
+        ],
+        "subsequently": [
+          167
+        ],
+        "central": [
+          170
+        ],
+        "Oman.": [
+          171
+        ],
+        "Petroleum": [
+          172
+        ],
+        "continues": [
+          173
+        ],
+        "underpin": [
+          175
+        ],
+        "economy": [
+          177
+        ],
+        "Sultanate": [
+          180
+        ],
+        "strives": [
+          183
+        ],
+        "diversify": [
+          185
+        ],
+        "decarbonize.": [
+          187
+        ],
+        "Useful": [
+          188
+        ],
+        "lessons": [
+          189
+        ],
+        "can": [
+          190
+        ],
+        "be": [
+          191
+        ],
+        "learned": [
+          192
+        ],
+        "from": [
+          193
+        ],
+        "search": [
+          195
+        ],
+        "so": [
+          196
+        ],
+        "far.": [
+          197
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3010,7 +4116,10 @@
           "author": {
             "id": "https://openalex.org/A5007597150",
             "display_name": "Mohammed H. Al Kindi",
-            "orcid": "https://orcid.org/0000-0002-8456-158X"
+            "orcid": "https://orcid.org/0000-0002-8456-158X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8456-158X"
+            ]
           },
           "institutions": [
             {
@@ -3062,17 +4171,17 @@
         "currency": "CHF",
         "value_usd": 1267
       },
-      "fwci": 0.878,
+      "fwci": 0.8189,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.67554527,
+        "value": 0.65276963,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 88,
-        "max": 97
+        "max": 96
       },
       "biblio": {
         "volume": "10",
@@ -3476,14 +4585,14 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3107735373.pdf",
         "grobid_xml": "https://content.openalex.org/works/W3107735373.grobid-xml"
       },
-      "referenced_works_count": 53,
+      "referenced_works_count": 52,
       "referenced_works": [
         "https://openalex.org/W27077920",
         "https://openalex.org/W1592324393",
@@ -3509,7 +4618,6 @@
         "https://openalex.org/W2075109672",
         "https://openalex.org/W2106572773",
         "https://openalex.org/W2120767531",
-        "https://openalex.org/W2124259587",
         "https://openalex.org/W2127470325",
         "https://openalex.org/W2128484265",
         "https://openalex.org/W2134134628",
@@ -4339,1113 +5447,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4396578111",
-      "doi": "https://doi.org/10.1144/sp550-2023-220",
-      "title": "The search for petroleum in the Sultanate of Oman – the first 120 years",
-      "display_name": "The search for petroleum in the Sultanate of Oman – the first 120 years",
-      "publication_year": 2024,
-      "publication_date": "2024-05-02",
-      "ids": {
-        "openalex": "https://openalex.org/W4396578111",
-        "doi": "https://doi.org/10.1144/sp550-2023-220"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1144/sp550-2023-220",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1144/sp550-2023-220",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S29311329",
-          "display_name": "Geological Society London Special Publications",
-          "issn_l": "0305-8719",
-          "issn": [
-            "0305-8719",
-            "2041-4927"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-1",
-            "norway-1"
-          ],
-          "host_organization": "https://openalex.org/P4310311650",
-          "host_organization_name": "Geological Society of London",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310311650"
-          ],
-          "host_organization_lineage_names": [
-            "Geological Society of London"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geological Society, London, Special Publications",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://doi.org/10.1144/sp550-2023-220",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5012623177",
-            "display_name": "ALAN P. HEWARD",
-            "orcid": "https://orcid.org/0000-0001-7154-3123"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1340949323",
-              "display_name": "Crown College",
-              "ror": "https://ror.org/059617j81",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I1340949323"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210126300",
-              "display_name": "Worcestershire Health and Care NHS Trust",
-              "ror": "https://ror.org/03nkk3987",
-              "country_code": "GB",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I4210126300"
-              ]
-            }
-          ],
-          "countries": [
-            "GB",
-            "US"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Alan Peter Heward",
-          "raw_affiliation_strings": [
-            "23 Croftdown Court",
-            "23 Croftdown Court, Malvern, Worcestershire WR14 3HZ, UK"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0001-7154-3123",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "23 Croftdown Court",
-              "institution_ids": [
-                "https://openalex.org/I1340949323"
-              ]
-            },
-            {
-              "raw_affiliation_string": "23 Croftdown Court, Malvern, Worcestershire WR14 3HZ, UK",
-              "institution_ids": [
-                "https://openalex.org/I4210126300"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5096114208",
-            "display_name": "M. Quentin Morton",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I116867862",
-              "display_name": "Green Mountain College",
-              "ror": "https://ror.org/04gfner94",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I116867862"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210104395",
-              "display_name": "Green Mountain Radio Research (United States)",
-              "ror": "https://ror.org/01g07dr78",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210104395"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "M. Quentin Morton",
-          "raw_affiliation_strings": [
-            "Green Mountain Press",
-            "Green Mountain Press, P.O. Box 348, Aylesford, Kent, ME6 9AP, U.K"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Green Mountain Press",
-              "institution_ids": [
-                "https://openalex.org/I116867862",
-                "https://openalex.org/I4210104395"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Green Mountain Press, P.O. Box 348, Aylesford, Kent, ME6 9AP, U.K",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5007597150",
-            "display_name": "Mohammed H. Al Kindi",
-            "orcid": "https://orcid.org/0000-0002-8456-158X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210122910",
-              "display_name": "The Research Council",
-              "ror": "https://ror.org/03tcppy59",
-              "country_code": "OM",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed Al-Kindi",
-          "raw_affiliation_strings": [
-            "Earth Sciences Consultancy Centre",
-            "Earth Sciences Consultancy Centre, P.O. Box 979, PC. 611, Muscat, Sultanate of Oman"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-8456-158X",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Earth Sciences Consultancy Centre",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Earth Sciences Consultancy Centre, P.O. Box 979, PC. 611, Muscat, Sultanate of Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5012623177"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I1340949323",
-        "https://openalex.org/I4210126300"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.7799,
-      "has_fulltext": false,
-      "cited_by_count": 3,
-      "citation_normalized_percentile": {
-        "value": 0.85487783,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 96,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "550",
-        "issue": "1",
-        "first_page": "403",
-        "last_page": "447"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11823",
-        "display_name": "Natural Resources and Economic Development",
-        "score": 0.9180999994277954,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2000",
-          "display_name": "General Economics, Econometrics and Finance"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/20",
-          "display_name": "Economics, Econometrics and Finance"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11823",
-          "display_name": "Natural Resources and Economic Development",
-          "score": 0.9180999994277954,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2000",
-            "display_name": "General Economics, Econometrics and Finance"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/20",
-            "display_name": "Economics, Econometrics and Finance"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/disappointment",
-          "display_name": "Disappointment",
-          "score": 0.7868213653564453
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum",
-          "display_name": "Petroleum",
-          "score": 0.5807454586029053
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5631745457649231
-        },
-        {
-          "id": "https://openalex.org/keywords/fossil-fuel",
-          "display_name": "Fossil fuel",
-          "score": 0.5187497138977051
-        },
-        {
-          "id": "https://openalex.org/keywords/submarine-pipeline",
-          "display_name": "Submarine pipeline",
-          "score": 0.4786173701286316
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-industry",
-          "display_name": "Petroleum industry",
-          "score": 0.4570815861225128
-        },
-        {
-          "id": "https://openalex.org/keywords/drilling",
-          "display_name": "Drilling",
-          "score": 0.42288535833358765
-        },
-        {
-          "id": "https://openalex.org/keywords/earth-science",
-          "display_name": "Earth science",
-          "score": 0.3489581346511841
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.25016552209854126
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.2139151692390442
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.16717511415481567
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2779628136",
-          "wikidata": "https://www.wikidata.org/wiki/Q621206",
-          "display_name": "Disappointment",
-          "level": 2,
-          "score": 0.7868213653564453
-        },
-        {
-          "id": "https://openalex.org/C548895740",
-          "wikidata": "https://www.wikidata.org/wiki/Q22656",
-          "display_name": "Petroleum",
-          "level": 2,
-          "score": 0.5807454586029053
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5631745457649231
-        },
-        {
-          "id": "https://openalex.org/C68189081",
-          "wikidata": "https://www.wikidata.org/wiki/Q12748",
-          "display_name": "Fossil fuel",
-          "level": 2,
-          "score": 0.5187497138977051
-        },
-        {
-          "id": "https://openalex.org/C162284963",
-          "wikidata": "https://www.wikidata.org/wiki/Q17106102",
-          "display_name": "Submarine pipeline",
-          "level": 2,
-          "score": 0.4786173701286316
-        },
-        {
-          "id": "https://openalex.org/C526740375",
-          "wikidata": "https://www.wikidata.org/wiki/Q862571",
-          "display_name": "Petroleum industry",
-          "level": 2,
-          "score": 0.4570815861225128
-        },
-        {
-          "id": "https://openalex.org/C25197100",
-          "wikidata": "https://www.wikidata.org/wiki/Q890886",
-          "display_name": "Drilling",
-          "level": 2,
-          "score": 0.42288535833358765
-        },
-        {
-          "id": "https://openalex.org/C1965285",
-          "wikidata": "https://www.wikidata.org/wiki/Q8008",
-          "display_name": "Earth science",
-          "level": 1,
-          "score": 0.3489581346511841
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.25016552209854126
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.2139151692390442
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.16717511415481567
-        },
-        {
-          "id": "https://openalex.org/C548081761",
-          "wikidata": "https://www.wikidata.org/wiki/Q180388",
-          "display_name": "Waste management",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C15744967",
-          "wikidata": "https://www.wikidata.org/wiki/Q9418",
-          "display_name": "Psychology",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C78519656",
-          "wikidata": "https://www.wikidata.org/wiki/Q101333",
-          "display_name": "Mechanical engineering",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C77805123",
-          "wikidata": "https://www.wikidata.org/wiki/Q161272",
-          "display_name": "Social psychology",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1144/sp550-2023-220",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1144/sp550-2023-220",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S29311329",
-            "display_name": "Geological Society London Special Publications",
-            "issn_l": "0305-8719",
-            "issn": [
-              "0305-8719",
-              "2041-4927"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "jufo-1",
-              "norway-1"
-            ],
-            "host_organization": "https://openalex.org/P4310311650",
-            "host_organization_name": "Geological Society of London",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310311650"
-            ],
-            "host_organization_lineage_names": [
-              "Geological Society of London"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geological Society, London, Special Publications",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1144/sp550-2023-220",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1144/sp550-2023-220",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S29311329",
-          "display_name": "Geological Society London Special Publications",
-          "issn_l": "0305-8719",
-          "issn": [
-            "0305-8719",
-            "2041-4927"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-1",
-            "norway-1"
-          ],
-          "host_organization": "https://openalex.org/P4310311650",
-          "host_organization_name": "Geological Society of London",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310311650"
-          ],
-          "host_organization_lineage_names": [
-            "Geological Society of London"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geological Society, London, Special Publications",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "score": 0.6899999976158142,
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "x_sdgs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 75,
-      "referenced_works": [
-        "https://openalex.org/W575412826",
-        "https://openalex.org/W643068591",
-        "https://openalex.org/W1531587811",
-        "https://openalex.org/W1572495630",
-        "https://openalex.org/W1592324393",
-        "https://openalex.org/W1610837456",
-        "https://openalex.org/W1963803326",
-        "https://openalex.org/W1966297860",
-        "https://openalex.org/W1980096862",
-        "https://openalex.org/W1985748982",
-        "https://openalex.org/W1992985873",
-        "https://openalex.org/W1994788357",
-        "https://openalex.org/W1996304308",
-        "https://openalex.org/W1997806358",
-        "https://openalex.org/W2023273466",
-        "https://openalex.org/W2026416412",
-        "https://openalex.org/W2035862951",
-        "https://openalex.org/W2063147594",
-        "https://openalex.org/W2068451724",
-        "https://openalex.org/W2071582006",
-        "https://openalex.org/W2073297172",
-        "https://openalex.org/W2080088198",
-        "https://openalex.org/W2081949219",
-        "https://openalex.org/W2085188216",
-        "https://openalex.org/W2087043430",
-        "https://openalex.org/W2089762325",
-        "https://openalex.org/W2092406316",
-        "https://openalex.org/W2094017768",
-        "https://openalex.org/W2114016266",
-        "https://openalex.org/W2145995786",
-        "https://openalex.org/W2146480283",
-        "https://openalex.org/W2146586425",
-        "https://openalex.org/W2151933828",
-        "https://openalex.org/W2151947712",
-        "https://openalex.org/W2165090300",
-        "https://openalex.org/W2165493724",
-        "https://openalex.org/W2166730905",
-        "https://openalex.org/W2284894460",
-        "https://openalex.org/W2313411240",
-        "https://openalex.org/W2320029521",
-        "https://openalex.org/W2320807207",
-        "https://openalex.org/W2321741277",
-        "https://openalex.org/W2501674867",
-        "https://openalex.org/W2732874933",
-        "https://openalex.org/W2790739284",
-        "https://openalex.org/W2795304344",
-        "https://openalex.org/W2938243655",
-        "https://openalex.org/W2944058958",
-        "https://openalex.org/W2960608112",
-        "https://openalex.org/W2967069995",
-        "https://openalex.org/W2992005560",
-        "https://openalex.org/W2992820450",
-        "https://openalex.org/W3000198898",
-        "https://openalex.org/W3004259856",
-        "https://openalex.org/W3186318625",
-        "https://openalex.org/W4210694078",
-        "https://openalex.org/W4234969817",
-        "https://openalex.org/W4241978057",
-        "https://openalex.org/W4248854731",
-        "https://openalex.org/W4249009346",
-        "https://openalex.org/W6604406349",
-        "https://openalex.org/W6605333369",
-        "https://openalex.org/W6605425114",
-        "https://openalex.org/W6617009604",
-        "https://openalex.org/W6632064628",
-        "https://openalex.org/W6632499132",
-        "https://openalex.org/W6635232110",
-        "https://openalex.org/W6643559261",
-        "https://openalex.org/W6750538592",
-        "https://openalex.org/W6786109005",
-        "https://openalex.org/W6793695841",
-        "https://openalex.org/W6893461676",
-        "https://openalex.org/W7038122752",
-        "https://openalex.org/W7048498360",
-        "https://openalex.org/W7070125064"
-      ],
-      "related_works": [
-        "https://openalex.org/W2347604034",
-        "https://openalex.org/W3215079794",
-        "https://openalex.org/W2379993415",
-        "https://openalex.org/W4243621685",
-        "https://openalex.org/W4385440266",
-        "https://openalex.org/W1569978046",
-        "https://openalex.org/W3047086230",
-        "https://openalex.org/W2058626071",
-        "https://openalex.org/W2025663274",
-        "https://openalex.org/W2380601683"
-      ],
-      "abstract_inverted_index": {
-        "20": [
-          100
-        ],
-        "1984": [
-          146
-        ],
-        "This": [
-          0
-        ],
-        "is": [
-          1
-        ],
-        "a": [
-          2,
-          14,
-          83,
-          134
-        ],
-        "story": [
-          3
-        ],
-        "of": [
-          4,
-          8,
-          26,
-          37,
-          44,
-          47,
-          53,
-          74,
-          136,
-          162,
-          178
-        ],
-        "failure": [
-          5
-        ],
-        "and": [
-          6,
-          10,
-          20,
-          40,
-          42,
-          56,
-          71,
-          89,
-          111,
-          123,
-          164,
-          186
-        ],
-        "success,": [
-          7
-        ],
-        "disappointment": [
-          9
-        ],
-        "elation.": [
-          11
-        ],
-        "World": [
-          12
-        ],
-        "wars,": [
-          13
-        ],
-        "market": [
-          15
-        ],
-        "glutted": [
-          16
-        ],
-        "with": [
-          17
-        ],
-        "cheap": [
-          18
-        ],
-        "oil": [
-          19,
-          76,
-          80,
-          137
-        ],
-        "geologists": [
-          21
-        ],
-        "unable": [
-          22
-        ],
-        "to": [
-          23,
-          66,
-          174,
-          184
-        ],
-        "access": [
-          24
-        ],
-        "areas": [
-          25
-        ],
-        "interest": [
-          27,
-          118
-        ],
-        "hampered": [
-          28
-        ],
-        "the": [
-          29,
-          34,
-          38,
-          45,
-          48,
-          63,
-          67,
-          72,
-          98,
-          152,
-          176,
-          179,
-          194
-        ],
-        "search.": [
-          30
-        ],
-        "Early": [
-          31,
-          107
-        ],
-        "expeditions": [
-          32
-        ],
-        "provided": [
-          33
-        ],
-        "first": [
-          35,
-          68
-        ],
-        "maps": [
-          36
-        ],
-        "mountains": [
-          39
-        ],
-        "Dhofar,": [
-          41
-        ],
-        "glimpses": [
-          43
-        ],
-        "geology": [
-          46
-        ],
-        "interior,": [
-          49
-        ],
-        "but": [
-          50
-        ],
-        "no": [
-          51
-        ],
-        "evidence": [
-          52
-        ],
-        "oil.": [
-          54
-        ],
-        "Geological": [
-          55
-        ],
-        "geophysical": [
-          57
-        ],
-        "surveys": [
-          58
-        ],
-        "began": [
-          59
-        ],
-        "in": [
-          60,
-          62,
-          120,
-          169
-        ],
-        "earnest": [
-          61
-        ],
-        "1950s,": [
-          64
-        ],
-        "leading": [
-          65
-        ],
-        "exploratory": [
-          69
-        ],
-        "drilling": [
-          70
-        ],
-        "discovery": [
-          73
-        ],
-        "heavy": [
-          75
-        ],
-        "at": [
-          77,
-          87
-        ],
-        "Marmul.": [
-          78
-        ],
-        "Commercial": [
-          79
-        ],
-        "was": [
-          81,
-          126,
-          131
-        ],
-        "discovered": [
-          82,
-          168
-        ],
-        "few": [
-          84
-        ],
-        "years": [
-          85,
-          101
-        ],
-        "later": [
-          86
-        ],
-        "Fahud": [
-          88
-        ],
-        "Natih.": [
-          90
-        ],
-        "All": [
-          91
-        ],
-        "Oman's": [
-          92
-        ],
-        "largest": [
-          93
-        ],
-        "oilfields": [
-          94
-        ],
-        "were": [
-          95,
-          109,
-          155,
-          166
-        ],
-        "found": [
-          96
-        ],
-        "over": [
-          97
-        ],
-        "next": [
-          99
-        ],
-        "based": [
-          102
-        ],
-        "on": [
-          103
-        ],
-        "2D": [
-          104
-        ],
-        "seismic": [
-          105
-        ],
-        "data.": [
-          106
-        ],
-        "concessions": [
-          108
-        ],
-        "large": [
-          110
-        ],
-        "ill-defined.": [
-          112
-        ],
-        "More": [
-          113
-        ],
-        "companies": [
-          114
-        ],
-        "became": [
-          115,
-          149
-        ],
-        "involved": [
-          116
-        ],
-        "as": [
-          117,
-          124,
-          133,
-          181
-        ],
-        "grew": [
-          119
-        ],
-        "exploration": [
-          121,
-          139
-        ],
-        "offshore": [
-          122
-        ],
-        "acreage": [
-          125
-        ],
-        "relinquished": [
-          127
-        ],
-        "onshore.": [
-          128
-        ],
-        "Although": [
-          129
-        ],
-        "gas": [
-          130,
-          141,
-          163
-        ],
-        "encountered": [
-          132
-        ],
-        "byproduct": [
-          135
-        ],
-        "activities,": [
-          138
-        ],
-        "for": [
-          140,
-          157
-        ],
-        "did": [
-          142
-        ],
-        "not": [
-          143
-        ],
-        "begin": [
-          144
-        ],
-        "until": [
-          145
-        ],
-        "when": [
-          147
-        ],
-        "it": [
-          148,
-          182
-        ],
-        "apparent": [
-          150
-        ],
-        "that": [
-          151
-        ],
-        "known": [
-          153
-        ],
-        "accumulations": [
-          154,
-          161
-        ],
-        "insufficient": [
-          156
-        ],
-        "future": [
-          158
-        ],
-        "needs.": [
-          159
-        ],
-        "Large": [
-          160
-        ],
-        "condensate": [
-          165
-        ],
-        "subsequently": [
-          167
-        ],
-        "central": [
-          170
-        ],
-        "Oman.": [
-          171
-        ],
-        "Petroleum": [
-          172
-        ],
-        "continues": [
-          173
-        ],
-        "underpin": [
-          175
-        ],
-        "economy": [
-          177
-        ],
-        "Sultanate": [
-          180
-        ],
-        "strives": [
-          183
-        ],
-        "diversify": [
-          185
-        ],
-        "decarbonize.": [
-          187
-        ],
-        "Useful": [
-          188
-        ],
-        "lessons": [
-          189
-        ],
-        "can": [
-          190
-        ],
-        "be": [
-          191
-        ],
-        "learned": [
-          192
-        ],
-        "from": [
-          193
-        ],
-        "search": [
-          195
-        ],
-        "so": [
-          196
-        ],
-        "far.": [
-          197
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 3
-        }
-      ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6046,8 +6048,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3010622588.pdf",
@@ -7361,8 +7363,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147
         }
       ],
       "x_sdgs": [],
@@ -7375,8 +7377,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386162512.pdf",
@@ -8065,16 +8067,16 @@
       "sustainable_development_goals": [
         {
           "display_name": "Sustainable cities and communities",
-          "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.550000011920929
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -8578,16 +8580,16 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.47999998927116394
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -9113,16 +9115,16 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.46000000834465027
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -9629,16 +9631,16 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "score": 0.45413655042648315,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.45413655042648315
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10474,16 +10476,16 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "score": 0.45413655042648315,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.45413655042648315
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11553,8 +11555,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7155534781.pdf",
@@ -12599,16 +12601,16 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.5195932388305664,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5195932388305664
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -13580,8 +13582,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14396,8 +14398,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

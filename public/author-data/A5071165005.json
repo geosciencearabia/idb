@@ -836,9 +836,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Reduced inequalities",
           "score": 0.5600000023841858,
-          "id": "https://metadata.un.org/sdg/10"
+          "id": "https://metadata.un.org/sdg/10",
+          "display_name": "Reduced inequalities"
         }
       ],
       "x_sdgs": [],
@@ -960,6 +960,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -991,7 +992,10 @@
           "author": {
             "id": "https://openalex.org/A5071165005",
             "display_name": "Rayan Kanfar",
-            "orcid": "https://orcid.org/0000-0003-4321-5573"
+            "orcid": "https://orcid.org/0000-0003-4321-5573",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4321-5573"
+            ]
           },
           "institutions": [
             {
@@ -1028,7 +1032,8 @@
           "author": {
             "id": "https://openalex.org/A5047369616",
             "display_name": "Obai Shaikh",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -1065,7 +1070,10 @@
           "author": {
             "id": "https://openalex.org/A5045063118",
             "display_name": "M. Yousefzadeh",
-            "orcid": "https://orcid.org/0000-0001-8644-1939"
+            "orcid": "https://orcid.org/0000-0001-8644-1939",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8644-1939"
+            ]
           },
           "institutions": [
             {
@@ -1102,7 +1110,10 @@
           "author": {
             "id": "https://openalex.org/A5013088513",
             "display_name": "Tapan Mukerji",
-            "orcid": "https://orcid.org/0000-0003-1711-1850"
+            "orcid": "https://orcid.org/0000-0003-1711-1850",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1711-1850"
+            ]
           },
           "institutions": [
             {
@@ -1144,16 +1155,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 20.8381,
+      "fwci": 20.4604,
       "has_fulltext": false,
       "cited_by_count": 60,
       "citation_normalized_percentile": {
-        "value": 0.99895101,
+        "value": 0.99884357,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 97,
+        "min": 96,
         "max": 99
       },
       "biblio": {
@@ -1468,6 +1479,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -1497,6 +1509,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I205783295",
             "host_organization_name": "Cornell University",
             "host_organization_lineage": [
@@ -1529,6 +1542,7 @@
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I205783295",
           "host_organization_name": "Cornell University",
           "host_organization_lineage": [
@@ -1547,9 +1561,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7099999785423279,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -1579,11 +1593,11 @@
         "https://openalex.org/W2792764867",
         "https://openalex.org/W2949382160",
         "https://openalex.org/W2950220847",
-        "https://openalex.org/W2952276042",
         "https://openalex.org/W2952632681",
         "https://openalex.org/W3137695714",
         "https://openalex.org/W4231033096",
         "https://openalex.org/W4256129314",
+        "https://openalex.org/W4394663752",
         "https://openalex.org/W6664676257",
         "https://openalex.org/W6670542613",
         "https://openalex.org/W6680587008",
@@ -2181,7 +2195,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-08-26T07:47:46.906454",
+      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4342,9 +4356,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Decent work and economic growth",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/8"
+          "id": "https://metadata.un.org/sdg/8",
+          "display_name": "Decent work and economic growth"
         }
       ],
       "x_sdgs": [],
@@ -6015,9 +6029,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Reduced inequalities",
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/10"
+          "id": "https://metadata.un.org/sdg/10",
+          "display_name": "Reduced inequalities"
         }
       ],
       "x_sdgs": [],

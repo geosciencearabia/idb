@@ -12,17 +12,19 @@
       "A.M Abed",
       "A.M. Abed",
       "ABDULKADER M. ABED",
+      "Abdul Kader Abed",
       "Abdulkader Abed",
       "Abdulkader M Abed",
-      "Abdulkader M. Abed"
+      "Abdulkader M. Abed",
+      "Abed, ِabdulkader"
     ],
     "full_name": "Abdulkader M. Abed",
-    "works_count": 62,
-    "cited_by_count": 1640,
+    "works_count": 64,
+    "cited_by_count": 1652,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 25,
-      "i10_index": 42
+      "i10_index": 43
     },
     "ids": {
       "openalex": "https://openalex.org/A5102809672",
@@ -254,12 +256,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
+        "id": "https://openalex.org/T10017",
+        "display_name": "Geology and Paleoclimatology Research",
         "count": 22,
         "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
+          "id": "https://openalex.org/subfields/1902",
+          "display_name": "Atmospheric Science"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -271,12 +273,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T10017",
-        "display_name": "Geology and Paleoclimatology Research",
-        "count": 21,
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "count": 22,
         "subfield": {
-          "id": "https://openalex.org/subfields/1902",
-          "display_name": "Atmospheric Science"
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -326,7 +328,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001202,
+        "value": 0.0001205,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -343,7 +345,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000763,
+        "value": 0.0000765,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -360,7 +362,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000693,
+        "value": 0.0000694,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -375,26 +377,9 @@
         }
       },
       {
-        "id": "https://openalex.org/T11923",
-        "display_name": "Mine drainage and remediation techniques",
-        "value": 0.000034,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2304",
-          "display_name": "Environmental Chemistry"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T14047",
         "display_name": "Marine and environmental studies",
-        "value": 0.0000321,
+        "value": 0.0000402,
         "subfield": {
           "id": "https://openalex.org/subfields/1910",
           "display_name": "Oceanography"
@@ -402,6 +387,23 @@
         "field": {
           "id": "https://openalex.org/fields/19",
           "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T11923",
+        "display_name": "Mine drainage and remediation techniques",
+        "value": 0.0000341,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2304",
+          "display_name": "Environmental Chemistry"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -546,9 +548,9 @@
       },
       {
         "year": 2002,
-        "works_count": 1,
+        "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 11
+        "cited_by_count": 22
       },
       {
         "year": 2003,
@@ -600,9 +602,9 @@
       },
       {
         "year": 2012,
-        "works_count": 2,
-        "oa_works_count": 0,
-        "cited_by_count": 37
+        "works_count": 3,
+        "oa_works_count": 1,
+        "cited_by_count": 38
       },
       {
         "year": 2013,
@@ -653,13 +655,15 @@
       "A.M Abed",
       "A.M. Abed",
       "ABDULKADER M. ABED",
+      "Abdul Kader Abed",
       "Abdulkader Abed",
       "Abdulkader M Abed",
-      "Abdulkader M. Abed"
+      "Abdulkader M. Abed",
+      "Abed, ِabdulkader"
     ],
     "block_key": "a abed",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5102809672",
-    "updated_date": "2026-09-23T12:19:55",
+    "updated_date": "2026-09-25T12:19:18",
     "created_date": "2020-09-21T00:00:00"
   },
   "works": [
@@ -25980,7 +25984,10 @@
           "author": {
             "id": "https://openalex.org/A5102809672",
             "display_name": "Abdulkader M. Abed",
-            "orcid": "https://orcid.org/0000-0002-7843-4218"
+            "orcid": "https://orcid.org/0000-0002-7843-4218",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7843-4218"
+            ]
           },
           "institutions": [
             {
@@ -26024,7 +26031,8 @@
           "author": {
             "id": "https://openalex.org/A5061103800",
             "display_name": "Rushdi M. Sadaqah",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -26068,7 +26076,8 @@
           "author": {
             "id": "https://openalex.org/A5012162813",
             "display_name": "Mamdouh Al-Jazi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -26101,11 +26110,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 1.6291,
+      "fwci": 1.6098,
       "has_fulltext": false,
       "cited_by_count": 38,
       "citation_normalized_percentile": {
-        "value": 0.83893646,
+        "value": 0.8369823,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26501,7 +26510,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 40,
+      "referenced_works_count": 39,
       "referenced_works": [
         "https://openalex.org/W28830587",
         "https://openalex.org/W564220257",
@@ -26535,7 +26544,6 @@
         "https://openalex.org/W2575382148",
         "https://openalex.org/W2592470112",
         "https://openalex.org/W3198963668",
-        "https://openalex.org/W4210554603",
         "https://openalex.org/W4246157246",
         "https://openalex.org/W4251419653",
         "https://openalex.org/W6601209306",
@@ -26615,7 +26623,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T17:25:34.749102",
+      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30313,7 +30321,10 @@
           "author": {
             "id": "https://openalex.org/A5102809672",
             "display_name": "Abdulkader M. Abed",
-            "orcid": "https://orcid.org/0000-0002-7843-4218"
+            "orcid": "https://orcid.org/0000-0002-7843-4218",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7843-4218"
+            ]
           },
           "institutions": [
             {
@@ -30350,7 +30361,8 @@
           "author": {
             "id": "https://openalex.org/A5018047580",
             "display_name": "Ma'In El-Hiyari",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -30396,11 +30408,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 1.3908,
+      "fwci": 1.3795,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.79448622,
+        "value": 0.79304566,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30727,7 +30739,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 17,
+      "referenced_works_count": 16,
       "referenced_works": [
         "https://openalex.org/W616686322",
         "https://openalex.org/W625735752",
@@ -30740,7 +30752,6 @@
         "https://openalex.org/W2198878071",
         "https://openalex.org/W2229115723",
         "https://openalex.org/W3092592676",
-        "https://openalex.org/W4210554603",
         "https://openalex.org/W4244550332",
         "https://openalex.org/W6620029179",
         "https://openalex.org/W6629654626",
@@ -30782,7 +30793,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -51073,7 +51084,7 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5113608826",
+            "id": "https://openalex.org/A5122628340",
             "display_name": "Douglas H. Erwin",
             "orcid": null,
             "observed_orcids": []
@@ -51114,7 +51125,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.4807805,
+        "value": 0.48058094,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -51460,7 +51471,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2022-05-12T00:00:00"
     },
     {

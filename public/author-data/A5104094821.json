@@ -17,9 +17,9 @@
     ],
     "full_name": "Khalid A. Al‐Ramadan",
     "works_count": 19,
-    "cited_by_count": 145,
+    "cited_by_count": 148,
     "summary_stats": {
-      "2yr_mean_citedness": 4.666666666666667,
+      "2yr_mean_citedness": 5,
       "h_index": 8,
       "i10_index": 7
     },
@@ -170,7 +170,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000312,
+        "value": 0.0000313,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -187,7 +187,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000024,
+        "value": 0.0000241,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -204,7 +204,7 @@
       {
         "id": "https://openalex.org/T11278",
         "display_name": "Calcium Carbonate Crystallization and Inhibition",
-        "value": 0.000023,
+        "value": 0.0000231,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -238,7 +238,7 @@
       {
         "id": "https://openalex.org/T11852",
         "display_name": "Clay minerals and soil interactions",
-        "value": 0.0000205,
+        "value": 0.0000206,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -338,7 +338,7 @@
         "year": 2025,
         "works_count": 7,
         "oa_works_count": 3,
-        "cited_by_count": 30
+        "cited_by_count": 33
       }
     ],
     "display_name_alternatives": [
@@ -352,7 +352,7 @@
     ],
     "block_key": "k al-ramadan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5104094821",
-    "updated_date": "2026-09-23T12:19:55",
+    "updated_date": "2026-09-25T12:19:18",
     "created_date": "2019-08-13T00:00:00"
   },
   "works": [
@@ -3839,9 +3839,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -6248,9 +6248,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -7435,9 +7435,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -7738,7 +7738,8 @@
             "display_name": "Pantelis M. Soupios",
             "orcid": "https://orcid.org/0000-0002-4153-3415",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4153-3415"
+              "https://orcid.org/0000-0002-4153-3415",
+              "https://orcid.org/0000-0002-2802-2020"
             ]
           },
           "institutions": [
@@ -8080,11 +8081,11 @@
         "currency": "USD",
         "value_usd": 1800
       },
-      "fwci": 0.9275,
+      "fwci": 0.9252,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.68898441,
+        "value": 0.68872049,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8398,9 +8399,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.5400000214576721,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5400000214576721
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -9063,7 +9064,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9589,9 +9590,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -10234,9 +10235,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -18766,9 +18767,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -19672,9 +19673,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -20223,7 +20224,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3546735,
+        "value": 0.35456993,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20502,11 +20503,11 @@
         "https://openalex.org/W2566504220",
         "https://openalex.org/W2921406724",
         "https://openalex.org/W2944267028",
+        "https://openalex.org/W2971664805",
         "https://openalex.org/W2973233743",
         "https://openalex.org/W3083154553",
         "https://openalex.org/W3099917829",
         "https://openalex.org/W3135210707",
-        "https://openalex.org/W4229866455",
         "https://openalex.org/W4243034119",
         "https://openalex.org/W4315786625",
         "https://openalex.org/W4386524836"
@@ -21127,7 +21128,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2025-10-10T00:00:00"
     }
   ]

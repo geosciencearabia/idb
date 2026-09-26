@@ -391,6 +391,7 @@
             "doaj",
             "doyens",
             "jufo-1",
+            "ki-jl-1",
             "medline",
             "norway-1"
           ],
@@ -433,7 +434,10 @@
           "author": {
             "id": "https://openalex.org/A5042396632",
             "display_name": "Sankaran Rajendran",
-            "orcid": "https://orcid.org/0000-0002-9371-9908"
+            "orcid": "https://orcid.org/0000-0002-9371-9908",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9371-9908"
+            ]
           },
           "institutions": [
             {
@@ -477,7 +481,10 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
-            "orcid": "https://orcid.org/0000-0001-5027-0648"
+            "orcid": "https://orcid.org/0000-0001-5027-0648",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5027-0648"
+            ]
           },
           "institutions": [
             {
@@ -514,7 +521,10 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
-            "orcid": "https://orcid.org/0000-0001-6787-3533"
+            "orcid": "https://orcid.org/0000-0001-6787-3533",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6787-3533"
+            ]
           },
           "institutions": [
             {
@@ -551,7 +561,8 @@
           "author": {
             "id": "https://openalex.org/A5030290233",
             "display_name": "A Molchanov Oleg",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -590,7 +601,10 @@
           "author": {
             "id": "https://openalex.org/A5066001291",
             "display_name": "Himanshu Govil",
-            "orcid": "https://orcid.org/0000-0002-3433-8355"
+            "orcid": "https://orcid.org/0000-0002-3433-8355",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3433-8355"
+            ]
           },
           "institutions": [
             {
@@ -627,7 +641,10 @@
           "author": {
             "id": "https://openalex.org/A5062108247",
             "display_name": "Sobhi Jaber Nasir",
-            "orcid": "https://orcid.org/0000-0002-4906-510X"
+            "orcid": "https://orcid.org/0000-0002-4906-510X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4906-510X"
+            ]
           },
           "institutions": [
             {
@@ -664,7 +681,11 @@
           "author": {
             "id": "https://openalex.org/A5069459556",
             "display_name": "PONNUMONY VETHAMONY",
-            "orcid": "https://orcid.org/0000-0002-2747-7568"
+            "orcid": "https://orcid.org/0000-0002-2747-7568",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2747-7568",
+              "https://orcid.org/0000-0002-2849-5370"
+            ]
           },
           "institutions": [
             {
@@ -716,11 +737,11 @@
         "currency": "EUR",
         "value_usd": 1693
       },
-      "fwci": 2.9511,
+      "fwci": 2.9412,
       "has_fulltext": true,
       "cited_by_count": 87,
       "citation_normalized_percentile": {
-        "value": 0.92171417,
+        "value": 0.92138158,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -954,6 +975,7 @@
               "doaj",
               "doyens",
               "jufo-1",
+              "ki-jl-1",
               "medline",
               "norway-1"
             ],
@@ -1176,6 +1198,7 @@
             "doaj",
             "doyens",
             "jufo-1",
+            "ki-jl-1",
             "medline",
             "norway-1"
           ],
@@ -1201,9 +1224,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -1246,8 +1269,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3132684617.pdf",
@@ -1815,7 +1838,7 @@
           "cited_by_count": 13
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1851,6 +1874,7 @@
           "listed_in": [
             "cwts-core",
             "jufo-2",
+            "ki-jl-1",
             "medline",
             "norway-1"
           ],
@@ -1889,7 +1913,10 @@
           "author": {
             "id": "https://openalex.org/A5042396632",
             "display_name": "Sankaran Rajendran",
-            "orcid": "https://orcid.org/0000-0002-9371-9908"
+            "orcid": "https://orcid.org/0000-0002-9371-9908",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9371-9908"
+            ]
           },
           "institutions": [
             {
@@ -1933,7 +1960,11 @@
           "author": {
             "id": "https://openalex.org/A5069459556",
             "display_name": "PONNUMONY VETHAMONY",
-            "orcid": "https://orcid.org/0000-0002-2747-7568"
+            "orcid": "https://orcid.org/0000-0002-2747-7568",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2747-7568",
+              "https://orcid.org/0000-0002-2849-5370"
+            ]
           },
           "institutions": [
             {
@@ -1970,7 +2001,10 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
-            "orcid": "https://orcid.org/0000-0001-5027-0648"
+            "orcid": "https://orcid.org/0000-0001-5027-0648",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5027-0648"
+            ]
           },
           "institutions": [
             {
@@ -2007,7 +2041,10 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
-            "orcid": "https://orcid.org/0000-0001-6787-3533"
+            "orcid": "https://orcid.org/0000-0001-6787-3533",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6787-3533"
+            ]
           },
           "institutions": [
             {
@@ -2044,7 +2081,10 @@
           "author": {
             "id": "https://openalex.org/A5091159330",
             "display_name": "Jassim A. Al‐Khayat",
-            "orcid": "https://orcid.org/0000-0002-5511-1029"
+            "orcid": "https://orcid.org/0000-0002-5511-1029",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5511-1029"
+            ]
           },
           "institutions": [
             {
@@ -2081,7 +2121,10 @@
           "author": {
             "id": "https://openalex.org/A5063428511",
             "display_name": "Vashist Omprasad Seegobin",
-            "orcid": "https://orcid.org/0000-0002-6334-4105"
+            "orcid": "https://orcid.org/0000-0002-6334-4105",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6334-4105"
+            ]
           },
           "institutions": [
             {
@@ -2118,7 +2161,10 @@
           "author": {
             "id": "https://openalex.org/A5066001291",
             "display_name": "Himanshu Govil",
-            "orcid": "https://orcid.org/0000-0002-3433-8355"
+            "orcid": "https://orcid.org/0000-0002-3433-8355",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3433-8355"
+            ]
           },
           "institutions": [
             {
@@ -2155,7 +2201,10 @@
           "author": {
             "id": "https://openalex.org/A5062108247",
             "display_name": "Sobhi Jaber Nasir",
-            "orcid": "https://orcid.org/0000-0002-4906-510X"
+            "orcid": "https://orcid.org/0000-0002-4906-510X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4906-510X"
+            ]
           },
           "institutions": [
             {
@@ -2203,11 +2252,11 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 2.3799,
+      "fwci": 2.3719,
       "has_fulltext": false,
       "cited_by_count": 67,
       "citation_normalized_percentile": {
-        "value": 0.89091655,
+        "value": 0.89054276,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2584,6 +2633,7 @@
             "listed_in": [
               "cwts-core",
               "jufo-2",
+              "ki-jl-1",
               "medline",
               "norway-1"
             ],
@@ -2669,9 +2719,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7099999785423279,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -2697,8 +2747,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -2813,7 +2863,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3497,9 +3547,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -3530,8 +3580,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386468571.pdf",
@@ -5104,8 +5154,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2583394094.pdf",
@@ -6465,8 +6515,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -6600,6 +6650,7 @@
           "listed_in": [
             "cwts-core",
             "jufo-1",
+            "ki-jl-1",
             "medline",
             "norway-1"
           ],
@@ -6638,7 +6689,10 @@
           "author": {
             "id": "https://openalex.org/A5042396632",
             "display_name": "Sankaran Rajendran",
-            "orcid": "https://orcid.org/0000-0002-9371-9908"
+            "orcid": "https://orcid.org/0000-0002-9371-9908",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9371-9908"
+            ]
           },
           "institutions": [
             {
@@ -6682,7 +6736,10 @@
           "author": {
             "id": "https://openalex.org/A5091672367",
             "display_name": "Valliyil Mohammed Aboobacker",
-            "orcid": "https://orcid.org/0000-0002-0385-6918"
+            "orcid": "https://orcid.org/0000-0002-0385-6918",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0385-6918"
+            ]
           },
           "institutions": [
             {
@@ -6719,7 +6776,10 @@
           "author": {
             "id": "https://openalex.org/A5063428511",
             "display_name": "Vashist Omprasad Seegobin",
-            "orcid": "https://orcid.org/0000-0002-6334-4105"
+            "orcid": "https://orcid.org/0000-0002-6334-4105",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6334-4105"
+            ]
           },
           "institutions": [
             {
@@ -6756,7 +6816,10 @@
           "author": {
             "id": "https://openalex.org/A5091159330",
             "display_name": "Jassim A. Al‐Khayat",
-            "orcid": "https://orcid.org/0000-0002-5511-1029"
+            "orcid": "https://orcid.org/0000-0002-5511-1029",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5511-1029"
+            ]
           },
           "institutions": [
             {
@@ -6793,7 +6856,10 @@
           "author": {
             "id": "https://openalex.org/A5057210692",
             "display_name": "Nelson Guillermo Rangel-Buitrago",
-            "orcid": "https://orcid.org/0000-0003-2261-3265"
+            "orcid": "https://orcid.org/0000-0003-2261-3265",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2261-3265"
+            ]
           },
           "institutions": [
             {
@@ -6830,7 +6896,10 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
-            "orcid": "https://orcid.org/0000-0001-6787-3533"
+            "orcid": "https://orcid.org/0000-0001-6787-3533",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6787-3533"
+            ]
           },
           "institutions": [
             {
@@ -6867,7 +6936,10 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
-            "orcid": "https://orcid.org/0000-0001-5027-0648"
+            "orcid": "https://orcid.org/0000-0001-5027-0648",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5027-0648"
+            ]
           },
           "institutions": [
             {
@@ -6904,7 +6976,11 @@
           "author": {
             "id": "https://openalex.org/A5069459556",
             "display_name": "PONNUMONY VETHAMONY",
-            "orcid": "https://orcid.org/0000-0002-2747-7568"
+            "orcid": "https://orcid.org/0000-0002-2747-7568",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2747-7568",
+              "https://orcid.org/0000-0002-2849-5370"
+            ]
           },
           "institutions": [
             {
@@ -6952,16 +7028,16 @@
         "value_usd": 3630
       },
       "apc_paid": null,
-      "fwci": 1.7698,
+      "fwci": 1.7649,
       "has_fulltext": false,
       "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.83628491,
+        "value": 0.83586115,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 97,
+        "min": 96,
         "max": 99
       },
       "biblio": {
@@ -7302,6 +7378,7 @@
             "listed_in": [
               "cwts-core",
               "jufo-1",
+              "ki-jl-1",
               "medline",
               "norway-1"
             ],
@@ -7417,9 +7494,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -7440,8 +7517,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 109,
@@ -7591,7 +7668,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7664,7 +7741,10 @@
           "author": {
             "id": "https://openalex.org/A5042396632",
             "display_name": "Sankaran Rajendran",
-            "orcid": "https://orcid.org/0000-0002-9371-9908"
+            "orcid": "https://orcid.org/0000-0002-9371-9908",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9371-9908"
+            ]
           },
           "institutions": [
             {
@@ -7701,7 +7781,11 @@
           "author": {
             "id": "https://openalex.org/A5069459556",
             "display_name": "PONNUMONY VETHAMONY",
-            "orcid": "https://orcid.org/0000-0002-2747-7568"
+            "orcid": "https://orcid.org/0000-0002-2747-7568",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2747-7568",
+              "https://orcid.org/0000-0002-2849-5370"
+            ]
           },
           "institutions": [
             {
@@ -7738,7 +7822,10 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
-            "orcid": "https://orcid.org/0000-0001-5027-0648"
+            "orcid": "https://orcid.org/0000-0001-5027-0648",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5027-0648"
+            ]
           },
           "institutions": [
             {
@@ -7775,7 +7862,10 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
-            "orcid": "https://orcid.org/0000-0001-6787-3533"
+            "orcid": "https://orcid.org/0000-0001-6787-3533",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6787-3533"
+            ]
           },
           "institutions": [
             {
@@ -7812,7 +7902,10 @@
           "author": {
             "id": "https://openalex.org/A5091159330",
             "display_name": "Jassim A. Al‐Khayat",
-            "orcid": "https://orcid.org/0000-0002-5511-1029"
+            "orcid": "https://orcid.org/0000-0002-5511-1029",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5511-1029"
+            ]
           },
           "institutions": [
             {
@@ -7849,7 +7942,10 @@
           "author": {
             "id": "https://openalex.org/A5066001291",
             "display_name": "Himanshu Govil",
-            "orcid": "https://orcid.org/0000-0002-3433-8355"
+            "orcid": "https://orcid.org/0000-0002-3433-8355",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3433-8355"
+            ]
           },
           "institutions": [
             {
@@ -7886,7 +7982,10 @@
           "author": {
             "id": "https://openalex.org/A5062108247",
             "display_name": "Sobhi Jaber Nasir",
-            "orcid": "https://orcid.org/0000-0002-4906-510X"
+            "orcid": "https://orcid.org/0000-0002-4906-510X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4906-510X"
+            ]
           },
           "institutions": [
             {
@@ -7938,11 +8037,11 @@
         "currency": "EUR",
         "value_usd": 559
       },
-      "fwci": 1.19,
+      "fwci": 1.1859,
       "has_fulltext": true,
       "cited_by_count": 35,
       "citation_normalized_percentile": {
-        "value": 0.75091245,
+        "value": 0.75004112,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8460,8 +8559,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3145666038.pdf",
@@ -9043,7 +9142,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9809,8 +9908,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3150907985.pdf",
@@ -11174,8 +11273,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -11963,9 +12062,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -12008,8 +12107,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385287273.pdf",
@@ -13243,9 +13342,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "x_sdgs": [],
@@ -13285,8 +13384,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -13457,7 +13556,8 @@
             "display_name": "PONNUMONY VETHAMONY",
             "orcid": "https://orcid.org/0000-0002-2747-7568",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-2747-7568"
+              "https://orcid.org/0000-0002-2747-7568",
+              "https://orcid.org/0000-0002-2849-5370"
             ]
           },
           "institutions": [
@@ -13648,11 +13748,11 @@
         "currency": "USD",
         "value_usd": 2310
       },
-      "fwci": 4.4468,
+      "fwci": 4.4326,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.94403638,
+        "value": 0.94374615,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14048,9 +14148,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.7900000214576721,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -14078,8 +14178,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -14801,7 +14901,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2025-08-19T00:00:00"
     },
     {
@@ -15451,8 +15551,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4291014806.pdf",
@@ -16080,9 +16180,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -16108,8 +16208,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -17003,8 +17103,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -18195,8 +18295,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -19237,8 +19337,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19318,6 +19418,7 @@
           "listed_in": [
             "cwts-core",
             "jufo-1",
+            "ki-jl-1",
             "medline",
             "norway-1"
           ],
@@ -19356,7 +19457,10 @@
           "author": {
             "id": "https://openalex.org/A5042396632",
             "display_name": "Sankaran Rajendran",
-            "orcid": "https://orcid.org/0000-0002-9371-9908"
+            "orcid": "https://orcid.org/0000-0002-9371-9908",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9371-9908"
+            ]
           },
           "institutions": [
             {
@@ -19400,7 +19504,10 @@
           "author": {
             "id": "https://openalex.org/A5091159330",
             "display_name": "Jassim A. Al‐Khayat",
-            "orcid": "https://orcid.org/0000-0002-5511-1029"
+            "orcid": "https://orcid.org/0000-0002-5511-1029",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5511-1029"
+            ]
           },
           "institutions": [
             {
@@ -19437,7 +19544,10 @@
           "author": {
             "id": "https://openalex.org/A5075463735",
             "display_name": "S. Veerasingam",
-            "orcid": "https://orcid.org/0000-0002-1791-3418"
+            "orcid": "https://orcid.org/0000-0002-1791-3418",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1791-3418"
+            ]
           },
           "institutions": [
             {
@@ -19474,7 +19584,10 @@
           "author": {
             "id": "https://openalex.org/A5062108247",
             "display_name": "Sobhi Jaber Nasir",
-            "orcid": "https://orcid.org/0000-0002-4906-510X"
+            "orcid": "https://orcid.org/0000-0002-4906-510X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4906-510X"
+            ]
           },
           "institutions": [
             {
@@ -19511,7 +19624,11 @@
           "author": {
             "id": "https://openalex.org/A5069459556",
             "display_name": "PONNUMONY VETHAMONY",
-            "orcid": "https://orcid.org/0000-0002-2747-7568"
+            "orcid": "https://orcid.org/0000-0002-2747-7568",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2747-7568",
+              "https://orcid.org/0000-0002-2849-5370"
+            ]
           },
           "institutions": [
             {
@@ -19548,7 +19665,10 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
-            "orcid": "https://orcid.org/0000-0001-5027-0648"
+            "orcid": "https://orcid.org/0000-0001-5027-0648",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5027-0648"
+            ]
           },
           "institutions": [
             {
@@ -19585,7 +19705,10 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
-            "orcid": "https://orcid.org/0000-0001-6787-3533"
+            "orcid": "https://orcid.org/0000-0001-6787-3533",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6787-3533"
+            ]
           },
           "institutions": [
             {
@@ -19633,11 +19756,11 @@
         "value_usd": 3350
       },
       "apc_paid": null,
-      "fwci": 1.4037,
+      "fwci": 1.3195,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.84026971,
+        "value": 0.83222962,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19928,6 +20051,7 @@
             "listed_in": [
               "cwts-core",
               "jufo-1",
+              "ki-jl-1",
               "medline",
               "norway-1"
             ],
@@ -20013,9 +20137,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -20048,8 +20172,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -20151,7 +20275,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20658,17 +20782,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22004,8 +22128,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407260658.pdf",
@@ -23097,8 +23221,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23543,8 +23667,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -23594,6 +23718,654 @@
         }
       ],
       "updated_date": "2026-06-13T06:13:01.061226",
+      "created_date": "2025-09-26T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4414527071",
+      "doi": "https://doi.org/10.1007/978-3-031-94394-2_2",
+      "title": "Surface Geology",
+      "display_name": "Surface Geology",
+      "publication_year": 2025,
+      "publication_date": "2025-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4414527071",
+        "doi": "https://doi.org/10.1007/978-3-031-94394-2_2"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/978-3-031-94394-2_2",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-3-031-94394-2_2",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210176705",
+          "display_name": "Regional geology reviews",
+          "issn_l": "2364-6438",
+          "issn": [
+            "2364-6438",
+            "2364-6446"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319972",
+          "host_organization_name": "Springer International Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319972",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer International Publishing",
+            "Springer Nature"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Regional Geology Reviews",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5070411489",
+            "display_name": "Fadhil Sadooni",
+            "orcid": "https://orcid.org/0000-0001-5027-0648",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5027-0648"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Fadhil N. Sadooni",
+          "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, Doha, Qatar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5079669280",
+            "display_name": "Hamad Al-Saad Al-Kuwari",
+            "orcid": "https://orcid.org/0000-0001-6787-3533",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6787-3533"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hamad Al-Saad Al-Kuwari",
+          "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, Doha, Qatar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5070411489"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I60342839"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 4.1483,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.93987823,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 93,
+        "max": 96
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "25",
+        "last_page": "55"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10017",
+        "display_name": "Geology and Paleoclimatology Research",
+        "score": 0.9976000189781189,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1902",
+          "display_name": "Atmospheric Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9976000189781189,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9973999857902527,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10995",
+          "display_name": "Methane Hydrates and Related Phenomena",
+          "score": 0.9940999746322632,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2304",
+            "display_name": "Environmental Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/evaporite",
+          "display_name": "Evaporite",
+          "score": 0.7936000227928162
+        },
+        {
+          "id": "https://openalex.org/keywords/outcrop",
+          "display_name": "Outcrop",
+          "score": 0.7756999731063843
+        },
+        {
+          "id": "https://openalex.org/keywords/plateau",
+          "display_name": "Plateau (mathematics)",
+          "score": 0.6883999705314636
+        },
+        {
+          "id": "https://openalex.org/keywords/aeolian-processes",
+          "display_name": "Aeolian processes",
+          "score": 0.6553000211715698
+        },
+        {
+          "id": "https://openalex.org/keywords/karst",
+          "display_name": "Karst",
+          "score": 0.6015999913215637
+        },
+        {
+          "id": "https://openalex.org/keywords/clastic-rock",
+          "display_name": "Clastic rock",
+          "score": 0.5164999961853027
+        },
+        {
+          "id": "https://openalex.org/keywords/sea-level",
+          "display_name": "Sea level",
+          "score": 0.5148000121116638
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-rock",
+          "display_name": "Carbonate rock",
+          "score": 0.49869999289512634
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.4740999937057495
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.4715999960899353
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.9158999919891357
+        },
+        {
+          "id": "https://openalex.org/C34221334",
+          "wikidata": "https://www.wikidata.org/wiki/Q491689",
+          "display_name": "Evaporite",
+          "level": 3,
+          "score": 0.7936000227928162
+        },
+        {
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.7756999731063843
+        },
+        {
+          "id": "https://openalex.org/C2780030769",
+          "wikidata": "https://www.wikidata.org/wiki/Q4968575",
+          "display_name": "Plateau (mathematics)",
+          "level": 2,
+          "score": 0.6883999705314636
+        },
+        {
+          "id": "https://openalex.org/C180093795",
+          "wikidata": "https://www.wikidata.org/wiki/Q215839",
+          "display_name": "Aeolian processes",
+          "level": 2,
+          "score": 0.6553000211715698
+        },
+        {
+          "id": "https://openalex.org/C182348080",
+          "wikidata": "https://www.wikidata.org/wiki/Q16817",
+          "display_name": "Karst",
+          "level": 2,
+          "score": 0.6015999913215637
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.5245000123977661
+        },
+        {
+          "id": "https://openalex.org/C138170599",
+          "wikidata": "https://www.wikidata.org/wiki/Q612133",
+          "display_name": "Clastic rock",
+          "level": 3,
+          "score": 0.5164999961853027
+        },
+        {
+          "id": "https://openalex.org/C74501621",
+          "wikidata": "https://www.wikidata.org/wiki/Q125465",
+          "display_name": "Sea level",
+          "level": 2,
+          "score": 0.5148000121116638
+        },
+        {
+          "id": "https://openalex.org/C19320362",
+          "wikidata": "https://www.wikidata.org/wiki/Q777913",
+          "display_name": "Carbonate rock",
+          "level": 3,
+          "score": 0.49869999289512634
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.49630001187324524
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.4740999937057495
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.4715999960899353
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.4205000102519989
+        },
+        {
+          "id": "https://openalex.org/C160464908",
+          "wikidata": "https://www.wikidata.org/wiki/Q26185",
+          "display_name": "Quaternary",
+          "level": 2,
+          "score": 0.3959999978542328
+        },
+        {
+          "id": "https://openalex.org/C49223487",
+          "wikidata": "https://www.wikidata.org/wiki/Q188734",
+          "display_name": "Sinkhole",
+          "level": 3,
+          "score": 0.385699987411499
+        },
+        {
+          "id": "https://openalex.org/C76177295",
+          "wikidata": "https://www.wikidata.org/wiki/Q161598",
+          "display_name": "Groundwater",
+          "level": 2,
+          "score": 0.35010001063346863
+        },
+        {
+          "id": "https://openalex.org/C2779870107",
+          "wikidata": "https://www.wikidata.org/wiki/Q43010",
+          "display_name": "Quartz",
+          "level": 2,
+          "score": 0.33399999141693115
+        },
+        {
+          "id": "https://openalex.org/C166528214",
+          "wikidata": "https://www.wikidata.org/wiki/Q586117",
+          "display_name": "Ripple marks",
+          "level": 4,
+          "score": 0.3248000144958496
+        },
+        {
+          "id": "https://openalex.org/C84983702",
+          "wikidata": "https://www.wikidata.org/wiki/Q2361456",
+          "display_name": "Subaerial",
+          "level": 2,
+          "score": 0.3151000142097473
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.31040000915527344
+        },
+        {
+          "id": "https://openalex.org/C2780181037",
+          "wikidata": "https://www.wikidata.org/wiki/Q371542",
+          "display_name": "Dolomite",
+          "level": 2,
+          "score": 0.3043999969959259
+        },
+        {
+          "id": "https://openalex.org/C40724407",
+          "wikidata": "https://www.wikidata.org/wiki/Q179177",
+          "display_name": "Weathering",
+          "level": 2,
+          "score": 0.30000001192092896
+        },
+        {
+          "id": "https://openalex.org/C137527640",
+          "wikidata": "https://www.wikidata.org/wiki/Q570309",
+          "display_name": "Bedrock",
+          "level": 2,
+          "score": 0.29490000009536743
+        },
+        {
+          "id": "https://openalex.org/C39769621",
+          "wikidata": "https://www.wikidata.org/wiki/Q3342272",
+          "display_name": "Water table",
+          "level": 3,
+          "score": 0.2892000079154968
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.2865000069141388
+        },
+        {
+          "id": "https://openalex.org/C171701179",
+          "wikidata": "https://www.wikidata.org/wiki/Q166409",
+          "display_name": "Gneiss",
+          "level": 3,
+          "score": 0.2831999957561493
+        },
+        {
+          "id": "https://openalex.org/C77271252",
+          "wikidata": "https://www.wikidata.org/wiki/Q301920",
+          "display_name": "Marine transgression",
+          "level": 3,
+          "score": 0.27889999747276306
+        },
+        {
+          "id": "https://openalex.org/C2781119444",
+          "wikidata": "https://www.wikidata.org/wiki/Q176739",
+          "display_name": "Stromatolite",
+          "level": 3,
+          "score": 0.2775000035762787
+        },
+        {
+          "id": "https://openalex.org/C185734153",
+          "wikidata": "https://www.wikidata.org/wiki/Q31566",
+          "display_name": "Coastal plain",
+          "level": 2,
+          "score": 0.275299996137619
+        },
+        {
+          "id": "https://openalex.org/C134872888",
+          "wikidata": "https://www.wikidata.org/wiki/Q1982302",
+          "display_name": "Sedimentary structures",
+          "level": 4,
+          "score": 0.271699994802475
+        },
+        {
+          "id": "https://openalex.org/C171878925",
+          "wikidata": "https://www.wikidata.org/wiki/Q35509",
+          "display_name": "Cave",
+          "level": 2,
+          "score": 0.27149999141693115
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.2556000053882599
+        },
+        {
+          "id": "https://openalex.org/C8625798",
+          "wikidata": "https://www.wikidata.org/wiki/Q752112",
+          "display_name": "Surface water",
+          "level": 2,
+          "score": 0.25540000200271606
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/978-3-031-94394-2_2",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/978-3-031-94394-2_2",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210176705",
+            "display_name": "Regional geology reviews",
+            "issn_l": "2364-6438",
+            "issn": [
+              "2364-6438",
+              "2364-6446"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310319972",
+            "host_organization_name": "Springer International Publishing",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319972",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer International Publishing",
+              "Springer Nature"
+            ],
+            "type": "book series"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Regional Geology Reviews",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "x_sdgs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 42,
+      "referenced_works": [
+        "https://openalex.org/W14419934",
+        "https://openalex.org/W128690774",
+        "https://openalex.org/W135504623",
+        "https://openalex.org/W151475856",
+        "https://openalex.org/W1040261480",
+        "https://openalex.org/W1508800270",
+        "https://openalex.org/W1970779370",
+        "https://openalex.org/W1986227254",
+        "https://openalex.org/W1988795755",
+        "https://openalex.org/W2003442867",
+        "https://openalex.org/W2006418021",
+        "https://openalex.org/W2008254655",
+        "https://openalex.org/W2010023148",
+        "https://openalex.org/W2012502690",
+        "https://openalex.org/W2027439067",
+        "https://openalex.org/W2039367400",
+        "https://openalex.org/W2041838744",
+        "https://openalex.org/W2055899902",
+        "https://openalex.org/W2060571299",
+        "https://openalex.org/W2086567354",
+        "https://openalex.org/W2093851844",
+        "https://openalex.org/W2149076435",
+        "https://openalex.org/W2164013862",
+        "https://openalex.org/W2238036082",
+        "https://openalex.org/W2246559164",
+        "https://openalex.org/W2288260082",
+        "https://openalex.org/W2315544345",
+        "https://openalex.org/W2327801836",
+        "https://openalex.org/W2330222807",
+        "https://openalex.org/W2474132938",
+        "https://openalex.org/W2592957382",
+        "https://openalex.org/W2731230376",
+        "https://openalex.org/W2733942769",
+        "https://openalex.org/W2783370631",
+        "https://openalex.org/W2965850520",
+        "https://openalex.org/W3132367032",
+        "https://openalex.org/W3150907985",
+        "https://openalex.org/W3193713661",
+        "https://openalex.org/W4231477748",
+        "https://openalex.org/W4234693414",
+        "https://openalex.org/W4248949528",
+        "https://openalex.org/W4250013968"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2025-09-26T00:00:00"
     },
     {
@@ -24058,17 +24830,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.6800000071525574,
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -25112,8 +25884,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3111727931.pdf",
@@ -26305,9 +27077,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -26333,8 +27105,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3207158966.pdf",
@@ -27221,7 +27993,8 @@
             "display_name": "PONNUMONY VETHAMONY",
             "orcid": "https://orcid.org/0000-0002-2747-7568",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-2747-7568"
+              "https://orcid.org/0000-0002-2747-7568",
+              "https://orcid.org/0000-0002-2849-5370"
             ]
           },
           "institutions": [
@@ -27264,11 +28037,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2735,
+      "fwci": 0.2729,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.56115537,
+        "value": 0.56104698,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27547,17 +28320,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6499999761581421,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28224,7 +28997,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29055,9 +29828,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -29112,8 +29885,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -30442,9 +31215,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -30462,8 +31235,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3111736389.pdf",
@@ -31553,8 +32326,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3205612556.pdf",
@@ -33195,17 +33968,17 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3205848438.pdf",
@@ -33778,7 +34551,11 @@
           "author": {
             "id": "https://openalex.org/A5069459556",
             "display_name": "PONNUMONY VETHAMONY",
-            "orcid": "https://orcid.org/0000-0002-2747-7568"
+            "orcid": "https://orcid.org/0000-0002-2747-7568",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2747-7568",
+              "https://orcid.org/0000-0002-2849-5370"
+            ]
           },
           "institutions": [
             {
@@ -33815,7 +34592,10 @@
           "author": {
             "id": "https://openalex.org/A5075463735",
             "display_name": "S. Veerasingam",
-            "orcid": "https://orcid.org/0000-0002-1791-3418"
+            "orcid": "https://orcid.org/0000-0002-1791-3418",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1791-3418"
+            ]
           },
           "institutions": [
             {
@@ -33852,7 +34632,10 @@
           "author": {
             "id": "https://openalex.org/A5091159330",
             "display_name": "Jassim A. Al‐Khayat",
-            "orcid": "https://orcid.org/0000-0002-5511-1029"
+            "orcid": "https://orcid.org/0000-0002-5511-1029",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5511-1029"
+            ]
           },
           "institutions": [
             {
@@ -33896,7 +34679,8 @@
           "author": {
             "id": "https://openalex.org/A5004483455",
             "display_name": "Aboobacker V.M",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -33933,7 +34717,10 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
-            "orcid": "https://orcid.org/0000-0001-5027-0648"
+            "orcid": "https://orcid.org/0000-0001-5027-0648",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5027-0648"
+            ]
           },
           "institutions": [
             {
@@ -33977,7 +34764,10 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
-            "orcid": "https://orcid.org/0000-0001-6787-3533"
+            "orcid": "https://orcid.org/0000-0001-6787-3533",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6787-3533"
+            ]
           },
           "institutions": [
             {
@@ -34023,7 +34813,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.21924603,
+        "value": 0.21785625,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34394,9 +35184,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -34409,8 +35199,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3207614801.pdf",
@@ -34820,7 +35610,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35456,17 +36246,17 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4312290890.pdf",
@@ -36010,17 +36800,17 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Zero hunger",
+          "id": "https://metadata.un.org/sdg/2",
           "score": 0.699999988079071,
-          "id": "https://metadata.un.org/sdg/2"
+          "display_name": "Zero hunger"
         }
       ],
       "x_sdgs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4312435439.pdf",
@@ -36423,8 +37213,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4389562204.pdf",
@@ -36919,8 +37709,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4408523099.pdf",
@@ -37430,8 +38220,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -37940,8 +38730,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -38531,8 +39321,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -38566,640 +39356,6 @@
         "https://openalex.org/W3035008434",
         "https://openalex.org/W3209324489",
         "https://openalex.org/W4378211703"
-      ],
-      "related_works": [],
-      "abstract_inverted_index": null,
-      "counts_by_year": [],
-      "updated_date": "2026-06-13T06:13:01.061226",
-      "created_date": "2025-09-26T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4414527071",
-      "doi": "https://doi.org/10.1007/978-3-031-94394-2_2",
-      "title": "Surface Geology",
-      "display_name": "Surface Geology",
-      "publication_year": 2025,
-      "publication_date": "2025-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W4414527071",
-        "doi": "https://doi.org/10.1007/978-3-031-94394-2_2"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/978-3-031-94394-2_2",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1007/978-3-031-94394-2_2",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210176705",
-          "display_name": "Regional geology reviews",
-          "issn_l": "2364-6438",
-          "issn": [
-            "2364-6438",
-            "2364-6446"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "norway-1"
-          ],
-          "host_organization": "https://openalex.org/P4310319972",
-          "host_organization_name": "Springer International Publishing",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319972",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer International Publishing",
-            "Springer Nature"
-          ],
-          "type": "book series"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Regional Geology Reviews",
-        "raw_type": "book-chapter"
-      },
-      "type": "book-chapter",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5070411489",
-            "display_name": "Fadhil Sadooni",
-            "orcid": "https://orcid.org/0000-0001-5027-0648"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Fadhil N. Sadooni",
-          "raw_affiliation_strings": [
-            "Environmental Science Center, Qatar University, Doha, Qatar"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environmental Science Center, Qatar University, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5079669280",
-            "display_name": "Hamad Al-Saad Al-Kuwari",
-            "orcid": "https://orcid.org/0000-0001-6787-3533"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Hamad Al-Saad Al-Kuwari",
-          "raw_affiliation_strings": [
-            "Environmental Science Center, Qatar University, Doha, Qatar"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environmental Science Center, Qatar University, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5070411489"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I60342839"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.45584906,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "25",
-        "last_page": "55"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10017",
-        "display_name": "Geology and Paleoclimatology Research",
-        "score": 0.9976000189781189,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1902",
-          "display_name": "Atmospheric Science"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9976000189781189,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9973999857902527,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10995",
-          "display_name": "Methane Hydrates and Related Phenomena",
-          "score": 0.9940999746322632,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2304",
-            "display_name": "Environmental Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/evaporite",
-          "display_name": "Evaporite",
-          "score": 0.7936000227928162
-        },
-        {
-          "id": "https://openalex.org/keywords/outcrop",
-          "display_name": "Outcrop",
-          "score": 0.7756999731063843
-        },
-        {
-          "id": "https://openalex.org/keywords/plateau",
-          "display_name": "Plateau (mathematics)",
-          "score": 0.6883999705314636
-        },
-        {
-          "id": "https://openalex.org/keywords/aeolian-processes",
-          "display_name": "Aeolian processes",
-          "score": 0.6553000211715698
-        },
-        {
-          "id": "https://openalex.org/keywords/karst",
-          "display_name": "Karst",
-          "score": 0.6015999913215637
-        },
-        {
-          "id": "https://openalex.org/keywords/clastic-rock",
-          "display_name": "Clastic rock",
-          "score": 0.5164999961853027
-        },
-        {
-          "id": "https://openalex.org/keywords/sea-level",
-          "display_name": "Sea level",
-          "score": 0.5148000121116638
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-rock",
-          "display_name": "Carbonate rock",
-          "score": 0.49869999289512634
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate",
-          "display_name": "Carbonate",
-          "score": 0.4740999937057495
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.4715999960899353
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.9158999919891357
-        },
-        {
-          "id": "https://openalex.org/C34221334",
-          "wikidata": "https://www.wikidata.org/wiki/Q491689",
-          "display_name": "Evaporite",
-          "level": 3,
-          "score": 0.7936000227928162
-        },
-        {
-          "id": "https://openalex.org/C169212394",
-          "wikidata": "https://www.wikidata.org/wiki/Q531953",
-          "display_name": "Outcrop",
-          "level": 2,
-          "score": 0.7756999731063843
-        },
-        {
-          "id": "https://openalex.org/C2780030769",
-          "wikidata": "https://www.wikidata.org/wiki/Q4968575",
-          "display_name": "Plateau (mathematics)",
-          "level": 2,
-          "score": 0.6883999705314636
-        },
-        {
-          "id": "https://openalex.org/C180093795",
-          "wikidata": "https://www.wikidata.org/wiki/Q215839",
-          "display_name": "Aeolian processes",
-          "level": 2,
-          "score": 0.6553000211715698
-        },
-        {
-          "id": "https://openalex.org/C182348080",
-          "wikidata": "https://www.wikidata.org/wiki/Q16817",
-          "display_name": "Karst",
-          "level": 2,
-          "score": 0.6015999913215637
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.5245000123977661
-        },
-        {
-          "id": "https://openalex.org/C138170599",
-          "wikidata": "https://www.wikidata.org/wiki/Q612133",
-          "display_name": "Clastic rock",
-          "level": 3,
-          "score": 0.5164999961853027
-        },
-        {
-          "id": "https://openalex.org/C74501621",
-          "wikidata": "https://www.wikidata.org/wiki/Q125465",
-          "display_name": "Sea level",
-          "level": 2,
-          "score": 0.5148000121116638
-        },
-        {
-          "id": "https://openalex.org/C19320362",
-          "wikidata": "https://www.wikidata.org/wiki/Q777913",
-          "display_name": "Carbonate rock",
-          "level": 3,
-          "score": 0.49869999289512634
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.49630001187324524
-        },
-        {
-          "id": "https://openalex.org/C2780659211",
-          "wikidata": "https://www.wikidata.org/wiki/Q181699",
-          "display_name": "Carbonate",
-          "level": 2,
-          "score": 0.4740999937057495
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.4715999960899353
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.4205000102519989
-        },
-        {
-          "id": "https://openalex.org/C160464908",
-          "wikidata": "https://www.wikidata.org/wiki/Q26185",
-          "display_name": "Quaternary",
-          "level": 2,
-          "score": 0.3959999978542328
-        },
-        {
-          "id": "https://openalex.org/C49223487",
-          "wikidata": "https://www.wikidata.org/wiki/Q188734",
-          "display_name": "Sinkhole",
-          "level": 3,
-          "score": 0.385699987411499
-        },
-        {
-          "id": "https://openalex.org/C76177295",
-          "wikidata": "https://www.wikidata.org/wiki/Q161598",
-          "display_name": "Groundwater",
-          "level": 2,
-          "score": 0.35010001063346863
-        },
-        {
-          "id": "https://openalex.org/C2779870107",
-          "wikidata": "https://www.wikidata.org/wiki/Q43010",
-          "display_name": "Quartz",
-          "level": 2,
-          "score": 0.33399999141693115
-        },
-        {
-          "id": "https://openalex.org/C166528214",
-          "wikidata": "https://www.wikidata.org/wiki/Q586117",
-          "display_name": "Ripple marks",
-          "level": 4,
-          "score": 0.3248000144958496
-        },
-        {
-          "id": "https://openalex.org/C84983702",
-          "wikidata": "https://www.wikidata.org/wiki/Q2361456",
-          "display_name": "Subaerial",
-          "level": 2,
-          "score": 0.3151000142097473
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.31040000915527344
-        },
-        {
-          "id": "https://openalex.org/C2780181037",
-          "wikidata": "https://www.wikidata.org/wiki/Q371542",
-          "display_name": "Dolomite",
-          "level": 2,
-          "score": 0.3043999969959259
-        },
-        {
-          "id": "https://openalex.org/C40724407",
-          "wikidata": "https://www.wikidata.org/wiki/Q179177",
-          "display_name": "Weathering",
-          "level": 2,
-          "score": 0.30000001192092896
-        },
-        {
-          "id": "https://openalex.org/C137527640",
-          "wikidata": "https://www.wikidata.org/wiki/Q570309",
-          "display_name": "Bedrock",
-          "level": 2,
-          "score": 0.29490000009536743
-        },
-        {
-          "id": "https://openalex.org/C39769621",
-          "wikidata": "https://www.wikidata.org/wiki/Q3342272",
-          "display_name": "Water table",
-          "level": 3,
-          "score": 0.2892000079154968
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.2865000069141388
-        },
-        {
-          "id": "https://openalex.org/C171701179",
-          "wikidata": "https://www.wikidata.org/wiki/Q166409",
-          "display_name": "Gneiss",
-          "level": 3,
-          "score": 0.2831999957561493
-        },
-        {
-          "id": "https://openalex.org/C77271252",
-          "wikidata": "https://www.wikidata.org/wiki/Q301920",
-          "display_name": "Marine transgression",
-          "level": 3,
-          "score": 0.27889999747276306
-        },
-        {
-          "id": "https://openalex.org/C2781119444",
-          "wikidata": "https://www.wikidata.org/wiki/Q176739",
-          "display_name": "Stromatolite",
-          "level": 3,
-          "score": 0.2775000035762787
-        },
-        {
-          "id": "https://openalex.org/C185734153",
-          "wikidata": "https://www.wikidata.org/wiki/Q31566",
-          "display_name": "Coastal plain",
-          "level": 2,
-          "score": 0.275299996137619
-        },
-        {
-          "id": "https://openalex.org/C134872888",
-          "wikidata": "https://www.wikidata.org/wiki/Q1982302",
-          "display_name": "Sedimentary structures",
-          "level": 4,
-          "score": 0.271699994802475
-        },
-        {
-          "id": "https://openalex.org/C171878925",
-          "wikidata": "https://www.wikidata.org/wiki/Q35509",
-          "display_name": "Cave",
-          "level": 2,
-          "score": 0.27149999141693115
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.2556000053882599
-        },
-        {
-          "id": "https://openalex.org/C8625798",
-          "wikidata": "https://www.wikidata.org/wiki/Q752112",
-          "display_name": "Surface water",
-          "level": 2,
-          "score": 0.25540000200271606
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/978-3-031-94394-2_2",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1007/978-3-031-94394-2_2",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210176705",
-            "display_name": "Regional geology reviews",
-            "issn_l": "2364-6438",
-            "issn": [
-              "2364-6438",
-              "2364-6446"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "norway-1"
-            ],
-            "host_organization": "https://openalex.org/P4310319972",
-            "host_organization_name": "Springer International Publishing",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319972",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer International Publishing",
-              "Springer Nature"
-            ],
-            "type": "book series"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Regional Geology Reviews",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 42,
-      "referenced_works": [
-        "https://openalex.org/W14419934",
-        "https://openalex.org/W128690774",
-        "https://openalex.org/W135504623",
-        "https://openalex.org/W151475856",
-        "https://openalex.org/W1040261480",
-        "https://openalex.org/W1508800270",
-        "https://openalex.org/W1970779370",
-        "https://openalex.org/W1986227254",
-        "https://openalex.org/W1988795755",
-        "https://openalex.org/W2003442867",
-        "https://openalex.org/W2006418021",
-        "https://openalex.org/W2008254655",
-        "https://openalex.org/W2010023148",
-        "https://openalex.org/W2012502690",
-        "https://openalex.org/W2027439067",
-        "https://openalex.org/W2039367400",
-        "https://openalex.org/W2041838744",
-        "https://openalex.org/W2055899902",
-        "https://openalex.org/W2060571299",
-        "https://openalex.org/W2086567354",
-        "https://openalex.org/W2093851844",
-        "https://openalex.org/W2149076435",
-        "https://openalex.org/W2164013862",
-        "https://openalex.org/W2238036082",
-        "https://openalex.org/W2246559164",
-        "https://openalex.org/W2288260082",
-        "https://openalex.org/W2315544345",
-        "https://openalex.org/W2327801836",
-        "https://openalex.org/W2330222807",
-        "https://openalex.org/W2474132938",
-        "https://openalex.org/W2592957382",
-        "https://openalex.org/W2731230376",
-        "https://openalex.org/W2733942769",
-        "https://openalex.org/W2783370631",
-        "https://openalex.org/W2965850520",
-        "https://openalex.org/W3132367032",
-        "https://openalex.org/W3150907985",
-        "https://openalex.org/W3193713661",
-        "https://openalex.org/W4231477748",
-        "https://openalex.org/W4234693414",
-        "https://openalex.org/W4248949528",
-        "https://openalex.org/W4250013968"
       ],
       "related_works": [],
       "abstract_inverted_index": null,
@@ -39786,8 +39942,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -40359,8 +40515,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -40992,8 +41148,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -41494,8 +41650,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
