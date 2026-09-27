@@ -816,12 +816,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.8299999833106995
+          "display_name": "Affordable and clean energy"
         }
       ],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -2088,6 +2089,7 @@
       },
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [
         {
@@ -2876,46 +2878,6 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdullatif A. Al-Shuhail",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5111604304",
-            "display_name": "Abdullah A. Alshuhail",
-            "orcid": "https://orcid.org/0000-0001-5392-3261",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5392-3261"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
           "is_corresponding": true,
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
@@ -2957,6 +2919,46 @@
             "SA"
           ],
           "is_corresponding": false,
+          "raw_author_name": "Abdullatif A. Al-Shuhail",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111604304",
+            "display_name": "Abdullah A. Alshuhail",
+            "orcid": "https://orcid.org/0000-0001-5392-3261",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5392-3261"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
           "raw_author_name": "Abdullah A. Alshuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -3003,7 +3005,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Abdullah A. Alshuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -3464,6 +3466,7 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
+        "https://openalex.org/A5054922583",
         "https://openalex.org/A5111604304"
       ],
       "corresponding_institution_ids": [
@@ -3475,11 +3478,11 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.4252,
+      "fwci": 1.4239,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.76698299,
+        "value": 0.76687014,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3807,12 +3810,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7099999785423279,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.7099999785423279
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [
         {
           "id": "https://openalex.org/G2497257451",
@@ -3904,7 +3908,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-26T08:19:03.415552",
+      "updated_date": "2026-09-27T08:07:27.782135",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4414,6 +4418,7 @@
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [
         {
@@ -4966,6 +4971,7 @@
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [
         {
@@ -6017,12 +6023,13 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.550000011920929,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.550000011920929
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -6466,6 +6473,7 @@
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -7333,6 +7341,7 @@
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
@@ -8659,6 +8668,7 @@
       },
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {

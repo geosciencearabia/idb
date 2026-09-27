@@ -190,7 +190,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000362,
+        "value": 0.0000361,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -393,692 +393,6 @@
     "created_date": "2018-12-11T00:00:00"
   },
   "works": [
-    {
-      "id": "https://openalex.org/W1972392924",
-      "doi": "https://doi.org/10.1016/j.rse.2005.10.017",
-      "title": "Vegetation and surface roughness effects on AMSR-E land observations",
-      "display_name": "Vegetation and surface roughness effects on AMSR-E land observations",
-      "publication_year": 2005,
-      "publication_date": "2005-12-16",
-      "ids": {
-        "openalex": "https://openalex.org/W1972392924",
-        "doi": "https://doi.org/10.1016/j.rse.2005.10.017",
-        "mag": "1972392924"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.rse.2005.10.017",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.rse.2005.10.017",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S141808269",
-          "display_name": "Remote Sensing of Environment",
-          "issn_l": "0034-4257",
-          "issn": [
-            "0034-4257",
-            "1879-0704"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-3",
-            "ki-jl-1",
-            "norway-2"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Remote Sensing of Environment",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5110276056",
-            "display_name": "Eni Njoku",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1334627681",
-              "display_name": "Jet Propulsion Laboratory",
-              "ror": "https://ror.org/027k65916",
-              "country_code": "US",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I122411786",
-                "https://openalex.org/I1334627681",
-                "https://openalex.org/I4210124779"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "E NJOKU",
-          "raw_affiliation_strings": [
-            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, United States"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, United States",
-              "institution_ids": [
-                "https://openalex.org/I1334627681"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5080643603",
-            "display_name": "Septriandi A. Chan",
-            "orcid": "https://orcid.org/0000-0002-3681-7464",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-3681-7464"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1334627681",
-              "display_name": "Jet Propulsion Laboratory",
-              "ror": "https://ror.org/027k65916",
-              "country_code": "US",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I122411786",
-                "https://openalex.org/I1334627681",
-                "https://openalex.org/I4210124779"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "S CHAN",
-          "raw_affiliation_strings": [
-            "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, United States"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109, United States",
-              "institution_ids": [
-                "https://openalex.org/I1334627681"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5110276056"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I1334627681"
-      ],
-      "apc_list": {
-        "value": 4450,
-        "currency": "USD",
-        "value_usd": 4450
-      },
-      "apc_paid": null,
-      "fwci": 6.591,
-      "has_fulltext": false,
-      "cited_by_count": 284,
-      "citation_normalized_percentile": {
-        "value": 0.96944174,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 97,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "100",
-        "issue": "2",
-        "first_page": "190",
-        "last_page": "199"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11312",
-        "display_name": "Soil Moisture and Remote Sensing",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2305",
-          "display_name": "Environmental Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11312",
-          "display_name": "Soil Moisture and Remote Sensing",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10644",
-          "display_name": "Cryospheric studies and observations",
-          "score": 0.9983000159263611,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11234",
-          "display_name": "Precipitation Measurement and Analysis",
-          "score": 0.9983000159263611,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.7823214530944824
-        },
-        {
-          "id": "https://openalex.org/keywords/remote-sensing",
-          "display_name": "Remote sensing",
-          "score": 0.765205979347229
-        },
-        {
-          "id": "https://openalex.org/keywords/vegetation",
-          "display_name": "Vegetation (pathology)",
-          "score": 0.7068092226982117
-        },
-        {
-          "id": "https://openalex.org/keywords/surface-roughness",
-          "display_name": "Surface roughness",
-          "score": 0.6412615776062012
-        },
-        {
-          "id": "https://openalex.org/keywords/brightness-temperature",
-          "display_name": "Brightness temperature",
-          "score": 0.5915900468826294
-        },
-        {
-          "id": "https://openalex.org/keywords/radiometer",
-          "display_name": "Radiometer",
-          "score": 0.5856649875640869
-        },
-        {
-          "id": "https://openalex.org/keywords/water-content",
-          "display_name": "Water content",
-          "score": 0.5591250061988831
-        },
-        {
-          "id": "https://openalex.org/keywords/emissivity",
-          "display_name": "Emissivity",
-          "score": 0.5123430490493774
-        },
-        {
-          "id": "https://openalex.org/keywords/land-cover",
-          "display_name": "Land cover",
-          "score": 0.49163657426834106
-        },
-        {
-          "id": "https://openalex.org/keywords/surface-finish",
-          "display_name": "Surface finish",
-          "score": 0.4186056852340698
-        },
-        {
-          "id": "https://openalex.org/keywords/soil-science",
-          "display_name": "Soil science",
-          "score": 0.4182993769645691
-        },
-        {
-          "id": "https://openalex.org/keywords/microwave",
-          "display_name": "Microwave",
-          "score": 0.36969679594039917
-        },
-        {
-          "id": "https://openalex.org/keywords/atmospheric-sciences",
-          "display_name": "Atmospheric sciences",
-          "score": 0.35723876953125
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.16070380806922913
-        },
-        {
-          "id": "https://openalex.org/keywords/land-use",
-          "display_name": "Land use",
-          "score": 0.13383162021636963
-        },
-        {
-          "id": "https://openalex.org/keywords/materials-science",
-          "display_name": "Materials science",
-          "score": 0.09364423155784607
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.7823214530944824
-        },
-        {
-          "id": "https://openalex.org/C62649853",
-          "wikidata": "https://www.wikidata.org/wiki/Q199687",
-          "display_name": "Remote sensing",
-          "level": 1,
-          "score": 0.765205979347229
-        },
-        {
-          "id": "https://openalex.org/C2776133958",
-          "wikidata": "https://www.wikidata.org/wiki/Q7918366",
-          "display_name": "Vegetation (pathology)",
-          "level": 2,
-          "score": 0.7068092226982117
-        },
-        {
-          "id": "https://openalex.org/C107365816",
-          "wikidata": "https://www.wikidata.org/wiki/Q114817",
-          "display_name": "Surface roughness",
-          "level": 2,
-          "score": 0.6412615776062012
-        },
-        {
-          "id": "https://openalex.org/C53802167",
-          "wikidata": "https://www.wikidata.org/wiki/Q4538627",
-          "display_name": "Brightness temperature",
-          "level": 3,
-          "score": 0.5915900468826294
-        },
-        {
-          "id": "https://openalex.org/C120189094",
-          "wikidata": "https://www.wikidata.org/wiki/Q850281",
-          "display_name": "Radiometer",
-          "level": 2,
-          "score": 0.5856649875640869
-        },
-        {
-          "id": "https://openalex.org/C24939127",
-          "wikidata": "https://www.wikidata.org/wiki/Q373499",
-          "display_name": "Water content",
-          "level": 2,
-          "score": 0.5591250061988831
-        },
-        {
-          "id": "https://openalex.org/C163651212",
-          "wikidata": "https://www.wikidata.org/wiki/Q899670",
-          "display_name": "Emissivity",
-          "level": 2,
-          "score": 0.5123430490493774
-        },
-        {
-          "id": "https://openalex.org/C2780648208",
-          "wikidata": "https://www.wikidata.org/wiki/Q3001793",
-          "display_name": "Land cover",
-          "level": 3,
-          "score": 0.49163657426834106
-        },
-        {
-          "id": "https://openalex.org/C71039073",
-          "wikidata": "https://www.wikidata.org/wiki/Q3439090",
-          "display_name": "Surface finish",
-          "level": 2,
-          "score": 0.4186056852340698
-        },
-        {
-          "id": "https://openalex.org/C159390177",
-          "wikidata": "https://www.wikidata.org/wiki/Q9161265",
-          "display_name": "Soil science",
-          "level": 1,
-          "score": 0.4182993769645691
-        },
-        {
-          "id": "https://openalex.org/C44838205",
-          "wikidata": "https://www.wikidata.org/wiki/Q127995",
-          "display_name": "Microwave",
-          "level": 2,
-          "score": 0.36969679594039917
-        },
-        {
-          "id": "https://openalex.org/C91586092",
-          "wikidata": "https://www.wikidata.org/wiki/Q757520",
-          "display_name": "Atmospheric sciences",
-          "level": 1,
-          "score": 0.35723876953125
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.16070380806922913
-        },
-        {
-          "id": "https://openalex.org/C4792198",
-          "wikidata": "https://www.wikidata.org/wiki/Q1165944",
-          "display_name": "Land use",
-          "level": 2,
-          "score": 0.13383162021636963
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.09364423155784607
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C142724271",
-          "wikidata": "https://www.wikidata.org/wiki/Q7208",
-          "display_name": "Pathology",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C120665830",
-          "wikidata": "https://www.wikidata.org/wiki/Q14620",
-          "display_name": "Optics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C62520636",
-          "wikidata": "https://www.wikidata.org/wiki/Q944",
-          "display_name": "Quantum mechanics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C159985019",
-          "wikidata": "https://www.wikidata.org/wiki/Q181790",
-          "display_name": "Composite material",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C71924100",
-          "wikidata": "https://www.wikidata.org/wiki/Q11190",
-          "display_name": "Medicine",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C147176958",
-          "wikidata": "https://www.wikidata.org/wiki/Q77590",
-          "display_name": "Civil engineering",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.rse.2005.10.017",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.rse.2005.10.017",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S141808269",
-            "display_name": "Remote Sensing of Environment",
-            "issn_l": "0034-4257",
-            "issn": [
-              "0034-4257",
-              "1879-0704"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "jufo-3",
-              "ki-jl-1",
-              "norway-2"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Remote Sensing of Environment",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 0.49000000953674316,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
-        }
-      ],
-      "x_sdgs": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320306101",
-          "display_name": "National Aeronautics and Space Administration",
-          "ror": "https://ror.org/027ka1x80"
-        },
-        {
-          "id": "https://openalex.org/F4320332375",
-          "display_name": "Jet Propulsion Laboratory",
-          "ror": "https://ror.org/027k65916"
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 22,
-      "referenced_works": [
-        "https://openalex.org/W61970794",
-        "https://openalex.org/W623241495",
-        "https://openalex.org/W1997018334",
-        "https://openalex.org/W2017458076",
-        "https://openalex.org/W2044927495",
-        "https://openalex.org/W2055977389",
-        "https://openalex.org/W2072567364",
-        "https://openalex.org/W2097212954",
-        "https://openalex.org/W2099754454",
-        "https://openalex.org/W2100401723",
-        "https://openalex.org/W2107437432",
-        "https://openalex.org/W2109781827",
-        "https://openalex.org/W2111030194",
-        "https://openalex.org/W2114569030",
-        "https://openalex.org/W2120340076",
-        "https://openalex.org/W2127967130",
-        "https://openalex.org/W2132549823",
-        "https://openalex.org/W2139140906",
-        "https://openalex.org/W2139845314",
-        "https://openalex.org/W2140510442",
-        "https://openalex.org/W2159200140",
-        "https://openalex.org/W2970526532"
-      ],
-      "related_works": [
-        "https://openalex.org/W2117901565",
-        "https://openalex.org/W2086097481",
-        "https://openalex.org/W2140822038",
-        "https://openalex.org/W2096413711",
-        "https://openalex.org/W2042797634",
-        "https://openalex.org/W2109138921",
-        "https://openalex.org/W2028405691",
-        "https://openalex.org/W1978078116",
-        "https://openalex.org/W2005230581",
-        "https://openalex.org/W2109355119"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 12
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 14
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 22
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 17
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 23
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 20
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 23
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 28
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 26
-        }
-      ],
-      "updated_date": "2026-09-25T08:18:29.962427",
-      "created_date": "2025-10-10T00:00:00"
-    },
     {
       "id": "https://openalex.org/W2561718206",
       "doi": "https://doi.org/10.1016/j.palaeo.2016.12.041",
@@ -1653,12 +967,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [
         {
           "id": "https://openalex.org/G3906557405",
@@ -1683,8 +998,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 93,
@@ -2546,6 +1861,7 @@
       },
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [
         {
@@ -2565,8 +1881,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -3806,17 +3122,18 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/8",
           "display_name": "Decent work and economic growth",
-          "id": "https://metadata.un.org/sdg/8"
+          "score": 0.4099999964237213
         }
       ],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -4437,6 +3754,7 @@
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [
         {
           "id": "https://openalex.org/G872759499",
@@ -4454,8 +3772,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -5115,17 +4433,18 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7400000095367432,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7400000095367432
         }
       ],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -5634,11 +4953,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -6114,17 +5434,18 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6848,11 +6169,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -8152,6 +7474,7 @@
       },
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [
         {
@@ -8161,8 +7484,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -9766,6 +9089,7 @@
       },
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [
         {
@@ -9775,8 +9099,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -11084,6 +10408,7 @@
       },
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [
         {
@@ -11093,8 +10418,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -11820,1125 +11145,6 @@
       "created_date": "2026-03-21T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2924632911",
-      "doi": "https://doi.org/10.1007/s12517-019-4390-4",
-      "title": "KFUPM Ghawar digital viscoelastic seismic model",
-      "display_name": "KFUPM Ghawar digital viscoelastic seismic model",
-      "publication_year": 2019,
-      "publication_date": "2019-03-27",
-      "ids": {
-        "openalex": "https://openalex.org/W2924632911",
-        "doi": "https://doi.org/10.1007/s12517-019-4390-4",
-        "mag": "2924632911"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/s12517-019-4390-4",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1007/s12517-019-4390-4",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S38407038",
-          "display_name": "Arabian Journal of Geosciences",
-          "issn_l": "1866-7511",
-          "issn": [
-            "1866-7511",
-            "1866-7538"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core"
-          ],
-          "host_organization": "https://openalex.org/P4310319900",
-          "host_organization_name": "Springer Science+Business Media",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319900",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Science+Business Media",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Arabian Journal of Geosciences",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5054922583",
-            "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-2171-0154"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdullatif A. Al-Shuhail",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5111604304",
-            "display_name": "Abdullah A. Alshuhail",
-            "orcid": "https://orcid.org/0000-0001-5392-3261",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5392-3261"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Abdullatif A. Al-Shuhail",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5111604304",
-            "display_name": "Abdullah A. Alshuhail",
-            "orcid": "https://orcid.org/0000-0001-5392-3261",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5392-3261"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdullah A. Alshuhail",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-            "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5111604304",
-            "display_name": "Abdullah A. Alshuhail",
-            "orcid": "https://orcid.org/0000-0001-5392-3261",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5392-3261"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Abdullah A. Alshuhail",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-            "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5011094295",
-            "display_name": "Yehia Abel Khulief",
-            "orcid": "https://orcid.org/0000-0002-0773-9663",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-0773-9663"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Yehia A. Khulief",
-          "raw_affiliation_strings": [
-            "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5052948710",
-            "display_name": "Syed Abdul Salam",
-            "orcid": "https://orcid.org/0000-0003-2634-5317",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-2634-5317"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Syed Abdul Salam",
-          "raw_affiliation_strings": [
-            "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5080643603",
-            "display_name": "Septriandi A. Chan",
-            "orcid": "https://orcid.org/0000-0002-3681-7464",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-3681-7464"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Septriandi A. Chan",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5025525862",
-            "display_name": "Abdul Latif Ashadi",
-            "orcid": "https://orcid.org/0000-0002-6239-0070",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-6239-0070"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdul Latif Ashadi",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5059100961",
-            "display_name": "Ayman Fazea Al-Lehyani",
-            "orcid": "https://orcid.org/0000-0002-5595-0017",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-5595-0017"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ayman F. Al-Lehyani",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-            "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5043160185",
-            "display_name": "Adnan M. Almubarak",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Adnan M. Almubarak",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-            "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5025389039",
-            "display_name": "Mohammed Zia Ullah Khan",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed Zia Ullah Khan",
-          "raw_affiliation_strings": [
-            "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5065687785",
-            "display_name": "Sikandar Khan",
-            "orcid": "https://orcid.org/0000-0002-5631-8312",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-5631-8312"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Sikandar Khan",
-          "raw_affiliation_strings": [
-            "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5035619951",
-            "display_name": "Salem G. Aljuhani",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Salem G. AlJuhani",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5013053211",
-            "display_name": "Khalid A. Abdulrahman",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Khalid A. Abdulrahman",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5111604304"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 2690,
-        "currency": "USD",
-        "value_usd": 2690
-      },
-      "apc_paid": null,
-      "fwci": 1.4252,
-      "has_fulltext": false,
-      "cited_by_count": 11,
-      "citation_normalized_percentile": {
-        "value": 0.76698299,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 91,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "12",
-        "issue": "7",
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10271",
-        "display_name": "Seismic Imaging and Inversion Techniques",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10271",
-          "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9990000128746033,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10892",
-          "display_name": "Drilling and Well Engineering",
-          "score": 0.9987000226974487,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.7369421124458313
-        },
-        {
-          "id": "https://openalex.org/keywords/viscoelasticity",
-          "display_name": "Viscoelasticity",
-          "score": 0.5777143239974976
-        },
-        {
-          "id": "https://openalex.org/keywords/field",
-          "display_name": "Field (mathematics)",
-          "score": 0.5154834389686584
-        },
-        {
-          "id": "https://openalex.org/keywords/seismology",
-          "display_name": "Seismology",
-          "score": 0.49366292357444763
-        },
-        {
-          "id": "https://openalex.org/keywords/set",
-          "display_name": "Set (abstract data type)",
-          "score": 0.45421090722084045
-        },
-        {
-          "id": "https://openalex.org/keywords/seismic-to-simulation",
-          "display_name": "Seismic to simulation",
-          "score": 0.4440745413303375
-        },
-        {
-          "id": "https://openalex.org/keywords/synthetic-data",
-          "display_name": "Synthetic data",
-          "score": 0.4298974871635437
-        },
-        {
-          "id": "https://openalex.org/keywords/geophysics",
-          "display_name": "Geophysics",
-          "score": 0.3411399722099304
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.31011056900024414
-        },
-        {
-          "id": "https://openalex.org/keywords/algorithm",
-          "display_name": "Algorithm",
-          "score": 0.2855991721153259
-        },
-        {
-          "id": "https://openalex.org/keywords/seismic-inversion",
-          "display_name": "Seismic inversion",
-          "score": 0.25079917907714844
-        },
-        {
-          "id": "https://openalex.org/keywords/mathematics",
-          "display_name": "Mathematics",
-          "score": 0.13524499535560608
-        },
-        {
-          "id": "https://openalex.org/keywords/geometry",
-          "display_name": "Geometry",
-          "score": 0.1159839928150177
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7369421124458313
-        },
-        {
-          "id": "https://openalex.org/C186541917",
-          "wikidata": "https://www.wikidata.org/wiki/Q910483",
-          "display_name": "Viscoelasticity",
-          "level": 2,
-          "score": 0.5777143239974976
-        },
-        {
-          "id": "https://openalex.org/C9652623",
-          "wikidata": "https://www.wikidata.org/wiki/Q190109",
-          "display_name": "Field (mathematics)",
-          "level": 2,
-          "score": 0.5154834389686584
-        },
-        {
-          "id": "https://openalex.org/C165205528",
-          "wikidata": "https://www.wikidata.org/wiki/Q83371",
-          "display_name": "Seismology",
-          "level": 1,
-          "score": 0.49366292357444763
-        },
-        {
-          "id": "https://openalex.org/C177264268",
-          "wikidata": "https://www.wikidata.org/wiki/Q1514741",
-          "display_name": "Set (abstract data type)",
-          "level": 2,
-          "score": 0.45421090722084045
-        },
-        {
-          "id": "https://openalex.org/C64370902",
-          "wikidata": "https://www.wikidata.org/wiki/Q7315329",
-          "display_name": "Seismic to simulation",
-          "level": 4,
-          "score": 0.4440745413303375
-        },
-        {
-          "id": "https://openalex.org/C160920958",
-          "wikidata": "https://www.wikidata.org/wiki/Q7662746",
-          "display_name": "Synthetic data",
-          "level": 2,
-          "score": 0.4298974871635437
-        },
-        {
-          "id": "https://openalex.org/C8058405",
-          "wikidata": "https://www.wikidata.org/wiki/Q46255",
-          "display_name": "Geophysics",
-          "level": 1,
-          "score": 0.3411399722099304
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.31011056900024414
-        },
-        {
-          "id": "https://openalex.org/C11413529",
-          "wikidata": "https://www.wikidata.org/wiki/Q8366",
-          "display_name": "Algorithm",
-          "level": 1,
-          "score": 0.2855991721153259
-        },
-        {
-          "id": "https://openalex.org/C39267094",
-          "wikidata": "https://www.wikidata.org/wiki/Q7446968",
-          "display_name": "Seismic inversion",
-          "level": 3,
-          "score": 0.25079917907714844
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0.13524499535560608
-        },
-        {
-          "id": "https://openalex.org/C2524010",
-          "wikidata": "https://www.wikidata.org/wiki/Q8087",
-          "display_name": "Geometry",
-          "level": 1,
-          "score": 0.1159839928150177
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C159737794",
-          "wikidata": "https://www.wikidata.org/wiki/Q124274",
-          "display_name": "Azimuth",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C202444582",
-          "wikidata": "https://www.wikidata.org/wiki/Q837863",
-          "display_name": "Pure mathematics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C97355855",
-          "wikidata": "https://www.wikidata.org/wiki/Q11473",
-          "display_name": "Thermodynamics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C199360897",
-          "wikidata": "https://www.wikidata.org/wiki/Q9143",
-          "display_name": "Programming language",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/s12517-019-4390-4",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1007/s12517-019-4390-4",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S38407038",
-            "display_name": "Arabian Journal of Geosciences",
-            "issn_l": "1866-7511",
-            "issn": [
-              "1866-7511",
-              "1866-7538"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core"
-            ],
-            "host_organization": "https://openalex.org/P4310319900",
-            "host_organization_name": "Springer Science+Business Media",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319900",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Science+Business Media",
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Arabian Journal of Geosciences",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 0.7099999785423279,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
-        }
-      ],
-      "x_sdgs": [],
-      "awards": [
-        {
-          "id": "https://openalex.org/G2497257451",
-          "display_name": null,
-          "funder_award_id": "TIC-CCS-1",
-          "funder_id": "https://openalex.org/F4320322997",
-          "funder_display_name": "King Abdulaziz City for Science and Technology"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320322323",
-          "display_name": "King Fahd University of Petroleum and Minerals",
-          "ror": "https://ror.org/03yez3163"
-        },
-        {
-          "id": "https://openalex.org/F4320322997",
-          "display_name": "King Abdulaziz City for Science and Technology",
-          "ror": "https://ror.org/05tdz6m39"
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 31,
-      "referenced_works": [
-        "https://openalex.org/W203584942",
-        "https://openalex.org/W1927598922",
-        "https://openalex.org/W1973977895",
-        "https://openalex.org/W1975476134",
-        "https://openalex.org/W1981212228",
-        "https://openalex.org/W2036264230",
-        "https://openalex.org/W2043926826",
-        "https://openalex.org/W2056243140",
-        "https://openalex.org/W2089045238",
-        "https://openalex.org/W2108862943",
-        "https://openalex.org/W2113987921",
-        "https://openalex.org/W2128673992",
-        "https://openalex.org/W2131229179",
-        "https://openalex.org/W2136195355",
-        "https://openalex.org/W2149852641",
-        "https://openalex.org/W2164310172",
-        "https://openalex.org/W2270004545",
-        "https://openalex.org/W2330820153",
-        "https://openalex.org/W2560327523",
-        "https://openalex.org/W2589781296",
-        "https://openalex.org/W2620834904",
-        "https://openalex.org/W2623567129",
-        "https://openalex.org/W2939888277",
-        "https://openalex.org/W2944320642",
-        "https://openalex.org/W2953570489",
-        "https://openalex.org/W2955574704",
-        "https://openalex.org/W2990128836",
-        "https://openalex.org/W2998459675",
-        "https://openalex.org/W3012130168",
-        "https://openalex.org/W3033546459",
-        "https://openalex.org/W3122398970"
-      ],
-      "related_works": [
-        "https://openalex.org/W4221057967",
-        "https://openalex.org/W4243019676",
-        "https://openalex.org/W2517352629",
-        "https://openalex.org/W2783562378",
-        "https://openalex.org/W4293192718",
-        "https://openalex.org/W4394391585",
-        "https://openalex.org/W2045876794",
-        "https://openalex.org/W2255703620",
-        "https://openalex.org/W1993696404",
-        "https://openalex.org/W4384644066"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 3
-        }
-      ],
-      "updated_date": "2026-09-26T08:19:03.415552",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4221113986",
       "doi": "https://doi.org/10.1016/j.marmicro.2022.102116",
       "title": "Changes in paleoenvironmental conditions during the Late Jurassic of the western Neo-Tethys: Calcareous nannofossils and geochemistry",
@@ -13005,7 +11211,10 @@
           "author": {
             "id": "https://openalex.org/A5080643603",
             "display_name": "Septriandi A. Chan",
-            "orcid": "https://orcid.org/0000-0002-3681-7464"
+            "orcid": "https://orcid.org/0000-0002-3681-7464",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3681-7464"
+            ]
           },
           "institutions": [
             {
@@ -13042,7 +11251,10 @@
           "author": {
             "id": "https://openalex.org/A5012403522",
             "display_name": "Ramona Bălc",
-            "orcid": "https://orcid.org/0000-0002-9419-2351"
+            "orcid": "https://orcid.org/0000-0002-9419-2351",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9419-2351"
+            ]
           },
           "institutions": [
             {
@@ -13086,7 +11298,10 @@
           "author": {
             "id": "https://openalex.org/A5082826691",
             "display_name": "JOHN D. HUMPHREY",
-            "orcid": "https://orcid.org/0000-0002-8927-2322"
+            "orcid": "https://orcid.org/0000-0002-8927-2322",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8927-2322"
+            ]
           },
           "institutions": [
             {
@@ -13123,7 +11338,10 @@
           "author": {
             "id": "https://openalex.org/A5027197211",
             "display_name": "Abduljamiu Olalekan Amao",
-            "orcid": "https://orcid.org/0000-0001-8203-851X"
+            "orcid": "https://orcid.org/0000-0001-8203-851X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8203-851X"
+            ]
           },
           "institutions": [
             {
@@ -13160,7 +11378,10 @@
           "author": {
             "id": "https://openalex.org/A5035815399",
             "display_name": "Michael A. Kaminski",
-            "orcid": "https://orcid.org/0000-0002-7344-5874"
+            "orcid": "https://orcid.org/0000-0002-7344-5874",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7344-5874"
+            ]
           },
           "institutions": [
             {
@@ -13197,7 +11418,10 @@
           "author": {
             "id": "https://openalex.org/A5008057862",
             "display_name": "Yaser Alzayer",
-            "orcid": "https://orcid.org/0000-0002-2391-5743"
+            "orcid": "https://orcid.org/0000-0002-2391-5743",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2391-5743"
+            ]
           },
           "institutions": [
             {
@@ -13234,7 +11458,10 @@
           "author": {
             "id": "https://openalex.org/A5070549540",
             "display_name": "Fabian Duque",
-            "orcid": "https://orcid.org/0000-0003-1415-0782"
+            "orcid": "https://orcid.org/0000-0003-1415-0782",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1415-0782"
+            ]
           },
           "institutions": [
             {
@@ -13286,11 +11513,11 @@
         "currency": "USD",
         "value_usd": 2400
       },
-      "fwci": 4.0715,
+      "fwci": 4.4447,
       "has_fulltext": false,
-      "cited_by_count": 11,
+      "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.92192531,
+        "value": 0.93081081,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13628,17 +11855,18 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 111,
@@ -14425,10 +12653,1131 @@
         },
         {
           "year": 2023,
+          "cited_by_count": 4
+        }
+      ],
+      "updated_date": "2026-09-27T08:07:27.782135",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2924632911",
+      "doi": "https://doi.org/10.1007/s12517-019-4390-4",
+      "title": "KFUPM Ghawar digital viscoelastic seismic model",
+      "display_name": "KFUPM Ghawar digital viscoelastic seismic model",
+      "publication_year": 2019,
+      "publication_date": "2019-03-27",
+      "ids": {
+        "openalex": "https://openalex.org/W2924632911",
+        "doi": "https://doi.org/10.1007/s12517-019-4390-4",
+        "mag": "2924632911"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/s12517-019-4390-4",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/s12517-019-4390-4",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S38407038",
+          "display_name": "Arabian Journal of Geosciences",
+          "issn_l": "1866-7511",
+          "issn": [
+            "1866-7511",
+            "1866-7538"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Arabian Journal of Geosciences",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5054922583",
+            "display_name": "Abdullatif Abdulrahman Al-Shuhail",
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Abdullatif A. Al-Shuhail",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111604304",
+            "display_name": "Abdullah A. Alshuhail",
+            "orcid": "https://orcid.org/0000-0001-5392-3261",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5392-3261"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdullatif A. Al-Shuhail",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111604304",
+            "display_name": "Abdullah A. Alshuhail",
+            "orcid": "https://orcid.org/0000-0001-5392-3261",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5392-3261"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Abdullah A. Alshuhail",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+            "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111604304",
+            "display_name": "Abdullah A. Alshuhail",
+            "orcid": "https://orcid.org/0000-0001-5392-3261",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5392-3261"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdullah A. Alshuhail",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+            "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5011094295",
+            "display_name": "Yehia Abel Khulief",
+            "orcid": "https://orcid.org/0000-0002-0773-9663",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0773-9663"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yehia A. Khulief",
+          "raw_affiliation_strings": [
+            "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052948710",
+            "display_name": "Syed Abdul Salam",
+            "orcid": "https://orcid.org/0000-0003-2634-5317",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2634-5317"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Syed Abdul Salam",
+          "raw_affiliation_strings": [
+            "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080643603",
+            "display_name": "Septriandi A. Chan",
+            "orcid": "https://orcid.org/0000-0002-3681-7464",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3681-7464"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Septriandi A. Chan",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5025525862",
+            "display_name": "Abdul Latif Ashadi",
+            "orcid": "https://orcid.org/0000-0002-6239-0070",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6239-0070"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdul Latif Ashadi",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5059100961",
+            "display_name": "Ayman Fazea Al-Lehyani",
+            "orcid": "https://orcid.org/0000-0002-5595-0017",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5595-0017"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ayman F. Al-Lehyani",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+            "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5043160185",
+            "display_name": "Adnan M. Almubarak",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Adnan M. Almubarak",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+            "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5025389039",
+            "display_name": "Mohammed Zia Ullah Khan",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Zia Ullah Khan",
+          "raw_affiliation_strings": [
+            "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Electrical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5065687785",
+            "display_name": "Sikandar Khan",
+            "orcid": "https://orcid.org/0000-0002-5631-8312",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5631-8312"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sikandar Khan",
+          "raw_affiliation_strings": [
+            "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Mechanical Engineering Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5035619951",
+            "display_name": "Salem G. Aljuhani",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Salem G. AlJuhani",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5013053211",
+            "display_name": "Khalid A. Abdulrahman",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Khalid A. Abdulrahman",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5054922583",
+        "https://openalex.org/A5111604304"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 2690,
+        "currency": "USD",
+        "value_usd": 2690
+      },
+      "apc_paid": null,
+      "fwci": 1.4239,
+      "has_fulltext": false,
+      "cited_by_count": 11,
+      "citation_normalized_percentile": {
+        "value": 0.76687014,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 91,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "12",
+        "issue": "7",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10271",
+        "display_name": "Seismic Imaging and Inversion Techniques",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10635",
+          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+          "score": 0.9990000128746033,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10892",
+          "display_name": "Drilling and Well Engineering",
+          "score": 0.9987000226974487,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.7369421124458313
+        },
+        {
+          "id": "https://openalex.org/keywords/viscoelasticity",
+          "display_name": "Viscoelasticity",
+          "score": 0.5777143239974976
+        },
+        {
+          "id": "https://openalex.org/keywords/field",
+          "display_name": "Field (mathematics)",
+          "score": 0.5154834389686584
+        },
+        {
+          "id": "https://openalex.org/keywords/seismology",
+          "display_name": "Seismology",
+          "score": 0.49366292357444763
+        },
+        {
+          "id": "https://openalex.org/keywords/set",
+          "display_name": "Set (abstract data type)",
+          "score": 0.45421090722084045
+        },
+        {
+          "id": "https://openalex.org/keywords/seismic-to-simulation",
+          "display_name": "Seismic to simulation",
+          "score": 0.4440745413303375
+        },
+        {
+          "id": "https://openalex.org/keywords/synthetic-data",
+          "display_name": "Synthetic data",
+          "score": 0.4298974871635437
+        },
+        {
+          "id": "https://openalex.org/keywords/geophysics",
+          "display_name": "Geophysics",
+          "score": 0.3411399722099304
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.31011056900024414
+        },
+        {
+          "id": "https://openalex.org/keywords/algorithm",
+          "display_name": "Algorithm",
+          "score": 0.2855991721153259
+        },
+        {
+          "id": "https://openalex.org/keywords/seismic-inversion",
+          "display_name": "Seismic inversion",
+          "score": 0.25079917907714844
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.13524499535560608
+        },
+        {
+          "id": "https://openalex.org/keywords/geometry",
+          "display_name": "Geometry",
+          "score": 0.1159839928150177
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7369421124458313
+        },
+        {
+          "id": "https://openalex.org/C186541917",
+          "wikidata": "https://www.wikidata.org/wiki/Q910483",
+          "display_name": "Viscoelasticity",
+          "level": 2,
+          "score": 0.5777143239974976
+        },
+        {
+          "id": "https://openalex.org/C9652623",
+          "wikidata": "https://www.wikidata.org/wiki/Q190109",
+          "display_name": "Field (mathematics)",
+          "level": 2,
+          "score": 0.5154834389686584
+        },
+        {
+          "id": "https://openalex.org/C165205528",
+          "wikidata": "https://www.wikidata.org/wiki/Q83371",
+          "display_name": "Seismology",
+          "level": 1,
+          "score": 0.49366292357444763
+        },
+        {
+          "id": "https://openalex.org/C177264268",
+          "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+          "display_name": "Set (abstract data type)",
+          "level": 2,
+          "score": 0.45421090722084045
+        },
+        {
+          "id": "https://openalex.org/C64370902",
+          "wikidata": "https://www.wikidata.org/wiki/Q7315329",
+          "display_name": "Seismic to simulation",
+          "level": 4,
+          "score": 0.4440745413303375
+        },
+        {
+          "id": "https://openalex.org/C160920958",
+          "wikidata": "https://www.wikidata.org/wiki/Q7662746",
+          "display_name": "Synthetic data",
+          "level": 2,
+          "score": 0.4298974871635437
+        },
+        {
+          "id": "https://openalex.org/C8058405",
+          "wikidata": "https://www.wikidata.org/wiki/Q46255",
+          "display_name": "Geophysics",
+          "level": 1,
+          "score": 0.3411399722099304
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.31011056900024414
+        },
+        {
+          "id": "https://openalex.org/C11413529",
+          "wikidata": "https://www.wikidata.org/wiki/Q8366",
+          "display_name": "Algorithm",
+          "level": 1,
+          "score": 0.2855991721153259
+        },
+        {
+          "id": "https://openalex.org/C39267094",
+          "wikidata": "https://www.wikidata.org/wiki/Q7446968",
+          "display_name": "Seismic inversion",
+          "level": 3,
+          "score": 0.25079917907714844
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.13524499535560608
+        },
+        {
+          "id": "https://openalex.org/C2524010",
+          "wikidata": "https://www.wikidata.org/wiki/Q8087",
+          "display_name": "Geometry",
+          "level": 1,
+          "score": 0.1159839928150177
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C159737794",
+          "wikidata": "https://www.wikidata.org/wiki/Q124274",
+          "display_name": "Azimuth",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C202444582",
+          "wikidata": "https://www.wikidata.org/wiki/Q837863",
+          "display_name": "Pure mathematics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C97355855",
+          "wikidata": "https://www.wikidata.org/wiki/Q11473",
+          "display_name": "Thermodynamics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C199360897",
+          "wikidata": "https://www.wikidata.org/wiki/Q9143",
+          "display_name": "Programming language",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/s12517-019-4390-4",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/s12517-019-4390-4",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S38407038",
+            "display_name": "Arabian Journal of Geosciences",
+            "issn_l": "1866-7511",
+            "issn": [
+              "1866-7511",
+              "1866-7538"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Arabian Journal of Geosciences",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
+          "score": 0.7099999785423279
+        }
+      ],
+      "x_sdgs": [],
+      "study_designs": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G2497257451",
+          "display_name": null,
+          "funder_award_id": "TIC-CCS-1",
+          "funder_id": "https://openalex.org/F4320322997",
+          "funder_display_name": "King Abdulaziz City for Science and Technology"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        },
+        {
+          "id": "https://openalex.org/F4320322997",
+          "display_name": "King Abdulaziz City for Science and Technology",
+          "ror": "https://ror.org/05tdz6m39"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 31,
+      "referenced_works": [
+        "https://openalex.org/W203584942",
+        "https://openalex.org/W1927598922",
+        "https://openalex.org/W1973977895",
+        "https://openalex.org/W1975476134",
+        "https://openalex.org/W1981212228",
+        "https://openalex.org/W2036264230",
+        "https://openalex.org/W2043926826",
+        "https://openalex.org/W2056243140",
+        "https://openalex.org/W2089045238",
+        "https://openalex.org/W2108862943",
+        "https://openalex.org/W2113987921",
+        "https://openalex.org/W2128673992",
+        "https://openalex.org/W2131229179",
+        "https://openalex.org/W2136195355",
+        "https://openalex.org/W2149852641",
+        "https://openalex.org/W2164310172",
+        "https://openalex.org/W2270004545",
+        "https://openalex.org/W2330820153",
+        "https://openalex.org/W2560327523",
+        "https://openalex.org/W2589781296",
+        "https://openalex.org/W2620834904",
+        "https://openalex.org/W2623567129",
+        "https://openalex.org/W2939888277",
+        "https://openalex.org/W2944320642",
+        "https://openalex.org/W2953570489",
+        "https://openalex.org/W2955574704",
+        "https://openalex.org/W2990128836",
+        "https://openalex.org/W2998459675",
+        "https://openalex.org/W3012130168",
+        "https://openalex.org/W3033546459",
+        "https://openalex.org/W3122398970"
+      ],
+      "related_works": [
+        "https://openalex.org/W4221057967",
+        "https://openalex.org/W4243019676",
+        "https://openalex.org/W2517352629",
+        "https://openalex.org/W2783562378",
+        "https://openalex.org/W4293192718",
+        "https://openalex.org/W4394391585",
+        "https://openalex.org/W2045876794",
+        "https://openalex.org/W2255703620",
+        "https://openalex.org/W1993696404",
+        "https://openalex.org/W4384644066"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2020,
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-27T08:07:27.782135",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14918,11 +14267,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -16096,12 +15446,13 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "score": 0.4699999988079071
         }
       ],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [
         {
           "id": "https://openalex.org/G7384283236",
@@ -16129,8 +15480,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4293379780.pdf",
@@ -17093,11 +16444,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17557,11 +16909,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -18813,6 +18166,7 @@
       },
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [
         {
           "id": "https://openalex.org/G2471559958",
@@ -18842,8 +18196,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3127304390.pdf",
@@ -19820,17 +19174,18 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20504,17 +19859,18 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7799999713897705,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.7799999713897705
         }
       ],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20931,17 +20287,18 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.5299999713897705
         }
       ],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -21657,11 +21014,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21686,920 +21044,6 @@
         }
       ],
       "updated_date": "2026-09-22T06:50:58.402377",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2481043480",
-      "doi": "https://doi.org/10.1016/b978-008044637-0/50274-2",
-      "title": "Keyword index Volumes I and II",
-      "display_name": "Keyword index Volumes I and II",
-      "publication_year": 2005,
-      "publication_date": "2005-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2481043480",
-        "doi": "https://doi.org/10.1016/b978-008044637-0/50274-2",
-        "mag": "2481043480"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/b978-008044637-0/50274-2",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/b978-008044637-0/50274-2",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306463230",
-          "display_name": "Elsevier eBooks",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "ebook platform"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Fourth International Conference on Advances in Steel Structures",
-        "raw_type": "book-chapter"
-      },
-      "type": "conference-paper",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5040894517",
-            "display_name": "Zhesi Shen",
-            "orcid": "https://orcid.org/0000-0001-8414-7912"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Z SHEN",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5074787611",
-            "display_name": "G LI",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "G LI",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5080643603",
-            "display_name": "Septriandi A. Chan",
-            "orcid": "https://orcid.org/0000-0002-3681-7464"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "S CHAN",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.24521498,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "I",
-        "last_page": "7"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13370",
-        "display_name": "Diverse Scientific and Economic Studies",
-        "score": 0.022099999710917473,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2002",
-          "display_name": "Economics and Econometrics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/20",
-          "display_name": "Economics, Econometrics and Finance"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13370",
-          "display_name": "Diverse Scientific and Economic Studies",
-          "score": 0.022099999710917473,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2002",
-            "display_name": "Economics and Econometrics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/20",
-            "display_name": "Economics, Econometrics and Finance"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13638",
-          "display_name": "Human auditory perception and evaluation",
-          "score": 0.012799999676644802,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2202",
-            "display_name": "Aerospace Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/index",
-          "display_name": "Index (typography)",
-          "score": 0.7561972141265869
-        },
-        {
-          "id": "https://openalex.org/keywords/mathematics",
-          "display_name": "Mathematics",
-          "score": 0.3543652296066284
-        },
-        {
-          "id": "https://openalex.org/keywords/statistics",
-          "display_name": "Statistics",
-          "score": 0.35096755623817444
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.26994726061820984
-        },
-        {
-          "id": "https://openalex.org/keywords/world-wide-web",
-          "display_name": "World Wide Web",
-          "score": 0.10652011632919312
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2777382242",
-          "wikidata": "https://www.wikidata.org/wiki/Q6017816",
-          "display_name": "Index (typography)",
-          "level": 2,
-          "score": 0.7561972141265869
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0.3543652296066284
-        },
-        {
-          "id": "https://openalex.org/C105795698",
-          "wikidata": "https://www.wikidata.org/wiki/Q12483",
-          "display_name": "Statistics",
-          "level": 1,
-          "score": 0.35096755623817444
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.26994726061820984
-        },
-        {
-          "id": "https://openalex.org/C136764020",
-          "wikidata": "https://www.wikidata.org/wiki/Q466",
-          "display_name": "World Wide Web",
-          "level": 1,
-          "score": 0.10652011632919312
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/b978-008044637-0/50274-2",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/b978-008044637-0/50274-2",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306463230",
-            "display_name": "Elsevier eBooks",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "ebook platform"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Fourth International Conference on Advances in Steel Structures",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W1979597421",
-        "https://openalex.org/W2007980826",
-        "https://openalex.org/W4245490552",
-        "https://openalex.org/W4225152035",
-        "https://openalex.org/W2061531152",
-        "https://openalex.org/W3002753104",
-        "https://openalex.org/W2077600819",
-        "https://openalex.org/W1587224694",
-        "https://openalex.org/W2911598644",
-        "https://openalex.org/W2142036596"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2489311885",
-      "doi": "https://doi.org/10.1016/b978-008044637-0/50273-0",
-      "title": "Index of contributors Volumes I and II",
-      "display_name": "Index of contributors Volumes I and II",
-      "publication_year": 2005,
-      "publication_date": "2005-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2489311885",
-        "doi": "https://doi.org/10.1016/b978-008044637-0/50273-0",
-        "mag": "2489311885"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/b978-008044637-0/50273-0",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/b978-008044637-0/50273-0",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306463230",
-          "display_name": "Elsevier eBooks",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "ebook platform"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Fourth International Conference on Advances in Steel Structures",
-        "raw_type": "book-chapter"
-      },
-      "type": "paratext",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5040894517",
-            "display_name": "Zhesi Shen",
-            "orcid": "https://orcid.org/0000-0001-8414-7912"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Z SHEN",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5074787611",
-            "display_name": "G LI",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "G LI",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5080643603",
-            "display_name": "Septriandi A. Chan",
-            "orcid": "https://orcid.org/0000-0002-3681-7464"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "S CHAN",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": null,
-      "has_fulltext": false,
-      "cited_by_count": 0,
-      "citation_normalized_percentile": null,
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "I",
-        "last_page": "1"
-      },
-      "is_retracted": false,
-      "is_paratext": true,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13370",
-        "display_name": "Diverse Scientific and Economic Studies",
-        "score": 0.06509999930858612,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2002",
-          "display_name": "Economics and Econometrics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/20",
-          "display_name": "Economics, Econometrics and Finance"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13370",
-          "display_name": "Diverse Scientific and Economic Studies",
-          "score": 0.06509999930858612,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2002",
-            "display_name": "Economics and Econometrics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/20",
-            "display_name": "Economics, Econometrics and Finance"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12633",
-          "display_name": "Legal case studies and regulations",
-          "score": 0.018400000408291817,
-          "subfield": {
-            "id": "https://openalex.org/subfields/3320",
-            "display_name": "Political Science and International Relations"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/33",
-            "display_name": "Social Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11662",
-          "display_name": "Legal Cases and Commentary",
-          "score": 0.014000000432133675,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2743",
-            "display_name": "Reproductive Medicine"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/27",
-            "display_name": "Medicine"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/4",
-            "display_name": "Health Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/index",
-          "display_name": "Index (typography)",
-          "score": 0.7724158763885498
-        },
-        {
-          "id": "https://openalex.org/keywords/statistics",
-          "display_name": "Statistics",
-          "score": 0.3912796378135681
-        },
-        {
-          "id": "https://openalex.org/keywords/mathematics",
-          "display_name": "Mathematics",
-          "score": 0.36593008041381836
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.18465259671211243
-        },
-        {
-          "id": "https://openalex.org/keywords/world-wide-web",
-          "display_name": "World Wide Web",
-          "score": 0.047817766666412354
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2777382242",
-          "wikidata": "https://www.wikidata.org/wiki/Q6017816",
-          "display_name": "Index (typography)",
-          "level": 2,
-          "score": 0.7724158763885498
-        },
-        {
-          "id": "https://openalex.org/C105795698",
-          "wikidata": "https://www.wikidata.org/wiki/Q12483",
-          "display_name": "Statistics",
-          "level": 1,
-          "score": 0.3912796378135681
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0.36593008041381836
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.18465259671211243
-        },
-        {
-          "id": "https://openalex.org/C136764020",
-          "wikidata": "https://www.wikidata.org/wiki/Q466",
-          "display_name": "World Wide Web",
-          "level": 1,
-          "score": 0.047817766666412354
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/b978-008044637-0/50273-0",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/b978-008044637-0/50273-0",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306463230",
-            "display_name": "Elsevier eBooks",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "ebook platform"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Fourth International Conference on Advances in Steel Structures",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W1979597421",
-        "https://openalex.org/W2007980826",
-        "https://openalex.org/W4245490552",
-        "https://openalex.org/W4225152035",
-        "https://openalex.org/W2061531152",
-        "https://openalex.org/W3002753104",
-        "https://openalex.org/W2077600819",
-        "https://openalex.org/W1587224694",
-        "https://openalex.org/W2911598644",
-        "https://openalex.org/W2042127053"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [],
-      "updated_date": "2026-07-14T23:27:15.235271",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2490798921",
-      "doi": "https://doi.org/10.1016/b978-008043015-7/50139-1",
-      "title": "Index of Contributors",
-      "display_name": "Index of Contributors",
-      "publication_year": 1999,
-      "publication_date": "1999-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2490798921",
-        "doi": "https://doi.org/10.1016/b978-008043015-7/50139-1",
-        "mag": "2490798921"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/b978-008043015-7/50139-1",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/b978-008043015-7/50139-1",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306463230",
-          "display_name": "Elsevier eBooks",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "ebook platform"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Advances in Steel Structures (ICASS '99)",
-        "raw_type": "book-chapter"
-      },
-      "type": "paratext",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5080643603",
-            "display_name": "Septriandi A. Chan",
-            "orcid": "https://orcid.org/0000-0002-3681-7464",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-3681-7464"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "S CHAN",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5011363480",
-            "display_name": "J TENG",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "J TENG",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": null,
-      "has_fulltext": false,
-      "cited_by_count": 0,
-      "citation_normalized_percentile": null,
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "I1",
-        "last_page": "I4"
-      },
-      "is_retracted": false,
-      "is_paratext": true,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13370",
-        "display_name": "Diverse Scientific and Economic Studies",
-        "score": 0.06440000236034393,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2002",
-          "display_name": "Economics and Econometrics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/20",
-          "display_name": "Economics, Econometrics and Finance"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13370",
-          "display_name": "Diverse Scientific and Economic Studies",
-          "score": 0.06440000236034393,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2002",
-            "display_name": "Economics and Econometrics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/20",
-            "display_name": "Economics, Econometrics and Finance"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11662",
-          "display_name": "Legal Cases and Commentary",
-          "score": 0.02070000022649765,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2743",
-            "display_name": "Reproductive Medicine"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/27",
-            "display_name": "Medicine"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/4",
-            "display_name": "Health Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12633",
-          "display_name": "Legal case studies and regulations",
-          "score": 0.01759999990463257,
-          "subfield": {
-            "id": "https://openalex.org/subfields/3320",
-            "display_name": "Political Science and International Relations"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/33",
-            "display_name": "Social Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/index",
-          "display_name": "Index (typography)",
-          "score": 0.7763019800186157
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.1903328001499176
-        },
-        {
-          "id": "https://openalex.org/keywords/world-wide-web",
-          "display_name": "World Wide Web",
-          "score": 0.07133319973945618
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2777382242",
-          "wikidata": "https://www.wikidata.org/wiki/Q6017816",
-          "display_name": "Index (typography)",
-          "level": 2,
-          "score": 0.7763019800186157
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.1903328001499176
-        },
-        {
-          "id": "https://openalex.org/C136764020",
-          "wikidata": "https://www.wikidata.org/wiki/Q466",
-          "display_name": "World Wide Web",
-          "level": 1,
-          "score": 0.07133319973945618
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/b978-008043015-7/50139-1",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/b978-008043015-7/50139-1",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306463230",
-            "display_name": "Elsevier eBooks",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "ebook platform"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Advances in Steel Structures (ICASS '99)",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2936184523",
-        "https://openalex.org/W4386926693",
-        "https://openalex.org/W4244035922",
-        "https://openalex.org/W4237970082",
-        "https://openalex.org/W2808875111",
-        "https://openalex.org/W4252732434",
-        "https://openalex.org/W924776604",
-        "https://openalex.org/W2772934883",
-        "https://openalex.org/W4245751933",
-        "https://openalex.org/W2393932274"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [],
-      "updated_date": "2026-09-26T08:19:03.415552",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23128,17 +21572,18 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.41999998688697815
         }
       ],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2902775908.pdf",
@@ -24057,11 +22502,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24487,11 +22933,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24839,17 +23286,18 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.6800000071525574
         }
       ],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24923,7 +23371,10 @@
           "author": {
             "id": "https://openalex.org/A5080643603",
             "display_name": "Septriandi A. Chan",
-            "orcid": "https://orcid.org/0000-0002-3681-7464"
+            "orcid": "https://orcid.org/0000-0002-3681-7464",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3681-7464"
+            ]
           },
           "institutions": [
             {
@@ -24960,7 +23411,10 @@
           "author": {
             "id": "https://openalex.org/A5035815399",
             "display_name": "Michael A. Kaminski",
-            "orcid": "https://orcid.org/0000-0002-7344-5874"
+            "orcid": "https://orcid.org/0000-0002-7344-5874",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7344-5874"
+            ]
           },
           "institutions": [
             {
@@ -24995,9 +23449,10 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5111644392",
+            "id": null,
             "display_name": "John Humphrey",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -25286,17 +23741,18 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25782,7 +24238,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-14T23:27:15.235271",
+      "updated_date": "2026-09-27T08:07:27.782135",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -26258,11 +24714,12 @@
       },
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -26877,17 +25334,18 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5699999928474426
         }
       ],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -27459,11 +25917,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -28778,11 +27237,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "x_sdgs": [],
+      "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
