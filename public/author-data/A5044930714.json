@@ -33,40 +33,6 @@
     "affiliations": [
       {
         "institution": {
-          "id": "https://openalex.org/I1286329397",
-          "ror": "https://ror.org/035a68863",
-          "display_name": "United States Geological Survey",
-          "country_code": "US",
-          "type": "government",
-          "lineage": [
-            "https://openalex.org/I1286329397",
-            "https://openalex.org/I1335927249"
-          ]
-        },
-        "years": [
-          2025,
-          2018,
-          2012,
-          2010
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I2799486974",
-          "ror": "https://ror.org/04wtq2305",
-          "display_name": "China Geological Survey",
-          "country_code": "CN",
-          "type": "other",
-          "lineage": [
-            "https://openalex.org/I2799486974"
-          ]
-        },
-        "years": [
-          2025
-        ]
-      },
-      {
-        "institution": {
           "id": "https://openalex.org/I39804081",
           "ror": "https://ror.org/02en5vm52",
           "display_name": "Sorbonne Université",
@@ -96,58 +62,6 @@
         },
         "years": [
           2023
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I4210140406",
-          "ror": "https://ror.org/032ab1973",
-          "display_name": "Geological Survey Department",
-          "country_code": "CY",
-          "type": "government",
-          "lineage": [
-            "https://openalex.org/I4210140406",
-            "https://openalex.org/I4210155077"
-          ]
-        },
-        "years": [
-          2021
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I4210143841",
-          "ror": "https://ror.org/03ypap427",
-          "display_name": "Saudi Aramco (Saudi Arabia)",
-          "country_code": "SA",
-          "type": "company",
-          "lineage": [
-            "https://openalex.org/I4210143841"
-          ]
-        },
-        "years": [
-          2024,
-          2023,
-          2021,
-          2020,
-          2018,
-          2017,
-          2016
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I70374766",
-          "ror": "https://ror.org/02w043707",
-          "display_name": "University of Aden",
-          "country_code": "YE",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I70374766"
-          ]
-        },
-        "years": [
-          2002
         ]
       }
     ],
@@ -243,7 +157,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000522,
+        "value": 0.0000523,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -277,7 +191,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000348,
+        "value": 0.0000349,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -294,7 +208,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000197,
+        "value": 0.0000199,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -455,7 +369,7 @@
     ],
     "block_key": "a memesh",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044930714",
-    "updated_date": "2026-09-25T12:19:18",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2016-10-28T00:00:00"
   },
   "works": [
@@ -550,16 +464,6 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210161060",
               "display_name": "Max Planck Institute of Geoanthropology",
               "ror": "https://ror.org/05mjrzy91",
@@ -593,14 +497,13 @@
             {
               "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, University of Oxford, Oxford, UK. huw.groucutt@rlaha.ox.ac.uk",
               "institution_ids": [
-                "https://openalex.org/I4210140987"
+                "https://openalex.org/I40120149"
               ]
             },
             {
               "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, University of Oxford, Oxford, UK",
               "institution_ids": [
-                "https://openalex.org/I40120149",
-                "https://openalex.org/I4210140987"
+                "https://openalex.org/I40120149"
               ]
             }
           ]
@@ -672,21 +575,8 @@
               "https://orcid.org/0000-0003-1874-801X"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Iyad A. S. Zalmout",
           "raw_affiliation_strings": [
@@ -696,9 +586,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -772,6 +660,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I124357947",
+              "display_name": "University of London",
+              "ror": "https://ror.org/04cw6st05",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947"
+              ]
+            },
+            {
               "id": "https://openalex.org/I184558857",
               "display_name": "Royal Holloway University of London",
               "ror": "https://ror.org/04g2vpn86",
@@ -808,6 +706,7 @@
             {
               "raw_affiliation_string": "Department of Geography, Royal Holloway, University of London, London, UK",
               "institution_ids": [
+                "https://openalex.org/I124357947",
                 "https://openalex.org/I184558857"
               ]
             },
@@ -830,6 +729,16 @@
             ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I124357947",
+              "display_name": "University of London",
+              "ror": "https://ror.org/04cw6st05",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947"
+              ]
+            },
             {
               "id": "https://openalex.org/I184558857",
               "display_name": "Royal Holloway University of London",
@@ -855,6 +764,7 @@
             {
               "raw_affiliation_string": "Department of Geography, Royal Holloway, University of London, London, UK",
               "institution_ids": [
+                "https://openalex.org/I124357947",
                 "https://openalex.org/I184558857"
               ]
             }
@@ -871,6 +781,16 @@
             ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I124357947",
+              "display_name": "University of London",
+              "ror": "https://ror.org/04cw6st05",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947"
+              ]
+            },
             {
               "id": "https://openalex.org/I184558857",
               "display_name": "Royal Holloway University of London",
@@ -896,6 +816,7 @@
             {
               "raw_affiliation_string": "Department of Geography, Royal Holloway, University of London, London, UK",
               "institution_ids": [
+                "https://openalex.org/I124357947",
                 "https://openalex.org/I184558857"
               ]
             }
@@ -1332,16 +1253,6 @@
               "lineage": [
                 "https://openalex.org/I31746571"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210163172",
-              "display_name": "Environmental Earth Sciences",
-              "ror": "https://ror.org/04rnwed46",
-              "country_code": "AU",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I4210163172"
-              ]
             }
           ],
           "countries": [
@@ -1357,8 +1268,7 @@
             {
               "raw_affiliation_string": "Palaeontology, Geobiology and Earth Archives Research Centre, School of Biological, Earth and Environmental Science, University of New South Wales, Sydney, New South Wales, Australia",
               "institution_ids": [
-                "https://openalex.org/I31746571",
-                "https://openalex.org/I4210163172"
+                "https://openalex.org/I31746571"
               ]
             }
           ]
@@ -1594,21 +1504,8 @@
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdullah M. Memesh",
           "raw_affiliation_strings": [
@@ -1618,9 +1515,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -1632,21 +1527,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Ammar J. Abdulshakoor",
           "raw_affiliation_strings": [
@@ -1656,9 +1538,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -1670,21 +1550,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdu M. Al-Masari",
           "raw_affiliation_strings": [
@@ -1694,9 +1561,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -1708,21 +1573,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Ahmed A. Bahameem",
           "raw_affiliation_strings": [
@@ -1732,9 +1584,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -1808,16 +1658,6 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210161060",
               "display_name": "Max Planck Institute of Geoanthropology",
               "ror": "https://ror.org/05mjrzy91",
@@ -1850,8 +1690,7 @@
             {
               "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, University of Oxford, Oxford, UK",
               "institution_ids": [
-                "https://openalex.org/I40120149",
-                "https://openalex.org/I4210140987"
+                "https://openalex.org/I40120149"
               ]
             }
           ]
@@ -1922,6 +1761,7 @@
             {
               "raw_affiliation_string": "Human Origins Program, National Museum of Natural History, Smithsonian Institution, Washington DC, USA. petraglia@shh.mpg.de",
               "institution_ids": [
+                "https://openalex.org/I103187081",
                 "https://openalex.org/I1341618623"
               ]
             },
@@ -1937,7 +1777,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 9,
-      "institutions_distinct_count": 23,
+      "institutions_distinct_count": 21,
       "corresponding_author_ids": [
         "https://openalex.org/A5037966215"
       ],
@@ -1952,11 +1792,11 @@
         "value_usd": 12690
       },
       "apc_paid": null,
-      "fwci": 112.9224,
+      "fwci": 112.8159,
       "has_fulltext": true,
       "cited_by_count": 191,
       "citation_normalized_percentile": {
-        "value": 0.99954069,
+        "value": 0.99956731,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2393,7 +2233,7 @@
           "is_major_topic": true
         }
       ],
-      "locations_count": 14,
+      "locations_count": 15,
       "locations": [
         {
           "id": "doi:10.1038/s41559-018-0518-2",
@@ -2708,6 +2548,36 @@
           "raw_type": "info:eu-repo/semantics/article"
         },
         {
+          "id": "pmh:oai:pure.mpg.de:item_2574289",
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/21.11116/0000-0001-1DB1-7",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400654",
+            "display_name": "MPG.PuRe (Max Planck Society)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I149899117",
+            "host_organization_name": "Max Planck Society",
+            "host_organization_lineage": [
+              "https://openalex.org/I149899117"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Nature Ecology & Evolution",
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
           "id": "pmh:oai:pure.mpg.de:item_3052855",
           "is_oa": false,
           "landing_page_url": "http://hdl.handle.net/21.11116/0000-0003-FD92-B",
@@ -2856,9 +2726,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -2936,8 +2806,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2797614480.pdf",
@@ -3170,7 +3040,10 @@
           "author": {
             "id": "https://openalex.org/A5026745332",
             "display_name": "Christopher M. Stimpson",
-            "orcid": "https://orcid.org/0000-0003-4327-4987"
+            "orcid": "https://orcid.org/0000-0003-4327-4987",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4327-4987"
+            ]
           },
           "institutions": [
             {
@@ -3181,16 +3054,6 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I40120149"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
               ]
             }
           ],
@@ -3207,8 +3070,7 @@
             {
               "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
               "institution_ids": [
-                "https://openalex.org/I40120149",
-                "https://openalex.org/I4210140987"
+                "https://openalex.org/I40120149"
               ]
             }
           ]
@@ -3218,7 +3080,10 @@
           "author": {
             "id": "https://openalex.org/A5008745120",
             "display_name": "Adrian M. Lister",
-            "orcid": "https://orcid.org/0000-0002-7985-138X"
+            "orcid": "https://orcid.org/0000-0002-7985-138X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7985-138X"
+            ]
           },
           "institutions": [
             {
@@ -3255,7 +3120,10 @@
           "author": {
             "id": "https://openalex.org/A5005196675",
             "display_name": "Ash Parton",
-            "orcid": "https://orcid.org/0000-0002-1547-7675"
+            "orcid": "https://orcid.org/0000-0002-1547-7675",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1547-7675"
+            ]
           },
           "institutions": [
             {
@@ -3266,16 +3134,6 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I40120149"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
               ]
             }
           ],
@@ -3292,8 +3150,7 @@
             {
               "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
               "institution_ids": [
-                "https://openalex.org/I40120149",
-                "https://openalex.org/I4210140987"
+                "https://openalex.org/I40120149"
               ]
             }
           ]
@@ -3303,7 +3160,8 @@
           "author": {
             "id": "https://openalex.org/A5039171376",
             "display_name": "Laine Clark‐Balzan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -3314,16 +3172,6 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I40120149"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
               ]
             }
           ],
@@ -3340,8 +3188,7 @@
             {
               "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
               "institution_ids": [
-                "https://openalex.org/I40120149",
-                "https://openalex.org/I4210140987"
+                "https://openalex.org/I40120149"
               ]
             }
           ]
@@ -3351,7 +3198,10 @@
           "author": {
             "id": "https://openalex.org/A5031524231",
             "display_name": "Paul S. Breeze",
-            "orcid": "https://orcid.org/0000-0003-2575-8021"
+            "orcid": "https://orcid.org/0000-0003-2575-8021",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2575-8021"
+            ]
           },
           "institutions": [
             {
@@ -3396,7 +3246,8 @@
           "author": {
             "id": "https://openalex.org/A5108481153",
             "display_name": "Nick Drake",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -3441,7 +3292,10 @@
           "author": {
             "id": "https://openalex.org/A5087955542",
             "display_name": "Huw S. Groucutt",
-            "orcid": "https://orcid.org/0000-0002-9111-1720"
+            "orcid": "https://orcid.org/0000-0002-9111-1720",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9111-1720"
+            ]
           },
           "institutions": [
             {
@@ -3452,16 +3306,6 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I40120149"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
               ]
             }
           ],
@@ -3478,8 +3322,7 @@
             {
               "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
               "institution_ids": [
-                "https://openalex.org/I40120149",
-                "https://openalex.org/I4210140987"
+                "https://openalex.org/I40120149"
               ]
             }
           ]
@@ -3489,7 +3332,10 @@
           "author": {
             "id": "https://openalex.org/A5012731321",
             "display_name": "Richard P. Jennings",
-            "orcid": "https://orcid.org/0000-0001-9996-7518"
+            "orcid": "https://orcid.org/0000-0001-9996-7518",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9996-7518"
+            ]
           },
           "institutions": [
             {
@@ -3500,16 +3346,6 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I40120149"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
               ]
             }
           ],
@@ -3526,8 +3362,7 @@
             {
               "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
               "institution_ids": [
-                "https://openalex.org/I40120149",
-                "https://openalex.org/I4210140987"
+                "https://openalex.org/I40120149"
               ]
             }
           ]
@@ -3537,7 +3372,10 @@
           "author": {
             "id": "https://openalex.org/A5090082899",
             "display_name": "Eleanor M. L. Scerri",
-            "orcid": "https://orcid.org/0000-0002-7468-9977"
+            "orcid": "https://orcid.org/0000-0002-7468-9977",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7468-9977"
+            ]
           },
           "institutions": [
             {
@@ -3548,16 +3386,6 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I40120149"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
               ]
             }
           ],
@@ -3574,8 +3402,7 @@
             {
               "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
               "institution_ids": [
-                "https://openalex.org/I40120149",
-                "https://openalex.org/I4210140987"
+                "https://openalex.org/I40120149"
               ]
             }
           ]
@@ -3585,7 +3412,10 @@
           "author": {
             "id": "https://openalex.org/A5085090223",
             "display_name": "Tom S. White",
-            "orcid": "https://orcid.org/0000-0001-9056-7286"
+            "orcid": "https://orcid.org/0000-0001-9056-7286",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9056-7286"
+            ]
           },
           "institutions": [
             {
@@ -3596,16 +3426,6 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I40120149"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
               ]
             }
           ],
@@ -3622,8 +3442,7 @@
             {
               "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
               "institution_ids": [
-                "https://openalex.org/I40120149",
-                "https://openalex.org/I4210140987"
+                "https://openalex.org/I40120149"
               ]
             }
           ]
@@ -3633,7 +3452,10 @@
           "author": {
             "id": "https://openalex.org/A5045873226",
             "display_name": "Muhammad Zahir",
-            "orcid": "https://orcid.org/0000-0002-1765-6319"
+            "orcid": "https://orcid.org/0000-0002-1765-6319",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1765-6319"
+            ]
           },
           "institutions": [
             {
@@ -3670,7 +3492,10 @@
           "author": {
             "id": "https://openalex.org/A5060957276",
             "display_name": "Mathieu Duval",
-            "orcid": "https://orcid.org/0000-0003-3181-7753"
+            "orcid": "https://orcid.org/0000-0003-3181-7753",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3181-7753"
+            ]
           },
           "institutions": [
             {
@@ -3707,7 +3532,10 @@
           "author": {
             "id": "https://openalex.org/A5014664106",
             "display_name": "Rainer Grün",
-            "orcid": "https://orcid.org/0000-0003-1366-3674"
+            "orcid": "https://orcid.org/0000-0003-1366-3674",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1366-3674"
+            ]
           },
           "institutions": [
             {
@@ -3744,7 +3572,10 @@
           "author": {
             "id": "https://openalex.org/A5028580948",
             "display_name": "Abdulaziz Al-Omari",
-            "orcid": "https://orcid.org/0000-0003-0638-348X"
+            "orcid": "https://orcid.org/0000-0003-0638-348X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0638-348X"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -3766,7 +3597,8 @@
           "author": {
             "id": "https://openalex.org/A5070992934",
             "display_name": "Khalid Sultan M. Al Murayyi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -3786,9 +3618,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": null,
-            "display_name": "Iyaed S. Zalmout",
-            "orcid": null
+            "id": "https://openalex.org/A5067218163",
+            "display_name": "Iyad S. Zalmout",
+            "orcid": "https://orcid.org/0000-0003-1874-801X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1874-801X"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -3810,7 +3645,10 @@
           "author": {
             "id": "https://openalex.org/A5074597612",
             "display_name": "Yahya A. Mufarreh",
-            "orcid": "https://orcid.org/0000-0001-9018-9000"
+            "orcid": "https://orcid.org/0000-0001-9018-9000",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9018-9000"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -3832,7 +3670,10 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
-            "orcid": "https://orcid.org/0000-0001-8551-3240"
+            "orcid": "https://orcid.org/0000-0001-8551-3240",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8551-3240"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -3854,7 +3695,10 @@
           "author": {
             "id": "https://openalex.org/A5037966215",
             "display_name": "Michael D. Petraglia",
-            "orcid": "https://orcid.org/0000-0003-2522-5727"
+            "orcid": "https://orcid.org/0000-0003-2522-5727",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2522-5727"
+            ]
           },
           "institutions": [
             {
@@ -3865,16 +3709,6 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I40120149"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
               ]
             }
           ],
@@ -3891,8 +3725,7 @@
             {
               "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
               "institution_ids": [
-                "https://openalex.org/I40120149",
-                "https://openalex.org/I4210140987"
+                "https://openalex.org/I40120149"
               ]
             }
           ]
@@ -3900,13 +3733,12 @@
       ],
       "institutions": [],
       "countries_distinct_count": 4,
-      "institutions_distinct_count": 7,
+      "institutions_distinct_count": 6,
       "corresponding_author_ids": [
         "https://openalex.org/A5026745332"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I40120149",
-        "https://openalex.org/I4210140987"
+        "https://openalex.org/I40120149"
       ],
       "apc_list": {
         "value": 3920,
@@ -3914,11 +3746,11 @@
         "value_usd": 3920
       },
       "apc_paid": null,
-      "fwci": 26.8551,
+      "fwci": 26.3522,
       "has_fulltext": true,
       "cited_by_count": 47,
       "citation_normalized_percentile": {
-        "value": 0.9924949,
+        "value": 0.99234303,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4461,9 +4293,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.6200000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6200000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -4490,8 +4322,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2399942965.pdf",
@@ -4758,7 +4590,10 @@
           "author": {
             "id": "https://openalex.org/A5071541848",
             "display_name": "Benoît Issautier",
-            "orcid": "https://orcid.org/0000-0002-7951-7963"
+            "orcid": "https://orcid.org/0000-0002-7951-7963",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7951-7963"
+            ]
           },
           "institutions": [
             {
@@ -4795,7 +4630,8 @@
           "author": {
             "id": "https://openalex.org/A5054427253",
             "display_name": "Yves-Michel Le Nindre",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -4832,7 +4668,10 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
-            "orcid": "https://orcid.org/0000-0001-8551-3240"
+            "orcid": "https://orcid.org/0000-0001-8551-3240",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8551-3240"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -4854,7 +4693,8 @@
           "author": {
             "id": "https://openalex.org/A5006640587",
             "display_name": "Saleh M. Dini",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -4876,17 +4716,21 @@
           "author": {
             "id": "https://openalex.org/A5047287014",
             "display_name": "Sophie Viseur",
-            "orcid": "https://orcid.org/0000-0003-2098-3692"
+            "orcid": "https://orcid.org/0000-0003-2098-3692",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2098-3692"
+            ]
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I21491767",
-              "display_name": "Aix-Marseille Université",
-              "ror": "https://ror.org/035xkbk20",
+              "id": "https://openalex.org/I4405265080",
+              "display_name": "Université de Provence Aix-Marseille I",
+              "ror": "https://ror.org/03teb1j24",
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I21491767"
+                "https://openalex.org/I21491767",
+                "https://openalex.org/I4405265080"
               ]
             }
           ],
@@ -4903,7 +4747,7 @@
             {
               "raw_affiliation_string": "Université de Provence (Aix-Marseille 1)",
               "institution_ids": [
-                "https://openalex.org/I21491767"
+                "https://openalex.org/I4405265080"
               ]
             }
           ]
@@ -4916,11 +4760,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.0624,
+      "fwci": 3.0268,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.88346537,
+        "value": 0.88234533,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5284,9 +5128,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -5294,8 +5138,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -6637,8 +6481,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -7668,16 +7512,6 @@
               "lineage": [
                 "https://openalex.org/I40120149"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
-              ]
             }
           ],
           "countries": [
@@ -7693,8 +7527,7 @@
             {
               "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, University of Oxford, Oxford, UK",
               "institution_ids": [
-                "https://openalex.org/I40120149",
-                "https://openalex.org/I4210140987"
+                "https://openalex.org/I40120149"
               ]
             }
           ]
@@ -7798,16 +7631,6 @@
               "lineage": [
                 "https://openalex.org/I40120149"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
-              ]
             }
           ],
           "countries": [
@@ -7823,8 +7646,7 @@
             {
               "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, University of Oxford, Oxford, UK",
               "institution_ids": [
-                "https://openalex.org/I40120149",
-                "https://openalex.org/I4210140987"
+                "https://openalex.org/I40120149"
               ]
             }
           ]
@@ -7840,6 +7662,16 @@
             ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I124357947",
+              "display_name": "University of London",
+              "ror": "https://ror.org/04cw6st05",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947"
+              ]
+            },
             {
               "id": "https://openalex.org/I184558857",
               "display_name": "Royal Holloway University of London",
@@ -7865,6 +7697,7 @@
             {
               "raw_affiliation_string": "Department of Geography, Royal Holloway, University of London, UK",
               "institution_ids": [
+                "https://openalex.org/I124357947",
                 "https://openalex.org/I184558857"
               ]
             }
@@ -7880,21 +7713,8 @@
               "https://orcid.org/0000-0003-1874-801X"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Iyad S.A. Zalmout",
           "raw_affiliation_strings": [
@@ -7904,9 +7724,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Sedimentary Rocks and Paleontology, Saudi Geological Survey, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -7920,21 +7738,8 @@
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdullah M. Memesh",
           "raw_affiliation_strings": [
@@ -7944,9 +7749,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Sedimentary Rocks and Paleontology, Saudi Geological Survey, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -7958,21 +7761,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Mohammed A. Haptari",
           "raw_affiliation_strings": [
@@ -7982,9 +7772,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Sedimentary Rocks and Paleontology, Saudi Geological Survey, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -7996,21 +7784,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Saleh A. Soubhi",
           "raw_affiliation_strings": [
@@ -8020,9 +7795,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Sedimentary Rocks and Paleontology, Saudi Geological Survey, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -8034,21 +7807,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Adel H. Matari",
           "raw_affiliation_strings": [
@@ -8058,9 +7818,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Sedimentary Rocks and Paleontology, Saudi Geological Survey, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -8213,7 +7971,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 5,
-      "institutions_distinct_count": 9,
+      "institutions_distinct_count": 8,
       "corresponding_author_ids": [
         "https://openalex.org/A5031524231"
       ],
@@ -8226,11 +7984,11 @@
         "value_usd": 2750
       },
       "apc_paid": null,
-      "fwci": 1.9546,
+      "fwci": 1.9305,
       "has_fulltext": true,
       "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.84285839,
+        "value": 0.84094732,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8834,8 +8592,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -9010,8 +8768,22 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4405265080",
+              "display_name": "Université de Provence Aix-Marseille I",
+              "ror": "https://ror.org/03teb1j24",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I21491767",
+                "https://openalex.org/I4405265080"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Jean M. Philip",
           "raw_affiliation_strings": [
@@ -9021,7 +8793,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Université de Provence",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I4405265080"
+              ]
             }
           ]
         },
@@ -9109,8 +8883,22 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4405265080",
+              "display_name": "Université de Provence Aix-Marseille I",
+              "ror": "https://ror.org/03teb1j24",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I21491767",
+                "https://openalex.org/I4405265080"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Fabrizio Cecca",
           "raw_affiliation_strings": [
@@ -9120,7 +8908,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Université de Provence",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I4405265080"
+              ]
             }
           ]
         },
@@ -9134,52 +8924,8 @@
               "https://orcid.org/0000-0002-0718-9323"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I204730241",
-              "display_name": "Université Paris Cité",
-              "ror": "https://ror.org/05f82e368",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I204730241"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I39804081",
-              "display_name": "Sorbonne Université",
-              "ror": "https://ror.org/02en5vm52",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I39804081"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4405264447",
-              "display_name": "Université Pierre-et-Marie-Curie",
-              "ror": "https://ror.org/01yvrd251",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I39804081",
-                "https://openalex.org/I4405264447"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I48825208",
-              "display_name": "Université Paris 8",
-              "ror": "https://ror.org/04wez5e68",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I48825208"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Silvia Gardin",
           "raw_affiliation_strings": [
@@ -9189,12 +8935,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Université de Paris VI",
-              "institution_ids": [
-                "https://openalex.org/I204730241",
-                "https://openalex.org/I39804081",
-                "https://openalex.org/I4405264447",
-                "https://openalex.org/I48825208"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -9208,21 +8949,8 @@
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I70374766",
-              "display_name": "University of Aden",
-              "ror": "https://ror.org/02w043707",
-              "country_code": "YE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I70374766"
-              ]
-            }
-          ],
-          "countries": [
-            "YE"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdullah M.S. Memesh",
           "raw_affiliation_strings": [
@@ -9233,31 +8961,27 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Ma’aden",
-              "institution_ids": [
-                "https://openalex.org/I70374766"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Ma'aden",
-              "institution_ids": [
-                "https://openalex.org/I70374766"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 6,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4302,
+      "fwci": 1.4163,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.85271754,
+        "value": 0.85130905,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9647,9 +9371,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5199999809265137,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5199999809265137
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -9657,8 +9381,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -10246,7 +9970,10 @@
           "author": {
             "id": "https://openalex.org/A5032633264",
             "display_name": "Mohammed H. Aljahdali",
-            "orcid": "https://orcid.org/0000-0001-8194-8810"
+            "orcid": "https://orcid.org/0000-0001-8194-8810",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8194-8810"
+            ]
           },
           "institutions": [
             {
@@ -10290,7 +10017,10 @@
           "author": {
             "id": "https://openalex.org/A5066220518",
             "display_name": "Mohamed Elhag",
-            "orcid": "https://orcid.org/0000-0001-9048-0084"
+            "orcid": "https://orcid.org/0000-0001-9048-0084",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9048-0084"
+            ]
           },
           "institutions": [
             {
@@ -10311,16 +10041,6 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I39706905"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
               ]
             }
           ],
@@ -10356,9 +10076,7 @@
             },
             {
               "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -10367,7 +10085,8 @@
           "author": {
             "id": "https://openalex.org/A5011385947",
             "display_name": "Yahya A. Mufrreh",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -10388,16 +10107,6 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I39706905"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
               ]
             }
           ],
@@ -10433,9 +10142,7 @@
             },
             {
               "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -10444,23 +10151,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
-            "orcid": "https://orcid.org/0000-0001-8551-3240"
+            "orcid": "https://orcid.org/0000-0001-8551-3240",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8551-3240"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "A. MEMESH",
           "raw_affiliation_strings": [
@@ -10471,15 +10168,11 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Saudi Geological Survey, Department of Sedimentary Geology, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -10488,23 +10181,11 @@
           "author": {
             "id": "https://openalex.org/A5003725129",
             "display_name": "Salih A. AlSoubhi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "S. ALSOUBHI",
           "raw_affiliation_strings": [
@@ -10524,9 +10205,7 @@
             },
             {
               "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -10535,7 +10214,10 @@
           "author": {
             "id": "https://openalex.org/A5067218163",
             "display_name": "Iyad S. Zalmout",
-            "orcid": "https://orcid.org/0000-0003-1874-801X"
+            "orcid": "https://orcid.org/0000-0003-1874-801X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1874-801X"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -10548,7 +10230,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5032633264"
       ],
@@ -10557,16 +10239,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2602,
+      "fwci": 1.1969,
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.85331326,
+        "value": 0.8472654,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 98
       },
       "biblio": {
@@ -10748,9 +10430,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5400000214576721,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5400000214576721
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -10764,8 +10446,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4254410303.pdf",
@@ -11777,8 +11459,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -11931,7 +11613,10 @@
           "author": {
             "id": "https://openalex.org/A5053303871",
             "display_name": "Bridget Susan Wade",
-            "orcid": "https://orcid.org/0000-0002-7245-8614"
+            "orcid": "https://orcid.org/0000-0002-7245-8614",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7245-8614"
+            ]
           },
           "institutions": [
             {
@@ -11969,7 +11654,10 @@
           "author": {
             "id": "https://openalex.org/A5032633264",
             "display_name": "Mohammed H. Aljahdali",
-            "orcid": "https://orcid.org/0000-0001-8194-8810"
+            "orcid": "https://orcid.org/0000-0001-8194-8810",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8194-8810"
+            ]
           },
           "institutions": [
             {
@@ -12006,23 +11694,11 @@
           "author": {
             "id": "https://openalex.org/A5011385947",
             "display_name": "Yahya A. Mufrreh",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Yahya A. Mufrreh",
           "raw_affiliation_strings": [
@@ -12032,9 +11708,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Department of Sedimentary Geology, Jeddah,\nSaudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -12043,35 +11717,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
-            "orcid": "https://orcid.org/0000-0001-8551-3240"
+            "orcid": "https://orcid.org/0000-0001-8551-3240",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8551-3240"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210140406",
-              "display_name": "Geological Survey Department",
-              "ror": "https://ror.org/032ab1973",
-              "country_code": "CY",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210140406",
-                "https://openalex.org/I4210155077"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "CY",
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdullah M. Memesh",
           "raw_affiliation_strings": [
@@ -12081,10 +11733,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi\nArabia",
-              "institution_ids": [
-                "https://openalex.org/I4210140406",
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -12093,23 +11742,11 @@
           "author": {
             "id": "https://openalex.org/A5003725129",
             "display_name": "Salih A. AlSoubhi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Salih A. AlSoubhi",
           "raw_affiliation_strings": [
@@ -12119,9 +11756,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Department of Sedimentary Geology, Jeddah,\nSaudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -12130,23 +11765,13 @@
           "author": {
             "id": "https://openalex.org/A5067218163",
             "display_name": "Iyad S. Zalmout",
-            "orcid": "https://orcid.org/0000-0003-1874-801X"
+            "orcid": "https://orcid.org/0000-0003-1874-801X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1874-801X"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Iyad S. Zalmout",
           "raw_affiliation_strings": [
@@ -12156,16 +11781,14 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Department of Sedimentary Geology, Jeddah,\nSaudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 4,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5032633264",
         "https://openalex.org/A5053303871"
@@ -12184,11 +11807,11 @@
         "currency": "EUR",
         "value_usd": 841
       },
-      "fwci": 0.0937,
+      "fwci": 0.0922,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.39425521,
+        "value": 0.38976551,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12593,9 +12216,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.800000011920929,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -12636,14 +12259,14 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3203435426.pdf",
         "grobid_xml": "https://content.openalex.org/works/W3203435426.grobid-xml"
       },
-      "referenced_works_count": 51,
+      "referenced_works_count": 50,
       "referenced_works": [
         "https://openalex.org/W51574308",
         "https://openalex.org/W1548276017",
@@ -12680,7 +12303,6 @@
         "https://openalex.org/W2263903515",
         "https://openalex.org/W2415580977",
         "https://openalex.org/W2477385902",
-        "https://openalex.org/W2802797806",
         "https://openalex.org/W2898923332",
         "https://openalex.org/W2958909214",
         "https://openalex.org/W3001793127",
@@ -13205,7 +12827,10 @@
           "author": {
             "id": "https://openalex.org/A5009798673",
             "display_name": "Francisco Gutiérrez",
-            "orcid": "https://orcid.org/0000-0002-5407-940X"
+            "orcid": "https://orcid.org/0000-0002-5407-940X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5407-940X"
+            ]
           },
           "institutions": [
             {
@@ -13242,23 +12867,11 @@
           "author": {
             "id": "https://openalex.org/A5014019772",
             "display_name": "Yasser A. Zabramawi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Yasser Zabramawi",
           "raw_affiliation_strings": [
@@ -13268,9 +12881,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, P.O. Box 54141, Jeddah 21514, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -13279,23 +12890,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
-            "orcid": "https://orcid.org/0000-0001-8551-3240"
+            "orcid": "https://orcid.org/0000-0001-8551-3240",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8551-3240"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdullah Memesh",
           "raw_affiliation_strings": [
@@ -13305,9 +12906,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, P.O. Box 54141, Jeddah 21514, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -13316,23 +12915,13 @@
           "author": {
             "id": "https://openalex.org/A5080352482",
             "display_name": "Ahmed M. Youssef",
-            "orcid": "https://orcid.org/0000-0002-3297-4868"
+            "orcid": "https://orcid.org/0000-0002-3297-4868",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3297-4868"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Ahmed M. Youssef",
           "raw_affiliation_strings": [
@@ -13342,9 +12931,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, P.O. Box 54141, Jeddah 21514, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -13353,23 +12940,11 @@
           "author": {
             "id": "https://openalex.org/A5053930144",
             "display_name": "Alaa M. Bahamil",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Alaa Bahamil",
           "raw_affiliation_strings": [
@@ -13379,9 +12954,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, P.O. Box 54141, Jeddah 21514, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -13390,7 +12963,10 @@
           "author": {
             "id": "https://openalex.org/A5062005396",
             "display_name": "Luis F. Auqué",
-            "orcid": "https://orcid.org/0000-0003-1463-1682"
+            "orcid": "https://orcid.org/0000-0003-1463-1682",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1463-1682"
+            ]
           },
           "institutions": [
             {
@@ -13424,8 +13000,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5009798673"
       ],
@@ -13442,11 +13018,11 @@
         "currency": "USD",
         "value_usd": 4940
       },
-      "fwci": 1.3431,
+      "fwci": 1.3304,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.78186462,
+        "value": 0.7798574,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13811,8 +13387,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -14655,7 +14231,10 @@
           "author": {
             "id": "https://openalex.org/A5071541848",
             "display_name": "Benoît Issautier",
-            "orcid": "https://orcid.org/0000-0002-7951-7963"
+            "orcid": "https://orcid.org/0000-0002-7951-7963",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7951-7963"
+            ]
           },
           "institutions": [
             {
@@ -14692,7 +14271,8 @@
           "author": {
             "id": "https://openalex.org/A5054427253",
             "display_name": "Yves-Michel Le Nindre",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -14729,7 +14309,10 @@
           "author": {
             "id": "https://openalex.org/A5047287014",
             "display_name": "Sophie Viseur",
-            "orcid": "https://orcid.org/0000-0003-2098-3692"
+            "orcid": "https://orcid.org/0000-0003-2098-3692",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2098-3692"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -14751,24 +14334,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
-            "orcid": "https://orcid.org/0000-0001-8551-3240"
+            "orcid": "https://orcid.org/0000-0001-8551-3240",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8551-3240"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdullah Memesh",
           "raw_affiliation_strings": [
@@ -14778,9 +14350,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -14789,24 +14359,11 @@
           "author": {
             "id": "https://openalex.org/A5006640587",
             "display_name": "Saleh M. Dini",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Saleh Dini",
           "raw_affiliation_strings": [
@@ -14816,25 +14373,23 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.798,
+      "fwci": 1.7773,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.82460209,
+        "value": 0.82288797,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15209,9 +14764,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -15219,8 +14774,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -16799,9 +16354,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -16815,8 +16370,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -16960,7 +16515,10 @@
           "author": {
             "id": "https://openalex.org/A5071541848",
             "display_name": "Benoît Issautier",
-            "orcid": "https://orcid.org/0000-0002-7951-7963"
+            "orcid": "https://orcid.org/0000-0002-7951-7963",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7951-7963"
+            ]
           },
           "institutions": [
             {
@@ -16997,7 +16555,8 @@
           "author": {
             "id": "https://openalex.org/A5054427253",
             "display_name": "Yves-Michel Le Nindre",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -17034,7 +16593,8 @@
           "author": {
             "id": "https://openalex.org/A5012935449",
             "display_name": "Nigel P. Hooker",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -17046,22 +16606,10 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
             }
           ],
           "countries": [
-            "SA",
-            "US"
+            "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Nigel Hooker",
@@ -17073,8 +16621,7 @@
             {
               "raw_affiliation_string": "Geological Operations Department, Saudi Aramco, P.O. Box 11030, Dhahran, 31311, Saudi Arabia (e-mail: nigel.hooker@aramco.com; christopher.reid@aramco.com)",
               "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
+                "https://openalex.org/I4210143841"
               ]
             }
           ]
@@ -17084,7 +16631,8 @@
           "author": {
             "id": "https://openalex.org/A5004562819",
             "display_name": "Chris Reid",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -17096,22 +16644,10 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
             }
           ],
           "countries": [
-            "SA",
-            "US"
+            "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Chris Reid",
@@ -17123,8 +16659,7 @@
             {
               "raw_affiliation_string": "Geological Operations Department, Saudi Aramco, P.O. Box 11030, Dhahran, 31311, Saudi Arabia (e-mail: nigel.hooker@aramco.com; christopher.reid@aramco.com)",
               "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
+                "https://openalex.org/I4210143841"
               ]
             }
           ]
@@ -17134,7 +16669,10 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
-            "orcid": "https://orcid.org/0000-0001-8551-3240"
+            "orcid": "https://orcid.org/0000-0001-8551-3240",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8551-3240"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -17156,7 +16694,8 @@
           "author": {
             "id": "https://openalex.org/A5006640587",
             "display_name": "Saleh M. Dini",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -17175,17 +16714,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.7623,
+      "fwci": 2.7056,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.91429641,
+        "value": 0.91366366,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17447,9 +16986,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -17457,8 +16996,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -18191,21 +17730,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": true,
           "raw_author_name": "Saleh M. Dini",
           "raw_affiliation_strings": [
@@ -18215,9 +17741,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -18267,21 +17791,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Ahmed S. Banakhar",
           "raw_affiliation_strings": [
@@ -18291,9 +17802,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -18386,21 +17895,8 @@
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdullah M. Memesh",
           "raw_affiliation_strings": [
@@ -18410,9 +17906,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -18424,21 +17918,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdullah M. Shammari",
           "raw_affiliation_strings": [
@@ -18448,9 +17929,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Jeddah 21424, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -18496,15 +17975,14 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5006640587",
         "https://openalex.org/A5101699144"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I4210134214",
-        "https://openalex.org/I4210143841"
+        "https://openalex.org/I4210134214"
       ],
       "apc_list": {
         "value": 1800,
@@ -18516,16 +17994,16 @@
         "currency": "CHF",
         "value_usd": 1944
       },
-      "fwci": 2.1404,
+      "fwci": 2.1065,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.85189408,
+        "value": 0.84956216,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 96
       },
       "biblio": {
@@ -18910,9 +18388,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -18926,8 +18404,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3146973300.pdf",
@@ -19570,7 +19048,10 @@
           "author": {
             "id": "https://openalex.org/A5049961167",
             "display_name": "Abdullah O. Bamousa",
-            "orcid": "https://orcid.org/0000-0001-6107-4503"
+            "orcid": "https://orcid.org/0000-0001-6107-4503",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6107-4503"
+            ]
           },
           "institutions": [
             {
@@ -19607,23 +19088,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
-            "orcid": "https://orcid.org/0000-0001-8551-3240"
+            "orcid": "https://orcid.org/0000-0001-8551-3240",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8551-3240"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdullah M. Memesh",
           "raw_affiliation_strings": [
@@ -19633,9 +19104,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -19644,23 +19113,11 @@
           "author": {
             "id": "https://openalex.org/A5006640587",
             "display_name": "Saleh M. Dini",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Saleh M. Dini",
           "raw_affiliation_strings": [
@@ -19670,9 +19127,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -19681,23 +19136,11 @@
           "author": {
             "id": "https://openalex.org/A5071471457",
             "display_name": "Ali A. Al-Zahrani",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Ali A. Al-Zahrani",
           "raw_affiliation_strings": [
@@ -19707,16 +19150,14 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5049961167"
       ],
@@ -19725,11 +19166,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5116,
+      "fwci": 1.4784,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.84003497,
+        "value": 0.83647799,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20057,9 +19498,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6899999976158142,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6899999976158142
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -20067,8 +19508,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -20455,8 +19896,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21008,18 +20449,6 @@
               "lineage": [
                 "https://openalex.org/I129774422"
               ]
-            },
-            {
-              "id": "https://openalex.org/I2801780293",
-              "display_name": "Geological Survey of Austria",
-              "ror": "https://ror.org/03em27e03",
-              "country_code": "AT",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I2801780293",
-                "https://openalex.org/I4210118069",
-                "https://openalex.org/I4387154425"
-              ]
             }
           ],
           "countries": [
@@ -21042,9 +20471,7 @@
             },
             {
               "raw_affiliation_string": "Department of Palaeontology (Geozentrum Vienna) (Austria)",
-              "institution_ids": [
-                "https://openalex.org/I2801780293"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "University of Vienna [Vienna] (Universitätsring 1,  1010 Wien - Austria)",
@@ -21072,16 +20499,6 @@
               "lineage": [
                 "https://openalex.org/I4210158893"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4693666",
-              "display_name": "GGG (France)",
-              "ror": "https://ror.org/03end3932",
-              "country_code": "FR",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4693666"
-              ]
             }
           ],
           "countries": [
@@ -21098,8 +20515,7 @@
             {
               "raw_affiliation_string": "Geo-consultant (BRGM retired) , 275 Route Royale , 33240 La Lande de Pomerol , France",
               "institution_ids": [
-                "https://openalex.org/I4210158893",
-                "https://openalex.org/I4693666"
+                "https://openalex.org/I4210158893"
               ]
             },
             {
@@ -21120,13 +20536,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I39804081",
-              "display_name": "Sorbonne Université",
-              "ror": "https://ror.org/02en5vm52",
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
               "country_code": "FR",
-              "type": "education",
+              "type": "government",
               "lineage": [
-                "https://openalex.org/I39804081"
+                "https://openalex.org/I1294671590"
               ]
             },
             {
@@ -21140,6 +20556,31 @@
                 "https://openalex.org/I39804081",
                 "https://openalex.org/I4210097099",
                 "https://openalex.org/I4210148025"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210120727",
+              "display_name": "Ecole Nationale du Génie de l'Eau et de l'Environnement de Strasbourg (ENGEES)",
+              "ror": "https://ror.org/02jhjzd11",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210120727"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4387152652",
+              "display_name": "Institut Terre & Environnement de Strasbourg",
+              "ror": "https://ror.org/0530qwm02",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4210120727",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4387152652",
+                "https://openalex.org/I4387154617",
+                "https://openalex.org/I68947357"
               ]
             },
             {
@@ -21179,13 +20620,16 @@
             {
               "raw_affiliation_string": "François Chabaux (Institut Terre Environnement de Strasbourg ( UMR 7063-Unistra-CNRS-ENGEES) , Université de Strasbourg)",
               "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4210120727",
+                "https://openalex.org/I4387152652",
                 "https://openalex.org/I68947357"
               ]
             },
             {
               "raw_affiliation_string": "Institut des Sciences de la Terre de Paris ( UMR 7193) , Université Pierre et Marie Curie (UPMC) (retired) , France",
               "institution_ids": [
-                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210097099",
                 "https://openalex.org/I4405264447"
               ]
             },
@@ -21264,16 +20708,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 8,
+      "institutions_distinct_count": 9,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.462,
+      "fwci": 1.4521,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.82437527,
+        "value": 0.82334778,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21792,8 +21236,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385358246.pdf",
@@ -23114,8 +22558,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -23395,22 +22839,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1314849024",
-              "display_name": "Ministry of Culture",
-              "ror": "https://ror.org/028chwx32",
-              "country_code": "IN",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1314849024",
-                "https://openalex.org/I2799351866"
-              ]
-            }
-          ],
-          "countries": [
-            "IN"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Faisal Al-Jibreen",
           "raw_affiliation_strings": [
@@ -23420,9 +22850,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Heritage commission, Ministry of Culture, Riyadh, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I1314849024"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -23438,17 +22866,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I1314849024",
-              "display_name": "Ministry of Culture",
-              "ror": "https://ror.org/028chwx32",
-              "country_code": "IN",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1314849024",
-                "https://openalex.org/I2799351866"
-              ]
-            },
-            {
               "id": "https://openalex.org/I170201317",
               "display_name": "University of Pittsburgh",
               "ror": "https://ror.org/01an3r305",
@@ -23460,7 +22877,6 @@
             }
           ],
           "countries": [
-            "IN",
             "US"
           ],
           "is_corresponding": false,
@@ -23479,9 +22895,7 @@
             },
             {
               "raw_affiliation_string": "Heritage commission, Ministry of Culture, Riyadh, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I1314849024"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -23495,21 +22909,8 @@
               "https://orcid.org/0009-0000-5626-4425"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Mahmoud Al-Shanti",
           "raw_affiliation_strings": [
@@ -23519,9 +22920,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Geotourism Department, Saudi Geological Survey, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -23596,17 +22995,6 @@
                 "https://openalex.org/I149899117",
                 "https://openalex.org/I4210161060"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4387154167",
-              "display_name": "Max Planck Institute of Geoanthropology",
-              "ror": "https://ror.org/00js75b59",
-              "country_code": null,
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I149899117",
-                "https://openalex.org/I4387154167"
-              ]
             }
           ],
           "countries": [
@@ -23630,8 +23018,7 @@
             {
               "raw_affiliation_string": "Human Palaeosystems Group, Max Planck Institute of Geoanthropology, Jena, Germany",
               "institution_ids": [
-                "https://openalex.org/I4210161060",
-                "https://openalex.org/I4387154167"
+                "https://openalex.org/I4210161060"
               ]
             }
           ]
@@ -23677,17 +23064,6 @@
                 "https://openalex.org/I149899117",
                 "https://openalex.org/I4210161060"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4387154167",
-              "display_name": "Max Planck Institute of Geoanthropology",
-              "ror": "https://ror.org/00js75b59",
-              "country_code": null,
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I149899117",
-                "https://openalex.org/I4387154167"
-              ]
             }
           ],
           "countries": [
@@ -23706,8 +23082,7 @@
             {
               "raw_affiliation_string": "Department of Archaeology, Max Planck Institute of Geoanthropology, Jena, Germany",
               "institution_ids": [
-                "https://openalex.org/I4210161060",
-                "https://openalex.org/I4387154167"
+                "https://openalex.org/I4210161060"
               ]
             },
             {
@@ -23814,33 +23189,8 @@
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799486974",
-              "display_name": "China Geological Survey",
-              "ror": "https://ror.org/04wtq2305",
-              "country_code": "CN",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I2799486974"
-              ]
-            }
-          ],
-          "countries": [
-            "CN",
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdullah Memesh",
           "raw_affiliation_strings": [
@@ -23850,10 +23200,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Survey and Exploration Centre, Geological Programs, Saudi Geological Survey, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I2799486974"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -23867,21 +23214,8 @@
               "https://orcid.org/0000-0001-9018-9000"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Yahya Mufarreh",
           "raw_affiliation_strings": [
@@ -23891,9 +23225,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Geotourism Department, Saudi Geological Survey, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -23978,17 +23310,6 @@
                 "https://openalex.org/I149899117",
                 "https://openalex.org/I4210161060"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4387154167",
-              "display_name": "Max Planck Institute of Geoanthropology",
-              "ror": "https://ror.org/00js75b59",
-              "country_code": null,
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I149899117",
-                "https://openalex.org/I4387154167"
-              ]
             }
           ],
           "countries": [
@@ -24013,8 +23334,7 @@
             {
               "raw_affiliation_string": "Human Palaeosystems Group, Max Planck Institute of Geoanthropology, Jena, Germany",
               "institution_ids": [
-                "https://openalex.org/I4210161060",
-                "https://openalex.org/I4387154167"
+                "https://openalex.org/I4210161060"
               ]
             },
             {
@@ -24037,16 +23357,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210119132",
-              "display_name": "Landesamt für Archäologie Sachsen",
-              "ror": "https://ror.org/02kv9xm28",
-              "country_code": "DE",
-              "type": "archive",
-              "lineage": [
-                "https://openalex.org/I4210119132"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210161060",
               "display_name": "Max Planck Institute of Geoanthropology",
               "ror": "https://ror.org/05mjrzy91",
@@ -24055,17 +23365,6 @@
               "lineage": [
                 "https://openalex.org/I149899117",
                 "https://openalex.org/I4210161060"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4387154167",
-              "display_name": "Max Planck Institute of Geoanthropology",
-              "ror": "https://ror.org/00js75b59",
-              "country_code": null,
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I149899117",
-                "https://openalex.org/I4387154167"
               ]
             }
           ],
@@ -24083,15 +23382,12 @@
             {
               "raw_affiliation_string": "Department of Archaeology, Max Planck Institute of Geoanthropology, Jena, Germany",
               "institution_ids": [
-                "https://openalex.org/I4210161060",
-                "https://openalex.org/I4387154167"
+                "https://openalex.org/I4210161060"
               ]
             },
             {
               "raw_affiliation_string": "State Office for Heritage Management and Archaeology, Saxony-Anhalt, Germany",
-              "institution_ids": [
-                "https://openalex.org/I4210119132"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -24146,33 +23442,8 @@
               "https://orcid.org/0000-0003-1874-801X"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799486974",
-              "display_name": "China Geological Survey",
-              "ror": "https://ror.org/04wtq2305",
-              "country_code": "CN",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I2799486974"
-              ]
-            }
-          ],
-          "countries": [
-            "CN",
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Iyad Zalmout",
           "raw_affiliation_strings": [
@@ -24182,10 +23453,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Survey and Exploration Centre, Geological Programs, Saudi Geological Survey, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I2799486974"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -24318,8 +23586,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 8,
-      "institutions_distinct_count": 19,
+      "countries_distinct_count": 6,
+      "institutions_distinct_count": 13,
       "corresponding_author_ids": [
         "https://openalex.org/A5037966215",
         "https://openalex.org/A5071155300",
@@ -24343,11 +23611,11 @@
         "currency": "USD",
         "value_usd": 2382
       },
-      "fwci": 5.4829,
+      "fwci": 5.3492,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.9588247,
+        "value": 0.95778408,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -25226,8 +24494,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4416430946.pdf",
@@ -25767,7 +25035,10 @@
           "author": {
             "id": "https://openalex.org/A5071541848",
             "display_name": "Benoît Issautier",
-            "orcid": "https://orcid.org/0000-0002-7951-7963"
+            "orcid": "https://orcid.org/0000-0002-7951-7963",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7951-7963"
+            ]
           },
           "institutions": [
             {
@@ -25804,7 +25075,8 @@
           "author": {
             "id": "https://openalex.org/A5054427253",
             "display_name": "Yves-Michel Le Nindre",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -25841,24 +25113,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
-            "orcid": "https://orcid.org/0000-0001-8551-3240"
+            "orcid": "https://orcid.org/0000-0001-8551-3240",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8551-3240"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdullah Memesh",
           "raw_affiliation_strings": [
@@ -25868,9 +25129,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -25879,24 +25138,11 @@
           "author": {
             "id": "https://openalex.org/A5006640587",
             "display_name": "Saleh M. Dini",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Saleh Dini",
           "raw_affiliation_strings": [
@@ -25906,25 +25152,23 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.3693,
+      "fwci": 3.338,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.92132505,
+        "value": 0.92163009,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -26306,8 +25550,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -26696,23 +25940,11 @@
           "author": {
             "id": "https://openalex.org/A5062734987",
             "display_name": "Abdullah I. Nabhan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdullah Nabhan",
           "raw_affiliation_strings": [
@@ -26722,9 +25954,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Survey and Exploration Center Saudi Geological Survey Jeddah 11451, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -26733,23 +25963,11 @@
           "author": {
             "id": "https://openalex.org/A5034675340",
             "display_name": "Nawaf Widinly",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Nawaf Widinly",
           "raw_affiliation_strings": [
@@ -26759,9 +25977,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Survey and Exploration Center Saudi Geological Survey Jeddah 11451, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -26770,23 +25986,13 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
-            "orcid": "https://orcid.org/0000-0001-8551-3240"
+            "orcid": "https://orcid.org/0000-0001-8551-3240",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8551-3240"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdullah Memesh",
           "raw_affiliation_strings": [
@@ -26796,9 +26002,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Survey and Exploration Center Saudi Geological Survey Jeddah 11451, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -26807,23 +26011,11 @@
           "author": {
             "id": "https://openalex.org/A5113033721",
             "display_name": "Mustafa Khorsheed",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Mustafa Khorsheed",
           "raw_affiliation_strings": [
@@ -26833,9 +26025,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Survey and Exploration Center Saudi Geological Survey Jeddah 11451, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -26844,7 +26034,10 @@
           "author": {
             "id": "https://openalex.org/A5020462389",
             "display_name": "Abdelbaset Sabry El-Sorogy",
-            "orcid": "https://orcid.org/0000-0003-0283-1433"
+            "orcid": "https://orcid.org/0000-0003-0283-1433",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0283-1433"
+            ]
           },
           "institutions": [
             {
@@ -26899,7 +26092,10 @@
           "author": {
             "id": "https://openalex.org/A5073580342",
             "display_name": "Mohamed Tawfik",
-            "orcid": "https://orcid.org/0000-0003-0192-9471"
+            "orcid": "https://orcid.org/0000-0003-0192-9471",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0192-9471"
+            ]
           },
           "institutions": [
             {
@@ -26939,16 +26135,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2038,
+      "fwci": 0.2008,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.49699259,
+        "value": 0.49296567,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27239,9 +26435,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -27249,8 +26445,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -28212,9 +27408,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4699999988079071,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4699999988079071
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -28222,8 +27418,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28331,22 +27527,8 @@
               "https://orcid.org/0000-0001-8551-3240"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdulla M. Memesh",
           "raw_affiliation_strings": [
@@ -28356,9 +27538,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -28396,8 +27576,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -28406,7 +27586,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.32005988,
+        "value": 0.31985221,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28625,8 +27805,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29342,8 +28522,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415609376.pdf",
@@ -30554,8 +29734,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415698517.pdf",
@@ -31427,8 +30607,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32222,9 +31402,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4069851338863373,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4069851338863373
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "x_sdgs": [],
@@ -32238,8 +31418,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -32872,9 +32052,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8898524641990662,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8898524641990662
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -32882,8 +32062,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33522,8 +32702,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5135270219",
-            "display_name": "Sinatrya D. Prayudi",
+            "id": "https://openalex.org/A5067546940",
+            "display_name": "Sinatrya Diko Prayudi",
             "orcid": "https://orcid.org/0000-0002-4009-2232",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4009-2232"
@@ -33635,7 +32815,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.40474514,
+        "value": 0.40183705,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33871,9 +33051,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6844285130500793,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6844285130500793
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -33881,8 +33061,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

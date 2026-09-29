@@ -11,15 +11,16 @@
       "ANAS MUHAMMAD SALISU",
       "Anas M Salisu",
       "Anas M. Salisu",
-      "Anas Muhammad Salisu"
+      "Anas Muhammad Salisu",
+      "M.S. Anas"
     ],
     "full_name": "Anas Muhammad Salisu",
-    "works_count": 30,
-    "cited_by_count": 230,
+    "works_count": 32,
+    "cited_by_count": 243,
     "summary_stats": {
       "2yr_mean_citedness": 6.083333333333333,
       "h_index": 10,
-      "i10_index": 10
+      "i10_index": 11
     },
     "ids": {
       "openalex": "https://openalex.org/A5072935704",
@@ -44,7 +45,8 @@
         "years": [
           2026,
           2025,
-          2022
+          2022,
+          2015
         ]
       },
       {
@@ -180,7 +182,7 @@
       {
         "id": "https://openalex.org/T12299",
         "display_name": "Radiation Shielding Materials Analysis",
-        "value": 0.0000633,
+        "value": 0.0000632,
         "subfield": {
           "id": "https://openalex.org/subfields/2505",
           "display_name": "Materials Chemistry"
@@ -197,7 +199,7 @@
       {
         "id": "https://openalex.org/T11852",
         "display_name": "Clay minerals and soil interactions",
-        "value": 0.0000618,
+        "value": 0.000062,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -214,7 +216,7 @@
       {
         "id": "https://openalex.org/T11278",
         "display_name": "Calcium Carbonate Crystallization and Inhibition",
-        "value": 0.0000462,
+        "value": 0.0000463,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -248,7 +250,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000307,
+        "value": 0.0000309,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -297,6 +299,12 @@
     ],
     "counts_by_year": [
       {
+        "year": 2015,
+        "works_count": 2,
+        "oa_works_count": 0,
+        "cited_by_count": 13
+      },
+      {
         "year": 2022,
         "works_count": 3,
         "oa_works_count": 2,
@@ -331,11 +339,12 @@
       "ANAS MUHAMMAD SALISU",
       "Anas M Salisu",
       "Anas M. Salisu",
-      "Anas Muhammad Salisu"
+      "Anas Muhammad Salisu",
+      "M.S. Anas"
     ],
     "block_key": "a salisu",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5072935704",
-    "updated_date": "2026-09-25T12:19:18",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2022-01-25T00:00:00"
   },
   "works": [
@@ -932,8 +941,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -1632,8 +1641,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 125,
@@ -2000,16 +2009,6 @@
               "lineage": [
                 "https://openalex.org/I4405254986"
               ]
-            },
-            {
-              "id": "https://openalex.org/I876237426",
-              "display_name": "Gombe State University",
-              "ror": "https://ror.org/04fbh1w34",
-              "country_code": "NG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I876237426"
-              ]
             }
           ],
           "countries": [
@@ -2025,8 +2024,7 @@
             {
               "raw_affiliation_string": "3 Department of Chemical Sciences, Faculty of Science and Computing, North-Eastern University, Gombe, Gombe State, Nigeria",
               "institution_ids": [
-                "https://openalex.org/I4405254986",
-                "https://openalex.org/I876237426"
+                "https://openalex.org/I4405254986"
               ]
             }
           ]
@@ -2081,16 +2079,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.4521,
+      "fwci": 3.414,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.93392884,
+        "value": 0.93309449,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2316,8 +2314,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -3823,8 +3821,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -5417,8 +5415,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 116,
@@ -6564,8 +6562,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 130,
@@ -7306,8 +7304,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -8021,8 +8019,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -9130,8 +9128,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 150,
@@ -10048,8 +10046,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387996609.pdf",
@@ -11267,8 +11265,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 132,
@@ -12865,8 +12863,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -14301,8 +14299,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -15611,8 +15609,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -16173,6 +16171,1093 @@
       "created_date": "2026-03-06T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2308962169",
+      "doi": "https://doi.org/10.1504/ijnest.2015.071627",
+      "title": "An experimental testing of coolant flow rate and velocity in the core of Nigeria Research Reactor-1",
+      "display_name": "An experimental testing of coolant flow rate and velocity in the core of Nigeria Research Reactor-1",
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2308962169",
+        "doi": "https://doi.org/10.1504/ijnest.2015.071627",
+        "mag": "2308962169"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1504/ijnest.2015.071627",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1504/ijnest.2015.071627",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S23954894",
+          "display_name": "International Journal of Nuclear Energy Science and Technology",
+          "issn_l": "1741-6361",
+          "issn": [
+            "1741-6361",
+            "1741-637X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
+          "host_organization": "https://openalex.org/P4310317825",
+          "host_organization_name": "Inderscience Publishers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310317825"
+          ],
+          "host_organization_lineage_names": [
+            "Inderscience Publishers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Journal of Nuclear Energy Science and Technology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5077732162",
+            "display_name": "Sunday  Arome Agbo",
+            "orcid": "https://orcid.org/0000-0001-8832-4533",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8832-4533"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12789410",
+              "display_name": "Ahmadu Bello University",
+              "ror": "https://ror.org/019apvn83",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "S.A. Agbo",
+          "raw_affiliation_strings": [
+            "Physics Department, Ahmadu Bello University, Zaria, Nigeria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Physics Department, Ahmadu Bello University, Zaria, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5061848484",
+            "display_name": "Yusuf Aminu Ahmed",
+            "orcid": "https://orcid.org/0000-0001-6342-2401",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6342-2401"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12789410",
+              "display_name": "Ahmadu Bello University",
+              "ror": "https://ror.org/019apvn83",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Y.A. Ahmed",
+          "raw_affiliation_strings": [
+            "Centre for Energy Research and Training, Ahmadu Bello University, Zaria, Nigeria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for Energy Research and Training, Ahmadu Bello University, Zaria, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5001864236",
+            "display_name": "I.O.B. Ewa",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12789410",
+              "display_name": "Ahmadu Bello University",
+              "ror": "https://ror.org/019apvn83",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "I.O.B. Ewa",
+          "raw_affiliation_strings": [
+            "Centre for Energy Research and Training, Ahmadu Bello University, Zaria, Nigeria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for Energy Research and Training, Ahmadu Bello University, Zaria, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100670820",
+            "display_name": "Mu’awiya Abubakar",
+            "orcid": "https://orcid.org/0000-0001-8255-7897",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8255-7897"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12789410",
+              "display_name": "Ahmadu Bello University",
+              "ror": "https://ror.org/019apvn83",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. Abubakar",
+          "raw_affiliation_strings": [
+            "Physics Department, Ahmadu Bello University, Zaria, Nigeria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Physics Department, Ahmadu Bello University, Zaria, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5072935704",
+            "display_name": "Anas Muhammad Salisu",
+            "orcid": "https://orcid.org/0009-0002-6134-0511",
+            "observed_orcids": [
+              "https://orcid.org/0009-0002-6134-0511",
+              "https://orcid.org/0000-0002-3186-4595"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12789410",
+              "display_name": "Ahmadu Bello University",
+              "ror": "https://ror.org/019apvn83",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M.S. Anas",
+          "raw_affiliation_strings": [
+            "CAAS Mando, Division of Agricultural Colleges, Ahmadu Bello University, Zaria, Nigeria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "CAAS Mando, Division of Agricultural Colleges, Ahmadu Bello University, Zaria, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I12789410"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 22.1968,
+      "has_fulltext": false,
+      "cited_by_count": 10,
+      "citation_normalized_percentile": {
+        "value": 0.98996707,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "9",
+        "issue": "2",
+        "first_page": "171",
+        "last_page": "171"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10597",
+        "display_name": "Nuclear reactor physics and engineering",
+        "score": 0.9993000030517578,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2202",
+          "display_name": "Aerospace Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10597",
+          "display_name": "Nuclear reactor physics and engineering",
+          "score": 0.9993000030517578,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2202",
+            "display_name": "Aerospace Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12560",
+          "display_name": "Nuclear Engineering Thermal-Hydraulics",
+          "score": 0.9958999752998352,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2202",
+            "display_name": "Aerospace Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13923",
+          "display_name": "Nuclear and radioactivity studies",
+          "score": 0.987500011920929,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2213",
+            "display_name": "Safety, Risk, Reliability and Quality"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/coolant",
+          "display_name": "Coolant",
+          "score": 0.7824040651321411
+        },
+        {
+          "id": "https://openalex.org/keywords/natural-circulation",
+          "display_name": "Natural circulation",
+          "score": 0.7481099367141724
+        },
+        {
+          "id": "https://openalex.org/keywords/nuclear-engineering",
+          "display_name": "Nuclear engineering",
+          "score": 0.740619957447052
+        },
+        {
+          "id": "https://openalex.org/keywords/nuclear-reactor-core",
+          "display_name": "Nuclear reactor core",
+          "score": 0.6890611052513123
+        },
+        {
+          "id": "https://openalex.org/keywords/scram",
+          "display_name": "Scram",
+          "score": 0.6358820199966431
+        },
+        {
+          "id": "https://openalex.org/keywords/research-reactor",
+          "display_name": "Research reactor",
+          "score": 0.6341411471366882
+        },
+        {
+          "id": "https://openalex.org/keywords/materials-science",
+          "display_name": "Materials science",
+          "score": 0.5374520421028137
+        },
+        {
+          "id": "https://openalex.org/keywords/nuclear-reactor",
+          "display_name": "Nuclear reactor",
+          "score": 0.500922679901123
+        },
+        {
+          "id": "https://openalex.org/keywords/mass-flow-rate",
+          "display_name": "Mass flow rate",
+          "score": 0.4847845435142517
+        },
+        {
+          "id": "https://openalex.org/keywords/enriched-uranium",
+          "display_name": "Enriched uranium",
+          "score": 0.4834200143814087
+        },
+        {
+          "id": "https://openalex.org/keywords/beryllium",
+          "display_name": "Beryllium",
+          "score": 0.47274860739707947
+        },
+        {
+          "id": "https://openalex.org/keywords/mass-flow",
+          "display_name": "Mass flow",
+          "score": 0.46385881304740906
+        },
+        {
+          "id": "https://openalex.org/keywords/volumetric-flow-rate",
+          "display_name": "Volumetric flow rate",
+          "score": 0.45565178990364075
+        },
+        {
+          "id": "https://openalex.org/keywords/core",
+          "display_name": "Core (optical fiber)",
+          "score": 0.4418282210826874
+        },
+        {
+          "id": "https://openalex.org/keywords/thermal-hydraulics",
+          "display_name": "Thermal hydraulics",
+          "score": 0.42355838418006897
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.399772971868515
+        },
+        {
+          "id": "https://openalex.org/keywords/nuclear-physics",
+          "display_name": "Nuclear physics",
+          "score": 0.3254937529563904
+        },
+        {
+          "id": "https://openalex.org/keywords/mechanics",
+          "display_name": "Mechanics",
+          "score": 0.32484543323516846
+        },
+        {
+          "id": "https://openalex.org/keywords/uranium",
+          "display_name": "Uranium",
+          "score": 0.2868834137916565
+        },
+        {
+          "id": "https://openalex.org/keywords/neutron",
+          "display_name": "Neutron",
+          "score": 0.2639400362968445
+        },
+        {
+          "id": "https://openalex.org/keywords/heat-transfer",
+          "display_name": "Heat transfer",
+          "score": 0.16265273094177246
+        },
+        {
+          "id": "https://openalex.org/keywords/physics",
+          "display_name": "Physics",
+          "score": 0.11443197727203369
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C91914117",
+          "wikidata": "https://www.wikidata.org/wiki/Q1056832",
+          "display_name": "Coolant",
+          "level": 2,
+          "score": 0.7824040651321411
+        },
+        {
+          "id": "https://openalex.org/C2780113671",
+          "wikidata": "https://www.wikidata.org/wiki/Q3285020",
+          "display_name": "Natural circulation",
+          "level": 2,
+          "score": 0.7481099367141724
+        },
+        {
+          "id": "https://openalex.org/C116915560",
+          "wikidata": "https://www.wikidata.org/wiki/Q83504",
+          "display_name": "Nuclear engineering",
+          "level": 1,
+          "score": 0.740619957447052
+        },
+        {
+          "id": "https://openalex.org/C37750225",
+          "wikidata": "https://www.wikidata.org/wiki/Q1353262",
+          "display_name": "Nuclear reactor core",
+          "level": 2,
+          "score": 0.6890611052513123
+        },
+        {
+          "id": "https://openalex.org/C124184767",
+          "wikidata": "https://www.wikidata.org/wiki/Q1591311",
+          "display_name": "Scram",
+          "level": 2,
+          "score": 0.6358820199966431
+        },
+        {
+          "id": "https://openalex.org/C2779154452",
+          "wikidata": "https://www.wikidata.org/wiki/Q1438105",
+          "display_name": "Research reactor",
+          "level": 3,
+          "score": 0.6341411471366882
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.5374520421028137
+        },
+        {
+          "id": "https://openalex.org/C541523362",
+          "wikidata": "https://www.wikidata.org/wiki/Q80877",
+          "display_name": "Nuclear reactor",
+          "level": 2,
+          "score": 0.500922679901123
+        },
+        {
+          "id": "https://openalex.org/C75892298",
+          "wikidata": "https://www.wikidata.org/wiki/Q1366187",
+          "display_name": "Mass flow rate",
+          "level": 2,
+          "score": 0.4847845435142517
+        },
+        {
+          "id": "https://openalex.org/C153454851",
+          "wikidata": "https://www.wikidata.org/wiki/Q473252",
+          "display_name": "Enriched uranium",
+          "level": 3,
+          "score": 0.4834200143814087
+        },
+        {
+          "id": "https://openalex.org/C506630978",
+          "wikidata": "https://www.wikidata.org/wiki/Q569",
+          "display_name": "Beryllium",
+          "level": 2,
+          "score": 0.47274860739707947
+        },
+        {
+          "id": "https://openalex.org/C33493971",
+          "wikidata": "https://www.wikidata.org/wiki/Q3295893",
+          "display_name": "Mass flow",
+          "level": 2,
+          "score": 0.46385881304740906
+        },
+        {
+          "id": "https://openalex.org/C172120300",
+          "wikidata": "https://www.wikidata.org/wiki/Q1134348",
+          "display_name": "Volumetric flow rate",
+          "level": 2,
+          "score": 0.45565178990364075
+        },
+        {
+          "id": "https://openalex.org/C2164484",
+          "wikidata": "https://www.wikidata.org/wiki/Q5170150",
+          "display_name": "Core (optical fiber)",
+          "level": 2,
+          "score": 0.4418282210826874
+        },
+        {
+          "id": "https://openalex.org/C174379495",
+          "wikidata": "https://www.wikidata.org/wiki/Q3523888",
+          "display_name": "Thermal hydraulics",
+          "level": 3,
+          "score": 0.42355838418006897
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.399772971868515
+        },
+        {
+          "id": "https://openalex.org/C185544564",
+          "wikidata": "https://www.wikidata.org/wiki/Q81197",
+          "display_name": "Nuclear physics",
+          "level": 1,
+          "score": 0.3254937529563904
+        },
+        {
+          "id": "https://openalex.org/C57879066",
+          "wikidata": "https://www.wikidata.org/wiki/Q41217",
+          "display_name": "Mechanics",
+          "level": 1,
+          "score": 0.32484543323516846
+        },
+        {
+          "id": "https://openalex.org/C555451288",
+          "wikidata": "https://www.wikidata.org/wiki/Q1098",
+          "display_name": "Uranium",
+          "level": 2,
+          "score": 0.2868834137916565
+        },
+        {
+          "id": "https://openalex.org/C152568617",
+          "wikidata": "https://www.wikidata.org/wiki/Q2348",
+          "display_name": "Neutron",
+          "level": 2,
+          "score": 0.2639400362968445
+        },
+        {
+          "id": "https://openalex.org/C50517652",
+          "wikidata": "https://www.wikidata.org/wiki/Q179635",
+          "display_name": "Heat transfer",
+          "level": 2,
+          "score": 0.16265273094177246
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.11443197727203369
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C191897082",
+          "wikidata": "https://www.wikidata.org/wiki/Q11467",
+          "display_name": "Metallurgy",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C159985019",
+          "wikidata": "https://www.wikidata.org/wiki/Q181790",
+          "display_name": "Composite material",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1504/ijnest.2015.071627",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1504/ijnest.2015.071627",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S23954894",
+            "display_name": "International Journal of Nuclear Energy Science and Technology",
+            "issn_l": "1741-6361",
+            "issn": [
+              "1741-6361",
+              "1741-637X"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
+            "host_organization": "https://openalex.org/P4310317825",
+            "host_organization_name": "Inderscience Publishers",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310317825"
+            ],
+            "host_organization_lineage_names": [
+              "Inderscience Publishers"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Journal of Nuclear Energy Science and Technology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.5799999833106995,
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
+        }
+      ],
+      "x_sdgs": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2049432591",
+        "https://openalex.org/W1987865334",
+        "https://openalex.org/W2053344658",
+        "https://openalex.org/W1541650118",
+        "https://openalex.org/W2135962780",
+        "https://openalex.org/W1519536277",
+        "https://openalex.org/W4281763507",
+        "https://openalex.org/W2277651068",
+        "https://openalex.org/W2945571086",
+        "https://openalex.org/W2095857081"
+      ],
+      "abstract_inverted_index": {
+        "This": [
+          0
+        ],
+        "paper": [
+          1
+        ],
+        "describes": [
+          2
+        ],
+        "experiments": [
+          3,
+          92,
+          123
+        ],
+        "to": [
+          4,
+          18,
+          82,
+          99
+        ],
+        "understand": [
+          5
+        ],
+        "the": [
+          6,
+          70,
+          73,
+          84,
+          118,
+          125,
+          132,
+          136
+        ],
+        "behaviour": [
+          7
+        ],
+        "of": [
+          8,
+          72,
+          120,
+          127
+        ],
+        "nuclear": [
+          9,
+          140
+        ],
+        "reactors'": [
+          10
+        ],
+        "thermo-hydraulic": [
+          11,
+          102
+        ],
+        "parameters": [
+          12,
+          103
+        ],
+        "allow": [
+          13
+        ],
+        "improved": [
+          14
+        ],
+        "model": [
+          15
+        ],
+        "predictions,": [
+          16
+        ],
+        "contributing": [
+          17
+        ],
+        "their": [
+          19
+        ],
+        "safety.": [
+          20
+        ],
+        "The": [
+          21,
+          50,
+          59,
+          76
+        ],
+        "Nigeria": [
+          22,
+          28
+        ],
+        "Miniature": [
+          23
+        ],
+        "Neutron": [
+          24
+        ],
+        "Source": [
+          25
+        ],
+        "Reactor": [
+          26
+        ],
+        "called": [
+          27
+        ],
+        "Research": [
+          29
+        ],
+        "Reactor-1": [
+          30
+        ],
+        "(NIRR-1)": [
+          31
+        ],
+        "is": [
+          32,
+          52,
+          67
+        ],
+        "a": [
+          33
+        ],
+        "tank-in-pool": [
+          34
+        ],
+        "type": [
+          35
+        ],
+        "reactor": [
+          36,
+          60,
+          74,
+          137
+        ],
+        "with": [
+          37
+        ],
+        "90.2%": [
+          38
+        ],
+        "enriched": [
+          39
+        ],
+        "uranium": [
+          40
+        ],
+        "as": [
+          41,
+          46
+        ],
+        "fuel,": [
+          42
+        ],
+        "and": [
+          43,
+          48,
+          114
+        ],
+        "light": [
+          44,
+          55
+        ],
+        "water": [
+          45,
+          56
+        ],
+        "moderator": [
+          47
+        ],
+        "coolant.": [
+          49
+        ],
+        "core": [
+          51,
+          61,
+          85,
+          105,
+          119,
+          138
+        ],
+        "cooled": [
+          53
+        ],
+        "by": [
+          54,
+          64,
+          139
+        ],
+        "natural": [
+          57,
+          128
+        ],
+        "convection.": [
+          58
+        ],
+        "assembly,": [
+          62
+        ],
+        "surrounded": [
+          63
+        ],
+        "beryllium": [
+          65
+        ],
+        "reflectors,": [
+          66
+        ],
+        "located": [
+          68
+        ],
+        "at": [
+          69,
+          95
+        ],
+        "bottom": [
+          71
+        ],
+        "vessel.": [
+          75
+        ],
+        "NIRR-1": [
+          77
+        ],
+        "has": [
+          78
+        ],
+        "no": [
+          79
+        ],
+        "installed": [
+          80
+        ],
+        "device": [
+          81
+        ],
+        "measure": [
+          83
+        ],
+        "mass": [
+          86,
+          106,
+          111
+        ],
+        "flow": [
+          87,
+          107
+        ],
+        "rate.": [
+          88
+        ],
+        "In": [
+          89
+        ],
+        "this": [
+          90
+        ],
+        "work,": [
+          91
+        ],
+        "were": [
+          93
+        ],
+        "performed": [
+          94
+        ],
+        "different": [
+          96
+        ],
+        "power": [
+          97
+        ],
+        "levels": [
+          98
+        ],
+        "monitor": [
+          100
+        ],
+        "some": [
+          101
+        ],
+        "like": [
+          104
+        ],
+        "rate,": [
+          108
+        ],
+        "coolant": [
+          109
+        ],
+        "velocity,": [
+          110
+        ],
+        "flux,": [
+          112
+        ],
+        "density": [
+          113
+        ],
+        "Reynolds": [
+          115
+        ],
+        "number": [
+          116
+        ],
+        "in": [
+          117,
+          130,
+          135
+        ],
+        "NIRR-1.": [
+          121
+        ],
+        "These": [
+          122
+        ],
+        "confirm": [
+          124
+        ],
+        "efficiency": [
+          126
+        ],
+        "circulation": [
+          129
+        ],
+        "removing": [
+          131
+        ],
+        "heat": [
+          133
+        ],
+        "produced": [
+          134
+        ],
+        "fission.": [
+          141
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-22T06:50:58.402377",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4403558876",
       "doi": "https://doi.org/10.1016/j.geoen.2024.213394",
       "title": "Novel insights to unconventional carbonate mudstone reservoir with quantitative nanoporosity characterization and modeling of Tuwaiq Mountain Formation",
@@ -16703,8 +17788,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 92,
@@ -17513,8 +18598,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -18319,8 +19404,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4401646659.pdf",
@@ -19131,6 +20216,930 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2326807707",
+      "doi": "https://doi.org/10.1504/ijnest.2015.075482",
+      "title": "In-core power prediction and effects of average core temperature on miniature neutron source reactor's core performance",
+      "display_name": "In-core power prediction and effects of average core temperature on miniature neutron source reactor's core performance",
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2326807707",
+        "doi": "https://doi.org/10.1504/ijnest.2015.075482",
+        "mag": "2326807707"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1504/ijnest.2015.075482",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1504/ijnest.2015.075482",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S23954894",
+          "display_name": "International Journal of Nuclear Energy Science and Technology",
+          "issn_l": "1741-6361",
+          "issn": [
+            "1741-6361",
+            "1741-637X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
+          "host_organization": "https://openalex.org/P4310317825",
+          "host_organization_name": "Inderscience Publishers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310317825"
+          ],
+          "host_organization_lineage_names": [
+            "Inderscience Publishers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Journal of Nuclear Energy Science and Technology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5072935704",
+            "display_name": "Anas Muhammad Salisu",
+            "orcid": "https://orcid.org/0009-0002-6134-0511",
+            "observed_orcids": [
+              "https://orcid.org/0009-0002-6134-0511",
+              "https://orcid.org/0000-0002-3186-4595"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12789410",
+              "display_name": "Ahmadu Bello University",
+              "ror": "https://ror.org/019apvn83",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M.S. Anas",
+          "raw_affiliation_strings": [
+            "College of Agriculture and Animal Science Mando, Division of Agricultural Colleges, Ahmadu Bello University, Zaria, Nigeria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Agriculture and Animal Science Mando, Division of Agricultural Colleges, Ahmadu Bello University, Zaria, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5061848484",
+            "display_name": "Yusuf Aminu Ahmed",
+            "orcid": "https://orcid.org/0000-0001-6342-2401",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6342-2401"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12789410",
+              "display_name": "Ahmadu Bello University",
+              "ror": "https://ror.org/019apvn83",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Y.A. Ahmed",
+          "raw_affiliation_strings": [
+            "Centre for Energy Research and Training, Ahmadu Bello University, Zaria, Nigeria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for Energy Research and Training, Ahmadu Bello University, Zaria, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5034982093",
+            "display_name": "Rabiu Nasiru",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12789410",
+              "display_name": "Ahmadu Bello University",
+              "ror": "https://ror.org/019apvn83",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Nasiru Rabiu",
+          "raw_affiliation_strings": [
+            "Physics Department, Ahmadu Bello University, Zaria, Nigeria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Physics Department, Ahmadu Bello University, Zaria, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5077732162",
+            "display_name": "Sunday  Arome Agbo",
+            "orcid": "https://orcid.org/0000-0001-8832-4533",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8832-4533"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12789410",
+              "display_name": "Ahmadu Bello University",
+              "ror": "https://ror.org/019apvn83",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "S.A. Agbo",
+          "raw_affiliation_strings": [
+            "Physics Department, Ahmadu Bello University, Zaria, Nigeria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Physics Department, Ahmadu Bello University, Zaria, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5082833948",
+            "display_name": "Bala Balarabe",
+            "orcid": "https://orcid.org/0000-0002-2750-4896",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2750-4896"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12789410",
+              "display_name": "Ahmadu Bello University",
+              "ror": "https://ror.org/019apvn83",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bala Balarabe",
+          "raw_affiliation_strings": [
+            "Physics Department, Ahmadu Bello University, Zaria, Nigeria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Physics Department, Ahmadu Bello University, Zaria, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I12789410"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 3,
+      "citation_normalized_percentile": {
+        "value": 0.47916151,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "9",
+        "issue": "4",
+        "first_page": "279",
+        "last_page": "279"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10597",
+        "display_name": "Nuclear reactor physics and engineering",
+        "score": 0.9976000189781189,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2202",
+          "display_name": "Aerospace Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10597",
+          "display_name": "Nuclear reactor physics and engineering",
+          "score": 0.9976000189781189,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2202",
+            "display_name": "Aerospace Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11949",
+          "display_name": "Nuclear Physics and Applications",
+          "score": 0.9943000078201294,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3108",
+            "display_name": "Radiation"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/31",
+            "display_name": "Physics and Astronomy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12560",
+          "display_name": "Nuclear Engineering Thermal-Hydraulics",
+          "score": 0.9873999953269958,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2202",
+            "display_name": "Aerospace Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/coolant",
+          "display_name": "Coolant",
+          "score": 0.8231930732727051
+        },
+        {
+          "id": "https://openalex.org/keywords/nuclear-engineering",
+          "display_name": "Nuclear engineering",
+          "score": 0.7764990329742432
+        },
+        {
+          "id": "https://openalex.org/keywords/materials-science",
+          "display_name": "Materials science",
+          "score": 0.6963829398155212
+        },
+        {
+          "id": "https://openalex.org/keywords/core",
+          "display_name": "Core (optical fiber)",
+          "score": 0.6025006771087646
+        },
+        {
+          "id": "https://openalex.org/keywords/neutron-flux",
+          "display_name": "Neutron flux",
+          "score": 0.5331537127494812
+        },
+        {
+          "id": "https://openalex.org/keywords/nuclear-reactor-core",
+          "display_name": "Nuclear reactor core",
+          "score": 0.530245304107666
+        },
+        {
+          "id": "https://openalex.org/keywords/power",
+          "display_name": "Power (physics)",
+          "score": 0.49978017807006836
+        },
+        {
+          "id": "https://openalex.org/keywords/boiling",
+          "display_name": "Boiling",
+          "score": 0.4190391004085541
+        },
+        {
+          "id": "https://openalex.org/keywords/mechanics",
+          "display_name": "Mechanics",
+          "score": 0.3765720725059509
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.33786994218826294
+        },
+        {
+          "id": "https://openalex.org/keywords/neutron",
+          "display_name": "Neutron",
+          "score": 0.3294188976287842
+        },
+        {
+          "id": "https://openalex.org/keywords/thermodynamics",
+          "display_name": "Thermodynamics",
+          "score": 0.31348443031311035
+        },
+        {
+          "id": "https://openalex.org/keywords/nuclear-physics",
+          "display_name": "Nuclear physics",
+          "score": 0.24355125427246094
+        },
+        {
+          "id": "https://openalex.org/keywords/composite-material",
+          "display_name": "Composite material",
+          "score": 0.14597153663635254
+        },
+        {
+          "id": "https://openalex.org/keywords/physics",
+          "display_name": "Physics",
+          "score": 0.12407186627388
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C91914117",
+          "wikidata": "https://www.wikidata.org/wiki/Q1056832",
+          "display_name": "Coolant",
+          "level": 2,
+          "score": 0.8231930732727051
+        },
+        {
+          "id": "https://openalex.org/C116915560",
+          "wikidata": "https://www.wikidata.org/wiki/Q83504",
+          "display_name": "Nuclear engineering",
+          "level": 1,
+          "score": 0.7764990329742432
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.6963829398155212
+        },
+        {
+          "id": "https://openalex.org/C2164484",
+          "wikidata": "https://www.wikidata.org/wiki/Q5170150",
+          "display_name": "Core (optical fiber)",
+          "level": 2,
+          "score": 0.6025006771087646
+        },
+        {
+          "id": "https://openalex.org/C81988546",
+          "wikidata": "https://www.wikidata.org/wiki/Q239277",
+          "display_name": "Neutron flux",
+          "level": 3,
+          "score": 0.5331537127494812
+        },
+        {
+          "id": "https://openalex.org/C37750225",
+          "wikidata": "https://www.wikidata.org/wiki/Q1353262",
+          "display_name": "Nuclear reactor core",
+          "level": 2,
+          "score": 0.530245304107666
+        },
+        {
+          "id": "https://openalex.org/C163258240",
+          "wikidata": "https://www.wikidata.org/wiki/Q25342",
+          "display_name": "Power (physics)",
+          "level": 2,
+          "score": 0.49978017807006836
+        },
+        {
+          "id": "https://openalex.org/C157777378",
+          "wikidata": "https://www.wikidata.org/wiki/Q41716",
+          "display_name": "Boiling",
+          "level": 2,
+          "score": 0.4190391004085541
+        },
+        {
+          "id": "https://openalex.org/C57879066",
+          "wikidata": "https://www.wikidata.org/wiki/Q41217",
+          "display_name": "Mechanics",
+          "level": 1,
+          "score": 0.3765720725059509
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.33786994218826294
+        },
+        {
+          "id": "https://openalex.org/C152568617",
+          "wikidata": "https://www.wikidata.org/wiki/Q2348",
+          "display_name": "Neutron",
+          "level": 2,
+          "score": 0.3294188976287842
+        },
+        {
+          "id": "https://openalex.org/C97355855",
+          "wikidata": "https://www.wikidata.org/wiki/Q11473",
+          "display_name": "Thermodynamics",
+          "level": 1,
+          "score": 0.31348443031311035
+        },
+        {
+          "id": "https://openalex.org/C185544564",
+          "wikidata": "https://www.wikidata.org/wiki/Q81197",
+          "display_name": "Nuclear physics",
+          "level": 1,
+          "score": 0.24355125427246094
+        },
+        {
+          "id": "https://openalex.org/C159985019",
+          "wikidata": "https://www.wikidata.org/wiki/Q181790",
+          "display_name": "Composite material",
+          "level": 1,
+          "score": 0.14597153663635254
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.12407186627388
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1504/ijnest.2015.075482",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1504/ijnest.2015.075482",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S23954894",
+            "display_name": "International Journal of Nuclear Energy Science and Technology",
+            "issn_l": "1741-6361",
+            "issn": [
+              "1741-6361",
+              "1741-637X"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
+            "host_organization": "https://openalex.org/P4310317825",
+            "host_organization_name": "Inderscience Publishers",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310317825"
+            ],
+            "host_organization_lineage_names": [
+              "Inderscience Publishers"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Journal of Nuclear Energy Science and Technology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "x_sdgs": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320327480",
+          "display_name": "China Institute of Atomic Energy",
+          "ror": "https://ror.org/00v5gqm66"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2797946690",
+        "https://openalex.org/W4311009116",
+        "https://openalex.org/W2186459633",
+        "https://openalex.org/W4377294169",
+        "https://openalex.org/W2362402961",
+        "https://openalex.org/W3093792479",
+        "https://openalex.org/W4213331728",
+        "https://openalex.org/W137785173",
+        "https://openalex.org/W4289538328",
+        "https://openalex.org/W2253916058"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          39,
+          63,
+          88
+        ],
+        "results": [
+          1,
+          108
+        ],
+        "of": [
+          2,
+          18,
+          24,
+          43,
+          52,
+          70,
+          90,
+          131
+        ],
+        "the": [
+          3,
+          8,
+          16,
+          44,
+          67,
+          71,
+          91,
+          100,
+          107,
+          111,
+          115
+        ],
+        "measurement": [
+          4
+        ],
+        "obtained": [
+          5
+        ],
+        "revealed": [
+          6
+        ],
+        "that": [
+          7,
+          110
+        ],
+        "coolant": [
+          9,
+          96,
+          126
+        ],
+        "temperature": [
+          10,
+          42,
+          93,
+          97
+        ],
+        "difference": [
+          11
+        ],
+        "is": [
+          12
+        ],
+        "approximately": [
+          13
+        ],
+        "uniform": [
+          14
+        ],
+        "over": [
+          15
+        ],
+        "period": [
+          17
+        ],
+        "operation": [
+          19,
+          35
+        ],
+        "with": [
+          20,
+          99
+        ],
+        "an": [
+          21
+        ],
+        "average": [
+          22,
+          40,
+          64
+        ],
+        "value": [
+          23,
+          65
+        ],
+        "12.1°C": [
+          25
+        ],
+        "for": [
+          26,
+          34,
+          66
+        ],
+        "experiments": [
+          27
+        ],
+        "performed": [
+          28
+        ],
+        "at": [
+          29,
+          36,
+          56,
+          73
+        ],
+        "half": [
+          30,
+          57,
+          74
+        ],
+        "power": [
+          31,
+          60,
+          69,
+          102,
+          116,
+          124
+        ],
+        "and": [
+          32,
+          54,
+          58,
+          75,
+          84,
+          95,
+          106,
+          128
+        ],
+        "19.5°C": [
+          33
+        ],
+        "full": [
+          37,
+          59,
+          76
+        ],
+        "power.": [
+          38
+        ],
+        "core": [
+          41
+        ],
+        "reactor": [
+          45,
+          72,
+          101
+        ],
+        "was": [
+          46,
+          78,
+          103
+        ],
+        "found": [
+          47,
+          79
+        ],
+        "to": [
+          48,
+          80
+        ],
+        "have": [
+          49,
+          119
+        ],
+        "mean": [
+          50
+        ],
+        "values": [
+          51
+        ],
+        "19.8°C": [
+          53
+        ],
+        "44.3°C": [
+          55
+        ],
+        "levels": [
+          61
+        ],
+        "respectively.": [
+          62,
+          87
+        ],
+        "predicted": [
+          68
+        ],
+        "flux": [
+          77
+        ],
+        "be": [
+          81
+        ],
+        "14.9": [
+          82
+        ],
+        "kW": [
+          83,
+          86
+        ],
+        "31.30": [
+          85
+        ],
+        "variation": [
+          89
+        ],
+        "inlet": [
+          92
+        ],
+        "(Tin)": [
+          94
+        ],
+        "(ΔT)": [
+          98
+        ],
+        "also": [
+          104
+        ],
+        "investigated": [
+          105
+        ],
+        "show": [
+          109
+        ],
+        "thermo-hydraulic": [
+          112
+        ],
+        "parameters": [
+          113
+        ],
+        "dictate": [
+          114
+        ],
+        "level": [
+          117
+        ],
+        "but": [
+          118
+        ],
+        "no": [
+          120
+        ],
+        "significant": [
+          121
+        ],
+        "influence": [
+          122
+        ],
+        "on": [
+          123
+        ],
+        "excursion,": [
+          125
+        ],
+        "boiling": [
+          127
+        ],
+        "radiation": [
+          129
+        ],
+        "exposure": [
+          130
+        ],
+        "personnel.": [
+          132
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-22T06:50:58.402377",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4407393621",
       "doi": "https://doi.org/10.1007/s13202-025-01930-y",
       "title": "Microfacies control on geomechanical properties of unconventional carbonate reservoirs: insights from a middle jurassic outcrop analogue in Saudi Arabia",
@@ -19814,8 +21823,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407393621.pdf",
@@ -21065,8 +23074,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -21254,16 +23263,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I307268238",
-              "display_name": "Kaduna State University",
-              "ror": "https://ror.org/0063tkv49",
-              "country_code": "NG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I307268238"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4405274239",
               "display_name": "Kaduna State College of Education Gidan Waya",
               "ror": "https://ror.org/01aybmk16",
@@ -21287,7 +23286,6 @@
             {
               "raw_affiliation_string": "Department of Physics, Kaduna State College of Education Gidan Waya, Kaduna State, Nigeria",
               "institution_ids": [
-                "https://openalex.org/I307268238",
                 "https://openalex.org/I4405274239"
               ]
             }
@@ -21334,7 +23332,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -21347,11 +23345,11 @@
         "currency": "NGN",
         "value_usd": 250
       },
-      "fwci": 0.1337,
+      "fwci": 0.1333,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.31552825,
+        "value": 0.3137643,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21761,8 +23759,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387426980.pdf",
@@ -22619,8 +24617,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23113,8 +25111,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24283,8 +26281,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -24470,16 +26468,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I307268238",
-              "display_name": "Kaduna State University",
-              "ror": "https://ror.org/0063tkv49",
-              "country_code": "NG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I307268238"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4405274239",
               "display_name": "Kaduna State College of Education Gidan Waya",
               "ror": "https://ror.org/01aybmk16",
@@ -24503,7 +26491,6 @@
             {
               "raw_affiliation_string": "Department of Physics , Kaduna State College of Education , Gidan Waya , Kaduna State , Nigeria",
               "institution_ids": [
-                "https://openalex.org/I307268238",
                 "https://openalex.org/I4405274239"
               ]
             }
@@ -24551,9 +26538,7 @@
             },
             {
               "raw_affiliation_string": "Physics Department Ahmadu",
-              "institution_ids": [
-                "https://openalex.org/I12789410"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -24618,7 +26603,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -24627,7 +26612,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.42547996,
+        "value": 0.4238193,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24958,8 +26943,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7161263637.pdf",
@@ -26243,8 +28228,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -27886,8 +29871,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -29220,8 +31205,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -30619,8 +32604,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7204475104.pdf",
@@ -31724,8 +33709,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7204476743.pdf",
@@ -32107,7 +34092,7 @@
       "title": "Hydrothermal alteration of volcaniclastic sediments: experimental insights into smectite authigenesis and its subsequent chloritization",
       "display_name": "Hydrothermal alteration of volcaniclastic sediments: experimental insights into smectite authigenesis and its subsequent chloritization",
       "publication_year": 2026,
-      "publication_date": "2026-09-01",
+      "publication_date": "2026-09-24",
       "ids": {
         "openalex": "https://openalex.org/W7214226277",
         "doi": "https://doi.org/10.1016/j.chemgeo.2026.123729"
@@ -32271,13 +34256,13 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77265799,
+        "value": 0.76755703,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": null,
       "biblio": {
-        "volume": null,
+        "volume": "725",
         "issue": null,
         "first_page": "123729",
         "last_page": "123729"
@@ -32517,8 +34502,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,

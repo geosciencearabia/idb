@@ -24,36 +24,6 @@
     "affiliations": [
       {
         "institution": {
-          "id": "https://openalex.org/I126425946",
-          "ror": "https://ror.org/033c46s90",
-          "display_name": "Université Européenne de Bretagne",
-          "country_code": "FR",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I126425946"
-          ]
-        },
-        "years": [
-          2009
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I1286361989",
-          "ror": "https://ror.org/01zvdsy94",
-          "display_name": "American Petroleum Institute",
-          "country_code": "US",
-          "type": "other",
-          "lineage": [
-            "https://openalex.org/I1286361989"
-          ]
-        },
-        "years": [
-          1985
-        ]
-      },
-      {
-        "institution": {
           "id": "https://openalex.org/I1294671590",
           "ror": "https://ror.org/02feahw73",
           "display_name": "Centre National de la Recherche Scientifique",
@@ -84,6 +54,22 @@
       },
       {
         "institution": {
+          "id": "https://openalex.org/I161929037",
+          "ror": "https://ror.org/01b8h3982",
+          "display_name": "Université de Bretagne Occidentale",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161929037",
+            "https://openalex.org/I4405260085"
+          ]
+        },
+        "years": [
+          2009
+        ]
+      },
+      {
+        "institution": {
           "id": "https://openalex.org/I24101674",
           "ror": "https://ror.org/04hadnb81",
           "display_name": "ConocoPhillips (United States)",
@@ -95,38 +81,6 @@
         },
         "years": [
           2012
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I2800952698",
-          "ror": "https://ror.org/04k820v98",
-          "display_name": "Saudi Aramco Medical Services Organization",
-          "country_code": "SA",
-          "type": "healthcare",
-          "lineage": [
-            "https://openalex.org/I2799853436",
-            "https://openalex.org/I2800952698",
-            "https://openalex.org/I4210143841"
-          ]
-        },
-        "years": [
-          2019
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I3124938446",
-          "ror": "https://ror.org/01m84wm78",
-          "display_name": "Université Rennes 2",
-          "country_code": "FR",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I3124938446"
-          ]
-        },
-        "years": [
-          2009
         ]
       },
       {
@@ -182,26 +136,12 @@
           ]
         },
         "years": [
+          2023,
           2019,
           2018,
           2017,
           2014,
           2009
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I4210154060",
-          "ror": "https://ror.org/04jfp6348",
-          "display_name": "Soraa (United States)",
-          "country_code": "US",
-          "type": "company",
-          "lineage": [
-            "https://openalex.org/I4210154060"
-          ]
-        },
-        "years": [
-          1985
         ]
       },
       {
@@ -247,6 +187,21 @@
       },
       {
         "institution": {
+          "id": "https://openalex.org/I4405260085",
+          "ror": "https://ror.org/0372th171",
+          "display_name": "Université de Bretagne Occidentale",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4405260085"
+          ]
+        },
+        "years": [
+          2009
+        ]
+      },
+      {
+        "institution": {
           "id": "https://openalex.org/I56067802",
           "ror": "https://ror.org/015m7wh34",
           "display_name": "Université de Rennes",
@@ -274,11 +229,22 @@
         },
         "years": [
           2023,
+          2018,
           2017
         ]
       }
     ],
     "last_known_institutions": [
+      {
+        "id": "https://openalex.org/I4210143841",
+        "ror": "https://ror.org/03ypap427",
+        "display_name": "Saudi Aramco (Saudi Arabia)",
+        "country_code": "SA",
+        "type": "company",
+        "lineage": [
+          "https://openalex.org/I4210143841"
+        ]
+      },
       {
         "id": "https://openalex.org/I62856769",
         "ror": "https://ror.org/035n7q728",
@@ -382,7 +348,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000765,
+        "value": 0.0000767,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -399,7 +365,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000482,
+        "value": 0.0000485,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -416,7 +382,7 @@
       {
         "id": "https://openalex.org/T13193",
         "display_name": "Geological Studies and Exploration",
-        "value": 0.000033,
+        "value": 0.0000331,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -433,7 +399,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000317,
+        "value": 0.0000318,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -450,7 +416,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000281,
+        "value": 0.0000282,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -613,7 +579,7 @@
     ],
     "block_key": "j melvin",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103799444",
-    "updated_date": "2026-09-26T12:32:56",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -699,16 +665,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I126425946",
-              "display_name": "Université Européenne de Bretagne",
-              "ror": "https://ror.org/033c46s90",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I126425946"
-              ]
-            },
-            {
               "id": "https://openalex.org/I1294671590",
               "display_name": "Centre National de la Recherche Scientifique",
               "ror": "https://ror.org/02feahw73",
@@ -729,13 +685,14 @@
               ]
             },
             {
-              "id": "https://openalex.org/I3124938446",
-              "display_name": "Université Rennes 2",
-              "ror": "https://ror.org/01m84wm78",
+              "id": "https://openalex.org/I161929037",
+              "display_name": "Université de Bretagne Occidentale",
+              "ror": "https://ror.org/01b8h3982",
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I3124938446"
+                "https://openalex.org/I161929037",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
@@ -807,6 +764,16 @@
                 "https://openalex.org/I154202486",
                 "https://openalex.org/I2802204017",
                 "https://openalex.org/I4387153566",
+                "https://openalex.org/I4405260085"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405260085",
+              "display_name": "Université de Bretagne Occidentale",
+              "ror": "https://ror.org/0372th171",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
                 "https://openalex.org/I4405260085"
               ]
             },
@@ -858,17 +825,17 @@
             {
               "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
               "institution_ids": [
-                "https://openalex.org/I126425946",
                 "https://openalex.org/I1294671590",
+                "https://openalex.org/I161929037",
                 "https://openalex.org/I4210157108",
-                "https://openalex.org/I4387153566"
+                "https://openalex.org/I4387153566",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
               "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France",
               "institution_ids": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I3124938446",
                 "https://openalex.org/I4210096833",
                 "https://openalex.org/I56067802"
               ]
@@ -884,16 +851,6 @@
             "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I126425946",
-              "display_name": "Université Européenne de Bretagne",
-              "ror": "https://ror.org/033c46s90",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I126425946"
-              ]
-            },
             {
               "id": "https://openalex.org/I1294671590",
               "display_name": "Centre National de la Recherche Scientifique",
@@ -915,13 +872,14 @@
               ]
             },
             {
-              "id": "https://openalex.org/I3124938446",
-              "display_name": "Université Rennes 2",
-              "ror": "https://ror.org/01m84wm78",
+              "id": "https://openalex.org/I161929037",
+              "display_name": "Université de Bretagne Occidentale",
+              "ror": "https://ror.org/01b8h3982",
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I3124938446"
+                "https://openalex.org/I161929037",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
@@ -993,6 +951,16 @@
                 "https://openalex.org/I154202486",
                 "https://openalex.org/I2802204017",
                 "https://openalex.org/I4387153566",
+                "https://openalex.org/I4405260085"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405260085",
+              "display_name": "Université de Bretagne Occidentale",
+              "ror": "https://ror.org/0372th171",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
                 "https://openalex.org/I4405260085"
               ]
             },
@@ -1044,17 +1012,17 @@
             {
               "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
               "institution_ids": [
-                "https://openalex.org/I126425946",
                 "https://openalex.org/I1294671590",
+                "https://openalex.org/I161929037",
                 "https://openalex.org/I4210157108",
-                "https://openalex.org/I4387153566"
+                "https://openalex.org/I4387153566",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
               "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France",
               "institution_ids": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I3124938446",
                 "https://openalex.org/I4210096833",
                 "https://openalex.org/I56067802"
               ]
@@ -1070,16 +1038,6 @@
             "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I126425946",
-              "display_name": "Université Européenne de Bretagne",
-              "ror": "https://ror.org/033c46s90",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I126425946"
-              ]
-            },
             {
               "id": "https://openalex.org/I1294671590",
               "display_name": "Centre National de la Recherche Scientifique",
@@ -1101,13 +1059,14 @@
               ]
             },
             {
-              "id": "https://openalex.org/I3124938446",
-              "display_name": "Université Rennes 2",
-              "ror": "https://ror.org/01m84wm78",
+              "id": "https://openalex.org/I161929037",
+              "display_name": "Université de Bretagne Occidentale",
+              "ror": "https://ror.org/01b8h3982",
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I3124938446"
+                "https://openalex.org/I161929037",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
@@ -1179,6 +1138,16 @@
                 "https://openalex.org/I154202486",
                 "https://openalex.org/I2802204017",
                 "https://openalex.org/I4387153566",
+                "https://openalex.org/I4405260085"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405260085",
+              "display_name": "Université de Bretagne Occidentale",
+              "ror": "https://ror.org/0372th171",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
                 "https://openalex.org/I4405260085"
               ]
             },
@@ -1230,17 +1199,17 @@
             {
               "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
               "institution_ids": [
-                "https://openalex.org/I126425946",
                 "https://openalex.org/I1294671590",
+                "https://openalex.org/I161929037",
                 "https://openalex.org/I4210157108",
-                "https://openalex.org/I4387153566"
+                "https://openalex.org/I4387153566",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
               "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France",
               "institution_ids": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I3124938446",
                 "https://openalex.org/I4210096833",
                 "https://openalex.org/I56067802"
               ]
@@ -1258,16 +1227,6 @@
             ]
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I126425946",
-              "display_name": "Université Européenne de Bretagne",
-              "ror": "https://ror.org/033c46s90",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I126425946"
-              ]
-            },
             {
               "id": "https://openalex.org/I1294671590",
               "display_name": "Centre National de la Recherche Scientifique",
@@ -1289,13 +1248,14 @@
               ]
             },
             {
-              "id": "https://openalex.org/I3124938446",
-              "display_name": "Université Rennes 2",
-              "ror": "https://ror.org/01m84wm78",
+              "id": "https://openalex.org/I161929037",
+              "display_name": "Université de Bretagne Occidentale",
+              "ror": "https://ror.org/01b8h3982",
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I3124938446"
+                "https://openalex.org/I161929037",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
@@ -1367,6 +1327,16 @@
                 "https://openalex.org/I154202486",
                 "https://openalex.org/I2802204017",
                 "https://openalex.org/I4387153566",
+                "https://openalex.org/I4405260085"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405260085",
+              "display_name": "Université de Bretagne Occidentale",
+              "ror": "https://ror.org/0372th171",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
                 "https://openalex.org/I4405260085"
               ]
             },
@@ -1418,17 +1388,17 @@
             {
               "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
               "institution_ids": [
-                "https://openalex.org/I126425946",
                 "https://openalex.org/I1294671590",
+                "https://openalex.org/I161929037",
                 "https://openalex.org/I4210157108",
-                "https://openalex.org/I4387153566"
+                "https://openalex.org/I4387153566",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
               "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France",
               "institution_ids": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I3124938446",
                 "https://openalex.org/I4210096833",
                 "https://openalex.org/I56067802"
               ]
@@ -1444,16 +1414,6 @@
             "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I126425946",
-              "display_name": "Université Européenne de Bretagne",
-              "ror": "https://ror.org/033c46s90",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I126425946"
-              ]
-            },
             {
               "id": "https://openalex.org/I1294671590",
               "display_name": "Centre National de la Recherche Scientifique",
@@ -1475,13 +1435,14 @@
               ]
             },
             {
-              "id": "https://openalex.org/I3124938446",
-              "display_name": "Université Rennes 2",
-              "ror": "https://ror.org/01m84wm78",
+              "id": "https://openalex.org/I161929037",
+              "display_name": "Université de Bretagne Occidentale",
+              "ror": "https://ror.org/01b8h3982",
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I3124938446"
+                "https://openalex.org/I161929037",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
@@ -1553,6 +1514,16 @@
                 "https://openalex.org/I154202486",
                 "https://openalex.org/I2802204017",
                 "https://openalex.org/I4387153566",
+                "https://openalex.org/I4405260085"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405260085",
+              "display_name": "Université de Bretagne Occidentale",
+              "ror": "https://ror.org/0372th171",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
                 "https://openalex.org/I4405260085"
               ]
             },
@@ -1604,17 +1575,17 @@
             {
               "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
               "institution_ids": [
-                "https://openalex.org/I126425946",
                 "https://openalex.org/I1294671590",
+                "https://openalex.org/I161929037",
                 "https://openalex.org/I4210157108",
-                "https://openalex.org/I4387153566"
+                "https://openalex.org/I4387153566",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
               "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France",
               "institution_ids": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I3124938446",
                 "https://openalex.org/I4210096833",
                 "https://openalex.org/I56067802"
               ]
@@ -1632,16 +1603,6 @@
             ]
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I126425946",
-              "display_name": "Université Européenne de Bretagne",
-              "ror": "https://ror.org/033c46s90",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I126425946"
-              ]
-            },
             {
               "id": "https://openalex.org/I1294671590",
               "display_name": "Centre National de la Recherche Scientifique",
@@ -1663,13 +1624,14 @@
               ]
             },
             {
-              "id": "https://openalex.org/I3124938446",
-              "display_name": "Université Rennes 2",
-              "ror": "https://ror.org/01m84wm78",
+              "id": "https://openalex.org/I161929037",
+              "display_name": "Université de Bretagne Occidentale",
+              "ror": "https://ror.org/01b8h3982",
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I3124938446"
+                "https://openalex.org/I161929037",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
@@ -1741,6 +1703,16 @@
                 "https://openalex.org/I154202486",
                 "https://openalex.org/I2802204017",
                 "https://openalex.org/I4387153566",
+                "https://openalex.org/I4405260085"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405260085",
+              "display_name": "Université de Bretagne Occidentale",
+              "ror": "https://ror.org/0372th171",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
                 "https://openalex.org/I4405260085"
               ]
             },
@@ -1792,17 +1764,17 @@
             {
               "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
               "institution_ids": [
-                "https://openalex.org/I126425946",
                 "https://openalex.org/I1294671590",
+                "https://openalex.org/I161929037",
                 "https://openalex.org/I4210157108",
-                "https://openalex.org/I4387153566"
+                "https://openalex.org/I4387153566",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
               "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France",
               "institution_ids": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I3124938446",
                 "https://openalex.org/I4210096833",
                 "https://openalex.org/I56067802"
               ]
@@ -1820,16 +1792,6 @@
             ]
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I126425946",
-              "display_name": "Université Européenne de Bretagne",
-              "ror": "https://ror.org/033c46s90",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I126425946"
-              ]
-            },
             {
               "id": "https://openalex.org/I1294671590",
               "display_name": "Centre National de la Recherche Scientifique",
@@ -1851,13 +1813,14 @@
               ]
             },
             {
-              "id": "https://openalex.org/I3124938446",
-              "display_name": "Université Rennes 2",
-              "ror": "https://ror.org/01m84wm78",
+              "id": "https://openalex.org/I161929037",
+              "display_name": "Université de Bretagne Occidentale",
+              "ror": "https://ror.org/01b8h3982",
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I3124938446"
+                "https://openalex.org/I161929037",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
@@ -1933,6 +1896,16 @@
               ]
             },
             {
+              "id": "https://openalex.org/I4405260085",
+              "display_name": "Université de Bretagne Occidentale",
+              "ror": "https://ror.org/0372th171",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4405260085"
+              ]
+            },
+            {
               "id": "https://openalex.org/I56067802",
               "display_name": "Université de Rennes",
               "ror": "https://ror.org/015m7wh34",
@@ -1980,17 +1953,17 @@
             {
               "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
               "institution_ids": [
-                "https://openalex.org/I126425946",
                 "https://openalex.org/I1294671590",
+                "https://openalex.org/I161929037",
                 "https://openalex.org/I4210157108",
-                "https://openalex.org/I4387153566"
+                "https://openalex.org/I4387153566",
+                "https://openalex.org/I4405260085"
               ]
             },
             {
               "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France",
               "institution_ids": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I3124938446",
                 "https://openalex.org/I4210096833",
                 "https://openalex.org/I56067802"
               ]
@@ -2006,24 +1979,24 @@
         "https://openalex.org/A5058654714"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I126425946",
         "https://openalex.org/I1294671590",
         "https://openalex.org/I157674565",
-        "https://openalex.org/I3124938446",
+        "https://openalex.org/I161929037",
         "https://openalex.org/I32597200",
         "https://openalex.org/I4210096833",
         "https://openalex.org/I4210143841",
         "https://openalex.org/I4210157108",
         "https://openalex.org/I4387153566",
+        "https://openalex.org/I4405260085",
         "https://openalex.org/I56067802"
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 13.8338,
+      "fwci": 13.7622,
       "has_fulltext": true,
       "cited_by_count": 278,
       "citation_normalized_percentile": {
-        "value": 0.99312741,
+        "value": 0.99308983,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2688,8 +2661,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2048864911.pdf",
@@ -3515,8 +3488,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2955893822.pdf"
@@ -4758,8 +4731,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -5422,8 +5395,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -5609,7 +5582,8 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -5644,6 +5618,17 @@
               ]
             },
             {
+              "id": "https://openalex.org/I4405258264",
+              "display_name": "Université Rennes 1",
+              "ror": "https://ror.org/00crteh33",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4405258264",
+                "https://openalex.org/I56067802"
+              ]
+            },
+            {
               "id": "https://openalex.org/I56067802",
               "display_name": "Université de Rennes",
               "ror": "https://ror.org/015m7wh34",
@@ -5670,6 +5655,7 @@
               "institution_ids": [
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210096833",
+                "https://openalex.org/I4405258264",
                 "https://openalex.org/I56067802"
               ]
             },
@@ -5684,7 +5670,10 @@
           "author": {
             "id": "https://openalex.org/A5029025019",
             "display_name": "Jacques Verniers",
-            "orcid": "https://orcid.org/0000-0002-2939-7684"
+            "orcid": "https://orcid.org/0000-0002-2939-7684",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2939-7684"
+            ]
           },
           "institutions": [
             {
@@ -5721,7 +5710,10 @@
           "author": {
             "id": "https://openalex.org/A5021079925",
             "display_name": "Merrell A. Miller",
-            "orcid": "https://orcid.org/0000-0002-6046-4283"
+            "orcid": "https://orcid.org/0000-0002-6046-4283",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6046-4283"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -5743,7 +5735,8 @@
           "author": {
             "id": "https://openalex.org/A5054134454",
             "display_name": "Sa’id A. Al-Hajri",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -5780,7 +5773,8 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -5817,7 +5811,10 @@
           "author": {
             "id": "https://openalex.org/A5058654714",
             "display_name": "Charles H. Wellman",
-            "orcid": "https://orcid.org/0000-0001-7511-0464"
+            "orcid": "https://orcid.org/0000-0001-7511-0464",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7511-0464"
+            ]
           },
           "institutions": [
             {
@@ -5852,13 +5849,14 @@
       ],
       "institutions": [],
       "countries_distinct_count": 4,
-      "institutions_distinct_count": 6,
+      "institutions_distinct_count": 7,
       "corresponding_author_ids": [
         "https://openalex.org/A5111534349"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I1294671590",
         "https://openalex.org/I4210096833",
+        "https://openalex.org/I4405258264",
         "https://openalex.org/I56067802"
       ],
       "apc_list": {
@@ -5867,11 +5865,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 5.5825,
+      "fwci": 5.4614,
       "has_fulltext": false,
       "cited_by_count": 38,
       "citation_normalized_percentile": {
-        "value": 0.95094698,
+        "value": 0.94966615,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6204,8 +6202,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -6860,8 +6858,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -8620,8 +8618,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -8849,10 +8847,22 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "S. Tofaif",
@@ -8864,7 +8874,8 @@
             {
               "raw_affiliation_string": "Reservoir Characterization Department, Saudi Aramco, Dhahran, 31311, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             }
           ]
@@ -8927,10 +8938,22 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "J. Melvin",
@@ -8942,24 +8965,25 @@
             {
               "raw_affiliation_string": "Reservoir Characterization Department, Saudi Aramco, Dhahran, 31311, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.0201,
+      "fwci": 2.0106,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.83853119,
+        "value": 0.83791625,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9168,8 +9192,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -10427,8 +10451,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 181,
@@ -10730,21 +10754,10 @@
           "author": {
             "id": "https://openalex.org/A5030587820",
             "display_name": "Camilo A. Polo",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I2800952698",
-              "display_name": "Saudi Aramco Medical Services Organization",
-              "ror": "https://ror.org/04k820v98",
-              "country_code": "SA",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I2799853436",
-                "https://openalex.org/I2800952698",
-                "https://openalex.org/I4210143841"
-              ]
-            },
             {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
@@ -10770,7 +10783,6 @@
             {
               "raw_affiliation_string": "Saudi Aramco Exploration Organization Northern Arabia Reservoir Characterization Department Dhahran Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I2800952698",
                 "https://openalex.org/I4210143841"
               ]
             },
@@ -10787,21 +10799,10 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I2800952698",
-              "display_name": "Saudi Aramco Medical Services Organization",
-              "ror": "https://ror.org/04k820v98",
-              "country_code": "SA",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I2799853436",
-                "https://openalex.org/I2800952698",
-                "https://openalex.org/I4210143841"
-              ]
-            },
             {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
@@ -10827,7 +10828,6 @@
             {
               "raw_affiliation_string": "(Retired) Saudi Aramco Exploration Organization Reservoir Characterization Department Dhahran Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I2800952698",
                 "https://openalex.org/I4210143841"
               ]
             },
@@ -10844,21 +10844,10 @@
           "author": {
             "id": "https://openalex.org/A5012935449",
             "display_name": "Nigel P. Hooker",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I2800952698",
-              "display_name": "Saudi Aramco Medical Services Organization",
-              "ror": "https://ror.org/04k820v98",
-              "country_code": "SA",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I2799853436",
-                "https://openalex.org/I2800952698",
-                "https://openalex.org/I4210143841"
-              ]
-            },
             {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
@@ -10884,7 +10873,6 @@
             {
               "raw_affiliation_string": "Saudi Aramco Exploration Organization Geological Operations Department Dhahran Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I2800952698",
                 "https://openalex.org/I4210143841"
               ]
             },
@@ -10901,7 +10889,10 @@
           "author": {
             "id": "https://openalex.org/A5002086129",
             "display_name": "Andrew J. Rees",
-            "orcid": "https://orcid.org/0000-0002-6243-7756"
+            "orcid": "https://orcid.org/0000-0002-6243-7756",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6243-7756"
+            ]
           },
           "institutions": [
             {
@@ -10945,7 +10936,10 @@
           "author": {
             "id": "https://openalex.org/A5071875690",
             "display_name": "Murray K. Gingras",
-            "orcid": "https://orcid.org/0000-0002-6683-1750"
+            "orcid": "https://orcid.org/0000-0002-6683-1750",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6683-1750"
+            ]
           },
           "institutions": [
             {
@@ -10989,7 +10983,8 @@
           "author": {
             "id": "https://openalex.org/A5111738454",
             "display_name": "S. George Pemberton",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -11031,12 +11026,11 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5030587820"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I2800952698",
         "https://openalex.org/I4210143841"
       ],
       "apc_list": {
@@ -11049,7 +11043,7 @@
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.09701094,
+        "value": 0.09699987,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11336,8 +11330,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 117,
@@ -12654,8 +12648,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3022763138.pdf"
@@ -13896,7 +13890,8 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -13908,10 +13903,22 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": true,
           "raw_author_name": "John Melvin",
@@ -13923,28 +13930,30 @@
             {
               "raw_affiliation_string": "Reservoir Characterization Department, Saudi Aramco Box 12646, Dhahran 31311, Saudi Arabia jxmelvin1@gmail.com",
               "institution_ids": [
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5103799444"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I4210143841"
+        "https://openalex.org/I4210143841",
+        "https://openalex.org/I62856769"
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7894,
+      "fwci": 0.7756,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.67354933,
+        "value": 0.66905518,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14213,8 +14222,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -15563,8 +15572,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16741,8 +16750,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 147,
@@ -17274,8 +17283,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18358,8 +18367,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -20211,8 +20220,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -20963,8 +20972,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21600,8 +21609,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -22817,21 +22826,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210154060",
-              "display_name": "Soraa (United States)",
-              "ror": "https://ror.org/04jfp6348",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210154060"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": true,
           "raw_author_name": "J. Melvin",
           "raw_affiliation_strings": [
@@ -22841,29 +22837,25 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Sohio Petroleum Company, 50 Fremont Street, San Francisco, California 94105",
-              "institution_ids": [
-                "https://openalex.org/I4210154060"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5103799444"
       ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210154060"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.27383094,
+        "value": 0.27556561,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23142,8 +23134,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -24212,8 +24204,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 96,
@@ -24705,8 +24697,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25514,8 +25506,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -26407,8 +26399,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -26960,6 +26952,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -26990,9 +26983,20 @@
           "author": {
             "id": "https://openalex.org/A5002608700",
             "display_name": "Fares Alaboud",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -27006,6 +27010,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -27018,6 +27023,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -27028,9 +27034,20 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -27044,6 +27061,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -27056,6 +27074,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -27063,19 +27082,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I62856769"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.09732765,
+        "value": 0.09628009,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27357,6 +27374,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -27391,8 +27409,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -28399,8 +28417,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28622,23 +28640,11 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286361989",
-              "display_name": "American Petroleum Institute",
-              "ror": "https://ror.org/01zvdsy94",
-              "country_code": "US",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I1286361989"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": true,
           "raw_author_name": "John Melvin",
           "raw_affiliation_strings": [
@@ -28648,29 +28654,25 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Sohio Petroleum Co., San Francisco, CA",
-              "institution_ids": [
-                "https://openalex.org/I1286361989"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5103799444"
       ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I1286361989"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1174,
+      "fwci": 1.1035,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.78440638,
+        "value": 0.78302451,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28877,8 +28879,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29761,8 +29763,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30175,8 +30177,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31028,8 +31030,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31322,8 +31324,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31546,8 +31548,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31969,8 +31971,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33034,8 +33036,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33697,9 +33699,22 @@
           "author": {
             "id": "https://openalex.org/A5037314686",
             "display_name": "Mohammed Alsheikh",
-            "orcid": "https://orcid.org/0000-0002-7918-7634"
+            "orcid": "https://orcid.org/0000-0002-7918-7634",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7918-7634"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -33713,6 +33728,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -33725,6 +33741,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -33735,9 +33752,20 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -33751,6 +33779,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -33763,6 +33792,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -33773,7 +33803,10 @@
           "author": {
             "id": "https://openalex.org/A5064622354",
             "display_name": "Koustav Dasgupta",
-            "orcid": "https://orcid.org/0000-0002-0972-2136"
+            "orcid": "https://orcid.org/0000-0002-0972-2136",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0972-2136"
+            ]
           },
           "institutions": [
             {
@@ -33810,9 +33843,20 @@
           "author": {
             "id": "https://openalex.org/A5002608700",
             "display_name": "Fares Alaboud",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -33826,6 +33870,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -33838,6 +33883,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -33848,9 +33894,20 @@
           "author": {
             "id": "https://openalex.org/A5076343814",
             "display_name": "Hasan Algheryafi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -33864,6 +33921,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -33876,6 +33934,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -33883,8 +33942,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -33893,7 +33952,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.12382622,
+        "value": 0.12369841,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34126,8 +34185,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

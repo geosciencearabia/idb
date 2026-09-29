@@ -13,22 +13,20 @@
       "P JOHNSON",
       "P R Johnson",
       "P. Johnson",
-      "P. R. A. Johnson",
       "P. R. Johnson",
       "P.R. Johnson",
-      "P.R.A. Johnson",
       "PETER R. JOHNSON",
       "Peter Johnson",
       "Peter R Johnson",
       "Peter R. Johnson"
     ],
     "full_name": "Johnson, Peter Roland Andrew",
-    "works_count": 87,
-    "cited_by_count": 6188,
+    "works_count": 75,
+    "cited_by_count": 5730,
     "summary_stats": {
       "2yr_mean_citedness": 0,
-      "h_index": 33,
-      "i10_index": 51
+      "h_index": 31,
+      "i10_index": 43
     },
     "ids": {
       "openalex": "https://openalex.org/A5103098706",
@@ -40,67 +38,22 @@
     "affiliations": [
       {
         "institution": {
-          "id": "https://openalex.org/I1291634729",
-          "ror": "https://ror.org/04kqymn96",
-          "display_name": "Wild Salmon Center",
+          "id": "https://openalex.org/I1286329397",
+          "ror": "https://ror.org/035a68863",
+          "display_name": "United States Geological Survey",
           "country_code": "US",
-          "type": "nonprofit",
+          "type": "government",
           "lineage": [
-            "https://openalex.org/I1291634729"
+            "https://openalex.org/I1286329397",
+            "https://openalex.org/I1335927249"
           ]
         },
         "years": [
-          2019,
-          2013
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I129604602",
-          "ror": "https://ror.org/0384j8v12",
-          "display_name": "The University of Sydney",
-          "country_code": "AU",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I129604602"
-          ]
-        },
-        "years": [
-          2006,
-          1991,
-          1988,
-          1978
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I1320351128",
-          "ror": "https://ror.org/03g9c1e75",
-          "display_name": "Delta Air Lines (United States)",
-          "country_code": "US",
-          "type": "company",
-          "lineage": [
-            "https://openalex.org/I1320351128"
-          ]
-        },
-        "years": [
-          1989
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I1330063522",
-          "ror": "https://ror.org/03qd7mz70",
-          "display_name": "Johnson & Johnson (United States)",
-          "country_code": "US",
-          "type": "company",
-          "lineage": [
-            "https://openalex.org/I1330063522"
-          ]
-        },
-        "years": [
-          2009,
-          2008
+          2015,
+          2001,
+          1996,
+          1995,
+          1991
         ]
       },
       {
@@ -136,100 +89,24 @@
       },
       {
         "institution": {
-          "id": "https://openalex.org/I196021976",
-          "ror": "https://ror.org/01b6kha49",
-          "display_name": "Walter and Eliza Hall Institute of Medical Research",
-          "country_code": "AU",
-          "type": "nonprofit",
-          "lineage": [
-            "https://openalex.org/I196021976"
-          ]
-        },
-        "years": [
-          1978,
-          1975
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I212119943",
-          "ror": "https://ror.org/04s5mat29",
-          "display_name": "University of Victoria",
-          "country_code": "CA",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I212119943"
-          ]
-        },
-        "years": [
-          1977
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I2800858616",
-          "ror": "https://ror.org/04hy0x592",
-          "display_name": "Woolcock Institute of Medical Research",
-          "country_code": "AU",
+          "id": "https://openalex.org/I4387155020",
+          "ror": "https://ror.org/00nbx9b54",
+          "display_name": "Institut des Sciences de la Mécanique et Applications Industrielles",
+          "country_code": "FR",
           "type": "facility",
           "lineage": [
-            "https://openalex.org/I2799732068",
-            "https://openalex.org/I2800858616",
-            "https://openalex.org/I99043593"
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I201181511",
+            "https://openalex.org/I2738703131",
+            "https://openalex.org/I4210095849",
+            "https://openalex.org/I4210143116",
+            "https://openalex.org/I4210145102",
+            "https://openalex.org/I4387155020",
+            "https://openalex.org/I4405258625"
           ]
         },
         "years": [
-          2006
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I4210127914",
-          "ror": "https://ror.org/03m027021",
-          "display_name": "Oregon Medical Research Center",
-          "country_code": "US",
-          "type": "healthcare",
-          "lineage": [
-            "https://openalex.org/I4210127914"
-          ]
-        },
-        "years": [
-          2017
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I4210143841",
-          "ror": "https://ror.org/03ypap427",
-          "display_name": "Saudi Aramco (Saudi Arabia)",
-          "country_code": "SA",
-          "type": "company",
-          "lineage": [
-            "https://openalex.org/I4210143841"
-          ]
-        },
-        "years": [
-          2010,
-          2007,
-          2004,
-          2003
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I4210144228",
-          "ror": "https://ror.org/04byxyr05",
-          "display_name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
-          "country_code": "US",
-          "type": "facility",
-          "lineage": [
-            "https://openalex.org/I1299022934",
-            "https://openalex.org/I1299303238",
-            "https://openalex.org/I4210144228"
-          ]
-        },
-        "years": [
-          2026
+          2018
         ]
       },
       {
@@ -261,39 +138,9 @@
         "years": [
           2022
         ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I71578702",
-          "ror": "https://ror.org/01q6pmm96",
-          "display_name": "University of Portland",
-          "country_code": "US",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I71578702"
-          ]
-        },
-        "years": [
-          2018,
-          2013,
-          2010
-        ]
       }
     ],
-    "last_known_institutions": [
-      {
-        "id": "https://openalex.org/I4210144228",
-        "ror": "https://ror.org/04byxyr05",
-        "display_name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
-        "country_code": "US",
-        "type": "facility",
-        "lineage": [
-          "https://openalex.org/I1299022934",
-          "https://openalex.org/I1299303238",
-          "https://openalex.org/I4210144228"
-        ]
-      }
-    ],
+    "last_known_institutions": null,
     "topics": [
       {
         "id": "https://openalex.org/T10001",
@@ -385,7 +232,7 @@
       {
         "id": "https://openalex.org/T10001",
         "display_name": "Geological and Geochemical Analysis",
-        "value": 0.0000855,
+        "value": 0.0000858,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -402,7 +249,7 @@
       {
         "id": "https://openalex.org/T10110",
         "display_name": "earthquake and tectonic studies",
-        "value": 0.0000636,
+        "value": 0.0000639,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -410,23 +257,6 @@
         "field": {
           "id": "https://openalex.org/fields/19",
           "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
-        "id": "https://openalex.org/T12157",
-        "display_name": "Geochemistry and Geologic Mapping",
-        "value": 0.0000546,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1702",
-          "display_name": "Artificial Intelligence"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/17",
-          "display_name": "Computer Science"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -451,9 +281,26 @@
         }
       },
       {
+        "id": "https://openalex.org/T12157",
+        "display_name": "Geochemistry and Geologic Mapping",
+        "value": 0.0000537,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000482,
+        "value": 0.0000483,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -494,10 +341,10 @@
         "score": 0.7334078550338745
       },
       {
-        "id": "71924100",
-        "wikidata": "https://www.wikidata.org/wiki/Q11190",
-        "display_name": "Medicine",
-        "score": 0.48099932074546814
+        "id": "205649164",
+        "wikidata": "https://www.wikidata.org/wiki/Q1071",
+        "display_name": "Geography",
+        "score": 0.4741862714290619
       }
     ],
     "counts_by_year": [
@@ -527,27 +374,15 @@
       },
       {
         "year": 1975,
-        "works_count": 2,
+        "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 99
+        "cited_by_count": 0
       },
       {
         "year": 1976,
         "works_count": 1,
         "oa_works_count": 0,
         "cited_by_count": 0
-      },
-      {
-        "year": 1977,
-        "works_count": 1,
-        "oa_works_count": 1,
-        "cited_by_count": 123
-      },
-      {
-        "year": 1978,
-        "works_count": 1,
-        "oa_works_count": 0,
-        "cited_by_count": 24
       },
       {
         "year": 1979,
@@ -580,12 +415,6 @@
         "cited_by_count": 41
       },
       {
-        "year": 1988,
-        "works_count": 1,
-        "oa_works_count": 0,
-        "cited_by_count": 52
-      },
-      {
         "year": 1989,
         "works_count": 1,
         "oa_works_count": 0,
@@ -599,9 +428,9 @@
       },
       {
         "year": 1991,
-        "works_count": 5,
+        "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 70
+        "cited_by_count": 6
       },
       {
         "year": 1993,
@@ -647,9 +476,9 @@
       },
       {
         "year": 2003,
-        "works_count": 6,
+        "works_count": 5,
         "oa_works_count": 0,
-        "cited_by_count": 835
+        "cited_by_count": 834
       },
       {
         "year": 2004,
@@ -658,16 +487,10 @@
         "cited_by_count": 425
       },
       {
-        "year": 2005,
-        "works_count": 1,
-        "oa_works_count": 1,
-        "cited_by_count": 11
-      },
-      {
         "year": 2006,
-        "works_count": 4,
+        "works_count": 3,
         "oa_works_count": 0,
-        "cited_by_count": 368
+        "cited_by_count": 285
       },
       {
         "year": 2007,
@@ -703,7 +526,7 @@
         "year": 2013,
         "works_count": 5,
         "oa_works_count": 2,
-        "cited_by_count": 1081
+        "cited_by_count": 1080
       },
       {
         "year": 2014,
@@ -761,7 +584,7 @@
       },
       {
         "year": 2026,
-        "works_count": 3,
+        "works_count": 1,
         "oa_works_count": 1,
         "cited_by_count": 0
       }
@@ -773,10 +596,8 @@
       "P JOHNSON",
       "P R Johnson",
       "P. Johnson",
-      "P. R. A. Johnson",
       "P. R. Johnson",
       "P.R. Johnson",
-      "P.R.A. Johnson",
       "PETER R. JOHNSON",
       "Peter Johnson",
       "Peter R Johnson",
@@ -784,7 +605,7 @@
     ],
     "block_key": "p johnson",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103098706",
-    "updated_date": "2026-09-26T12:32:56",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1109,6 +930,17 @@
               "lineage": [
                 "https://openalex.org/I3124059619"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4391767817",
+              "display_name": "State Key Laboratory of Geological Processes and Mineral Resources",
+              "ror": "https://ror.org/04sg95s75",
+              "country_code": null,
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I3124059619",
+                "https://openalex.org/I4391767817"
+              ]
             }
           ],
           "countries": [
@@ -1124,7 +956,8 @@
             {
               "raw_affiliation_string": "State Key Laboratory of Geological Processes and Mineral Resources, Three Gorges Research Center for Geohazards, China University of Geosciences, Wuhan, China",
               "institution_ids": [
-                "https://openalex.org/I3124059619"
+                "https://openalex.org/I3124059619",
+                "https://openalex.org/I4391767817"
               ]
             }
           ]
@@ -1172,7 +1005,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 6,
-      "institutions_distinct_count": 7,
+      "institutions_distinct_count": 8,
       "corresponding_author_ids": [
         "https://openalex.org/A5103098706"
       ],
@@ -1183,11 +1016,11 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 20.0008,
+      "fwci": 19.847,
       "has_fulltext": false,
       "cited_by_count": 821,
       "citation_normalized_percentile": {
-        "value": 0.99822346,
+        "value": 0.99820953,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1500,9 +1333,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -1595,8 +1428,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 312,
@@ -2497,16 +2330,6 @@
               "lineage": [
                 "https://openalex.org/I182078086"
               ]
-            },
-            {
-              "id": "https://openalex.org/I209822943",
-              "display_name": "Ministry of Agriculture, Food Security and Cooperatives",
-              "ror": "https://ror.org/00qgwdb66",
-              "country_code": "TZ",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I209822943"
-              ]
             }
           ],
           "countries": [
@@ -2529,9 +2352,7 @@
             },
             {
               "raw_affiliation_string": "Ministry of Energy and Minerals, 754/33 Samora Avenue, Dar Es Salaam,Tanzania",
-              "institution_ids": [
-                "https://openalex.org/I209822943"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "University of Dar Es Salaam, Department of Geology, P.O.Box 35052, Dar Es Salaam, Tanzania",
@@ -2628,7 +2449,8 @@
             {
               "raw_affiliation_string": "Geological Survey of Norway, Trondheim, Norway; Norwegian University of Science and Technology, Trondheim, Norway",
               "institution_ids": [
-                "https://openalex.org/I1296551785"
+                "https://openalex.org/I1296551785",
+                "https://openalex.org/I204778367"
               ]
             },
             {
@@ -2648,7 +2470,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 10,
-      "institutions_distinct_count": 13,
+      "institutions_distinct_count": 12,
       "corresponding_author_ids": [
         "https://openalex.org/A5028367160"
       ],
@@ -2665,11 +2487,11 @@
         "currency": "USD",
         "value_usd": 3370
       },
-      "fwci": 22.5755,
+      "fwci": 22.4113,
       "has_fulltext": false,
-      "cited_by_count": 816,
+      "cited_by_count": 815,
       "citation_normalized_percentile": {
-        "value": 0.99878227,
+        "value": 0.99877255,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -3166,9 +2988,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -3176,8 +2998,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 316,
@@ -4290,7 +4112,7 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 63
+          "cited_by_count": 62
         },
         {
           "year": 2018,
@@ -4895,9 +4717,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -4905,8 +4727,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 214,
@@ -5618,9 +5440,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.49000000953674316,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.49000000953674316
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -5628,8 +5450,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 159,
@@ -6429,7 +6251,10 @@
           "author": {
             "id": "https://openalex.org/A5035240990",
             "display_name": "Robert J. Stern",
-            "orcid": "https://orcid.org/0000-0002-8083-4632"
+            "orcid": "https://orcid.org/0000-0002-8083-4632",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8083-4632"
+            ]
           },
           "institutions": [
             {
@@ -6466,23 +6291,13 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Peter R. Johnson",
           "raw_affiliation_strings": [
@@ -6492,9 +6307,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, P.O. Box 54141, Jiddah 21514, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -6503,7 +6316,10 @@
           "author": {
             "id": "https://openalex.org/A5069826985",
             "display_name": "Alfred Kröner",
-            "orcid": "https://orcid.org/0000-0002-6231-8378"
+            "orcid": "https://orcid.org/0000-0002-6231-8378",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6231-8378"
+            ]
           },
           "institutions": [
             {
@@ -6547,7 +6363,8 @@
           "author": {
             "id": "https://openalex.org/A5077690571",
             "display_name": "Bisrat Yibas",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -6566,17 +6383,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.133,
+      "fwci": 7.0013,
       "has_fulltext": false,
       "cited_by_count": 329,
       "citation_normalized_percentile": {
-        "value": 0.97444832,
+        "value": 0.97414806,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6772,9 +6589,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -6782,8 +6599,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -7479,9 +7296,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -7505,8 +7322,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -7869,21 +7686,8 @@
               "https://orcid.org/0000-0001-5367-0671"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "J. P. Liegeois",
           "raw_affiliation_strings": [
@@ -7893,9 +7697,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, P.O. Box 54141, Jeddah 21514, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -7909,32 +7711,8 @@
               "https://orcid.org/0000-0002-4697-3882"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I71578702",
-              "display_name": "University of Portland",
-              "ror": "https://ror.org/01q6pmm96",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71578702"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "P. R. Johnson",
           "raw_affiliation_strings": [
@@ -7950,15 +7728,11 @@
             },
             {
               "raw_affiliation_string": "6016 SW Haines Street, Portland Oregon 97219, USA",
-              "institution_ids": [
-                "https://openalex.org/I71578702"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Saudi Geological Survey, P.O. Box 54141, Jeddah 21514, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -7982,21 +7756,10 @@
               "lineage": [
                 "https://openalex.org/I4210141924"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
             }
           ],
           "countries": [
-            "PL",
-            "SA"
+            "PL"
           ],
           "is_corresponding": false,
           "raw_author_name": "W. Kozdroj",
@@ -8019,9 +7782,7 @@
             },
             {
               "raw_affiliation_string": "Saudi Geological Survey, P.O. Box 54141, Jeddah 21514, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -8043,21 +7804,10 @@
               "lineage": [
                 "https://openalex.org/I4210141924"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
             }
           ],
           "countries": [
-            "PL",
-            "SA"
+            "PL"
           ],
           "is_corresponding": false,
           "raw_author_name": "F. H. Kattan",
@@ -8080,16 +7830,14 @@
             },
             {
               "raw_affiliation_string": "Saudi Geological Survey, P.O. Box 54141, Jeddah 21514, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 5,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5032099830"
       ],
@@ -8099,11 +7847,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.8068,
+      "fwci": 5.7617,
       "has_fulltext": true,
       "cited_by_count": 192,
       "citation_normalized_percentile": {
-        "value": 0.96760355,
+        "value": 0.96745342,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8430,9 +8178,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8100000023841858,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8100000023841858
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -8446,8 +8194,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2150913154.pdf",
@@ -9735,8 +9483,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -10219,9 +9967,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5199999809265137,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5199999809265137
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -10229,8 +9977,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2064300797.pdf",
@@ -11129,21 +10877,8 @@
               "https://orcid.org/0000-0002-4697-3882"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1291634729",
-              "display_name": "Wild Salmon Center",
-              "ror": "https://ror.org/04kqymn96",
-              "country_code": "US",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I1291634729"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": true,
           "raw_author_name": "Peter Johnson",
           "raw_affiliation_strings": [
@@ -11153,9 +10888,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "SW Haines Street, Portland, OR 97219, USA",
-              "institution_ids": [
-                "https://openalex.org/I1291634729"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -11230,6 +10963,17 @@
               "lineage": [
                 "https://openalex.org/I3124059619"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4391767817",
+              "display_name": "State Key Laboratory of Geological Processes and Mineral Resources",
+              "ror": "https://ror.org/04sg95s75",
+              "country_code": null,
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I3124059619",
+                "https://openalex.org/I4391767817"
+              ]
             }
           ],
           "countries": [
@@ -11245,7 +10989,8 @@
             {
               "raw_affiliation_string": "Three Gorges Research Center for Geohazards, State Key Laboratory of Geological Processes and Mineral Resources, China University of Geosciences, Wuhan 430074, China",
               "institution_ids": [
-                "https://openalex.org/I3124059619"
+                "https://openalex.org/I3124059619",
+                "https://openalex.org/I4391767817"
               ]
             }
           ]
@@ -11310,16 +11055,6 @@
               "lineage": [
                 "https://openalex.org/I161593684"
               ]
-            },
-            {
-              "id": "https://openalex.org/I2803100473",
-              "display_name": "Geological Survey of Sweden",
-              "ror": "https://ror.org/050rtva22",
-              "country_code": "SE",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I2803100473"
-              ]
             }
           ],
           "countries": [
@@ -11336,8 +11071,7 @@
             {
               "raw_affiliation_string": "Department of Geological Sciences, PetroTectonics Facility, Stockholm University,  Stockholm SE-106 91, Sweden",
               "institution_ids": [
-                "https://openalex.org/I161593684",
-                "https://openalex.org/I2803100473"
+                "https://openalex.org/I161593684"
               ]
             },
             {
@@ -11351,13 +11085,11 @@
       ],
       "institutions": [],
       "countries_distinct_count": 4,
-      "institutions_distinct_count": 7,
+      "institutions_distinct_count": 6,
       "corresponding_author_ids": [
         "https://openalex.org/A5103098706"
       ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I1291634729"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 1800,
         "currency": "CHF",
@@ -11368,11 +11100,11 @@
         "currency": "CHF",
         "value_usd": 2172
       },
-      "fwci": 6.4983,
+      "fwci": 6.415,
       "has_fulltext": false,
       "cited_by_count": 109,
       "citation_normalized_percentile": {
-        "value": 0.96092509,
+        "value": 0.96032881,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11711,9 +11443,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -11721,8 +11453,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -12520,21 +12252,8 @@
               "https://orcid.org/0000-0002-4697-3882"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1291634729",
-              "display_name": "Wild Salmon Center",
-              "ror": "https://ror.org/04kqymn96",
-              "country_code": "US",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I1291634729"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Peter R. Johnson",
           "raw_affiliation_strings": [
@@ -12544,9 +12263,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "6016 SW Haines St., Portland, OR 97219, USA",
-              "institution_ids": [
-                "https://openalex.org/I1291634729"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -12570,6 +12287,17 @@
               "lineage": [
                 "https://openalex.org/I3125743391"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4391767817",
+              "display_name": "State Key Laboratory of Geological Processes and Mineral Resources",
+              "ror": "https://ror.org/04sg95s75",
+              "country_code": null,
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I3124059619",
+                "https://openalex.org/I4391767817"
+              ]
             }
           ],
           "countries": [
@@ -12585,7 +12313,8 @@
             {
               "raw_affiliation_string": "State Key Laboratory of Geological Processes and Mineral Resources, China University of Geosciences, Beijing 100083, China",
               "institution_ids": [
-                "https://openalex.org/I3125743391"
+                "https://openalex.org/I3125743391",
+                "https://openalex.org/I4391767817"
               ]
             }
           ]
@@ -12630,7 +12359,7 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
+      "countries_distinct_count": 3,
       "institutions_distinct_count": 5,
       "corresponding_author_ids": [
         "https://openalex.org/A5056332242"
@@ -12645,11 +12374,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 5.4208,
+      "fwci": 5.3912,
       "has_fulltext": false,
       "cited_by_count": 103,
       "citation_normalized_percentile": {
-        "value": 0.97454226,
+        "value": 0.97433532,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12978,9 +12707,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -12988,8 +12717,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 226,
@@ -13755,9 +13484,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8299999833106995,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -13765,8 +13494,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -15259,7 +14988,10 @@
           "author": {
             "id": "https://openalex.org/A5051178871",
             "display_name": "Eugene Szymanski",
-            "orcid": "https://orcid.org/0000-0001-6468-2934"
+            "orcid": "https://orcid.org/0000-0001-6468-2934",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6468-2934"
+            ]
           },
           "institutions": [
             {
@@ -15271,31 +15003,9 @@
               "lineage": [
                 "https://openalex.org/I146416000"
               ]
-            },
-            {
-              "id": "https://openalex.org/I186131212",
-              "display_name": "Chevron (Netherlands)",
-              "ror": "https://ror.org/053k40h13",
-              "country_code": "NL",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I186131212",
-                "https://openalex.org/I4210118014"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210118014",
-              "display_name": "Chevron (United States)",
-              "ror": "https://ror.org/02jfa8730",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210118014"
-              ]
             }
           ],
           "countries": [
-            "NL",
             "US"
           ],
           "is_corresponding": true,
@@ -15316,10 +15026,7 @@
             },
             {
               "raw_affiliation_string": "Earth Science Department; Chevron Energy Technology Company; Houston Texas USA",
-              "institution_ids": [
-                "https://openalex.org/I186131212",
-                "https://openalex.org/I4210118014"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Department of Geology, University of Kansas, Lawrence, Kansas, USA",
@@ -15329,9 +15036,7 @@
             },
             {
               "raw_affiliation_string": "Earth Science Department, Chevron Energy Technology Company, Houston, Texas, USA",
-              "institution_ids": [
-                "https://openalex.org/I4210118014"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -15340,7 +15045,10 @@
           "author": {
             "id": "https://openalex.org/A5025296095",
             "display_name": "Daniel Fritz Stockli",
-            "orcid": "https://orcid.org/0000-0001-7652-2129"
+            "orcid": "https://orcid.org/0000-0001-7652-2129",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7652-2129"
+            ]
           },
           "institutions": [
             {
@@ -15408,7 +15116,10 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -15435,7 +15146,8 @@
           "author": {
             "id": "https://openalex.org/A5026190068",
             "display_name": "Christian Hager",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -15500,15 +15212,13 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5051178871"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I146416000",
-        "https://openalex.org/I186131212",
-        "https://openalex.org/I4210118014"
+        "https://openalex.org/I146416000"
       ],
       "apc_list": {
         "value": 4070,
@@ -15516,13 +15226,13 @@
         "value_usd": 4070
       },
       "apc_paid": null,
-      "fwci": 3.2752,
+      "fwci": 3.069,
       "has_fulltext": false,
       "cited_by_count": 81,
       "citation_normalized_percentile": {
-        "value": 0.90651836,
+        "value": 0.89986762,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 94,
@@ -15791,9 +15501,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -15827,8 +15537,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 157,
@@ -16605,7 +16315,10 @@
           "author": {
             "id": "https://openalex.org/A5035240990",
             "display_name": "Robert J. Stern",
-            "orcid": "https://orcid.org/0000-0002-8083-4632"
+            "orcid": "https://orcid.org/0000-0002-8083-4632",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8083-4632"
+            ]
           },
           "institutions": [
             {
@@ -16642,22 +16355,32 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I71578702",
-              "display_name": "University of Portland",
-              "ror": "https://ror.org/01q6pmm96",
-              "country_code": "US",
-              "type": "education",
+              "id": "https://openalex.org/I4387155020",
+              "display_name": "Institut des Sciences de la Mécanique et Applications Industrielles",
+              "ror": "https://ror.org/00nbx9b54",
+              "country_code": "FR",
+              "type": "facility",
               "lineage": [
-                "https://openalex.org/I71578702"
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I201181511",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I4210095849",
+                "https://openalex.org/I4210143116",
+                "https://openalex.org/I4210145102",
+                "https://openalex.org/I4387155020",
+                "https://openalex.org/I4405258625"
               ]
             }
           ],
           "countries": [
-            "US"
+            "FR"
           ],
           "is_corresponding": false,
           "raw_author_name": "Peter R. Johnson",
@@ -16669,14 +16392,14 @@
             {
               "raw_affiliation_string": "6016 Haines Street, Portland, OR, 97219, USA",
               "institution_ids": [
-                "https://openalex.org/I71578702"
+                "https://openalex.org/I4387155020"
               ]
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
+      "countries_distinct_count": 2,
       "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5035240990"
@@ -16686,11 +16409,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.1554,
+      "fwci": 5.9009,
       "has_fulltext": false,
       "cited_by_count": 68,
       "citation_normalized_percentile": {
-        "value": 0.96116505,
+        "value": 0.96056685,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17008,9 +16731,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -17018,8 +16741,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 113,
@@ -17641,8 +17364,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 178,
@@ -17937,21 +17660,8 @@
               "https://orcid.org/0000-0002-4697-3882"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": true,
           "raw_author_name": "Peter R. Johnson",
           "raw_affiliation_strings": [
@@ -17961,33 +17671,29 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, P.O. Box 54141, Jiddah 21514, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5103098706"
       ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210143841"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 3600,
         "currency": "USD",
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 2.151,
+      "fwci": 2.1386,
       "has_fulltext": false,
       "cited_by_count": 123,
       "citation_normalized_percentile": {
-        "value": 0.83797639,
+        "value": 0.83696168,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18299,9 +18005,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -18309,8 +18015,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -18928,9 +18634,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7699999809265137,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -18949,8 +18655,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 97,
@@ -19193,7 +18899,10 @@
           "author": {
             "id": "https://openalex.org/A5072203156",
             "display_name": "Kamal Ahmed Ali",
-            "orcid": "https://orcid.org/0000-0002-7332-7843"
+            "orcid": "https://orcid.org/0000-0002-7332-7843",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7332-7843"
+            ]
           },
           "institutions": [
             {
@@ -19226,7 +18935,9 @@
             },
             {
               "raw_affiliation_string": "University of Texas at Dallas",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I162577319"
+              ]
             }
           ]
         },
@@ -19235,7 +18946,10 @@
           "author": {
             "id": "https://openalex.org/A5035240990",
             "display_name": "Robert J. Stern",
-            "orcid": "https://orcid.org/0000-0002-8083-4632"
+            "orcid": "https://orcid.org/0000-0002-8083-4632",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8083-4632"
+            ]
           },
           "institutions": [
             {
@@ -19279,7 +18993,8 @@
           "author": {
             "id": "https://openalex.org/A5088101750",
             "display_name": "William I. Manton",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -19323,23 +19038,13 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1330063522",
-              "display_name": "Johnson & Johnson (United States)",
-              "ror": "https://ror.org/03qd7mz70",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I1330063522"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Peter R. Johnson",
           "raw_affiliation_strings": [
@@ -19350,9 +19055,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Geological Consulting, Johnson and Vranas Associates Ltd, 1242 Tenth Street, NW, Washington, DC, 20001-4214, USA",
-              "institution_ids": [
-                "https://openalex.org/I1330063522"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Geological Consulting, Johnson and Vranas Associates Ltd, Washington, USA",
@@ -19365,7 +19068,8 @@
           "author": {
             "id": "https://openalex.org/A5056577179",
             "display_name": "Sumit K. Mukherjee",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -19398,14 +19102,16 @@
             },
             {
               "raw_affiliation_string": "University of Texas at Dallas",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I162577319"
+              ]
             }
           ]
         }
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5072203156"
       ],
@@ -19418,11 +19124,11 @@
         "value_usd": 3890
       },
       "apc_paid": null,
-      "fwci": 3.6157,
+      "fwci": 3.3171,
       "has_fulltext": false,
       "cited_by_count": 97,
       "citation_normalized_percentile": {
-        "value": 0.91598015,
+        "value": 0.90799516,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19705,9 +19411,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -19721,8 +19427,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -20330,9 +20036,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.44999998807907104,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.44999998807907104
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "x_sdgs": [],
@@ -20340,8 +20046,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -20526,10 +20232,27 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": true,
           "raw_author_name": "Peter R. Johnson",
           "raw_affiliation_strings": [
@@ -20539,7 +20262,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "U.S. Geological Survey Mission, P.O. Box 1488, Jiddah 21431, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
             }
           ]
         },
@@ -20548,23 +20273,11 @@
           "author": {
             "id": "https://openalex.org/A5064885805",
             "display_name": "Fayek H. Kattan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Fayek Kattan",
           "raw_affiliation_strings": [
@@ -20574,9 +20287,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, P.O. Box 54141, Jiddah 21514, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         }
@@ -20587,18 +20298,20 @@
       "corresponding_author_ids": [
         "https://openalex.org/A5103098706"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I1286329397"
+      ],
       "apc_list": {
         "value": 3600,
         "currency": "USD",
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 4.3402,
+      "fwci": 3.9954,
       "has_fulltext": false,
       "cited_by_count": 94,
       "citation_normalized_percentile": {
-        "value": 0.9429498,
+        "value": 0.93791271,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20917,9 +20630,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5799999833106995,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5799999833106995
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -20933,8 +20646,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -21181,21 +20894,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdullah M. Al-Jehani",
           "raw_affiliation_strings": [
@@ -21205,9 +20905,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, P.O. Box 54141, Jiddah 21514, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -21219,21 +20917,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Alim A. Siddiqui",
           "raw_affiliation_strings": [
@@ -21243,9 +20928,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, P.O. Box 54141, Jiddah 21514, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -21259,13 +20942,14 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I114681415",
-              "display_name": "Arizona Geological Survey",
-              "ror": "https://ror.org/00vcszp55",
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
               "country_code": "US",
-              "type": "nonprofit",
+              "type": "government",
               "lineage": [
-                "https://openalex.org/I114681415"
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
               ]
             }
           ],
@@ -21282,7 +20966,7 @@
             {
               "raw_affiliation_string": "U.S. Geological Survey, 520 N. Park Ave., Suite 355, Tucson, AZ 85719, USA",
               "institution_ids": [
-                "https://openalex.org/I114681415"
+                "https://openalex.org/I1286329397"
               ]
             }
           ]
@@ -21336,21 +21020,8 @@
               "https://orcid.org/0000-0002-4697-3882"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Peter R. Johnson",
           "raw_affiliation_strings": [
@@ -21360,16 +21031,14 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, P.O. Box 54141, Jiddah 21514, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5009519783"
       ],
@@ -21382,11 +21051,11 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 1.1986,
+      "fwci": 1.189,
       "has_fulltext": false,
       "cited_by_count": 90,
       "citation_normalized_percentile": {
-        "value": 0.75109067,
+        "value": 0.74922785,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21760,9 +21429,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6000000238418579,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6000000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -21770,8 +21439,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -22443,9 +22112,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -22453,8 +22122,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -22631,10 +22300,27 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": true,
           "raw_author_name": "Peter R. Johnson",
           "raw_affiliation_strings": [
@@ -22644,7 +22330,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "U.S. Geological Survey Mission, PO Box 1488, Jiddah 21431, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
             }
           ]
         },
@@ -22653,7 +22341,10 @@
           "author": {
             "id": "https://openalex.org/A5075565519",
             "display_name": "Ian C. F. Stewart",
-            "orcid": "https://orcid.org/0000-0002-4968-527X"
+            "orcid": "https://orcid.org/0000-0002-4968-527X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4968-527X"
+            ]
           },
           "institutions": [
             {
@@ -22687,23 +22378,25 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5103098706"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I1286329397"
+      ],
       "apc_list": {
         "value": 3190,
         "currency": "USD",
         "value_usd": 3190
       },
       "apc_paid": null,
-      "fwci": 0.6837,
+      "fwci": 0.6375,
       "has_fulltext": false,
       "cited_by_count": 77,
       "citation_normalized_percentile": {
-        "value": 0.63463123,
+        "value": 0.60938884,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23060,9 +22753,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6499999761581421,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6499999761581421
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -23076,8 +22769,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -23896,9 +23589,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7300000190734863,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7300000190734863
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -23906,8 +23599,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -24233,8 +23926,22 @@
               "https://orcid.org/0000-0002-4697-3882"
             ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Peter Johnson",
           "raw_affiliation_strings": [
@@ -24244,14 +23951,16 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology, SGS, Portland, OR, USA",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5088415590"
       ],
@@ -24260,11 +23969,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.2248,
+      "fwci": 4.3535,
       "has_fulltext": false,
       "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.94725094,
+        "value": 0.94707072,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24499,9 +24208,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4300000071525574,
           "display_name": "Peace, Justice and strong institutions",
-          "id": "https://metadata.un.org/sdg/16",
-          "score": 0.4300000071525574
+          "id": "https://metadata.un.org/sdg/16"
         }
       ],
       "x_sdgs": [],
@@ -24520,8 +24229,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -25237,7 +24946,8 @@
           "author": {
             "id": "https://openalex.org/A5012429316",
             "display_name": "David Nettle",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -25282,7 +24992,10 @@
           "author": {
             "id": "https://openalex.org/A5043756168",
             "display_name": "Galen P. Halverson",
-            "orcid": "https://orcid.org/0000-0003-3061-7928"
+            "orcid": "https://orcid.org/0000-0003-3061-7928",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3061-7928"
+            ]
           },
           "institutions": [
             {
@@ -25356,7 +25069,10 @@
           "author": {
             "id": "https://openalex.org/A5067737483",
             "display_name": "Grant M. Cox",
-            "orcid": "https://orcid.org/0000-0001-8017-3531"
+            "orcid": "https://orcid.org/0000-0001-8017-3531",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8017-3531"
+            ]
           },
           "institutions": [
             {
@@ -25404,7 +25120,10 @@
           "author": {
             "id": "https://openalex.org/A5046466285",
             "display_name": "Alan Stephen Collins",
-            "orcid": "https://orcid.org/0000-0002-3408-5474"
+            "orcid": "https://orcid.org/0000-0002-3408-5474",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3408-5474"
+            ]
           },
           "institutions": [
             {
@@ -25449,7 +25168,10 @@
           "author": {
             "id": "https://openalex.org/A5085367456",
             "display_name": "Mark D. Schmitz",
-            "orcid": "https://orcid.org/0000-0003-2888-0321"
+            "orcid": "https://orcid.org/0000-0003-2888-0321",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2888-0321"
+            ]
           },
           "institutions": [
             {
@@ -25493,7 +25215,10 @@
           "author": {
             "id": "https://openalex.org/A5013115230",
             "display_name": "James G. Gehlîng",
-            "orcid": "https://orcid.org/0000-0001-8459-5440"
+            "orcid": "https://orcid.org/0000-0001-8459-5440",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8459-5440"
+            ]
           },
           "institutions": [
             {
@@ -25537,23 +25262,13 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71578702",
-              "display_name": "University of Portland",
-              "ror": "https://ror.org/01q6pmm96",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71578702"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Peter R. Johnson",
           "raw_affiliation_strings": [
@@ -25568,9 +25283,7 @@
             },
             {
               "raw_affiliation_string": "Consultant; 6016 SW Haines St. Portland OR 97219 USA",
-              "institution_ids": [
-                "https://openalex.org/I71578702"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -25579,23 +25292,11 @@
           "author": {
             "id": "https://openalex.org/A5078957022",
             "display_name": "Khalid A. Kadi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Khalid Kadi",
           "raw_affiliation_strings": [
@@ -25610,16 +25311,14 @@
             },
             {
               "raw_affiliation_string": "Saudi Geological Survey; P.O. Box 54141 Jiddah 21514 Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 7,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [
         "https://openalex.org/A5043756168"
       ],
@@ -25634,11 +25333,11 @@
         "value_usd": 3720
       },
       "apc_paid": null,
-      "fwci": 2.6339,
+      "fwci": 2.566,
       "has_fulltext": false,
       "cited_by_count": 44,
       "citation_normalized_percentile": {
-        "value": 0.88501194,
+        "value": 0.88235645,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25981,9 +25680,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -26002,8 +25701,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -26603,7 +26302,10 @@
           "author": {
             "id": "https://openalex.org/A5004013824",
             "display_name": "Wiesław Kozdrój",
-            "orcid": "https://orcid.org/0000-0002-8468-3544"
+            "orcid": "https://orcid.org/0000-0002-8468-3544",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8468-3544"
+            ]
           },
           "institutions": [
             {
@@ -26640,7 +26342,10 @@
           "author": {
             "id": "https://openalex.org/A5084973207",
             "display_name": "Allen Kennedy",
-            "orcid": "https://orcid.org/0000-0002-2132-7825"
+            "orcid": "https://orcid.org/0000-0002-2132-7825",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2132-7825"
+            ]
           },
           "institutions": [
             {
@@ -26677,23 +26382,13 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210127914",
-              "display_name": "Oregon Medical Research Center",
-              "ror": "https://ror.org/03m027021",
-              "country_code": "US",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I4210127914"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Peter R. Johnson",
           "raw_affiliation_strings": [
@@ -26703,9 +26398,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Portland, OR, USA",
-              "institution_ids": [
-                "https://openalex.org/I4210127914"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -26714,7 +26407,8 @@
           "author": {
             "id": "https://openalex.org/A5052229727",
             "display_name": "Małgorzata Ziółkowska-Kozdrój",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -26751,23 +26445,11 @@
           "author": {
             "id": "https://openalex.org/A5078957022",
             "display_name": "Khalid A. Kadi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Khalid Kadi",
           "raw_affiliation_strings": [
@@ -26777,16 +26459,14 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Precambrian Mapping Department, Saudi Geological Survey, Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 4,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5004013824"
       ],
@@ -26795,11 +26475,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1139,
+      "fwci": 1.0363,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.73927355,
+        "value": 0.7198359,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27160,9 +26840,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -27176,8 +26856,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -28081,6 +27761,18 @@
                 "https://openalex.org/I19820366",
                 "https://openalex.org/I4210103797"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4387152300",
+              "display_name": "State Key Laboratory of Palaeobiology and Stratigraphy",
+              "ror": "https://ror.org/03cz18e20",
+              "country_code": null,
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210103797",
+                "https://openalex.org/I4387152300"
+              ]
             }
           ],
           "countries": [
@@ -28110,7 +27802,8 @@
               "raw_affiliation_string": "State Key Laboratory of Palaeobiology and Stratigraphy, Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences, Nanjing 210008, China",
               "institution_ids": [
                 "https://openalex.org/I19820366",
-                "https://openalex.org/I4210103797"
+                "https://openalex.org/I4210103797",
+                "https://openalex.org/I4387152300"
               ]
             }
           ]
@@ -28215,21 +27908,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Fayek H. Kattan",
           "raw_affiliation_strings": [
@@ -28239,9 +27919,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Jiddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -28333,6 +28011,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I1313323035",
+              "display_name": "Russian Academy of Sciences",
+              "ror": "https://ror.org/05qrfxd25",
+              "country_code": "RU",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1313323035"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210100821",
               "display_name": "Institute of Paleontology A A Borisyak",
               "ror": "https://ror.org/015y4fr56",
@@ -28370,6 +28058,7 @@
             {
               "raw_affiliation_string": "Paleontological Institute, Russian Academy of Sciences, Moscow, Russia",
               "institution_ids": [
+                "https://openalex.org/I1313323035",
                 "https://openalex.org/I4210100821"
               ]
             },
@@ -28463,21 +28152,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Ashraf Al Qubsani",
           "raw_affiliation_strings": [
@@ -28487,9 +28163,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Jiddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -28501,21 +28175,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdullah Yazedi",
           "raw_affiliation_strings": [
@@ -28525,9 +28186,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Jiddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -28699,6 +28358,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I1313323035",
+              "display_name": "Russian Academy of Sciences",
+              "ror": "https://ror.org/05qrfxd25",
+              "country_code": "RU",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1313323035"
+              ]
+            },
+            {
               "id": "https://openalex.org/I2801511303",
               "display_name": "Museums Victoria",
               "ror": "https://ror.org/04mf3mq37",
@@ -28770,6 +28439,7 @@
             {
               "raw_affiliation_string": "Paleontological Institute, Russian Academy of Sciences, Moscow, Russia",
               "institution_ids": [
+                "https://openalex.org/I1313323035",
                 "https://openalex.org/I4210100821"
               ]
             },
@@ -28783,15 +28453,16 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 6,
-      "institutions_distinct_count": 12,
+      "countries_distinct_count": 5,
+      "institutions_distinct_count": 13,
       "corresponding_author_ids": [
         "https://openalex.org/A5080418265"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I13469542",
         "https://openalex.org/I19820366",
-        "https://openalex.org/I4210103797"
+        "https://openalex.org/I4210103797",
+        "https://openalex.org/I4387152300"
       ],
       "apc_list": {
         "value": 3070,
@@ -28799,11 +28470,11 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 5.9317,
+      "fwci": 5.8742,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.95780924,
+        "value": 0.95730286,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -29210,9 +28881,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -29236,8 +28907,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 141,
@@ -29814,9 +29485,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6800000071525574,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6800000071525574
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -29824,8 +29495,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -29971,7 +29642,10 @@
           "author": {
             "id": "https://openalex.org/A5009352804",
             "display_name": "Chen Shen",
-            "orcid": "https://orcid.org/0000-0002-6526-5881"
+            "orcid": "https://orcid.org/0000-0002-6526-5881",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6526-5881"
+            ]
           },
           "institutions": [
             {
@@ -30024,7 +29698,10 @@
           "author": {
             "id": "https://openalex.org/A5085367456",
             "display_name": "Mark D. Schmitz",
-            "orcid": "https://orcid.org/0000-0003-2888-0321"
+            "orcid": "https://orcid.org/0000-0003-2888-0321",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2888-0321"
+            ]
           },
           "institutions": [
             {
@@ -30061,7 +29738,10 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
           "institutions": [
             {
@@ -30114,7 +29794,10 @@
           "author": {
             "id": "https://openalex.org/A5048442087",
             "display_name": "Joshua H.F.L. Davies",
-            "orcid": "https://orcid.org/0000-0001-8668-6012"
+            "orcid": "https://orcid.org/0000-0001-8668-6012",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8668-6012"
+            ]
           },
           "institutions": [
             {
@@ -30153,7 +29836,8 @@
             {
               "raw_affiliation_string": "Départment des Sciences de la Terre et de la’atmosphère/Geotop, Université du Québec à Montréal, Montréal, QC, Canada",
               "institution_ids": [
-                "https://openalex.org/I159129438"
+                "https://openalex.org/I159129438",
+                "https://openalex.org/I4405261069"
               ]
             },
             {
@@ -30170,7 +29854,10 @@
           "author": {
             "id": "https://openalex.org/A5043756168",
             "display_name": "Galen P. Halverson",
-            "orcid": "https://orcid.org/0000-0003-3061-7928"
+            "orcid": "https://orcid.org/0000-0003-3061-7928",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3061-7928"
+            ]
           },
           "institutions": [
             {
@@ -30230,11 +29917,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 8.1446,
+      "fwci": 8.0404,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.97440967,
+        "value": 0.97398811,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -30573,9 +30260,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.49000000953674316,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.49000000953674316
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -30583,8 +30270,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -30760,7 +30447,10 @@
           "author": {
             "id": "https://openalex.org/A5033610162",
             "display_name": "Nathan R. Miller",
-            "orcid": "https://orcid.org/0000-0002-1677-5594"
+            "orcid": "https://orcid.org/0000-0002-1677-5594",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1677-5594"
+            ]
           },
           "institutions": [
             {
@@ -30797,7 +30487,10 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -30819,10 +30512,26 @@
           "author": {
             "id": "https://openalex.org/A5035240990",
             "display_name": "Robert J. Stern",
-            "orcid": "https://orcid.org/0000-0002-8083-4632"
+            "orcid": "https://orcid.org/0000-0002-8083-4632",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8083-4632"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I162577319",
+              "display_name": "The University of Texas at Dallas",
+              "ror": "https://ror.org/049emcs32",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I162577319"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Robert J. Stern",
           "raw_affiliation_strings": [
@@ -30832,14 +30541,16 @@
           "affiliations": [
             {
               "raw_affiliation_string": "University of Texas at Dallas",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I162577319"
+              ]
             }
           ]
         }
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -30848,11 +30559,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 3.4216,
+      "fwci": 3.3472,
       "has_fulltext": false,
       "cited_by_count": 42,
       "citation_normalized_percentile": {
-        "value": 0.91963872,
+        "value": 0.91767211,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -31083,9 +30794,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -31093,8 +30804,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -31723,7 +31434,10 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -31745,26 +31459,11 @@
           "author": {
             "id": "https://openalex.org/A5055015593",
             "display_name": "Erwin Scheibner",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210130959",
-              "display_name": "Mineral Resources",
-              "ror": "https://ror.org/039b65w79",
-              "country_code": "AU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1292875679",
-                "https://openalex.org/I2801453606",
-                "https://openalex.org/I4210130959",
-                "https://openalex.org/I4387156119"
-              ]
-            }
-          ],
-          "countries": [
-            "AU"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Erwin Scheibner",
           "raw_affiliation_strings": [
@@ -31774,9 +31473,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Nsw Dept. Mineral Resources, Sydney, Nsw 2001, Australia",
-              "institution_ids": [
-                "https://openalex.org/I4210130959"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -31785,7 +31482,10 @@
           "author": {
             "id": "https://openalex.org/A5112863355",
             "display_name": "Elizabeth Smith",
-            "orcid": "https://orcid.org/0000-0002-0069-8547"
+            "orcid": "https://orcid.org/0000-0002-0069-8547",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0069-8547"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -31804,17 +31504,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2329,
+      "fwci": 2.2231,
       "has_fulltext": false,
       "cited_by_count": 41,
       "citation_normalized_percentile": {
-        "value": 0.87280702,
+        "value": 0.8722467,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32061,8 +31761,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -32233,7 +31933,8 @@
           "author": {
             "id": "https://openalex.org/A5053755896",
             "display_name": "John C. Volesky",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -32270,7 +31971,10 @@
           "author": {
             "id": "https://openalex.org/A5042158045",
             "display_name": "Matthew I. Leybourne",
-            "orcid": "https://orcid.org/0000-0002-2361-6014"
+            "orcid": "https://orcid.org/0000-0002-2361-6014",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2361-6014"
+            ]
           },
           "institutions": [
             {
@@ -32307,7 +32011,10 @@
           "author": {
             "id": "https://openalex.org/A5035240990",
             "display_name": "Robert J. Stern",
-            "orcid": "https://orcid.org/0000-0002-8083-4632"
+            "orcid": "https://orcid.org/0000-0002-8083-4632",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8083-4632"
+            ]
           },
           "institutions": [
             {
@@ -32344,7 +32051,10 @@
           "author": {
             "id": "https://openalex.org/A5055044281",
             "display_name": "Jan M. Peter",
-            "orcid": "https://orcid.org/0000-0003-1338-2661"
+            "orcid": "https://orcid.org/0000-0003-1338-2661",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1338-2661"
+            ]
           },
           "institutions": [
             {
@@ -32383,7 +32093,10 @@
           "author": {
             "id": "https://openalex.org/A5077355218",
             "display_name": "Daniel Layton‐Matthews",
-            "orcid": "https://orcid.org/0000-0002-2731-315X"
+            "orcid": "https://orcid.org/0000-0002-2731-315X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2731-315X"
+            ]
           },
           "institutions": [
             {
@@ -32420,7 +32133,8 @@
           "author": {
             "id": "https://openalex.org/A5001308114",
             "display_name": "Sarah Rice",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -32442,7 +32156,10 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
           "institutions": [
             {
@@ -32453,16 +32170,6 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I162577319"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210127914",
-              "display_name": "Oregon Medical Research Center",
-              "ror": "https://ror.org/03m027021",
-              "country_code": "US",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I4210127914"
               ]
             }
           ],
@@ -32479,8 +32186,7 @@
             {
               "raw_affiliation_string": "UT Dallas, Portland, OR, USA",
               "institution_ids": [
-                "https://openalex.org/I162577319",
-                "https://openalex.org/I4210127914"
+                "https://openalex.org/I162577319"
               ]
             }
           ]
@@ -32488,7 +32194,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [
         "https://openalex.org/A5042158045"
       ],
@@ -32497,11 +32203,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3724,
+      "fwci": 0.3454,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.57046003,
+        "value": 0.54235897,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32797,8 +32503,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -34054,8 +33760,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35333,9 +35039,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.699999988079071,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.699999988079071
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -35343,8 +35049,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -35888,9 +35594,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8999999761581421,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -35898,8 +35604,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -37397,9 +37103,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8999999761581421,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -37407,8 +37113,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -38249,6 +37955,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/P4310320547",
           "host_organization_name": "Taylor & Francis",
           "host_organization_lineage": [
@@ -38285,23 +37992,13 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1320351128",
-              "display_name": "Delta Air Lines (United States)",
-              "ror": "https://ror.org/03g9c1e75",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I1320351128"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "PETER R. JOHNSON",
           "raw_affiliation_strings": [
@@ -38311,9 +38008,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Psycho-Educational Services, 6333 - 109A Street, Delta, British Columbia, CANADA",
-              "institution_ids": [
-                "https://openalex.org/I1320351128"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -38322,23 +38017,11 @@
           "author": {
             "id": "https://openalex.org/A5051761369",
             "display_name": "Rhona Davies",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1320351128",
-              "display_name": "Delta Air Lines (United States)",
-              "ror": "https://ror.org/03g9c1e75",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I1320351128"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "RHONA DAVIES",
           "raw_affiliation_strings": [
@@ -38348,27 +38031,23 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Psycho-Educational Services, 6333 - 109A Street, Delta, British Columbia, CANADA",
-              "institution_ids": [
-                "https://openalex.org/I1320351128"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I1320351128"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3686,
+      "fwci": 1.4859,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.83614258,
+        "value": 0.84850038,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38498,6 +38177,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/P4310320547",
             "host_organization_name": "Taylor & Francis",
             "host_organization_lineage": [
@@ -38522,9 +38202,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.75,
           "display_name": "Gender equality",
-          "id": "https://metadata.un.org/sdg/5",
-          "score": 0.75
+          "id": "https://metadata.un.org/sdg/5"
         }
       ],
       "x_sdgs": [],
@@ -38532,8 +38212,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38631,10 +38311,27 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Peter R. Johnson",
           "raw_affiliation_strings": [
@@ -38644,7 +38341,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "U.S. Geological Survey Mission, PO Box 1488, Jiddah 21431, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
             }
           ]
         },
@@ -38653,7 +38352,10 @@
           "author": {
             "id": "https://openalex.org/A5075565519",
             "display_name": "Ian C. F. Stewart",
-            "orcid": "https://orcid.org/0000-0002-4968-527X"
+            "orcid": "https://orcid.org/0000-0002-4968-527X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4968-527X"
+            ]
           },
           "institutions": [
             {
@@ -38690,10 +38392,26 @@
           "author": {
             "id": "https://openalex.org/A5068579961",
             "display_name": "Martin John Whitehouse",
-            "orcid": "https://orcid.org/0000-0003-2227-577X"
+            "orcid": "https://orcid.org/0000-0003-2227-577X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2227-577X"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2801711128",
+              "display_name": "Swedish Museum of Natural History",
+              "ror": "https://ror.org/05k323c76",
+              "country_code": "SE",
+              "type": "archive",
+              "lineage": [
+                "https://openalex.org/I2801711128"
+              ]
+            }
+          ],
+          "countries": [
+            "SE"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Martin J. Whitehouse",
           "raw_affiliation_strings": [
@@ -38703,7 +38421,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Naturhistoriska Riksmuseet, Box 50007, S-104 05 Stockholm, Sweden",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I2801711128"
+              ]
             }
           ]
         },
@@ -38712,7 +38432,8 @@
           "author": {
             "id": "https://openalex.org/A5111850139",
             "display_name": "Brian Frederick Windley",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -38749,23 +38470,11 @@
           "author": {
             "id": "https://openalex.org/A5069191276",
             "display_name": "Mahfood A. O. Ba-Bttat",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I70374766",
-              "display_name": "University of Aden",
-              "ror": "https://ror.org/02w043707",
-              "country_code": "YE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I70374766"
-              ]
-            }
-          ],
-          "countries": [
-            "YE"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Mahfood A. O. Ba-Bttat",
           "raw_affiliation_strings": [
@@ -38775,25 +38484,23 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Arab Petroleum Services Company Ltd., P.O. Box 48, Aden, Yemen",
-              "institution_ids": [
-                "https://openalex.org/I70374766"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 4,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.353,
+      "fwci": 0.3302,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.64058725,
+        "value": 0.62087857,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39069,9 +38776,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7699999809265137,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -39079,8 +38786,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39979,7 +39686,8 @@
           "author": {
             "id": "https://openalex.org/A5112490376",
             "display_name": "R J Stern",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -40023,23 +39731,13 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1330063522",
-              "display_name": "Johnson & Johnson (United States)",
-              "ror": "https://ror.org/03qd7mz70",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I1330063522"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "P R Johnson",
           "raw_affiliation_strings": [
@@ -40049,30 +39747,28 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Johnson and Vranas Associates, 1242 Tenth Street, NW, Washington, DC 20001-4214, USA",
-              "institution_ids": [
-                "https://openalex.org/I1330063522"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1066,
+      "fwci": 2.0867,
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.86801676,
+        "value": 0.86680761,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 96
       },
       "biblio": {
@@ -40462,9 +40158,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -40472,8 +40168,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2121511827.pdf",
@@ -41554,9 +41250,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -41564,8 +41260,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -42039,9 +41735,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6899999976158142,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.6899999976158142
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "x_sdgs": [],
@@ -42049,8 +41745,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -42648,8 +42344,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43660,9 +43356,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6399999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6399999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -43670,8 +43366,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43993,8 +43689,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -44453,8 +44149,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -45648,9 +45344,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8199999928474426,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -45664,8 +45360,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -46782,7 +46478,10 @@
           "author": {
             "id": "https://openalex.org/A5087816135",
             "display_name": "Carol A. Finn",
-            "orcid": "https://orcid.org/0000-0002-6178-0405"
+            "orcid": "https://orcid.org/0000-0002-6178-0405",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6178-0405"
+            ]
           },
           "institutions": [
             {
@@ -46794,17 +46493,6 @@
               "lineage": [
                 "https://openalex.org/I1286329397",
                 "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2800772125",
-              "display_name": "Denver Federal Center",
-              "ror": "https://ror.org/05pxjag90",
-              "country_code": "US",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1280600231",
-                "https://openalex.org/I2800772125"
               ]
             }
           ],
@@ -46821,8 +46509,7 @@
             {
               "raw_affiliation_string": "U.S. Geological Survey, MS 964, Federal Center, Denver, Colorado 80225",
               "institution_ids": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I2800772125"
+                "https://openalex.org/I1286329397"
               ]
             }
           ]
@@ -46832,10 +46519,27 @@
           "author": {
             "id": "https://openalex.org/A5103098706",
             "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Peter R. Johnson",
           "raw_affiliation_strings": [
@@ -46845,23 +46549,27 @@
           "affiliations": [
             {
               "raw_affiliation_string": "U.S. Geological Survey Mission, P.O. Box 1488, Jiddah 21431, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
             }
           ]
         }
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I1286329397"
+      ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5602,
+      "fwci": 1.5457,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.81401138,
+        "value": 0.81279028,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47081,9 +46789,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5799999833106995,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5799999833106995
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -47091,8 +46799,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -48216,9 +47924,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8399999737739563,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -48226,8 +47934,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2248607991.pdf",
@@ -48812,8 +48520,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W194073010.pdf",
@@ -50044,9 +49752,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.800000011920929,
           "display_name": "Zero hunger",
-          "id": "https://metadata.un.org/sdg/2",
-          "score": 0.800000011920929
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "x_sdgs": [],
@@ -50054,8 +49762,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -50479,9 +50187,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6600000262260437,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6600000262260437
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -50489,8 +50197,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -51458,9 +51166,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5699999928474426,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5699999928474426
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -51468,8 +51176,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -51897,8 +51605,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -52292,9 +52000,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -52302,8 +52010,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -52689,9 +52397,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4699999988079071,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4699999988079071
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -52699,8 +52407,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -52947,8 +52655,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -53422,8 +53130,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -54183,8 +53891,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W94473743.pdf",
@@ -55419,9 +55127,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.49000000953674316,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.49000000953674316
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -55429,8 +55137,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W154232170.pdf",
@@ -56335,8 +56043,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -57020,8 +56728,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -57732,9 +57440,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4300000071525574,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4300000071525574
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -57742,8 +57450,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -58243,8 +57951,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2259552435.pdf",
@@ -59067,9 +58775,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4300000071525574,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4300000071525574
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -59077,8 +58785,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -59562,8 +59270,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -60397,9 +60105,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -60407,8 +60115,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -60875,8 +60583,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -61483,8 +61191,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -61838,9 +61546,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5199999809265137,
           "display_name": "Quality Education",
-          "id": "https://metadata.un.org/sdg/4",
-          "score": 0.5199999809265137
+          "id": "https://metadata.un.org/sdg/4"
         }
       ],
       "x_sdgs": [],
@@ -61848,8 +61556,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -62551,8 +62259,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -63040,8 +62748,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -63957,8 +63665,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -64518,8 +64226,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65235,8 +64943,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 98,

@@ -12,7 +12,7 @@
     ],
     "full_name": "Camilo A. Polo",
     "works_count": 9,
-    "cited_by_count": 191,
+    "cited_by_count": 190,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 6,
@@ -38,23 +38,6 @@
         "years": [
           2014,
           2012
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I2800952698",
-          "ror": "https://ror.org/04k820v98",
-          "display_name": "Saudi Aramco Medical Services Organization",
-          "country_code": "SA",
-          "type": "healthcare",
-          "lineage": [
-            "https://openalex.org/I2799853436",
-            "https://openalex.org/I2800952698",
-            "https://openalex.org/I4210143841"
-          ]
-        },
-        "years": [
-          2019
         ]
       },
       {
@@ -180,7 +163,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000243,
+        "value": 0.0000244,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -197,7 +180,7 @@
       {
         "id": "https://openalex.org/T12383",
         "display_name": "Aeolian processes and effects",
-        "value": 0.0000149,
+        "value": 0.000015,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -214,7 +197,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000109,
+        "value": 0.000011,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -231,7 +214,7 @@
       {
         "id": "https://openalex.org/T10017",
         "display_name": "Geology and Paleoclimatology Research",
-        "value": 0.0000089,
+        "value": 0.000009,
         "subfield": {
           "id": "https://openalex.org/subfields/1902",
           "display_name": "Atmospheric Science"
@@ -246,12 +229,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T10491",
-        "display_name": "Enhanced Oil Recovery Techniques",
-        "value": 0.0000062,
+        "id": "https://openalex.org/T10635",
+        "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+        "value": 0.0000063,
         "subfield": {
-          "id": "https://openalex.org/subfields/2212",
-          "display_name": "Ocean Engineering"
+          "id": "https://openalex.org/subfields/2210",
+          "display_name": "Mechanical Engineering"
         },
         "field": {
           "id": "https://openalex.org/fields/22",
@@ -300,7 +283,7 @@
         "year": 2012,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 119
+        "cited_by_count": 118
       },
       {
         "year": 2013,
@@ -353,7 +336,7 @@
     ],
     "block_key": "c polo",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5030587820",
-    "updated_date": "2026-09-19T12:19:47",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -666,13 +649,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I2802568082",
-              "display_name": "Alberta Energy",
-              "ror": "https://ror.org/00wh57194",
+              "id": "https://openalex.org/I26916880",
+              "display_name": "Alberta University of the Arts",
+              "ror": "https://ror.org/00mn36586",
               "country_code": "CA",
-              "type": "government",
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I2802568082"
+                "https://openalex.org/I26916880"
               ]
             }
           ],
@@ -689,7 +672,7 @@
             {
               "raw_affiliation_string": "Talisman Energy Inc., Calgary, Alberta, Canada",
               "institution_ids": [
-                "https://openalex.org/I2802568082"
+                "https://openalex.org/I26916880"
               ]
             }
           ]
@@ -862,11 +845,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 16.323,
+      "fwci": 15.0711,
       "has_fulltext": false,
-      "cited_by_count": 119,
+      "cited_by_count": 118,
       "citation_normalized_percentile": {
-        "value": 0.99384615,
+        "value": 0.99228395,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1205,8 +1188,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -1340,7 +1323,7 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 7
+          "cited_by_count": 6
         },
         {
           "year": 2013,
@@ -1888,8 +1871,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -1898,8 +1881,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -3429,8 +3412,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
           "display_name": "Life below water",
+          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -3439,8 +3422,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -4675,8 +4658,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -4704,8 +4687,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 175,
@@ -4989,21 +4972,10 @@
           "author": {
             "id": "https://openalex.org/A5030587820",
             "display_name": "Camilo A. Polo",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I2800952698",
-              "display_name": "Saudi Aramco Medical Services Organization",
-              "ror": "https://ror.org/04k820v98",
-              "country_code": "SA",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I2799853436",
-                "https://openalex.org/I2800952698",
-                "https://openalex.org/I4210143841"
-              ]
-            },
             {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
@@ -5029,7 +5001,6 @@
             {
               "raw_affiliation_string": "Saudi Aramco Exploration Organization Northern Arabia Reservoir Characterization Department Dhahran Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I2800952698",
                 "https://openalex.org/I4210143841"
               ]
             },
@@ -5046,21 +5017,10 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I2800952698",
-              "display_name": "Saudi Aramco Medical Services Organization",
-              "ror": "https://ror.org/04k820v98",
-              "country_code": "SA",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I2799853436",
-                "https://openalex.org/I2800952698",
-                "https://openalex.org/I4210143841"
-              ]
-            },
             {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
@@ -5086,7 +5046,6 @@
             {
               "raw_affiliation_string": "(Retired) Saudi Aramco Exploration Organization Reservoir Characterization Department Dhahran Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I2800952698",
                 "https://openalex.org/I4210143841"
               ]
             },
@@ -5103,21 +5062,10 @@
           "author": {
             "id": "https://openalex.org/A5012935449",
             "display_name": "Nigel P. Hooker",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I2800952698",
-              "display_name": "Saudi Aramco Medical Services Organization",
-              "ror": "https://ror.org/04k820v98",
-              "country_code": "SA",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I2799853436",
-                "https://openalex.org/I2800952698",
-                "https://openalex.org/I4210143841"
-              ]
-            },
             {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
@@ -5143,7 +5091,6 @@
             {
               "raw_affiliation_string": "Saudi Aramco Exploration Organization Geological Operations Department Dhahran Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I2800952698",
                 "https://openalex.org/I4210143841"
               ]
             },
@@ -5160,7 +5107,10 @@
           "author": {
             "id": "https://openalex.org/A5002086129",
             "display_name": "Andrew J. Rees",
-            "orcid": "https://orcid.org/0000-0002-6243-7756"
+            "orcid": "https://orcid.org/0000-0002-6243-7756",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6243-7756"
+            ]
           },
           "institutions": [
             {
@@ -5204,7 +5154,10 @@
           "author": {
             "id": "https://openalex.org/A5071875690",
             "display_name": "Murray K. Gingras",
-            "orcid": "https://orcid.org/0000-0002-6683-1750"
+            "orcid": "https://orcid.org/0000-0002-6683-1750",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6683-1750"
+            ]
           },
           "institutions": [
             {
@@ -5248,7 +5201,8 @@
           "author": {
             "id": "https://openalex.org/A5111738454",
             "display_name": "S. George Pemberton",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -5290,12 +5244,11 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5030587820"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I2800952698",
         "https://openalex.org/I4210143841"
       ],
       "apc_list": {
@@ -5308,7 +5261,7 @@
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.09701094,
+        "value": 0.09699987,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5585,8 +5538,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Life below water",
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -5595,8 +5548,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 117,
@@ -7040,8 +6993,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 147,
@@ -7801,8 +7754,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
           "display_name": "Life below water",
+          "score": 0.6200000047683716,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -7811,8 +7764,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -9561,8 +9514,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
           "display_name": "Life below water",
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -9577,8 +9530,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3005990354.pdf",
@@ -10495,8 +10448,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "display_name": "Life below water",
+          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -10505,8 +10458,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

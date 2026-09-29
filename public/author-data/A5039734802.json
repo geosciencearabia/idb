@@ -50,21 +50,6 @@
       },
       {
         "institution": {
-          "id": "https://openalex.org/I4210103399",
-          "ror": "https://ror.org/01nrq5w30",
-          "display_name": "Saudi Heart Association",
-          "country_code": "SA",
-          "type": "nonprofit",
-          "lineage": [
-            "https://openalex.org/I4210103399"
-          ]
-        },
-        "years": [
-          2004
-        ]
-      },
-      {
-        "institution": {
           "id": "https://openalex.org/I4210143841",
           "ror": "https://ror.org/03ypap427",
           "display_name": "Saudi Aramco (Saudi Arabia)",
@@ -80,7 +65,28 @@
           2015,
           2014,
           2006,
-          2005
+          2005,
+          2001,
+          1999
+        ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I4387154068",
+          "ror": "https://ror.org/01waxag60",
+          "display_name": "Light, nanomaterials, nanotechnologies",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I140494188",
+            "https://openalex.org/I4387154068"
+          ]
+        },
+        "years": [
+          2025,
+          2022,
+          2021
         ]
       },
       {
@@ -96,8 +102,7 @@
           ]
         },
         "years": [
-          2016,
-          2014,
+          2017,
           2001,
           1999
         ]
@@ -135,7 +140,20 @@
         ]
       }
     ],
-    "last_known_institutions": null,
+    "last_known_institutions": [
+      {
+        "id": "https://openalex.org/I4387154068",
+        "ror": "https://ror.org/01waxag60",
+        "display_name": "Light, nanomaterials, nanotechnologies",
+        "country_code": "FR",
+        "type": "facility",
+        "lineage": [
+          "https://openalex.org/I1294671590",
+          "https://openalex.org/I140494188",
+          "https://openalex.org/I4387154068"
+        ]
+      }
+    ],
     "topics": [
       {
         "id": "https://openalex.org/T10399",
@@ -227,7 +245,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000803,
+        "value": 0.0000805,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -244,7 +262,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000515,
+        "value": 0.0000517,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -261,7 +279,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000504,
+        "value": 0.0000508,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -278,7 +296,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000383,
+        "value": 0.0000384,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -295,7 +313,7 @@
       {
         "id": "https://openalex.org/T11278",
         "display_name": "Calcium Carbonate Crystallization and Inhibition",
-        "value": 0.0000231,
+        "value": 0.0000232,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -504,7 +522,7 @@
     ],
     "block_key": "d cantrell",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039734802",
-    "updated_date": "2026-09-26T12:32:56",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -578,6 +596,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
               "ror": "https://ror.org/035n7q728",
@@ -590,6 +618,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -602,6 +631,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -647,17 +677,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5768,
+      "fwci": 0.5752,
       "has_fulltext": false,
       "cited_by_count": 237,
       "citation_normalized_percentile": {
-        "value": 0.70437525,
+        "value": 0.70360126,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2026,9 +2056,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6399999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6399999856948853
         }
       ],
       "x_sdgs": [],
@@ -3805,7 +3835,10 @@
           "author": {
             "id": "https://openalex.org/A5050486511",
             "display_name": "Peter Koenraad Swart",
-            "orcid": "https://orcid.org/0000-0002-6743-6162"
+            "orcid": "https://orcid.org/0000-0002-6743-6162",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6743-6162"
+            ]
           },
           "institutions": [
             {
@@ -3849,7 +3882,10 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
-            "orcid": "https://orcid.org/0000-0003-3118-9769"
+            "orcid": "https://orcid.org/0000-0003-3118-9769",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3118-9769"
+            ]
           },
           "institutions": [
             {
@@ -3893,9 +3929,22 @@
           "author": {
             "id": "https://openalex.org/A5002249331",
             "display_name": "Hildegard Westphal",
-            "orcid": "https://orcid.org/0000-0001-7324-6122"
+            "orcid": "https://orcid.org/0000-0001-7324-6122",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7324-6122"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I145608581",
+              "display_name": "University of Miami",
+              "ror": "https://ror.org/02dgjyy92",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I145608581"
+              ]
+            },
             {
               "id": "https://openalex.org/I181369854",
               "display_name": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
@@ -3908,7 +3957,8 @@
             }
           ],
           "countries": [
-            "DE"
+            "DE",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Hildegard Westphal",
@@ -3921,12 +3971,14 @@
             {
               "raw_affiliation_string": "3MGG/RSMAS, 4600 Rickenbacker Causeway, University of Miami, Miami, Florida 33149, U.S.A.; Paläontologisches Institut, Universität Erlangen-Nürnberg, 91054 Erlangen Germany",
               "institution_ids": [
+                "https://openalex.org/I145608581",
                 "https://openalex.org/I181369854"
               ]
             },
             {
               "raw_affiliation_string": "MGG/RSMAS, 4600 Rickenbacker Causeway, University of Miami, Miami, Florida 33149, U.S.A.; Paläontologisches Institut, Universität Erlangen-Nürnberg, 91054 Erlangen Germany",
               "institution_ids": [
+                "https://openalex.org/I145608581",
                 "https://openalex.org/I181369854"
               ]
             }
@@ -3937,23 +3989,13 @@
           "author": {
             "id": "https://openalex.org/A5013547666",
             "display_name": "C. Robertson Handford",
-            "orcid": "https://orcid.org/0000-0002-6311-0771"
+            "orcid": "https://orcid.org/0000-0002-6311-0771",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6311-0771"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210133358",
-              "display_name": "Search",
-              "ror": "https://ror.org/03f78hn46",
-              "country_code": "US",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210133358"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "C. Robertson Handford",
           "raw_affiliation_strings": [
@@ -3968,9 +4010,7 @@
             },
             {
               "raw_affiliation_string": "Strata-Search, Austin, Texas 78726, U.S.A",
-              "institution_ids": [
-                "https://openalex.org/I4210133358"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -3979,7 +4019,10 @@
           "author": {
             "id": "https://openalex.org/A5103003307",
             "display_name": "Christopher Kendall",
-            "orcid": "https://orcid.org/0000-0002-9968-8145"
+            "orcid": "https://orcid.org/0000-0002-9968-8145",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9968-8145"
+            ]
           },
           "institutions": [
             {
@@ -4021,16 +4064,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 3,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.7287,
+      "fwci": 6.564,
       "has_fulltext": false,
       "cited_by_count": 128,
       "citation_normalized_percentile": {
-        "value": 0.96403352,
+        "value": 0.96308402,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4256,9 +4299,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -5179,21 +5222,8 @@
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210103399",
-              "display_name": "Saudi Heart Association",
-              "ror": "https://ror.org/01nrq5w30",
-              "country_code": "SA",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210103399"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "David Cantrell",
           "raw_affiliation_strings": [
@@ -5204,15 +5234,11 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Doha SAUDI ARABIA Riyadh",
-              "institution_ids": [
-                "https://openalex.org/I4210103399"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "SAUDI ARABIA Riyadh QATAR BAHRAIN IRAN North",
-              "institution_ids": [
-                "https://openalex.org/I4210103399"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -5226,21 +5252,8 @@
               "https://orcid.org/0000-0002-6743-6162"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210103399",
-              "display_name": "Saudi Heart Association",
-              "ror": "https://ror.org/01nrq5w30",
-              "country_code": "SA",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210103399"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Peter Swart",
           "raw_affiliation_strings": [
@@ -5251,15 +5264,11 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Doha SAUDI ARABIA Riyadh",
-              "institution_ids": [
-                "https://openalex.org/I4210103399"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "SAUDI ARABIA Riyadh QATAR BAHRAIN IRAN North",
-              "institution_ids": [
-                "https://openalex.org/I4210103399"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -5271,21 +5280,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210103399",
-              "display_name": "Saudi Heart Association",
-              "ror": "https://ror.org/01nrq5w30",
-              "country_code": "SA",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210103399"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Royal Hagerty",
           "raw_affiliation_strings": [
@@ -5296,33 +5292,27 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Doha SAUDI ARABIA Riyadh",
-              "institution_ids": [
-                "https://openalex.org/I4210103399"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "SAUDI ARABIA Riyadh QATAR BAHRAIN IRAN North",
-              "institution_ids": [
-                "https://openalex.org/I4210103399"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210103399"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.653,
+      "fwci": 2.6344,
       "has_fulltext": true,
       "cited_by_count": 114,
       "citation_normalized_percentile": {
-        "value": 0.89541315,
+        "value": 0.89467462,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5607,9 +5597,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.4300000071525574
         }
       ],
       "x_sdgs": [],
@@ -6939,9 +6929,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -7878,21 +7868,8 @@
               "https://orcid.org/0000-0002-3052-6391"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210118467",
-              "display_name": "Houston Independent School District",
-              "ror": "https://ror.org/01t5jw607",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118467"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "R.A. Shah",
           "raw_affiliation_strings": [
@@ -7903,9 +7880,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Independent Consultant, Houston, TX, USA",
-              "institution_ids": [
-                "https://openalex.org/I4210118467"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
@@ -7946,21 +7921,8 @@
               "https://orcid.org/0000-0001-7836-8276"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210118467",
-              "display_name": "Houston Independent School District",
-              "ror": "https://ror.org/01t5jw607",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118467"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "C. Xu",
           "raw_affiliation_strings": [
@@ -7971,9 +7933,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Independent Consultant, Houston, TX, USA",
-              "institution_ids": [
-                "https://openalex.org/I4210118467"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
@@ -7989,21 +7949,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2802333474",
-              "display_name": "Rocky Mountain Biological Laboratory",
-              "ror": "https://ror.org/030tcms06",
-              "country_code": "US",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I2802333474"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "C. Phillips",
           "raw_affiliation_strings": [
@@ -8014,9 +7961,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "CBPetro, Crested Butte, CO, USA",
-              "institution_ids": [
-                "https://openalex.org/I2802333474"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
@@ -8032,21 +7977,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210118467",
-              "display_name": "Houston Independent School District",
-              "ror": "https://ror.org/01t5jw607",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118467"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "X.L. Li",
           "raw_affiliation_strings": [
@@ -8057,9 +7989,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Independent Consultant, Houston, TX, USA",
-              "institution_ids": [
-                "https://openalex.org/I4210118467"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
@@ -8092,8 +8022,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5039734802"
       ],
@@ -8104,11 +8034,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 6.8145,
+      "fwci": 6.7553,
       "has_fulltext": false,
       "cited_by_count": 44,
       "citation_normalized_percentile": {
-        "value": 0.96689227,
+        "value": 0.96662687,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8377,9 +8307,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "x_sdgs": [],
@@ -8597,8 +8527,7 @@
             "display_name": "Mark A. Miller",
             "orcid": "https://orcid.org/0000-0002-1403-3343",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-1403-3343",
-              "https://orcid.org/0000-0001-9076-6066"
+              "https://orcid.org/0000-0002-1403-3343"
             ]
           },
           "institutions": [],
@@ -8665,11 +8594,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.4038,
+      "fwci": 6.3312,
       "has_fulltext": false,
       "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.96946791,
+        "value": 0.96903675,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9034,22 +8963,10 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
             }
           ],
           "countries": [
-            "SA",
-            "US"
+            "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Dave L. Cantrell",
@@ -9062,8 +8979,7 @@
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center Saudi Aramco Dharan 31311 Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
+                "https://openalex.org/I4210143841"
               ]
             },
             {
@@ -9195,7 +9111,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5050486511"
       ],
@@ -9208,16 +9124,16 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 2.2242,
+      "fwci": 2.1984,
       "has_fulltext": false,
       "cited_by_count": 42,
       "citation_normalized_percentile": {
-        "value": 0.85102425,
+        "value": 0.84919582,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 99
       },
       "biblio": {
@@ -10619,9 +10535,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -12051,9 +11967,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -13332,9 +13248,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5299999713897705,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5299999713897705
         }
       ],
       "x_sdgs": [],
@@ -14082,9 +13998,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -15453,12 +15369,14 @@
               "raw_affiliation_string": "Saudi Aramco 1 Geology Technology Team, EXPEC Advanced Research Center, , Building 9172, Wing A, Dhahran 31311, Saudi Arabia; present address: Stanford University, Green Earth Science Building, Room 50, 365 Panama Street, Stanford, California 94305; Mustafa.Geoscientist@outlook.com",
               "institution_ids": [
                 "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769",
                 "https://openalex.org/I97018004"
               ]
             },
             {
               "raw_affiliation_string": "Saudi ARAMCO",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -15521,17 +15439,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I186131212",
-              "display_name": "Chevron (Netherlands)",
-              "ror": "https://ror.org/053k40h13",
-              "country_code": "NL",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I186131212",
-                "https://openalex.org/I4210118014"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210118014",
               "display_name": "Chevron (United States)",
               "ror": "https://ror.org/02jfa8730",
@@ -15543,7 +15450,6 @@
             }
           ],
           "countries": [
-            "NL",
             "US"
           ],
           "is_corresponding": false,
@@ -15556,10 +15462,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Chevron 3 , 1500 Louisiana Street, Room 31114, Houston, Texas 77002; nhurley@chevron.com",
-              "institution_ids": [
-                "https://openalex.org/I186131212",
-                "https://openalex.org/I4210118014"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "CHEVRON",
@@ -15599,10 +15502,22 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Dave L. Cantrell",
@@ -15615,7 +15530,8 @@
               "raw_affiliation_string": "4Geology Technology Team, EXPEC Advanced Research Center, Saudi Aramco, Building 9172, Wing A, Dhahran 31311, Saudi Arabia; present address: King Fahd University of Petroleum and Minerals, P.O. Box 10831, Dhahran 31311, Saudi Arabia; dcantrell@kfupm.edu.sa",
               "institution_ids": [
                 "https://openalex.org/I134085113",
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             }
           ]
@@ -15652,17 +15568,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 7,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 6,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.4759,
+      "fwci": 2.4678,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.87206817,
+        "value": 0.87159871,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16791,7 +16707,8 @@
           "author": {
             "id": "https://openalex.org/A5077123632",
             "display_name": "Mahmoud Samir El-Yamani",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -16846,7 +16763,10 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "orcid": "https://orcid.org/0000-0002-4872-6201",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4872-6201"
+            ]
           },
           "institutions": [
             {
@@ -16883,10 +16803,28 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
-            "orcid": "https://orcid.org/0000-0003-3118-9769"
+            "orcid": "https://orcid.org/0000-0003-3118-9769",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3118-9769"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4387154068",
+              "display_name": "Light, nanomaterials, nanotechnologies",
+              "ror": "https://ror.org/01waxag60",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I140494188",
+                "https://openalex.org/I4387154068"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Dave Cantrell",
           "raw_affiliation_strings": [
@@ -16896,14 +16834,16 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Cantrell GeoLogic LLC, Franklin, TN 37069, USA",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I4387154068"
+              ]
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5085007251"
       ],
@@ -16916,11 +16856,11 @@
         "value_usd": 2710
       },
       "apc_paid": null,
-      "fwci": 1.4067,
+      "fwci": 1.393,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.77892037,
+        "value": 0.77676584,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17285,9 +17225,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7699999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7699999809265137
         }
       ],
       "x_sdgs": [],
@@ -17487,9 +17427,22 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
-            "orcid": "https://orcid.org/0000-0003-3118-9769"
+            "orcid": "https://orcid.org/0000-0003-3118-9769",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3118-9769"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -17503,6 +17456,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -17515,6 +17469,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -17525,7 +17480,10 @@
           "author": {
             "id": "https://openalex.org/A5050486511",
             "display_name": "Peter Koenraad Swart",
-            "orcid": "https://orcid.org/0000-0002-6743-6162"
+            "orcid": "https://orcid.org/0000-0002-6743-6162",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6743-6162"
+            ]
           },
           "institutions": [
             {
@@ -17562,23 +17520,11 @@
           "author": {
             "id": "https://openalex.org/A5110329047",
             "display_name": "Robertson C. Handford",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I53276908",
-              "display_name": "Marymount University",
-              "ror": "https://ror.org/0008kv292",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I53276908"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Robertson C. Handford",
           "raw_affiliation_strings": [
@@ -17588,9 +17534,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Consultant",
-              "institution_ids": [
-                "https://openalex.org/I53276908"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -17599,7 +17543,10 @@
           "author": {
             "id": "https://openalex.org/A5103003307",
             "display_name": "Christopher Kendall",
-            "orcid": "https://orcid.org/0000-0002-9968-8145"
+            "orcid": "https://orcid.org/0000-0002-9968-8145",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9968-8145"
+            ]
           },
           "institutions": [
             {
@@ -17636,7 +17583,10 @@
           "author": {
             "id": "https://openalex.org/A5002249331",
             "display_name": "Hildegard Westphal",
-            "orcid": "https://orcid.org/0000-0001-7324-6122"
+            "orcid": "https://orcid.org/0000-0001-7324-6122",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7324-6122"
+            ]
           },
           "institutions": [
             {
@@ -17670,17 +17620,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
+      "countries_distinct_count": 3,
       "institutions_distinct_count": 5,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.6034,
+      "fwci": 2.5808,
       "has_fulltext": false,
       "cited_by_count": 76,
       "citation_normalized_percentile": {
-        "value": 0.89398959,
+        "value": 0.89285227,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20991,9 +20941,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5099999904632568,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5099999904632568
         }
       ],
       "x_sdgs": [],
@@ -21645,9 +21595,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6100000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6100000143051147
         }
       ],
       "x_sdgs": [],
@@ -22257,22 +22207,10 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
             }
           ],
           "countries": [
-            "SA",
-            "US"
+            "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "D. L. Cantrell",
@@ -22299,7 +22237,7 @@
             {
               "raw_affiliation_string": "1Saudi Arabian Oil Company, PO Box 10831, Dhahran 31311, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I62856769"
+                "https://openalex.org/I4210143841"
               ]
             },
             {
@@ -22366,7 +22304,8 @@
             {
               "raw_affiliation_string": "3CSIRO Earth Science and Resource Engineering, Australian Resources Research Centre, Technology Park 26 Dick Perry Avenue, Kensington, Perth, WA 6151 Australia",
               "institution_ids": [
-                "https://openalex.org/I1292875679"
+                "https://openalex.org/I1292875679",
+                "https://openalex.org/I4210138528"
               ]
             }
           ]
@@ -22443,17 +22382,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 6,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3558,
+      "fwci": 0.3517,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.65246693,
+        "value": 0.64944437,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23306,7 +23245,10 @@
           "author": {
             "id": "https://openalex.org/A5039734802",
             "display_name": "Dave L. Cantrell",
-            "orcid": "https://orcid.org/0000-0003-3118-9769"
+            "orcid": "https://orcid.org/0000-0003-3118-9769",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3118-9769"
+            ]
           },
           "institutions": [
             {
@@ -23343,10 +23285,24 @@
           "author": {
             "id": "https://openalex.org/A5103638669",
             "display_name": "Kenneth R. Walker",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I75027704",
+              "display_name": "University of Tennessee at Knoxville",
+              "ror": "https://ror.org/020f3ap87",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I75027704"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Kenneth R. Walker",
           "raw_affiliation_strings": [
@@ -23356,28 +23312,30 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Univ. Tenn., Dep. Geol. Sci., United States",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I75027704"
+              ]
             }
           ]
         }
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9226,
+      "fwci": 1.9009,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.86869591,
+        "value": 0.86704854,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 98
       },
       "biblio": {
@@ -23692,9 +23650,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -25191,9 +25149,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -26133,9 +26091,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8199999928474426
         }
       ],
       "x_sdgs": [],
@@ -27070,16 +27028,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I1302918504",
-              "display_name": "Planetary Science Institute",
-              "ror": "https://ror.org/05vvg9554",
-              "country_code": "US",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I1302918504"
-              ]
-            },
-            {
               "id": "https://openalex.org/I97018004",
               "display_name": "Stanford University",
               "ror": "https://ror.org/00f54p054",
@@ -27103,7 +27051,6 @@
             {
               "raw_affiliation_string": "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA. Electronic address: pulkitsingh97@gmail.com",
               "institution_ids": [
-                "https://openalex.org/I1302918504",
                 "https://openalex.org/I97018004"
               ]
             }
@@ -27159,16 +27106,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I1302918504",
-              "display_name": "Planetary Science Institute",
-              "ror": "https://ror.org/05vvg9554",
-              "country_code": "US",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I1302918504"
-              ]
-            },
-            {
               "id": "https://openalex.org/I97018004",
               "display_name": "Stanford University",
               "ror": "https://ror.org/00f54p054",
@@ -27192,7 +27129,6 @@
             {
               "raw_affiliation_string": "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA",
               "institution_ids": [
-                "https://openalex.org/I1302918504",
                 "https://openalex.org/I97018004"
               ]
             }
@@ -27299,8 +27235,23 @@
               "https://orcid.org/0000-0003-3118-9769"
             ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4387154068",
+              "display_name": "Light, nanomaterials, nanotechnologies",
+              "ror": "https://ror.org/01waxag60",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I140494188",
+                "https://openalex.org/I4387154068"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [
@@ -27310,7 +27261,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Cantrell GeoLogic LLC, Franklin, TN 37069, USA",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I4387154068"
+              ]
             }
           ]
         },
@@ -27407,16 +27360,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I1302918504",
-              "display_name": "Planetary Science Institute",
-              "ror": "https://ror.org/05vvg9554",
-              "country_code": "US",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I1302918504"
-              ]
-            },
-            {
               "id": "https://openalex.org/I97018004",
               "display_name": "Stanford University",
               "ror": "https://ror.org/00f54p054",
@@ -27440,7 +27383,6 @@
             {
               "raw_affiliation_string": "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA",
               "institution_ids": [
-                "https://openalex.org/I1302918504",
                 "https://openalex.org/I97018004"
               ]
             }
@@ -27448,13 +27390,12 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
+      "countries_distinct_count": 4,
       "institutions_distinct_count": 6,
       "corresponding_author_ids": [
         "https://openalex.org/A5001052278"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I1302918504",
         "https://openalex.org/I97018004"
       ],
       "apc_list": {
@@ -27463,16 +27404,16 @@
         "value_usd": 7030
       },
       "apc_paid": null,
-      "fwci": 6.4484,
+      "fwci": 6.3973,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.95759658,
+        "value": 0.95719624,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 98
       },
       "biblio": {
@@ -28049,9 +27990,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8100000023841858
         }
       ],
       "x_sdgs": [],
@@ -30103,6 +30044,18 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4387154068",
+              "display_name": "Light, nanomaterials, nanotechnologies",
+              "ror": "https://ror.org/01waxag60",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I140494188",
+                "https://openalex.org/I4387154068"
+              ]
+            },
+            {
               "id": "https://openalex.org/I97018004",
               "display_name": "Stanford University",
               "ror": "https://ror.org/00f54p054",
@@ -30114,6 +30067,7 @@
             }
           ],
           "countries": [
+            "FR",
             "US"
           ],
           "is_corresponding": false,
@@ -30126,7 +30080,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Cantrell GeoLogic, Franklin, TN 37069, USA",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I4387154068"
+              ]
             },
             {
               "raw_affiliation_string": "Department of Geological Sciences, Stanford University, Stanford, CA 94305, USA",
@@ -30255,8 +30211,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 5,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 6,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [
         "https://openalex.org/I97018004"
@@ -30267,11 +30223,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 0.8081,
+      "fwci": 0.804,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.77240398,
+        "value": 0.77126686,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30652,9 +30608,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -30879,8 +30835,7 @@
             "display_name": "Mark A. Miller",
             "orcid": "https://orcid.org/0000-0002-1403-3343",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-1403-3343",
-              "https://orcid.org/0000-0001-9076-6066"
+              "https://orcid.org/0000-0002-1403-3343"
             ]
           },
           "institutions": [],
@@ -30947,11 +30902,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3558,
+      "fwci": 0.3517,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.66029917,
+        "value": 0.65737539,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31319,9 +31274,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -32303,9 +32258,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.4099999964237213
         }
       ],
       "x_sdgs": [],
@@ -33356,9 +33311,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8600000143051147
         }
       ],
       "x_sdgs": [],
@@ -34418,9 +34373,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.4300000071525574
         }
       ],
       "x_sdgs": [],
@@ -35340,9 +35295,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.4399999976158142
         }
       ],
       "x_sdgs": [],
@@ -36325,9 +36280,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger",
-          "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/2"
+          "score": 0.47999998927116394
         }
       ],
       "x_sdgs": [],
@@ -36752,9 +36707,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8500000238418579
         }
       ],
       "x_sdgs": [],
@@ -37010,6 +36965,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4405255943",
+              "display_name": "Trinity University",
+              "ror": "https://ror.org/03kpeyf37",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4405255943"
+              ]
+            },
+            {
               "id": "https://openalex.org/I60060512",
               "display_name": "Trinity University",
               "ror": "https://ror.org/00t8gz605",
@@ -37021,6 +36986,7 @@
             }
           ],
           "countries": [
+            "NG",
             "US"
           ],
           "is_corresponding": false,
@@ -37033,13 +36999,12 @@
           "affiliations": [
             {
               "raw_affiliation_string": "One Trinity Place San Antonio, TX",
-              "institution_ids": [
-                "https://openalex.org/I60060512"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Trinity University",
               "institution_ids": [
+                "https://openalex.org/I4405255943",
                 "https://openalex.org/I60060512"
               ]
             }
@@ -37128,8 +37093,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 4,
+      "countries_distinct_count": 4,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -37138,7 +37103,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.26264274,
+        "value": 0.26317512,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37384,9 +37349,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7900000214576721,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7900000214576721
         }
       ],
       "x_sdgs": [],
@@ -37704,6 +37669,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4405255943",
+              "display_name": "Trinity University",
+              "ror": "https://ror.org/03kpeyf37",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4405255943"
+              ]
+            },
+            {
               "id": "https://openalex.org/I60060512",
               "display_name": "Trinity University",
               "ror": "https://ror.org/00t8gz605",
@@ -37715,6 +37690,7 @@
             }
           ],
           "countries": [
+            "NG",
             "US"
           ],
           "is_corresponding": false,
@@ -37727,6 +37703,7 @@
             {
               "raw_affiliation_string": "Trinity University",
               "institution_ids": [
+                "https://openalex.org/I4405255943",
                 "https://openalex.org/I60060512"
               ]
             }
@@ -37775,8 +37752,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -37785,7 +37762,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.40956363,
+        "value": 0.40957904,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

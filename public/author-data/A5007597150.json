@@ -29,55 +29,8 @@
         "https://orcid.org/0000-0002-8456-158X"
       ]
     },
-    "affiliations": [
-      {
-        "institution": {
-          "id": "https://openalex.org/I4210114766",
-          "ror": "https://ror.org/01zhpv322",
-          "display_name": "Muscat College",
-          "country_code": "OM",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I4210114766"
-          ]
-        },
-        "years": [
-          2024
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I4210122910",
-          "ror": "https://ror.org/03tcppy59",
-          "display_name": "The Research Council",
-          "country_code": "OM",
-          "type": "government",
-          "lineage": [
-            "https://openalex.org/I4210122910"
-          ]
-        },
-        "years": [
-          2026,
-          2025,
-          2024,
-          2023,
-          2022,
-          2020
-        ]
-      }
-    ],
-    "last_known_institutions": [
-      {
-        "id": "https://openalex.org/I4210122910",
-        "ror": "https://ror.org/03tcppy59",
-        "display_name": "The Research Council",
-        "country_code": "OM",
-        "type": "government",
-        "lineage": [
-          "https://openalex.org/I4210122910"
-        ]
-      }
-    ],
+    "affiliations": [],
+    "last_known_institutions": null,
     "topics": [
       {
         "id": "https://openalex.org/T10017",
@@ -169,7 +122,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000358,
+        "value": 0.0000359,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -186,7 +139,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000016,
+        "value": 0.0000161,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -203,7 +156,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0000153,
+        "value": 0.0000154,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -220,7 +173,7 @@
       {
         "id": "https://openalex.org/T12218",
         "display_name": "Coal and Its By-products",
-        "value": 0.0000137,
+        "value": 0.0000138,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -332,7 +285,7 @@
     ],
     "block_key": "m al kindi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5007597150",
-    "updated_date": "2026-09-22T04:05:08",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -403,33 +356,13 @@
           "author": {
             "id": "https://openalex.org/A5007597150",
             "display_name": "Mohammed H. Al Kindi",
-            "orcid": "https://orcid.org/0000-0002-8456-158X"
+            "orcid": "https://orcid.org/0000-0002-8456-158X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8456-158X"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210114766",
-              "display_name": "Muscat College",
-              "ror": "https://ror.org/01zhpv322",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210114766"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210122910",
-              "display_name": "The Research Council",
-              "ror": "https://ror.org/03tcppy59",
-              "country_code": "OM",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": true,
           "raw_author_name": "Mohammed Al-Kindi",
           "raw_affiliation_strings": [
@@ -440,36 +373,29 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre, PO Box 979, PC. 611, Muscat, Sultanate of Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210114766"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre, P.O. Box 979, PC. 611, Muscat, Sultanate of Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210122910"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5007597150"
       ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210114766",
-        "https://openalex.org/I4210122910"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7469,
+      "fwci": 0.7334,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.6251713,
+        "value": 0.61961124,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -842,8 +768,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -1542,21 +1468,8 @@
               "https://orcid.org/0000-0002-8456-158X"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210122910",
-              "display_name": "The Research Council",
-              "ror": "https://ror.org/03tcppy59",
-              "country_code": "OM",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Mohammed Al Kindi",
           "raw_affiliation_strings": [
@@ -1566,9 +1479,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre  Muscat Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210122910"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -1580,21 +1491,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210122910",
-              "display_name": "The Research Council",
-              "ror": "https://ror.org/03tcppy59",
-              "country_code": "OM",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Omer Al Mashaykhi",
           "raw_affiliation_strings": [
@@ -1604,9 +1502,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre  Muscat Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210122910"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -1622,18 +1518,19 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I7923278",
-              "display_name": "Shell (Netherlands)",
-              "ror": "https://ror.org/00b5m4j81",
-              "country_code": "NL",
+              "id": "https://openalex.org/I4210150951",
+              "display_name": "Shell (United States)",
+              "ror": "https://ror.org/04wedba92",
+              "country_code": "US",
               "type": "company",
               "lineage": [
+                "https://openalex.org/I4210150951",
                 "https://openalex.org/I7923278"
               ]
             }
           ],
           "countries": [
-            "NL"
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Caroline Hern",
@@ -1645,7 +1542,7 @@
             {
               "raw_affiliation_string": "Shell International Exploration and Production  Houston Texas USA",
               "institution_ids": [
-                "https://openalex.org/I7923278"
+                "https://openalex.org/I4210150951"
               ]
             }
           ]
@@ -1660,18 +1557,19 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I7923278",
-              "display_name": "Shell (Netherlands)",
-              "ror": "https://ror.org/00b5m4j81",
-              "country_code": "NL",
+              "id": "https://openalex.org/I4210150951",
+              "display_name": "Shell (United States)",
+              "ror": "https://ror.org/04wedba92",
+              "country_code": "US",
               "type": "company",
               "lineage": [
+                "https://openalex.org/I4210150951",
                 "https://openalex.org/I7923278"
               ]
             }
           ],
           "countries": [
-            "NL"
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Calum Macaulay",
@@ -1683,7 +1581,7 @@
             {
               "raw_affiliation_string": "Shell International Exploration and Production  Houston Texas USA",
               "institution_ids": [
-                "https://openalex.org/I7923278"
+                "https://openalex.org/I4210150951"
               ]
             }
           ]
@@ -1698,18 +1596,19 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I7923278",
-              "display_name": "Shell (Netherlands)",
-              "ror": "https://ror.org/00b5m4j81",
-              "country_code": "NL",
+              "id": "https://openalex.org/I4210150951",
+              "display_name": "Shell (United States)",
+              "ror": "https://ror.org/04wedba92",
+              "country_code": "US",
               "type": "company",
               "lineage": [
+                "https://openalex.org/I4210150951",
                 "https://openalex.org/I7923278"
               ]
             }
           ],
           "countries": [
-            "NL"
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Robert Campbell",
@@ -1721,7 +1620,7 @@
             {
               "raw_affiliation_string": "Shell International Exploration and Production  Houston Texas USA",
               "institution_ids": [
-                "https://openalex.org/I7923278"
+                "https://openalex.org/I4210150951"
               ]
             }
           ]
@@ -1736,18 +1635,19 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I7923278",
-              "display_name": "Shell (Netherlands)",
-              "ror": "https://ror.org/00b5m4j81",
-              "country_code": "NL",
+              "id": "https://openalex.org/I4210150951",
+              "display_name": "Shell (United States)",
+              "ror": "https://ror.org/04wedba92",
+              "country_code": "US",
               "type": "company",
               "lineage": [
+                "https://openalex.org/I4210150951",
                 "https://openalex.org/I7923278"
               ]
             }
           ],
           "countries": [
-            "NL"
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Michelle Thompson",
@@ -1759,15 +1659,15 @@
             {
               "raw_affiliation_string": "Shell International Exploration and Production  Houston Texas USA",
               "institution_ids": [
-                "https://openalex.org/I7923278"
+                "https://openalex.org/I4210150951"
               ]
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5063297406"
       ],
@@ -1784,11 +1684,11 @@
         "currency": "USD",
         "value_usd": 5330
       },
-      "fwci": 1.8524,
+      "fwci": 1.8434,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.87266853,
+        "value": 0.8721592,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2099,9 +1999,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -2115,8 +2015,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 74,
@@ -3009,34 +2909,13 @@
           "author": {
             "id": "https://openalex.org/A5012623177",
             "display_name": "ALAN P. HEWARD",
-            "orcid": "https://orcid.org/0000-0001-7154-3123"
+            "orcid": "https://orcid.org/0000-0001-7154-3123",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7154-3123"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1340949323",
-              "display_name": "Crown College",
-              "ror": "https://ror.org/059617j81",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I1340949323"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210126300",
-              "display_name": "Worcestershire Health and Care NHS Trust",
-              "ror": "https://ror.org/03nkk3987",
-              "country_code": "GB",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I4210126300"
-              ]
-            }
-          ],
-          "countries": [
-            "GB",
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": true,
           "raw_author_name": "Alan Peter Heward",
           "raw_affiliation_strings": [
@@ -3047,15 +2926,11 @@
           "affiliations": [
             {
               "raw_affiliation_string": "23 Croftdown Court",
-              "institution_ids": [
-                "https://openalex.org/I1340949323"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "23 Croftdown Court, Malvern, Worcestershire WR14 3HZ, UK",
-              "institution_ids": [
-                "https://openalex.org/I4210126300"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -3064,33 +2939,11 @@
           "author": {
             "id": "https://openalex.org/A5096114208",
             "display_name": "M. Quentin Morton",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I116867862",
-              "display_name": "Green Mountain College",
-              "ror": "https://ror.org/04gfner94",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I116867862"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210104395",
-              "display_name": "Green Mountain Radio Research (United States)",
-              "ror": "https://ror.org/01g07dr78",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210104395"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "M. Quentin Morton",
           "raw_affiliation_strings": [
@@ -3101,10 +2954,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Green Mountain Press",
-              "institution_ids": [
-                "https://openalex.org/I116867862",
-                "https://openalex.org/I4210104395"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Green Mountain Press, P.O. Box 348, Aylesford, Kent, ME6 9AP, U.K",
@@ -3117,23 +2967,13 @@
           "author": {
             "id": "https://openalex.org/A5007597150",
             "display_name": "Mohammed H. Al Kindi",
-            "orcid": "https://orcid.org/0000-0002-8456-158X"
+            "orcid": "https://orcid.org/0000-0002-8456-158X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8456-158X"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210122910",
-              "display_name": "The Research Council",
-              "ror": "https://ror.org/03tcppy59",
-              "country_code": "OM",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Mohammed Al-Kindi",
           "raw_affiliation_strings": [
@@ -3148,30 +2988,25 @@
             },
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre, P.O. Box 979, PC. 611, Muscat, Sultanate of Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210122910"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 5,
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5012623177"
       ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I1340949323",
-        "https://openalex.org/I4210126300"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7799,
+      "fwci": 1.746,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.85487783,
+        "value": 0.85243024,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3472,9 +3307,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6899999976158142,
           "display_name": "Life below water",
-          "score": 0.6899999976158142
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -3482,8 +3317,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -4122,21 +3957,8 @@
               "https://orcid.org/0000-0002-8456-158X"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210122910",
-              "display_name": "The Research Council",
-              "ror": "https://ror.org/03tcppy59",
-              "country_code": "OM",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": true,
           "raw_author_name": "Mohammed H. N. Al-Kindi",
           "raw_affiliation_strings": [
@@ -4146,22 +3968,18 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Center, P.C. 611, Muscat P.O. Box 979, Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210122910"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5007597150"
       ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210122910"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 1200,
         "currency": "CHF",
@@ -4172,11 +3990,11 @@
         "currency": "CHF",
         "value_usd": 1267
       },
-      "fwci": 0.8189,
+      "fwci": 0.814,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.65276963,
+        "value": 0.65106401,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4587,8 +4405,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3107735373.pdf",
@@ -5520,23 +5338,13 @@
           "author": {
             "id": "https://openalex.org/A5007597150",
             "display_name": "Mohammed H. Al Kindi",
-            "orcid": "https://orcid.org/0000-0002-8456-158X"
+            "orcid": "https://orcid.org/0000-0002-8456-158X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8456-158X"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210122910",
-              "display_name": "The Research Council",
-              "ror": "https://ror.org/03tcppy59",
-              "country_code": "OM",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": true,
           "raw_author_name": "Mohammed H. N. Al-Kindi",
           "raw_affiliation_strings": [
@@ -5546,22 +5354,18 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre, P.C. 611, P.O.Box 979 Muscat, Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210122910"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5007597150"
       ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210122910"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 1200,
         "currency": "CHF",
@@ -5572,16 +5376,16 @@
         "currency": "CHF",
         "value_usd": 1267
       },
-      "fwci": 0.1463,
+      "fwci": 0.1357,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.40259689,
+        "value": 0.36584238,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 96
       },
       "biblio": {
@@ -6051,8 +5855,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3010622588.pdf",
@@ -6928,7 +6732,10 @@
           "author": {
             "id": "https://openalex.org/A5086207961",
             "display_name": "Martin H. L. Pickford",
-            "orcid": "https://orcid.org/0000-0002-9017-1107"
+            "orcid": "https://orcid.org/0000-0002-9017-1107",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9017-1107"
+            ]
           },
           "institutions": [
             {
@@ -6949,6 +6756,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210123595",
+              "display_name": "Muséum national d'Histoire naturelle",
+              "ror": "https://ror.org/03wkt5x30",
+              "country_code": "FR",
+              "type": "archive",
+              "lineage": [
+                "https://openalex.org/I4210123595"
               ]
             },
             {
@@ -6981,6 +6798,7 @@
               "institution_ids": [
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I39804081",
+                "https://openalex.org/I4210123595",
                 "https://openalex.org/I4387155127"
               ]
             },
@@ -6989,6 +6807,7 @@
               "institution_ids": [
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I39804081",
+                "https://openalex.org/I4210123595",
                 "https://openalex.org/I4387155127"
               ]
             }
@@ -6999,7 +6818,10 @@
           "author": {
             "id": "https://openalex.org/A5007597150",
             "display_name": "Mohammed H. Al Kindi",
-            "orcid": "https://orcid.org/0000-0002-8456-158X"
+            "orcid": "https://orcid.org/0000-0002-8456-158X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8456-158X"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -7021,7 +6843,10 @@
           "author": {
             "id": "https://openalex.org/A5007833593",
             "display_name": "Mohammed Rajhi",
-            "orcid": "https://orcid.org/0000-0002-1811-2532"
+            "orcid": "https://orcid.org/0000-0002-1811-2532",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1811-2532"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -7043,7 +6868,10 @@
           "author": {
             "id": "https://openalex.org/A5092694410",
             "display_name": "Thuwaiba Al Marjibi",
-            "orcid": "https://orcid.org/0000-0001-7843-1474"
+            "orcid": "https://orcid.org/0000-0001-7843-1474",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7843-1474"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -7065,7 +6893,10 @@
           "author": {
             "id": "https://openalex.org/A5092694411",
             "display_name": "Farida Al Rawahi",
-            "orcid": "https://orcid.org/0000-0003-0187-0238"
+            "orcid": "https://orcid.org/0000-0003-0187-0238",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0187-0238"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -7085,21 +6916,21 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9831,
+      "fwci": 0.9681,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.79394751,
+        "value": 0.79133261,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 96
       },
       "biblio": {
@@ -7365,9 +7196,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -7381,8 +7212,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386162512.pdf",
@@ -7638,23 +7469,13 @@
           "author": {
             "id": "https://openalex.org/A5063720304",
             "display_name": "Robert Hird",
-            "orcid": "https://orcid.org/0000-0002-8485-6070"
+            "orcid": "https://orcid.org/0000-0002-8485-6070",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8485-6070"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210122910",
-              "display_name": "The Research Council",
-              "ror": "https://ror.org/03tcppy59",
-              "country_code": "OM",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": true,
           "raw_author_name": "R Hird",
           "raw_affiliation_strings": [
@@ -7664,9 +7485,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210122910"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -7675,23 +7494,13 @@
           "author": {
             "id": "https://openalex.org/A5007597150",
             "display_name": "Mohammed H. Al Kindi",
-            "orcid": "https://orcid.org/0000-0002-8456-158X"
+            "orcid": "https://orcid.org/0000-0002-8456-158X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8456-158X"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210122910",
-              "display_name": "The Research Council",
-              "ror": "https://ror.org/03tcppy59",
-              "country_code": "OM",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "MH Al Kindi",
           "raw_affiliation_strings": [
@@ -7701,33 +7510,29 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210122910"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5063720304"
       ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210122910"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 3490,
         "currency": "USD",
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.1612,
+      "fwci": 1.1407,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.81371863,
+        "value": 0.8117265,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8070,9 +7875,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.550000011920929,
           "display_name": "Sustainable cities and communities",
-          "score": 0.550000011920929
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "x_sdgs": [],
@@ -8080,8 +7885,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -8212,7 +8017,10 @@
           "author": {
             "id": "https://openalex.org/A5054416815",
             "display_name": "Philippe Audra",
-            "orcid": "https://orcid.org/0000-0001-9152-9935"
+            "orcid": "https://orcid.org/0000-0001-9152-9935",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9152-9935"
+            ]
           },
           "institutions": [
             {
@@ -8223,16 +8031,6 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I201841394"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210154774",
-              "display_name": "Polytech Lille",
-              "ror": "https://ror.org/05339ng12",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210154774"
               ]
             }
           ],
@@ -8249,8 +8047,7 @@
             {
               "raw_affiliation_string": "Université Côte d’Azur, Polytech’Lab - UPR 7498, 930 route des Colles, 06903, Sophia-Antipolis, France",
               "institution_ids": [
-                "https://openalex.org/I201841394",
-                "https://openalex.org/I4210154774"
+                "https://openalex.org/I201841394"
               ]
             }
           ]
@@ -8260,23 +8057,13 @@
           "author": {
             "id": "https://openalex.org/A5007597150",
             "display_name": "Mohammed H. Al Kindi",
-            "orcid": "https://orcid.org/0000-0002-8456-158X"
+            "orcid": "https://orcid.org/0000-0002-8456-158X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8456-158X"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210122910",
-              "display_name": "The Research Council",
-              "ror": "https://ror.org/03tcppy59",
-              "country_code": "OM",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Mohammed Al Kindi",
           "raw_affiliation_strings": [
@@ -8286,22 +8073,19 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre, PO Box 979, P.C. 611, Industrial Ghala, Muscat, Sultanate of Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210122910"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5054416815"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I201841394",
-        "https://openalex.org/I4210154774"
+        "https://openalex.org/I201841394"
       ],
       "apc_list": {
         "value": 2990,
@@ -8309,16 +8093,16 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.0781,
+      "fwci": 0.0773,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.30509092,
+        "value": 0.30190076,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 94
       },
       "biblio": {
@@ -8584,9 +8368,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.47999998927116394,
           "display_name": "Life in Land",
-          "score": 0.47999998927116394
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "x_sdgs": [],
@@ -8594,8 +8378,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -8706,23 +8490,13 @@
           "author": {
             "id": "https://openalex.org/A5063720304",
             "display_name": "Robert Hird",
-            "orcid": "https://orcid.org/0000-0002-8485-6070"
+            "orcid": "https://orcid.org/0000-0002-8485-6070",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8485-6070"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210122910",
-              "display_name": "The Research Council",
-              "ror": "https://ror.org/03tcppy59",
-              "country_code": "OM",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": true,
           "raw_author_name": "Robert Hird",
           "raw_affiliation_strings": [
@@ -8732,9 +8506,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210122910"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -8743,7 +8515,10 @@
           "author": {
             "id": "https://openalex.org/A5101602655",
             "display_name": "Mei Yin",
-            "orcid": "https://orcid.org/0000-0003-4982-381X"
+            "orcid": "https://orcid.org/0000-0003-4982-381X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4982-381X"
+            ]
           },
           "institutions": [
             {
@@ -8781,23 +8556,13 @@
           "author": {
             "id": "https://openalex.org/A5007597150",
             "display_name": "Mohammed H. Al Kindi",
-            "orcid": "https://orcid.org/0000-0002-8456-158X"
+            "orcid": "https://orcid.org/0000-0002-8456-158X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8456-158X"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210122910",
-              "display_name": "The Research Council",
-              "ror": "https://ror.org/03tcppy59",
-              "country_code": "OM",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Mohammed H. Al Kindi",
           "raw_affiliation_strings": [
@@ -8807,22 +8572,18 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210122910"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5063720304"
       ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210122910"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": {
         "value": 2890,
         "currency": "USD",
@@ -8833,7 +8594,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.10266932,
+        "value": 0.10252649,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9120,9 +8881,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.46000000834465027,
           "display_name": "Life below water",
-          "score": 0.46000000834465027
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -9130,8 +8891,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -9637,9 +9398,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.45413655042648315,
           "display_name": "Climate action",
-          "score": 0.45413655042648315
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -9647,8 +9408,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10483,9 +10244,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.45413655042648315,
           "display_name": "Climate action",
-          "score": 0.45413655042648315
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -10493,8 +10254,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10940,7 +10701,10 @@
           "author": {
             "id": "https://openalex.org/A5091426946",
             "display_name": "Andrea Pezzotta",
-            "orcid": "https://orcid.org/0000-0002-1093-1576"
+            "orcid": "https://orcid.org/0000-0002-1093-1576",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1093-1576"
+            ]
           },
           "institutions": [
             {
@@ -10977,7 +10741,10 @@
           "author": {
             "id": "https://openalex.org/A5012088042",
             "display_name": "Alessia Marinoni",
-            "orcid": "https://orcid.org/0009-0000-5841-9830"
+            "orcid": "https://orcid.org/0009-0000-5841-9830",
+            "observed_orcids": [
+              "https://orcid.org/0009-0000-5841-9830"
+            ]
           },
           "institutions": [
             {
@@ -11014,7 +10781,10 @@
           "author": {
             "id": "https://openalex.org/A5007597150",
             "display_name": "Mohammed H. Al Kindi",
-            "orcid": "https://orcid.org/0000-0002-8456-158X"
+            "orcid": "https://orcid.org/0000-0002-8456-158X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8456-158X"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -11036,7 +10806,10 @@
           "author": {
             "id": "https://openalex.org/A5041575007",
             "display_name": "Davide Susini",
-            "orcid": "https://orcid.org/0000-0003-0526-9407"
+            "orcid": "https://orcid.org/0000-0003-0526-9407",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0526-9407"
+            ]
           },
           "institutions": [
             {
@@ -11050,6 +10823,16 @@
               ]
             },
             {
+              "id": "https://openalex.org/I197604219",
+              "display_name": "National Academies of Sciences, Engineering, and Medicine",
+              "ror": "https://ror.org/02eq2w707",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I197604219"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210096172",
               "display_name": "Institute of Environmental Geology and Geoengineering",
               "ror": "https://ror.org/00ytw6m58",
@@ -11059,10 +10842,32 @@
                 "https://openalex.org/I4210096172",
                 "https://openalex.org/I4210155236"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210128591",
+              "display_name": "National Research Council",
+              "ror": "https://ror.org/035rrps97",
+              "country_code": "RO",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210128591"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210155236",
+              "display_name": "National Research Council",
+              "ror": "https://ror.org/04zaypm56",
+              "country_code": "IT",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210155236"
+              ]
             }
           ],
           "countries": [
-            "IT"
+            "IT",
+            "RO",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Davide Susini",
@@ -11075,7 +10880,10 @@
             {
               "raw_affiliation_string": "Institute of Environmental Geology and Geoengineering, National Research Council",
               "institution_ids": [
-                "https://openalex.org/I4210096172"
+                "https://openalex.org/I197604219",
+                "https://openalex.org/I4210096172",
+                "https://openalex.org/I4210128591",
+                "https://openalex.org/I4210155236"
               ]
             },
             {
@@ -11091,9 +10899,22 @@
           "author": {
             "id": "https://openalex.org/A5019415548",
             "display_name": "Sam Turner",
-            "orcid": "https://orcid.org/0000-0002-3257-0070"
+            "orcid": "https://orcid.org/0000-0002-3257-0070",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3257-0070"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I78757542",
+              "display_name": "University of Newcastle Australia",
+              "ror": "https://ror.org/00eae9z71",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I78757542"
+              ]
+            },
             {
               "id": "https://openalex.org/I84884186",
               "display_name": "Newcastle University",
@@ -11106,6 +10927,7 @@
             }
           ],
           "countries": [
+            "AU",
             "GB"
           ],
           "is_corresponding": false,
@@ -11118,6 +10940,7 @@
             {
               "raw_affiliation_string": "Newcastle University",
               "institution_ids": [
+                "https://openalex.org/I78757542",
                 "https://openalex.org/I84884186"
               ]
             }
@@ -11128,7 +10951,10 @@
           "author": {
             "id": "https://openalex.org/A5037028344",
             "display_name": "Michele Zucali",
-            "orcid": "https://orcid.org/0000-0003-3600-7856"
+            "orcid": "https://orcid.org/0000-0003-3600-7856",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3600-7856"
+            ]
           },
           "institutions": [
             {
@@ -11165,7 +10991,10 @@
           "author": {
             "id": "https://openalex.org/A5067454334",
             "display_name": "Andrea Zerboni",
-            "orcid": "https://orcid.org/0000-0002-6844-8528"
+            "orcid": "https://orcid.org/0000-0002-6844-8528",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6844-8528"
+            ]
           },
           "institutions": [
             {
@@ -11199,8 +11028,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
+      "countries_distinct_count": 5,
+      "institutions_distinct_count": 8,
       "corresponding_author_ids": [
         "https://openalex.org/A5091426946"
       ],
@@ -11221,7 +11050,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.39073036,
+        "value": 0.38227458,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11565,8 +11394,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7155534781.pdf",
@@ -12069,21 +11898,8 @@
               "https://orcid.org/0000-0002-8456-158X"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210122910",
-              "display_name": "The Research Council",
-              "ror": "https://ror.org/03tcppy59",
-              "country_code": "OM",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Mohammed H. Al Kindi",
           "raw_affiliation_strings": [
@@ -12093,16 +11909,14 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre  Muscat Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210122910"
-              ]
+              "institution_ids": []
             }
           ]
         },
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5135459311",
+            "id": "https://openalex.org/A5012623177",
             "display_name": "ALAN P. HEWARD",
             "orcid": "https://orcid.org/0000-0001-7154-3123",
             "observed_orcids": [
@@ -12132,21 +11946,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I202963720",
-              "display_name": "University of St.Gallen",
-              "ror": "https://ror.org/0561a3s31",
-              "country_code": "CH",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I202963720"
-              ]
-            }
-          ],
-          "countries": [
-            "CH"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Lorraine B. Eglinton",
           "raw_affiliation_strings": [
@@ -12156,9 +11957,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Egs‐Ploration  St Gallenkappel Switzerland",
-              "institution_ids": [
-                "https://openalex.org/I202963720"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -12210,10 +12009,10 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
-        "https://openalex.org/A5135459311"
+        "https://openalex.org/A5012623177"
       ],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -12230,7 +12029,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.39760712,
+        "value": 0.39208931,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12610,9 +12409,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5195932388305664,
           "display_name": "Life below water",
-          "score": 0.5195932388305664
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -12620,8 +12419,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -13133,7 +12932,8 @@
           "author": {
             "id": "https://openalex.org/A5135872672",
             "display_name": "Rudolf Dellmour",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -13148,7 +12948,10 @@
           "author": {
             "id": "https://openalex.org/A5093856120",
             "display_name": "Emily Coco",
-            "orcid": "https://orcid.org/0000-0001-8462-7713"
+            "orcid": "https://orcid.org/0000-0001-8462-7713",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8462-7713"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -13163,7 +12966,10 @@
           "author": {
             "id": "https://openalex.org/A5045533782",
             "display_name": "Osama Samawi",
-            "orcid": "https://orcid.org/0009-0001-3693-1929"
+            "orcid": "https://orcid.org/0009-0001-3693-1929",
+            "observed_orcids": [
+              "https://orcid.org/0009-0001-3693-1929"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -13178,7 +12984,10 @@
           "author": {
             "id": "https://openalex.org/A5007597150",
             "display_name": "Mohammed H. Al Kindi",
-            "orcid": "https://orcid.org/0000-0002-8456-158X"
+            "orcid": "https://orcid.org/0000-0002-8456-158X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8456-158X"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -13200,7 +13009,10 @@
           "author": {
             "id": "https://openalex.org/A5026691960",
             "display_name": "Michelle Rae Bebber",
-            "orcid": "https://orcid.org/0000-0002-6084-8420"
+            "orcid": "https://orcid.org/0000-0002-6084-8420",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6084-8420"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -13215,7 +13027,10 @@
           "author": {
             "id": "https://openalex.org/A5144230459",
             "display_name": "Eren Metin",
-            "orcid": "https://orcid.org/0000-0003-0849-2049"
+            "orcid": "https://orcid.org/0000-0003-0849-2049",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0849-2049"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -13230,7 +13045,10 @@
           "author": {
             "id": "https://openalex.org/A5036147981",
             "display_name": "Roman Garba",
-            "orcid": "https://orcid.org/0000-0001-8112-9428"
+            "orcid": "https://orcid.org/0000-0001-8112-9428",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8112-9428"
+            ]
           },
           "institutions": [
             {
@@ -13293,6 +13111,7 @@
             {
               "raw_affiliation_string": "Czech Academy of Sciences, Nuclear Physics Institute",
               "institution_ids": [
+                "https://openalex.org/I202391551",
                 "https://openalex.org/I4210149327"
               ]
             }
@@ -13303,7 +13122,10 @@
           "author": {
             "id": "https://openalex.org/A5020527084",
             "display_name": "Mathias Harzhauser",
-            "orcid": "https://orcid.org/0000-0002-4471-6655"
+            "orcid": "https://orcid.org/0000-0002-4471-6655",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4471-6655"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -13318,7 +13140,10 @@
           "author": {
             "id": "https://openalex.org/A5034509352",
             "display_name": "Jeffrey I. Rose",
-            "orcid": "https://orcid.org/0000-0003-0006-7064"
+            "orcid": "https://orcid.org/0000-0003-0006-7064",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0006-7064"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -13594,8 +13419,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13950,7 +13775,8 @@
           "author": {
             "id": "https://openalex.org/A5135872672",
             "display_name": "Rudolf Dellmour",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -13965,7 +13791,10 @@
           "author": {
             "id": "https://openalex.org/A5093856120",
             "display_name": "Emily Coco",
-            "orcid": "https://orcid.org/0000-0001-8462-7713"
+            "orcid": "https://orcid.org/0000-0001-8462-7713",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8462-7713"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -13980,7 +13809,10 @@
           "author": {
             "id": "https://openalex.org/A5045533782",
             "display_name": "Osama Samawi",
-            "orcid": "https://orcid.org/0009-0001-3693-1929"
+            "orcid": "https://orcid.org/0009-0001-3693-1929",
+            "observed_orcids": [
+              "https://orcid.org/0009-0001-3693-1929"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -13995,7 +13827,10 @@
           "author": {
             "id": "https://openalex.org/A5007597150",
             "display_name": "Mohammed H. Al Kindi",
-            "orcid": "https://orcid.org/0000-0002-8456-158X"
+            "orcid": "https://orcid.org/0000-0002-8456-158X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8456-158X"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -14017,7 +13852,10 @@
           "author": {
             "id": "https://openalex.org/A5026691960",
             "display_name": "Michelle Rae Bebber",
-            "orcid": "https://orcid.org/0000-0002-6084-8420"
+            "orcid": "https://orcid.org/0000-0002-6084-8420",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6084-8420"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -14032,7 +13870,10 @@
           "author": {
             "id": "https://openalex.org/A5144230459",
             "display_name": "Eren Metin",
-            "orcid": "https://orcid.org/0000-0003-0849-2049"
+            "orcid": "https://orcid.org/0000-0003-0849-2049",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0849-2049"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -14047,7 +13888,10 @@
           "author": {
             "id": "https://openalex.org/A5036147981",
             "display_name": "Roman Garba",
-            "orcid": "https://orcid.org/0000-0001-8112-9428"
+            "orcid": "https://orcid.org/0000-0001-8112-9428",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8112-9428"
+            ]
           },
           "institutions": [
             {
@@ -14110,6 +13954,7 @@
             {
               "raw_affiliation_string": "Czech Academy of Sciences, Nuclear Physics Institute",
               "institution_ids": [
+                "https://openalex.org/I202391551",
                 "https://openalex.org/I4210149327"
               ]
             }
@@ -14120,7 +13965,10 @@
           "author": {
             "id": "https://openalex.org/A5020527084",
             "display_name": "Mathias Harzhauser",
-            "orcid": "https://orcid.org/0000-0002-4471-6655"
+            "orcid": "https://orcid.org/0000-0002-4471-6655",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4471-6655"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -14135,7 +13983,10 @@
           "author": {
             "id": "https://openalex.org/A5034509352",
             "display_name": "Jeffrey I. Rose",
-            "orcid": "https://orcid.org/0000-0003-0006-7064"
+            "orcid": "https://orcid.org/0000-0003-0006-7064",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0006-7064"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -14411,8 +14262,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

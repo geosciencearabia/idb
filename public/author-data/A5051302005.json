@@ -47,22 +47,6 @@
       },
       {
         "institution": {
-          "id": "https://openalex.org/I4210118538",
-          "ror": "https://ror.org/02em1tr51",
-          "display_name": "University of Petroleum",
-          "country_code": "ID",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I4210118538"
-          ]
-        },
-        "years": [
-          2024,
-          2023
-        ]
-      },
-      {
-        "institution": {
           "id": "https://openalex.org/I47508984",
           "ror": "https://ror.org/041kmwe10",
           "display_name": "Imperial College London",
@@ -180,7 +164,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000723,
+        "value": 0.0000725,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -197,7 +181,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000436,
+        "value": 0.0000437,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -214,7 +198,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000394,
+        "value": 0.0000397,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -231,7 +215,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000278,
+        "value": 0.0000279,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -339,7 +323,7 @@
     ],
     "block_key": "a herlambang",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051302005",
-    "updated_date": "2026-09-26T12:32:56",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2023-12-06T00:00:00"
   },
   "works": [
@@ -995,8 +979,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -1011,8 +995,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4365516011.pdf",
@@ -2725,8 +2709,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -2746,8 +2730,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4309609812.pdf",
@@ -3835,20 +3819,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": false,
@@ -3861,8 +3834,7 @@
             {
               "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Kingdom of Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I134085113",
-                "https://openalex.org/I4210118538"
+                "https://openalex.org/I134085113"
               ]
             }
           ]
@@ -3887,20 +3859,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": false,
@@ -3913,8 +3874,7 @@
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Kingdom of Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I134085113",
-                "https://openalex.org/I4210118538"
+                "https://openalex.org/I134085113"
               ]
             }
           ]
@@ -3997,8 +3957,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 5,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [
         "https://openalex.org/A5018306569"
       ],
@@ -4011,11 +3971,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 6.8791,
+      "fwci": 6.8429,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.96313364,
+        "value": 0.96290823,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4322,8 +4282,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water"
         }
       ],
@@ -4365,8 +4325,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -5290,8 +5250,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -6831,8 +6791,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8399999737739563,
           "display_name": "Life below water"
         }
       ],
@@ -6860,8 +6820,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -8128,8 +8088,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.44999998807907104,
           "display_name": "Climate action"
         }
       ],
@@ -8144,8 +8104,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 126,
@@ -9002,8 +8962,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -9012,8 +8972,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -9595,8 +9555,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -10176,8 +10136,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -10729,8 +10689,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.47999998927116394,
           "display_name": "Life below water"
         }
       ],
@@ -10739,8 +10699,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11780,8 +11740,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -11790,8 +11750,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 93,
@@ -12528,8 +12488,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6600000262260437,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6600000262260437,
           "display_name": "Life below water"
         }
       ],
@@ -12675,8 +12635,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4324354736.pdf",
@@ -13942,8 +13902,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -14880,16 +14840,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210158665",
-              "display_name": "National Nuclear Energy Agency of Indonesia",
-              "ror": "https://ror.org/049j1tf72",
-              "country_code": "ID",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210158665"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4387154144",
               "display_name": "National Research and Innovation Agency",
               "ror": "https://ror.org/02hmjzt55",
@@ -14913,7 +14863,6 @@
             {
               "raw_affiliation_string": "National Research and Innovation Agency (BRIN), Indonesia",
               "institution_ids": [
-                "https://openalex.org/I4210158665",
                 "https://openalex.org/I4387154144"
               ]
             }
@@ -14939,16 +14888,6 @@
               "lineage": [
                 "https://openalex.org/I203765153"
               ]
-            },
-            {
-              "id": "https://openalex.org/I70999451",
-              "display_name": "Akita International University",
-              "ror": "https://ror.org/05qz4zw08",
-              "country_code": "JP",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I70999451"
-              ]
             }
           ],
           "countries": [
@@ -14964,8 +14903,7 @@
             {
               "raw_affiliation_string": "Graduate School of International Resource Sciences, Akita University, Japan",
               "institution_ids": [
-                "https://openalex.org/I203765153",
-                "https://openalex.org/I70999451"
+                "https://openalex.org/I203765153"
               ]
             }
           ]
@@ -15098,8 +15036,21 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4405258543",
+              "display_name": "Kementerian Energi dan Sumber Daya Mineral",
+              "ror": "https://ror.org/00w1baj53",
+              "country_code": "ID",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4405258543"
+              ]
+            }
+          ],
+          "countries": [
+            "ID"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Eriko Sabra",
           "raw_affiliation_strings": [
@@ -15109,14 +15060,16 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Geological Survey Center, Ministry of Energy and Mineral Resources, Indonesia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I4405258543"
+              ]
             }
           ]
         }
       ],
       "institutions": [],
       "countries_distinct_count": 5,
-      "institutions_distinct_count": 7,
+      "institutions_distinct_count": 6,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -15125,11 +15078,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.8677,
+      "fwci": 0.865,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.77424986,
+        "value": 0.77368191,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15586,8 +15539,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 119,
@@ -16345,8 +16298,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.581807553768158,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.581807553768158,
           "display_name": "Life below water"
         }
       ],
@@ -16416,8 +16369,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -17455,8 +17408,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/12",
+          "score": 0.4699999988079071,
           "display_name": "Responsible consumption and production"
         }
       ],
@@ -17465,8 +17418,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -18395,23 +18348,23 @@
           "author": {
             "id": "https://openalex.org/A5099029709",
             "display_name": "Moh Ardhi Afnan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I194343955",
-              "display_name": "Pertamina (Indonesia)",
-              "ror": "https://ror.org/002hgm057",
-              "country_code": "ID",
-              "type": "company",
+              "id": "https://openalex.org/I4387153834",
+              "display_name": "Universitas Pertamina",
+              "ror": "https://ror.org/0266sez77",
+              "country_code": null,
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I194343955"
+                "https://openalex.org/I194343955",
+                "https://openalex.org/I4387153834"
               ]
             }
           ],
-          "countries": [
-            "ID"
-          ],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Moh Ardhi Afnan",
           "raw_affiliation_strings": [
@@ -18422,7 +18375,7 @@
             {
               "raw_affiliation_string": "Geological Engineering, Universitas Pertamina, Jakarta, Indonesia",
               "institution_ids": [
-                "https://openalex.org/I194343955"
+                "https://openalex.org/I4387153834"
               ]
             }
           ]
@@ -18432,23 +18385,25 @@
           "author": {
             "id": "https://openalex.org/A5012518546",
             "display_name": "Harya Dwi Nugraha",
-            "orcid": "https://orcid.org/0000-0001-6099-7947"
+            "orcid": "https://orcid.org/0000-0001-6099-7947",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6099-7947"
+            ]
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I194343955",
-              "display_name": "Pertamina (Indonesia)",
-              "ror": "https://ror.org/002hgm057",
-              "country_code": "ID",
-              "type": "company",
+              "id": "https://openalex.org/I4387153834",
+              "display_name": "Universitas Pertamina",
+              "ror": "https://ror.org/0266sez77",
+              "country_code": null,
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I194343955"
+                "https://openalex.org/I194343955",
+                "https://openalex.org/I4387153834"
               ]
             }
           ],
-          "countries": [
-            "ID"
-          ],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Harya D. Nugraha",
           "raw_affiliation_strings": [
@@ -18459,7 +18414,7 @@
             {
               "raw_affiliation_string": "Geological Engineering, Universitas Pertamina, Jakarta, Indonesia",
               "institution_ids": [
-                "https://openalex.org/I194343955"
+                "https://openalex.org/I4387153834"
               ]
             }
           ]
@@ -18469,10 +18424,24 @@
           "author": {
             "id": "https://openalex.org/A5099029710",
             "display_name": "Syahreza S. Angkasa",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4387154144",
+              "display_name": "National Research and Innovation Agency",
+              "ror": "https://ror.org/02hmjzt55",
+              "country_code": "ID",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4387154144"
+              ]
+            }
+          ],
+          "countries": [
+            "ID"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Syahreza S. Angkasa",
           "raw_affiliation_strings": [
@@ -18482,7 +18451,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Department Research Center for Geological Resources National Research and Innovation Agency, Jakarta, Indonesia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I4387154144"
+              ]
             }
           ]
         },
@@ -18491,7 +18462,10 @@
           "author": {
             "id": "https://openalex.org/A5051302005",
             "display_name": "Adhipa Herlambang",
-            "orcid": "https://orcid.org/0000-0002-0583-7438"
+            "orcid": "https://orcid.org/0000-0002-0583-7438",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0583-7438"
+            ]
           },
           "institutions": [
             {
@@ -18528,7 +18502,10 @@
           "author": {
             "id": "https://openalex.org/A5059881838",
             "display_name": "Ardiansyah Koeshidayatullah",
-            "orcid": "https://orcid.org/0000-0001-7558-8783"
+            "orcid": "https://orcid.org/0000-0001-7558-8783",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7558-8783"
+            ]
           },
           "institutions": [
             {
@@ -18565,7 +18542,8 @@
           "author": {
             "id": "https://openalex.org/A5073427209",
             "display_name": "Emmy Suparka",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -18600,16 +18578,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.9793,
+      "fwci": 2.9699,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.87792536,
+        "value": 0.87713743,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18825,8 +18803,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -19564,8 +19542,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -19580,8 +19558,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -20782,8 +20760,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -20792,8 +20770,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21283,8 +21261,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.49000000953674316,
           "display_name": "Life below water"
         }
       ],
@@ -21293,8 +21271,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21373,20 +21351,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": false,
@@ -21399,8 +21366,7 @@
             {
               "raw_affiliation_string": "Center for Integrated Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, College of Petroleum Engineering & Geosciences, Dhahran, Saudi Arabia (adhipa.herlambang@kfupm.edu.sa)",
               "institution_ids": [
-                "https://openalex.org/I134085113",
-                "https://openalex.org/I4210118538"
+                "https://openalex.org/I134085113"
               ]
             }
           ]
@@ -21505,20 +21471,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": true,
@@ -21531,8 +21486,7 @@
             {
               "raw_affiliation_string": "Center for Integrated Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, College of Petroleum Engineering & Geosciences, Dhahran, Saudi Arabia (adhipa.herlambang@kfupm.edu.sa)",
               "institution_ids": [
-                "https://openalex.org/I134085113",
-                "https://openalex.org/I4210118538"
+                "https://openalex.org/I134085113"
               ]
             }
           ]
@@ -21558,20 +21512,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": false,
@@ -21584,8 +21527,7 @@
             {
               "raw_affiliation_string": "Center for Integrated Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, College of Petroleum Engineering & Geosciences, Dhahran, Saudi Arabia (adhipa.herlambang@kfupm.edu.sa)",
               "institution_ids": [
-                "https://openalex.org/I134085113",
-                "https://openalex.org/I4210118538"
+                "https://openalex.org/I134085113"
               ]
             }
           ]
@@ -21608,20 +21550,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": false,
@@ -21634,8 +21565,7 @@
             {
               "raw_affiliation_string": "Center for Integrated Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, College of Petroleum Engineering & Geosciences, Dhahran, Saudi Arabia (adhipa.herlambang@kfupm.edu.sa)",
               "institution_ids": [
-                "https://openalex.org/I134085113",
-                "https://openalex.org/I4210118538"
+                "https://openalex.org/I134085113"
               ]
             }
           ]
@@ -21698,20 +21628,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": false,
@@ -21725,8 +21644,7 @@
             {
               "raw_affiliation_string": "Center for Integrated Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, College of Petroleum Engineering & Geosciences, Dhahran, Saudi Arabia (adhipa.herlambang@kfupm.edu.sa)",
               "institution_ids": [
-                "https://openalex.org/I134085113",
-                "https://openalex.org/I4210118538"
+                "https://openalex.org/I134085113"
               ]
             },
             {
@@ -21739,14 +21657,13 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5027197211"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I134085113",
-        "https://openalex.org/I4210118538"
+        "https://openalex.org/I134085113"
       ],
       "apc_list": null,
       "apc_paid": null,
@@ -22006,8 +21923,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5600000023841858,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5600000023841858,
           "display_name": "Life below water"
         }
       ],
@@ -22016,8 +21933,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23445,8 +23362,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/11",
+          "score": 0.4399999976158142,
           "display_name": "Sustainable cities and communities"
         }
       ],
@@ -23455,8 +23372,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24013,8 +23930,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -24023,8 +23940,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25241,8 +25158,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -25251,8 +25168,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -26514,8 +26431,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -27913,8 +27830,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28663,8 +28580,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -28673,8 +28590,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -29561,16 +29478,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I194343955",
-              "display_name": "Pertamina (Indonesia)",
-              "ror": "https://ror.org/002hgm057",
-              "country_code": "ID",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I194343955"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4387153834",
               "display_name": "Universitas Pertamina",
               "ror": "https://ror.org/0266sez77",
@@ -29582,9 +29489,7 @@
               ]
             }
           ],
-          "countries": [
-            "ID"
-          ],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Harya Dwi Nugraha",
           "raw_affiliation_strings": [
@@ -29595,7 +29500,6 @@
             {
               "raw_affiliation_string": "Universitas Pertamina",
               "institution_ids": [
-                "https://openalex.org/I194343955",
                 "https://openalex.org/I4387153834"
               ]
             }
@@ -29684,8 +29588,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5052902848"
       ],
@@ -29962,8 +29866,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30494,8 +30398,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -31679,8 +31583,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -33084,8 +32988,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415698517.pdf",
@@ -34318,8 +34222,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 114,
@@ -35149,8 +35053,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -36627,8 +36531,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8341094851493835,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8341094851493835,
           "display_name": "Life below water"
         }
       ],
@@ -36643,8 +36547,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -37013,8 +36917,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5144200177",
-            "display_name": "Ramon Salas",
+            "id": "https://openalex.org/A5106181757",
+            "display_name": "R. Salas",
             "orcid": "https://orcid.org/0000-0002-9509-5473",
             "observed_orcids": [
               "https://orcid.org/0000-0002-9509-5473"
@@ -37149,7 +37053,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.86782861,
+        "value": 0.86700581,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37485,8 +37389,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.866797149181366,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.866797149181366,
           "display_name": "Life below water"
         }
       ],
@@ -37495,8 +37399,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38583,8 +38487,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8418399691581726,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8418399691581726,
           "display_name": "Life below water"
         }
       ],
@@ -38631,8 +38535,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 140,

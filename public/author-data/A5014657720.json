@@ -72,21 +72,6 @@
       },
       {
         "institution": {
-          "id": "https://openalex.org/I4210118538",
-          "ror": "https://ror.org/02em1tr51",
-          "display_name": "University of Petroleum",
-          "country_code": "ID",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I4210118538"
-          ]
-        },
-        "years": [
-          2023
-        ]
-      },
-      {
-        "institution": {
           "id": "https://openalex.org/I49324905",
           "ror": "https://ror.org/017mte255",
           "display_name": "Equinor (Norway)",
@@ -221,7 +206,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0001089,
+        "value": 0.0001091,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -238,7 +223,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.000092,
+        "value": 0.0000927,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -255,7 +240,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000764,
+        "value": 0.0000766,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -272,7 +257,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.000073,
+        "value": 0.0000733,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -289,7 +274,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000683,
+        "value": 0.0000684,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -411,7 +396,7 @@
     ],
     "block_key": "a bello",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5014657720",
-    "updated_date": "2026-09-25T12:19:18",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2023-12-06T00:00:00"
   },
   "works": [
@@ -1120,8 +1105,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -2051,8 +2036,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -2883,8 +2868,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "x_sdgs": [],
@@ -4433,8 +4418,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -5873,8 +5858,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -6250,16 +6235,6 @@
               "lineage": [
                 "https://openalex.org/I4405254986"
               ]
-            },
-            {
-              "id": "https://openalex.org/I876237426",
-              "display_name": "Gombe State University",
-              "ror": "https://ror.org/04fbh1w34",
-              "country_code": "NG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I876237426"
-              ]
             }
           ],
           "countries": [
@@ -6275,8 +6250,7 @@
             {
               "raw_affiliation_string": "3 Department of Chemical Sciences, Faculty of Science and Computing, North-Eastern University, Gombe, Gombe State, Nigeria",
               "institution_ids": [
-                "https://openalex.org/I4405254986",
-                "https://openalex.org/I876237426"
+                "https://openalex.org/I4405254986"
               ]
             }
           ]
@@ -6331,16 +6305,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.4521,
+      "fwci": 3.414,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.93392884,
+        "value": 0.93309449,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9182,10 +9156,12 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5073415508",
-            "display_name": "Adamu Kimayim",
-            "orcid": null,
-            "observed_orcids": []
+            "id": "https://openalex.org/A5106908772",
+            "display_name": "Adamu Kimayim Gaduwang",
+            "orcid": "https://orcid.org/0009-0009-8749-785X",
+            "observed_orcids": [
+              "https://orcid.org/0009-0009-8749-785X"
+            ]
           },
           "institutions": [
             {
@@ -9233,11 +9209,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 3.4536,
+      "fwci": 3.4478,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.93970554,
+        "value": 0.93960744,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10014,17 +9990,6 @@
               "lineage": [
                 "https://openalex.org/I126596746"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210128123",
-              "display_name": "Instytut Nauk Geologicznych",
-              "ror": "https://ror.org/02yxxe041",
-              "country_code": "PL",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210128123",
-                "https://openalex.org/I99542240"
-              ]
             }
           ],
           "countries": [
@@ -10040,8 +10005,7 @@
             {
               "raw_affiliation_string": "Faculty of Geography and Geology, Institute of Geological Sciences, Jagiellonian University, Gronostajowa 3a, 30-387, Kraków, Poland",
               "institution_ids": [
-                "https://openalex.org/I126596746",
-                "https://openalex.org/I4210128123"
+                "https://openalex.org/I126596746"
               ]
             }
           ]
@@ -10049,14 +10013,13 @@
       ],
       "institutions": [],
       "countries_distinct_count": 3,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [
         "https://openalex.org/A5039797710",
         "https://openalex.org/A5053928031"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I126596746",
-        "https://openalex.org/I4210128123",
         "https://openalex.org/I59225215"
       ],
       "apc_list": {
@@ -10065,11 +10028,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 4.3255,
+      "fwci": 4.2915,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.96098145,
+        "value": 0.96055862,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10510,8 +10473,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6100000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -11354,8 +11317,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -12773,8 +12736,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "x_sdgs": [],
@@ -13874,8 +13837,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -14152,21 +14115,8 @@
               "https://orcid.org/0000-0003-0120-1472"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210155608",
-              "display_name": "GeneFluidics (United States)",
-              "ror": "https://ror.org/04dv5rj21",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210155608"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Stephen G. Franks",
           "raw_affiliation_strings": [
@@ -14176,9 +14126,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "RockFluid Systems, Inc., McKinney, TX, United States",
-              "institution_ids": [
-                "https://openalex.org/I4210155608"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -14359,8 +14307,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5085007251"
       ],
@@ -14373,11 +14321,11 @@
         "value_usd": 3430
       },
       "apc_paid": null,
-      "fwci": 2.8837,
+      "fwci": 2.861,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.91666879,
+        "value": 0.91574586,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14695,8 +14643,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -15811,8 +15759,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -16798,8 +16746,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -18137,8 +18085,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -19710,8 +19658,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -23225,8 +23173,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -24849,8 +24797,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -29315,8 +29263,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "x_sdgs": [],
@@ -31906,8 +31854,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -33613,21 +33561,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I3129379329",
-              "display_name": "Sokoto State University",
-              "ror": "https://ror.org/00zgr4s34",
-              "country_code": "NG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I3129379329"
-              ]
-            }
-          ],
-          "countries": [
-            "NG"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Mohammed Bashir Sulaiman",
           "raw_affiliation_strings": [
@@ -33637,9 +33572,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Chemistry, Northwest University, Sokoto, Sokoto State, Nigeria",
-              "institution_ids": [
-                "https://openalex.org/I3129379329"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -33852,7 +33785,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 4,
-      "institutions_distinct_count": 8,
+      "institutions_distinct_count": 7,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [
         "https://openalex.org/I139322472"
@@ -33867,11 +33800,11 @@
         "currency": "USD",
         "value_usd": 2100
       },
-      "fwci": 2.0728,
+      "fwci": 2.0526,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.86373626,
+        "value": 0.86254485,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34262,8 +34195,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5400000214576721,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -37903,8 +37836,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -38788,8 +38721,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -39283,21 +39216,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I876237426",
-              "display_name": "Gombe State University",
-              "ror": "https://ror.org/04fbh1w34",
-              "country_code": "NG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I876237426"
-              ]
-            }
-          ],
-          "countries": [
-            "NG"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "I.O. Justus",
           "raw_affiliation_strings": [
@@ -39307,9 +39227,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Zircon Investment Limited, Doma Plaza, Biu road, Gombe, Gombe state Nigeria",
-              "institution_ids": [
-                "https://openalex.org/I876237426"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -39321,21 +39239,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I161374704",
-              "display_name": "University of Jos",
-              "ror": "https://ror.org/009kx9832",
-              "country_code": "NG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I161374704"
-              ]
-            }
-          ],
-          "countries": [
-            "NG"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "A.M. Sadiq",
           "raw_affiliation_strings": [
@@ -39345,9 +39250,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Mecon Geology and Engineering Services ltd, Jos, Plateau state Nigeria",
-              "institution_ids": [
-                "https://openalex.org/I161374704"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -39361,21 +39264,8 @@
               "https://orcid.org/0000-0003-0721-4805"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I876237426",
-              "display_name": "Gombe State University",
-              "ror": "https://ror.org/04fbh1w34",
-              "country_code": "NG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I876237426"
-              ]
-            }
-          ],
-          "countries": [
-            "NG"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "M.A. Umar",
           "raw_affiliation_strings": [
@@ -39385,16 +39275,14 @@
           "affiliations": [
             {
               "raw_affiliation_string": "National Identity Management Commission, Gombe field office, Gombe state Nigeria",
-              "institution_ids": [
-                "https://openalex.org/I876237426"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [
         "https://openalex.org/A5011287395"
       ],
@@ -39411,16 +39299,16 @@
         "currency": "USD",
         "value_usd": 1030
       },
-      "fwci": 1.5431,
+      "fwci": 1.5373,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.79931836,
+        "value": 0.79850612,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 98
       },
       "biblio": {
@@ -39807,8 +39695,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "x_sdgs": [],
@@ -42106,8 +41994,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -42777,8 +42665,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "x_sdgs": [],
@@ -44117,8 +44005,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -47181,8 +47069,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -47940,8 +47828,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -49473,8 +49361,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "x_sdgs": [],
@@ -50640,8 +50528,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7900000214576721,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "x_sdgs": [],
@@ -51603,8 +51491,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "x_sdgs": [],
@@ -53173,8 +53061,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "x_sdgs": [],
@@ -53914,7 +53802,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Environmental Management and Toxicology , Federal University Dutse , Dutse , Nigeria",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I4387156178"
+              ]
             },
             {
               "raw_affiliation_string": "Department of Environmental Management and Toxicology, Federal University Dutse, Dutse, Nigeria",
@@ -54024,21 +53914,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60470151",
-              "display_name": "Modibbo Adama University of Technology",
-              "ror": "https://ror.org/015dhe595",
-              "country_code": "NG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60470151"
-              ]
-            }
-          ],
-          "countries": [
-            "NG"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Ahmed Buba Seli",
           "raw_affiliation_strings": [
@@ -54049,15 +53926,11 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Departmentof Civil Engineering , Adamawa State Polytechnic , Yola , Nigeria",
-              "institution_ids": [
-                "https://openalex.org/I60470151"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Departmentof Civil Engineering, Adamawa State Polytechnic, Yola, Nigeria",
-              "institution_ids": [
-                "https://openalex.org/I60470151"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -54285,7 +54158,7 @@
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.09020079,
+        "value": 0.09131838,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -54586,8 +54459,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6399999856948853,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "x_sdgs": [],
@@ -55706,8 +55579,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -57029,8 +56902,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8751643896102905,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -57609,8 +57482,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "x_sdgs": [],
@@ -57747,16 +57620,6 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210163172",
-              "display_name": "Environmental Earth Sciences",
-              "ror": "https://ror.org/04rnwed46",
-              "country_code": "AU",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I4210163172"
-              ]
-            },
-            {
               "id": "https://openalex.org/I55202024",
               "display_name": "Usmanu Danfodiyo University",
               "ror": "https://ror.org/006er0w72",
@@ -57768,7 +57631,6 @@
             }
           ],
           "countries": [
-            "AU",
             "GB",
             "NG"
           ],
@@ -57791,8 +57653,7 @@
             {
               "raw_affiliation_string": "School of Earth and Environmental Science , University of Manchester , UK",
               "institution_ids": [
-                "https://openalex.org/I28407311",
-                "https://openalex.org/I4210163172"
+                "https://openalex.org/I28407311"
               ]
             },
             {
@@ -57827,20 +57688,9 @@
               "lineage": [
                 "https://openalex.org/I28407311"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210163172",
-              "display_name": "Environmental Earth Sciences",
-              "ror": "https://ror.org/04rnwed46",
-              "country_code": "AU",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I4210163172"
-              ]
             }
           ],
           "countries": [
-            "AU",
             "GB"
           ],
           "is_corresponding": false,
@@ -57854,8 +57704,7 @@
             {
               "raw_affiliation_string": "School of Earth and Environmental Science , University of Manchester , UK",
               "institution_ids": [
-                "https://openalex.org/I28407311",
-                "https://openalex.org/I4210163172"
+                "https://openalex.org/I28407311"
               ]
             },
             {
@@ -57869,26 +57718,15 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5012046680",
-            "display_name": "J.O. Ojero",
-            "orcid": null,
-            "observed_orcids": []
+            "id": "https://openalex.org/A5038754162",
+            "display_name": "Jude Oghenerurie Ojero",
+            "orcid": "https://orcid.org/0000-0002-3264-448X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3264-448X"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210161311",
-              "display_name": "Soroti University",
-              "ror": "https://ror.org/05xkxz718",
-              "country_code": "UG",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210161311"
-              ]
-            }
-          ],
-          "countries": [
-            "UG"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "J.O. Ojero",
           "raw_affiliation_strings": [
@@ -57903,9 +57741,7 @@
             },
             {
               "raw_affiliation_string": "Department of Geography Shehu Shagari College of Education, Sokoto",
-              "institution_ids": [
-                "https://openalex.org/I4210161311"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -58069,8 +57905,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 4,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -58079,7 +57915,7 @@
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.07269522,
+        "value": 0.07158364,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -59079,14 +58915,13 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210153400",
-              "display_name": "King's College Hospital",
-              "ror": "https://ror.org/044nptt90",
-              "country_code": "GB",
-              "type": "healthcare",
+              "id": "https://openalex.org/I4405280871",
+              "display_name": "African Regional Centre for Space Science and Technology Education in English",
+              "ror": "https://ror.org/03hpx0h32",
+              "country_code": "NG",
+              "type": "government",
               "lineage": [
-                "https://openalex.org/I4210111135",
-                "https://openalex.org/I4210153400"
+                "https://openalex.org/I4405280871"
               ]
             },
             {
@@ -59116,6 +58951,7 @@
             {
               "raw_affiliation_string": "African Regional Centre for Space Science and Technology Education in English, Obafemi Awolowo University, Ile-Ife 220103, Osun State, Nigeria",
               "institution_ids": [
+                "https://openalex.org/I4405280871",
                 "https://openalex.org/I45711476"
               ]
             },
@@ -59128,8 +58964,7 @@
             {
               "raw_affiliation_string": "University of Aberdeen, King’s College, Aberdeen AB24 3FX, United Kingdom",
               "institution_ids": [
-                "https://openalex.org/I195460627",
-                "https://openalex.org/I4210153400"
+                "https://openalex.org/I195460627"
               ]
             }
           ]
@@ -59154,14 +58989,13 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210153400",
-              "display_name": "King's College Hospital",
-              "ror": "https://ror.org/044nptt90",
-              "country_code": "GB",
-              "type": "healthcare",
+              "id": "https://openalex.org/I4405280871",
+              "display_name": "African Regional Centre for Space Science and Technology Education in English",
+              "ror": "https://ror.org/03hpx0h32",
+              "country_code": "NG",
+              "type": "government",
               "lineage": [
-                "https://openalex.org/I4210111135",
-                "https://openalex.org/I4210153400"
+                "https://openalex.org/I4405280871"
               ]
             },
             {
@@ -59190,14 +59024,14 @@
             {
               "raw_affiliation_string": "African Regional Centre for Space Science and Technology Education in English, Obafemi Awolowo University, Ile-Ife 220103, Osun State, Nigeria",
               "institution_ids": [
+                "https://openalex.org/I4405280871",
                 "https://openalex.org/I45711476"
               ]
             },
             {
               "raw_affiliation_string": "University of Aberdeen, King’s College, Aberdeen AB24 3FX, United Kingdom",
               "institution_ids": [
-                "https://openalex.org/I195460627",
-                "https://openalex.org/I4210153400"
+                "https://openalex.org/I195460627"
               ]
             }
           ]
@@ -59516,16 +59350,16 @@
         "value_usd": 3270
       },
       "apc_paid": null,
-      "fwci": 0.4971,
+      "fwci": 0.4891,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.51657887,
+        "value": 0.51218162,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 94
       },
       "biblio": {
@@ -60565,8 +60399,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -61798,8 +61632,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -62243,8 +62077,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -62935,8 +62769,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -63453,8 +63287,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -64073,8 +63907,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "x_sdgs": [],
@@ -64214,20 +64048,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": false,
@@ -64240,8 +64063,7 @@
             {
               "raw_affiliation_string": "Center for Integrated Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, College of Petroleum Engineering & Geosciences, Dhahran, Saudi Arabia (adhipa.herlambang@kfupm.edu.sa)",
               "institution_ids": [
-                "https://openalex.org/I134085113",
-                "https://openalex.org/I4210118538"
+                "https://openalex.org/I134085113"
               ]
             }
           ]
@@ -64346,20 +64168,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": true,
@@ -64372,8 +64183,7 @@
             {
               "raw_affiliation_string": "Center for Integrated Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, College of Petroleum Engineering & Geosciences, Dhahran, Saudi Arabia (adhipa.herlambang@kfupm.edu.sa)",
               "institution_ids": [
-                "https://openalex.org/I134085113",
-                "https://openalex.org/I4210118538"
+                "https://openalex.org/I134085113"
               ]
             }
           ]
@@ -64399,20 +64209,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": false,
@@ -64425,8 +64224,7 @@
             {
               "raw_affiliation_string": "Center for Integrated Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, College of Petroleum Engineering & Geosciences, Dhahran, Saudi Arabia (adhipa.herlambang@kfupm.edu.sa)",
               "institution_ids": [
-                "https://openalex.org/I134085113",
-                "https://openalex.org/I4210118538"
+                "https://openalex.org/I134085113"
               ]
             }
           ]
@@ -64449,20 +64247,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": false,
@@ -64475,8 +64262,7 @@
             {
               "raw_affiliation_string": "Center for Integrated Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, College of Petroleum Engineering & Geosciences, Dhahran, Saudi Arabia (adhipa.herlambang@kfupm.edu.sa)",
               "institution_ids": [
-                "https://openalex.org/I134085113",
-                "https://openalex.org/I4210118538"
+                "https://openalex.org/I134085113"
               ]
             }
           ]
@@ -64539,20 +64325,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": false,
@@ -64566,8 +64341,7 @@
             {
               "raw_affiliation_string": "Center for Integrated Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, College of Petroleum Engineering & Geosciences, Dhahran, Saudi Arabia (adhipa.herlambang@kfupm.edu.sa)",
               "institution_ids": [
-                "https://openalex.org/I134085113",
-                "https://openalex.org/I4210118538"
+                "https://openalex.org/I134085113"
               ]
             },
             {
@@ -64580,14 +64354,13 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5027197211"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I134085113",
-        "https://openalex.org/I4210118538"
+        "https://openalex.org/I134085113"
       ],
       "apc_list": null,
       "apc_paid": null,
@@ -64848,8 +64621,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5600000023841858,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -66887,8 +66660,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "x_sdgs": [],
@@ -67455,8 +67228,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -68857,8 +68630,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -71084,8 +70857,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5982216000556946,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -71879,8 +71652,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8707032203674316,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -73975,21 +73748,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I102254642",
-              "display_name": "University of Kirkuk",
-              "ror": "https://ror.org/01pk8rb11",
-              "country_code": "IQ",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I102254642"
-              ]
-            }
-          ],
-          "countries": [
-            "IQ"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": true,
           "raw_author_name": "Ali I. Al-Juboury",
           "raw_affiliation_strings": [
@@ -73999,9 +73759,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Petroleum Engineering Department, College of Engineering, Al-Kitab University, Kirkuk, Iraq",
-              "institution_ids": [
-                "https://openalex.org/I102254642"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -74246,8 +74004,8 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5135099300",
-            "display_name": "Fathy Abdalla",
+            "id": "https://openalex.org/A5023182220",
+            "display_name": "Fathy Ahmed Abdalla",
             "orcid": "https://orcid.org/0000-0002-1020-3261",
             "observed_orcids": [
               "https://orcid.org/0000-0002-1020-3261"
@@ -74286,14 +74044,13 @@
       ],
       "institutions": [],
       "countries_distinct_count": 4,
-      "institutions_distinct_count": 8,
+      "institutions_distinct_count": 7,
       "corresponding_author_ids": [
+        "https://openalex.org/A5023182220",
         "https://openalex.org/A5130574026",
-        "https://openalex.org/A5135099300",
         "https://openalex.org/A5150709193"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I102254642",
         "https://openalex.org/I28022161",
         "https://openalex.org/I2802497816"
       ],
@@ -74307,7 +74064,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.79855314,
+        "value": 0.78886439,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -74634,7 +74391,7 @@
       "title": "Hydrothermal alteration of volcaniclastic sediments: experimental insights into smectite authigenesis and its subsequent chloritization",
       "display_name": "Hydrothermal alteration of volcaniclastic sediments: experimental insights into smectite authigenesis and its subsequent chloritization",
       "publication_year": 2026,
-      "publication_date": "2026-09-01",
+      "publication_date": "2026-09-24",
       "ids": {
         "openalex": "https://openalex.org/W7214226277",
         "doi": "https://doi.org/10.1016/j.chemgeo.2026.123729"
@@ -74798,13 +74555,13 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.77265799,
+        "value": 0.76755703,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": null,
       "biblio": {
-        "volume": null,
+        "volume": "725",
         "issue": null,
         "first_page": "123729",
         "last_page": "123729"
@@ -75035,8 +74792,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4896319806575775,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],

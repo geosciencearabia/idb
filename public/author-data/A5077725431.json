@@ -16,7 +16,7 @@
     ],
     "full_name": "ZIAD RAFIQ BEYDOUN",
     "works_count": 55,
-    "cited_by_count": 2210,
+    "cited_by_count": 2211,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 24,
@@ -30,48 +30,19 @@
     "affiliations": [
       {
         "institution": {
-          "id": "https://openalex.org/I1286329397",
-          "ror": "https://ror.org/035a68863",
-          "display_name": "United States Geological Survey",
+          "id": "https://openalex.org/I1334329717",
+          "ror": "https://ror.org/00ae7jd04",
+          "display_name": "World Bank",
           "country_code": "US",
-          "type": "government",
-          "lineage": [
-            "https://openalex.org/I1286329397",
-            "https://openalex.org/I1335927249"
-          ]
-        },
-        "years": [
-          1966
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I22590746",
-          "ror": "https://ror.org/04sm3yz09",
-          "display_name": "Marathon Oil (United States)",
-          "country_code": "US",
-          "type": "company",
-          "lineage": [
-            "https://openalex.org/I22590746"
-          ]
-        },
-        "years": [
-          1991
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I2799486974",
-          "ror": "https://ror.org/04wtq2305",
-          "display_name": "China Geological Survey",
-          "country_code": "CN",
           "type": "other",
           "lineage": [
-            "https://openalex.org/I2799486974"
+            "https://openalex.org/I1334329717",
+            "https://openalex.org/I55633929"
           ]
         },
         "years": [
-          1966
+          1992,
+          1989
         ]
       },
       {
@@ -208,7 +179,7 @@
       {
         "id": "https://openalex.org/T13335",
         "display_name": "Pharmacological Effects of Medicinal Plants",
-        "value": 0.0000749,
+        "value": 0.000075,
         "subfield": {
           "id": "https://openalex.org/subfields/2736",
           "display_name": "Pharmacology"
@@ -225,7 +196,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000701,
+        "value": 0.0000706,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -242,7 +213,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000515,
+        "value": 0.0000517,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -259,7 +230,7 @@
       {
         "id": "https://openalex.org/T14047",
         "display_name": "Marine and environmental studies",
-        "value": 0.0000361,
+        "value": 0.0000362,
         "subfield": {
           "id": "https://openalex.org/subfields/1910",
           "display_name": "Oceanography"
@@ -276,7 +247,7 @@
       {
         "id": "https://openalex.org/T13193",
         "display_name": "Geological Studies and Exploration",
-        "value": 0.000033,
+        "value": 0.0000331,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -358,7 +329,7 @@
         "year": 1977,
         "works_count": 3,
         "oa_works_count": 0,
-        "cited_by_count": 118
+        "cited_by_count": 119
       },
       {
         "year": 1980,
@@ -469,7 +440,7 @@
     ],
     "block_key": "z beydoun",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5077725431",
-    "updated_date": "2026-09-26T12:32:56",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -893,9 +864,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -903,8 +874,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -1978,9 +1949,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137,
-          "display_name": "Life below water"
+          "score": 0.7699999809265137
         }
       ],
       "x_sdgs": [],
@@ -1988,8 +1959,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -2519,8 +2490,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -2670,6 +2641,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
               "ror": "https://ror.org/035n7q728",
@@ -2682,6 +2663,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -2694,11 +2676,15 @@
           "affiliations": [
             {
               "raw_affiliation_string": "*Simon-Robertson, Llandudno, Gwynedd, LL30 ISA, Wales, UK. Present address: Saudi Aramco, Research and Development Divison, PO Box 5000, Dharan 31311. Saudi Arbaia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             },
             {
               "raw_affiliation_string": "*Simon‐Robertson, Llandudno, Gwynedd, LL30 ISA, Wales, UK. Present address: Saudi Aramco, Research and Development Divison, PO Box 5000, Dharan 31311. Saudi Arbaia",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -2744,8 +2730,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -2754,11 +2740,11 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 2.6829,
+      "fwci": 2.6743,
       "has_fulltext": false,
       "cited_by_count": 106,
       "citation_normalized_percentile": {
-        "value": 0.89239598,
+        "value": 0.89203455,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3003,9 +2989,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -3019,8 +3005,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -3768,23 +3754,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
-            "orcid": "https://orcid.org/0000-0002-7791-5677"
+            "orcid": "https://orcid.org/0000-0002-7791-5677",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7791-5677"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210152914",
-              "display_name": "The Robertson Trust",
-              "ror": "https://ror.org/04n5yc113",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210152914"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "G.Wyn Hughes",
           "raw_affiliation_strings": [
@@ -3794,9 +3770,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Robertson Group, Llandudno, Gwynedd LL30 1SA, UK",
-              "institution_ids": [
-                "https://openalex.org/I4210152914"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -3805,23 +3779,11 @@
           "author": {
             "id": "https://openalex.org/A5113144946",
             "display_name": "Osman Varol",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210152914",
-              "display_name": "The Robertson Trust",
-              "ror": "https://ror.org/04n5yc113",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210152914"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Osman Varol",
           "raw_affiliation_strings": [
@@ -3831,9 +3793,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Robertson Group, Llandudno, Gwynedd LL30 1SA, UK",
-              "institution_ids": [
-                "https://openalex.org/I4210152914"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -3842,7 +3802,8 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -3876,8 +3837,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -3886,16 +3847,16 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 7.7155,
+      "fwci": 7.6177,
       "has_fulltext": false,
       "cited_by_count": 96,
       "citation_normalized_percentile": {
-        "value": 0.96614452,
+        "value": 0.96567623,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -4099,9 +4060,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "score": 0.8600000143051147
         }
       ],
       "x_sdgs": [],
@@ -4115,8 +4076,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -4652,9 +4613,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "score": 0.8700000047683716
         }
       ],
       "x_sdgs": [],
@@ -4662,8 +4623,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -5279,6 +5240,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/P4310319748",
           "host_organization_name": "EDP Sciences",
           "host_organization_lineage": [
@@ -5316,7 +5278,8 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -5360,24 +5323,11 @@
           "author": {
             "id": "https://openalex.org/A5006212698",
             "display_name": "M. L. As-Saruri",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "M. L. As-Saruri",
           "raw_affiliation_strings": [
@@ -5387,9 +5337,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Geological Survey & Mineral Exploration Board",
-              "institution_ids": [
-                "https://openalex.org/I1286329397"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -5398,9 +5346,21 @@
           "author": {
             "id": "https://openalex.org/A5069639715",
             "display_name": "Rasheed Baraba",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4387153782",
+              "display_name": "Ministry of Oil",
+              "ror": "https://ror.org/02qer1j03",
+              "country_code": null,
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4387153782"
+              ]
+            }
+          ],
           "countries": [],
           "is_corresponding": false,
           "raw_author_name": "R. S. Baraba",
@@ -5411,28 +5371,30 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Ministry of Oil and Mineral Resources",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I4387153782"
+              ]
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
+      "countries_distinct_count": 1,
       "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6303,
+      "fwci": 0.6351,
       "has_fulltext": false,
       "cited_by_count": 86,
       "citation_normalized_percentile": {
-        "value": 0.66011356,
+        "value": 0.66236911,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 99
       },
       "biblio": {
@@ -5630,6 +5592,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/P4310319748",
             "host_organization_name": "EDP Sciences",
             "host_organization_lineage": [
@@ -5663,6 +5626,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -5691,6 +5655,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -5707,9 +5672,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -5717,8 +5682,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6793,9 +6758,21 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I1334329717",
+              "display_name": "World Bank",
+              "ror": "https://ror.org/00ae7jd04",
+              "country_code": "US",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I1334329717",
+                "https://openalex.org/I55633929"
+              ]
+            },
             {
               "id": "https://openalex.org/I98635879",
               "display_name": "American University of Beirut",
@@ -6808,7 +6785,8 @@
             }
           ],
           "countries": [
-            "LB"
+            "LB",
+            "US"
           ],
           "is_corresponding": true,
           "raw_author_name": "Z. R. BEYDOUN",
@@ -6821,6 +6799,7 @@
             {
               "raw_affiliation_string": "*Scientific Director, UNDP/World Bank Red Sea-Gulf of Aden Regional Hydrocarbon Project, Department of Geology, American University of Beirut, Lebanon",
               "institution_ids": [
+                "https://openalex.org/I1334329717",
                 "https://openalex.org/I98635879"
               ]
             },
@@ -6832,12 +6811,13 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5077725431"
       ],
       "corresponding_institution_ids": [
+        "https://openalex.org/I1334329717",
         "https://openalex.org/I98635879"
       ],
       "apc_list": {
@@ -6846,11 +6826,11 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 8.4794,
+      "fwci": 8.4519,
       "has_fulltext": false,
       "cited_by_count": 78,
       "citation_normalized_percentile": {
-        "value": 0.98183286,
+        "value": 0.98176218,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7174,9 +7154,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -7190,8 +7170,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -8644,9 +8624,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6299999952316284,
-          "display_name": "Life below water"
+          "score": 0.6299999952316284
         }
       ],
       "x_sdgs": [],
@@ -8654,8 +8634,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9358,9 +9338,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Decent work and economic growth",
           "id": "https://metadata.un.org/sdg/8",
-          "score": 0.46000000834465027,
-          "display_name": "Decent work and economic growth"
+          "score": 0.46000000834465027
         }
       ],
       "x_sdgs": [],
@@ -9374,8 +9354,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2973294836.pdf",
@@ -10405,9 +10385,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6899999976158142,
-          "display_name": "Life below water"
+          "score": 0.6899999976158142
         }
       ],
       "x_sdgs": [],
@@ -10415,8 +10395,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -11538,9 +11518,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -11548,8 +11528,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12452,11 +12432,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9365,
+      "fwci": 1.9337,
       "has_fulltext": false,
-      "cited_by_count": 60,
+      "cited_by_count": 61,
       "citation_normalized_percentile": {
-        "value": 0.87217542,
+        "value": 0.87192184,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12666,9 +12646,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -12676,8 +12656,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -13341,7 +13321,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2022,
@@ -13835,9 +13815,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "score": 0.8399999737739563
         }
       ],
       "x_sdgs": [],
@@ -13851,8 +13831,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -14427,9 +14407,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -14443,8 +14423,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -14929,9 +14909,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929,
-          "display_name": "Life below water"
+          "score": 0.800000011920929
         }
       ],
       "x_sdgs": [],
@@ -14939,8 +14919,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -15821,10 +15801,24 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98635879",
+              "display_name": "American University of Beirut",
+              "ror": "https://ror.org/04pznsd21",
+              "country_code": "LB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98635879"
+              ]
+            }
+          ],
+          "countries": [
+            "LB"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Z.R. Beydoun",
           "raw_affiliation_strings": [
@@ -15834,7 +15828,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "American University of Beiruf, Lebanon, and Marathon International Petroleum (GB) Ltd, 174 Marylebone Road, London NW1 5AT, UK",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I98635879"
+              ]
             }
           ]
         },
@@ -15843,7 +15839,8 @@
           "author": {
             "id": "https://openalex.org/A5013074507",
             "display_name": "M.O. Bamahmoud",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -15865,7 +15862,8 @@
           "author": {
             "id": "https://openalex.org/A5088399875",
             "display_name": "A.S.O. Nani",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -15884,8 +15882,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -15894,16 +15892,16 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 2.4629,
+      "fwci": 2.4602,
       "has_fulltext": false,
       "cited_by_count": 41,
       "citation_normalized_percentile": {
-        "value": 0.8659307,
+        "value": 0.86547715,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 98
       },
       "biblio": {
@@ -16167,9 +16165,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -16177,8 +16175,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -16710,9 +16708,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6399999856948853,
-          "display_name": "Life below water"
+          "score": 0.6399999856948853
         }
       ],
       "x_sdgs": [],
@@ -16720,8 +16718,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -18273,9 +18271,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -18283,8 +18281,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -18695,8 +18693,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19146,8 +19144,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -19747,9 +19745,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "score": 0.8500000238418579
         }
       ],
       "x_sdgs": [],
@@ -19763,8 +19761,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -20474,8 +20472,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21033,9 +21031,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -21043,8 +21041,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -22430,9 +22428,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721,
-          "display_name": "Life below water"
+          "score": 0.7900000214576721
         }
       ],
       "x_sdgs": [],
@@ -22440,8 +22438,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 97,
@@ -23004,9 +23002,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.699999988079071,
-          "display_name": "Life below water"
+          "score": 0.699999988079071
         }
       ],
       "x_sdgs": [],
@@ -23014,8 +23012,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -23949,8 +23947,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24262,8 +24260,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24619,9 +24617,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6700000166893005,
-          "display_name": "Climate action"
+          "score": 0.6700000166893005
         }
       ],
       "x_sdgs": [],
@@ -24629,8 +24627,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24999,8 +24997,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25444,9 +25442,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426,
-          "display_name": "Life below water"
+          "score": 0.8199999928474426
         }
       ],
       "x_sdgs": [],
@@ -25454,8 +25452,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -26170,19 +26168,10 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I22590746",
-              "display_name": "Marathon Oil (United States)",
-              "ror": "https://ror.org/04sm3yz09",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I22590746"
-              ]
-            },
             {
               "id": "https://openalex.org/I98635879",
               "display_name": "American University of Beirut",
@@ -26195,8 +26184,7 @@
             }
           ],
           "countries": [
-            "LB",
-            "US"
+            "LB"
           ],
           "is_corresponding": true,
           "raw_author_name": "Z. R. Beydoun",
@@ -26208,7 +26196,6 @@
             {
               "raw_affiliation_string": "*American University of Beirut. and Marathon International Petroleum (GB) Ltd., London",
               "institution_ids": [
-                "https://openalex.org/I22590746",
                 "https://openalex.org/I98635879"
               ]
             }
@@ -26216,13 +26203,12 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5077725431"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I22590746",
         "https://openalex.org/I98635879"
       ],
       "apc_list": {
@@ -26235,12 +26221,12 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.09714732,
+        "value": 0.0973748,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 94
       },
       "biblio": {
@@ -26520,8 +26506,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -26981,9 +26967,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -26991,8 +26977,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -27905,9 +27891,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8100000023841858,
-          "display_name": "Life below water"
+          "score": 0.8100000023841858
         }
       ],
       "x_sdgs": [],
@@ -27915,8 +27901,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28136,8 +28122,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28469,8 +28455,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28563,35 +28549,11 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286329397",
-              "display_name": "United States Geological Survey",
-              "ror": "https://ror.org/035a68863",
-              "country_code": "US",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I1335927249"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799486974",
-              "display_name": "China Geological Survey",
-              "ror": "https://ror.org/04wtq2305",
-              "country_code": "CN",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I2799486974"
-              ]
-            }
-          ],
-          "countries": [
-            "CN",
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": true,
           "raw_author_name": "Z.R. Beydoun",
           "raw_affiliation_strings": [
@@ -28606,24 +28568,18 @@
             },
             {
               "raw_affiliation_string": "Foreign Geology Branch, . Geological Survey",
-              "institution_ids": [
-                "https://openalex.org/I1286329397",
-                "https://openalex.org/I2799486974"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5077725431"
       ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I1286329397",
-        "https://openalex.org/I2799486974"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": null,
@@ -28918,8 +28874,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W166150482.pdf",
@@ -29762,9 +29718,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "score": 0.8700000047683716
         }
       ],
       "x_sdgs": [],
@@ -29772,8 +29728,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31006,9 +30962,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.47999998927116394,
-          "display_name": "Climate action"
+          "score": 0.47999998927116394
         }
       ],
       "x_sdgs": [],
@@ -31016,8 +30972,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31115,9 +31071,21 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I1334329717",
+              "display_name": "World Bank",
+              "ror": "https://ror.org/00ae7jd04",
+              "country_code": "US",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I1334329717",
+                "https://openalex.org/I55633929"
+              ]
+            },
             {
               "id": "https://openalex.org/I98635879",
               "display_name": "American University of Beirut",
@@ -31130,7 +31098,8 @@
             }
           ],
           "countries": [
-            "LB"
+            "LB",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Z. R. Beydoun",
@@ -31148,7 +31117,9 @@
             },
             {
               "raw_affiliation_string": "Scientific Director, UNDP/World Bank Red Sea - Gulf of Regional Hydrocarbon Study Project",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1334329717"
+              ]
             }
           ]
         },
@@ -31157,9 +31128,21 @@
           "author": {
             "id": "https://openalex.org/A5017811089",
             "display_name": "A.H. Sikander",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I1334329717",
+              "display_name": "World Bank",
+              "ror": "https://ror.org/00ae7jd04",
+              "country_code": "US",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I1334329717",
+                "https://openalex.org/I55633929"
+              ]
+            },
             {
               "id": "https://openalex.org/I163144531",
               "display_name": "Petro-Canada",
@@ -31173,7 +31156,8 @@
             }
           ],
           "countries": [
-            "CA"
+            "CA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "A. H. Sikander",
@@ -31191,14 +31175,16 @@
             },
             {
               "raw_affiliation_string": "Techical Manager, respectively, UNDP/World Bank Red Sea - Gulf of Regional Hydrocarbon Study Project",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1334329717"
+              ]
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -31211,7 +31197,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.28934368,
+        "value": 0.29014534,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31513,9 +31499,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -31523,8 +31509,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32401,8 +32387,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32783,8 +32769,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33196,8 +33182,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33506,9 +33492,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6399999856948853,
-          "display_name": "Climate action"
+          "score": 0.6399999856948853
         }
       ],
       "x_sdgs": [],
@@ -33516,8 +33502,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33846,8 +33832,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34139,9 +34125,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5099999904632568,
-          "display_name": "Climate action"
+          "score": 0.5099999904632568
         }
       ],
       "x_sdgs": [],
@@ -34149,8 +34135,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34370,8 +34356,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34635,9 +34621,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6600000262260437,
-          "display_name": "Climate action"
+          "score": 0.6600000262260437
         }
       ],
       "x_sdgs": [],
@@ -34645,8 +34631,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34940,8 +34926,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35185,8 +35171,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35432,8 +35418,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35655,8 +35641,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35864,8 +35850,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36159,8 +36145,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36401,9 +36387,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5600000023841858,
-          "display_name": "Life below water"
+          "score": 0.5600000023841858
         }
       ],
       "x_sdgs": [],
@@ -36411,8 +36397,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

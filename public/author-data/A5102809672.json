@@ -36,22 +36,6 @@
     "affiliations": [
       {
         "institution": {
-          "id": "https://openalex.org/I100532134",
-          "ror": "https://ror.org/029brtt94",
-          "display_name": "Lyon 1 Université",
-          "country_code": "FR",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I100532134",
-            "https://openalex.org/I203339264"
-          ]
-        },
-        "years": [
-          2002
-        ]
-      },
-      {
-        "institution": {
           "id": "https://openalex.org/I114972647",
           "ror": "https://ror.org/05k89ew48",
           "display_name": "University of Jordan",
@@ -111,29 +95,14 @@
       },
       {
         "institution": {
-          "id": "https://openalex.org/I15057530",
-          "ror": "https://ror.org/057qpr032",
-          "display_name": "Université de Bordeaux",
+          "id": "https://openalex.org/I188626449",
+          "ror": "https://ror.org/03rth4p18",
+          "display_name": "Université Lumière Lyon 2",
           "country_code": "FR",
           "type": "education",
           "lineage": [
-            "https://openalex.org/I15057530"
-          ]
-        },
-        "years": [
-          2002
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I4210104693",
-          "ror": "https://ror.org/01c74sd89",
-          "display_name": "STMicroelectronics (France)",
-          "country_code": "FR",
-          "type": "company",
-          "lineage": [
-            "https://openalex.org/I131827901",
-            "https://openalex.org/I4210104693"
+            "https://openalex.org/I188626449",
+            "https://openalex.org/I203339264"
           ]
         },
         "years": [
@@ -178,31 +147,14 @@
       },
       {
         "institution": {
-          "id": "https://openalex.org/I4210154333",
-          "ror": "https://ror.org/059xs3104",
-          "display_name": "Archéorient",
-          "country_code": "FR",
-          "type": "facility",
+          "id": "https://openalex.org/I4396570533",
+          "ror": "https://ror.org/001anga17",
+          "display_name": "Université Bordeaux-I",
+          "country_code": null,
+          "type": "education",
           "lineage": [
-            "https://openalex.org/I1294671590",
-            "https://openalex.org/I188626449",
-            "https://openalex.org/I203339264",
-            "https://openalex.org/I4210154333"
-          ]
-        },
-        "years": [
-          2002
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I4210158690",
-          "ror": "https://ror.org/05rwjrt81",
-          "display_name": "Berger (Canada)",
-          "country_code": "CA",
-          "type": "company",
-          "lineage": [
-            "https://openalex.org/I4210158690"
+            "https://openalex.org/I15057530",
+            "https://openalex.org/I4396570533"
           ]
         },
         "years": [
@@ -328,7 +280,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001205,
+        "value": 0.0001208,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -345,7 +297,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000765,
+        "value": 0.0000767,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -362,7 +314,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000694,
+        "value": 0.0000696,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -396,7 +348,7 @@
       {
         "id": "https://openalex.org/T11923",
         "display_name": "Mine drainage and remediation techniques",
-        "value": 0.0000341,
+        "value": 0.0000342,
         "subfield": {
           "id": "https://openalex.org/subfields/2304",
           "display_name": "Environmental Chemistry"
@@ -663,7 +615,7 @@
     ],
     "block_key": "a abed",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5102809672",
-    "updated_date": "2026-09-25T12:19:18",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2020-09-21T00:00:00"
   },
   "works": [
@@ -1248,9 +1200,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -1903,9 +1855,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.800000011920929
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -3452,9 +3404,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -4067,9 +4019,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -4361,6 +4313,22 @@
               "lineage": [
                 "https://openalex.org/I2738703131"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210124937",
+              "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
+              "ror": "https://ror.org/03dsd0g48",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I4210113668",
+                "https://openalex.org/I4210124937",
+                "https://openalex.org/I4210148025"
+              ]
             }
           ],
           "countries": [
@@ -4377,7 +4345,8 @@
               "raw_affiliation_string": "LSCE, UMR CEA/CNRS 1572, Domaine du CNRS, 91198 Gif-sur-Yvette cedex, France",
               "institution_ids": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I2738703131"
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I4210124937"
               ]
             }
           ]
@@ -4525,6 +4494,22 @@
               "lineage": [
                 "https://openalex.org/I2738703131"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210124937",
+              "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
+              "ror": "https://ror.org/03dsd0g48",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I4210113668",
+                "https://openalex.org/I4210124937",
+                "https://openalex.org/I4210148025"
+              ]
             }
           ],
           "countries": [
@@ -4541,7 +4526,8 @@
               "raw_affiliation_string": "LSCE, UMR CEA/CNRS 1572, Domaine du CNRS, 91198 Gif-sur-Yvette cedex, France",
               "institution_ids": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I2738703131"
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I4210124937"
               ]
             }
           ]
@@ -4587,7 +4573,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [
         "https://openalex.org/A5040595231",
         "https://openalex.org/A5113666102"
@@ -4599,11 +4585,11 @@
         "value_usd": 3120
       },
       "apc_paid": null,
-      "fwci": 3.4375,
+      "fwci": 3.4197,
       "has_fulltext": false,
       "cited_by_count": 67,
       "citation_normalized_percentile": {
-        "value": 0.9150882,
+        "value": 0.91456282,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4964,9 +4950,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -5684,9 +5670,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -7845,9 +7831,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -8351,9 +8337,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.41999998688697815
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -9013,9 +8999,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.9100000262260437,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.9100000262260437
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -9594,9 +9580,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -12925,9 +12911,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6800000071525574,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.6800000071525574
+          "display_name": "Clean water and sanitation"
         }
       ],
       "x_sdgs": [],
@@ -13542,9 +13528,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8999999761581421
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -14421,9 +14407,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.41999998688697815
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -14964,9 +14950,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -16085,9 +16071,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.4300000071525574
+          "display_name": "Clean water and sanitation"
         }
       ],
       "x_sdgs": [],
@@ -16669,9 +16655,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -17462,23 +17448,11 @@
           "author": {
             "id": "https://openalex.org/A5008926507",
             "display_name": "Issa M. Makhlouf",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799885969",
-              "display_name": "Water Authority of Jordan",
-              "ror": "https://ror.org/02rxdft45",
-              "country_code": "JO",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I2799885969"
-              ]
-            }
-          ],
-          "countries": [
-            "JO"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "I.M. Makhlouf",
           "raw_affiliation_strings": [
@@ -17488,9 +17462,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Natural Resources Authority, P.O. Box 7, Amman, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I2799885969"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -17499,7 +17471,8 @@
           "author": {
             "id": "https://openalex.org/A5058037998",
             "display_name": "Brian R. Turner",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -17543,7 +17516,10 @@
           "author": {
             "id": "https://openalex.org/A5102809672",
             "display_name": "Abdulkader M. Abed",
-            "orcid": "https://orcid.org/0000-0002-7843-4218"
+            "orcid": "https://orcid.org/0000-0002-7843-4218",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7843-4218"
+            ]
           },
           "institutions": [
             {
@@ -17578,7 +17554,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -17587,11 +17563,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 0.7801,
+      "fwci": 0.7728,
       "has_fulltext": false,
       "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.7197724,
+        "value": 0.71739907,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17896,9 +17872,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -18505,9 +18481,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.4099999964237213
+          "display_name": "Life in Land"
         }
       ],
       "x_sdgs": [],
@@ -19189,9 +19165,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -20749,9 +20725,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -20957,23 +20933,11 @@
           "author": {
             "id": "https://openalex.org/A5008926507",
             "display_name": "Issa M. Makhlouf",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799885969",
-              "display_name": "Water Authority of Jordan",
-              "ror": "https://ror.org/02rxdft45",
-              "country_code": "JO",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I2799885969"
-              ]
-            }
-          ],
-          "countries": [
-            "JO"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "I.M. Makhlouf",
           "raw_affiliation_strings": [
@@ -20983,9 +20947,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Natural Resources Authority, P.O. Box 7, Amman, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I2799885969"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -20994,7 +20956,10 @@
           "author": {
             "id": "https://openalex.org/A5102809672",
             "display_name": "Abdulkader M. Abed",
-            "orcid": "https://orcid.org/0000-0002-7843-4218"
+            "orcid": "https://orcid.org/0000-0002-7843-4218",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7843-4218"
+            ]
           },
           "institutions": [
             {
@@ -21029,7 +20994,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -21038,11 +21003,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 0.7801,
+      "fwci": 0.7728,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.68456615,
+        "value": 0.6820293,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21356,9 +21321,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -21981,9 +21946,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -22620,9 +22585,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -24115,10 +24080,26 @@
           "author": {
             "id": "https://openalex.org/A5102809672",
             "display_name": "Abdulkader M. Abed",
-            "orcid": "https://orcid.org/0000-0002-7843-4218"
+            "orcid": "https://orcid.org/0000-0002-7843-4218",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7843-4218"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ],
+          "countries": [
+            "JO"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Abdulkader Abed",
           "raw_affiliation_strings": [
@@ -24128,7 +24109,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Université de Jordanie, Amman, Jordanie, France",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
             }
           ]
         },
@@ -24137,7 +24120,8 @@
           "author": {
             "id": "https://openalex.org/A5113666102",
             "display_name": "Pierre Carbonel",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -24159,6 +24143,17 @@
               "lineage": [
                 "https://openalex.org/I15057530"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4396570533",
+              "display_name": "Université Bordeaux-I",
+              "ror": "https://ror.org/001anga17",
+              "country_code": null,
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I15057530",
+                "https://openalex.org/I4396570533"
+              ]
             }
           ],
           "countries": [
@@ -24175,7 +24170,8 @@
               "raw_affiliation_string": "Département de géologie-océanographie, CNRS, université Bordeaux-1, 33405 Talence cedex, France",
               "institution_ids": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I15057530"
+                "https://openalex.org/I15057530",
+                "https://openalex.org/I4396570533"
               ]
             }
           ]
@@ -24185,7 +24181,8 @@
           "author": {
             "id": "https://openalex.org/A5083980154",
             "display_name": "Jacques Collina-Girard",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -24222,7 +24219,10 @@
           "author": {
             "id": "https://openalex.org/A5061761849",
             "display_name": "Michel Fontugne",
-            "orcid": "https://orcid.org/0000-0001-6056-4850"
+            "orcid": "https://orcid.org/0000-0001-6056-4850",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6056-4850"
+            ]
           },
           "institutions": [
             {
@@ -24259,7 +24259,8 @@
           "author": {
             "id": "https://openalex.org/A5088968533",
             "display_name": "Nicole Petit-Maire",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -24296,7 +24297,8 @@
           "author": {
             "id": "https://openalex.org/A5085757538",
             "display_name": "Jean-Claude Reyss",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -24333,10 +24335,24 @@
           "author": {
             "id": "https://openalex.org/A5111725569",
             "display_name": "Suha Yasin",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ],
+          "countries": [
+            "JO"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Suha Yasin",
           "raw_affiliation_strings": [
@@ -24346,14 +24362,16 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Université de Jordanie, Amman, Jordanie, France",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [
         "https://openalex.org/A5088968533"
       ],
@@ -24362,11 +24380,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5434,
+      "fwci": 0.5393,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.67879257,
+        "value": 0.6766205,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24660,9 +24678,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.41999998688697815
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -24771,6 +24789,7 @@
           "listed_in": [
             "cwts-core",
             "jufo-1",
+            "ki-jl-1",
             "norway-1"
           ],
           "host_organization": "https://openalex.org/P4310320990",
@@ -24807,7 +24826,8 @@
           "author": {
             "id": "https://openalex.org/A5050328906",
             "display_name": "Belal S. Amireh",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -24844,7 +24864,8 @@
           "author": {
             "id": "https://openalex.org/A5049328781",
             "display_name": "Mazen N. Amaireh",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -24879,9 +24900,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5112389954",
-            "display_name": "Saja Abu Taha",
-            "orcid": null
+            "id": "https://openalex.org/A5071176271",
+            "display_name": "Saja Mohammad Abutaha",
+            "orcid": "https://orcid.org/0000-0001-8439-5895",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8439-5895"
+            ]
           },
           "institutions": [
             {
@@ -24918,7 +24942,10 @@
           "author": {
             "id": "https://openalex.org/A5102809672",
             "display_name": "Abdulkader M. Abed",
-            "orcid": "https://orcid.org/0000-0002-7843-4218"
+            "orcid": "https://orcid.org/0000-0002-7843-4218",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7843-4218"
+            ]
           },
           "institutions": [
             {
@@ -24966,11 +24993,11 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 0.3752,
+      "fwci": 0.361,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.64526774,
+        "value": 0.63392303,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25273,6 +25300,7 @@
             "listed_in": [
               "cwts-core",
               "jufo-1",
+              "ki-jl-1",
               "norway-1"
             ],
             "host_organization": "https://openalex.org/P4310320990",
@@ -25297,9 +25325,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -25857,9 +25885,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8999999761581421
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -26526,9 +26554,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -27167,9 +27195,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -27345,7 +27373,10 @@
           "author": {
             "id": "https://openalex.org/A5102809672",
             "display_name": "Abdulkader M. Abed",
-            "orcid": "https://orcid.org/0000-0002-7843-4218"
+            "orcid": "https://orcid.org/0000-0002-7843-4218",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7843-4218"
+            ]
           },
           "institutions": [
             {
@@ -27389,23 +27420,11 @@
           "author": {
             "id": "https://openalex.org/A5111725569",
             "display_name": "Suha Yasin",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2799885969",
-              "display_name": "Water Authority of Jordan",
-              "ror": "https://ror.org/02rxdft45",
-              "country_code": "JO",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I2799885969"
-              ]
-            }
-          ],
-          "countries": [
-            "JO"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Suha Yasin",
           "raw_affiliation_strings": [
@@ -27415,9 +27434,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Natural Resources Authority, P. O. Box 7, Amman, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I2799885969"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -27426,7 +27443,8 @@
           "author": {
             "id": "https://openalex.org/A5012352321",
             "display_name": "Rushdi Sadaqa",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -27470,7 +27488,8 @@
           "author": {
             "id": "https://openalex.org/A5000000797",
             "display_name": "Zayed Al-Hawari",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -27512,7 +27531,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5102809672"
       ],
@@ -27525,16 +27544,16 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 0.8483,
+      "fwci": 0.838,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.72975896,
+        "value": 0.72693929,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 97
       },
       "biblio": {
@@ -27897,9 +27916,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -28764,9 +28783,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6299999952316284,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.6299999952316284
+          "display_name": "Life in Land"
         }
       ],
       "x_sdgs": [],
@@ -30761,9 +30780,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -31864,9 +31883,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6899999976158142,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6899999976158142
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -32043,18 +32062,15 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210099576",
-              "display_name": "Laboratoire Méditerranéen de Préhistoire Europe Afrique",
-              "ror": "https://ror.org/011gea244",
+              "id": "https://openalex.org/I4387154704",
+              "display_name": "Maison méditerranéenne des sciences de l'Homme",
+              "ror": "https://ror.org/01ejp3f31",
               "country_code": "FR",
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I21491767",
-                "https://openalex.org/I2802818602",
-                "https://openalex.org/I4210099576",
-                "https://openalex.org/I4210102700",
-                "https://openalex.org/I4210107625"
+                "https://openalex.org/I4387154704"
               ]
             }
           ],
@@ -32071,7 +32087,7 @@
             {
               "raw_affiliation_string": "ESEP - Economies, sociétés et environnements préhistoriques (MMSH 5 Rue du château de l'Horloge BP 647 13094 AIX EN PROVENCE CEDEX 2 - France)",
               "institution_ids": [
-                "https://openalex.org/I4210099576"
+                "https://openalex.org/I4387154704"
               ]
             }
           ]
@@ -32180,6 +32196,19 @@
               ]
             },
             {
+              "id": "https://openalex.org/I2801360556",
+              "display_name": "CEA Paris-Saclay - Etablissement de Saclay",
+              "ror": "https://ror.org/01fv25t22",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I2801360556",
+                "https://openalex.org/I4210128565"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210124937",
               "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
               "ror": "https://ror.org/03dsd0g48",
@@ -32223,6 +32252,7 @@
               "raw_affiliation_string": "GEOTRAC - Géochrononologie Traceurs Archéométrie (LSCE. CEA Paris-Saclay. Orme des merisiers.  91190 Saint-Aubin. - France)",
               "institution_ids": [
                 "https://openalex.org/I2738703131",
+                "https://openalex.org/I2801360556",
                 "https://openalex.org/I4210124937",
                 "https://openalex.org/I4210128565"
               ]
@@ -32252,6 +32282,19 @@
               "type": "government",
               "lineage": [
                 "https://openalex.org/I2738703131"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2801360556",
+              "display_name": "CEA Paris-Saclay - Etablissement de Saclay",
+              "ror": "https://ror.org/01fv25t22",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I2801360556",
+                "https://openalex.org/I4210128565"
               ]
             },
             {
@@ -32304,6 +32347,8 @@
               "raw_affiliation_string": "OCEANIS - Océan et Interfaces (LSCE. CEA Paris-Saclay. Orme des merisiers.  91190 Saint-Aubin. - France)",
               "institution_ids": [
                 "https://openalex.org/I2738703131",
+                "https://openalex.org/I2801360556",
+                "https://openalex.org/I4210124937",
                 "https://openalex.org/I4210128565"
               ]
             }
@@ -32312,16 +32357,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2841,
+      "fwci": 0.2824,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.60742429,
+        "value": 0.60498663,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32535,9 +32580,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7400000095367432,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7400000095367432
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -34202,9 +34247,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6200000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6200000047683716
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -35179,9 +35224,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -35721,7 +35766,8 @@
           "author": {
             "id": "https://openalex.org/A5062284551",
             "display_name": "Mohammad Al-Awabdeh",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -35758,7 +35804,10 @@
           "author": {
             "id": "https://openalex.org/A5064625685",
             "display_name": "José Vicente Perez‐Peña",
-            "orcid": "https://orcid.org/0000-0001-8880-7375"
+            "orcid": "https://orcid.org/0000-0001-8880-7375",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8880-7375"
+            ]
           },
           "institutions": [
             {
@@ -35769,28 +35818,6 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I173304897"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210095677",
-              "display_name": "Instituto Andaluz de Ciencias de la Tierra",
-              "ror": "https://ror.org/00v0g9w49",
-              "country_code": "ES",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I134820265",
-                "https://openalex.org/I4210095677"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210159146",
-              "display_name": "Instituto de Astrofísica de Andalucía",
-              "ror": "https://ror.org/04ka0vh05",
-              "country_code": "ES",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I134820265",
-                "https://openalex.org/I4210159146"
               ]
             }
           ],
@@ -35814,9 +35841,7 @@
             {
               "raw_affiliation_string": "Instituto Andaluz de Geofísica, Universidad de Granada, Campus de Cartuja, 18071, Granada, Spain",
               "institution_ids": [
-                "https://openalex.org/I173304897",
-                "https://openalex.org/I4210095677",
-                "https://openalex.org/I4210159146"
+                "https://openalex.org/I173304897"
               ]
             }
           ]
@@ -35826,7 +35851,10 @@
           "author": {
             "id": "https://openalex.org/A5084888028",
             "display_name": "José Miguel Azañón",
-            "orcid": "https://orcid.org/0000-0001-7834-5816"
+            "orcid": "https://orcid.org/0000-0001-7834-5816",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7834-5816"
+            ]
           },
           "institutions": [
             {
@@ -35871,6 +35899,7 @@
             {
               "raw_affiliation_string": "Instituto Andaluz de Ciencias de la Tierra, CSIC-UGR, Avd. Palmeras, 4, Armilla, Granada, Spain",
               "institution_ids": [
+                "https://openalex.org/I173304897",
                 "https://openalex.org/I4210095677"
               ]
             }
@@ -35881,7 +35910,10 @@
           "author": {
             "id": "https://openalex.org/A5017738753",
             "display_name": "Guillermo Booth‐Rea",
-            "orcid": "https://orcid.org/0000-0003-1179-8321"
+            "orcid": "https://orcid.org/0000-0003-1179-8321",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1179-8321"
+            ]
           },
           "institutions": [
             {
@@ -35926,6 +35958,7 @@
             {
               "raw_affiliation_string": "Instituto Andaluz de Ciencias de la Tierra, CSIC-UGR, Avd. Palmeras, 4, Armilla, Granada, Spain",
               "institution_ids": [
+                "https://openalex.org/I173304897",
                 "https://openalex.org/I4210095677"
               ]
             }
@@ -35936,7 +35969,10 @@
           "author": {
             "id": "https://openalex.org/A5102809672",
             "display_name": "Abdulkader M. Abed",
-            "orcid": "https://orcid.org/0000-0002-7843-4218"
+            "orcid": "https://orcid.org/0000-0002-7843-4218",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7843-4218"
+            ]
           },
           "institutions": [
             {
@@ -35973,7 +36009,10 @@
           "author": {
             "id": "https://openalex.org/A5036357784",
             "display_name": "Mohammad Atallah",
-            "orcid": "https://orcid.org/0000-0001-7542-4965"
+            "orcid": "https://orcid.org/0000-0001-7542-4965",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7542-4965"
+            ]
           },
           "institutions": [
             {
@@ -36010,7 +36049,10 @@
           "author": {
             "id": "https://openalex.org/A5085262121",
             "display_name": "Jorge Pedro Galvé",
-            "orcid": "https://orcid.org/0000-0001-5780-821X"
+            "orcid": "https://orcid.org/0000-0001-5780-821X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5780-821X"
+            ]
           },
           "institutions": [
             {
@@ -36045,7 +36087,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 6,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [
         "https://openalex.org/A5062284551"
       ],
@@ -36058,16 +36100,16 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.0142,
+      "fwci": 0.9443,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.73806656,
+        "value": 0.71979906,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 96
       },
       "biblio": {
@@ -36426,9 +36468,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8100000023841858,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8100000023841858
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -36600,7 +36642,10 @@
           "author": {
             "id": "https://openalex.org/A5102809672",
             "display_name": "Abdulkader M. Abed",
-            "orcid": "https://orcid.org/0000-0002-7843-4218"
+            "orcid": "https://orcid.org/0000-0002-7843-4218",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7843-4218"
+            ]
           },
           "institutions": [
             {
@@ -36644,7 +36689,8 @@
           "author": {
             "id": "https://openalex.org/A5052793889",
             "display_name": "Abdalla Abu Hamad",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -36688,7 +36734,8 @@
           "author": {
             "id": "https://openalex.org/A5031678450",
             "display_name": "Hani Abul Khair",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -36732,20 +36779,10 @@
           "author": {
             "id": "https://openalex.org/A5050107619",
             "display_name": "Ghazi Kraishan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I154100212",
-              "display_name": "Schlumberger (British Virgin Islands)",
-              "ror": "https://ror.org/01ydfc370",
-              "country_code": "VG",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I154100212",
-                "https://openalex.org/I4210092184"
-              ]
-            },
             {
               "id": "https://openalex.org/I4210112364",
               "display_name": "Schlumberger (Qatar)",
@@ -36758,8 +36795,7 @@
             }
           ],
           "countries": [
-            "QA",
-            "VG"
+            "QA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Ghazi Kraishan",
@@ -36777,16 +36813,14 @@
             },
             {
               "raw_affiliation_string": "Schlumberger Overseas, Data Consulting and Services",
-              "institution_ids": [
-                "https://openalex.org/I154100212"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5102809672"
       ],
@@ -36799,11 +36833,11 @@
         "value_usd": 2490
       },
       "apc_paid": null,
-      "fwci": 0.8989,
+      "fwci": 0.8886,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.75268401,
+        "value": 0.75006887,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37069,9 +37103,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4000000059604645,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.4000000059604645
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -37817,9 +37851,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6399999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6399999856948853
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -37995,7 +38029,8 @@
           "author": {
             "id": "https://openalex.org/A5050328906",
             "display_name": "Belal S. Amireh",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -38030,12 +38065,28 @@
         {
           "author_position": "middle",
           "author": {
-            "id": null,
-            "display_name": "Joerg Mutterlose",
-            "orcid": null
+            "id": "https://openalex.org/A5063550754",
+            "display_name": "Jörg Mutterlose",
+            "orcid": "https://orcid.org/0000-0003-3449-4507",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3449-4507"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I904495901",
+              "display_name": "Ruhr University Bochum",
+              "ror": "https://ror.org/04tsk2644",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I904495901"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Joerg Mutterlose",
           "raw_affiliation_strings": [
@@ -38045,7 +38096,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Institut für Geologie, Mineralogie und Geophysik, Bochum, Germany",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I904495901"
+              ]
             }
           ]
         },
@@ -38054,7 +38107,8 @@
           "author": {
             "id": "https://openalex.org/A5049328781",
             "display_name": "Mazen N. Amaireh",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -38089,12 +38143,28 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5110571759",
-            "display_name": "Tobias Puettmann",
-            "orcid": null
+            "id": "https://openalex.org/A5010682558",
+            "display_name": "Tobias Püttmann",
+            "orcid": "https://orcid.org/0000-0001-7319-6698",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7319-6698"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I904495901",
+              "display_name": "Ruhr University Bochum",
+              "ror": "https://ror.org/04tsk2644",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I904495901"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Tobias Puettmann",
           "raw_affiliation_strings": [
@@ -38104,7 +38174,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Institut für Geologie, Mineralogie und Geophysik, Bochum, Germany",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I904495901"
+              ]
             }
           ]
         },
@@ -38113,7 +38185,10 @@
           "author": {
             "id": "https://openalex.org/A5102809672",
             "display_name": "Abdulkader M. Abed",
-            "orcid": "https://orcid.org/0000-0002-7843-4218"
+            "orcid": "https://orcid.org/0000-0002-7843-4218",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7843-4218"
+            ]
           },
           "institutions": [
             {
@@ -38147,8 +38222,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5102809672"
       ],
@@ -38161,11 +38236,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.3034,
+      "fwci": 1.2685,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.82300735,
+        "value": 0.81914955,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39577,9 +39652,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.4300000071525574
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -40858,9 +40933,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -41167,7 +41242,8 @@
           "author": {
             "id": "https://openalex.org/A5062284551",
             "display_name": "Mohammad Al-Awabdeh",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -41204,7 +41280,10 @@
           "author": {
             "id": "https://openalex.org/A5064625685",
             "display_name": "José Vicente Perez‐Peña",
-            "orcid": "https://orcid.org/0000-0001-8880-7375"
+            "orcid": "https://orcid.org/0000-0001-8880-7375",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8880-7375"
+            ]
           },
           "institutions": [
             {
@@ -41248,7 +41327,10 @@
           "author": {
             "id": "https://openalex.org/A5084888028",
             "display_name": "José Miguel Azañón",
-            "orcid": "https://orcid.org/0000-0001-7834-5816"
+            "orcid": "https://orcid.org/0000-0001-7834-5816",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7834-5816"
+            ]
           },
           "institutions": [
             {
@@ -41293,6 +41375,7 @@
             {
               "raw_affiliation_string": "Instituto Andaluz de Ciencias de la Tierra, CSIC-UGR, Avd. Palmeras, 4, Armilla, Granada, Spain",
               "institution_ids": [
+                "https://openalex.org/I173304897",
                 "https://openalex.org/I4210095677"
               ]
             }
@@ -41303,7 +41386,10 @@
           "author": {
             "id": "https://openalex.org/A5017738753",
             "display_name": "Guillermo Booth‐Rea",
-            "orcid": "https://orcid.org/0000-0003-1179-8321"
+            "orcid": "https://orcid.org/0000-0003-1179-8321",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1179-8321"
+            ]
           },
           "institutions": [
             {
@@ -41348,6 +41434,7 @@
             {
               "raw_affiliation_string": "Instituto Andaluz de Ciencias de la Tierra, CSIC-UGR, Avd. Palmeras, 4, Armilla, Granada, Spain",
               "institution_ids": [
+                "https://openalex.org/I173304897",
                 "https://openalex.org/I4210095677"
               ]
             }
@@ -41358,7 +41445,10 @@
           "author": {
             "id": "https://openalex.org/A5102809672",
             "display_name": "Abdulkader M. Abed",
-            "orcid": "https://orcid.org/0000-0002-7843-4218"
+            "orcid": "https://orcid.org/0000-0002-7843-4218",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7843-4218"
+            ]
           },
           "institutions": [
             {
@@ -41395,7 +41485,10 @@
           "author": {
             "id": "https://openalex.org/A5036357784",
             "display_name": "Mohammad Atallah",
-            "orcid": "https://orcid.org/0000-0001-7542-4965"
+            "orcid": "https://orcid.org/0000-0001-7542-4965",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7542-4965"
+            ]
           },
           "institutions": [
             {
@@ -41432,7 +41525,10 @@
           "author": {
             "id": "https://openalex.org/A5085262121",
             "display_name": "Jorge Pedro Galvé",
-            "orcid": "https://orcid.org/0000-0001-5780-821X"
+            "orcid": "https://orcid.org/0000-0001-5780-821X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5780-821X"
+            ]
           },
           "institutions": [
             {
@@ -41480,11 +41576,11 @@
         "value_usd": 3190
       },
       "apc_paid": null,
-      "fwci": 1.0142,
+      "fwci": 0.9443,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.73911252,
+        "value": 0.72088524,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41899,9 +41995,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -43658,9 +43754,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.699999988079071,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.699999988079071
+          "display_name": "Clean water and sanitation"
         }
       ],
       "x_sdgs": [],
@@ -45006,7 +45102,8 @@
           "author": {
             "id": "https://openalex.org/A5050328906",
             "display_name": "Belal S. Amireh",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -45043,7 +45140,10 @@
           "author": {
             "id": "https://openalex.org/A5041957437",
             "display_name": "Ghazi A. Saffarini",
-            "orcid": "https://orcid.org/0000-0001-7698-3224"
+            "orcid": "https://orcid.org/0000-0001-7698-3224",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7698-3224"
+            ]
           },
           "institutions": [
             {
@@ -45080,7 +45180,8 @@
           "author": {
             "id": "https://openalex.org/A5049328781",
             "display_name": "Mazen N. Amaireh",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -45117,7 +45218,10 @@
           "author": {
             "id": "https://openalex.org/A5020898001",
             "display_name": "Ghaleb H. Jarrar",
-            "orcid": "https://orcid.org/0000-0003-4324-0330"
+            "orcid": "https://orcid.org/0000-0003-4324-0330",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4324-0330"
+            ]
           },
           "institutions": [
             {
@@ -45129,22 +45233,10 @@
               "lineage": [
                 "https://openalex.org/I114972647"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210105216",
-              "display_name": "Thermo Fisher Scientific (Japan)",
-              "ror": "https://ror.org/00wg75m45",
-              "country_code": "JP",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210105216",
-                "https://openalex.org/I4210142480"
-              ]
             }
           ],
           "countries": [
-            "JO",
-            "JP"
+            "JO"
           ],
           "is_corresponding": false,
           "raw_author_name": "Ghaleb Jarrar",
@@ -45178,9 +45270,7 @@
             },
             {
               "raw_affiliation_string": "Ca, Fe 169",
-              "institution_ids": [
-                "https://openalex.org/I4210105216"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Ga AK11 35.58267",
@@ -45213,7 +45303,10 @@
           "author": {
             "id": "https://openalex.org/A5102809672",
             "display_name": "Abdulkader M. Abed",
-            "orcid": "https://orcid.org/0000-0002-7843-4218"
+            "orcid": "https://orcid.org/0000-0002-7843-4218",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7843-4218"
+            ]
           },
           "institutions": [
             {
@@ -45252,22 +45345,22 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1303,
+      "fwci": 0.1267,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.46571602,
+        "value": 0.45356976,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 94
       },
       "biblio": {
@@ -46778,9 +46871,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -47491,17 +47584,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Lyon 1 Université",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
-            {
               "id": "https://openalex.org/I114972647",
               "display_name": "University of Jordan",
               "ror": "https://ror.org/05k89ew48",
@@ -47522,24 +47604,14 @@
               ]
             },
             {
-              "id": "https://openalex.org/I15057530",
-              "display_name": "Université de Bordeaux",
-              "ror": "https://ror.org/057qpr032",
+              "id": "https://openalex.org/I188626449",
+              "display_name": "Université Lumière Lyon 2",
+              "ror": "https://ror.org/03rth4p18",
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210104693",
-              "display_name": "STMicroelectronics (France)",
-              "ror": "https://ror.org/01c74sd89",
-              "country_code": "FR",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I131827901",
-                "https://openalex.org/I4210104693"
+                "https://openalex.org/I188626449",
+                "https://openalex.org/I203339264"
               ]
             },
             {
@@ -47559,19 +47631,6 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210154333",
-              "display_name": "Archéorient",
-              "ror": "https://ror.org/059xs3104",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I188626449",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I4210154333"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210158690",
               "display_name": "Berger (Canada)",
               "ror": "https://ror.org/05rwjrt81",
@@ -47579,6 +47638,17 @@
               "type": "company",
               "lineage": [
                 "https://openalex.org/I4210158690"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4396570533",
+              "display_name": "Université Bordeaux-I",
+              "ror": "https://ror.org/001anga17",
+              "country_code": null,
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I15057530",
+                "https://openalex.org/I4396570533"
               ]
             }
           ],
@@ -47604,47 +47674,49 @@
           "affiliations": [
             {
               "raw_affiliation_string": "A.R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "UMR 6636 , CNRS , MMSH , BP 647 , 13094 Aix-en-Provence , Cedex",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210104693"
-              ]
-            },
-            {
-              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
               "institution_ids": [
                 "https://openalex.org/I4210158690"
               ]
             },
             {
+              "raw_affiliation_string": "UMR 6636 , CNRS , MMSH , BP 647 , 13094 Aix-en-Provence , Cedex",
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "raw_affiliation_string": "FRANCE",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+              "institution_ids": []
+            },
+            {
               "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I15057530"
+                "https://openalex.org/I4396570533"
               ]
             },
             {
               "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
               "institution_ids": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210124937"
               ]
             },
             {
               "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I100532134",
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I4210154333"
+                "https://openalex.org/I188626449"
               ]
             },
             {
               "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
             },
             {
               "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
@@ -47663,17 +47735,6 @@
             "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Lyon 1 Université",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
             {
               "id": "https://openalex.org/I114972647",
               "display_name": "University of Jordan",
@@ -47695,24 +47756,14 @@
               ]
             },
             {
-              "id": "https://openalex.org/I15057530",
-              "display_name": "Université de Bordeaux",
-              "ror": "https://ror.org/057qpr032",
+              "id": "https://openalex.org/I188626449",
+              "display_name": "Université Lumière Lyon 2",
+              "ror": "https://ror.org/03rth4p18",
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210104693",
-              "display_name": "STMicroelectronics (France)",
-              "ror": "https://ror.org/01c74sd89",
-              "country_code": "FR",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I131827901",
-                "https://openalex.org/I4210104693"
+                "https://openalex.org/I188626449",
+                "https://openalex.org/I203339264"
               ]
             },
             {
@@ -47732,31 +47783,18 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210154333",
-              "display_name": "Archéorient",
-              "ror": "https://ror.org/059xs3104",
-              "country_code": "FR",
-              "type": "facility",
+              "id": "https://openalex.org/I4396570533",
+              "display_name": "Université Bordeaux-I",
+              "ror": "https://ror.org/001anga17",
+              "country_code": null,
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I188626449",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I4210154333"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210158690",
-              "display_name": "Berger (Canada)",
-              "ror": "https://ror.org/05rwjrt81",
-              "country_code": "CA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210158690"
+                "https://openalex.org/I15057530",
+                "https://openalex.org/I4396570533"
               ]
             }
           ],
           "countries": [
-            "CA",
             "FR",
             "JO"
           ],
@@ -47775,39 +47813,37 @@
           "affiliations": [
             {
               "raw_affiliation_string": "FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210104693"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-              "institution_ids": [
-                "https://openalex.org/I4210158690"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I15057530"
+                "https://openalex.org/I4396570533"
               ]
             },
             {
               "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
               "institution_ids": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210124937"
               ]
             },
             {
               "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I100532134",
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I4210154333"
+                "https://openalex.org/I188626449"
               ]
             },
             {
               "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
             },
             {
               "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
@@ -47829,17 +47865,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Lyon 1 Université",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
-            {
               "id": "https://openalex.org/I114972647",
               "display_name": "University of Jordan",
               "ror": "https://ror.org/05k89ew48",
@@ -47860,24 +47885,14 @@
               ]
             },
             {
-              "id": "https://openalex.org/I15057530",
-              "display_name": "Université de Bordeaux",
-              "ror": "https://ror.org/057qpr032",
+              "id": "https://openalex.org/I188626449",
+              "display_name": "Université Lumière Lyon 2",
+              "ror": "https://ror.org/03rth4p18",
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210104693",
-              "display_name": "STMicroelectronics (France)",
-              "ror": "https://ror.org/01c74sd89",
-              "country_code": "FR",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I131827901",
-                "https://openalex.org/I4210104693"
+                "https://openalex.org/I188626449",
+                "https://openalex.org/I203339264"
               ]
             },
             {
@@ -47897,31 +47912,18 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210154333",
-              "display_name": "Archéorient",
-              "ror": "https://ror.org/059xs3104",
-              "country_code": "FR",
-              "type": "facility",
+              "id": "https://openalex.org/I4396570533",
+              "display_name": "Université Bordeaux-I",
+              "ror": "https://ror.org/001anga17",
+              "country_code": null,
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I188626449",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I4210154333"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210158690",
-              "display_name": "Berger (Canada)",
-              "ror": "https://ror.org/05rwjrt81",
-              "country_code": "CA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210158690"
+                "https://openalex.org/I15057530",
+                "https://openalex.org/I4396570533"
               ]
             }
           ],
           "countries": [
-            "CA",
             "FR",
             "JO"
           ],
@@ -47947,39 +47949,37 @@
             },
             {
               "raw_affiliation_string": "FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210104693"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-              "institution_ids": [
-                "https://openalex.org/I4210158690"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I15057530"
+                "https://openalex.org/I4396570533"
               ]
             },
             {
               "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
               "institution_ids": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210124937"
               ]
             },
             {
               "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I100532134",
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I4210154333"
+                "https://openalex.org/I188626449"
               ]
             },
             {
               "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
             },
             {
               "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
@@ -47998,17 +47998,6 @@
             "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Lyon 1 Université",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
             {
               "id": "https://openalex.org/I114972647",
               "display_name": "University of Jordan",
@@ -48030,24 +48019,14 @@
               ]
             },
             {
-              "id": "https://openalex.org/I15057530",
-              "display_name": "Université de Bordeaux",
-              "ror": "https://ror.org/057qpr032",
+              "id": "https://openalex.org/I188626449",
+              "display_name": "Université Lumière Lyon 2",
+              "ror": "https://ror.org/03rth4p18",
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210104693",
-              "display_name": "STMicroelectronics (France)",
-              "ror": "https://ror.org/01c74sd89",
-              "country_code": "FR",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I131827901",
-                "https://openalex.org/I4210104693"
+                "https://openalex.org/I188626449",
+                "https://openalex.org/I203339264"
               ]
             },
             {
@@ -48067,31 +48046,18 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210154333",
-              "display_name": "Archéorient",
-              "ror": "https://ror.org/059xs3104",
-              "country_code": "FR",
-              "type": "facility",
+              "id": "https://openalex.org/I4396570533",
+              "display_name": "Université Bordeaux-I",
+              "ror": "https://ror.org/001anga17",
+              "country_code": null,
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I188626449",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I4210154333"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210158690",
-              "display_name": "Berger (Canada)",
-              "ror": "https://ror.org/05rwjrt81",
-              "country_code": "CA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210158690"
+                "https://openalex.org/I15057530",
+                "https://openalex.org/I4396570533"
               ]
             }
           ],
           "countries": [
-            "CA",
             "FR",
             "JO"
           ],
@@ -48113,9 +48079,7 @@
             {
               "raw_affiliation_string": "FRANCE P. Sanlaville UMR 5647-GREMMO , CNRS - Université Lyon 2 , Maison de l'Orient , 7 rue Raulin , 69007 , Lyon , FRANCE",
               "institution_ids": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I4210154333"
+                "https://openalex.org/I1294671590"
               ]
             },
             {
@@ -48126,39 +48090,37 @@
             },
             {
               "raw_affiliation_string": "FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210104693"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-              "institution_ids": [
-                "https://openalex.org/I4210158690"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I15057530"
+                "https://openalex.org/I4396570533"
               ]
             },
             {
               "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
               "institution_ids": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210124937"
               ]
             },
             {
               "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I100532134",
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I4210154333"
+                "https://openalex.org/I188626449"
               ]
             },
             {
               "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
             },
             {
               "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
@@ -48177,17 +48139,6 @@
             "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Lyon 1 Université",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
             {
               "id": "https://openalex.org/I114972647",
               "display_name": "University of Jordan",
@@ -48209,24 +48160,14 @@
               ]
             },
             {
-              "id": "https://openalex.org/I15057530",
-              "display_name": "Université de Bordeaux",
-              "ror": "https://ror.org/057qpr032",
+              "id": "https://openalex.org/I188626449",
+              "display_name": "Université Lumière Lyon 2",
+              "ror": "https://ror.org/03rth4p18",
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210104693",
-              "display_name": "STMicroelectronics (France)",
-              "ror": "https://ror.org/01c74sd89",
-              "country_code": "FR",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I131827901",
-                "https://openalex.org/I4210104693"
+                "https://openalex.org/I188626449",
+                "https://openalex.org/I203339264"
               ]
             },
             {
@@ -48246,31 +48187,18 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210154333",
-              "display_name": "Archéorient",
-              "ror": "https://ror.org/059xs3104",
-              "country_code": "FR",
-              "type": "facility",
+              "id": "https://openalex.org/I4396570533",
+              "display_name": "Université Bordeaux-I",
+              "ror": "https://ror.org/001anga17",
+              "country_code": null,
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I188626449",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I4210154333"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210158690",
-              "display_name": "Berger (Canada)",
-              "ror": "https://ror.org/05rwjrt81",
-              "country_code": "CA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210158690"
+                "https://openalex.org/I15057530",
+                "https://openalex.org/I4396570533"
               ]
             }
           ],
           "countries": [
-            "CA",
             "FR",
             "JO"
           ],
@@ -48291,44 +48219,42 @@
             {
               "raw_affiliation_string": "Département de Géologie , Université de Bordeaux 1 , 33405 Talence cedex , FRANCE",
               "institution_ids": [
-                "https://openalex.org/I15057530"
+                "https://openalex.org/I4396570533"
               ]
             },
             {
               "raw_affiliation_string": "FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210104693"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-              "institution_ids": [
-                "https://openalex.org/I4210158690"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I15057530"
+                "https://openalex.org/I4396570533"
               ]
             },
             {
               "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
               "institution_ids": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210124937"
               ]
             },
             {
               "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I100532134",
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I4210154333"
+                "https://openalex.org/I188626449"
               ]
             },
             {
               "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
             },
             {
               "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
@@ -48347,17 +48273,6 @@
             "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Lyon 1 Université",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
             {
               "id": "https://openalex.org/I114972647",
               "display_name": "University of Jordan",
@@ -48379,24 +48294,14 @@
               ]
             },
             {
-              "id": "https://openalex.org/I15057530",
-              "display_name": "Université de Bordeaux",
-              "ror": "https://ror.org/057qpr032",
+              "id": "https://openalex.org/I188626449",
+              "display_name": "Université Lumière Lyon 2",
+              "ror": "https://ror.org/03rth4p18",
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210104693",
-              "display_name": "STMicroelectronics (France)",
-              "ror": "https://ror.org/01c74sd89",
-              "country_code": "FR",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I131827901",
-                "https://openalex.org/I4210104693"
+                "https://openalex.org/I188626449",
+                "https://openalex.org/I203339264"
               ]
             },
             {
@@ -48416,31 +48321,18 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210154333",
-              "display_name": "Archéorient",
-              "ror": "https://ror.org/059xs3104",
-              "country_code": "FR",
-              "type": "facility",
+              "id": "https://openalex.org/I4396570533",
+              "display_name": "Université Bordeaux-I",
+              "ror": "https://ror.org/001anga17",
+              "country_code": null,
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I188626449",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I4210154333"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210158690",
-              "display_name": "Berger (Canada)",
-              "ror": "https://ror.org/05rwjrt81",
-              "country_code": "CA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210158690"
+                "https://openalex.org/I15057530",
+                "https://openalex.org/I4396570533"
               ]
             }
           ],
           "countries": [
-            "CA",
             "FR",
             "JO"
           ],
@@ -48461,44 +48353,42 @@
             {
               "raw_affiliation_string": "Département de Géologie , Université de Bordeaux 1 , 33405 Talence cedex , FRANCE",
               "institution_ids": [
-                "https://openalex.org/I15057530"
+                "https://openalex.org/I4396570533"
               ]
             },
             {
               "raw_affiliation_string": "FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210104693"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-              "institution_ids": [
-                "https://openalex.org/I4210158690"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I15057530"
+                "https://openalex.org/I4396570533"
               ]
             },
             {
               "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
               "institution_ids": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210124937"
               ]
             },
             {
               "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I100532134",
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I4210154333"
+                "https://openalex.org/I188626449"
               ]
             },
             {
               "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
             },
             {
               "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
@@ -48518,17 +48408,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Lyon 1 Université",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
-            {
               "id": "https://openalex.org/I114972647",
               "display_name": "University of Jordan",
               "ror": "https://ror.org/05k89ew48",
@@ -48549,24 +48428,14 @@
               ]
             },
             {
-              "id": "https://openalex.org/I15057530",
-              "display_name": "Université de Bordeaux",
-              "ror": "https://ror.org/057qpr032",
+              "id": "https://openalex.org/I188626449",
+              "display_name": "Université Lumière Lyon 2",
+              "ror": "https://ror.org/03rth4p18",
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210104693",
-              "display_name": "STMicroelectronics (France)",
-              "ror": "https://ror.org/01c74sd89",
-              "country_code": "FR",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I131827901",
-                "https://openalex.org/I4210104693"
+                "https://openalex.org/I188626449",
+                "https://openalex.org/I203339264"
               ]
             },
             {
@@ -48586,31 +48455,18 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210154333",
-              "display_name": "Archéorient",
-              "ror": "https://ror.org/059xs3104",
-              "country_code": "FR",
-              "type": "facility",
+              "id": "https://openalex.org/I4396570533",
+              "display_name": "Université Bordeaux-I",
+              "ror": "https://ror.org/001anga17",
+              "country_code": null,
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I188626449",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I4210154333"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210158690",
-              "display_name": "Berger (Canada)",
-              "ror": "https://ror.org/05rwjrt81",
-              "country_code": "CA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210158690"
+                "https://openalex.org/I15057530",
+                "https://openalex.org/I4396570533"
               ]
             }
           ],
           "countries": [
-            "CA",
             "FR",
             "JO"
           ],
@@ -48630,43 +48486,43 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Domaine du CNRS , 91198 Gif-sur-Yvette , FRANCE",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
             },
             {
               "raw_affiliation_string": "FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210104693"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-              "institution_ids": [
-                "https://openalex.org/I4210158690"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I15057530"
+                "https://openalex.org/I4396570533"
               ]
             },
             {
               "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
               "institution_ids": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210124937"
               ]
             },
             {
               "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I100532134",
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I4210154333"
+                "https://openalex.org/I188626449"
               ]
             },
             {
               "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
             },
             {
               "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
@@ -48686,17 +48542,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Lyon 1 Université",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
-            {
               "id": "https://openalex.org/I114972647",
               "display_name": "University of Jordan",
               "ror": "https://ror.org/05k89ew48",
@@ -48717,24 +48562,14 @@
               ]
             },
             {
-              "id": "https://openalex.org/I15057530",
-              "display_name": "Université de Bordeaux",
-              "ror": "https://ror.org/057qpr032",
+              "id": "https://openalex.org/I188626449",
+              "display_name": "Université Lumière Lyon 2",
+              "ror": "https://ror.org/03rth4p18",
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210104693",
-              "display_name": "STMicroelectronics (France)",
-              "ror": "https://ror.org/01c74sd89",
-              "country_code": "FR",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I131827901",
-                "https://openalex.org/I4210104693"
+                "https://openalex.org/I188626449",
+                "https://openalex.org/I203339264"
               ]
             },
             {
@@ -48754,31 +48589,18 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210154333",
-              "display_name": "Archéorient",
-              "ror": "https://ror.org/059xs3104",
-              "country_code": "FR",
-              "type": "facility",
+              "id": "https://openalex.org/I4396570533",
+              "display_name": "Université Bordeaux-I",
+              "ror": "https://ror.org/001anga17",
+              "country_code": null,
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I188626449",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I4210154333"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210158690",
-              "display_name": "Berger (Canada)",
-              "ror": "https://ror.org/05rwjrt81",
-              "country_code": "CA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210158690"
+                "https://openalex.org/I15057530",
+                "https://openalex.org/I4396570533"
               ]
             }
           ],
           "countries": [
-            "CA",
             "FR",
             "JO"
           ],
@@ -48798,43 +48620,43 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Domaine du CNRS , 91198 Gif-sur-Yvette , FRANCE",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
             },
             {
               "raw_affiliation_string": "FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210104693"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-              "institution_ids": [
-                "https://openalex.org/I4210158690"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I15057530"
+                "https://openalex.org/I4396570533"
               ]
             },
             {
               "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
               "institution_ids": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210124937"
               ]
             },
             {
               "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I100532134",
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I4210154333"
+                "https://openalex.org/I188626449"
               ]
             },
             {
               "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
             },
             {
               "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
@@ -48854,17 +48676,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Lyon 1 Université",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
-            {
               "id": "https://openalex.org/I114972647",
               "display_name": "University of Jordan",
               "ror": "https://ror.org/05k89ew48",
@@ -48885,24 +48696,14 @@
               ]
             },
             {
-              "id": "https://openalex.org/I15057530",
-              "display_name": "Université de Bordeaux",
-              "ror": "https://ror.org/057qpr032",
+              "id": "https://openalex.org/I188626449",
+              "display_name": "Université Lumière Lyon 2",
+              "ror": "https://ror.org/03rth4p18",
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210104693",
-              "display_name": "STMicroelectronics (France)",
-              "ror": "https://ror.org/01c74sd89",
-              "country_code": "FR",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I131827901",
-                "https://openalex.org/I4210104693"
+                "https://openalex.org/I188626449",
+                "https://openalex.org/I203339264"
               ]
             },
             {
@@ -48922,31 +48723,18 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210154333",
-              "display_name": "Archéorient",
-              "ror": "https://ror.org/059xs3104",
-              "country_code": "FR",
-              "type": "facility",
+              "id": "https://openalex.org/I4396570533",
+              "display_name": "Université Bordeaux-I",
+              "ror": "https://ror.org/001anga17",
+              "country_code": null,
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I188626449",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I4210154333"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210158690",
-              "display_name": "Berger (Canada)",
-              "ror": "https://ror.org/05rwjrt81",
-              "country_code": "CA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210158690"
+                "https://openalex.org/I15057530",
+                "https://openalex.org/I4396570533"
               ]
             }
           ],
           "countries": [
-            "CA",
             "FR",
             "JO"
           ],
@@ -48965,39 +48753,37 @@
           "affiliations": [
             {
               "raw_affiliation_string": "FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210104693"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-              "institution_ids": [
-                "https://openalex.org/I4210158690"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I15057530"
+                "https://openalex.org/I4396570533"
               ]
             },
             {
               "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
               "institution_ids": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210124937"
               ]
             },
             {
               "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I100532134",
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I4210154333"
+                "https://openalex.org/I188626449"
               ]
             },
             {
               "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
             },
             {
               "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
@@ -49017,17 +48803,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Lyon 1 Université",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
-            {
               "id": "https://openalex.org/I114972647",
               "display_name": "University of Jordan",
               "ror": "https://ror.org/05k89ew48",
@@ -49048,24 +48823,14 @@
               ]
             },
             {
-              "id": "https://openalex.org/I15057530",
-              "display_name": "Université de Bordeaux",
-              "ror": "https://ror.org/057qpr032",
+              "id": "https://openalex.org/I188626449",
+              "display_name": "Université Lumière Lyon 2",
+              "ror": "https://ror.org/03rth4p18",
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210104693",
-              "display_name": "STMicroelectronics (France)",
-              "ror": "https://ror.org/01c74sd89",
-              "country_code": "FR",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I131827901",
-                "https://openalex.org/I4210104693"
+                "https://openalex.org/I188626449",
+                "https://openalex.org/I203339264"
               ]
             },
             {
@@ -49085,31 +48850,18 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210154333",
-              "display_name": "Archéorient",
-              "ror": "https://ror.org/059xs3104",
-              "country_code": "FR",
-              "type": "facility",
+              "id": "https://openalex.org/I4396570533",
+              "display_name": "Université Bordeaux-I",
+              "ror": "https://ror.org/001anga17",
+              "country_code": null,
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I188626449",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I4210154333"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210158690",
-              "display_name": "Berger (Canada)",
-              "ror": "https://ror.org/05rwjrt81",
-              "country_code": "CA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210158690"
+                "https://openalex.org/I15057530",
+                "https://openalex.org/I4396570533"
               ]
             }
           ],
           "countries": [
-            "CA",
             "FR",
             "JO"
           ],
@@ -49128,39 +48880,37 @@
           "affiliations": [
             {
               "raw_affiliation_string": "FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210104693"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-              "institution_ids": [
-                "https://openalex.org/I4210158690"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I15057530"
+                "https://openalex.org/I4396570533"
               ]
             },
             {
               "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
               "institution_ids": [
+                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210124937"
               ]
             },
             {
               "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I100532134",
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I4210154333"
+                "https://openalex.org/I188626449"
               ]
             },
             {
               "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1294671590"
+              ]
             },
             {
               "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
@@ -49173,7 +48923,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 3,
-      "institutions_distinct_count": 8,
+      "institutions_distinct_count": 6,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -49417,7 +49167,10 @@
           "author": {
             "id": "https://openalex.org/A5102809672",
             "display_name": "Abdulkader M. Abed",
-            "orcid": "https://orcid.org/0000-0002-7843-4218"
+            "orcid": "https://orcid.org/0000-0002-7843-4218",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7843-4218"
+            ]
           },
           "institutions": [
             {
@@ -49452,9 +49205,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5112389954",
-            "display_name": "Saja Abu Taha",
-            "orcid": null
+            "id": "https://openalex.org/A5071176271",
+            "display_name": "Saja Mohammad Abutaha",
+            "orcid": "https://orcid.org/0000-0001-8439-5895",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8439-5895"
+            ]
           },
           "institutions": [
             {
@@ -49491,7 +49247,8 @@
           "author": {
             "id": "https://openalex.org/A5026107624",
             "display_name": "Tasneem H. Hiasat",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -49528,7 +49285,8 @@
           "author": {
             "id": "https://openalex.org/A5052793889",
             "display_name": "Abdalla Abu Hamad",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -49580,7 +49338,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.05592396,
+        "value": 0.05613839,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49860,9 +49618,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6299999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6299999952316284
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -50284,9 +50042,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -51923,9 +51681,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.4099999964237213
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],

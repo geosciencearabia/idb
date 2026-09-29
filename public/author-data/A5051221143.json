@@ -35,6 +35,7 @@
           ]
         },
         "years": [
+          2010,
           2008
         ]
       },
@@ -56,9 +57,22 @@
           2021,
           2017,
           2016,
-          2008,
-          2007,
-          2006
+          2008
+        ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I4210110695",
+          "ror": "https://ror.org/01xf5pq20",
+          "display_name": "Université Tunis Carthage",
+          "country_code": "TN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210110695"
+          ]
+        },
+        "years": [
+          2022
         ]
       },
       {
@@ -73,7 +87,8 @@
           ]
         },
         "years": [
-          2010
+          2010,
+          2008
         ]
       }
     ],
@@ -180,7 +195,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0001074,
+        "value": 0.0001079,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -197,7 +212,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000179,
+        "value": 0.000018,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -214,7 +229,7 @@
       {
         "id": "https://openalex.org/T10110",
         "display_name": "earthquake and tectonic studies",
-        "value": 0.0000146,
+        "value": 0.0000147,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -382,7 +397,7 @@
     ],
     "block_key": "r alouani",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051221143",
-    "updated_date": "2026-09-23T12:19:55",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -452,9 +467,20 @@
           "author": {
             "id": "https://openalex.org/A5111648436",
             "display_name": "S. Tlig",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I108714496",
+              "display_name": "Tunis University",
+              "ror": "https://ror.org/02q1spa57",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I108714496"
+              ]
+            },
             {
               "id": "https://openalex.org/I63596082",
               "display_name": "Tunis El Manar University",
@@ -479,6 +505,7 @@
             {
               "raw_affiliation_string": "UR-GAMM, Université Tunis El Manar, Faculté des Sciences de Tunis, 1060 Tunis, Tunisia",
               "institution_ids": [
+                "https://openalex.org/I108714496",
                 "https://openalex.org/I63596082"
               ]
             }
@@ -489,9 +516,20 @@
           "author": {
             "id": "https://openalex.org/A5085699286",
             "display_name": "S. Sahli",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I108714496",
+              "display_name": "Tunis University",
+              "ror": "https://ror.org/02q1spa57",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I108714496"
+              ]
+            },
             {
               "id": "https://openalex.org/I63596082",
               "display_name": "Tunis El Manar University",
@@ -516,6 +554,7 @@
             {
               "raw_affiliation_string": "UR-GAMM, Université Tunis El Manar, Faculté des Sciences de Tunis, 1060 Tunis, Tunisia",
               "institution_ids": [
+                "https://openalex.org/I108714496",
                 "https://openalex.org/I63596082"
               ]
             }
@@ -526,9 +565,20 @@
           "author": {
             "id": "https://openalex.org/A5026210309",
             "display_name": "L. Er-Raioui",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I108714496",
+              "display_name": "Tunis University",
+              "ror": "https://ror.org/02q1spa57",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I108714496"
+              ]
+            },
             {
               "id": "https://openalex.org/I63596082",
               "display_name": "Tunis El Manar University",
@@ -553,6 +603,7 @@
             {
               "raw_affiliation_string": "UR-GAMM, Université Tunis El Manar, Faculté des Sciences de Tunis, 1060 Tunis, Tunisia",
               "institution_ids": [
+                "https://openalex.org/I108714496",
                 "https://openalex.org/I63596082"
               ]
             }
@@ -563,9 +614,20 @@
           "author": {
             "id": "https://openalex.org/A5051221143",
             "display_name": "Rabah Alouani",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I108714496",
+              "display_name": "Tunis University",
+              "ror": "https://ror.org/02q1spa57",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I108714496"
+              ]
+            },
             {
               "id": "https://openalex.org/I63596082",
               "display_name": "Tunis El Manar University",
@@ -590,6 +652,7 @@
             {
               "raw_affiliation_string": "UR-GAMM, Université Tunis El Manar, Faculté des Sciences de Tunis, 1060 Tunis, Tunisia",
               "institution_ids": [
+                "https://openalex.org/I108714496",
                 "https://openalex.org/I63596082"
               ]
             }
@@ -600,23 +663,11 @@
           "author": {
             "id": "https://openalex.org/A5015413432",
             "display_name": "Moncef Mzoughi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210120017",
-              "display_name": "Tunisian Union of Agriculture and Fisheries",
-              "ror": "https://ror.org/02fv6wk06",
-              "country_code": "TN",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210120017"
-              ]
-            }
-          ],
-          "countries": [
-            "TN"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "M. Mzoughi",
           "raw_affiliation_strings": [
@@ -626,9 +677,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Entreprise Tunisienne des Activités Pétrolières, 27bis Avenue Kheireddine Pacha, BP 367, 1002 Tunis, Tunisia",
-              "institution_ids": [
-                "https://openalex.org/I4210120017"
-              ]
+              "institution_ids": []
             }
           ]
         }
@@ -640,6 +689,7 @@
         "https://openalex.org/A5111648436"
       ],
       "corresponding_institution_ids": [
+        "https://openalex.org/I108714496",
         "https://openalex.org/I63596082"
       ],
       "apc_list": {
@@ -648,16 +698,16 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 2.5095,
+      "fwci": 2.3047,
       "has_fulltext": false,
       "cited_by_count": 50,
       "citation_normalized_percentile": {
-        "value": 0.87377713,
+        "value": 0.86221118,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -1017,9 +1067,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -2390,13 +2440,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210141296",
-              "display_name": "Centre Hospitalo-Universitaire Mohammed VI d'Oujda",
-              "ror": "https://ror.org/04bmqy315",
+              "id": "https://openalex.org/I4210108110",
+              "display_name": "Mohamed I University",
+              "ror": "https://ror.org/01ejxf797",
               "country_code": "MA",
-              "type": "healthcare",
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I4210141296"
+                "https://openalex.org/I4210108110"
               ]
             }
           ],
@@ -2413,12 +2463,14 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Faculté des Sciences , Département de Géologie , B.P. 524 , 60000 Oujda / Maroc ;",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I4210108110"
+              ]
             },
             {
               "raw_affiliation_string": "Faculté des Sciences, Département de Géologie, Oujda",
               "institution_ids": [
-                "https://openalex.org/I4210141296"
+                "https://openalex.org/I4210108110"
               ]
             }
           ]
@@ -2464,7 +2516,9 @@
             },
             {
               "raw_affiliation_string": "Faculté des Sciences, Département de Géologie, Tunis",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I108714496"
+              ]
             }
           ]
         },
@@ -2507,7 +2561,9 @@
             },
             {
               "raw_affiliation_string": "Faculté des Sciences, Département de Géologie, Tunis",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I108714496"
+              ]
             }
           ]
         },
@@ -2519,31 +2575,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I108714496",
-              "display_name": "Tunis University",
-              "ror": "https://ror.org/02q1spa57",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I108714496"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I179097149",
-              "display_name": "University of Carthage",
-              "ror": "https://ror.org/057x6za15",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I179097149"
-              ]
-            }
-          ],
-          "countries": [
-            "TN"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "R. Alouani",
           "raw_affiliation_strings": [
@@ -2554,10 +2587,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Faculté des Sciences , Département de Géologie , Bizerte / Tunisie ",
-              "institution_ids": [
-                "https://openalex.org/I108714496",
-                "https://openalex.org/I179097149"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Faculté des Sciences, Département de Géologie, Bizerte",
@@ -2604,23 +2634,25 @@
             },
             {
               "raw_affiliation_string": "Faculté des Sciences, Département de Géologie, Tunis",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I108714496"
+              ]
             }
           ]
         }
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.466,
+      "fwci": 1.4559,
       "has_fulltext": true,
       "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.77519628,
+        "value": 0.77353922,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2932,9 +2964,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5600000023841858,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -3440,6 +3472,7 @@
           "listed_in": [
             "cwts-core",
             "jufo-1",
+            "ki-jl-1",
             "norway-1"
           ],
           "host_organization": "https://openalex.org/P4310320990",
@@ -3476,19 +3509,12 @@
           "author": {
             "id": "https://openalex.org/A5112896975",
             "display_name": "Kawthar Sebei",
-            "orcid": "https://orcid.org/0000-0002-5666-6958"
+            "orcid": "https://orcid.org/0000-0002-5666-6958",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5666-6958"
+            ]
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I108714496",
-              "display_name": "Tunis University",
-              "ror": "https://ror.org/02q1spa57",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I108714496"
-              ]
-            },
             {
               "id": "https://openalex.org/I63596082",
               "display_name": "Tunis El Manar University",
@@ -3513,7 +3539,6 @@
             {
               "raw_affiliation_string": "Université el Manar, Faculté des Sciences de Tunis, UR Géophysique Appliquée aux Minerais et aux Matériaux, Campus Universitaire, 1060 Tunis, Tunisia",
               "institution_ids": [
-                "https://openalex.org/I108714496",
                 "https://openalex.org/I63596082"
               ]
             }
@@ -3524,19 +3549,12 @@
           "author": {
             "id": "https://openalex.org/A5037420641",
             "display_name": "Mohamed Hédi Inoubli",
-            "orcid": "https://orcid.org/0000-0002-9329-2780"
+            "orcid": "https://orcid.org/0000-0002-9329-2780",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9329-2780"
+            ]
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I108714496",
-              "display_name": "Tunis University",
-              "ror": "https://ror.org/02q1spa57",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I108714496"
-              ]
-            },
             {
               "id": "https://openalex.org/I63596082",
               "display_name": "Tunis El Manar University",
@@ -3561,7 +3579,6 @@
             {
               "raw_affiliation_string": "Université el Manar, Faculté des Sciences de Tunis, UR Géophysique Appliquée aux Minerais et aux Matériaux, Campus Universitaire, 1060 Tunis, Tunisia",
               "institution_ids": [
-                "https://openalex.org/I108714496",
                 "https://openalex.org/I63596082"
               ]
             }
@@ -3572,19 +3589,12 @@
           "author": {
             "id": "https://openalex.org/A5022714102",
             "display_name": "Haïfa Boussiga",
-            "orcid": "https://orcid.org/0009-0003-9023-7676"
+            "orcid": "https://orcid.org/0009-0003-9023-7676",
+            "observed_orcids": [
+              "https://orcid.org/0009-0003-9023-7676"
+            ]
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I108714496",
-              "display_name": "Tunis University",
-              "ror": "https://ror.org/02q1spa57",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I108714496"
-              ]
-            },
             {
               "id": "https://openalex.org/I63596082",
               "display_name": "Tunis El Manar University",
@@ -3609,7 +3619,6 @@
             {
               "raw_affiliation_string": "Université el Manar, Faculté des Sciences de Tunis, UR Géophysique Appliquée aux Minerais et aux Matériaux, Campus Universitaire, 1060 Tunis, Tunisia",
               "institution_ids": [
-                "https://openalex.org/I108714496",
                 "https://openalex.org/I63596082"
               ]
             }
@@ -3620,19 +3629,10 @@
           "author": {
             "id": "https://openalex.org/A5113092818",
             "display_name": "Saïd Tlig",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I108714496",
-              "display_name": "Tunis University",
-              "ror": "https://ror.org/02q1spa57",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I108714496"
-              ]
-            },
             {
               "id": "https://openalex.org/I63596082",
               "display_name": "Tunis El Manar University",
@@ -3657,7 +3657,6 @@
             {
               "raw_affiliation_string": "Université el Manar, Faculté des Sciences de Tunis, UR Géophysique Appliquée aux Minerais et aux Matériaux, Campus Universitaire, 1060 Tunis, Tunisia",
               "institution_ids": [
-                "https://openalex.org/I108714496",
                 "https://openalex.org/I63596082"
               ]
             }
@@ -3668,23 +3667,11 @@
           "author": {
             "id": "https://openalex.org/A5051221143",
             "display_name": "Rabah Alouani",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I179097149",
-              "display_name": "University of Carthage",
-              "ror": "https://ror.org/057x6za15",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I179097149"
-              ]
-            }
-          ],
-          "countries": [
-            "TN"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Rabah Alouani",
           "raw_affiliation_strings": [
@@ -3694,9 +3681,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Département de géologie, Faculté des Sciences de Bizerte, Tunisia",
-              "institution_ids": [
-                "https://openalex.org/I179097149"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -3705,23 +3690,11 @@
           "author": {
             "id": "https://openalex.org/A5044748911",
             "display_name": "Mustapha Boujamaoui",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210145365",
-              "display_name": "Université Hassan 1er",
-              "ror": "https://ror.org/03cdvht47",
-              "country_code": "MA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210145365"
-              ]
-            }
-          ],
-          "countries": [
-            "MA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Mustapha Boujamaoui",
           "raw_affiliation_strings": [
@@ -3731,21 +3704,18 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Département de géologie, Faculté des Sciences et Technique. Errachidia, Morocco",
-              "institution_ids": [
-                "https://openalex.org/I4210145365"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5112896975"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I108714496",
         "https://openalex.org/I63596082"
       ],
       "apc_list": {
@@ -3758,12 +3728,12 @@
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.1248415,
+        "value": 0.1347923,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 98
       },
       "biblio": {
@@ -3992,6 +3962,7 @@
             "listed_in": [
               "cwts-core",
               "jufo-1",
+              "ki-jl-1",
               "norway-1"
             ],
             "host_organization": "https://openalex.org/P4310320990",
@@ -4016,9 +3987,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -4216,10 +4187,36 @@
           "author": {
             "id": "https://openalex.org/A5003096085",
             "display_name": "Imen Hamdi Nasr",
-            "orcid": "https://orcid.org/0000-0002-1995-9938"
+            "orcid": "https://orcid.org/0000-0002-1995-9938",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1995-9938"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I108714496",
+              "display_name": "Tunis University",
+              "ror": "https://ror.org/02q1spa57",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I108714496"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I63596082",
+              "display_name": "Tunis El Manar University",
+              "ror": "https://ror.org/029cgt552",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63596082"
+              ]
+            }
+          ],
+          "countries": [
+            "TN"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Imen Hamdi Nasr",
           "raw_affiliation_strings": [
@@ -4230,7 +4227,10 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I108714496",
+                "https://openalex.org/I63596082"
+              ]
             },
             {
               "raw_affiliation_string": "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux",
@@ -4243,10 +4243,34 @@
           "author": {
             "id": "https://openalex.org/A5110558857",
             "display_name": "Abdelhamid Ben Salem",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I108714496",
+              "display_name": "Tunis University",
+              "ror": "https://ror.org/02q1spa57",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I108714496"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I63596082",
+              "display_name": "Tunis El Manar University",
+              "ror": "https://ror.org/029cgt552",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63596082"
+              ]
+            }
+          ],
+          "countries": [
+            "TN"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Abdelhamid Ben Salem",
           "raw_affiliation_strings": [
@@ -4257,7 +4281,10 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I108714496",
+                "https://openalex.org/I63596082"
+              ]
             },
             {
               "raw_affiliation_string": "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux",
@@ -4270,10 +4297,36 @@
           "author": {
             "id": "https://openalex.org/A5037420641",
             "display_name": "Mohamed Hédi Inoubli",
-            "orcid": "https://orcid.org/0000-0002-9329-2780"
+            "orcid": "https://orcid.org/0000-0002-9329-2780",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9329-2780"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I108714496",
+              "display_name": "Tunis University",
+              "ror": "https://ror.org/02q1spa57",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I108714496"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I63596082",
+              "display_name": "Tunis El Manar University",
+              "ror": "https://ror.org/029cgt552",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63596082"
+              ]
+            }
+          ],
+          "countries": [
+            "TN"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Mohamed Hedi Inoubli",
           "raw_affiliation_strings": [
@@ -4284,7 +4337,10 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I108714496",
+                "https://openalex.org/I63596082"
+              ]
             },
             {
               "raw_affiliation_string": "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux",
@@ -4297,10 +4353,34 @@
           "author": {
             "id": "https://openalex.org/A5015157002",
             "display_name": "Jamel Dhifi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I108714496",
+              "display_name": "Tunis University",
+              "ror": "https://ror.org/02q1spa57",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I108714496"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I63596082",
+              "display_name": "Tunis El Manar University",
+              "ror": "https://ror.org/029cgt552",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63596082"
+              ]
+            }
+          ],
+          "countries": [
+            "TN"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Jamel Dhifi",
           "raw_affiliation_strings": [
@@ -4311,7 +4391,10 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I108714496",
+                "https://openalex.org/I63596082"
+              ]
             },
             {
               "raw_affiliation_string": "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux",
@@ -4324,10 +4407,34 @@
           "author": {
             "id": "https://openalex.org/A5051221143",
             "display_name": "Rabah Alouani",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I108714496",
+              "display_name": "Tunis University",
+              "ror": "https://ror.org/02q1spa57",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I108714496"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I63596082",
+              "display_name": "Tunis El Manar University",
+              "ror": "https://ror.org/029cgt552",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63596082"
+              ]
+            }
+          ],
+          "countries": [
+            "TN"
+          ],
           "is_corresponding": false,
           "raw_author_name": "R. Alouani",
           "raw_affiliation_strings": [
@@ -4338,7 +4445,10 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I108714496",
+                "https://openalex.org/I63596082"
+              ]
             },
             {
               "raw_affiliation_string": "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux",
@@ -4351,10 +4461,34 @@
           "author": {
             "id": "https://openalex.org/A5032718778",
             "display_name": "A. Chaqui",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I108714496",
+              "display_name": "Tunis University",
+              "ror": "https://ror.org/02q1spa57",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I108714496"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I63596082",
+              "display_name": "Tunis El Manar University",
+              "ror": "https://ror.org/029cgt552",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63596082"
+              ]
+            }
+          ],
+          "countries": [
+            "TN"
+          ],
           "is_corresponding": false,
           "raw_author_name": "abdelhak Chaqui",
           "raw_affiliation_strings": [
@@ -4365,7 +4499,10 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Faculté des Sciences de Tunis, Département de Géologie, Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux, Tunis, 1060, Tunisie",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I108714496",
+                "https://openalex.org/I63596082"
+              ]
             },
             {
               "raw_affiliation_string": "Unité de Recherche de Géophysique Appliquée aux Minerais et aux Matériaux",
@@ -4378,7 +4515,8 @@
           "author": {
             "id": "https://openalex.org/A5052382945",
             "display_name": "Vincent Perthuisot",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -4389,17 +4527,6 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I12449238"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I142476485",
-              "display_name": "École Polytechnique",
-              "ror": "https://ror.org/05hy3tk52",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I142476485",
-                "https://openalex.org/I4210145102"
               ]
             }
           ],
@@ -4422,16 +4549,14 @@
             },
             {
               "raw_affiliation_string": "Ecole Polytechnique d’Orléans",
-              "institution_ids": [
-                "https://openalex.org/I142476485"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -4440,11 +4565,11 @@
         "value_usd": 1490
       },
       "apc_paid": null,
-      "fwci": 0.7897,
+      "fwci": 0.7279,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.6947113,
+        "value": 0.6693748,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5422,7 +5547,10 @@
           "author": {
             "id": "https://openalex.org/A5026740867",
             "display_name": "Nejla Sekatni",
-            "orcid": "https://orcid.org/0009-0000-0657-8864"
+            "orcid": "https://orcid.org/0009-0000-0657-8864",
+            "observed_orcids": [
+              "https://orcid.org/0009-0000-0657-8864"
+            ]
           },
           "institutions": [
             {
@@ -5433,6 +5561,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I108714496"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I63596082",
+              "display_name": "Tunis El Manar University",
+              "ror": "https://ror.org/029cgt552",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63596082"
               ]
             }
           ],
@@ -5449,7 +5587,8 @@
             {
               "raw_affiliation_string": "Département de géologie, faculté des sciences de Tunis, 1060 El Manar II, Tunis, Tunisie",
               "institution_ids": [
-                "https://openalex.org/I108714496"
+                "https://openalex.org/I108714496",
+                "https://openalex.org/I63596082"
               ]
             }
           ]
@@ -5459,7 +5598,8 @@
           "author": {
             "id": "https://openalex.org/A5103919369",
             "display_name": "Philippe Fauré",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -5507,10 +5647,24 @@
           "author": {
             "id": "https://openalex.org/A5051221143",
             "display_name": "Rabah Alouani",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I179097149",
+              "display_name": "University of Carthage",
+              "ror": "https://ror.org/057x6za15",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I179097149"
+              ]
+            }
+          ],
+          "countries": [
+            "TN"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Rabah Alouani",
           "raw_affiliation_strings": [
@@ -5520,7 +5674,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Département de géologie, faculté des sciences de Bizerte, 7021 Zerzouna Bizerte, Tunisie",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I179097149"
+              ]
             }
           ]
         },
@@ -5529,7 +5685,8 @@
           "author": {
             "id": "https://openalex.org/A5018333726",
             "display_name": "Fouad Zargouni",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -5540,6 +5697,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I108714496"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I63596082",
+              "display_name": "Tunis El Manar University",
+              "ror": "https://ror.org/029cgt552",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63596082"
               ]
             }
           ],
@@ -5556,7 +5723,8 @@
             {
               "raw_affiliation_string": "Département de géologie, faculté des sciences de Tunis, 1060 El Manar II, Tunis, Tunisie",
               "institution_ids": [
-                "https://openalex.org/I108714496"
+                "https://openalex.org/I108714496",
+                "https://openalex.org/I63596082"
               ]
             }
           ]
@@ -5564,7 +5732,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [
         "https://openalex.org/A5103919369"
       ],
@@ -5577,7 +5745,7 @@
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.11409197,
+        "value": 0.12331863,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5751,9 +5919,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.47999998927116394,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -6909,16 +7077,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I108714496",
-              "display_name": "Tunis University",
-              "ror": "https://ror.org/02q1spa57",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I108714496"
-              ]
-            },
-            {
               "id": "https://openalex.org/I63596082",
               "display_name": "Tunis El Manar University",
               "ror": "https://ror.org/029cgt552",
@@ -6942,7 +7100,6 @@
             {
               "raw_affiliation_string": "Département de Géologie, Faculté des Sciences de Tunis, Université de Tunis El Manar, 2092, El Manar, Tunis, Tunisia",
               "institution_ids": [
-                "https://openalex.org/I108714496",
                 "https://openalex.org/I63596082"
               ]
             }
@@ -6989,7 +7146,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5022326152",
         "https://openalex.org/A5028508336"
@@ -7003,16 +7160,16 @@
         "value_usd": 3890
       },
       "apc_paid": null,
-      "fwci": 0.3696,
+      "fwci": 0.3454,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.56887511,
+        "value": 0.54088205,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 96
       },
       "biblio": {
@@ -7513,10 +7670,24 @@
           "author": {
             "id": "https://openalex.org/A5103919369",
             "display_name": "Philippe Fauré",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4405279777",
+              "display_name": "Muséum de Toulouse",
+              "ror": "https://ror.org/01zq1k742",
+              "country_code": "FR",
+              "type": "archive",
+              "lineage": [
+                "https://openalex.org/I4405279777"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Philippe Fauré",
           "raw_affiliation_strings": [
@@ -7526,7 +7697,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Centre d'ACP, 47 rue Théron Périé, BP 30205, F-81104 Castres cedex (France) et Muséum d'Histoire Naturelle de Toulouse, F-31000, Toulouse (France) philipfaure@wanadoo.fr",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I4405279777"
+              ]
             }
           ]
         },
@@ -7535,7 +7708,10 @@
           "author": {
             "id": "https://openalex.org/A5026740867",
             "display_name": "Nejla Sekatni",
-            "orcid": "https://orcid.org/0009-0000-0657-8864"
+            "orcid": "https://orcid.org/0009-0000-0657-8864",
+            "observed_orcids": [
+              "https://orcid.org/0009-0000-0657-8864"
+            ]
           },
           "institutions": [
             {
@@ -7572,10 +7748,36 @@
           "author": {
             "id": "https://openalex.org/A5049706062",
             "display_name": "Mohamed Sabri Arfaoui",
-            "orcid": "https://orcid.org/0000-0002-4068-1037"
+            "orcid": "https://orcid.org/0000-0002-4068-1037",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4068-1037"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I108714496",
+              "display_name": "Tunis University",
+              "ror": "https://ror.org/02q1spa57",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I108714496"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I63596082",
+              "display_name": "Tunis El Manar University",
+              "ror": "https://ror.org/029cgt552",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63596082"
+              ]
+            }
+          ],
+          "countries": [
+            "TN"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Mohamed Sabri Arfaoui",
           "raw_affiliation_strings": [
@@ -7585,7 +7787,10 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Département de géologie, faculté des sciences de Tunis, 1060 El Manar II, Tunis (Tunisie) sabriarfaoui@yahoo.fr",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I108714496",
+                "https://openalex.org/I63596082"
+              ]
             }
           ]
         },
@@ -7594,7 +7799,8 @@
           "author": {
             "id": "https://openalex.org/A5051221143",
             "display_name": "Rabah Alouani",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -7628,17 +7834,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6952,
+      "fwci": 0.6783,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.66178769,
+        "value": 0.65338182,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7858,9 +8064,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5799999833106995,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -8387,7 +8593,8 @@
           "author": {
             "id": "https://openalex.org/A5042601635",
             "display_name": "Sirine Chouat",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -8431,7 +8638,8 @@
           "author": {
             "id": "https://openalex.org/A5082399486",
             "display_name": "Mohamed Slim El Ayachi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -8475,9 +8683,22 @@
           "author": {
             "id": "https://openalex.org/A5070323210",
             "display_name": "Kamel Boukhalfa",
-            "orcid": "https://orcid.org/0000-0001-5115-565X"
+            "orcid": "https://orcid.org/0000-0001-5115-565X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5115-565X"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I108714496",
+              "display_name": "Tunis University",
+              "ror": "https://ror.org/02q1spa57",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I108714496"
+              ]
+            },
             {
               "id": "https://openalex.org/I179097149",
               "display_name": "University of Carthage",
@@ -8521,6 +8742,7 @@
             {
               "raw_affiliation_string": "Faculty of Sciences of Tunis, LR18ES07, University of Tunis El Manar, 2092, Tunis, Tunisia",
               "institution_ids": [
+                "https://openalex.org/I108714496",
                 "https://openalex.org/I63596082"
               ]
             },
@@ -8533,6 +8755,7 @@
             {
               "raw_affiliation_string": "Faculty of Sciences of Tunis, LR18ES07, University of Tunis El Manar, Tunis, Tunisia",
               "institution_ids": [
+                "https://openalex.org/I108714496",
                 "https://openalex.org/I63596082"
               ]
             }
@@ -8543,7 +8766,8 @@
           "author": {
             "id": "https://openalex.org/A5051221143",
             "display_name": "Rabah Alouani",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -8587,9 +8811,22 @@
           "author": {
             "id": "https://openalex.org/A5040276116",
             "display_name": "Mohamed Soussi",
-            "orcid": "https://orcid.org/0000-0001-7819-2231"
+            "orcid": "https://orcid.org/0000-0001-7819-2231",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7819-2231"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I108714496",
+              "display_name": "Tunis University",
+              "ror": "https://ror.org/02q1spa57",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I108714496"
+              ]
+            },
             {
               "id": "https://openalex.org/I63596082",
               "display_name": "Tunis El Manar University",
@@ -8615,12 +8852,14 @@
             {
               "raw_affiliation_string": "Faculty of Sciences of Tunis, LR18ES07, University of Tunis El Manar, 2092, Tunis, Tunisia",
               "institution_ids": [
+                "https://openalex.org/I108714496",
                 "https://openalex.org/I63596082"
               ]
             },
             {
               "raw_affiliation_string": "Faculty of Sciences of Tunis, LR18ES07, University of Tunis El Manar, Tunis, Tunisia",
               "institution_ids": [
+                "https://openalex.org/I108714496",
                 "https://openalex.org/I63596082"
               ]
             }
@@ -8631,7 +8870,10 @@
           "author": {
             "id": "https://openalex.org/A5113097444",
             "display_name": "Mabrouk Boughdiri",
-            "orcid": "https://orcid.org/0000-0002-0535-214X"
+            "orcid": "https://orcid.org/0000-0002-0535-214X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0535-214X"
+            ]
           },
           "institutions": [
             {
@@ -8673,7 +8915,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5113097444"
       ],
@@ -8686,11 +8928,11 @@
         "value_usd": 2890
       },
       "apc_paid": null,
-      "fwci": 0.5434,
+      "fwci": 0.5124,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.56153122,
+        "value": 0.53770698,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8994,9 +9236,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -9384,9 +9626,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.4000000059604645,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -10785,9 +11027,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities",
           "score": 0.5699999928474426,
-          "display_name": "Sustainable cities and communities"
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "x_sdgs": [],
@@ -11775,6 +12017,7 @@
           "listed_in": [
             "cwts-core",
             "jufo-1",
+            "ki-jl-1",
             "norway-1"
           ],
           "host_organization": "https://openalex.org/P4310320990",
@@ -11811,7 +12054,10 @@
           "author": {
             "id": "https://openalex.org/A5022714102",
             "display_name": "Haïfa Boussiga",
-            "orcid": "https://orcid.org/0009-0003-9023-7676"
+            "orcid": "https://orcid.org/0009-0003-9023-7676",
+            "observed_orcids": [
+              "https://orcid.org/0009-0003-9023-7676"
+            ]
           },
           "institutions": [
             {
@@ -11859,7 +12105,10 @@
           "author": {
             "id": "https://openalex.org/A5112896975",
             "display_name": "Kawthar Sebei",
-            "orcid": "https://orcid.org/0000-0002-5666-6958"
+            "orcid": "https://orcid.org/0000-0002-5666-6958",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5666-6958"
+            ]
           },
           "institutions": [
             {
@@ -11907,23 +12156,11 @@
           "author": {
             "id": "https://openalex.org/A5051221143",
             "display_name": "Rabah Alouani",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I179097149",
-              "display_name": "University of Carthage",
-              "ror": "https://ror.org/057x6za15",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I179097149"
-              ]
-            }
-          ],
-          "countries": [
-            "TN"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Rabah Alouani",
           "raw_affiliation_strings": [
@@ -11933,9 +12170,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Département de Géologie, Faculté des Sciences de Bizerte, Zarzouna 7021, Tunisia",
-              "institution_ids": [
-                "https://openalex.org/I179097149"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -11944,7 +12179,8 @@
           "author": {
             "id": "https://openalex.org/A5113092818",
             "display_name": "Saïd Tlig",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -11992,7 +12228,10 @@
           "author": {
             "id": "https://openalex.org/A5037420641",
             "display_name": "Mohamed Hédi Inoubli",
-            "orcid": "https://orcid.org/0000-0002-9329-2780"
+            "orcid": "https://orcid.org/0000-0002-9329-2780",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9329-2780"
+            ]
           },
           "institutions": [
             {
@@ -12038,7 +12277,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -12051,7 +12290,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.1791967,
+        "value": 0.18372537,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12212,6 +12451,7 @@
             "listed_in": [
               "cwts-core",
               "jufo-1",
+              "ki-jl-1",
               "norway-1"
             ],
             "host_organization": "https://openalex.org/P4310320990",
@@ -12236,9 +12476,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8100000023841858,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -12651,9 +12891,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -13896,7 +14136,10 @@
           "author": {
             "id": "https://openalex.org/A5101690321",
             "display_name": "Benmohamed Mohammed",
-            "orcid": "https://orcid.org/0000-0002-7073-8225"
+            "orcid": "https://orcid.org/0000-0002-7073-8225",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7073-8225"
+            ]
           },
           "institutions": [
             {
@@ -13907,6 +14150,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I179097149"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210110695",
+              "display_name": "Université Tunis Carthage",
+              "ror": "https://ror.org/01xf5pq20",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210110695"
               ]
             }
           ],
@@ -13924,7 +14177,8 @@
             {
               "raw_affiliation_string": "Département Des Sciences de La Terre, Faculté Des Sciences, de Bizerte, Université de Carthage, Bizerte, Tunisia",
               "institution_ids": [
-                "https://openalex.org/I179097149"
+                "https://openalex.org/I179097149",
+                "https://openalex.org/I4210110695"
               ]
             },
             {
@@ -13940,7 +14194,8 @@
           "author": {
             "id": null,
             "display_name": "Bejaoui Marouene",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -13977,7 +14232,8 @@
           "author": {
             "id": "https://openalex.org/A5073611408",
             "display_name": "Ayechi Mohamed Slim",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -13988,6 +14244,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I179097149"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210110695",
+              "display_name": "Université Tunis Carthage",
+              "ror": "https://ror.org/01xf5pq20",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210110695"
               ]
             }
           ],
@@ -14004,7 +14270,8 @@
             {
               "raw_affiliation_string": "Département Des Sciences de La Terre, Faculté Des Sciences, de Bizerte, Université de Carthage, Bizerte, Tunisia",
               "institution_ids": [
-                "https://openalex.org/I179097149"
+                "https://openalex.org/I179097149",
+                "https://openalex.org/I4210110695"
               ]
             }
           ]
@@ -14014,7 +14281,8 @@
           "author": {
             "id": "https://openalex.org/A5021319743",
             "display_name": "Sahar Belgacem",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -14036,7 +14304,8 @@
           "author": {
             "id": "https://openalex.org/A5051221143",
             "display_name": "Rabah Alouani",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -14047,6 +14316,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I179097149"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210110695",
+              "display_name": "Université Tunis Carthage",
+              "ror": "https://ror.org/01xf5pq20",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210110695"
               ]
             }
           ],
@@ -14063,7 +14342,8 @@
             {
               "raw_affiliation_string": "Département Des Sciences de La Terre, Faculté Des Sciences, de Bizerte, Université de Carthage, Bizerte, Tunisia",
               "institution_ids": [
-                "https://openalex.org/I179097149"
+                "https://openalex.org/I179097149",
+                "https://openalex.org/I4210110695"
               ]
             }
           ]
@@ -14073,7 +14353,8 @@
           "author": {
             "id": "https://openalex.org/A5055487026",
             "display_name": "Ben Haj Amara Abdesslem",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -14108,12 +14389,13 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5101690321"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I179097149"
+        "https://openalex.org/I179097149",
+        "https://openalex.org/I4210110695"
       ],
       "apc_list": {
         "value": 2890,
@@ -14125,7 +14407,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.0298238,
+        "value": 0.02851433,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14499,7 +14781,8 @@
           "author": {
             "id": "https://openalex.org/A5042601635",
             "display_name": "Sirine Chouat",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -14536,7 +14819,8 @@
           "author": {
             "id": "https://openalex.org/A5082399486",
             "display_name": "Mohamed Slim El Ayachi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -14573,9 +14857,22 @@
           "author": {
             "id": "https://openalex.org/A5070323210",
             "display_name": "Kamel Boukhalfa",
-            "orcid": "https://orcid.org/0000-0001-5115-565X"
+            "orcid": "https://orcid.org/0000-0001-5115-565X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5115-565X"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I108714496",
+              "display_name": "Tunis University",
+              "ror": "https://ror.org/02q1spa57",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I108714496"
+              ]
+            },
             {
               "id": "https://openalex.org/I179097149",
               "display_name": "University of Carthage",
@@ -14617,6 +14914,7 @@
             {
               "raw_affiliation_string": "Faculty of Sciences of Tunis, LR18ES07, University of Tunis El Manar, 2092, Tunis, Tunisia",
               "institution_ids": [
+                "https://openalex.org/I108714496",
                 "https://openalex.org/I63596082"
               ]
             }
@@ -14627,7 +14925,8 @@
           "author": {
             "id": "https://openalex.org/A5051221143",
             "display_name": "Rabah Alouani",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -14664,9 +14963,22 @@
           "author": {
             "id": "https://openalex.org/A5040276116",
             "display_name": "Mohamed Soussi",
-            "orcid": "https://orcid.org/0000-0001-7819-2231"
+            "orcid": "https://orcid.org/0000-0001-7819-2231",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7819-2231"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I108714496",
+              "display_name": "Tunis University",
+              "ror": "https://ror.org/02q1spa57",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I108714496"
+              ]
+            },
             {
               "id": "https://openalex.org/I63596082",
               "display_name": "Tunis El Manar University",
@@ -14691,6 +15003,7 @@
             {
               "raw_affiliation_string": "Faculty of Sciences of Tunis, LR18ES07, University of Tunis El Manar, 2092, Tunis, Tunisia",
               "institution_ids": [
+                "https://openalex.org/I108714496",
                 "https://openalex.org/I63596082"
               ]
             }
@@ -14701,7 +15014,10 @@
           "author": {
             "id": "https://openalex.org/A5113097444",
             "display_name": "Mabrouk Boughdiri",
-            "orcid": "https://orcid.org/0000-0002-0535-214X"
+            "orcid": "https://orcid.org/0000-0002-0535-214X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0535-214X"
+            ]
           },
           "institutions": [
             {
@@ -14736,7 +15052,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5113097444"
       ],
@@ -15028,9 +15344,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6600000262260437,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],

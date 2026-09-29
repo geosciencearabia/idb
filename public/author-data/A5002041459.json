@@ -75,7 +75,8 @@
           ]
         },
         "years": [
-          2021
+          2021,
+          2014
         ]
       }
     ],
@@ -182,7 +183,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000278,
+        "value": 0.0000279,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -199,7 +200,7 @@
       {
         "id": "https://openalex.org/T11278",
         "display_name": "Calcium Carbonate Crystallization and Inhibition",
-        "value": 0.0000231,
+        "value": 0.0000232,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -216,7 +217,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000181,
+        "value": 0.0000182,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -233,7 +234,7 @@
       {
         "id": "https://openalex.org/T10577",
         "display_name": "Hydrology and Sediment Transport Processes",
-        "value": 0.000015,
+        "value": 0.0000151,
         "subfield": {
           "id": "https://openalex.org/subfields/2303",
           "display_name": "Ecology"
@@ -250,7 +251,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000109,
+        "value": 0.000011,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -348,7 +349,7 @@
     ],
     "block_key": "n michael",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5002041459",
-    "updated_date": "2026-09-25T12:19:18",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -709,6 +710,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I124357947",
+              "display_name": "University of London",
+              "ror": "https://ror.org/04cw6st05",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947"
+              ]
+            },
+            {
               "id": "https://openalex.org/I184558857",
               "display_name": "Royal Holloway University of London",
               "ror": "https://ror.org/04g2vpn86",
@@ -740,6 +751,7 @@
             {
               "raw_affiliation_string": "Department of Earth Sciences, Royal Holloway College, University of London, Egham, Surrey, UK",
               "institution_ids": [
+                "https://openalex.org/I124357947",
                 "https://openalex.org/I184558857"
               ]
             }
@@ -748,7 +760,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [
         "https://openalex.org/A5103059223"
       ],
@@ -761,11 +773,11 @@
         "value_usd": 4310
       },
       "apc_paid": null,
-      "fwci": 2.6605,
+      "fwci": 2.6407,
       "has_fulltext": false,
       "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.87628496,
+        "value": 0.87540589,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1117,8 +1129,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -2075,6 +2087,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I124357947",
+              "display_name": "University of London",
+              "ror": "https://ror.org/04cw6st05",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947"
+              ]
+            },
+            {
               "id": "https://openalex.org/I184558857",
               "display_name": "Royal Holloway University of London",
               "ror": "https://ror.org/04g2vpn86",
@@ -2099,6 +2121,7 @@
             {
               "raw_affiliation_string": "2. Department of Earth Sciences, Royal Holloway College, University of London, Egham, Surrey TW20 0EX, United Kingdom",
               "institution_ids": [
+                "https://openalex.org/I124357947",
                 "https://openalex.org/I184558857"
               ]
             }
@@ -2267,7 +2290,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [
         "https://openalex.org/A5002041459",
         "https://openalex.org/A5006187359",
@@ -2277,17 +2300,18 @@
         "https://openalex.org/A5103059223"
       ],
       "corresponding_institution_ids": [
+        "https://openalex.org/I124357947",
         "https://openalex.org/I184558857",
         "https://openalex.org/I4210143841",
         "https://openalex.org/I47508984"
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.5609,
+      "fwci": 4.5269,
       "has_fulltext": false,
       "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.93868037,
+        "value": 0.93842453,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2689,8 +2713,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5899999737739563
+          "score": 0.5899999737739563,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -2704,8 +2728,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -3698,8 +3722,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/2",
-          "display_name": "Zero hunger",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "display_name": "Zero hunger"
         }
       ],
       "x_sdgs": [],
@@ -3713,8 +3737,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -4507,7 +4531,10 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
-            "orcid": "https://orcid.org/0000-0002-6113-9589"
+            "orcid": "https://orcid.org/0000-0002-6113-9589",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6113-9589"
+            ]
           },
           "institutions": [
             {
@@ -4529,11 +4556,23 @@
               "lineage": [
                 "https://openalex.org/I47508984"
               ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             }
           ],
           "countries": [
             "GB",
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Nikolaos A. Michael",
@@ -4552,7 +4591,8 @@
             {
               "raw_affiliation_string": "Present address: Saudi Aramco, GTD, EXPEC ARC Advanced Research Centre, PO Box 1102, Abqaiq, 31311, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             }
           ]
@@ -4562,9 +4602,22 @@
           "author": {
             "id": "https://openalex.org/A5039403820",
             "display_name": "Andrew Carter",
-            "orcid": "https://orcid.org/0000-0002-0090-5868"
+            "orcid": "https://orcid.org/0000-0002-0090-5868",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0090-5868"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I124357947",
+              "display_name": "University of London",
+              "ror": "https://ror.org/04cw6st05",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947"
+              ]
+            },
             {
               "id": "https://openalex.org/I98259816",
               "display_name": "Birkbeck, University of London",
@@ -4591,6 +4644,7 @@
             {
               "raw_affiliation_string": "Department of Earth and Planetary Sciences, Birkbeck College, University of London, Malet Street, London WC1E 7HX, UK",
               "institution_ids": [
+                "https://openalex.org/I124357947",
                 "https://openalex.org/I98259816"
               ]
             },
@@ -4607,7 +4661,10 @@
           "author": {
             "id": "https://openalex.org/A5033147400",
             "display_name": "Alexander C. Whittaker",
-            "orcid": "https://orcid.org/0000-0002-8781-7771"
+            "orcid": "https://orcid.org/0000-0002-8781-7771",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8781-7771"
+            ]
           },
           "institutions": [
             {
@@ -4644,7 +4701,10 @@
           "author": {
             "id": "https://openalex.org/A5103059223",
             "display_name": "Philip A. Allen",
-            "orcid": "https://orcid.org/0000-0002-7543-7042"
+            "orcid": "https://orcid.org/0000-0002-7543-7042",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7543-7042"
+            ]
           },
           "institutions": [
             {
@@ -4678,17 +4738,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3684,
+      "fwci": 2.344,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.866126,
+        "value": 0.86493229,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5053,8 +5113,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -6247,8 +6307,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.75
+          "score": 0.75,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -6256,8 +6316,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -7380,8 +7440,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -7395,8 +7455,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -8067,7 +8127,10 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
-            "orcid": "https://orcid.org/0000-0002-6113-9589"
+            "orcid": "https://orcid.org/0000-0002-6113-9589",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6113-9589"
+            ]
           },
           "institutions": [
             {
@@ -8079,10 +8142,22 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Nikolaos A. Michael",
@@ -8094,7 +8169,8 @@
             {
               "raw_affiliation_string": "Saudi Aramco 1 1 Geological Technology Division, Exploration and Petroleum Engineering Center – Advanced Research Center, , Dhahran, Saudi Arabia; nikolaos.michael@aramco.com",
               "institution_ids": [
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             }
           ]
@@ -8104,7 +8180,10 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
-            "orcid": "https://orcid.org/0000-0002-9728-9036"
+            "orcid": "https://orcid.org/0000-0002-9728-9036",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9728-9036"
+            ]
           },
           "institutions": [
             {
@@ -8138,19 +8217,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210143841"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1225,
+      "fwci": 1.0505,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.81404057,
+        "value": 0.8043495,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8418,8 +8495,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -8427,8 +8504,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -9117,9 +9194,22 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
-            "orcid": "https://orcid.org/0000-0002-6113-9589"
+            "orcid": "https://orcid.org/0000-0002-6113-9589",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6113-9589"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -9133,6 +9223,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -9145,6 +9236,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -9155,9 +9247,20 @@
           "author": {
             "id": "https://openalex.org/A5045570928",
             "display_name": "Christian Scheibe",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -9171,6 +9274,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -9183,6 +9287,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -9193,9 +9298,22 @@
           "author": {
             "id": "https://openalex.org/A5013083803",
             "display_name": "Neil W. Craigie",
-            "orcid": "https://orcid.org/0000-0002-9728-9036"
+            "orcid": "https://orcid.org/0000-0002-9728-9036",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9728-9036"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -9209,6 +9327,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -9221,6 +9340,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -9228,25 +9348,23 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I62856769"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.18557587,
+        "value": 0.16105644,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
-        "max": 97
+        "min": 90,
+        "max": 96
       },
       "biblio": {
         "volume": null,
@@ -9527,13 +9645,13 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/16",
-          "display_name": "Peace, Justice and strong institutions",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "display_name": "Peace, Justice and strong institutions"
         },
         {
           "id": "https://metadata.un.org/sdg/10",
-          "display_name": "Reduced inequalities",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "display_name": "Reduced inequalities"
         }
       ],
       "x_sdgs": [],
@@ -9541,8 +9659,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -10592,16 +10710,6 @@
               "lineage": [
                 "https://openalex.org/I130238516"
               ]
-            },
-            {
-              "id": "https://openalex.org/I2802223849",
-              "display_name": "Saint Anthony College of Nursing",
-              "ror": "https://ror.org/010wj6161",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I2802223849"
-              ]
             }
           ],
           "countries": [
@@ -10617,8 +10725,7 @@
             {
               "raw_affiliation_string": "St. Anthony Falls Laboratory and Department of Earth and Environmental Sciences, College of Science and Engineering, University of Minnesota, Minneapolis MN 55414, United States",
               "institution_ids": [
-                "https://openalex.org/I130238516",
-                "https://openalex.org/I2802223849"
+                "https://openalex.org/I130238516"
               ]
             }
           ]
@@ -10641,16 +10748,6 @@
               "lineage": [
                 "https://openalex.org/I130238516"
               ]
-            },
-            {
-              "id": "https://openalex.org/I2802223849",
-              "display_name": "Saint Anthony College of Nursing",
-              "ror": "https://ror.org/010wj6161",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I2802223849"
-              ]
             }
           ],
           "countries": [
@@ -10666,8 +10763,7 @@
             {
               "raw_affiliation_string": "St. Anthony Falls Laboratory and Department of Earth and Environmental Sciences, College of Science and Engineering, University of Minnesota, Minneapolis MN 55414, United States",
               "institution_ids": [
-                "https://openalex.org/I130238516",
-                "https://openalex.org/I2802223849"
+                "https://openalex.org/I130238516"
               ]
             }
           ]
@@ -10690,16 +10786,6 @@
               "lineage": [
                 "https://openalex.org/I130238516"
               ]
-            },
-            {
-              "id": "https://openalex.org/I2802223849",
-              "display_name": "Saint Anthony College of Nursing",
-              "ror": "https://ror.org/010wj6161",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I2802223849"
-              ]
             }
           ],
           "countries": [
@@ -10715,8 +10801,7 @@
             {
               "raw_affiliation_string": "St. Anthony Falls Laboratory and Department of Earth and Environmental Sciences, College of Science and Engineering, University of Minnesota, Minneapolis MN 55414, United States",
               "institution_ids": [
-                "https://openalex.org/I130238516",
-                "https://openalex.org/I2802223849"
+                "https://openalex.org/I130238516"
               ]
             }
           ]
@@ -10729,24 +10814,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210152837",
-              "display_name": "Dhahran Health Center",
-              "ror": "https://ror.org/03pjj1n42",
-              "country_code": "SA",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I2799853436",
-                "https://openalex.org/I2800952698",
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I4210152837"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Hussain Al-Qatari",
           "raw_affiliation_strings": [
@@ -10756,16 +10825,14 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Halliburton-Ingrain, Dhahran Technology Center, Dhahran Techno Valley, 34464, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210152837"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -10774,11 +10841,11 @@
         "value_usd": 3640
       },
       "apc_paid": null,
-      "fwci": 2.0098,
+      "fwci": 1.9709,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.78993444,
+        "value": 0.78748294,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11135,8 +11202,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8669640421867371
+          "score": 0.8669640421867371,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -11150,8 +11217,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -11271,9 +11338,22 @@
           "author": {
             "id": "https://openalex.org/A5002041459",
             "display_name": "Nikolaos A. Michael",
-            "orcid": "https://orcid.org/0000-0002-6113-9589"
+            "orcid": "https://orcid.org/0000-0002-6113-9589",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6113-9589"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -11287,6 +11367,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -11299,6 +11380,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -11309,9 +11391,22 @@
           "author": {
             "id": "https://openalex.org/A5086485606",
             "display_name": "Rainer Zühlke",
-            "orcid": "https://orcid.org/0000-0001-8629-983X"
+            "orcid": "https://orcid.org/0000-0001-8629-983X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8629-983X"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -11325,6 +11420,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -11337,6 +11433,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -11344,19 +11441,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I62856769"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.36230707,
+        "value": 0.35789474,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11684,8 +11779,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -11693,8 +11788,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -12969,8 +13064,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13679,24 +13774,8 @@
               "https://orcid.org/0000-0003-2620-0572"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210152837",
-              "display_name": "Dhahran Health Center",
-              "ror": "https://ror.org/03pjj1n42",
-              "country_code": "SA",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I2799853436",
-                "https://openalex.org/I2800952698",
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I4210152837"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Ahmed Hafez",
           "raw_affiliation_strings": [
@@ -13706,9 +13785,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Halliburton-Ingrain, Dhahran Technology Center, Dhahran Techno Valley, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210152837"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -13720,24 +13797,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210152837",
-              "display_name": "Dhahran Health Center",
-              "ror": "https://ror.org/03pjj1n42",
-              "country_code": "SA",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I2799853436",
-                "https://openalex.org/I2800952698",
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I4210152837"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Avrami Grader",
           "raw_affiliation_strings": [
@@ -13747,9 +13808,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Halliburton-Ingrain, Dhahran Technology Center, Dhahran Techno Valley, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210152837"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -13761,24 +13820,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210152837",
-              "display_name": "Dhahran Health Center",
-              "ror": "https://ror.org/03pjj1n42",
-              "country_code": "SA",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I2799853436",
-                "https://openalex.org/I2800952698",
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I4210152837"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Hussain Al-Qatari",
           "raw_affiliation_strings": [
@@ -13788,16 +13831,14 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Halliburton-Ingrain, Dhahran Technology Center, Dhahran Techno Valley, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210152837"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -13806,7 +13847,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.23106547,
+        "value": 0.23131443,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14146,8 +14187,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -15355,8 +15396,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8427148461341858
+          "score": 0.8427148461341858,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -15364,8 +15405,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,

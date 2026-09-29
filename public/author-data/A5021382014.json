@@ -378,7 +378,10 @@
           "author": {
             "id": "https://openalex.org/A5066910018",
             "display_name": "Warren W. Wood",
-            "orcid": "https://orcid.org/0000-0002-3335-7597"
+            "orcid": "https://orcid.org/0000-0002-3335-7597",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3335-7597"
+            ]
           },
           "institutions": [
             {
@@ -469,7 +472,10 @@
           "author": {
             "id": "https://openalex.org/A5038867039",
             "display_name": "Richard M. Bailey",
-            "orcid": "https://orcid.org/0000-0002-4566-843X"
+            "orcid": "https://orcid.org/0000-0002-4566-843X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4566-843X"
+            ]
           },
           "institutions": [
             {
@@ -513,7 +519,10 @@
           "author": {
             "id": "https://openalex.org/A5054841487",
             "display_name": "Brian A. Hampton",
-            "orcid": "https://orcid.org/0000-0003-1038-491X"
+            "orcid": "https://orcid.org/0000-0003-1038-491X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1038-491X"
+            ]
           },
           "institutions": [
             {
@@ -557,7 +566,10 @@
           "author": {
             "id": "https://openalex.org/A5103217857",
             "display_name": "Thomas F. Kraemer",
-            "orcid": "https://orcid.org/0000-0002-0304-2498"
+            "orcid": "https://orcid.org/0000-0002-0304-2498",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0304-2498"
+            ]
           },
           "institutions": [
             {
@@ -602,7 +614,10 @@
           "author": {
             "id": "https://openalex.org/A5010436195",
             "display_name": "Zhong Lu",
-            "orcid": "https://orcid.org/0000-0001-9181-1818"
+            "orcid": "https://orcid.org/0000-0001-9181-1818",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9181-1818"
+            ]
           },
           "institutions": [
             {
@@ -647,10 +662,27 @@
           "author": {
             "id": "https://openalex.org/A5069819120",
             "display_name": "David W. Clark",
-            "orcid": "https://orcid.org/0000-0002-1025-9185"
+            "orcid": "https://orcid.org/0000-0002-1025-9185",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1025-9185"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": false,
           "raw_author_name": "David W. Clark",
           "raw_affiliation_strings": [
@@ -660,7 +692,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "National Drilling Company/U. S. Geological Survey, Al Ain, United Arab Emirates",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
             }
           ]
         },
@@ -669,7 +703,8 @@
           "author": {
             "id": "https://openalex.org/A5047559025",
             "display_name": "Rhodri H.R. James",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -713,7 +748,8 @@
           "author": {
             "id": "https://openalex.org/A5021382014",
             "display_name": "Khalid Al Ramadan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -771,11 +807,11 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 1.1922,
+      "fwci": 1.178,
       "has_fulltext": false,
       "cited_by_count": 48,
       "citation_normalized_percentile": {
-        "value": 0.78136863,
+        "value": 0.77891498,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1078,9 +1114,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -1654,7 +1690,10 @@
           "author": {
             "id": "https://openalex.org/A5103499964",
             "display_name": "Geraint Wyn Hughes",
-            "orcid": "https://orcid.org/0009-0007-2140-8370"
+            "orcid": "https://orcid.org/0009-0007-2140-8370",
+            "observed_orcids": [
+              "https://orcid.org/0009-0007-2140-8370"
+            ]
           },
           "institutions": [
             {
@@ -1666,20 +1705,9 @@
               "lineage": [
                 "https://openalex.org/I1336856363"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210160110",
-              "display_name": "Deutsche Meeresmuseum",
-              "ror": "https://ror.org/05hkycn11",
-              "country_code": "DE",
-              "type": "archive",
-              "lineage": [
-                "https://openalex.org/I4210160110"
-              ]
             }
           ],
           "countries": [
-            "DE",
             "GB"
           ],
           "is_corresponding": false,
@@ -1692,8 +1720,7 @@
             {
               "raw_affiliation_string": "Natural History Museum;",
               "institution_ids": [
-                "https://openalex.org/I1336856363",
-                "https://openalex.org/I4210160110"
+                "https://openalex.org/I1336856363"
               ]
             }
           ]
@@ -1703,7 +1730,8 @@
           "author": {
             "id": "https://openalex.org/A5021382014",
             "display_name": "Khalid Al Ramadan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -1740,7 +1768,8 @@
           "author": {
             "id": "https://openalex.org/A5027167326",
             "display_name": "Mahmoud Nazgah",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -1755,9 +1784,22 @@
           "author": {
             "id": "https://openalex.org/A5080748045",
             "display_name": "Abdulkarim Al-Hussaini",
-            "orcid": "https://orcid.org/0000-0003-2730-4672"
+            "orcid": "https://orcid.org/0000-0003-2730-4672",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2730-4672"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -1771,6 +1813,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -1783,6 +1826,7 @@
             {
               "raw_affiliation_string": "Saudi ARAMCO",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -1790,17 +1834,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
+      "countries_distinct_count": 3,
       "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9017,
+      "fwci": 0.8811,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.78513876,
+        "value": 0.78099949,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2157,9 +2201,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -2594,6 +2638,7 @@
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/P4310317504",
           "host_organization_name": "AGH University of Science and Technology",
           "host_organization_lineage": [
@@ -2628,7 +2673,10 @@
           "author": {
             "id": "https://openalex.org/A5035815399",
             "display_name": "Michael A. Kaminski",
-            "orcid": "https://orcid.org/0000-0002-7344-5874"
+            "orcid": "https://orcid.org/0000-0002-7344-5874",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7344-5874"
+            ]
           },
           "institutions": [
             {
@@ -2640,9 +2688,20 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
+            },
+            {
+              "id": "https://openalex.org/I686019",
+              "display_name": "AGH University of Krakow",
+              "ror": "https://ror.org/00bas1c41",
+              "country_code": "PL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I686019"
+              ]
             }
           ],
           "countries": [
+            "PL",
             "SA"
           ],
           "is_corresponding": false,
@@ -2655,7 +2714,8 @@
             {
               "raw_affiliation_string": "Earth Sciences Department, King Fahd University of Petroleum & Minerals, PO Box 701, Dhahran 31261, Saudi Arabia\r\n\r\nAGH University of Science and Technology, Faculty of Geology, Geophysics and Environmental Protection,\r\nal. Mickiewicza 30, 30-059 Kraków",
               "institution_ids": [
-                "https://openalex.org/I134085113"
+                "https://openalex.org/I134085113",
+                "https://openalex.org/I686019"
               ]
             }
           ]
@@ -2665,7 +2725,8 @@
           "author": {
             "id": "https://openalex.org/A5103606618",
             "display_name": "Abdulaziz Al Shaibani",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -2702,7 +2763,8 @@
           "author": {
             "id": "https://openalex.org/A5021382014",
             "display_name": "Khalid Al Ramadan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -2736,19 +2798,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.09032771,
+        "value": 0.09400611,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2954,6 +3014,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/P4310317504",
             "host_organization_name": "AGH University of Science and Technology",
             "host_organization_lineage": [
@@ -2989,6 +3050,7 @@
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/P4310317504",
           "host_organization_name": "AGH University of Science and Technology",
           "host_organization_lineage": [
@@ -3771,9 +3833,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -4604,9 +4666,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -5535,9 +5597,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -6658,9 +6720,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.6000000238418579,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -7214,9 +7276,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.6800000071525574,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],

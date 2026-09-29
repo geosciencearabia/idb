@@ -19,7 +19,7 @@
     ],
     "full_name": "Salah A. Al‐Khirbash",
     "works_count": 47,
-    "cited_by_count": 978,
+    "cited_by_count": 979,
     "summary_stats": {
       "2yr_mean_citedness": 0.8571428571428571,
       "h_index": 16,
@@ -184,7 +184,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000723,
+        "value": 0.0000725,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -201,7 +201,7 @@
       {
         "id": "https://openalex.org/T10001",
         "display_name": "Geological and Geochemical Analysis",
-        "value": 0.0000646,
+        "value": 0.0000648,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -218,7 +218,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000625,
+        "value": 0.0000627,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -235,7 +235,7 @@
       {
         "id": "https://openalex.org/T12157",
         "display_name": "Geochemistry and Geologic Mapping",
-        "value": 0.0000546,
+        "value": 0.0000537,
         "subfield": {
           "id": "https://openalex.org/subfields/1702",
           "display_name": "Artificial Intelligence"
@@ -252,7 +252,7 @@
       {
         "id": "https://openalex.org/T11852",
         "display_name": "Clay minerals and soil interactions",
-        "value": 0.0000412,
+        "value": 0.0000413,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -346,7 +346,7 @@
         "year": 2005,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 100
+        "cited_by_count": 101
       },
       {
         "year": 2009,
@@ -446,7 +446,7 @@
     ],
     "block_key": "s al-khirbash",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5081695998",
-    "updated_date": "2026-09-26T12:32:56",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2022-05-11T00:00:00"
   },
   "works": [
@@ -518,7 +518,10 @@
           "author": {
             "id": "https://openalex.org/A5062108247",
             "display_name": "Sobhi Jaber Nasir",
-            "orcid": "https://orcid.org/0000-0002-4906-510X"
+            "orcid": "https://orcid.org/0000-0002-4906-510X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4906-510X"
+            ]
           },
           "institutions": [
             {
@@ -555,7 +558,8 @@
           "author": {
             "id": "https://openalex.org/A5069008972",
             "display_name": "Abdul Razak Al Sayigh",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -592,7 +596,8 @@
           "author": {
             "id": "https://openalex.org/A5079288051",
             "display_name": "Abdulrahman Al Harthy",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -629,7 +634,10 @@
           "author": {
             "id": "https://openalex.org/A5081695998",
             "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528"
+            "orcid": "https://orcid.org/0000-0001-8467-4528",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8467-4528"
+            ]
           },
           "institutions": [
             {
@@ -666,7 +674,8 @@
           "author": {
             "id": "https://openalex.org/A5112757883",
             "display_name": "O. S. Al-Jaaidi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -703,7 +712,8 @@
           "author": {
             "id": "https://openalex.org/A5081966509",
             "display_name": "Abdullah Musllam",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -747,7 +757,8 @@
           "author": {
             "id": "https://openalex.org/A5089667246",
             "display_name": "Ali T. Al-Mishwat",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -784,7 +795,8 @@
           "author": {
             "id": "https://openalex.org/A5087414722",
             "display_name": "Salim Al-Bu'saidi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -817,11 +829,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.2668,
+      "fwci": 0.2456,
       "has_fulltext": false,
-      "cited_by_count": 100,
+      "cited_by_count": 101,
       "citation_normalized_percentile": {
-        "value": 0.58937903,
+        "value": 0.55961666,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1204,8 +1216,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -1304,7 +1316,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 18
+          "cited_by_count": 19
         },
         {
           "year": 2021,
@@ -1418,7 +1430,10 @@
           "author": {
             "id": "https://openalex.org/A5103221795",
             "display_name": "Ian Davison",
-            "orcid": "https://orcid.org/0000-0003-3703-707X"
+            "orcid": "https://orcid.org/0000-0003-3703-707X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3703-707X"
+            ]
           },
           "institutions": [
             {
@@ -1456,7 +1471,8 @@
           "author": {
             "id": "https://openalex.org/A5043350313",
             "display_name": "Mohamed Al-Kadasi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -1512,7 +1528,10 @@
           "author": {
             "id": "https://openalex.org/A5081695998",
             "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528"
+            "orcid": "https://orcid.org/0000-0001-8467-4528",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8467-4528"
+            ]
           },
           "institutions": [
             {
@@ -1549,7 +1568,10 @@
           "author": {
             "id": "https://openalex.org/A5035645663",
             "display_name": "Abdulkarim A. Al-Subbary",
-            "orcid": "https://orcid.org/0000-0001-5031-7880"
+            "orcid": "https://orcid.org/0000-0001-5031-7880",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5031-7880"
+            ]
           },
           "institutions": [
             {
@@ -1605,7 +1627,10 @@
           "author": {
             "id": "https://openalex.org/A5062405434",
             "display_name": "Joel A. Baker",
-            "orcid": "https://orcid.org/0000-0001-6371-5060"
+            "orcid": "https://orcid.org/0000-0001-6371-5060",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6371-5060"
+            ]
           },
           "institutions": [
             {
@@ -1643,7 +1668,8 @@
           "author": {
             "id": "https://openalex.org/A5067277688",
             "display_name": "SUZANNE BLAKEY",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -1681,7 +1707,10 @@
           "author": {
             "id": "https://openalex.org/A5012773261",
             "display_name": "Dan W. J. Bosence",
-            "orcid": "https://orcid.org/0000-0001-8541-4138"
+            "orcid": "https://orcid.org/0000-0001-8541-4138",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8541-4138"
+            ]
           },
           "institutions": [
             {
@@ -1719,7 +1748,8 @@
           "author": {
             "id": "https://openalex.org/A5066166598",
             "display_name": "Chris J. Dart",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -1757,19 +1787,10 @@
           "author": {
             "id": "https://openalex.org/A5028878616",
             "display_name": "RICHARD HEATON",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I4210110995",
-              "display_name": "Cairn Research (United Kingdom)",
-              "ror": "https://ror.org/01x9bq055",
-              "country_code": "GB",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210110995"
-              ]
-            },
             {
               "id": "https://openalex.org/I4405272269",
               "display_name": "Capricorn Energy PLC (United Kingdom)",
@@ -1794,7 +1815,6 @@
             {
               "raw_affiliation_string": "Cairn Energy, Cairn House, 61 Dublin Street, Edinburgh, United Kingdom EH3 6NL",
               "institution_ids": [
-                "https://openalex.org/I4210110995",
                 "https://openalex.org/I4405272269"
               ]
             }
@@ -1805,7 +1825,10 @@
           "author": {
             "id": "https://openalex.org/A5085722785",
             "display_name": "Ken McClay",
-            "orcid": "https://orcid.org/0000-0002-4077-7645"
+            "orcid": "https://orcid.org/0000-0002-4077-7645",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4077-7645"
+            ]
           },
           "institutions": [
             {
@@ -1843,7 +1866,8 @@
           "author": {
             "id": "https://openalex.org/A5049571487",
             "display_name": "Martin Menzies",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -1881,7 +1905,10 @@
           "author": {
             "id": "https://openalex.org/A5007408781",
             "display_name": "GARY J. NICHOLS",
-            "orcid": "https://orcid.org/0009-0000-2458-2875"
+            "orcid": "https://orcid.org/0009-0000-2458-2875",
+            "observed_orcids": [
+              "https://orcid.org/0009-0000-2458-2875"
+            ]
           },
           "institutions": [
             {
@@ -1919,7 +1946,10 @@
           "author": {
             "id": "https://openalex.org/A5001972788",
             "display_name": "Lewis A. Owen",
-            "orcid": "https://orcid.org/0000-0002-2525-5160"
+            "orcid": "https://orcid.org/0000-0002-2525-5160",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2525-5160"
+            ]
           },
           "institutions": [
             {
@@ -1957,7 +1987,8 @@
           "author": {
             "id": "https://openalex.org/A5014781178",
             "display_name": "A. Yelland",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -1993,16 +2024,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1384,
+      "fwci": 3.1168,
       "has_fulltext": false,
       "cited_by_count": 155,
       "citation_normalized_percentile": {
-        "value": 0.9153838,
+        "value": 0.91464846,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2239,8 +2270,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4026,7 +4057,10 @@
           "author": {
             "id": "https://openalex.org/A5042396632",
             "display_name": "Sankaran Rajendran",
-            "orcid": "https://orcid.org/0000-0002-9371-9908"
+            "orcid": "https://orcid.org/0000-0002-9371-9908",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9371-9908"
+            ]
           },
           "institutions": [
             {
@@ -4070,7 +4104,10 @@
           "author": {
             "id": "https://openalex.org/A5081695998",
             "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528"
+            "orcid": "https://orcid.org/0000-0001-8467-4528",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8467-4528"
+            ]
           },
           "institutions": [
             {
@@ -4114,7 +4151,10 @@
           "author": {
             "id": "https://openalex.org/A5085780088",
             "display_name": "Bernhard Pracejus",
-            "orcid": "https://orcid.org/0000-0003-0819-1422"
+            "orcid": "https://orcid.org/0000-0003-0819-1422",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0819-1422"
+            ]
           },
           "institutions": [
             {
@@ -4158,7 +4198,10 @@
           "author": {
             "id": "https://openalex.org/A5062108247",
             "display_name": "Sobhi Jaber Nasir",
-            "orcid": "https://orcid.org/0000-0002-4906-510X"
+            "orcid": "https://orcid.org/0000-0002-4906-510X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4906-510X"
+            ]
           },
           "institutions": [
             {
@@ -4202,7 +4245,8 @@
           "author": {
             "id": "https://openalex.org/A5077969360",
             "display_name": "Amani Humaid Al-Abri",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -4246,7 +4290,10 @@
           "author": {
             "id": "https://openalex.org/A5039177320",
             "display_name": "Timothy Kusky",
-            "orcid": "https://orcid.org/0000-0002-4553-620X"
+            "orcid": "https://orcid.org/0000-0002-4553-620X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4553-620X"
+            ]
           },
           "institutions": [
             {
@@ -4257,6 +4304,17 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I3124059619"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4391767817",
+              "display_name": "State Key Laboratory of Geological Processes and Mineral Resources",
+              "ror": "https://ror.org/04sg95s75",
+              "country_code": null,
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I3124059619",
+                "https://openalex.org/I4391767817"
               ]
             }
           ],
@@ -4274,13 +4332,15 @@
             {
               "raw_affiliation_string": "State Key Lab for Geological Processes and Mineral Resources, Three Gorges Research Center for Geohazards, Ministry of Education China University of Geosciences, Wuhan, China",
               "institution_ids": [
-                "https://openalex.org/I3124059619"
+                "https://openalex.org/I3124059619",
+                "https://openalex.org/I4391767817"
               ]
             },
             {
               "raw_affiliation_string": "State Key Lab for Geological Processes and Mineral Resources, Three Gorges Research Center for Geohazards, Ministry of Education, China University of Geosciences, Wuhan, China",
               "institution_ids": [
-                "https://openalex.org/I3124059619"
+                "https://openalex.org/I3124059619",
+                "https://openalex.org/I4391767817"
               ]
             }
           ]
@@ -4288,9 +4348,10 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5108444452",
+            "id": "https://openalex.org/A5153139471",
             "display_name": "Abduwasit Ghulam",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -4325,7 +4386,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [
         "https://openalex.org/A5042396632"
       ],
@@ -4338,11 +4399,11 @@
         "value_usd": 3310
       },
       "apc_paid": null,
-      "fwci": 9.1477,
+      "fwci": 9.009,
       "has_fulltext": false,
       "cited_by_count": 122,
       "citation_normalized_percentile": {
-        "value": 0.97617331,
+        "value": 0.97580521,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4689,8 +4750,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -5154,22 +5215,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210110903",
-              "display_name": "Natural History Museum Aarhus",
-              "ror": "https://ror.org/0166x0j30",
-              "country_code": "DK",
-              "type": "archive",
-              "lineage": [
-                "https://openalex.org/I204337017",
-                "https://openalex.org/I4210110903"
-              ]
-            }
-          ],
-          "countries": [
-            "DK"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdullah Haider",
           "raw_affiliation_strings": [
@@ -5179,16 +5226,14 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Geological Museum, Østervoldgade 5-7, 1350 Copenhagen K., Denmark",
-              "institution_ids": [
-                "https://openalex.org/I4210110903"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 6,
-      "institutions_distinct_count": 7,
+      "countries_distinct_count": 5,
+      "institutions_distinct_count": 6,
       "corresponding_author_ids": [
         "https://openalex.org/A5068579961"
       ],
@@ -5201,11 +5246,11 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 2.2955,
+      "fwci": 2.2831,
       "has_fulltext": false,
       "cited_by_count": 116,
       "citation_normalized_percentile": {
-        "value": 0.8654231,
+        "value": 0.86463199,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5532,8 +5577,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -6533,8 +6578,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 107,
@@ -7721,8 +7766,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -8554,8 +8599,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -9840,8 +9885,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 100,
@@ -11058,8 +11103,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -11818,8 +11863,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -12887,8 +12932,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -13838,8 +13883,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -14039,7 +14084,10 @@
           "author": {
             "id": "https://openalex.org/A5042396632",
             "display_name": "Sankaran Rajendran",
-            "orcid": "https://orcid.org/0000-0002-9371-9908"
+            "orcid": "https://orcid.org/0000-0002-9371-9908",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9371-9908"
+            ]
           },
           "institutions": [
             {
@@ -14076,7 +14124,10 @@
           "author": {
             "id": "https://openalex.org/A5062108247",
             "display_name": "Sobhi Jaber Nasir",
-            "orcid": "https://orcid.org/0000-0002-4906-510X"
+            "orcid": "https://orcid.org/0000-0002-4906-510X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4906-510X"
+            ]
           },
           "institutions": [
             {
@@ -14113,7 +14164,10 @@
           "author": {
             "id": "https://openalex.org/A5039177320",
             "display_name": "Timothy Kusky",
-            "orcid": "https://orcid.org/0000-0002-4553-620X"
+            "orcid": "https://orcid.org/0000-0002-4553-620X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4553-620X"
+            ]
           },
           "institutions": [
             {
@@ -14124,6 +14178,17 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I3124059619"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4391767817",
+              "display_name": "State Key Laboratory of Geological Processes and Mineral Resources",
+              "ror": "https://ror.org/04sg95s75",
+              "country_code": null,
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I3124059619",
+                "https://openalex.org/I4391767817"
               ]
             }
           ],
@@ -14140,7 +14205,8 @@
             {
               "raw_affiliation_string": "State Key Lab for Geological Processes and Mineral Resources, Three Gorges Research Center for Geohazards China University of Geosciences Wuhan China",
               "institution_ids": [
-                "https://openalex.org/I3124059619"
+                "https://openalex.org/I3124059619",
+                "https://openalex.org/I4391767817"
               ]
             }
           ]
@@ -14150,7 +14216,10 @@
           "author": {
             "id": "https://openalex.org/A5081695998",
             "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528"
+            "orcid": "https://orcid.org/0000-0001-8467-4528",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8467-4528"
+            ]
           },
           "institutions": [
             {
@@ -14185,7 +14254,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -14194,11 +14263,11 @@
         "value_usd": 5120
       },
       "apc_paid": null,
-      "fwci": 3.6049,
+      "fwci": 3.5528,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.93494899,
+        "value": 0.93378012,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14522,8 +14591,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -15137,8 +15206,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 100,
@@ -15370,7 +15439,10 @@
           "author": {
             "id": "https://openalex.org/A5081695998",
             "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528"
+            "orcid": "https://orcid.org/0000-0001-8467-4528",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8467-4528"
+            ]
           },
           "institutions": [
             {
@@ -15414,7 +15486,8 @@
           "author": {
             "id": "https://openalex.org/A5054422299",
             "display_name": "Khadija Semhi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -15441,7 +15514,8 @@
           "author": {
             "id": "https://openalex.org/A5020661249",
             "display_name": "Laurent Richard",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -15468,7 +15542,10 @@
           "author": {
             "id": "https://openalex.org/A5062108247",
             "display_name": "Sobhi Jaber Nasir",
-            "orcid": "https://orcid.org/0000-0002-4906-510X"
+            "orcid": "https://orcid.org/0000-0002-4906-510X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4906-510X"
+            ]
           },
           "institutions": [
             {
@@ -15512,23 +15589,11 @@
           "author": {
             "id": "https://openalex.org/A5113056356",
             "display_name": "Abdulrahman Mishaal Alharthy",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210089205",
-              "display_name": "InfoConsult (Germany)",
-              "ror": "https://ror.org/005b83279",
-              "country_code": "DE",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210089205"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abdulrahman Al-Harthy",
           "raw_affiliation_strings": [
@@ -15543,16 +15608,14 @@
             },
             {
               "raw_affiliation_string": "GeoConsultancy Center",
-              "institution_ids": [
-                "https://openalex.org/I4210089205"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5081695998"
       ],
@@ -15565,11 +15628,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 2.7288,
+      "fwci": 2.6421,
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.89077958,
+        "value": 0.88699331,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15897,8 +15960,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -16581,8 +16644,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -17191,8 +17254,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -18374,8 +18437,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -19297,21 +19360,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210097093",
-              "display_name": "Dŵr Cymru Welsh Water (United Kingdom)",
-              "ror": "https://ror.org/00vkafj46",
-              "country_code": "GB",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210097093"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Douglas B. Stoeser",
           "raw_affiliation_strings": [
@@ -19321,16 +19371,14 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Trem Y Wawr",
-              "institution_ids": [
-                "https://openalex.org/I4210097093"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5068579961"
       ],
@@ -19339,11 +19387,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.4303,
+      "fwci": 3.4081,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.91635848,
+        "value": 0.91561528,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19620,8 +19668,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -20720,8 +20768,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -21437,8 +21485,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -21884,6 +21932,7 @@
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/P4310320547",
           "host_organization_name": "Taylor & Francis",
           "host_organization_lineage": [
@@ -21920,22 +21969,35 @@
           "author": {
             "id": "https://openalex.org/A5024896883",
             "display_name": "Yuji Orihashi",
-            "orcid": "https://orcid.org/0000-0001-7715-3847"
+            "orcid": "https://orcid.org/0000-0001-7715-3847",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7715-3847"
+            ]
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I2800279901",
-              "display_name": "Earthquake Engineering Research Institute",
-              "ror": "https://ror.org/03v188q73",
-              "country_code": "US",
-              "type": "nonprofit",
+              "id": "https://openalex.org/I4405268836",
+              "display_name": "Earthquake Research Institute, University of Tokyo",
+              "ror": "https://ror.org/027j3zg65",
+              "country_code": "JP",
+              "type": "facility",
               "lineage": [
-                "https://openalex.org/I2800279901"
+                "https://openalex.org/I4405268836"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I74801974",
+              "display_name": "The University of Tokyo",
+              "ror": "https://ror.org/057zh3y96",
+              "country_code": "JP",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I74801974"
               ]
             }
           ],
           "countries": [
-            "US"
+            "JP"
           ],
           "is_corresponding": false,
           "raw_author_name": "Yuji ORIHASHI",
@@ -21947,7 +22009,8 @@
             {
               "raw_affiliation_string": "Earthquake Research Institute, The University of Tokyo",
               "institution_ids": [
-                "https://openalex.org/I2800279901"
+                "https://openalex.org/I4405268836",
+                "https://openalex.org/I74801974"
               ]
             }
           ]
@@ -21957,7 +22020,10 @@
           "author": {
             "id": "https://openalex.org/A5043548361",
             "display_name": "Satoru Haraguchi",
-            "orcid": "https://orcid.org/0000-0002-6459-0076"
+            "orcid": "https://orcid.org/0000-0002-6459-0076",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6459-0076"
+            ]
           },
           "institutions": [
             {
@@ -21994,7 +22060,8 @@
           "author": {
             "id": "https://openalex.org/A5109445899",
             "display_name": "Teruaki Ishii",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -22031,7 +22098,8 @@
           "author": {
             "id": "https://openalex.org/A5109256576",
             "display_name": "Kensaku Tamaki",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -22068,7 +22136,10 @@
           "author": {
             "id": "https://openalex.org/A5081695998",
             "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528"
+            "orcid": "https://orcid.org/0000-0001-8467-4528",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8467-4528"
+            ]
           },
           "institutions": [
             {
@@ -22102,7 +22173,7 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
+      "countries_distinct_count": 2,
       "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
@@ -22112,7 +22183,7 @@
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.13083877,
+        "value": 0.1456765,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22390,6 +22461,7 @@
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/P4310320547",
             "host_organization_name": "Taylor & Francis",
             "host_organization_lineage": [
@@ -22427,6 +22499,7 @@
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/P4310320547",
           "host_organization_name": "Taylor & Francis",
           "host_organization_lineage": [
@@ -22459,8 +22532,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2327941769.pdf",
@@ -23861,8 +23934,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -24685,8 +24758,21 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4387155509",
+              "display_name": "Ministry of Commerce, Industry and Investment Promotion",
+              "ror": "https://ror.org/04sqqf404",
+              "country_code": null,
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4387155509"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Musadem Al-Maashani",
           "raw_affiliation_strings": [
@@ -24696,14 +24782,16 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Ministry of Commerce & Industry, Muscat, Oman",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I4387155509"
+              ]
             }
           ]
         }
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5085780088"
       ],
@@ -24716,11 +24804,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.1585,
+      "fwci": 0.1574,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.46591397,
+        "value": 0.46362303,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25087,8 +25175,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -25464,8 +25552,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25824,8 +25912,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -26800,8 +26888,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28034,26 +28122,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I2800182745",
-              "display_name": "Government of Ethiopia",
-              "ror": "https://ror.org/01g9qbv95",
-              "country_code": "ET",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I2800182745"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210099607",
-              "display_name": "GeoSAS (Ethiopia)",
-              "ror": "https://ror.org/011smmt78",
-              "country_code": "ET",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210099607"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4405260935",
               "display_name": "Geological Institute of Ethiopia",
               "ror": "https://ror.org/04gjma874",
@@ -28078,8 +28146,7 @@
             {
               "raw_affiliation_string": "5Geological Survey of Ethiopia, Addis Ababa, Ethiopia",
               "institution_ids": [
-                "https://openalex.org/I2800182745",
-                "https://openalex.org/I4210099607"
+                "https://openalex.org/I4405260935"
               ]
             },
             {
@@ -28192,21 +28259,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210112916",
-              "display_name": "Geological Survey of Namibia",
-              "ror": "https://ror.org/025qwfz43",
-              "country_code": "NA",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210112916"
-              ]
-            }
-          ],
-          "countries": [
-            "NA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Pete Siegfried",
           "raw_affiliation_strings": [
@@ -28221,9 +28275,7 @@
             },
             {
               "raw_affiliation_string": "GeoAfrica, Windhoek, Namibia",
-              "institution_ids": [
-                "https://openalex.org/I4210112916"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -28295,17 +28347,6 @@
                 "https://openalex.org/I170239107",
                 "https://openalex.org/I4405259444"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210156467",
-              "display_name": "Department for Environment and Water",
-              "ror": "https://ror.org/053gv9453",
-              "country_code": "AU",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I2800277939",
-                "https://openalex.org/I4210156467"
-              ]
             }
           ],
           "countries": [
@@ -28322,8 +28363,7 @@
             {
               "raw_affiliation_string": "10Centre for Tectonics, Resources and Exploration (TRaX), School of Built and Natural Environments, University of South Australia, Adelaide, South Australia, Australia",
               "institution_ids": [
-                "https://openalex.org/I170239107",
-                "https://openalex.org/I4210156467"
+                "https://openalex.org/I170239107"
               ]
             },
             {
@@ -28336,8 +28376,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 5,
-      "institutions_distinct_count": 10,
+      "countries_distinct_count": 4,
+      "institutions_distinct_count": 7,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -28629,8 +28669,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29512,8 +29552,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29580,7 +29620,8 @@
           "author": {
             "id": "https://openalex.org/A5026090524",
             "display_name": "Saqib Nasir",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -29624,7 +29665,10 @@
           "author": {
             "id": "https://openalex.org/A5081695998",
             "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528"
+            "orcid": "https://orcid.org/0000-0001-8467-4528",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8467-4528"
+            ]
           },
           "institutions": [
             {
@@ -29668,7 +29712,10 @@
           "author": {
             "id": "https://openalex.org/A5083269164",
             "display_name": "Hugh R. Rollinson",
-            "orcid": "https://orcid.org/0000-0002-6553-8472"
+            "orcid": "https://orcid.org/0000-0002-6553-8472",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6553-8472"
+            ]
           },
           "institutions": [
             {
@@ -29712,7 +29759,8 @@
           "author": {
             "id": "https://openalex.org/A5112847090",
             "display_name": "A. Al-Harthy",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -29756,7 +29804,10 @@
           "author": {
             "id": "https://openalex.org/A5086333789",
             "display_name": "Abdulrazak Al‐Sayigh",
-            "orcid": "https://orcid.org/0000-0002-2188-2327"
+            "orcid": "https://orcid.org/0000-0002-2188-2327",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2188-2327"
+            ]
           },
           "institutions": [
             {
@@ -29800,7 +29851,8 @@
           "author": {
             "id": "https://openalex.org/A5040070578",
             "display_name": "Ali I. Al-Lazki",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -29844,23 +29896,12 @@
           "author": {
             "id": "https://openalex.org/A5056695911",
             "display_name": "Elena A. Belousova",
-            "orcid": "https://orcid.org/0000-0003-2315-3520"
+            "orcid": "https://orcid.org/0000-0003-2315-3520",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2315-3520"
+            ]
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I4210126299",
-              "display_name": "ARC Centre of Excellence for Core to Crust Fluid Systems",
-              "ror": "https://ror.org/03nk9pp38",
-              "country_code": "AU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1337719021",
-                "https://openalex.org/I2801453606",
-                "https://openalex.org/I4210126299",
-                "https://openalex.org/I4210132349",
-                "https://openalex.org/I99043593"
-              ]
-            },
             {
               "id": "https://openalex.org/I99043593",
               "display_name": "Macquarie University",
@@ -29886,7 +29927,6 @@
             {
               "raw_affiliation_string": "GEMOC ARC National Key Centre , Macquarie University , Australia",
               "institution_ids": [
-                "https://openalex.org/I4210126299",
                 "https://openalex.org/I99043593"
               ]
             },
@@ -29903,23 +29943,13 @@
           "author": {
             "id": "https://openalex.org/A5061467188",
             "display_name": "Felix V. Kaminsky",
-            "orcid": "https://orcid.org/0000-0001-6035-7114"
+            "orcid": "https://orcid.org/0000-0001-6035-7114",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6035-7114"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210122965",
-              "display_name": "Stornoway Diamond (Canada)",
-              "ror": "https://ror.org/023q7ek24",
-              "country_code": "CA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210122965"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "F. Kaminsky",
           "raw_affiliation_strings": [
@@ -29930,15 +29960,11 @@
           "affiliations": [
             {
               "raw_affiliation_string": "KM Diamond Exploration Ltd , Vancouver , Canada",
-              "institution_ids": [
-                "https://openalex.org/I4210122965"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "KM Diamond Exploration Ltd, Vancouver, Canada",
-              "institution_ids": [
-                "https://openalex.org/I4210122965"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -29947,7 +29973,8 @@
           "author": {
             "id": "https://openalex.org/A5005228490",
             "display_name": "Thomas Theye",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -29996,7 +30023,8 @@
           "author": {
             "id": null,
             "display_name": "H.-J. Massonne",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -30033,24 +30061,11 @@
           "author": {
             "id": null,
             "display_name": "S. Al-Busaidi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210151104",
-              "display_name": "Directorate General of Health Services",
-              "ror": "https://ror.org/05xkzd182",
-              "country_code": "BD",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210151104",
-                "https://openalex.org/I5476602"
-              ]
-            }
-          ],
-          "countries": [
-            "BD"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "S. Al-Busaidi",
           "raw_affiliation_strings": [
@@ -30060,16 +30075,14 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Directorate General of Minerals , Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210151104"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 5,
-      "institutions_distinct_count": 6,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -30078,7 +30091,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.54178212,
+        "value": 0.54305413,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30396,8 +30409,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4231050176.pdf",
@@ -30468,7 +30481,10 @@
           "author": {
             "id": "https://openalex.org/A5081695998",
             "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528"
+            "orcid": "https://orcid.org/0000-0001-8467-4528",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8467-4528"
+            ]
           },
           "institutions": [
             {
@@ -30505,10 +30521,26 @@
           "author": {
             "id": "https://openalex.org/A5101466549",
             "display_name": "Ahmed Hassan Ahmed",
-            "orcid": "https://orcid.org/0000-0003-4327-5330"
+            "orcid": "https://orcid.org/0000-0003-4327-5330",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4327-5330"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I185163786",
+              "display_name": "King Abdulaziz University",
+              "ror": "https://ror.org/02ma4wv74",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I185163786"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Ahmed H. Ahmed",
           "raw_affiliation_strings": [
@@ -30518,14 +30550,16 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Faculty of Earth Sciences, KAU",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I185163786"
+              ]
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5081695998"
       ],
@@ -30884,8 +30918,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -31551,7 +31585,10 @@
           "author": {
             "id": "https://openalex.org/A5081695998",
             "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528"
+            "orcid": "https://orcid.org/0000-0001-8467-4528",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8467-4528"
+            ]
           },
           "institutions": [
             {
@@ -31588,10 +31625,26 @@
           "author": {
             "id": "https://openalex.org/A5101466549",
             "display_name": "Ahmed Hassan Ahmed",
-            "orcid": "https://orcid.org/0000-0003-4327-5330"
+            "orcid": "https://orcid.org/0000-0003-4327-5330",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4327-5330"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I185163786",
+              "display_name": "King Abdulaziz University",
+              "ror": "https://ror.org/02ma4wv74",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I185163786"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Ahmed H. Ahmed",
           "raw_affiliation_strings": [
@@ -31601,14 +31654,16 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Faculty of Earth Sciences, KAU",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I185163786"
+              ]
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5081695998"
       ],
@@ -31942,8 +31997,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32848,20 +32903,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210126299",
-              "display_name": "ARC Centre of Excellence for Core to Crust Fluid Systems",
-              "ror": "https://ror.org/03nk9pp38",
-              "country_code": "AU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1337719021",
-                "https://openalex.org/I2801453606",
-                "https://openalex.org/I4210126299",
-                "https://openalex.org/I4210132349",
-                "https://openalex.org/I99043593"
-              ]
-            },
-            {
               "id": "https://openalex.org/I99043593",
               "display_name": "Macquarie University",
               "ror": "https://ror.org/01sf06y89",
@@ -32886,7 +32927,6 @@
             {
               "raw_affiliation_string": "GEMOC ARC National Key Centre , Macquarie University , Australia",
               "institution_ids": [
-                "https://openalex.org/I4210126299",
                 "https://openalex.org/I99043593"
               ]
             },
@@ -32908,21 +32948,8 @@
               "https://orcid.org/0000-0001-6035-7114"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210122965",
-              "display_name": "Stornoway Diamond (Canada)",
-              "ror": "https://ror.org/023q7ek24",
-              "country_code": "CA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210122965"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "F. Kaminsky",
           "raw_affiliation_strings": [
@@ -32933,15 +32960,11 @@
           "affiliations": [
             {
               "raw_affiliation_string": "KM Diamond Exploration Ltd , Vancouver , Canada",
-              "institution_ids": [
-                "https://openalex.org/I4210122965"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "KM Diamond Exploration Ltd, Vancouver, Canada",
-              "institution_ids": [
-                "https://openalex.org/I4210122965"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -33046,22 +33069,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210151104",
-              "display_name": "Directorate General of Health Services",
-              "ror": "https://ror.org/05xkzd182",
-              "country_code": "BD",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210151104",
-                "https://openalex.org/I5476602"
-              ]
-            }
-          ],
-          "countries": [
-            "BD"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "S. Al-Busaidi",
           "raw_affiliation_strings": [
@@ -33072,9 +33081,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Directorate General of Minerals , Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210151104"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Directorate General of Minerals, Oman",
@@ -33084,8 +33091,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 5,
-      "institutions_distinct_count": 6,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -33094,7 +33101,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.32422243,
+        "value": 0.32606635,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33362,8 +33369,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4249711171.pdf",
@@ -33733,8 +33740,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -34643,8 +34650,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35117,8 +35124,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35515,8 +35522,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36489,8 +36496,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36951,8 +36958,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37432,8 +37439,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37909,8 +37916,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38381,8 +38388,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38879,8 +38886,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38982,7 +38989,10 @@
           "author": {
             "id": "https://openalex.org/A5101466549",
             "display_name": "Ahmed Hassan Ahmed",
-            "orcid": "https://orcid.org/0000-0003-4327-5330"
+            "orcid": "https://orcid.org/0000-0003-4327-5330",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4327-5330"
+            ]
           },
           "institutions": [
             {
@@ -38993,19 +39003,6 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I185163786"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210130959",
-              "display_name": "Mineral Resources",
-              "ror": "https://ror.org/039b65w79",
-              "country_code": "AU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1292875679",
-                "https://openalex.org/I2801453606",
-                "https://openalex.org/I4210130959",
-                "https://openalex.org/I4387156119"
               ]
             },
             {
@@ -39020,7 +39017,6 @@
             }
           ],
           "countries": [
-            "AU",
             "EG",
             "SA"
           ],
@@ -39042,9 +39038,7 @@
             },
             {
               "raw_affiliation_string": "Department of Mineral Resources and Rocks, Faculty of Earth Sciences",
-              "institution_ids": [
-                "https://openalex.org/I4210130959"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Helwan University",
@@ -39077,7 +39071,10 @@
           "author": {
             "id": "https://openalex.org/A5081695998",
             "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528"
+            "orcid": "https://orcid.org/0000-0001-8467-4528",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8467-4528"
+            ]
           },
           "institutions": [
             {
@@ -39140,7 +39137,8 @@
           "author": {
             "id": "https://openalex.org/A5054422299",
             "display_name": "Khadija Semhi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -39164,8 +39162,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 4,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -39174,7 +39172,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.08595345,
+        "value": 0.09043713,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39378,8 +39376,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 125,
@@ -40847,8 +40845,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41824,8 +41822,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -42265,8 +42263,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

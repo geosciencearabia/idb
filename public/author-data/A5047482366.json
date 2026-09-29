@@ -26,17 +26,19 @@
     "affiliations": [
       {
         "institution": {
-          "id": "https://openalex.org/I4210114766",
-          "ror": "https://ror.org/01zhpv322",
-          "display_name": "Muscat College",
-          "country_code": "OM",
-          "type": "education",
+          "id": "https://openalex.org/I4210149583",
+          "ror": "https://ror.org/041169e26",
+          "display_name": "Ministry of Water and Energy",
+          "country_code": "ET",
+          "type": "government",
           "lineage": [
-            "https://openalex.org/I4210114766"
+            "https://openalex.org/I4210149583"
           ]
         },
         "years": [
-          2026
+          2014,
+          2013,
+          2011
         ]
       },
       {
@@ -56,16 +58,6 @@
       }
     ],
     "last_known_institutions": [
-      {
-        "id": "https://openalex.org/I4210114766",
-        "ror": "https://ror.org/01zhpv322",
-        "display_name": "Muscat College",
-        "country_code": "OM",
-        "type": "education",
-        "lineage": [
-          "https://openalex.org/I4210114766"
-        ]
-      },
       {
         "id": "https://openalex.org/I4405272748",
         "ror": "https://ror.org/04ng5af54",
@@ -168,7 +160,7 @@
       {
         "id": "https://openalex.org/T12543",
         "display_name": "Groundwater and Watershed Analysis",
-        "value": 0.0000352,
+        "value": 0.0000351,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -185,7 +177,7 @@
       {
         "id": "https://openalex.org/T13282",
         "display_name": "Automated Road and Building Extraction",
-        "value": 0.0000289,
+        "value": 0.000029,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -236,7 +228,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000179,
+        "value": 0.000018,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -353,7 +345,7 @@
     ],
     "block_key": "h al ajmi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5047482366",
-    "updated_date": "2026-09-26T12:32:56",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1017,8 +1009,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -1862,21 +1854,8 @@
               "https://orcid.org/0000-0002-5192-1753"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2801277386",
-              "display_name": "Emirates Foundation",
-              "ror": "https://ror.org/05nd26619",
-              "country_code": "AE",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I2801277386"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": true,
           "raw_author_name": "Heiko Dirks",
           "raw_affiliation_strings": [
@@ -1886,9 +1865,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Dornier Consulting, Abu Dhabi, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I2801277386"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -1973,15 +1950,14 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5008853309",
         "https://openalex.org/A5047482366",
         "https://openalex.org/A5070429780"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I2801277386",
         "https://openalex.org/I31512782"
       ],
       "apc_list": {
@@ -1990,11 +1966,11 @@
         "value_usd": 2290
       },
       "apc_paid": null,
-      "fwci": 0.6725,
+      "fwci": 0.6702,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.66209931,
+        "value": 0.6608224,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2338,9 +2314,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -2348,8 +2324,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -3085,8 +3061,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -3285,8 +3261,21 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149583",
+              "display_name": "Ministry of Water and Energy",
+              "ror": "https://ror.org/041169e26",
+              "country_code": "ET",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210149583"
+              ]
+            }
+          ],
+          "countries": [
+            "ET"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [
@@ -3301,7 +3290,9 @@
             },
             {
               "raw_affiliation_string": "Ministry of Water & Electricity",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I4210149583"
+              ]
             }
           ]
         },
@@ -3373,9 +3364,20 @@
                 "https://openalex.org/I193207422",
                 "https://openalex.org/I4210095035"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210095035",
+              "display_name": "Deutsche Gesellschaft für Internationale Zusammenarbeit",
+              "ror": "https://ror.org/00q08t645",
+              "country_code": "DE",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I4210095035"
+              ]
             }
           ],
           "countries": [
+            "DE",
             "PH"
           ],
           "is_corresponding": false,
@@ -3393,7 +3395,8 @@
             {
               "raw_affiliation_string": "Gesellschaft für Internationale Zusammenarbeit (GIZ)",
               "institution_ids": [
-                "https://openalex.org/I193207422"
+                "https://openalex.org/I193207422",
+                "https://openalex.org/I4210095035"
               ]
             }
           ]
@@ -3531,7 +3534,9 @@
             },
             {
               "raw_affiliation_string": "Universität Erlangen",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I181369854"
+              ]
             }
           ]
         },
@@ -3584,8 +3589,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [
         "https://openalex.org/A5006410698"
       ],
@@ -3598,11 +3603,11 @@
         "value_usd": 2290
       },
       "apc_paid": null,
-      "fwci": 2.1221,
+      "fwci": 2.1104,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.84384591,
+        "value": 0.84290128,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3854,7 +3859,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "doi:10.1007/s00767-014-0258-4",
@@ -3896,6 +3901,36 @@
           "is_published": true,
           "raw_source_name": "Grundwasser",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:tubiblio.ulb.tu-darmstadt.de:74128",
+          "is_oa": false,
+          "landing_page_url": "http://link.springer.com/article/10.1007/s00767-014-0258-4",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196390",
+            "display_name": "TUbilio (Technical University of Darmstadt)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I31512782",
+            "host_organization_name": "Technische Universität Darmstadt",
+            "host_organization_lineage": [
+              "https://openalex.org/I31512782"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Artikel"
         }
       ],
       "best_oa_location": null,
@@ -3905,8 +3940,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -4048,8 +4083,22 @@
               "https://orcid.org/0000-0003-3635-7821"
             ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I193207422",
+              "display_name": "Deutsche Gesellschaft für Internationale Zusammenarbeit",
+              "ror": "https://ror.org/00m42s140",
+              "country_code": "PH",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I193207422",
+                "https://openalex.org/I4210095035"
+              ]
+            }
+          ],
+          "countries": [
+            "PH"
+          ],
           "is_corresponding": true,
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [
@@ -4064,7 +4113,9 @@
             },
             {
               "raw_affiliation_string": "GIZ International Services",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I193207422"
+              ]
             }
           ]
         },
@@ -4123,8 +4174,21 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149583",
+              "display_name": "Ministry of Water and Energy",
+              "ror": "https://ror.org/041169e26",
+              "country_code": "ET",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210149583"
+              ]
+            }
+          ],
+          "countries": [
+            "ET"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [
@@ -4139,7 +4203,9 @@
             },
             {
               "raw_affiliation_string": "Ministry of Water and Electricity",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I4210149583"
+              ]
             }
           ]
         },
@@ -4151,23 +4217,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1339191578",
-              "display_name": "Dornier Flugzeugwerke (Germany)",
-              "ror": "https://ror.org/01msdga41",
-              "country_code": "DE",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I1339191578",
-                "https://openalex.org/I4210121748",
-                "https://openalex.org/I4210136903"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Heiko Dirks",
           "raw_affiliation_strings": [
@@ -4178,37 +4229,35 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Dornier Consulting, P.O. Box 2730, Riyadh, 11461, Kingdom of Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I1339191578"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Dornier Consulting",
-              "institution_ids": [
-                "https://openalex.org/I1339191578"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5070429780"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I193207422"
+      ],
       "apc_list": {
         "value": 3090,
         "currency": "USD",
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.5863,
+      "fwci": 0.5829,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.70525082,
+        "value": 0.70366122,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4496,9 +4545,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -4506,8 +4555,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -4678,10 +4727,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5113828366",
-            "display_name": "Bassam A. Abu Amarah",
-            "orcid": null,
-            "observed_orcids": []
+            "id": "https://openalex.org/A5039539071",
+            "display_name": "Bassam A. Abuamarah",
+            "orcid": "https://orcid.org/0000-0001-8272-0367",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8272-0367"
+            ]
           },
           "institutions": [
             {
@@ -4752,11 +4803,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.7739,
+      "fwci": 0.7705,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.68689221,
+        "value": 0.68541953,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5085,9 +5136,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -5095,8 +5146,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -5491,8 +5542,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -6062,9 +6113,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         }
       ],
       "x_sdgs": [],
@@ -6072,8 +6123,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6987,8 +7038,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9868,8 +9919,21 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210149583",
+              "display_name": "Ministry of Water and Energy",
+              "ror": "https://ror.org/041169e26",
+              "country_code": "ET",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210149583"
+              ]
+            }
+          ],
+          "countries": [
+            "ET"
+          ],
           "is_corresponding": false,
           "raw_author_name": "H. Al Ajmi",
           "raw_affiliation_strings": [
@@ -9884,7 +9948,9 @@
             },
             {
               "raw_affiliation_string": "Ministry of Water and Electricity",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I4210149583"
+              ]
             }
           ]
         },
@@ -9980,22 +10046,8 @@
               "https://orcid.org/0000-0003-3635-7821"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I193207422",
-              "display_name": "Deutsche Gesellschaft für Internationale Zusammenarbeit",
-              "ror": "https://ror.org/00m42s140",
-              "country_code": "PH",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I193207422",
-                "https://openalex.org/I4210095035"
-              ]
-            }
-          ],
-          "countries": [
-            "PH"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "R. Rausch",
           "raw_affiliation_strings": [
@@ -10010,9 +10062,7 @@
             },
             {
               "raw_affiliation_string": "Gesellschaft für Technische Zusammenarbeit International Services (GTZ-IS)",
-              "institution_ids": [
-                "https://openalex.org/I193207422"
-              ]
+              "institution_ids": []
             }
           ]
         }
@@ -10024,11 +10074,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1604,
+      "fwci": 1.1568,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.75601375,
+        "value": 0.75634955,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10301,8 +10351,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -10793,9 +10843,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.6299999952316284,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         }
       ],
       "x_sdgs": [],
@@ -10803,8 +10853,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11301,8 +11351,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11832,8 +11882,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1821045717.pdf",
@@ -12795,9 +12845,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6000000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -12805,8 +12855,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -13166,8 +13216,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13246,13 +13296,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210114766",
-              "display_name": "Muscat College",
-              "ror": "https://ror.org/01zhpv322",
+              "id": "https://openalex.org/I4405265181",
+              "display_name": "Oman College of Health Sciences",
+              "ror": "https://ror.org/0435sem25",
               "country_code": "OM",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I4210114766"
+                "https://openalex.org/I4405265181"
               ]
             }
           ],
@@ -13269,7 +13319,7 @@
             {
               "raw_affiliation_string": "Ray Oil & Gas INC, Muscat, Sultanate of Oman",
               "institution_ids": [
-                "https://openalex.org/I4210114766"
+                "https://openalex.org/I4405265181"
               ]
             }
           ]
@@ -13284,13 +13334,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210114766",
-              "display_name": "Muscat College",
-              "ror": "https://ror.org/01zhpv322",
+              "id": "https://openalex.org/I4405265181",
+              "display_name": "Oman College of Health Sciences",
+              "ror": "https://ror.org/0435sem25",
               "country_code": "OM",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I4210114766"
+                "https://openalex.org/I4405265181"
               ]
             }
           ],
@@ -13307,7 +13357,7 @@
             {
               "raw_affiliation_string": "Ray Oil & Gas INC, Muscat, Sultanate of Oman",
               "institution_ids": [
-                "https://openalex.org/I4210114766"
+                "https://openalex.org/I4405265181"
               ]
             }
           ]
@@ -13320,21 +13370,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210114766",
-              "display_name": "Muscat College",
-              "ror": "https://ror.org/01zhpv322",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210114766"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Bilal Shaheed",
           "raw_affiliation_strings": [
@@ -13344,9 +13381,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Weatherford International, Muscat, Sultanate of Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210114766"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -13360,13 +13395,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210114766",
-              "display_name": "Muscat College",
-              "ror": "https://ror.org/01zhpv322",
+              "id": "https://openalex.org/I4405265181",
+              "display_name": "Oman College of Health Sciences",
+              "ror": "https://ror.org/0435sem25",
               "country_code": "OM",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I4210114766"
+                "https://openalex.org/I4405265181"
               ]
             }
           ],
@@ -13383,7 +13418,7 @@
             {
               "raw_affiliation_string": "Ray Oil & Gas INC, Muscat, Sultanate of Oman",
               "institution_ids": [
-                "https://openalex.org/I4210114766"
+                "https://openalex.org/I4405265181"
               ]
             }
           ]
@@ -13398,13 +13433,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210114766",
-              "display_name": "Muscat College",
-              "ror": "https://ror.org/01zhpv322",
+              "id": "https://openalex.org/I4405265181",
+              "display_name": "Oman College of Health Sciences",
+              "ror": "https://ror.org/0435sem25",
               "country_code": "OM",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I4210114766"
+                "https://openalex.org/I4405265181"
               ]
             }
           ],
@@ -13421,7 +13456,7 @@
             {
               "raw_affiliation_string": "Ray Oil & Gas INC, Muscat, Sultanate of Oman",
               "institution_ids": [
-                "https://openalex.org/I4210114766"
+                "https://openalex.org/I4405265181"
               ]
             }
           ]
@@ -13436,13 +13471,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210114766",
-              "display_name": "Muscat College",
-              "ror": "https://ror.org/01zhpv322",
+              "id": "https://openalex.org/I4405265181",
+              "display_name": "Oman College of Health Sciences",
+              "ror": "https://ror.org/0435sem25",
               "country_code": "OM",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I4210114766"
+                "https://openalex.org/I4405265181"
               ]
             }
           ],
@@ -13459,7 +13494,7 @@
             {
               "raw_affiliation_string": "Ray Oil & Gas INC, Muscat, Sultanate of Oman",
               "institution_ids": [
-                "https://openalex.org/I4210114766"
+                "https://openalex.org/I4405265181"
               ]
             }
           ]
@@ -13474,13 +13509,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210114766",
-              "display_name": "Muscat College",
-              "ror": "https://ror.org/01zhpv322",
+              "id": "https://openalex.org/I4405265181",
+              "display_name": "Oman College of Health Sciences",
+              "ror": "https://ror.org/0435sem25",
               "country_code": "OM",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I4210114766"
+                "https://openalex.org/I4405265181"
               ]
             }
           ],
@@ -13497,7 +13532,7 @@
             {
               "raw_affiliation_string": "Ray Oil & Gas INC, Muscat, Sultanate of Oman",
               "institution_ids": [
-                "https://openalex.org/I4210114766"
+                "https://openalex.org/I4405265181"
               ]
             }
           ]
@@ -13512,13 +13547,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210114766",
-              "display_name": "Muscat College",
-              "ror": "https://ror.org/01zhpv322",
+              "id": "https://openalex.org/I4405265181",
+              "display_name": "Oman College of Health Sciences",
+              "ror": "https://ror.org/0435sem25",
               "country_code": "OM",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I4210114766"
+                "https://openalex.org/I4405265181"
               ]
             }
           ],
@@ -13535,7 +13570,7 @@
             {
               "raw_affiliation_string": "Ray Oil & Gas INC, Muscat, Sultanate of Oman",
               "institution_ids": [
-                "https://openalex.org/I4210114766"
+                "https://openalex.org/I4405265181"
               ]
             }
           ]
@@ -13549,16 +13584,6 @@
             "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I4210114766",
-              "display_name": "Muscat College",
-              "ror": "https://ror.org/01zhpv322",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210114766"
-              ]
-            },
             {
               "id": "https://openalex.org/I4405272748",
               "display_name": "Petroleum Development Oman (Oman)",
@@ -13583,7 +13608,6 @@
             {
               "raw_affiliation_string": "Petroleum Development Oman, Muscat, Sultanate of Oman",
               "institution_ids": [
-                "https://openalex.org/I4210114766",
                 "https://openalex.org/I4405272748"
               ]
             }
@@ -13598,16 +13622,6 @@
             "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I4210114766",
-              "display_name": "Muscat College",
-              "ror": "https://ror.org/01zhpv322",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210114766"
-              ]
-            },
             {
               "id": "https://openalex.org/I4405272748",
               "display_name": "Petroleum Development Oman (Oman)",
@@ -13632,7 +13646,6 @@
             {
               "raw_affiliation_string": "Petroleum Development Oman, Muscat, Sultanate of Oman",
               "institution_ids": [
-                "https://openalex.org/I4210114766",
                 "https://openalex.org/I4405272748"
               ]
             }
@@ -13647,16 +13660,6 @@
             "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I4210114766",
-              "display_name": "Muscat College",
-              "ror": "https://ror.org/01zhpv322",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210114766"
-              ]
-            },
             {
               "id": "https://openalex.org/I4405272748",
               "display_name": "Petroleum Development Oman (Oman)",
@@ -13681,7 +13684,6 @@
             {
               "raw_affiliation_string": "Petroleum Development Oman, Muscat, Sultanate of Oman",
               "institution_ids": [
-                "https://openalex.org/I4210114766",
                 "https://openalex.org/I4405272748"
               ]
             }
@@ -13696,16 +13698,6 @@
             "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I4210114766",
-              "display_name": "Muscat College",
-              "ror": "https://ror.org/01zhpv322",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210114766"
-              ]
-            },
             {
               "id": "https://openalex.org/I4405272748",
               "display_name": "Petroleum Development Oman (Oman)",
@@ -13730,7 +13722,6 @@
             {
               "raw_affiliation_string": "Petroleum Development Oman, Muscat, Sultanate of Oman",
               "institution_ids": [
-                "https://openalex.org/I4210114766",
                 "https://openalex.org/I4405272748"
               ]
             }
@@ -13745,16 +13736,6 @@
             "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I4210114766",
-              "display_name": "Muscat College",
-              "ror": "https://ror.org/01zhpv322",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210114766"
-              ]
-            },
             {
               "id": "https://openalex.org/I4405272748",
               "display_name": "Petroleum Development Oman (Oman)",
@@ -13779,7 +13760,6 @@
             {
               "raw_affiliation_string": "Petroleum Development Oman, Muscat, Sultanate of Oman",
               "institution_ids": [
-                "https://openalex.org/I4210114766",
                 "https://openalex.org/I4405272748"
               ]
             }
@@ -13797,7 +13777,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.53674976,
+        "value": 0.53654361,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14126,9 +14106,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 0.6469302177429199,
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "x_sdgs": [],
@@ -14136,8 +14116,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15087,8 +15067,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

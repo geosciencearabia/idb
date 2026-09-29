@@ -34,22 +34,6 @@
     "affiliations": [
       {
         "institution": {
-          "id": "https://openalex.org/I197507618",
-          "ror": "https://ror.org/00eckk830",
-          "display_name": "Oman Medical College",
-          "country_code": "OM",
-          "type": "healthcare",
-          "lineage": [
-            "https://openalex.org/I197507618",
-            "https://openalex.org/I4405253504"
-          ]
-        },
-        "years": [
-          2005
-        ]
-      },
-      {
-        "institution": {
           "id": "https://openalex.org/I40120149",
           "ror": "https://ror.org/052gg0110",
           "display_name": "University of Oxford",
@@ -62,23 +46,6 @@
         "years": [
           2024,
           2021
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I4210114766",
-          "ror": "https://ror.org/01zhpv322",
-          "display_name": "Muscat College",
-          "country_code": "OM",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I4210114766"
-          ]
-        },
-        "years": [
-          2010,
-          2004,
-          2003
         ]
       },
       {
@@ -146,7 +113,6 @@
           2012,
           2011,
           2010,
-          2001,
           1990
         ]
       },
@@ -269,7 +235,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000803,
+        "value": 0.0000805,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -286,7 +252,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000723,
+        "value": 0.0000728,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -303,7 +269,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000487,
+        "value": 0.0000488,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -320,7 +286,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000476,
+        "value": 0.0000477,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -337,7 +303,7 @@
       {
         "id": "https://openalex.org/T11801",
         "display_name": "Reservoir Engineering and Simulation Methods",
-        "value": 0.0000184,
+        "value": 0.0000185,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -518,7 +484,7 @@
     ],
     "block_key": "h droste",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5058646530",
-    "updated_date": "2026-09-26T12:32:56",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -588,21 +554,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I7923278",
-              "display_name": "Shell (Netherlands)",
-              "ror": "https://ror.org/00b5m4j81",
-              "country_code": "NL",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I7923278"
-              ]
-            }
-          ],
-          "countries": [
-            "NL"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Konert Geert",
           "raw_affiliation_strings": [
@@ -612,9 +565,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Shell International",
-              "institution_ids": [
-                "https://openalex.org/I7923278"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -630,6 +581,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
               "ror": "https://ror.org/035n7q728",
@@ -642,6 +603,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -654,6 +616,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -669,6 +632,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
               "ror": "https://ror.org/035n7q728",
@@ -681,6 +654,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -693,6 +667,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -708,21 +683,8 @@
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I7923278",
-              "display_name": "Shell (Netherlands)",
-              "ror": "https://ror.org/00b5m4j81",
-              "country_code": "NL",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I7923278"
-              ]
-            }
-          ],
-          "countries": [
-            "NL"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Henk J. Droste",
           "raw_affiliation_strings": [
@@ -732,9 +694,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Shell International",
-              "institution_ids": [
-                "https://openalex.org/I7923278"
-              ]
+              "institution_ids": []
             }
           ]
         }
@@ -746,11 +706,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.6286,
+      "fwci": 6.5983,
       "has_fulltext": true,
       "cited_by_count": 551,
       "citation_normalized_percentile": {
-        "value": 0.97029529,
+        "value": 0.97021108,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1095,9 +1055,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -2134,16 +2094,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I2540865",
-              "display_name": "Institut Français",
-              "ror": "https://ror.org/047hdnt12",
-              "country_code": "FR",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I2540865"
-              ]
-            },
-            {
               "id": "https://openalex.org/I265217849",
               "display_name": "IFP Énergies nouvelles",
               "ror": "https://ror.org/03gcbhc33",
@@ -2167,7 +2117,6 @@
             {
               "raw_affiliation_string": "Institut Français du Pétrole",
               "institution_ids": [
-                "https://openalex.org/I2540865",
                 "https://openalex.org/I265217849"
               ]
             }
@@ -2184,16 +2133,6 @@
             ]
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I2540865",
-              "display_name": "Institut Français",
-              "ror": "https://ror.org/047hdnt12",
-              "country_code": "FR",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I2540865"
-              ]
-            },
             {
               "id": "https://openalex.org/I265217849",
               "display_name": "IFP Énergies nouvelles",
@@ -2218,7 +2157,6 @@
             {
               "raw_affiliation_string": "Institut Français du Pétrole",
               "institution_ids": [
-                "https://openalex.org/I2540865",
                 "https://openalex.org/I265217849"
               ]
             }
@@ -2233,16 +2171,6 @@
             "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I2540865",
-              "display_name": "Institut Français",
-              "ror": "https://ror.org/047hdnt12",
-              "country_code": "FR",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I2540865"
-              ]
-            },
             {
               "id": "https://openalex.org/I265217849",
               "display_name": "IFP Énergies nouvelles",
@@ -2267,7 +2195,6 @@
             {
               "raw_affiliation_string": "Institut Français du Pétrole",
               "institution_ids": [
-                "https://openalex.org/I2540865",
                 "https://openalex.org/I265217849"
               ]
             }
@@ -2506,16 +2433,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 3,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 9.4107,
+      "fwci": 9.3159,
       "has_fulltext": true,
       "cited_by_count": 223,
       "citation_normalized_percentile": {
-        "value": 0.98937247,
+        "value": 0.98924731,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2848,9 +2775,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "x_sdgs": [],
@@ -4374,9 +4301,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.4000000059604645
         }
       ],
       "x_sdgs": [],
@@ -5444,16 +5371,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I2540865",
-              "display_name": "Institut Français",
-              "ror": "https://ror.org/047hdnt12",
-              "country_code": "FR",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I2540865"
-              ]
-            },
-            {
               "id": "https://openalex.org/I265217849",
               "display_name": "IFP Énergies nouvelles",
               "ror": "https://ror.org/03gcbhc33",
@@ -5477,7 +5394,6 @@
             {
               "raw_affiliation_string": "Institut Français du Pétrole, 92506 Rueil-Malmaison Cedex, France",
               "institution_ids": [
-                "https://openalex.org/I2540865",
                 "https://openalex.org/I265217849"
               ]
             }
@@ -5492,16 +5408,6 @@
             "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I2540865",
-              "display_name": "Institut Français",
-              "ror": "https://ror.org/047hdnt12",
-              "country_code": "FR",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I2540865"
-              ]
-            },
             {
               "id": "https://openalex.org/I265217849",
               "display_name": "IFP Énergies nouvelles",
@@ -5526,7 +5432,6 @@
             {
               "raw_affiliation_string": "Institut Français du Pétrole, 92506 Rueil-Malmaison Cedex, France",
               "institution_ids": [
-                "https://openalex.org/I2540865",
                 "https://openalex.org/I265217849"
               ]
             }
@@ -5541,16 +5446,6 @@
             "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I2540865",
-              "display_name": "Institut Français",
-              "ror": "https://ror.org/047hdnt12",
-              "country_code": "FR",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I2540865"
-              ]
-            },
             {
               "id": "https://openalex.org/I265217849",
               "display_name": "IFP Énergies nouvelles",
@@ -5594,7 +5489,6 @@
             {
               "raw_affiliation_string": "Institut Français du Pétrole, 92506 Rueil-Malmaison Cedex, France",
               "institution_ids": [
-                "https://openalex.org/I2540865",
                 "https://openalex.org/I265217849"
               ]
             },
@@ -5654,31 +5548,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I117222138",
-              "display_name": "Abu Dhabi University",
-              "ror": "https://ror.org/01r3kjq03",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I117222138"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I97699614",
-              "display_name": "Abu Dhabi National Oil (United Arab Emirates)",
-              "ror": "https://ror.org/010e8pt90",
-              "country_code": "AE",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I97699614"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Jürgen Grötsch",
           "raw_affiliation_strings": [
@@ -5690,21 +5561,15 @@
           "affiliations": [
             {
               "raw_affiliation_string": "3 Shell Gas Abu Dhabi BV, PO Box 46807, Abu Dhabi",
-              "institution_ids": [
-                "https://openalex.org/I117222138"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Abu Dhabi Company for Onshore Operations (ADCO), PO Box 270, Abu Dhabi, UAE",
-              "institution_ids": [
-                "https://openalex.org/I97699614"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "3Shell Gas Abu Dhabi BV, PO Box 46807, Abu Dhabi",
-              "institution_ids": [
-                "https://openalex.org/I117222138"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -5774,13 +5639,12 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 8,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [
         "https://openalex.org/A5105512556"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I2540865",
         "https://openalex.org/I265217849"
       ],
       "apc_list": {
@@ -5789,11 +5653,11 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 4.7691,
+      "fwci": 4.7209,
       "has_fulltext": false,
       "cited_by_count": 151,
       "citation_normalized_percentile": {
-        "value": 0.94665728,
+        "value": 0.94607285,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6168,9 +6032,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8399999737739563
         }
       ],
       "x_sdgs": [],
@@ -6916,21 +6780,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210114766",
-              "display_name": "Muscat College",
-              "ror": "https://ror.org/01zhpv322",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210114766"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "HEIKO HILLGÄRTNER",
           "raw_affiliation_strings": [
@@ -6940,9 +6791,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Shell Technology Oman, PO Box 74, Muscat 116, Sultanate of Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210114766"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -6958,16 +6807,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210114766",
-              "display_name": "Muscat College",
-              "ror": "https://ror.org/01zhpv322",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210114766"
-              ]
-            },
-            {
               "id": "https://openalex.org/I7923278",
               "display_name": "Shell (Netherlands)",
               "ror": "https://ror.org/00b5m4j81",
@@ -6979,8 +6818,7 @@
             }
           ],
           "countries": [
-            "NL",
-            "OM"
+            "NL"
           ],
           "is_corresponding": false,
           "raw_author_name": "HENK J. DROSTE",
@@ -6998,16 +6836,14 @@
             },
             {
               "raw_affiliation_string": "Shell Technology Oman, PO Box 74, Muscat 116, Sultanate of Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210114766"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
       "countries_distinct_count": 3,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5010939944",
         "https://openalex.org/A5037041743"
@@ -7021,11 +6857,11 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 21.9059,
+      "fwci": 21.5186,
       "has_fulltext": false,
       "cited_by_count": 140,
       "citation_normalized_percentile": {
-        "value": 0.99549849,
+        "value": 0.99540964,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -7273,9 +7109,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "x_sdgs": [],
@@ -9689,6 +9525,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I265217849",
+              "display_name": "IFP Énergies nouvelles",
+              "ror": "https://ror.org/03gcbhc33",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I265217849"
+              ]
+            },
+            {
               "id": "https://openalex.org/I7923278",
               "display_name": "Shell (Netherlands)",
               "ror": "https://ror.org/00b5m4j81",
@@ -9700,6 +9546,7 @@
             }
           ],
           "countries": [
+            "FR",
             "NL"
           ],
           "is_corresponding": false,
@@ -9712,7 +9559,10 @@
           "affiliations": [
             {
               "raw_affiliation_string": "1Institut Français de Pétrole, 1 and 4 avenue de Bois-Preau, BP 311-92506 Rueil-Malmaison Cedex, France; present address: Shell International Exploration and Production B.V., Technology Applications and Research, Volmerlaan 8, Postbus 60, 2280 AB Rijswijk, The Netherlands",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I265217849",
+                "https://openalex.org/I7923278"
+              ]
             },
             {
               "raw_affiliation_string": "Shell (Netherlands), The Hague, Netherlands",
@@ -9740,6 +9590,16 @@
               "lineage": [
                 "https://openalex.org/I2540865"
               ]
+            },
+            {
+              "id": "https://openalex.org/I265217849",
+              "display_name": "IFP Énergies nouvelles",
+              "ror": "https://ror.org/03gcbhc33",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I265217849"
+              ]
             }
           ],
           "countries": [
@@ -9756,13 +9616,14 @@
             {
               "raw_affiliation_string": "2Institut Français de Pétrole, 1 and 4 avenue de Bois-Preau, BP 311-92506 Rueil-Malmaison Cedex, France",
               "institution_ids": [
-                "https://openalex.org/I2540865"
+                "https://openalex.org/I265217849"
               ]
             },
             {
               "raw_affiliation_string": "Institut Français de Pétrole, 1 and 4 avenue de Bois-Preau, BP 311-92506 Rueil-Malmaison Cedex, France",
               "institution_ids": [
-                "https://openalex.org/I2540865"
+                "https://openalex.org/I2540865",
+                "https://openalex.org/I265217849"
               ]
             }
           ]
@@ -9785,6 +9646,16 @@
               "lineage": [
                 "https://openalex.org/I2540865"
               ]
+            },
+            {
+              "id": "https://openalex.org/I265217849",
+              "display_name": "IFP Énergies nouvelles",
+              "ror": "https://ror.org/03gcbhc33",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I265217849"
+              ]
             }
           ],
           "countries": [
@@ -9801,13 +9672,14 @@
             {
               "raw_affiliation_string": "3Institut Français de Pétrole, 1 and 4 avenue de Bois-Preau, BP 311-92506 Rueil-Malmaison Cedex, France",
               "institution_ids": [
-                "https://openalex.org/I2540865"
+                "https://openalex.org/I265217849"
               ]
             },
             {
               "raw_affiliation_string": "Institut Français de Pétrole, 1 and 4 avenue de Bois-Preau, BP 311-92506 Rueil-Malmaison Cedex, France",
               "institution_ids": [
-                "https://openalex.org/I2540865"
+                "https://openalex.org/I2540865",
+                "https://openalex.org/I265217849"
               ]
             }
           ]
@@ -9853,9 +9725,7 @@
             },
             {
               "raw_affiliation_string": "EGID-Université Bordeaux 3, F-33407 Pessac, Cedex, France",
-              "institution_ids": [
-                "https://openalex.org/I15057530"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -9882,13 +9752,13 @@
               ]
             },
             {
-              "id": "https://openalex.org/I2540865",
-              "display_name": "Institut Français",
-              "ror": "https://ror.org/047hdnt12",
+              "id": "https://openalex.org/I265217849",
+              "display_name": "IFP Énergies nouvelles",
+              "ror": "https://ror.org/03gcbhc33",
               "country_code": "FR",
-              "type": "other",
+              "type": "facility",
               "lineage": [
-                "https://openalex.org/I2540865"
+                "https://openalex.org/I265217849"
               ]
             }
           ],
@@ -9907,7 +9777,7 @@
               "raw_affiliation_string": "5Institut Français de Pétrole, 1 and 4 avenue de Bois-Preau, BP 311-92506 Rueil-Malmaison Cedex, France; present address: Universite Claude-Bernard Lyon 1, Centre des Sciences de la Terre, UFR-UMR5125, 27-43 Bd du 11 Novembre, F-69622 Villeurbanne Cedex, France",
               "institution_ids": [
                 "https://openalex.org/I100532134",
-                "https://openalex.org/I2540865"
+                "https://openalex.org/I265217849"
               ]
             },
             {
@@ -9926,21 +9796,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I97699614",
-              "display_name": "Abu Dhabi National Oil (United Arab Emirates)",
-              "ror": "https://ror.org/010e8pt90",
-              "country_code": "AE",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I97699614"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Jürgen Grötsch",
           "raw_affiliation_strings": [
@@ -9951,15 +9808,11 @@
           "affiliations": [
             {
               "raw_affiliation_string": "6Abu Dhabi Company for Onshore Oil Operations (ADCO), Geological Department, P.O. Box 270, Abu Dhabi, U.A.E",
-              "institution_ids": [
-                "https://openalex.org/I97699614"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Abu Dhabi Company for Onshore Oil Operations (ADCO), Geological Department, P.O. Box 270, Abu Dhabi, U.A.E",
-              "institution_ids": [
-                "https://openalex.org/I97699614"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -9974,16 +9827,6 @@
             ]
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I4210114766",
-              "display_name": "Muscat College",
-              "ror": "https://ror.org/01zhpv322",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210114766"
-              ]
-            },
             {
               "id": "https://openalex.org/I4405272748",
               "display_name": "Petroleum Development Oman (Oman)",
@@ -10009,7 +9852,7 @@
             {
               "raw_affiliation_string": "7Petroleum Development Oman, Exploration Lab, P.O. Box 81, Postal Code 113, Muscat, Sultanate of Oman",
               "institution_ids": [
-                "https://openalex.org/I4210114766"
+                "https://openalex.org/I4405272748"
               ]
             },
             {
@@ -10022,17 +9865,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 7,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 6,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.958,
+      "fwci": 5.8838,
       "has_fulltext": false,
       "cited_by_count": 128,
       "citation_normalized_percentile": {
-        "value": 0.95779991,
+        "value": 0.95738807,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10348,9 +10191,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7599999904632568
         }
       ],
       "x_sdgs": [],
@@ -11812,9 +11655,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -12777,9 +12620,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -15370,9 +15213,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -16771,9 +16614,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -18847,9 +18690,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -20019,16 +19862,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210114766",
-              "display_name": "Muscat College",
-              "ror": "https://ror.org/01zhpv322",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210114766"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4405272748",
               "display_name": "Petroleum Development Oman (Oman)",
               "ror": "https://ror.org/04ng5af54",
@@ -20052,7 +19885,6 @@
             {
               "raw_affiliation_string": "Petroleum Development Oman, Muscat, Sultanate of Oman",
               "institution_ids": [
-                "https://openalex.org/I4210114766",
                 "https://openalex.org/I4405272748"
               ]
             }
@@ -20067,16 +19899,6 @@
             "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I4210114766",
-              "display_name": "Muscat College",
-              "ror": "https://ror.org/01zhpv322",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210114766"
-              ]
-            },
             {
               "id": "https://openalex.org/I4405272748",
               "display_name": "Petroleum Development Oman (Oman)",
@@ -20101,7 +19923,6 @@
             {
               "raw_affiliation_string": "Petroleum Development Oman, Muscat, Sultanate of Oman",
               "institution_ids": [
-                "https://openalex.org/I4210114766",
                 "https://openalex.org/I4405272748"
               ]
             }
@@ -20110,12 +19931,14 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4405272748"
+      ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6458,
+      "fwci": 0.6465,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
@@ -22545,9 +22368,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -23317,17 +23140,6 @@
               "lineage": [
                 "https://openalex.org/I1336856363"
               ]
-            },
-            {
-              "id": "https://openalex.org/I36527812",
-              "display_name": "Halliburton (United Kingdom)",
-              "ror": "https://ror.org/01jn7ba52",
-              "country_code": "GB",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I36527812",
-                "https://openalex.org/I4210137549"
-              ]
             }
           ],
           "countries": [
@@ -23343,9 +23155,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Halliburton, 97 Milton Park, Oxford OX14 4RW, UK",
-              "institution_ids": [
-                "https://openalex.org/I36527812"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "The Natural History Museum, Cromwell Road, London SW7 5BD, UK",
@@ -23571,21 +23381,20 @@
       ],
       "institutions": [],
       "countries_distinct_count": 3,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [
         "https://openalex.org/A5069580302"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I1336856363",
-        "https://openalex.org/I36527812"
+        "https://openalex.org/I1336856363"
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 16.3653,
+      "fwci": 16.2519,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.99362651,
+        "value": 0.99349786,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -23784,9 +23593,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "x_sdgs": [],
@@ -25502,9 +25311,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.699999988079071,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.699999988079071
         }
       ],
       "x_sdgs": [],
@@ -26649,9 +26458,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5099999904632568,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5099999904632568
         }
       ],
       "x_sdgs": [],
@@ -28345,9 +28154,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.7400000095367432,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.7400000095367432
         }
       ],
       "x_sdgs": [],
@@ -29162,24 +28971,13 @@
           "author": {
             "id": "https://openalex.org/A5035885381",
             "display_name": "Peter W. Homewood",
-            "orcid": "https://orcid.org/0000-0001-7278-9619"
+            "orcid": "https://orcid.org/0000-0001-7278-9619",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7278-9619"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I197507618",
-              "display_name": "Oman Medical College",
-              "ror": "https://ror.org/00eckk830",
-              "country_code": "OM",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I197507618",
-                "https://openalex.org/I4405253504"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "P. Homewood",
           "raw_affiliation_strings": [
@@ -29189,9 +28987,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Oman Geo-Consultants",
-              "institution_ids": [
-                "https://openalex.org/I197507618"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -29200,7 +28996,10 @@
           "author": {
             "id": "https://openalex.org/A5058223208",
             "display_name": "Volker Vahrenkamp",
-            "orcid": "https://orcid.org/0000-0002-2182-7993"
+            "orcid": "https://orcid.org/0000-0002-2182-7993",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2182-7993"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -29215,23 +29014,11 @@
           "author": {
             "id": "https://openalex.org/A5059672583",
             "display_name": "M. Mettraux",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210116398",
-              "display_name": "Applied GeoSolutions (United States)",
-              "ror": "https://ror.org/02gnmy268",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210116398"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "M. Mettraux",
           "raw_affiliation_strings": [
@@ -29241,9 +29028,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "GeoSolutions (Geosciences and Reservoir Geochemistry)",
-              "institution_ids": [
-                "https://openalex.org/I4210116398"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -29252,23 +29037,11 @@
           "author": {
             "id": "https://openalex.org/A5039636725",
             "display_name": "Joerg Mattner",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210134662",
-              "display_name": "Bahrain Center for Strategic International and Energy Studies",
-              "ror": "https://ror.org/03ht6cj06",
-              "country_code": "BH",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I4210134662"
-              ]
-            }
-          ],
-          "countries": [
-            "BH"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "J. Mattner",
           "raw_affiliation_strings": [
@@ -29278,9 +29051,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Manama Center",
-              "institution_ids": [
-                "https://openalex.org/I4210134662"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -29289,7 +29060,10 @@
           "author": {
             "id": "https://openalex.org/A5022836837",
             "display_name": "Brigitte Vlaswinkel",
-            "orcid": "https://orcid.org/0009-0007-7699-109X"
+            "orcid": "https://orcid.org/0009-0007-7699-109X",
+            "observed_orcids": [
+              "https://orcid.org/0009-0007-7699-109X"
+            ]
           },
           "institutions": [
             {
@@ -29326,7 +29100,10 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
-            "orcid": "https://orcid.org/0009-0008-1422-1783"
+            "orcid": "https://orcid.org/0009-0008-1422-1783",
+            "observed_orcids": [
+              "https://orcid.org/0009-0008-1422-1783"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -29348,7 +29125,10 @@
           "author": {
             "id": "https://openalex.org/A5012524105",
             "display_name": "Andy Y. Kwarteng",
-            "orcid": "https://orcid.org/0000-0001-7929-458X"
+            "orcid": "https://orcid.org/0000-0001-7929-458X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7929-458X"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -29367,17 +29147,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 4,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2217,
+      "fwci": 1.1906,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.83097449,
+        "value": 0.82674322,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29727,9 +29507,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -30356,9 +30136,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5899999737739563,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5899999737739563
         }
       ],
       "x_sdgs": [],
@@ -30856,9 +30636,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -31605,9 +31385,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5899999737739563,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5899999737739563
         }
       ],
       "x_sdgs": [],
@@ -32153,9 +31933,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -33144,9 +32924,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8199999928474426
         }
       ],
       "x_sdgs": [],
@@ -33989,9 +33769,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/1",
           "display_name": "No poverty",
-          "score": 0.7200000286102295,
-          "id": "https://metadata.un.org/sdg/1"
+          "score": 0.7200000286102295
         }
       ],
       "x_sdgs": [],
@@ -34779,9 +34559,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.6499999761581421,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.6499999761581421
         }
       ],
       "x_sdgs": [],
@@ -35547,9 +35327,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7835737466812134,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7835737466812134
         }
       ],
       "x_sdgs": [],
@@ -35986,9 +35766,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "x_sdgs": [],
@@ -37200,9 +36980,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -38746,9 +38526,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -39287,9 +39067,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -40389,22 +40169,8 @@
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I197507618",
-              "display_name": "Oman Medical College",
-              "ror": "https://ror.org/00eckk830",
-              "country_code": "OM",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I197507618",
-                "https://openalex.org/I4405253504"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "H. Droste",
           "raw_affiliation_strings": [
@@ -40414,16 +40180,14 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Shell Oman",
-              "institution_ids": [
-                "https://openalex.org/I197507618"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 4,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -40432,7 +40196,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.36841017,
+        "value": 0.37009346,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40747,9 +40511,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8199999928474426
         }
       ],
       "x_sdgs": [],
@@ -41830,9 +41594,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.4000000059604645
         }
       ],
       "x_sdgs": [],
@@ -43995,9 +43759,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.6499999761581421,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.6499999761581421
         }
       ],
       "x_sdgs": [],
@@ -44940,9 +44704,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.4300000071525574
         }
       ],
       "x_sdgs": [],
@@ -45641,10 +45405,26 @@
           "author": {
             "id": "https://openalex.org/A5058646530",
             "display_name": "Henk Droste",
-            "orcid": "https://orcid.org/0009-0008-1422-1783"
+            "orcid": "https://orcid.org/0009-0008-1422-1783",
+            "observed_orcids": [
+              "https://orcid.org/0009-0008-1422-1783"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Henk Droste",
           "raw_affiliation_strings": [
@@ -45654,7 +45434,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "University of Oxford, Earth Sciences, United Kingdom of Great Britain – England, Scotland, Wales (henk.droste@telenet.be)",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
             }
           ]
         },
@@ -45663,10 +45445,26 @@
           "author": {
             "id": "https://openalex.org/A5041843348",
             "display_name": "Bruce Levell",
-            "orcid": "https://orcid.org/0000-0002-7414-1565"
+            "orcid": "https://orcid.org/0000-0002-7414-1565",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7414-1565"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Bruce Levell",
           "raw_affiliation_strings": [
@@ -45676,7 +45474,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "University of Oxford, Earth Sciences, United Kingdom of Great Britain – England, Scotland, Wales (henk.droste@telenet.be)",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
             }
           ]
         },
@@ -45685,10 +45485,26 @@
           "author": {
             "id": "https://openalex.org/A5060286659",
             "display_name": "M. P. Searle",
-            "orcid": "https://orcid.org/0000-0001-6904-6398"
+            "orcid": "https://orcid.org/0000-0001-6904-6398",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6904-6398"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Mike Searle",
           "raw_affiliation_strings": [
@@ -45698,16 +45514,20 @@
           "affiliations": [
             {
               "raw_affiliation_string": "University of Oxford, Earth Sciences, United Kingdom of Great Britain – England, Scotland, Wales (henk.droste@telenet.be)",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I40120149"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": null,
@@ -45936,6 +45756,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I40120149",
             "host_organization_name": "University of Oxford",
             "host_organization_lineage": [
@@ -45969,9 +45790,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "x_sdgs": [],
@@ -47391,9 +47212,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.871906042098999,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.871906042098999
         }
       ],
       "x_sdgs": [],

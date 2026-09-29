@@ -33,6 +33,21 @@
     "affiliations": [
       {
         "institution": {
+          "id": "https://openalex.org/I123387679",
+          "ror": "https://ror.org/048a87296",
+          "display_name": "Uppsala University",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I123387679"
+          ]
+        },
+        "years": [
+          2013
+        ]
+      },
+      {
+        "institution": {
           "id": "https://openalex.org/I134085113",
           "ror": "https://ror.org/03yez3163",
           "display_name": "King Fahd University of Petroleum and Minerals",
@@ -49,21 +64,6 @@
           2021,
           2013,
           2009
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I53276908",
-          "ror": "https://ror.org/0008kv292",
-          "display_name": "Marymount University",
-          "country_code": "US",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I53276908"
-          ]
-        },
-        "years": [
-          2012
         ]
       }
     ],
@@ -170,7 +170,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000313,
+        "value": 0.0000314,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -187,7 +187,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000241,
+        "value": 0.0000242,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -204,7 +204,7 @@
       {
         "id": "https://openalex.org/T11278",
         "display_name": "Calcium Carbonate Crystallization and Inhibition",
-        "value": 0.0000231,
+        "value": 0.0000232,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -221,7 +221,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000219,
+        "value": 0.0000221,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -238,7 +238,7 @@
       {
         "id": "https://openalex.org/T11852",
         "display_name": "Clay minerals and soil interactions",
-        "value": 0.0000206,
+        "value": 0.0000207,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -352,7 +352,7 @@
     ],
     "block_key": "k al-ramadan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5104094821",
-    "updated_date": "2026-09-25T12:19:18",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2019-08-13T00:00:00"
   },
   "works": [
@@ -860,8 +860,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 132,
@@ -2458,8 +2458,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -3841,8 +3841,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284
         }
       ],
@@ -3851,8 +3851,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -5313,8 +5313,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -5868,23 +5868,13 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "orcid": "https://orcid.org/0000-0002-4872-6201",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4872-6201"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I53276908",
-              "display_name": "Marymount University",
-              "ror": "https://ror.org/0008kv292",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I53276908"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Khalid AL-RAMADAN",
           "raw_affiliation_strings": [
@@ -5894,9 +5884,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Assistant Prof",
-              "institution_ids": [
-                "https://openalex.org/I53276908"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -5905,7 +5893,10 @@
           "author": {
             "id": "https://openalex.org/A5077100287",
             "display_name": "Ahmet Doğan",
-            "orcid": "https://orcid.org/0000-0001-9181-383X"
+            "orcid": "https://orcid.org/0000-0001-9181-383X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9181-383X"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -5927,23 +5918,13 @@
           "author": {
             "id": "https://openalex.org/A5081283983",
             "display_name": "M. Şenalp",
-            "orcid": "https://orcid.org/0000-0003-2144-0091"
+            "orcid": "https://orcid.org/0000-0003-2144-0091",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2144-0091"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2801508065",
-              "display_name": "Society of Economic Geologists",
-              "ror": "https://ror.org/02cb1bz50",
-              "country_code": "US",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I2801508065"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Muhittin SENALP",
           "raw_affiliation_strings": [
@@ -5953,16 +5934,14 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Retired geologist",
-              "institution_ids": [
-                "https://openalex.org/I2801508065"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -5971,7 +5950,7 @@
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.12178914,
+        "value": 0.12296143,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6252,8 +6231,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284
         }
       ],
@@ -6262,8 +6241,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2067784425.pdf",
@@ -7440,8 +7419,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -7479,8 +7458,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 106,
@@ -8405,8 +8384,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5400000214576721
         }
       ],
@@ -8415,8 +8394,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3128211510.pdf",
@@ -9597,8 +9576,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284
         }
       ],
@@ -9607,8 +9586,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -10243,8 +10222,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -10272,8 +10251,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 175,
@@ -11288,8 +11267,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -11885,8 +11864,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -13359,8 +13338,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4401646659.pdf",
@@ -14775,8 +14754,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3198961371.pdf",
@@ -16069,8 +16048,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407393621.pdf",
@@ -17409,8 +17388,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -18316,9 +18295,22 @@
           "author": {
             "id": "https://openalex.org/A5104094821",
             "display_name": "Khalid Al‐Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "orcid": "https://orcid.org/0000-0002-4872-6201",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4872-6201"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I123387679",
+              "display_name": "Uppsala University",
+              "ror": "https://ror.org/048a87296",
+              "country_code": "SE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I123387679"
+              ]
+            },
             {
               "id": "https://openalex.org/I134085113",
               "display_name": "King Fahd University of Petroleum and Minerals",
@@ -18331,7 +18323,8 @@
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "SE"
           ],
           "is_corresponding": true,
           "raw_author_name": "Khalid Al‐Ramadan",
@@ -18344,6 +18337,7 @@
             {
               "raw_affiliation_string": "Department of Earth Sciences, Uppsala University, Villavägen 16, SE-752 36 Uppsala, Sweden (E-mail: ramadank@kfupm.edu.sa), Present Address: Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, P.O. Box 1400 , Saudi Arabia",
               "institution_ids": [
+                "https://openalex.org/I123387679",
                 "https://openalex.org/I134085113"
               ]
             },
@@ -18360,23 +18354,13 @@
           "author": {
             "id": "https://openalex.org/A5057027693",
             "display_name": "Sadoon Morad",
-            "orcid": "https://orcid.org/0000-0002-8214-0896"
+            "orcid": "https://orcid.org/0000-0002-8214-0896",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8214-0896"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286361989",
-              "display_name": "American Petroleum Institute",
-              "ror": "https://ror.org/01zvdsy94",
-              "country_code": "US",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I1286361989"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Sadoon Morad",
           "raw_affiliation_strings": [
@@ -18386,9 +18370,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Petroleum Institute of Abu Dhabi, Department of Petroleum Geosciences, the Petroleum Institute, P.O. Box 2533, Abu Dhabi, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I1286361989"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -18397,7 +18379,10 @@
           "author": {
             "id": "https://openalex.org/A5026361100",
             "display_name": "Piret Plink‐Björklund",
-            "orcid": "https://orcid.org/0000-0003-1637-2100"
+            "orcid": "https://orcid.org/0000-0003-1637-2100",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1637-2100"
+            ]
           },
           "institutions": [
             {
@@ -18431,12 +18416,13 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
+      "countries_distinct_count": 3,
       "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5104094821"
       ],
       "corresponding_institution_ids": [
+        "https://openalex.org/I123387679",
         "https://openalex.org/I134085113"
       ],
       "apc_list": null,
@@ -18782,8 +18768,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147
         }
       ],
@@ -18792,8 +18778,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -19689,8 +19675,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563
         }
       ],
@@ -19699,8 +19685,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19997,8 +19983,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20497,8 +20483,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,

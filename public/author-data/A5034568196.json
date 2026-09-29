@@ -55,21 +55,6 @@
           2015,
           2014
         ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I4210118538",
-          "ror": "https://ror.org/02em1tr51",
-          "display_name": "University of Petroleum",
-          "country_code": "ID",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I4210118538"
-          ]
-        },
-        "years": [
-          2026
-        ]
       }
     ],
     "last_known_institutions": [
@@ -81,16 +66,6 @@
         "type": "education",
         "lineage": [
           "https://openalex.org/I134085113"
-        ]
-      },
-      {
-        "id": "https://openalex.org/I4210118538",
-        "ror": "https://ror.org/02em1tr51",
-        "display_name": "University of Petroleum",
-        "country_code": "ID",
-        "type": "education",
-        "lineage": [
-          "https://openalex.org/I4210118538"
         ]
       }
     ],
@@ -185,7 +160,7 @@
       {
         "id": "https://openalex.org/T12543",
         "display_name": "Groundwater and Watershed Analysis",
-        "value": 0.0002227,
+        "value": 0.0002222,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -202,7 +177,7 @@
       {
         "id": "https://openalex.org/T10398",
         "display_name": "Groundwater and Isotope Geochemistry",
-        "value": 0.0001788,
+        "value": 0.0001789,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -236,7 +211,7 @@
       {
         "id": "https://openalex.org/T11869",
         "display_name": "Per- and polyfluoroalkyl substances research",
-        "value": 0.0000514,
+        "value": 0.0000513,
         "subfield": {
           "id": "https://openalex.org/subfields/2304",
           "display_name": "Environmental Chemistry"
@@ -253,7 +228,7 @@
       {
         "id": "https://openalex.org/T11634",
         "display_name": "Water Quality and Pollution Assessment",
-        "value": 0.0000487,
+        "value": 0.0000489,
         "subfield": {
           "id": "https://openalex.org/subfields/2312",
           "display_name": "Water Science and Technology"
@@ -389,7 +364,7 @@
     ],
     "block_key": "m benaafi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5034568196",
-    "updated_date": "2026-09-26T12:32:56",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1419,8 +1394,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -2310,8 +2285,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4308105876.pdf",
@@ -3744,8 +3719,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -4851,8 +4826,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -5543,8 +5518,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
@@ -5758,7 +5733,10 @@
           "author": {
             "id": "https://openalex.org/A5062007467",
             "display_name": "Sani Isah Abba",
-            "orcid": "https://orcid.org/0000-0001-9356-2798"
+            "orcid": "https://orcid.org/0000-0001-9356-2798",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9356-2798"
+            ]
           },
           "institutions": [
             {
@@ -5795,7 +5773,10 @@
           "author": {
             "id": "https://openalex.org/A5034568196",
             "display_name": "Mohammed Benaafi",
-            "orcid": "https://orcid.org/0000-0001-6246-7835"
+            "orcid": "https://orcid.org/0000-0001-6246-7835",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6246-7835"
+            ]
           },
           "institutions": [
             {
@@ -5832,7 +5813,10 @@
           "author": {
             "id": "https://openalex.org/A5037540489",
             "display_name": "Abdullahi Garba Usman",
-            "orcid": "https://orcid.org/0000-0001-5660-4581"
+            "orcid": "https://orcid.org/0000-0001-5660-4581",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5660-4581"
+            ]
           },
           "institutions": [
             {
@@ -5869,9 +5853,22 @@
           "author": {
             "id": "https://openalex.org/A5071225279",
             "display_name": "Dilber Uzun Ozsahin",
-            "orcid": "https://orcid.org/0000-0002-3873-1410"
+            "orcid": "https://orcid.org/0000-0002-3873-1410",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3873-1410"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I29891158",
+              "display_name": "University of Sharjah",
+              "ror": "https://ror.org/00engpz63",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I29891158"
+              ]
+            },
             {
               "id": "https://openalex.org/I69050122",
               "display_name": "Near East University",
@@ -5884,6 +5881,7 @@
             }
           ],
           "countries": [
+            "AE",
             "CY"
           ],
           "is_corresponding": false,
@@ -5896,6 +5894,7 @@
             {
               "raw_affiliation_string": "Sharjah University, College of Health Sciences, Department of Medical Diagnostic Imaging, United Arab Emirates; Near East University, Operational Research Center in Healthcare, Nicosia 99138, TRNC Mersin 10, Turkey",
               "institution_ids": [
+                "https://openalex.org/I29891158",
                 "https://openalex.org/I69050122"
               ]
             }
@@ -5906,7 +5905,10 @@
           "author": {
             "id": "https://openalex.org/A5074883327",
             "display_name": "Bassam Tawabini",
-            "orcid": "https://orcid.org/0000-0002-0096-2723"
+            "orcid": "https://orcid.org/0000-0002-0096-2723",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0096-2723"
+            ]
           },
           "institutions": [
             {
@@ -5943,7 +5945,10 @@
           "author": {
             "id": "https://openalex.org/A5030371811",
             "display_name": "Isam H. Aljundi",
-            "orcid": "https://orcid.org/0000-0002-0714-8580"
+            "orcid": "https://orcid.org/0000-0002-0714-8580",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0714-8580"
+            ]
           },
           "institutions": [
             {
@@ -5977,8 +5982,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5034568196"
       ],
@@ -5991,11 +5996,11 @@
         "value_usd": 3500
       },
       "apc_paid": null,
-      "fwci": 2.9286,
+      "fwci": 2.9014,
       "has_fulltext": false,
       "cited_by_count": 44,
       "citation_normalized_percentile": {
-        "value": 0.91806119,
+        "value": 0.9173142,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6466,8 +6471,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 97,
@@ -7695,8 +7700,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4304806286.pdf"
@@ -9167,8 +9172,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4286265175.pdf",
@@ -10083,8 +10088,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5113343630",
-            "display_name": "Mohammed S. Al-Suwaiyan",
+            "id": "https://openalex.org/A5091882110",
+            "display_name": "Mohammad Saleh Al-Suwaiyan",
             "orcid": "https://orcid.org/0000-0002-0775-6973",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0775-6973"
@@ -10227,11 +10232,11 @@
         "currency": "CHF",
         "value_usd": 2447
       },
-      "fwci": 2.9097,
+      "fwci": 2.8972,
       "has_fulltext": true,
       "cited_by_count": 35,
       "citation_normalized_percentile": {
-        "value": 0.91604801,
+        "value": 0.91570921,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10739,8 +10744,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4382136343.pdf",
@@ -11851,8 +11856,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5113343630",
-            "display_name": "Mohammed S. Al-Suwaiyan",
+            "id": "https://openalex.org/A5091882110",
+            "display_name": "Mohammad Saleh Al-Suwaiyan",
             "orcid": "https://orcid.org/0000-0002-0775-6973",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0775-6973"
@@ -12042,11 +12047,11 @@
         "currency": "USD",
         "value_usd": 2400
       },
-      "fwci": 3.8449,
+      "fwci": 3.8054,
       "has_fulltext": false,
       "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.94499863,
+        "value": 0.94437582,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12490,8 +12495,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -14025,8 +14030,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -15001,8 +15006,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4289597232.pdf",
@@ -16211,8 +16216,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4399208527.pdf",
@@ -17490,8 +17495,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4362580681.pdf",
@@ -18692,8 +18697,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -19467,8 +19472,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4212839989.pdf",
@@ -20649,8 +20654,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -21286,8 +21291,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -22193,8 +22198,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2939371353.pdf",
@@ -23605,8 +23610,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386774596.pdf",
@@ -24257,8 +24262,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3179531231.pdf"
@@ -25708,8 +25713,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4213328516.pdf"
@@ -27292,8 +27297,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -28231,8 +28236,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -28991,6 +28996,7 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "ki-jl-1",
             "norway-1"
           ],
           "host_organization": "https://openalex.org/P4310320990",
@@ -29029,7 +29035,10 @@
           "author": {
             "id": "https://openalex.org/A5034568196",
             "display_name": "Mohammed Benaafi",
-            "orcid": "https://orcid.org/0000-0001-6246-7835"
+            "orcid": "https://orcid.org/0000-0001-6246-7835",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6246-7835"
+            ]
           },
           "institutions": [
             {
@@ -29066,7 +29075,10 @@
           "author": {
             "id": "https://openalex.org/A5062007467",
             "display_name": "Sani Isah Abba",
-            "orcid": "https://orcid.org/0000-0001-9356-2798"
+            "orcid": "https://orcid.org/0000-0001-9356-2798",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9356-2798"
+            ]
           },
           "institutions": [
             {
@@ -29103,7 +29115,10 @@
           "author": {
             "id": "https://openalex.org/A5074883327",
             "display_name": "Bassam Tawabini",
-            "orcid": "https://orcid.org/0000-0002-0096-2723"
+            "orcid": "https://orcid.org/0000-0002-0096-2723",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0096-2723"
+            ]
           },
           "institutions": [
             {
@@ -29139,8 +29154,11 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5030121582",
-            "display_name": "Ismail Abdulazeez",
-            "orcid": "https://orcid.org/0000-0001-8098-5433"
+            "display_name": "Ismail Adeyinka AbdulAzeez",
+            "orcid": "https://orcid.org/0000-0001-8098-5433",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8098-5433"
+            ]
           },
           "institutions": [
             {
@@ -29177,7 +29195,10 @@
           "author": {
             "id": "https://openalex.org/A5076251382",
             "display_name": "Billel Salhi",
-            "orcid": "https://orcid.org/0000-0002-7671-7257"
+            "orcid": "https://orcid.org/0000-0002-7671-7257",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7671-7257"
+            ]
           },
           "institutions": [
             {
@@ -29214,7 +29235,10 @@
           "author": {
             "id": "https://openalex.org/A5072286524",
             "display_name": "Jamilu Usman",
-            "orcid": "https://orcid.org/0000-0002-3800-423X"
+            "orcid": "https://orcid.org/0000-0002-3800-423X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3800-423X"
+            ]
           },
           "institutions": [
             {
@@ -29251,7 +29275,10 @@
           "author": {
             "id": "https://openalex.org/A5030371811",
             "display_name": "Isam H. Aljundi",
-            "orcid": "https://orcid.org/0000-0002-0714-8580"
+            "orcid": "https://orcid.org/0000-0002-0714-8580",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0714-8580"
+            ]
           },
           "institutions": [
             {
@@ -29310,11 +29337,11 @@
         "currency": "USD",
         "value_usd": 2100
       },
-      "fwci": 2.3572,
+      "fwci": 2.286,
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.87233076,
+        "value": 0.86819662,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29632,6 +29659,7 @@
             "listed_in": [
               "cwts-core",
               "doaj",
+              "ki-jl-1",
               "norway-1"
             ],
             "host_organization": "https://openalex.org/P4310320990",
@@ -29759,6 +29787,7 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "ki-jl-1",
             "norway-1"
           ],
           "host_organization": "https://openalex.org/P4310320990",
@@ -29810,8 +29839,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -30608,7 +30637,10 @@
           "author": {
             "id": "https://openalex.org/A5077467560",
             "display_name": "Sherif M. Hanafy",
-            "orcid": "https://orcid.org/0000-0003-4568-2941"
+            "orcid": "https://orcid.org/0000-0003-4568-2941",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4568-2941"
+            ]
           },
           "institutions": [
             {
@@ -30650,9 +30682,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": null,
-            "display_name": "Ammar El-Husseiny",
-            "orcid": null
+            "id": "https://openalex.org/A5064720324",
+            "display_name": "Ammar El‐Husseiny",
+            "orcid": "https://orcid.org/0000-0001-5762-6109",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5762-6109"
+            ]
           },
           "institutions": [
             {
@@ -30696,7 +30731,10 @@
           "author": {
             "id": "https://openalex.org/A5034568196",
             "display_name": "Mohammed Benaafi",
-            "orcid": "https://orcid.org/0000-0001-6246-7835"
+            "orcid": "https://orcid.org/0000-0001-6246-7835",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6246-7835"
+            ]
           },
           "institutions": [
             {
@@ -30740,7 +30778,10 @@
           "author": {
             "id": "https://openalex.org/A5054922583",
             "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
           },
           "institutions": [
             {
@@ -30784,7 +30825,10 @@
           "author": {
             "id": "https://openalex.org/A5038543186",
             "display_name": "Jack Dvorkin",
-            "orcid": "https://orcid.org/0000-0003-3798-2215"
+            "orcid": "https://orcid.org/0000-0003-3798-2215",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3798-2215"
+            ]
           },
           "institutions": [
             {
@@ -30833,11 +30877,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1706,
+      "fwci": 1.0853,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.72289346,
+        "value": 0.70115233,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31080,8 +31124,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -32340,8 +32384,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -33653,8 +33697,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -34505,8 +34549,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
@@ -35380,8 +35424,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 74,
@@ -35657,7 +35701,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5030121582",
-            "display_name": "Ismail Abdulazeez",
+            "display_name": "Ismail Adeyinka AbdulAzeez",
             "orcid": "https://orcid.org/0000-0001-8098-5433",
             "observed_orcids": [
               "https://orcid.org/0000-0001-8098-5433"
@@ -35880,11 +35924,11 @@
         "currency": "USD",
         "value_usd": 2050
       },
-      "fwci": 1.3073,
+      "fwci": 1.295,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.77933158,
+        "value": 0.77742129,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36281,8 +36325,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -37805,8 +37849,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -38441,8 +38485,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -39598,8 +39642,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4283746594.pdf",
@@ -40882,8 +40926,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -41625,8 +41669,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 95,
@@ -42007,8 +42051,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5113343630",
-            "display_name": "Mohammed S. Al-Suwaiyan",
+            "id": "https://openalex.org/A5091882110",
+            "display_name": "Mohammad Saleh Al-Suwaiyan",
             "orcid": "https://orcid.org/0000-0002-0775-6973",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0775-6973"
@@ -42107,11 +42151,11 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 0.742,
+      "fwci": 0.7334,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.63448364,
+        "value": 0.63070952,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42418,8 +42462,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -43149,8 +43193,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -43785,8 +43829,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -44291,8 +44335,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -45439,8 +45483,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 98,
@@ -46301,8 +46345,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415680432.pdf",
@@ -48149,8 +48193,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -48764,7 +48808,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, 1230, Bangladesh",
@@ -48850,7 +48894,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, 1230, Bangladesh",
@@ -48979,7 +49023,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahmudur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, 1230, Bangladesh",
@@ -49063,7 +49107,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahmudur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, 1230, Bangladesh",
@@ -49192,7 +49236,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Md Masudur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, 1230, Bangladesh",
@@ -49276,7 +49320,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Md Masudur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, 1230, Bangladesh",
@@ -49453,9 +49497,8 @@
       "countries_distinct_count": 2,
       "institutions_distinct_count": 2,
       "corresponding_author_ids": [
-        "https://openalex.org/A5122575736",
-        "https://openalex.org/A5129661867",
-        "https://openalex.org/A5129708590"
+        "https://openalex.org/A5036616600",
+        "https://openalex.org/A5122575736"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113",
@@ -49467,11 +49510,11 @@
         "value_usd": 3190
       },
       "apc_paid": null,
-      "fwci": 7.6819,
+      "fwci": 7.656,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.95004672,
+        "value": 0.9498861,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -49848,8 +49891,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -50045,7 +50088,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology",
@@ -50103,7 +50146,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology",
@@ -50145,20 +50188,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": false,
@@ -50172,8 +50204,7 @@
             {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals",
               "institution_ids": [
-                "https://openalex.org/I134085113",
-                "https://openalex.org/I4210118538"
+                "https://openalex.org/I134085113"
               ]
             },
             {
@@ -50274,7 +50305,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahmudur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology",
@@ -50332,7 +50363,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahmudur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology",
@@ -50441,11 +50472,11 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5100671390",
-        "https://openalex.org/A5104113562"
+        "https://openalex.org/A5129708590"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113",
@@ -50461,11 +50492,11 @@
         "currency": "GBP",
         "value_usd": 1790
       },
-      "fwci": 7.6819,
+      "fwci": 7.656,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.95329777,
+        "value": 0.95315694,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -50936,8 +50967,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7125473168.pdf",
@@ -52022,8 +52053,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -52771,8 +52802,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -53603,8 +53634,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2167330935.pdf",
@@ -54831,8 +54862,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -55677,8 +55708,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3009319440.pdf",
@@ -57097,8 +57128,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -57861,8 +57892,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -58075,16 +58106,6 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210112034",
-              "display_name": "King Fahd Military Medical Complex",
-              "ror": "https://ror.org/01c524129",
-              "country_code": "SA",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I4210112034"
-              ]
             }
           ],
           "countries": [
@@ -58107,8 +58128,7 @@
             {
               "raw_affiliation_string": "Department of Electrical Engineering, College of Engineering and Physics, KFUPM, Dhahran 31261, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I134085113",
-                "https://openalex.org/I4210112034"
+                "https://openalex.org/I134085113"
               ]
             }
           ]
@@ -58156,7 +58176,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5068607052"
       ],
@@ -58173,11 +58193,11 @@
         "currency": "USD",
         "value_usd": 2460
       },
-      "fwci": 0.414,
+      "fwci": 0.4115,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.62684712,
+        "value": 0.62494797,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -58503,8 +58523,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 74,
@@ -59595,13 +59615,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210116937",
-              "display_name": "Center for Solar Energy Research and Studies",
-              "ror": "https://ror.org/02dsehb09",
+              "id": "https://openalex.org/I4405256829",
+              "display_name": "Wadi Alshatti University",
+              "ror": "https://ror.org/04jybm820",
               "country_code": "LY",
-              "type": "facility",
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I4210116937"
+                "https://openalex.org/I4405256829"
               ]
             }
           ],
@@ -59618,13 +59638,13 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Environmental Science, Faculty of Environment & Natural Resources, Wadi Al-Shatti University, Brack Al-Shatti, Libya",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I4405256829"
+              ]
             },
             {
               "raw_affiliation_string": "Libyan Center for Studies and Research in Environmental Science and Technology, Brack Al-Shatti, Libya",
-              "institution_ids": [
-                "https://openalex.org/I4210116937"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -59739,9 +59759,8 @@
           "author": {
             "id": "https://openalex.org/A5103122132",
             "display_name": "Taskin Ahmed",
-            "orcid": "https://orcid.org/0009-0001-9910-6547",
+            "orcid": "https://orcid.org/0000-0002-6630-8118",
             "observed_orcids": [
-              "https://orcid.org/0009-0001-9910-6547",
               "https://orcid.org/0000-0002-6630-8118"
             ]
           },
@@ -59848,11 +59867,11 @@
         "value_usd": 3890
       },
       "apc_paid": null,
-      "fwci": 0.3131,
+      "fwci": 0.3121,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.57858677,
+        "value": 0.57741144,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -60215,8 +60234,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -61029,8 +61048,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7165841200.pdf",
@@ -62332,8 +62351,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -62528,19 +62547,18 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I36527812",
-              "display_name": "Halliburton (United Kingdom)",
-              "ror": "https://ror.org/01jn7ba52",
-              "country_code": "GB",
+              "id": "https://openalex.org/I4210137549",
+              "display_name": "Halliburton (United States)",
+              "ror": "https://ror.org/03s918289",
+              "country_code": "US",
               "type": "company",
               "lineage": [
-                "https://openalex.org/I36527812",
                 "https://openalex.org/I4210137549"
               ]
             }
           ],
           "countries": [
-            "GB"
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Waseem Abdul Razzaq",
@@ -62552,7 +62570,7 @@
             {
               "raw_affiliation_string": "Halliburton",
               "institution_ids": [
-                "https://openalex.org/I36527812"
+                "https://openalex.org/I4210137549"
               ]
             }
           ]
@@ -62567,19 +62585,18 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I36527812",
-              "display_name": "Halliburton (United Kingdom)",
-              "ror": "https://ror.org/01jn7ba52",
-              "country_code": "GB",
+              "id": "https://openalex.org/I4210137549",
+              "display_name": "Halliburton (United States)",
+              "ror": "https://ror.org/03s918289",
+              "country_code": "US",
               "type": "company",
               "lineage": [
-                "https://openalex.org/I36527812",
                 "https://openalex.org/I4210137549"
               ]
             }
           ],
           "countries": [
-            "GB"
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Bilal Zoghbi",
@@ -62591,7 +62608,7 @@
             {
               "raw_affiliation_string": "Halliburton",
               "institution_ids": [
-                "https://openalex.org/I36527812"
+                "https://openalex.org/I4210137549"
               ]
             }
           ]
@@ -62604,11 +62621,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0445,
+      "fwci": 1.0433,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.68980152,
+        "value": 0.68945264,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -62883,8 +62900,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -63943,8 +63960,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65059,8 +65076,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -65589,8 +65606,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -66803,8 +66820,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4315434479.pdf",
@@ -68142,8 +68159,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2539001916.pdf",
@@ -69407,8 +69424,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -70267,6 +70284,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -70297,23 +70315,23 @@
           "author": {
             "id": "https://openalex.org/A5038626196",
             "display_name": "Muzzammil Shakeel",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I36527812",
-              "display_name": "Halliburton (United Kingdom)",
-              "ror": "https://ror.org/01jn7ba52",
-              "country_code": "GB",
+              "id": "https://openalex.org/I4210137549",
+              "display_name": "Halliburton (United States)",
+              "ror": "https://ror.org/03s918289",
+              "country_code": "US",
               "type": "company",
               "lineage": [
-                "https://openalex.org/I36527812",
                 "https://openalex.org/I4210137549"
               ]
             }
           ],
           "countries": [
-            "GB"
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Muzzammil Shakeel",
@@ -70325,7 +70343,7 @@
             {
               "raw_affiliation_string": "Halliburton",
               "institution_ids": [
-                "https://openalex.org/I36527812"
+                "https://openalex.org/I4210137549"
               ]
             }
           ]
@@ -70335,23 +70353,23 @@
           "author": {
             "id": "https://openalex.org/A5024137344",
             "display_name": "Waseem Abdulrazzaq",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I36527812",
-              "display_name": "Halliburton (United Kingdom)",
-              "ror": "https://ror.org/01jn7ba52",
-              "country_code": "GB",
+              "id": "https://openalex.org/I4210137549",
+              "display_name": "Halliburton (United States)",
+              "ror": "https://ror.org/03s918289",
+              "country_code": "US",
               "type": "company",
               "lineage": [
-                "https://openalex.org/I36527812",
                 "https://openalex.org/I4210137549"
               ]
             }
           ],
           "countries": [
-            "GB"
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Waseem Abdulrazzaq",
@@ -70363,7 +70381,7 @@
             {
               "raw_affiliation_string": "Halliburton",
               "institution_ids": [
-                "https://openalex.org/I36527812"
+                "https://openalex.org/I4210137549"
               ]
             }
           ]
@@ -70373,7 +70391,10 @@
           "author": {
             "id": "https://openalex.org/A5028390167",
             "display_name": "Osman Abdullatif",
-            "orcid": "https://orcid.org/0000-0001-6214-5772"
+            "orcid": "https://orcid.org/0000-0001-6214-5772",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6214-5772"
+            ]
           },
           "institutions": [
             {
@@ -70410,7 +70431,10 @@
           "author": {
             "id": "https://openalex.org/A5034568196",
             "display_name": "Mohammed Benaafi",
-            "orcid": "https://orcid.org/0000-0001-6246-7835"
+            "orcid": "https://orcid.org/0000-0001-6246-7835",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6246-7835"
+            ]
           },
           "institutions": [
             {
@@ -70454,7 +70478,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.02467293,
+        "value": 0.02422084,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -70745,6 +70769,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -70773,8 +70798,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -71850,8 +71875,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -72236,8 +72261,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -72744,8 +72769,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -73303,8 +73328,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -73855,10 +73880,12 @@
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5040810897",
-            "display_name": "S. I. Abba",
-            "orcid": null,
-            "observed_orcids": []
+            "id": "https://openalex.org/A5062007467",
+            "display_name": "Sani Isah Abba",
+            "orcid": "https://orcid.org/0000-0001-9356-2798",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9356-2798"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -74377,8 +74404,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -74819,8 +74846,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -75939,8 +75966,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -76814,8 +76841,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5113343630",
-            "display_name": "Mohammed S. Al-Suwaiyan",
+            "id": "https://openalex.org/A5091882110",
+            "display_name": "Mohammad Saleh Al-Suwaiyan",
             "orcid": "https://orcid.org/0000-0002-0775-6973",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0775-6973"
@@ -77202,8 +77229,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -77855,10 +77882,12 @@
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5040810897",
-            "display_name": "S. I. Abba",
-            "orcid": null,
-            "observed_orcids": []
+            "id": "https://openalex.org/A5062007467",
+            "display_name": "Sani Isah Abba",
+            "orcid": "https://orcid.org/0000-0001-9356-2798",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9356-2798"
+            ]
           },
           "institutions": [
             {
@@ -78385,8 +78414,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4405443624.pdf",
@@ -78807,8 +78836,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -79281,9 +79310,12 @@
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5044429303",
-            "display_name": "billel salhi",
-            "orcid": "https://orcid.org/0000-0002-7671-7257"
+            "id": "https://openalex.org/A5076251382",
+            "display_name": "Billel Salhi",
+            "orcid": "https://orcid.org/0000-0002-7671-7257",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7671-7257"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -79298,7 +79330,10 @@
           "author": {
             "id": "https://openalex.org/A5072286524",
             "display_name": "Jamilu Usman",
-            "orcid": "https://orcid.org/0000-0002-3800-423X"
+            "orcid": "https://orcid.org/0000-0002-3800-423X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3800-423X"
+            ]
           },
           "institutions": [
             {
@@ -79334,8 +79369,11 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5030121582",
-            "display_name": "Ismail Abdulazeez",
-            "orcid": "https://orcid.org/0000-0001-8098-5433"
+            "display_name": "Ismail Adeyinka AbdulAzeez",
+            "orcid": "https://orcid.org/0000-0001-8098-5433",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8098-5433"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -79350,7 +79388,10 @@
           "author": {
             "id": "https://openalex.org/A5044973807",
             "display_name": "Niaz Ali Khan",
-            "orcid": "https://orcid.org/0000-0001-7076-3001"
+            "orcid": "https://orcid.org/0000-0001-7076-3001",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7076-3001"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -79365,7 +79406,10 @@
           "author": {
             "id": "https://openalex.org/A5034568196",
             "display_name": "Mohammed Benaafi",
-            "orcid": "https://orcid.org/0000-0001-6246-7835"
+            "orcid": "https://orcid.org/0000-0001-6246-7835",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6246-7835"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -79380,7 +79424,10 @@
           "author": {
             "id": "https://openalex.org/A5073043057",
             "display_name": "Nadeem Baig",
-            "orcid": "https://orcid.org/0000-0003-2843-1980"
+            "orcid": "https://orcid.org/0000-0003-2843-1980",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2843-1980"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -79395,7 +79442,10 @@
           "author": {
             "id": "https://openalex.org/A5030371811",
             "display_name": "Isam H. Aljundi",
-            "orcid": "https://orcid.org/0000-0002-0714-8580"
+            "orcid": "https://orcid.org/0000-0002-0714-8580",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0714-8580"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -79410,7 +79460,7 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
-        "https://openalex.org/A5044429303"
+        "https://openalex.org/A5076251382"
       ],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -79732,8 +79782,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -80254,8 +80304,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -81634,8 +81684,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7128452096.pdf",
@@ -84262,8 +84312,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7128704649.pdf",
@@ -85453,8 +85503,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -86578,8 +86628,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -87872,8 +87922,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -88776,10 +88826,12 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5115846327",
+            "id": "https://openalex.org/A5135351984",
             "display_name": "Md. Rafsan Jany",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0009-0008-8596-236X",
+            "observed_orcids": [
+              "https://orcid.org/0009-0008-8596-236X"
+            ]
           },
           "institutions": [
             {
@@ -88833,7 +88885,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.14978747,
+        "value": 0.14896632,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -89086,8 +89138,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -89859,8 +89911,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7155098166.pdf"
@@ -90041,7 +90093,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh",
@@ -90099,7 +90151,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh",
@@ -90463,7 +90515,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3731121,
+        "value": 0.37222541,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -90745,8 +90797,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -90870,21 +90922,8 @@
               "https://orcid.org/0009-0006-5172-1889"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I47164929",
-              "display_name": "Najran University",
-              "ror": "https://ror.org/05edw4a90",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I47164929"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Mohammed Alyami",
           "raw_affiliation_strings": [
@@ -90894,9 +90933,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Alghazali High School,Najran Education Department,Najran,Saudi Arabia,66251",
-              "institution_ids": [
-                "https://openalex.org/I47164929"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -90983,7 +91020,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -90992,7 +91029,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.86877035,
+        "value": 0.86832205,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -91206,8 +91243,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -92037,8 +92074,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -92521,8 +92558,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -92723,8 +92760,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5120438152",
-            "display_name": "Bassam S. Tawabini",
+            "id": "https://openalex.org/A5074883327",
+            "display_name": "Bassam Tawabini",
             "orcid": "https://orcid.org/0000-0002-0096-2723",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0096-2723"
@@ -92860,7 +92897,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.473954,
+        "value": 0.47036935,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -93206,8 +93243,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -93581,8 +93618,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7167195421.pdf",
@@ -93823,16 +93860,6 @@
               ]
             },
             {
-              "id": "https://openalex.org/I3130965160",
-              "display_name": "University of Arusha",
-              "ror": "https://ror.org/020wq5714",
-              "country_code": "TZ",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I3130965160"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210129917",
               "display_name": "Aga Khan University",
               "ror": "https://ror.org/02wwrqj12",
@@ -93860,7 +93887,6 @@
             {
               "raw_affiliation_string": "Arusha Climate and Environmental Research Centre, Aga Khan University, Arusha 23201, Tanzania",
               "institution_ids": [
-                "https://openalex.org/I3130965160",
                 "https://openalex.org/I4210129917"
               ]
             },
@@ -93881,7 +93907,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 5,
-      "institutions_distinct_count": 6,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -93898,7 +93924,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.48417178,
+        "value": 0.47752364,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -94299,8 +94325,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -95522,8 +95548,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -96757,8 +96783,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -98110,8 +98136,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -98974,8 +99000,21 @@
               "https://orcid.org/0000-0003-2398-1895"
             ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I10660446",
+              "display_name": "Kunming University of Science and Technology",
+              "ror": "https://ror.org/00xyeez13",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I10660446"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Zia Ur Rahman Farooqi",
           "raw_affiliation_strings": [
@@ -98985,7 +99024,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Faculty of Environmental Science and Engineering, Yunnan Provincial Key Laboratory of Soil Carbon Sequestration and Pollution Control, Yunnan International Joint Laboratory for Emission Reduction and Carbon Sequestration in Agricultural Soils, Kunming University of Science and Technology, Kunming, 650500, China",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I10660446"
+              ]
             }
           ]
         },
@@ -98999,13 +99040,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210143942",
-              "display_name": "National University of Technology",
-              "ror": "https://ror.org/05e21fw44",
+              "id": "https://openalex.org/I929597975",
+              "display_name": "National University of Sciences and Technology",
+              "ror": "https://ror.org/03w2j5y17",
               "country_code": "PK",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I4210143942"
+                "https://openalex.org/I929597975"
               ]
             }
           ],
@@ -99022,7 +99063,7 @@
             {
               "raw_affiliation_string": "National University of science & Technology Islamabad, Islamabad, Pakistan",
               "institution_ids": [
-                "https://openalex.org/I4210143942"
+                "https://openalex.org/I929597975"
               ]
             }
           ]
@@ -99226,7 +99267,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 4,
-      "institutions_distinct_count": 7,
+      "institutions_distinct_count": 8,
       "corresponding_author_ids": [
         "https://openalex.org/A5151578342"
       ],
@@ -99247,7 +99288,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.64387324,
+        "value": 0.64041655,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -99524,8 +99565,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7202130880.pdf",
@@ -100717,8 +100758,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7203693229.pdf",

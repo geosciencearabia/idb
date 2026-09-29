@@ -61,6 +61,7 @@
           2023,
           2022,
           2021,
+          2020,
           2018,
           2014
         ]
@@ -214,7 +215,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000442,
+        "value": 0.0000443,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -231,7 +232,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000243,
+        "value": 0.0000244,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -248,7 +249,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000208,
+        "value": 0.0000209,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -265,7 +266,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000198,
+        "value": 0.0000199,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -282,7 +283,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000131,
+        "value": 0.0000132,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -393,7 +394,7 @@
     ],
     "block_key": "a al-hussaini",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5080748045",
-    "updated_date": "2026-09-25T12:19:18",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -990,8 +991,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -1720,8 +1721,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -1862,6 +1863,7 @@
             "doaj",
             "doyens",
             "jufo-1",
+            "ki-jl-1",
             "medline",
             "norway-1"
           ],
@@ -1903,7 +1905,10 @@
           "author": {
             "id": "https://openalex.org/A5078743538",
             "display_name": "Mahmoud Alnazghah",
-            "orcid": "https://orcid.org/0000-0002-9209-7676"
+            "orcid": "https://orcid.org/0000-0002-9209-7676",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9209-7676"
+            ]
           },
           "institutions": [
             {
@@ -1940,7 +1945,10 @@
           "author": {
             "id": "https://openalex.org/A5059881838",
             "display_name": "Ardiansyah Koeshidayatullah",
-            "orcid": "https://orcid.org/0000-0001-7558-8783"
+            "orcid": "https://orcid.org/0000-0001-7558-8783",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7558-8783"
+            ]
           },
           "institutions": [
             {
@@ -1991,7 +1999,10 @@
           "author": {
             "id": "https://openalex.org/A5080748045",
             "display_name": "Abdulkarim Al-Hussaini",
-            "orcid": "https://orcid.org/0000-0003-2730-4672"
+            "orcid": "https://orcid.org/0000-0003-2730-4672",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2730-4672"
+            ]
           },
           "institutions": [
             {
@@ -2028,7 +2039,10 @@
           "author": {
             "id": "https://openalex.org/A5027197211",
             "display_name": "Abduljamiu Olalekan Amao",
-            "orcid": "https://orcid.org/0000-0001-8203-851X"
+            "orcid": "https://orcid.org/0000-0001-8203-851X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8203-851X"
+            ]
           },
           "institutions": [
             {
@@ -2065,7 +2079,10 @@
           "author": {
             "id": "https://openalex.org/A5014347484",
             "display_name": "Haijun Song",
-            "orcid": "https://orcid.org/0000-0002-2721-3626"
+            "orcid": "https://orcid.org/0000-0002-2721-3626",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2721-3626"
+            ]
           },
           "institutions": [
             {
@@ -2076,6 +2093,17 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I3124059619"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4391767645",
+              "display_name": "State Key Laboratory of Biogeology and Environmental Geology",
+              "ror": "https://ror.org/02q1jkh03",
+              "country_code": null,
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I3124059619",
+                "https://openalex.org/I4391767645"
               ]
             }
           ],
@@ -2092,7 +2120,8 @@
             {
               "raw_affiliation_string": "State Key Laboratory of Biogeology and Environmental Geology, China University of Geosciences, Wuhan, China",
               "institution_ids": [
-                "https://openalex.org/I3124059619"
+                "https://openalex.org/I3124059619",
+                "https://openalex.org/I4391767645"
               ]
             }
           ]
@@ -2102,7 +2131,10 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "orcid": "https://orcid.org/0000-0002-4872-6201",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4872-6201"
+            ]
           },
           "institutions": [
             {
@@ -2144,7 +2176,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -2157,11 +2189,11 @@
         "currency": "USD",
         "value_usd": 2190
       },
-      "fwci": 4.8858,
+      "fwci": 4.8242,
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.94311056,
+        "value": 0.94237366,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2603,6 +2635,7 @@
               "doaj",
               "doyens",
               "jufo-1",
+              "ki-jl-1",
               "medline",
               "norway-1"
             ],
@@ -2735,6 +2768,7 @@
             "doaj",
             "doyens",
             "jufo-1",
+            "ki-jl-1",
             "medline",
             "norway-1"
           ],
@@ -2815,8 +2849,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4307414375.pdf",
@@ -3632,7 +3666,10 @@
           "author": {
             "id": "https://openalex.org/A5043958071",
             "display_name": "Mohammed Fallatah",
-            "orcid": "https://orcid.org/0000-0001-7871-7755"
+            "orcid": "https://orcid.org/0000-0001-7871-7755",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7871-7755"
+            ]
           },
           "institutions": [
             {
@@ -3687,7 +3724,10 @@
           "author": {
             "id": "https://openalex.org/A5078743538",
             "display_name": "Mahmoud Alnazghah",
-            "orcid": "https://orcid.org/0000-0002-9209-7676"
+            "orcid": "https://orcid.org/0000-0002-9209-7676",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9209-7676"
+            ]
           },
           "institutions": [
             {
@@ -3724,18 +3764,21 @@
           "author": {
             "id": "https://openalex.org/A5054443651",
             "display_name": "Charles Kerans",
-            "orcid": "https://orcid.org/0000-0002-3544-9006"
+            "orcid": "https://orcid.org/0000-0002-3544-9006",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3544-9006"
+            ]
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I1288783943",
-              "display_name": "Bureau of Economic Analysis",
-              "ror": "https://ror.org/03b17a012",
-              "country_code": "US",
-              "type": "government",
+              "id": "https://openalex.org/I4403928371",
+              "display_name": "Bureau of Economic Geology",
+              "ror": "https://ror.org/034bxn811",
+              "country_code": null,
+              "type": "facility",
               "lineage": [
-                "https://openalex.org/I1288783943",
-                "https://openalex.org/I1343035065"
+                "https://openalex.org/I4403928371",
+                "https://openalex.org/I86519309"
               ]
             },
             {
@@ -3763,7 +3806,7 @@
             {
               "raw_affiliation_string": "Bureau of Economic Geology, Jackson School of Geosciences, The University of Texas at Austin, 10100 Burnet Rd., Bldg. 130, Austin, TX, 78758-4445, USA",
               "institution_ids": [
-                "https://openalex.org/I1288783943",
+                "https://openalex.org/I4403928371",
                 "https://openalex.org/I86519309"
               ]
             },
@@ -3780,7 +3823,10 @@
           "author": {
             "id": "https://openalex.org/A5080748045",
             "display_name": "Abdulkarim Al-Hussaini",
-            "orcid": "https://orcid.org/0000-0003-2730-4672"
+            "orcid": "https://orcid.org/0000-0003-2730-4672",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2730-4672"
+            ]
           },
           "institutions": [
             {
@@ -3847,11 +3893,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 6.3953,
+      "fwci": 6.2924,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.96218127,
+        "value": 0.96126761,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4196,8 +4242,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 138,
@@ -5102,8 +5148,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387996609.pdf",
@@ -6414,8 +6460,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 181,
@@ -7238,8 +7284,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 175,
@@ -7522,7 +7568,10 @@
           "author": {
             "id": "https://openalex.org/A5103499964",
             "display_name": "Geraint Wyn Hughes",
-            "orcid": "https://orcid.org/0009-0007-2140-8370"
+            "orcid": "https://orcid.org/0009-0007-2140-8370",
+            "observed_orcids": [
+              "https://orcid.org/0009-0007-2140-8370"
+            ]
           },
           "institutions": [
             {
@@ -7534,20 +7583,9 @@
               "lineage": [
                 "https://openalex.org/I1336856363"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210160110",
-              "display_name": "Deutsche Meeresmuseum",
-              "ror": "https://ror.org/05hkycn11",
-              "country_code": "DE",
-              "type": "archive",
-              "lineage": [
-                "https://openalex.org/I4210160110"
-              ]
             }
           ],
           "countries": [
-            "DE",
             "GB"
           ],
           "is_corresponding": false,
@@ -7560,8 +7598,7 @@
             {
               "raw_affiliation_string": "Natural History Museum;",
               "institution_ids": [
-                "https://openalex.org/I1336856363",
-                "https://openalex.org/I4210160110"
+                "https://openalex.org/I1336856363"
               ]
             }
           ]
@@ -7571,7 +7608,8 @@
           "author": {
             "id": "https://openalex.org/A5021382014",
             "display_name": "Khalid Al Ramadan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -7608,7 +7646,8 @@
           "author": {
             "id": "https://openalex.org/A5027167326",
             "display_name": "Mahmoud Nazgah",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -7623,9 +7662,22 @@
           "author": {
             "id": "https://openalex.org/A5080748045",
             "display_name": "Abdulkarim Al-Hussaini",
-            "orcid": "https://orcid.org/0000-0003-2730-4672"
+            "orcid": "https://orcid.org/0000-0003-2730-4672",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2730-4672"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -7639,6 +7691,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -7651,6 +7704,7 @@
             {
               "raw_affiliation_string": "Saudi ARAMCO",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -7658,17 +7712,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
+      "countries_distinct_count": 3,
       "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9017,
+      "fwci": 0.8811,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.78513876,
+        "value": 0.78099949,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8035,8 +8089,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -8500,7 +8554,10 @@
           "author": {
             "id": "https://openalex.org/A5043958071",
             "display_name": "Mohammed Fallatah",
-            "orcid": "https://orcid.org/0000-0001-7871-7755"
+            "orcid": "https://orcid.org/0000-0001-7871-7755",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7871-7755"
+            ]
           },
           "institutions": [
             {
@@ -8555,7 +8612,10 @@
           "author": {
             "id": "https://openalex.org/A5078743538",
             "display_name": "Mahmoud Alnazghah",
-            "orcid": "https://orcid.org/0000-0002-9209-7676"
+            "orcid": "https://orcid.org/0000-0002-9209-7676",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9209-7676"
+            ]
           },
           "institutions": [
             {
@@ -8592,18 +8652,21 @@
           "author": {
             "id": "https://openalex.org/A5054443651",
             "display_name": "Charles Kerans",
-            "orcid": "https://orcid.org/0000-0002-3544-9006"
+            "orcid": "https://orcid.org/0000-0002-3544-9006",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3544-9006"
+            ]
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I1288783943",
-              "display_name": "Bureau of Economic Analysis",
-              "ror": "https://ror.org/03b17a012",
-              "country_code": "US",
-              "type": "government",
+              "id": "https://openalex.org/I4403928371",
+              "display_name": "Bureau of Economic Geology",
+              "ror": "https://ror.org/034bxn811",
+              "country_code": null,
+              "type": "facility",
               "lineage": [
-                "https://openalex.org/I1288783943",
-                "https://openalex.org/I1343035065"
+                "https://openalex.org/I4403928371",
+                "https://openalex.org/I86519309"
               ]
             },
             {
@@ -8631,7 +8694,7 @@
             {
               "raw_affiliation_string": "Bureau of Economic Geology, Jackson School of Geosciences, The University of Texas at Austin, 10100 Burnet Rd., Bldg. 130, Austin, TX 78758-4445, USA",
               "institution_ids": [
-                "https://openalex.org/I1288783943",
+                "https://openalex.org/I4403928371",
                 "https://openalex.org/I86519309"
               ]
             },
@@ -8648,7 +8711,10 @@
           "author": {
             "id": "https://openalex.org/A5080748045",
             "display_name": "Abdulkarim Al-Hussaini",
-            "orcid": "https://orcid.org/0000-0003-2730-4672"
+            "orcid": "https://orcid.org/0000-0003-2730-4672",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2730-4672"
+            ]
           },
           "institutions": [
             {
@@ -8715,16 +8781,16 @@
         "value_usd": 3140
       },
       "apc_paid": null,
-      "fwci": 2.6302,
+      "fwci": 2.5661,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.89724726,
+        "value": 0.89527609,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 98
       },
       "biblio": {
@@ -9004,8 +9070,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 163,
@@ -9909,8 +9975,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -10077,7 +10143,10 @@
           "author": {
             "id": "https://openalex.org/A5080748045",
             "display_name": "Abdulkarim Al-Hussaini",
-            "orcid": "https://orcid.org/0000-0003-2730-4672"
+            "orcid": "https://orcid.org/0000-0003-2730-4672",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2730-4672"
+            ]
           },
           "institutions": [
             {
@@ -10115,13 +10184,15 @@
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Mineral, Dhahran, Saudi Arabia\r\nPresent: Saudi Aramco, Dhahran, Saudi Arabia",
               "institution_ids": [
+                "https://openalex.org/I134085113",
                 "https://openalex.org/I4210143841"
               ]
             },
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Mineral, Dhahran, Saudi Arabia#R##N#Present: Saudi Aramco, Dhahran, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I134085113"
+                "https://openalex.org/I134085113",
+                "https://openalex.org/I4210143841"
               ]
             }
           ]
@@ -10131,7 +10202,10 @@
           "author": {
             "id": "https://openalex.org/A5059881838",
             "display_name": "Ardiansyah Koeshidayatullah",
-            "orcid": "https://orcid.org/0000-0001-7558-8783"
+            "orcid": "https://orcid.org/0000-0001-7558-8783",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7558-8783"
+            ]
           },
           "institutions": [
             {
@@ -10175,7 +10249,10 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "orcid": "https://orcid.org/0000-0002-4872-6201",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4872-6201"
+            ]
           },
           "institutions": [
             {
@@ -10226,7 +10303,7 @@
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.08296122,
+        "value": 0.08315514,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10631,8 +10708,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1997639027.pdf",
@@ -11417,8 +11494,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12429,8 +12506,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12519,7 +12596,10 @@
           "author": {
             "id": "https://openalex.org/A5080748045",
             "display_name": "Abdulkarim Al-Hussaini",
-            "orcid": "https://orcid.org/0000-0003-2730-4672"
+            "orcid": "https://orcid.org/0000-0003-2730-4672",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2730-4672"
+            ]
           },
           "institutions": [
             {
@@ -12574,18 +12654,21 @@
           "author": {
             "id": "https://openalex.org/A5054443651",
             "display_name": "Charles Kerans",
-            "orcid": "https://orcid.org/0000-0002-3544-9006"
+            "orcid": "https://orcid.org/0000-0002-3544-9006",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3544-9006"
+            ]
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I1288783943",
-              "display_name": "Bureau of Economic Analysis",
-              "ror": "https://ror.org/03b17a012",
-              "country_code": "US",
-              "type": "government",
+              "id": "https://openalex.org/I4403928371",
+              "display_name": "Bureau of Economic Geology",
+              "ror": "https://ror.org/034bxn811",
+              "country_code": null,
+              "type": "facility",
               "lineage": [
-                "https://openalex.org/I1288783943",
-                "https://openalex.org/I1343035065"
+                "https://openalex.org/I4403928371",
+                "https://openalex.org/I86519309"
               ]
             },
             {
@@ -12613,7 +12696,7 @@
             {
               "raw_affiliation_string": "Bureau of Economic Geology, Jackson School of Geosciences, The University of Texas at Austin, 10100 Burnet Rd., Bldg. 130, Austin, TX 78758-4445, USA",
               "institution_ids": [
-                "https://openalex.org/I1288783943",
+                "https://openalex.org/I4403928371",
                 "https://openalex.org/I86519309"
               ]
             },
@@ -12630,7 +12713,10 @@
           "author": {
             "id": "https://openalex.org/A5055054874",
             "display_name": "Cornel Olariu",
-            "orcid": "https://orcid.org/0000-0003-2837-4664"
+            "orcid": "https://orcid.org/0000-0003-2837-4664",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2837-4664"
+            ]
           },
           "institutions": [
             {
@@ -12667,7 +12753,8 @@
           "author": {
             "id": "https://openalex.org/A5011168965",
             "display_name": "James J. Pospichal",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -12705,7 +12792,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.07560444,
+        "value": 0.07637867,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12940,8 +13027,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -13213,14 +13300,14 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I1288783943",
-              "display_name": "Bureau of Economic Analysis",
-              "ror": "https://ror.org/03b17a012",
-              "country_code": "US",
-              "type": "government",
+              "id": "https://openalex.org/I4403928371",
+              "display_name": "Bureau of Economic Geology",
+              "ror": "https://ror.org/034bxn811",
+              "country_code": null,
+              "type": "facility",
               "lineage": [
-                "https://openalex.org/I1288783943",
-                "https://openalex.org/I1343035065"
+                "https://openalex.org/I4403928371",
+                "https://openalex.org/I86519309"
               ]
             },
             {
@@ -13248,7 +13335,8 @@
             {
               "raw_affiliation_string": "Bureau of Economic Geology, Jackson School of Geosciences The University of Texas at Austin  10100 Burnet Rd., Bldg. 130 Austin Texas 78758‐4445 USA",
               "institution_ids": [
-                "https://openalex.org/I1288783943"
+                "https://openalex.org/I4403928371",
+                "https://openalex.org/I86519309"
               ]
             },
             {
@@ -13324,7 +13412,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74950442,
+        "value": 0.74095306,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13803,8 +13891,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 128,

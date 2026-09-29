@@ -35,21 +35,6 @@
     "affiliations": [
       {
         "institution": {
-          "id": "https://openalex.org/I1301826503",
-          "ror": "https://ror.org/00yxpmx15",
-          "display_name": "Royal British Columbia Museum",
-          "country_code": "CA",
-          "type": "archive",
-          "lineage": [
-            "https://openalex.org/I1301826503"
-          ]
-        },
-        "years": [
-          1984
-        ]
-      },
-      {
-        "institution": {
           "id": "https://openalex.org/I136199984",
           "ror": "https://ror.org/03vek6s52",
           "display_name": "Harvard University",
@@ -75,24 +60,12 @@
           ]
         },
         "years": [
+          2013,
+          2012,
+          2004,
           2000,
           1998,
           1996
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I4210152914",
-          "ror": "https://ror.org/04n5yc113",
-          "display_name": "The Robertson Trust",
-          "country_code": "GB",
-          "type": "nonprofit",
-          "lineage": [
-            "https://openalex.org/I4210152914"
-          ]
-        },
-        "years": [
-          1991
         ]
       },
       {
@@ -206,7 +179,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000602,
+        "value": 0.0000604,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -223,7 +196,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000595,
+        "value": 0.0000596,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -240,7 +213,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000313,
+        "value": 0.0000314,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -274,7 +247,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000175,
+        "value": 0.0000177,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -444,7 +417,7 @@
     ],
     "block_key": "g hughes",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5055315910",
-    "updated_date": "2026-09-25T12:19:18",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -2008,23 +1981,13 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
-            "orcid": "https://orcid.org/0000-0002-7791-5677"
+            "orcid": "https://orcid.org/0000-0002-7791-5677",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7791-5677"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210152914",
-              "display_name": "The Robertson Trust",
-              "ror": "https://ror.org/04n5yc113",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210152914"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "G.Wyn Hughes",
           "raw_affiliation_strings": [
@@ -2034,9 +1997,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Robertson Group, Llandudno, Gwynedd LL30 1SA, UK",
-              "institution_ids": [
-                "https://openalex.org/I4210152914"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -2045,23 +2006,11 @@
           "author": {
             "id": "https://openalex.org/A5113144946",
             "display_name": "Osman Varol",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210152914",
-              "display_name": "The Robertson Trust",
-              "ror": "https://ror.org/04n5yc113",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210152914"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Osman Varol",
           "raw_affiliation_strings": [
@@ -2071,9 +2020,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Robertson Group, Llandudno, Gwynedd LL30 1SA, UK",
-              "institution_ids": [
-                "https://openalex.org/I4210152914"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -2082,7 +2029,8 @@
           "author": {
             "id": "https://openalex.org/A5077725431",
             "display_name": "Z. R. Beydoun",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -2116,8 +2064,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -2126,16 +2074,16 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 7.7155,
+      "fwci": 7.6177,
       "has_fulltext": false,
       "cited_by_count": 96,
       "citation_normalized_percentile": {
-        "value": 0.96614452,
+        "value": 0.96567623,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -18537,9 +18485,20 @@
           "author": {
             "id": null,
             "display_name": "Saudi Aramco",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -18553,6 +18512,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -18565,6 +18525,7 @@
             {
               "raw_affiliation_string": "Saudi — Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -18575,9 +18536,22 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
-            "orcid": "https://orcid.org/0000-0002-7791-5677"
+            "orcid": "https://orcid.org/0000-0002-7791-5677",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7791-5677"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -18591,6 +18565,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -18603,6 +18578,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco Research & Development Center",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -18613,9 +18589,20 @@
           "author": {
             "id": "https://openalex.org/A5112087612",
             "display_name": "Shameem Siddiqui",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -18629,6 +18616,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -18641,6 +18629,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco Reservoir Characterization Department",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -18651,7 +18640,8 @@
           "author": {
             "id": "https://openalex.org/A5021038010",
             "display_name": "Roy Kumbe Sadler",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -18663,8 +18653,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -18673,12 +18663,12 @@
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.15799237,
+        "value": 0.15824916,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 94
       },
       "biblio": {
@@ -19459,19 +19449,10 @@
           "author": {
             "id": "https://openalex.org/A5024795302",
             "display_name": "Alex E. Peden",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I1301826503",
-              "display_name": "Royal British Columbia Museum",
-              "ror": "https://ror.org/00yxpmx15",
-              "country_code": "CA",
-              "type": "archive",
-              "lineage": [
-                "https://openalex.org/I1301826503"
-              ]
-            },
             {
               "id": "https://openalex.org/I136199984",
               "display_name": "Harvard University",
@@ -19484,7 +19465,6 @@
             }
           ],
           "countries": [
-            "CA",
             "US"
           ],
           "is_corresponding": false,
@@ -19500,9 +19480,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "British Columbia Provincial Museum , Aquatic Zoology Division , Victoria , British Columbia V8V 1X4",
-              "institution_ids": [
-                "https://openalex.org/I1301826503"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "British Columbia",
@@ -19510,9 +19488,7 @@
             },
             {
               "raw_affiliation_string": "British Columbia Provincial Museum, Aquatic Zoology Division, Victoria, British Columbia V8V 1X4",
-              "institution_ids": [
-                "https://openalex.org/I1301826503"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Harvard University, Museum of Comparative Zoology, Ernst Mayr",
@@ -19533,19 +19509,12 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
-            "orcid": "https://orcid.org/0000-0002-7791-5677"
+            "orcid": "https://orcid.org/0000-0002-7791-5677",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7791-5677"
+            ]
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I1301826503",
-              "display_name": "Royal British Columbia Museum",
-              "ror": "https://ror.org/00yxpmx15",
-              "country_code": "CA",
-              "type": "archive",
-              "lineage": [
-                "https://openalex.org/I1301826503"
-              ]
-            },
             {
               "id": "https://openalex.org/I136199984",
               "display_name": "Harvard University",
@@ -19558,7 +19527,6 @@
             }
           ],
           "countries": [
-            "CA",
             "US"
           ],
           "is_corresponding": false,
@@ -19577,9 +19545,7 @@
             },
             {
               "raw_affiliation_string": "British Columbia Provincial Museum, Aquatic Zoology Division, Victoria, British Columbia V8V 1X4",
-              "institution_ids": [
-                "https://openalex.org/I1301826503"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Harvard University, Museum of Comparative Zoology, Ernst Mayr",
@@ -19597,17 +19563,19 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I136199984"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.4207763,
+        "value": 0.42174816,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20003,9 +19971,22 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
-            "orcid": "https://orcid.org/0000-0002-7791-5677"
+            "orcid": "https://orcid.org/0000-0002-7791-5677",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7791-5677"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -20019,6 +20000,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": true,
@@ -20031,6 +20013,7 @@
             {
               "raw_affiliation_string": "Saudi — Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -20038,12 +20021,13 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5055315910"
       ],
       "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841",
         "https://openalex.org/I62856769"
       ],
       "apc_list": null,
@@ -20052,7 +20036,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13540856,
+        "value": 0.13690008,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21430,9 +21414,22 @@
           "author": {
             "id": "https://openalex.org/A5055315910",
             "display_name": "Geraint Wyn ap Gwilym Hughes",
-            "orcid": "https://orcid.org/0000-0002-7791-5677"
+            "orcid": "https://orcid.org/0000-0002-7791-5677",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7791-5677"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -21446,6 +21443,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": true,
@@ -21458,6 +21456,7 @@
             {
               "raw_affiliation_string": "(Saudi Aramco &lt;geraint.hughes@aramco.com&gt;)",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -21465,12 +21464,13 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5055315910"
       ],
       "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841",
         "https://openalex.org/I62856769"
       ],
       "apc_list": null,
@@ -21479,7 +21479,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.10859307,
+        "value": 0.11055516,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

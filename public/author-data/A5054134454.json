@@ -39,7 +39,9 @@
         "years": [
           2017,
           2014,
+          2001,
           2000,
+          1999,
           1998,
           1996,
           1995
@@ -172,7 +174,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000843,
+        "value": 0.0000845,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -189,7 +191,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000515,
+        "value": 0.0000517,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -206,7 +208,7 @@
       {
         "id": "https://openalex.org/T10765",
         "display_name": "Marine Biology and Ecology Research",
-        "value": 0.0000262,
+        "value": 0.0000263,
         "subfield": {
           "id": "https://openalex.org/subfields/1910",
           "display_name": "Oceanography"
@@ -223,7 +225,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000243,
+        "value": 0.0000244,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -388,7 +390,7 @@
     ],
     "block_key": "s al-hajri",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054134454",
-    "updated_date": "2026-09-26T12:32:56",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -458,21 +460,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I7923278",
-              "display_name": "Shell (Netherlands)",
-              "ror": "https://ror.org/00b5m4j81",
-              "country_code": "NL",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I7923278"
-              ]
-            }
-          ],
-          "countries": [
-            "NL"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Konert Geert",
           "raw_affiliation_strings": [
@@ -482,9 +471,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Shell International",
-              "institution_ids": [
-                "https://openalex.org/I7923278"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -500,6 +487,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
               "ror": "https://ror.org/035n7q728",
@@ -512,6 +509,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -524,6 +522,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -539,6 +538,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
               "ror": "https://ror.org/035n7q728",
@@ -551,6 +560,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -563,6 +573,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -578,21 +589,8 @@
               "https://orcid.org/0009-0008-1422-1783"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I7923278",
-              "display_name": "Shell (Netherlands)",
-              "ror": "https://ror.org/00b5m4j81",
-              "country_code": "NL",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I7923278"
-              ]
-            }
-          ],
-          "countries": [
-            "NL"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Henk J. Droste",
           "raw_affiliation_strings": [
@@ -602,9 +600,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Shell International",
-              "institution_ids": [
-                "https://openalex.org/I7923278"
-              ]
+              "institution_ids": []
             }
           ]
         }
@@ -616,11 +612,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.6286,
+      "fwci": 6.5983,
       "has_fulltext": true,
       "cited_by_count": 551,
       "citation_normalized_percentile": {
-        "value": 0.97029529,
+        "value": 0.97021108,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -965,8 +961,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -981,8 +977,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2939888277.pdf",
@@ -2424,8 +2420,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5,
           "display_name": "Life in Land",
+          "score": 0.5,
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
@@ -2450,8 +2446,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -3747,8 +3743,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7900000214576721,
           "display_name": "Life below water",
+          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -3763,8 +3759,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -3942,9 +3938,20 @@
           "author": {
             "id": "https://openalex.org/A5054134454",
             "display_name": "Sa’id A. Al-Hajri",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -3958,6 +3965,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -3970,6 +3978,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -3980,9 +3989,20 @@
           "author": {
             "id": "https://openalex.org/A5027634361",
             "display_name": "John Filatoff",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -3996,6 +4016,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -4008,6 +4029,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -4018,7 +4040,8 @@
           "author": {
             "id": "https://openalex.org/A5080438592",
             "display_name": "Lawrence E. Wender",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -4056,9 +4079,20 @@
           "author": {
             "id": "https://openalex.org/A5013096023",
             "display_name": "A. Kent Norton",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -4072,6 +4106,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -4084,6 +4119,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -4091,24 +4127,22 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I62856769"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.0046,
+      "fwci": 6.7371,
       "has_fulltext": false,
       "cited_by_count": 46,
       "citation_normalized_percentile": {
-        "value": 0.96276376,
+        "value": 0.96087704,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -4426,8 +4460,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
           "display_name": "Life below water",
+          "score": 0.6200000047683716,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -4436,8 +4470,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -5028,12 +5062,13 @@
               ]
             },
             {
-              "id": "https://openalex.org/I56067802",
-              "display_name": "Université de Rennes",
-              "ror": "https://ror.org/015m7wh34",
+              "id": "https://openalex.org/I4405258264",
+              "display_name": "Université Rennes 1",
+              "ror": "https://ror.org/00crteh33",
               "country_code": "FR",
               "type": "education",
               "lineage": [
+                "https://openalex.org/I4405258264",
                 "https://openalex.org/I56067802"
               ]
             }
@@ -5052,7 +5087,7 @@
               "raw_affiliation_string": "URA 1364 du CNRS, Laboratoire de Paléontologie et Stratigraphie, Université de Rennes I, 35042 Rennes cedex, France",
               "institution_ids": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I56067802"
+                "https://openalex.org/I4405258264"
               ]
             }
           ]
@@ -5185,11 +5220,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 5.883,
+      "fwci": 5.8191,
       "has_fulltext": false,
       "cited_by_count": 59,
       "citation_normalized_percentile": {
-        "value": 0.95744681,
+        "value": 0.95710834,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5496,8 +5531,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -5506,8 +5541,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -5687,7 +5722,8 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -5722,6 +5758,17 @@
               ]
             },
             {
+              "id": "https://openalex.org/I4405258264",
+              "display_name": "Université Rennes 1",
+              "ror": "https://ror.org/00crteh33",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4405258264",
+                "https://openalex.org/I56067802"
+              ]
+            },
+            {
               "id": "https://openalex.org/I56067802",
               "display_name": "Université de Rennes",
               "ror": "https://ror.org/015m7wh34",
@@ -5748,6 +5795,7 @@
               "institution_ids": [
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210096833",
+                "https://openalex.org/I4405258264",
                 "https://openalex.org/I56067802"
               ]
             },
@@ -5762,7 +5810,10 @@
           "author": {
             "id": "https://openalex.org/A5029025019",
             "display_name": "Jacques Verniers",
-            "orcid": "https://orcid.org/0000-0002-2939-7684"
+            "orcid": "https://orcid.org/0000-0002-2939-7684",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2939-7684"
+            ]
           },
           "institutions": [
             {
@@ -5799,7 +5850,10 @@
           "author": {
             "id": "https://openalex.org/A5021079925",
             "display_name": "Merrell A. Miller",
-            "orcid": "https://orcid.org/0000-0002-6046-4283"
+            "orcid": "https://orcid.org/0000-0002-6046-4283",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6046-4283"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -5821,7 +5875,8 @@
           "author": {
             "id": "https://openalex.org/A5054134454",
             "display_name": "Sa’id A. Al-Hajri",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -5858,7 +5913,8 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -5895,7 +5951,10 @@
           "author": {
             "id": "https://openalex.org/A5058654714",
             "display_name": "Charles H. Wellman",
-            "orcid": "https://orcid.org/0000-0001-7511-0464"
+            "orcid": "https://orcid.org/0000-0001-7511-0464",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7511-0464"
+            ]
           },
           "institutions": [
             {
@@ -5930,13 +5989,14 @@
       ],
       "institutions": [],
       "countries_distinct_count": 4,
-      "institutions_distinct_count": 6,
+      "institutions_distinct_count": 7,
       "corresponding_author_ids": [
         "https://openalex.org/A5111534349"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I1294671590",
         "https://openalex.org/I4210096833",
+        "https://openalex.org/I4405258264",
         "https://openalex.org/I56067802"
       ],
       "apc_list": {
@@ -5945,11 +6005,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 5.5825,
+      "fwci": 5.4614,
       "has_fulltext": false,
       "cited_by_count": 38,
       "citation_normalized_percentile": {
-        "value": 0.95094698,
+        "value": 0.94966615,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6261,8 +6321,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.699999988079071,
           "display_name": "Life below water",
+          "score": 0.699999988079071,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -6282,8 +6342,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -6493,9 +6553,21 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4405258264",
+              "display_name": "Université Rennes 1",
+              "ror": "https://ror.org/00crteh33",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4405258264",
+                "https://openalex.org/I56067802"
+              ]
+            },
             {
               "id": "https://openalex.org/I56067802",
               "display_name": "Université de Rennes",
@@ -6520,6 +6592,7 @@
             {
               "raw_affiliation_string": "University of Rennes I",
               "institution_ids": [
+                "https://openalex.org/I4405258264",
                 "https://openalex.org/I56067802"
               ]
             }
@@ -6530,10 +6603,26 @@
           "author": {
             "id": "https://openalex.org/A5029025019",
             "display_name": "Jacques Verniers",
-            "orcid": "https://orcid.org/0000-0002-2939-7684"
+            "orcid": "https://orcid.org/0000-0002-2939-7684",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2939-7684"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I32597200",
+              "display_name": "Ghent University",
+              "ror": "https://ror.org/00cv9y106",
+              "country_code": "BE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I32597200"
+              ]
+            }
+          ],
+          "countries": [
+            "BE"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Jacques Verniers",
           "raw_affiliation_strings": [
@@ -6543,7 +6632,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "University of Gent",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I32597200"
+              ]
             }
           ]
         },
@@ -6552,9 +6643,20 @@
           "author": {
             "id": "https://openalex.org/A5054134454",
             "display_name": "Sa’id A. Al-Hajri",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -6568,6 +6670,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -6580,6 +6683,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -6587,17 +6691,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 4,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1571,
+      "fwci": 2.1935,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.87350427,
+        "value": 0.87607573,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6793,8 +6897,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7909,8 +8013,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6600000262260437,
           "display_name": "Life in Land",
+          "score": 0.6600000262260437,
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
@@ -7925,8 +8029,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -8099,7 +8203,8 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -8134,6 +8239,17 @@
               ]
             },
             {
+              "id": "https://openalex.org/I4405258264",
+              "display_name": "Université Rennes 1",
+              "ror": "https://ror.org/00crteh33",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4405258264",
+                "https://openalex.org/I56067802"
+              ]
+            },
+            {
               "id": "https://openalex.org/I56067802",
               "display_name": "Université de Rennes",
               "ror": "https://ror.org/015m7wh34",
@@ -8160,6 +8276,7 @@
               "institution_ids": [
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210096833",
+                "https://openalex.org/I4405258264",
                 "https://openalex.org/I56067802"
               ]
             },
@@ -8174,7 +8291,10 @@
           "author": {
             "id": "https://openalex.org/A5021079925",
             "display_name": "Merrell A. Miller",
-            "orcid": "https://orcid.org/0000-0002-6046-4283"
+            "orcid": "https://orcid.org/0000-0002-6046-4283",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6046-4283"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -8196,7 +8316,8 @@
           "author": {
             "id": "https://openalex.org/A5054134454",
             "display_name": "Sa’id A. Al-Hajri",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -8233,7 +8354,10 @@
           "author": {
             "id": "https://openalex.org/A5033788286",
             "display_name": "Jan Zalasiewicz",
-            "orcid": "https://orcid.org/0000-0002-3220-4855"
+            "orcid": "https://orcid.org/0000-0002-3220-4855",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3220-4855"
+            ]
           },
           "institutions": [
             {
@@ -8268,13 +8392,14 @@
       ],
       "institutions": [],
       "countries_distinct_count": 3,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 6,
       "corresponding_author_ids": [
         "https://openalex.org/A5111534349"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I1294671590",
         "https://openalex.org/I4210096833",
+        "https://openalex.org/I4405258264",
         "https://openalex.org/I56067802"
       ],
       "apc_list": {
@@ -8283,11 +8408,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 3.4375,
+      "fwci": 3.3609,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.91384031,
+        "value": 0.91205844,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8502,8 +8627,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
           "display_name": "Life below water",
+          "score": 0.8199999928474426,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -8512,8 +8637,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -8691,7 +8816,10 @@
           "author": {
             "id": "https://openalex.org/A5038394462",
             "display_name": "Olle Hints",
-            "orcid": "https://orcid.org/0000-0003-4670-4452"
+            "orcid": "https://orcid.org/0000-0003-4670-4452",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4670-4452"
+            ]
           },
           "institutions": [
             {
@@ -8703,21 +8831,9 @@
               "lineage": [
                 "https://openalex.org/I111112146"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210141937",
-              "display_name": "Czech Academy of Sciences, Institute of Geology",
-              "ror": "https://ror.org/04wh80b80",
-              "country_code": "CZ",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I202391551",
-                "https://openalex.org/I4210141937"
-              ]
             }
           ],
           "countries": [
-            "CZ",
             "EE"
           ],
           "is_corresponding": true,
@@ -8736,9 +8852,7 @@
             },
             {
               "raw_affiliation_string": "Institute of Geology at Tallinn",
-              "institution_ids": [
-                "https://openalex.org/I4210141937"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -8747,7 +8861,8 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -8782,6 +8897,17 @@
               ]
             },
             {
+              "id": "https://openalex.org/I4405258264",
+              "display_name": "Université Rennes 1",
+              "ror": "https://ror.org/00crteh33",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4405258264",
+                "https://openalex.org/I56067802"
+              ]
+            },
+            {
               "id": "https://openalex.org/I56067802",
               "display_name": "Université de Rennes",
               "ror": "https://ror.org/015m7wh34",
@@ -8809,6 +8935,7 @@
               "institution_ids": [
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210096833",
+                "https://openalex.org/I4405258264",
                 "https://openalex.org/I56067802"
               ]
             },
@@ -8829,7 +8956,8 @@
           "author": {
             "id": "https://openalex.org/A5054134454",
             "display_name": "Sa’id A. Al-Hajri",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -8875,6 +9003,7 @@
             {
               "raw_affiliation_string": "Saudi — Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -8882,14 +9011,13 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 5,
+      "countries_distinct_count": 4,
       "institutions_distinct_count": 7,
       "corresponding_author_ids": [
         "https://openalex.org/A5038394462"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I111112146",
-        "https://openalex.org/I4210141937"
+        "https://openalex.org/I111112146"
       ],
       "apc_list": {
         "value": 3260,
@@ -8897,11 +9025,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 3.0079,
+      "fwci": 2.9408,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.89813935,
+        "value": 0.8959653,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9161,8 +9289,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -9192,8 +9320,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -9714,8 +9842,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
           "display_name": "Life below water",
+          "score": 0.5699999928474426,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -9724,8 +9852,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -9882,7 +10010,8 @@
           "author": {
             "id": "https://openalex.org/A5054134454",
             "display_name": "Sa’id A. Al-Hajri",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -9919,7 +10048,10 @@
           "author": {
             "id": "https://openalex.org/A5071557393",
             "display_name": "Federico París",
-            "orcid": "https://orcid.org/0000-0001-6421-4559"
+            "orcid": "https://orcid.org/0000-0001-6421-4559",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6421-4559"
+            ]
           },
           "institutions": [
             {
@@ -9930,27 +10062,6 @@
               "type": "government",
               "lineage": [
                 "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210096833",
-              "display_name": "Géosciences Rennes",
-              "ror": "https://ror.org/00vn0zc62",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2800285241",
-                "https://openalex.org/I3124938446",
-                "https://openalex.org/I4210088668",
-                "https://openalex.org/I4210096833",
-                "https://openalex.org/I4210107625",
-                "https://openalex.org/I4210117091",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210150854",
-                "https://openalex.org/I4387156395",
-                "https://openalex.org/I4399657933",
-                "https://openalex.org/I56067802"
               ]
             },
             {
@@ -9978,7 +10089,6 @@
               "raw_affiliation_string": "Laboratoire de Sédimentologie et Paléontologie Géosciences, UPR 4661 du CNRS Université de Rennes 1 F-35042 Rennes, cedex France",
               "institution_ids": [
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I4210096833",
                 "https://openalex.org/I56067802"
               ]
             }
@@ -9987,7 +10097,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -9996,11 +10106,11 @@
         "value_usd": 3030
       },
       "apc_paid": null,
-      "fwci": 2.9446,
+      "fwci": 2.8821,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.91636231,
+        "value": 0.91464778,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10314,8 +10424,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -10330,8 +10440,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -10447,9 +10557,20 @@
           "author": {
             "id": "https://openalex.org/A5054134454",
             "display_name": "Sa’id A. Al-Hajri",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -10463,6 +10584,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -10476,12 +10598,14 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             },
             {
               "raw_affiliation_string": "Saudi ARAMCO",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -10492,7 +10616,8 @@
           "author": {
             "id": "https://openalex.org/A5110460569",
             "display_name": "Bernard Owens",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -10533,22 +10658,22 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3064,
+      "fwci": 1.3121,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.75111111,
+        "value": 0.75221239,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 97
       },
       "biblio": {
@@ -10771,8 +10896,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -11027,7 +11152,10 @@
           "author": {
             "id": "https://openalex.org/A5066688203",
             "display_name": "Geoff Clayton",
-            "orcid": "https://orcid.org/0000-0002-6015-1885"
+            "orcid": "https://orcid.org/0000-0002-6015-1885",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6015-1885"
+            ]
           },
           "institutions": [
             {
@@ -11064,7 +11192,8 @@
           "author": {
             "id": "https://openalex.org/A5110460569",
             "display_name": "Bernard Owens",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -11119,9 +11248,20 @@
           "author": {
             "id": "https://openalex.org/A5054134454",
             "display_name": "Sa’id A. Al-Hajri",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -11135,6 +11275,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -11147,6 +11288,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -11157,9 +11299,20 @@
           "author": {
             "id": "https://openalex.org/A5027634361",
             "display_name": "John Filatoff",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -11173,6 +11326,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -11185,6 +11339,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -11192,17 +11347,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 4,
+      "countries_distinct_count": 5,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.6127,
+      "fwci": 2.6243,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.88888889,
+        "value": 0.88938053,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11404,8 +11559,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -11920,8 +12075,7 @@
             "display_name": "Mark Williams",
             "orcid": "https://orcid.org/0000-0002-7987-6069",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-7987-6069",
-              "https://orcid.org/0009-0009-5648-8643"
+              "https://orcid.org/0000-0002-7987-6069"
             ]
           },
           "institutions": [],
@@ -11940,11 +12094,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 11.8936,
+      "fwci": 11.6596,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.9516129,
+        "value": 0.95063985,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12196,8 +12350,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "display_name": "Life below water",
+          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -12206,8 +12360,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12319,7 +12473,10 @@
           "author": {
             "id": "https://openalex.org/A5058654714",
             "display_name": "Charles H. Wellman",
-            "orcid": "https://orcid.org/0000-0001-7511-0464"
+            "orcid": "https://orcid.org/0000-0001-7511-0464",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7511-0464"
+            ]
           },
           "institutions": [
             {
@@ -12356,7 +12513,8 @@
           "author": {
             "id": "https://openalex.org/A5084822278",
             "display_name": "Pierre Breuer",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -12368,10 +12526,22 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": true,
           "raw_author_name": "Pierre Breuer",
@@ -12383,7 +12553,8 @@
             {
               "raw_affiliation_string": "Saudi Aramco, Geological Technical Services Division, Biostratigraphy Group, 31311 Dhahran, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             }
           ]
@@ -12393,7 +12564,10 @@
           "author": {
             "id": "https://openalex.org/A5021079925",
             "display_name": "Merrell A. Miller",
-            "orcid": "https://orcid.org/0000-0002-6046-4283"
+            "orcid": "https://orcid.org/0000-0002-6046-4283",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6046-4283"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -12415,7 +12589,8 @@
           "author": {
             "id": "https://openalex.org/A5110460569",
             "display_name": "Bernard Owens",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -12452,7 +12627,8 @@
           "author": {
             "id": "https://openalex.org/A5054134454",
             "display_name": "Sa’id A. Al-Hajri",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -12486,13 +12662,14 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5084822278"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I4210143841"
+        "https://openalex.org/I4210143841",
+        "https://openalex.org/I62856769"
       ],
       "apc_list": {
         "value": 3260,
@@ -12500,11 +12677,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 1.03,
+      "fwci": 1.0151,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.84565353,
+        "value": 0.84319466,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12753,8 +12930,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12885,10 +13062,22 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": true,
           "raw_author_name": "Pierre Breuer",
@@ -12900,7 +13089,8 @@
             {
               "raw_affiliation_string": "Saudi Aramco, Geological Technical Services Division, Biostratigraphy Group, 31311 Dhahran, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             }
           ]
@@ -13003,6 +13193,16 @@
                 "https://openalex.org/I4387153566",
                 "https://openalex.org/I4405260085"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4405260085",
+              "display_name": "Université de Bretagne Occidentale",
+              "ror": "https://ror.org/0372th171",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4405260085"
+              ]
             }
           ],
           "countries": [
@@ -13021,7 +13221,8 @@
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I161929037",
                 "https://openalex.org/I4210157108",
-                "https://openalex.org/I4387153566"
+                "https://openalex.org/I4387153566",
+                "https://openalex.org/I4405260085"
               ]
             }
           ]
@@ -13171,13 +13372,14 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 8,
+      "countries_distinct_count": 5,
+      "institutions_distinct_count": 10,
       "corresponding_author_ids": [
         "https://openalex.org/A5084822278"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I4210143841"
+        "https://openalex.org/I4210143841",
+        "https://openalex.org/I62856769"
       ],
       "apc_list": {
         "value": 2470,
@@ -13185,11 +13387,11 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 0.954,
+      "fwci": 0.9367,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.78907741,
+        "value": 0.78518279,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13626,8 +13828,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "display_name": "Life below water",
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -13642,8 +13844,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2233849553.pdf",
@@ -13840,7 +14042,10 @@
           "author": {
             "id": "https://openalex.org/A5000541549",
             "display_name": "Stewart G. Molyneux",
-            "orcid": "https://orcid.org/0000-0002-8257-7588"
+            "orcid": "https://orcid.org/0000-0002-8257-7588",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8257-7588"
+            ]
           },
           "institutions": [
             {
@@ -13879,9 +14084,20 @@
           "author": {
             "id": "https://openalex.org/A5054134454",
             "display_name": "Sa’id A. Al-Hajri",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -13895,6 +14111,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -13907,6 +14124,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -13914,17 +14132,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3064,
+      "fwci": 1.3121,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.8,
+        "value": 0.80088496,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14128,8 +14346,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -14827,7 +15045,8 @@
           "author": {
             "id": "https://openalex.org/A5110460569",
             "display_name": "Bernard Owens",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -14864,9 +15083,20 @@
           "author": {
             "id": "https://openalex.org/A5027634361",
             "display_name": "John Filatoff",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -14880,6 +15110,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -14892,6 +15123,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -14902,7 +15134,10 @@
           "author": {
             "id": "https://openalex.org/A5066688203",
             "display_name": "Geoff Clayton",
-            "orcid": "https://orcid.org/0000-0002-6015-1885"
+            "orcid": "https://orcid.org/0000-0002-6015-1885",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6015-1885"
+            ]
           },
           "institutions": [
             {
@@ -14939,9 +15174,20 @@
           "author": {
             "id": "https://openalex.org/A5054134454",
             "display_name": "Sa’id A. Al-Hajri",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -14955,6 +15201,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -14967,6 +15214,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -14974,22 +15222,22 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 4,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.9191,
+      "fwci": 3.9364,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.94222222,
+        "value": 0.94247788,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 94
       },
       "biblio": {
@@ -15186,8 +15434,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -15995,8 +16243,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -16005,8 +16253,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16465,8 +16713,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "display_name": "Life below water",
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -16475,8 +16723,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17010,8 +17258,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -17447,8 +17695,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17785,8 +18033,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6000000238418579,
           "display_name": "Responsible consumption and production",
+          "score": 0.6000000238418579,
           "id": "https://metadata.un.org/sdg/12"
         }
       ],
@@ -17795,8 +18043,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18158,8 +18406,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "display_name": "Climate action",
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -18168,8 +18416,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18256,21 +18504,8 @@
               "https://orcid.org/0000-0002-0413-6832"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286361989",
-              "display_name": "American Petroleum Institute",
-              "ror": "https://ror.org/01zvdsy94",
-              "country_code": "US",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I1286361989"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "B. Ghosh",
           "raw_affiliation_strings": [
@@ -18281,15 +18516,11 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Petroleum Institute",
-              "institution_ids": [
-                "https://openalex.org/I1286361989"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "PETROLEUM INSTITUTE",
-              "institution_ids": [
-                "https://openalex.org/I1286361989"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -18478,21 +18709,8 @@
               "https://orcid.org/0000-0002-5708-2356"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1286361989",
-              "display_name": "American Petroleum Institute",
-              "ror": "https://ror.org/01zvdsy94",
-              "country_code": "US",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I1286361989"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "F. H. Boukadi",
           "raw_affiliation_strings": [
@@ -18507,16 +18725,14 @@
             },
             {
               "raw_affiliation_string": "PETROLEUM INSTITUTE",
-              "institution_ids": [
-                "https://openalex.org/I1286361989"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -18525,7 +18741,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13833214,
+        "value": 0.13870447,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18780,8 +18996,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
           "display_name": "Partnerships for the goals",
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/17"
         }
       ],
@@ -18790,8 +19006,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -19849,8 +20065,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -19859,8 +20075,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20165,8 +20381,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
           "display_name": "Climate action",
+          "score": 0.550000011920929,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -20175,8 +20391,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20762,8 +20978,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2263524228.pdf"
@@ -21724,8 +21940,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22196,8 +22412,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "display_name": "Climate action",
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -22206,8 +22422,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22631,8 +22847,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "display_name": "Life below water",
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -22641,8 +22857,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22710,9 +22926,20 @@
           "author": {
             "id": "https://openalex.org/A5021666885",
             "display_name": "Christian Cesari",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -22726,6 +22953,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -22738,6 +22966,7 @@
             {
               "raw_affiliation_string": "Saudi ARAMCO",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -22748,7 +22977,8 @@
           "author": {
             "id": "https://openalex.org/A5103551749",
             "display_name": "Anthony Butcher",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -22763,7 +22993,10 @@
           "author": {
             "id": "https://openalex.org/A5039685767",
             "display_name": "Marco Vecoli",
-            "orcid": "https://orcid.org/0000-0001-9203-7625"
+            "orcid": "https://orcid.org/0000-0001-9203-7625",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9203-7625"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -22778,7 +23011,8 @@
           "author": {
             "id": "https://openalex.org/A5028197559",
             "display_name": "Kaya Ertug",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -22793,7 +23027,8 @@
           "author": {
             "id": "https://openalex.org/A5065401407",
             "display_name": "Ahmed Al-Shawareb",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -22808,7 +23043,8 @@
           "author": {
             "id": "https://openalex.org/A5054134454",
             "display_name": "Sa’id A. Al-Hajri",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -22823,7 +23059,8 @@
           "author": {
             "id": "https://openalex.org/A5084822278",
             "display_name": "Pierre Breuer",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -22835,8 +23072,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -22845,7 +23082,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.10983607,
+        "value": 0.11099603,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23002,8 +23239,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
           "display_name": "Climate action",
+          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -23012,8 +23249,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23355,8 +23592,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5299999713897705,
           "display_name": "Climate action",
+          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -23365,8 +23602,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23552,8 +23789,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

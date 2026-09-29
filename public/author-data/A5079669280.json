@@ -192,7 +192,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000361,
+        "value": 0.0000362,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -209,7 +209,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000328,
+        "value": 0.0000331,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -226,7 +226,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0000249,
+        "value": 0.0000251,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -559,10 +559,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5030290233",
-            "display_name": "A Molchanov Oleg",
-            "orcid": null,
-            "observed_orcids": []
+            "id": "https://openalex.org/A5054305899",
+            "display_name": "O. A. Anisimov",
+            "orcid": "https://orcid.org/0000-0002-9515-4576",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9515-4576"
+            ]
           },
           "institutions": [
             {
@@ -737,11 +739,11 @@
         "currency": "EUR",
         "value_usd": 1693
       },
-      "fwci": 2.9404,
+      "fwci": 2.9334,
       "has_fulltext": true,
       "cited_by_count": 87,
       "citation_normalized_percentile": {
-        "value": 0.9213534,
+        "value": 0.92118815,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1224,9 +1226,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.44999998807907104
         }
       ],
       "x_sdgs": [],
@@ -1270,8 +1272,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3132684617.pdf",
@@ -2720,9 +2722,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7099999785423279,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7099999785423279
         }
       ],
       "x_sdgs": [],
@@ -2749,8 +2751,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -3563,9 +3565,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.800000011920929
         }
       ],
       "x_sdgs": [],
@@ -3597,8 +3599,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386468571.pdf",
@@ -5172,8 +5174,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2583394094.pdf",
@@ -6534,8 +6536,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -7513,9 +7515,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8500000238418579
         }
       ],
       "x_sdgs": [],
@@ -7537,8 +7539,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 109,
@@ -8580,8 +8582,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3145666038.pdf",
@@ -9930,8 +9932,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3150907985.pdf",
@@ -11296,8 +11298,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -11452,7 +11454,10 @@
           "author": {
             "id": "https://openalex.org/A5085989529",
             "display_name": "Zulfa Ali Al Disi",
-            "orcid": "https://orcid.org/0000-0003-0935-4545"
+            "orcid": "https://orcid.org/0000-0003-0935-4545",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0935-4545"
+            ]
           },
           "institutions": [
             {
@@ -11489,7 +11494,10 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
-            "orcid": "https://orcid.org/0000-0001-5027-0648"
+            "orcid": "https://orcid.org/0000-0001-5027-0648",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5027-0648"
+            ]
           },
           "institutions": [
             {
@@ -11526,7 +11534,10 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
-            "orcid": "https://orcid.org/0000-0001-6787-3533"
+            "orcid": "https://orcid.org/0000-0001-6787-3533",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6787-3533"
+            ]
           },
           "institutions": [
             {
@@ -11563,7 +11574,10 @@
           "author": {
             "id": "https://openalex.org/A5069824368",
             "display_name": "Tomaso R. R. Bontognali",
-            "orcid": "https://orcid.org/0000-0003-4917-0388"
+            "orcid": "https://orcid.org/0000-0003-4917-0388",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4917-0388"
+            ]
           },
           "institutions": [
             {
@@ -11603,7 +11617,10 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar; Space Exploration Institute, 68 Faubourg de l'Hopital, 2000, Neuchatel, Switzerland; Physical Geography and Environmental Change Research Group, University of Basel, Klingelbergstrasse 27, 4056 Basel, Switzerland. Electronic address: tomaso.bontognali@space-x.ch",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1850255",
+                "https://openalex.org/I60342839"
+              ]
             },
             {
               "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
@@ -11644,11 +11661,11 @@
         "currency": "USD",
         "value_usd": 3790
       },
-      "fwci": 1.3868,
+      "fwci": 1.3741,
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.77828834,
+        "value": 0.77668782,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12085,9 +12102,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8299999833106995
         }
       ],
       "x_sdgs": [],
@@ -12131,8 +12148,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385287273.pdf",
@@ -13366,9 +13383,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5799999833106995,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.5799999833106995
         }
       ],
       "x_sdgs": [],
@@ -13409,8 +13426,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -14173,9 +14190,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7900000214576721,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.7900000214576721
         }
       ],
       "x_sdgs": [],
@@ -14204,8 +14221,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -15578,8 +15595,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4291014806.pdf",
@@ -16207,9 +16224,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.8299999833106995
         }
       ],
       "x_sdgs": [],
@@ -16236,8 +16253,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -17132,8 +17149,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -18325,8 +18342,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -19368,8 +19385,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20168,9 +20185,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5
         }
       ],
       "x_sdgs": [],
@@ -20204,8 +20221,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -20814,9 +20831,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7300000190734863,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.7300000190734863
         }
       ],
       "x_sdgs": [],
@@ -20824,8 +20841,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21303,7 +21320,10 @@
           "author": {
             "id": "https://openalex.org/A5034667952",
             "display_name": "I. S. Strakhov",
-            "orcid": "https://orcid.org/0000-0002-1140-1745"
+            "orcid": "https://orcid.org/0000-0002-1140-1745",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1140-1745"
+            ]
           },
           "institutions": [
             {
@@ -21314,6 +21334,17 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I185261750"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405278283",
+              "display_name": "University of Toronto Scarborough",
+              "ror": "https://ror.org/05k33q843",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I185261750",
+                "https://openalex.org/I4405278283"
               ]
             }
           ],
@@ -21331,7 +21362,8 @@
             {
               "raw_affiliation_string": "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada",
               "institution_ids": [
-                "https://openalex.org/I185261750"
+                "https://openalex.org/I185261750",
+                "https://openalex.org/I4405278283"
               ]
             },
             {
@@ -21347,7 +21379,10 @@
           "author": {
             "id": "https://openalex.org/A5011492717",
             "display_name": "Hadil Elsayed",
-            "orcid": "https://orcid.org/0000-0001-7566-4002"
+            "orcid": "https://orcid.org/0000-0001-7566-4002",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7566-4002"
+            ]
           },
           "institutions": [
             {
@@ -21384,7 +21419,10 @@
           "author": {
             "id": "https://openalex.org/A5063023865",
             "display_name": "Zach A. DiLoreto",
-            "orcid": "https://orcid.org/0000-0002-0295-2764"
+            "orcid": "https://orcid.org/0000-0002-0295-2764",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0295-2764"
+            ]
           },
           "institutions": [
             {
@@ -21395,6 +21433,17 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I185261750"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405278283",
+              "display_name": "University of Toronto Scarborough",
+              "ror": "https://ror.org/05k33q843",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I185261750",
+                "https://openalex.org/I4405278283"
               ]
             }
           ],
@@ -21411,7 +21460,8 @@
             {
               "raw_affiliation_string": "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada",
               "institution_ids": [
-                "https://openalex.org/I185261750"
+                "https://openalex.org/I185261750",
+                "https://openalex.org/I4405278283"
               ]
             }
           ]
@@ -21421,7 +21471,10 @@
           "author": {
             "id": "https://openalex.org/A5070705874",
             "display_name": "Khoren Avetisyan",
-            "orcid": "https://orcid.org/0000-0003-4145-5477"
+            "orcid": "https://orcid.org/0000-0003-4145-5477",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4145-5477"
+            ]
           },
           "institutions": [
             {
@@ -21432,6 +21485,17 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I185261750"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405278283",
+              "display_name": "University of Toronto Scarborough",
+              "ror": "https://ror.org/05k33q843",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I185261750",
+                "https://openalex.org/I4405278283"
               ]
             }
           ],
@@ -21448,7 +21512,8 @@
             {
               "raw_affiliation_string": "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada",
               "institution_ids": [
-                "https://openalex.org/I185261750"
+                "https://openalex.org/I185261750",
+                "https://openalex.org/I4405278283"
               ]
             }
           ]
@@ -21458,7 +21523,10 @@
           "author": {
             "id": "https://openalex.org/A5085989529",
             "display_name": "Zulfa Ali Al Disi",
-            "orcid": "https://orcid.org/0000-0003-0935-4545"
+            "orcid": "https://orcid.org/0000-0003-0935-4545",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0935-4545"
+            ]
           },
           "institutions": [
             {
@@ -21495,7 +21563,10 @@
           "author": {
             "id": "https://openalex.org/A5070682798",
             "display_name": "Khaled Naja",
-            "orcid": "https://orcid.org/0000-0001-9259-3082"
+            "orcid": "https://orcid.org/0000-0001-9259-3082",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9259-3082"
+            ]
           },
           "institutions": [
             {
@@ -21532,7 +21603,10 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
-            "orcid": "https://orcid.org/0000-0001-6787-3533"
+            "orcid": "https://orcid.org/0000-0001-6787-3533",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6787-3533"
+            ]
           },
           "institutions": [
             {
@@ -21569,7 +21643,10 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
-            "orcid": "https://orcid.org/0000-0001-5027-0648"
+            "orcid": "https://orcid.org/0000-0001-5027-0648",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5027-0648"
+            ]
           },
           "institutions": [
             {
@@ -21606,7 +21683,8 @@
           "author": {
             "id": "https://openalex.org/A5031066506",
             "display_name": "Jassim Alkhayat",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -21643,7 +21721,10 @@
           "author": {
             "id": "https://openalex.org/A5030411046",
             "display_name": "Maria Dittrich",
-            "orcid": "https://orcid.org/0000-0002-8112-2661"
+            "orcid": "https://orcid.org/0000-0002-8112-2661",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8112-2661"
+            ]
           },
           "institutions": [
             {
@@ -21654,6 +21735,17 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I185261750"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405278283",
+              "display_name": "University of Toronto Scarborough",
+              "ror": "https://ror.org/05k33q843",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I185261750",
+                "https://openalex.org/I4405278283"
               ]
             },
             {
@@ -21683,7 +21775,8 @@
             {
               "raw_affiliation_string": "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada",
               "institution_ids": [
-                "https://openalex.org/I185261750"
+                "https://openalex.org/I185261750",
+                "https://openalex.org/I4405278283"
               ]
             },
             {
@@ -21703,12 +21796,13 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5030411046"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I185261750",
+        "https://openalex.org/I4405278283",
         "https://openalex.org/I60342839"
       ],
       "apc_list": {
@@ -21721,11 +21815,11 @@
         "currency": "USD",
         "value_usd": 3550
       },
-      "fwci": 3.2923,
+      "fwci": 3.1937,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.9026468,
+        "value": 0.90024816,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -22162,8 +22256,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407260658.pdf",
@@ -23256,8 +23350,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23703,8 +23797,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -24345,8 +24439,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -24867,9 +24961,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.6800000071525574
         }
       ],
       "x_sdgs": [],
@@ -24877,8 +24971,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -25923,8 +26017,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3111727931.pdf",
@@ -26409,16 +26503,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
-            },
-            {
               "id": "https://openalex.org/I44461941",
               "display_name": "University of Houston",
               "ror": "https://ror.org/048sx0r50",
@@ -26440,7 +26524,6 @@
             }
           ],
           "countries": [
-            "ID",
             "QA",
             "US"
           ],
@@ -26457,7 +26540,6 @@
             {
               "raw_affiliation_string": "Department of Petroleum Engineering , University of Houston , USA",
               "institution_ids": [
-                "https://openalex.org/I4210118538",
                 "https://openalex.org/I44461941"
               ]
             },
@@ -26576,16 +26658,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
-            },
-            {
               "id": "https://openalex.org/I44461941",
               "display_name": "University of Houston",
               "ror": "https://ror.org/048sx0r50",
@@ -26607,7 +26679,6 @@
             }
           ],
           "countries": [
-            "ID",
             "QA",
             "US"
           ],
@@ -26624,7 +26695,6 @@
             {
               "raw_affiliation_string": "Department of Petroleum Engineering , University of Houston , USA",
               "institution_ids": [
-                "https://openalex.org/I4210118538",
                 "https://openalex.org/I44461941"
               ]
             },
@@ -26660,16 +26730,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
-            },
-            {
               "id": "https://openalex.org/I44461941",
               "display_name": "University of Houston",
               "ror": "https://ror.org/048sx0r50",
@@ -26691,7 +26751,6 @@
             }
           ],
           "countries": [
-            "ID",
             "QA",
             "US"
           ],
@@ -26708,7 +26767,6 @@
             {
               "raw_affiliation_string": "Department of Petroleum Engineering , University of Houston , USA",
               "institution_ids": [
-                "https://openalex.org/I4210118538",
                 "https://openalex.org/I44461941"
               ]
             },
@@ -26734,8 +26792,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -26744,12 +26802,12 @@
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.30670575,
+        "value": 0.30668622,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 94
       },
       "biblio": {
@@ -27116,9 +27174,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -27145,8 +27203,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3207158966.pdf",
@@ -28360,9 +28418,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6499999761581421,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.6499999761581421
         }
       ],
       "x_sdgs": [],
@@ -28370,8 +28428,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29869,9 +29927,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8399999737739563
         }
       ],
       "x_sdgs": [],
@@ -29927,8 +29985,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -30589,16 +30647,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
-            },
-            {
               "id": "https://openalex.org/I44461941",
               "display_name": "University of Houston",
               "ror": "https://ror.org/048sx0r50",
@@ -30620,7 +30668,6 @@
             }
           ],
           "countries": [
-            "ID",
             "QA",
             "US"
           ],
@@ -30637,7 +30684,6 @@
             {
               "raw_affiliation_string": "Department of Petroleum Engineering , University of Houston , USA",
               "institution_ids": [
-                "https://openalex.org/I4210118538",
                 "https://openalex.org/I44461941"
               ]
             },
@@ -30749,16 +30795,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
-            },
-            {
               "id": "https://openalex.org/I44461941",
               "display_name": "University of Houston",
               "ror": "https://ror.org/048sx0r50",
@@ -30780,7 +30816,6 @@
             }
           ],
           "countries": [
-            "ID",
             "QA",
             "US"
           ],
@@ -30797,7 +30832,6 @@
             {
               "raw_affiliation_string": "Department of Petroleum Engineering , University of Houston , USA",
               "institution_ids": [
-                "https://openalex.org/I4210118538",
                 "https://openalex.org/I44461941"
               ]
             },
@@ -30823,8 +30857,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -30833,7 +30867,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37449154,
+        "value": 0.37439265,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31257,9 +31291,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "x_sdgs": [],
@@ -31278,8 +31312,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3111736389.pdf",
@@ -31929,10 +31963,12 @@
         {
           "author_position": "first",
           "author": {
-            "id": null,
-            "display_name": "Elnaim Elobaid",
-            "orcid": null,
-            "observed_orcids": []
+            "id": "https://openalex.org/A5034062095",
+            "display_name": "Elnaiem Ali Elobaid",
+            "orcid": "https://orcid.org/0000-0001-9139-9966",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9139-9966"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -32042,7 +32078,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.2048732,
+        "value": 0.20487926,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32388,8 +32424,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3205612556.pdf",
@@ -34061,9 +34097,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "score": 0.41999998688697815
         }
       ],
       "x_sdgs": [],
@@ -34071,8 +34107,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3205848438.pdf",
@@ -35278,9 +35314,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -35294,8 +35330,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3207614801.pdf",
@@ -35764,7 +35800,10 @@
           "author": {
             "id": "https://openalex.org/A5018540421",
             "display_name": "Ivan A. Strakhov",
-            "orcid": "https://orcid.org/0000-0003-0647-6133"
+            "orcid": "https://orcid.org/0000-0003-0647-6133",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0647-6133"
+            ]
           },
           "institutions": [
             {
@@ -35801,29 +35840,12 @@
           "author": {
             "id": "https://openalex.org/A5063023865",
             "display_name": "Zach A. DiLoreto",
-            "orcid": "https://orcid.org/0000-0002-0295-2764"
+            "orcid": "https://orcid.org/0000-0002-0295-2764",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0295-2764"
+            ]
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I185261750",
-              "display_name": "University of Toronto",
-              "ror": "https://ror.org/03dbr7087",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I185261750"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2799376586",
-              "display_name": "Scarborough Health Network",
-              "ror": "https://ror.org/04pzgb662",
-              "country_code": "CA",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I2799376586"
-              ]
-            },
             {
               "id": "https://openalex.org/I4405278283",
               "display_name": "University of Toronto Scarborough",
@@ -35849,8 +35871,6 @@
             {
               "raw_affiliation_string": "University of Toronto Scarborough",
               "institution_ids": [
-                "https://openalex.org/I185261750",
-                "https://openalex.org/I2799376586",
                 "https://openalex.org/I4405278283"
               ]
             }
@@ -35861,7 +35881,10 @@
           "author": {
             "id": "https://openalex.org/A5011492717",
             "display_name": "Hadil Elsayed",
-            "orcid": "https://orcid.org/0000-0001-7566-4002"
+            "orcid": "https://orcid.org/0000-0001-7566-4002",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7566-4002"
+            ]
           },
           "institutions": [
             {
@@ -35898,7 +35921,10 @@
           "author": {
             "id": "https://openalex.org/A5085989529",
             "display_name": "Zulfa Ali Al Disi",
-            "orcid": "https://orcid.org/0000-0003-0935-4545"
+            "orcid": "https://orcid.org/0000-0003-0935-4545",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0935-4545"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -35913,7 +35939,10 @@
           "author": {
             "id": "https://openalex.org/A5070682798",
             "display_name": "Khaled Naja",
-            "orcid": "https://orcid.org/0000-0001-9259-3082"
+            "orcid": "https://orcid.org/0000-0001-9259-3082",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9259-3082"
+            ]
           },
           "institutions": [
             {
@@ -35950,7 +35979,10 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
-            "orcid": "https://orcid.org/0000-0001-6787-3533"
+            "orcid": "https://orcid.org/0000-0001-6787-3533",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6787-3533"
+            ]
           },
           "institutions": [
             {
@@ -35987,7 +36019,10 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
-            "orcid": "https://orcid.org/0000-0001-5027-0648"
+            "orcid": "https://orcid.org/0000-0001-5027-0648",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5027-0648"
+            ]
           },
           "institutions": [
             {
@@ -36024,7 +36059,8 @@
           "author": {
             "id": "https://openalex.org/A5031066506",
             "display_name": "Jassim Alkhayat",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -36061,7 +36097,10 @@
           "author": {
             "id": "https://openalex.org/A5017154958",
             "display_name": "Scott O. C. Mundle",
-            "orcid": "https://orcid.org/0000-0001-5976-9656"
+            "orcid": "https://orcid.org/0000-0001-5976-9656",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5976-9656"
+            ]
           },
           "institutions": [
             {
@@ -36098,7 +36137,10 @@
           "author": {
             "id": "https://openalex.org/A5030411046",
             "display_name": "Maria Dittrich",
-            "orcid": "https://orcid.org/0000-0002-8112-2661"
+            "orcid": "https://orcid.org/0000-0002-8112-2661",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8112-2661"
+            ]
           },
           "institutions": [
             {
@@ -36133,7 +36175,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [
         "https://openalex.org/A5018540421"
       ],
@@ -36146,7 +36188,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.20876736,
+        "value": 0.20869565,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36341,9 +36383,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.4399999976158142
         }
       ],
       "x_sdgs": [],
@@ -36351,8 +36393,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4312290890.pdf",
@@ -36896,9 +36938,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.699999988079071,
+          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger",
-          "id": "https://metadata.un.org/sdg/2"
+          "score": 0.699999988079071
         }
       ],
       "x_sdgs": [],
@@ -36906,8 +36948,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4312435439.pdf",
@@ -37311,8 +37353,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4389562204.pdf",
@@ -37808,8 +37850,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4408523099.pdf",
@@ -38320,8 +38362,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -38831,8 +38873,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -39423,8 +39465,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -40045,8 +40087,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -40619,8 +40661,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -41253,8 +41295,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -41756,8 +41798,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,

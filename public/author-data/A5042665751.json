@@ -16,7 +16,7 @@
     ],
     "full_name": "Mohammed A. Al-Masrahy",
     "works_count": 17,
-    "cited_by_count": 265,
+    "cited_by_count": 266,
     "summary_stats": {
       "2yr_mean_citedness": 2.2857142857142856,
       "h_index": 5,
@@ -50,23 +50,6 @@
       },
       {
         "institution": {
-          "id": "https://openalex.org/I2800952698",
-          "ror": "https://ror.org/04k820v98",
-          "display_name": "Saudi Aramco Medical Services Organization",
-          "country_code": "SA",
-          "type": "healthcare",
-          "lineage": [
-            "https://openalex.org/I2799853436",
-            "https://openalex.org/I2800952698",
-            "https://openalex.org/I4210143841"
-          ]
-        },
-        "years": [
-          2021
-        ]
-      },
-      {
-        "institution": {
           "id": "https://openalex.org/I4210143841",
           "ror": "https://ror.org/03ypap427",
           "display_name": "Saudi Aramco (Saudi Arabia)",
@@ -80,7 +63,10 @@
           2026,
           2025,
           2024,
-          2021
+          2021,
+          2020,
+          2017,
+          2011
         ]
       },
       {
@@ -96,7 +82,6 @@
           ]
         },
         "years": [
-          2026,
           2025,
           2020,
           2017,
@@ -113,17 +98,6 @@
         "type": "company",
         "lineage": [
           "https://openalex.org/I4210143841"
-        ]
-      },
-      {
-        "id": "https://openalex.org/I62856769",
-        "ror": "https://ror.org/035n7q728",
-        "display_name": "Saudi Aramco (United States)",
-        "country_code": "US",
-        "type": "company",
-        "lineage": [
-          "https://openalex.org/I4210143841",
-          "https://openalex.org/I62856769"
         ]
       }
     ],
@@ -218,7 +192,7 @@
       {
         "id": "https://openalex.org/T12383",
         "display_name": "Aeolian processes and effects",
-        "value": 0.0000522,
+        "value": 0.0000524,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -235,7 +209,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000348,
+        "value": 0.0000349,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -252,7 +226,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000175,
+        "value": 0.0000177,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -269,7 +243,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000012,
+        "value": 0.0000121,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -286,7 +260,7 @@
       {
         "id": "https://openalex.org/T10017",
         "display_name": "Geology and Paleoclimatology Research",
-        "value": 0.0000119,
+        "value": 0.000012,
         "subfield": {
           "id": "https://openalex.org/subfields/1902",
           "display_name": "Atmospheric Science"
@@ -350,7 +324,7 @@
         "year": 2015,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 155
+        "cited_by_count": 156
       },
       {
         "year": 2017,
@@ -405,7 +379,7 @@
     ],
     "block_key": "m al-masrahy",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5042665751",
-    "updated_date": "2026-09-25T12:19:18",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -477,7 +451,10 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
-            "orcid": "https://orcid.org/0000-0002-8396-3923"
+            "orcid": "https://orcid.org/0000-0002-8396-3923",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8396-3923"
+            ]
           },
           "institutions": [
             {
@@ -521,7 +498,10 @@
           "author": {
             "id": "https://openalex.org/A5022451423",
             "display_name": "Nigel P. Mountney",
-            "orcid": "https://orcid.org/0000-0002-8356-9889"
+            "orcid": "https://orcid.org/0000-0002-8356-9889",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8356-9889"
+            ]
           },
           "institutions": [
             {
@@ -576,11 +556,11 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 12.9862,
+      "fwci": 12.8263,
       "has_fulltext": true,
-      "cited_by_count": 155,
+      "cited_by_count": 156,
       "citation_normalized_percentile": {
-        "value": 0.99346094,
+        "value": 0.99326518,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -880,8 +860,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4300000071525574,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land"
         }
       ],
       "x_sdgs": [],
@@ -900,8 +880,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1999436875.pdf",
@@ -1043,7 +1023,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2025,
@@ -1550,8 +1530,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8600000143051147,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -1559,8 +1539,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -1784,6 +1764,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
               "ror": "https://ror.org/035n7q728",
@@ -1796,6 +1786,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": true,
@@ -1808,6 +1799,7 @@
             {
               "raw_affiliation_string": "Reservoir Characterization Department, Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -1815,21 +1807,22 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5042665751"
       ],
       "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841",
         "https://openalex.org/I62856769"
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.8225,
+      "fwci": 5.8121,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.94198565,
+        "value": 0.94188137,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2052,8 +2045,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5799999833106995,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land"
         }
       ],
       "x_sdgs": [],
@@ -2067,8 +2060,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -3767,8 +3760,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -4328,8 +4321,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -5173,7 +5166,10 @@
           "author": {
             "id": "https://openalex.org/A5066611492",
             "display_name": "Grace I.E. Cosgrove",
-            "orcid": "https://orcid.org/0000-0002-2206-8714"
+            "orcid": "https://orcid.org/0000-0002-2206-8714",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2206-8714"
+            ]
           },
           "institutions": [
             {
@@ -5210,7 +5206,8 @@
           "author": {
             "id": "https://openalex.org/A5050684737",
             "display_name": "Mohamed Al-Kathery",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -5247,7 +5244,10 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
-            "orcid": "https://orcid.org/0000-0002-8396-3923"
+            "orcid": "https://orcid.org/0000-0002-8396-3923",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8396-3923"
+            ]
           },
           "institutions": [
             {
@@ -5284,7 +5284,10 @@
           "author": {
             "id": "https://openalex.org/A5007815075",
             "display_name": "Luca Colombera",
-            "orcid": "https://orcid.org/0000-0001-9116-1800"
+            "orcid": "https://orcid.org/0000-0001-9116-1800",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9116-1800"
+            ]
           },
           "institutions": [
             {
@@ -5321,7 +5324,10 @@
           "author": {
             "id": "https://openalex.org/A5022451423",
             "display_name": "Nigel P. Mountney",
-            "orcid": "https://orcid.org/0000-0002-8356-9889"
+            "orcid": "https://orcid.org/0000-0002-8356-9889",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8356-9889"
+            ]
           },
           "institutions": [
             {
@@ -5358,7 +5364,8 @@
           "author": {
             "id": "https://openalex.org/A5113732385",
             "display_name": "David B. Thompson",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -5395,16 +5402,16 @@
         "currency": "USD",
         "value_usd": 4250
       },
-      "fwci": 2.0736,
+      "fwci": 2.026,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.83251232,
+        "value": 0.82929766,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 98
       },
       "biblio": {
@@ -5601,7 +5608,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "doi:10.1111/sed.70000",
@@ -5642,6 +5649,36 @@
           "is_published": true,
           "raw_source_name": "Sedimentology",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:eprints.whiterose.ac.uk:229314",
+          "is_oa": false,
+          "landing_page_url": "https://eprints.whiterose.ac.uk/id/eprint/229314/1/Sedimentology%20-%202025%20-%20Cosgrove%20-%20Quantitative%20sedimentological%20analysis%20of%20the%20aeolian%20fluvial%20Triassic%20Sherwood%20Sandstone.pdf",
+          "pdf_url": "https://eprints.whiterose.ac.uk/id/eprint/229314/1/Sedimentology%20-%202025%20-%20Cosgrove%20-%20Quantitative%20sedimentological%20analysis%20of%20the%20aeolian%20fluvial%20Triassic%20Sherwood%20Sandstone.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400854",
+            "display_name": "White Rose Research Online (University of Leeds, The University of Sheffield, University of York)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I2800616092",
+            "host_organization_name": "White Rose University Consortium",
+            "host_organization_lineage": [
+              "https://openalex.org/I2800616092"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Article"
         }
       ],
       "best_oa_location": {
@@ -5746,8 +5783,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 127,
@@ -6947,8 +6984,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -6956,8 +6993,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -7088,9 +7125,22 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
-            "orcid": "https://orcid.org/0000-0002-8396-3923"
+            "orcid": "https://orcid.org/0000-0002-8396-3923",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8396-3923"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -7104,6 +7154,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": true,
@@ -7116,6 +7167,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -7123,26 +7175,27 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5042665751"
       ],
       "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841",
         "https://openalex.org/I62856769"
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1441,
+      "fwci": 1.1385,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.69223744,
+        "value": 0.69047619,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 96
       },
       "biblio": {
@@ -7403,8 +7456,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5899999737739563,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -7412,8 +7465,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -8386,7 +8439,8 @@
           "author": {
             "id": "https://openalex.org/A5031073959",
             "display_name": "Bassam Alshammari",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -8397,18 +8451,6 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I130828816"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2800952698",
-              "display_name": "Saudi Aramco Medical Services Organization",
-              "ror": "https://ror.org/04k820v98",
-              "country_code": "SA",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I2799853436",
-                "https://openalex.org/I2800952698",
-                "https://openalex.org/I4210143841"
               ]
             },
             {
@@ -8445,7 +8487,6 @@
             {
               "raw_affiliation_string": "2 Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I2800952698",
                 "https://openalex.org/I4210143841"
               ]
             },
@@ -8468,7 +8509,10 @@
           "author": {
             "id": "https://openalex.org/A5022451423",
             "display_name": "Nigel P. Mountney",
-            "orcid": "https://orcid.org/0000-0002-8356-9889"
+            "orcid": "https://orcid.org/0000-0002-8356-9889",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8356-9889"
+            ]
           },
           "institutions": [
             {
@@ -8512,7 +8556,10 @@
           "author": {
             "id": "https://openalex.org/A5007815075",
             "display_name": "Luca Colombera",
-            "orcid": "https://orcid.org/0000-0001-9116-1800"
+            "orcid": "https://orcid.org/0000-0001-9116-1800",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9116-1800"
+            ]
           },
           "institutions": [
             {
@@ -8556,21 +8603,12 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
-            "orcid": "https://orcid.org/0000-0002-8396-3923"
+            "orcid": "https://orcid.org/0000-0002-8396-3923",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8396-3923"
+            ]
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I2800952698",
-              "display_name": "Saudi Aramco Medical Services Organization",
-              "ror": "https://ror.org/04k820v98",
-              "country_code": "SA",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I2799853436",
-                "https://openalex.org/I2800952698",
-                "https://openalex.org/I4210143841"
-              ]
-            },
             {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
@@ -8596,7 +8634,6 @@
             {
               "raw_affiliation_string": "2 Exploration Organization, Saudi Aramco, Dhahran 31311, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I2800952698",
                 "https://openalex.org/I4210143841"
               ]
             },
@@ -8611,16 +8648,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3373,
+      "fwci": 0.3337,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.51895991,
+        "value": 0.51451547,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8928,8 +8965,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -8937,8 +8974,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 117,
@@ -9906,7 +9943,10 @@
           "author": {
             "id": "https://openalex.org/A5071025908",
             "display_name": "Ahmed A. Kassem",
-            "orcid": "https://orcid.org/0000-0001-7829-1846"
+            "orcid": "https://orcid.org/0000-0001-7829-1846",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7829-1846"
+            ]
           },
           "institutions": [
             {
@@ -9918,22 +9958,10 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
             }
           ],
           "countries": [
-            "SA",
-            "US"
+            "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Ahmed A. Kassem",
@@ -9945,8 +9973,7 @@
             {
               "raw_affiliation_string": "GRCD, Saudi Aramco, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
+                "https://openalex.org/I4210143841"
               ]
             }
           ]
@@ -9956,7 +9983,10 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
-            "orcid": "https://orcid.org/0000-0002-8396-3923"
+            "orcid": "https://orcid.org/0000-0002-8396-3923",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8396-3923"
+            ]
           },
           "institutions": [
             {
@@ -9968,22 +9998,10 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
             }
           ],
           "countries": [
-            "SA",
-            "US"
+            "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Mohammed A. Al-Masrahy",
@@ -9995,8 +10013,7 @@
             {
               "raw_affiliation_string": "GRCD, Saudi Aramco, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
+                "https://openalex.org/I4210143841"
               ]
             }
           ]
@@ -10006,7 +10023,8 @@
           "author": {
             "id": null,
             "display_name": "Anar Nabiyev",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -10018,22 +10036,10 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
             }
           ],
           "countries": [
-            "SA",
-            "US"
+            "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Anar Nabiyev",
@@ -10045,8 +10051,7 @@
             {
               "raw_affiliation_string": "GRCD, Saudi Aramco, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
+                "https://openalex.org/I4210143841"
               ]
             }
           ]
@@ -10056,7 +10061,10 @@
           "author": {
             "id": "https://openalex.org/A5063457131",
             "display_name": "Syed Bahauddin Alam",
-            "orcid": "https://orcid.org/0000-0001-5506-6953"
+            "orcid": "https://orcid.org/0000-0001-5506-6953",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5506-6953"
+            ]
           },
           "institutions": [
             {
@@ -10068,22 +10076,10 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
             }
           ],
           "countries": [
-            "SA",
-            "US"
+            "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Syed Alam",
@@ -10095,30 +10091,31 @@
             {
               "raw_affiliation_string": "GRCD, Saudi Aramco, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
+                "https://openalex.org/I4210143841"
               ]
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841"
+      ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.1831,
+      "fwci": 5.0032,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.94263764,
+        "value": 0.94050519,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 94
       },
       "biblio": {
@@ -10416,8 +10413,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -11189,9 +11186,22 @@
           "author": {
             "id": "https://openalex.org/A5085576375",
             "display_name": "Pierre Lacroix",
-            "orcid": "https://orcid.org/0000-0002-9096-4414"
+            "orcid": "https://orcid.org/0000-0002-9096-4414",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9096-4414"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -11205,6 +11215,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -11217,6 +11228,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -11227,9 +11239,22 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
-            "orcid": "https://orcid.org/0000-0002-8396-3923"
+            "orcid": "https://orcid.org/0000-0002-8396-3923",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8396-3923"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -11243,6 +11268,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -11255,6 +11281,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -11265,9 +11292,20 @@
           "author": {
             "id": "https://openalex.org/A5051141940",
             "display_name": "Mark Prudden",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -11281,6 +11319,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -11293,6 +11332,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -11303,9 +11343,20 @@
           "author": {
             "id": "https://openalex.org/A5002793923",
             "display_name": "Thomas Loretto",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -11319,6 +11370,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -11331,6 +11383,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -11338,19 +11391,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I62856769"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.1426844,
+        "value": 0.14447322,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11683,8 +11734,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -12535,8 +12586,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13247,9 +13298,20 @@
           "author": {
             "id": "https://openalex.org/A5073123473",
             "display_name": "B. Al Shammeri",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -13263,6 +13325,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -13275,6 +13338,7 @@
             {
               "raw_affiliation_string": "Exploration Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -13283,12 +13347,28 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5051789648",
-            "display_name": "L. Colombera",
-            "orcid": null
+            "id": "https://openalex.org/A5007815075",
+            "display_name": "Luca Colombera",
+            "orcid": "https://orcid.org/0000-0001-9116-1800",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9116-1800"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I25217355",
+              "display_name": "University of Pavia",
+              "ror": "https://ror.org/00s6t1f81",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I25217355"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
           "is_corresponding": false,
           "raw_author_name": "L. Colombera",
           "raw_affiliation_strings": [
@@ -13298,7 +13378,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth and Environmental Science University of Pavia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I25217355"
+              ]
             }
           ]
         },
@@ -13307,7 +13389,10 @@
           "author": {
             "id": "https://openalex.org/A5022451423",
             "display_name": "Nigel P. Mountney",
-            "orcid": "https://orcid.org/0000-0002-8356-9889"
+            "orcid": "https://orcid.org/0000-0002-8356-9889",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8356-9889"
+            ]
           },
           "institutions": [
             {
@@ -13344,7 +13429,10 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
-            "orcid": "https://orcid.org/0000-0002-8396-3923"
+            "orcid": "https://orcid.org/0000-0002-8396-3923",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8396-3923"
+            ]
           },
           "institutions": [
             {
@@ -13378,8 +13466,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 4,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -13388,7 +13476,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38340144,
+        "value": 0.38314068,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13606,8 +13694,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -13615,8 +13703,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14227,9 +14315,20 @@
           "author": {
             "id": "https://openalex.org/A5050684737",
             "display_name": "Mohamed Al-Kathery",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -14243,6 +14342,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -14255,6 +14355,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -14265,9 +14366,22 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
-            "orcid": "https://orcid.org/0000-0002-8396-3923"
+            "orcid": "https://orcid.org/0000-0002-8396-3923",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8396-3923"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -14281,6 +14395,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -14293,6 +14408,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -14300,19 +14416,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I62856769"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.35723431,
+        "value": 0.35594307,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14605,8 +14719,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -15655,9 +15769,20 @@
           "author": {
             "id": "https://openalex.org/A5119760967",
             "display_name": "Yogi Priyadi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -15671,6 +15796,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -15683,6 +15809,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -15693,9 +15820,20 @@
           "author": {
             "id": "https://openalex.org/A5025307753",
             "display_name": "Fanis Khayrutdinov",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -15709,6 +15847,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -15721,6 +15860,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -15731,9 +15871,22 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
-            "orcid": "https://orcid.org/0000-0002-8396-3923"
+            "orcid": "https://orcid.org/0000-0002-8396-3923",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8396-3923"
+            ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -15747,6 +15900,7 @@
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
@@ -15759,6 +15913,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             }
@@ -15766,19 +15921,17 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I62856769"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.29468599,
+        "value": 0.2959113,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16078,8 +16231,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -17410,8 +17563,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17484,7 +17637,10 @@
           "author": {
             "id": "https://openalex.org/A5071025908",
             "display_name": "Ahmed A. Kassem",
-            "orcid": "https://orcid.org/0000-0001-7829-1846"
+            "orcid": "https://orcid.org/0000-0001-7829-1846",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7829-1846"
+            ]
           },
           "institutions": [
             {
@@ -17496,22 +17652,10 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
             }
           ],
           "countries": [
-            "SA",
-            "US"
+            "SA"
           ],
           "is_corresponding": true,
           "raw_author_name": "Ahmed A. Kassem",
@@ -17523,8 +17667,7 @@
             {
               "raw_affiliation_string": "GRCD – Saudi Aramco, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
+                "https://openalex.org/I4210143841"
               ]
             }
           ]
@@ -17534,7 +17677,8 @@
           "author": {
             "id": "https://openalex.org/A5076343814",
             "display_name": "Hasan Algheryafi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -17546,22 +17690,10 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
             }
           ],
           "countries": [
-            "SA",
-            "US"
+            "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Hasan Algheryafi",
@@ -17573,8 +17705,7 @@
             {
               "raw_affiliation_string": "GRCD – Saudi Aramco, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
+                "https://openalex.org/I4210143841"
               ]
             }
           ]
@@ -17584,7 +17715,8 @@
           "author": {
             "id": "https://openalex.org/A5140557154",
             "display_name": "Abdulrahman Almassari",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -17596,22 +17728,10 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
             }
           ],
           "countries": [
-            "SA",
-            "US"
+            "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Abdulrahman Almassari",
@@ -17623,8 +17743,7 @@
             {
               "raw_affiliation_string": "GRCD – Saudi Aramco, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
+                "https://openalex.org/I4210143841"
               ]
             }
           ]
@@ -17634,7 +17753,10 @@
           "author": {
             "id": "https://openalex.org/A5042665751",
             "display_name": "Mohammed A. Al-Masrahy",
-            "orcid": "https://orcid.org/0000-0002-8396-3923"
+            "orcid": "https://orcid.org/0000-0002-8396-3923",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8396-3923"
+            ]
           },
           "institutions": [
             {
@@ -17646,22 +17768,10 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
             }
           ],
           "countries": [
-            "SA",
-            "US"
+            "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Mohammed A. Al-Masrahy",
@@ -17673,22 +17783,20 @@
             {
               "raw_affiliation_string": "GRCD – Saudi Aramco, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
+                "https://openalex.org/I4210143841"
               ]
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5071025908"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I4210143841",
-        "https://openalex.org/I62856769"
+        "https://openalex.org/I4210143841"
       ],
       "apc_list": null,
       "apc_paid": null,
@@ -17696,7 +17804,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.60763192,
+        "value": 0.58437836,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17940,8 +18048,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8767217397689819,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -17949,8 +18057,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,

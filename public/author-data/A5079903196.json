@@ -73,21 +73,6 @@
       },
       {
         "institution": {
-          "id": "https://openalex.org/I4210118538",
-          "ror": "https://ror.org/02em1tr51",
-          "display_name": "University of Petroleum",
-          "country_code": "ID",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I4210118538"
-          ]
-        },
-        "years": [
-          2025
-        ]
-      },
-      {
-        "institution": {
           "id": "https://openalex.org/I71920554",
           "ror": "https://ror.org/01q3tbs38",
           "display_name": "King Abdullah University of Science and Technology",
@@ -206,7 +191,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0001361,
+        "value": 0.0001363,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -223,7 +208,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0001336,
+        "value": 0.0001346,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -257,7 +242,7 @@
       {
         "id": "https://openalex.org/T11630",
         "display_name": "Petroleum Processing and Analysis",
-        "value": 0.0000846,
+        "value": 0.000085,
         "subfield": {
           "id": "https://openalex.org/subfields/1602",
           "display_name": "Analytical Chemistry"
@@ -274,7 +259,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0000841,
+        "value": 0.0000846,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -397,7 +382,7 @@
     ],
     "block_key": "i abu-mahfouz",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5079903196",
-    "updated_date": "2026-09-26T12:32:56",
+    "updated_date": "2026-09-28T13:44:42",
     "created_date": "2025-06-21T00:00:00"
   },
   "works": [
@@ -470,8 +455,7 @@
             "display_name": "Amer Alanazi",
             "orcid": "https://orcid.org/0000-0002-7508-5913",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-7508-5913",
-              "https://orcid.org/0000-0002-1014-3780"
+              "https://orcid.org/0000-0002-7508-5913"
             ]
           },
           "institutions": [
@@ -840,11 +824,11 @@
         "currency": "USD",
         "value_usd": 2760
       },
-      "fwci": 13.8177,
+      "fwci": 13.7089,
       "has_fulltext": true,
       "cited_by_count": 115,
       "citation_normalized_percentile": {
-        "value": 0.99854921,
+        "value": 0.99854205,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1233,8 +1217,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "x_sdgs": [],
@@ -1263,8 +1247,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4320719921.pdf",
@@ -2294,8 +2278,7 @@
             "display_name": "Amer Alanazi",
             "orcid": "https://orcid.org/0000-0002-7508-5913",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-7508-5913",
-              "https://orcid.org/0000-0002-1014-3780"
+              "https://orcid.org/0000-0002-7508-5913"
             ]
           },
           "institutions": [],
@@ -2448,11 +2431,11 @@
         "currency": "USD",
         "value_usd": 4200
       },
-      "fwci": 8.5238,
+      "fwci": 8.4403,
       "has_fulltext": false,
       "cited_by_count": 52,
       "citation_normalized_percentile": {
-        "value": 0.99276066,
+        "value": 0.99252857,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2854,8 +2837,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 126,
@@ -4252,8 +4235,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "x_sdgs": [],
@@ -4267,8 +4250,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -4439,7 +4422,10 @@
           "author": {
             "id": "https://openalex.org/A5081528176",
             "display_name": "Sebastian Grohmann",
-            "orcid": "https://orcid.org/0000-0002-3222-3255"
+            "orcid": "https://orcid.org/0000-0002-3222-3255",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3222-3255"
+            ]
           },
           "institutions": [
             {
@@ -4476,7 +4462,10 @@
           "author": {
             "id": "https://openalex.org/A5047072062",
             "display_name": "Ralf Littke",
-            "orcid": "https://orcid.org/0000-0003-0421-8720"
+            "orcid": "https://orcid.org/0000-0003-0421-8720",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0421-8720"
+            ]
           },
           "institutions": [
             {
@@ -4513,7 +4502,10 @@
           "author": {
             "id": "https://openalex.org/A5079903196",
             "display_name": "Israa S. Abu‐Mahfouz",
-            "orcid": "https://orcid.org/0000-0001-5832-7354"
+            "orcid": "https://orcid.org/0000-0001-5832-7354",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5832-7354"
+            ]
           },
           "institutions": [
             {
@@ -4567,7 +4559,10 @@
           "author": {
             "id": "https://openalex.org/A5040073807",
             "display_name": "Garri Gaus",
-            "orcid": "https://orcid.org/0000-0002-5129-8922"
+            "orcid": "https://orcid.org/0000-0002-5129-8922",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5129-8922"
+            ]
           },
           "institutions": [
             {
@@ -4604,7 +4599,8 @@
           "author": {
             "id": "https://openalex.org/A5110358260",
             "display_name": "Jop Klaver",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -4641,7 +4637,8 @@
           "author": {
             "id": "https://openalex.org/A5088598118",
             "display_name": "Nicolai Thüns",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -4676,9 +4673,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5083593785",
-            "display_name": "P. Schulte",
-            "orcid": "https://orcid.org/0000-0001-8956-669X"
+            "id": "https://openalex.org/A5015004008",
+            "display_name": "Philipp Schulte",
+            "orcid": "https://orcid.org/0000-0001-8956-669X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8956-669X"
+            ]
           },
           "institutions": [
             {
@@ -4715,7 +4715,10 @@
           "author": {
             "id": "https://openalex.org/A5077066922",
             "display_name": "Tadeusz W. Patzek",
-            "orcid": "https://orcid.org/0000-0002-9389-7579"
+            "orcid": "https://orcid.org/0000-0002-9389-7579",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9389-7579"
+            ]
           },
           "institutions": [
             {
@@ -4752,7 +4755,10 @@
           "author": {
             "id": "https://openalex.org/A5058223208",
             "display_name": "Volker Vahrenkamp",
-            "orcid": "https://orcid.org/0000-0002-2182-7993"
+            "orcid": "https://orcid.org/0000-0002-2182-7993",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2182-7993"
+            ]
           },
           "institutions": [
             {
@@ -4800,11 +4806,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 2.5453,
+      "fwci": 2.5284,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.89793068,
+        "value": 0.89717925,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5292,8 +5298,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -5301,8 +5307,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -6036,8 +6042,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -6045,8 +6051,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 92,
@@ -6917,8 +6923,7 @@
             "display_name": "Amer Alanazi",
             "orcid": "https://orcid.org/0000-0002-7508-5913",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-7508-5913",
-              "https://orcid.org/0000-0002-1014-3780"
+              "https://orcid.org/0000-0002-7508-5913"
             ]
           },
           "institutions": [
@@ -7053,22 +7058,10 @@
               "lineage": [
                 "https://openalex.org/I199693650"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210087440",
-              "display_name": "Institute of Construction and Architecture of the Slovak Academy of Sciences",
-              "ror": "https://ror.org/006ghkj05",
-              "country_code": "SK",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I207624831",
-                "https://openalex.org/I4210087440"
-              ]
             }
           ],
           "countries": [
-            "SA",
-            "SK"
+            "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Saleh A. Bawazeer",
@@ -7081,9 +7074,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "College of Engineering and Architecture",
-              "institution_ids": [
-                "https://openalex.org/I4210087440"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Umm Al-Qura University",
@@ -7337,8 +7328,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 6,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [
         "https://openalex.org/A5103178727"
       ],
@@ -7355,11 +7346,11 @@
         "currency": "USD",
         "value_usd": 4500
       },
-      "fwci": 3.2784,
+      "fwci": 3.2463,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.93421436,
+        "value": 0.9334896,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7823,8 +7814,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -9092,8 +9083,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -9765,8 +9756,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -9774,8 +9765,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -10860,8 +10851,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -11609,7 +11600,10 @@
           "author": {
             "id": "https://openalex.org/A5079903196",
             "display_name": "Israa S. Abu‐Mahfouz",
-            "orcid": "https://orcid.org/0000-0001-5832-7354"
+            "orcid": "https://orcid.org/0000-0001-5832-7354",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5832-7354"
+            ]
           },
           "institutions": [
             {
@@ -11646,19 +11640,12 @@
           "author": {
             "id": "https://openalex.org/A5060752983",
             "display_name": "Regina Iakusheva",
-            "orcid": "https://orcid.org/0000-0002-0452-8991"
+            "orcid": "https://orcid.org/0000-0002-0452-8991",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0452-8991"
+            ]
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I4210091245",
-              "display_name": "Health First",
-              "ror": "https://ror.org/00cm7z053",
-              "country_code": "US",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I4210091245"
-              ]
-            },
             {
               "id": "https://openalex.org/I71920554",
               "display_name": "King Abdullah University of Science and Technology",
@@ -11671,8 +11658,7 @@
             }
           ],
           "countries": [
-            "SA",
-            "US"
+            "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Regina Iakusheva",
@@ -11690,9 +11676,7 @@
             },
             {
               "raw_affiliation_string": "Co-first author",
-              "institution_ids": [
-                "https://openalex.org/I4210091245"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -11701,7 +11685,10 @@
           "author": {
             "id": "https://openalex.org/A5061306034",
             "display_name": "Thomas Finkbeiner",
-            "orcid": "https://orcid.org/0000-0002-6137-6162"
+            "orcid": "https://orcid.org/0000-0002-6137-6162",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6137-6162"
+            ]
           },
           "institutions": [
             {
@@ -11738,7 +11725,10 @@
           "author": {
             "id": "https://openalex.org/A5011492064",
             "display_name": "Joe A. Cartwright",
-            "orcid": "https://orcid.org/0000-0003-4198-9719"
+            "orcid": "https://orcid.org/0000-0003-4198-9719",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4198-9719"
+            ]
           },
           "institutions": [
             {
@@ -11775,7 +11765,10 @@
           "author": {
             "id": "https://openalex.org/A5058223208",
             "display_name": "Volker Vahrenkamp",
-            "orcid": "https://orcid.org/0000-0002-2182-7993"
+            "orcid": "https://orcid.org/0000-0002-2182-7993",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2182-7993"
+            ]
           },
           "institutions": [
             {
@@ -11809,8 +11802,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 4,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5079903196"
       ],
@@ -11819,11 +11812,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3455,
+      "fwci": 2.3185,
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.87863647,
+        "value": 0.87680507,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12199,8 +12192,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "display_name": "Life in Land"
         }
       ],
       "x_sdgs": [],
@@ -12222,8 +12215,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -13012,7 +13005,10 @@
           "author": {
             "id": "https://openalex.org/A5079903196",
             "display_name": "Israa S. Abu‐Mahfouz",
-            "orcid": "https://orcid.org/0000-0001-5832-7354"
+            "orcid": "https://orcid.org/0000-0001-5832-7354",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5832-7354"
+            ]
           },
           "institutions": [
             {
@@ -13056,7 +13052,10 @@
           "author": {
             "id": "https://openalex.org/A5011492064",
             "display_name": "Joe A. Cartwright",
-            "orcid": "https://orcid.org/0000-0003-4198-9719"
+            "orcid": "https://orcid.org/0000-0003-4198-9719",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4198-9719"
+            ]
           },
           "institutions": [
             {
@@ -13100,7 +13099,10 @@
           "author": {
             "id": "https://openalex.org/A5019170902",
             "display_name": "J. H. Powell",
-            "orcid": "https://orcid.org/0000-0002-0071-2337"
+            "orcid": "https://orcid.org/0000-0002-0071-2337",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0071-2337"
+            ]
           },
           "institutions": [
             {
@@ -13146,19 +13148,12 @@
           "author": {
             "id": "https://openalex.org/A5074915204",
             "display_name": "Mohammad S. Abu‐Mahfouz",
-            "orcid": "https://orcid.org/0000-0003-4098-8693"
+            "orcid": "https://orcid.org/0000-0003-4098-8693",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4098-8693"
+            ]
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I4210127577",
-              "display_name": "Middlesex University Malta",
-              "ror": "https://ror.org/030ypay32",
-              "country_code": "MT",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210127577"
-              ]
-            },
             {
               "id": "https://openalex.org/I60488453",
               "display_name": "Middlesex University London",
@@ -13171,8 +13166,7 @@
             }
           ],
           "countries": [
-            "GB",
-            "MT"
+            "GB"
           ],
           "is_corresponding": false,
           "raw_author_name": "Mohammad S. Abu‐Mahfouz",
@@ -13185,7 +13179,6 @@
             {
               "raw_affiliation_string": "School of Health and Education Middlesex University  The Burroughs London NW4 4BT UK",
               "institution_ids": [
-                "https://openalex.org/I4210127577",
                 "https://openalex.org/I60488453"
               ]
             },
@@ -13202,7 +13195,10 @@
           "author": {
             "id": "https://openalex.org/A5053942951",
             "display_name": "Olaf G. Podlaha",
-            "orcid": "https://orcid.org/0009-0007-2476-7360"
+            "orcid": "https://orcid.org/0009-0007-2476-7360",
+            "observed_orcids": [
+              "https://orcid.org/0009-0007-2476-7360"
+            ]
           },
           "institutions": [
             {
@@ -13243,8 +13239,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 6,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [
         "https://openalex.org/A5079903196"
       ],
@@ -13261,11 +13257,11 @@
         "currency": "USD",
         "value_usd": 4050
       },
-      "fwci": 2.4118,
+      "fwci": 2.3842,
       "has_fulltext": true,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.88140038,
+        "value": 0.87957847,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13626,8 +13622,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6299999952316284
+          "score": 0.6299999952316284,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -13635,8 +13631,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4319785709.pdf"
@@ -15077,8 +15073,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -16467,8 +16463,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4313320240.pdf",
@@ -17678,8 +17674,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -18271,8 +18267,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -19022,11 +19018,20 @@
             "display_name": "Amer Alanazi",
             "orcid": "https://orcid.org/0000-0002-7508-5913",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-7508-5913",
-              "https://orcid.org/0000-0002-1014-3780"
+              "https://orcid.org/0000-0002-7508-5913"
             ]
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
@@ -19065,7 +19070,9 @@
             {
               "raw_affiliation_string": "KAUST Upstream Research Center, EXPEC-ARC, Saudi Aramco",
               "institution_ids": [
-                "https://openalex.org/I62856769"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769",
+                "https://openalex.org/I71920554"
               ]
             },
             {
@@ -19163,22 +19170,10 @@
               "lineage": [
                 "https://openalex.org/I199693650"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210087440",
-              "display_name": "Institute of Construction and Architecture of the Slovak Academy of Sciences",
-              "ror": "https://ror.org/006ghkj05",
-              "country_code": "SK",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I207624831",
-                "https://openalex.org/I4210087440"
-              ]
             }
           ],
           "countries": [
-            "SA",
-            "SK"
+            "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Saleh A. Bawazeer",
@@ -19190,9 +19185,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "College of Engineering and Architecture",
-              "institution_ids": [
-                "https://openalex.org/I4210087440"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Umm Al-Qura University",
@@ -19285,20 +19278,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": false,
@@ -19311,9 +19293,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences",
-              "institution_ids": [
-                "https://openalex.org/I4210118538"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
@@ -19603,12 +19583,13 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 6,
-      "institutions_distinct_count": 8,
+      "countries_distinct_count": 4,
+      "institutions_distinct_count": 7,
       "corresponding_author_ids": [
         "https://openalex.org/A5103178727"
       ],
       "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841",
         "https://openalex.org/I62856769",
         "https://openalex.org/I71920554"
       ],
@@ -19618,11 +19599,11 @@
         "value_usd": 4500
       },
       "apc_paid": null,
-      "fwci": 5.9781,
+      "fwci": 5.8933,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.97245151,
+        "value": 0.97145421,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19879,8 +19860,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 125,
@@ -20906,10 +20887,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5020772437",
-            "display_name": "Maria Ardila",
-            "orcid": null,
-            "observed_orcids": []
+            "id": "https://openalex.org/A5116126038",
+            "display_name": "Maria Ardila-Sanchez",
+            "orcid": "https://orcid.org/0000-0003-2939-5539",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2939-5539"
+            ]
           },
           "institutions": [
             {
@@ -20991,7 +20974,7 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 10.7973,
+      "fwci": 10.7936,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
@@ -21420,8 +21403,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "display_name": "Life in Land"
         }
       ],
       "x_sdgs": [],
@@ -21429,8 +21412,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -22999,8 +22982,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "x_sdgs": [],
@@ -23014,8 +22997,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -23808,8 +23791,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -23831,8 +23814,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -25075,8 +25058,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -25095,8 +25078,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4410202094.pdf",
@@ -25973,7 +25956,10 @@
           "author": {
             "id": "https://openalex.org/A5075429508",
             "display_name": "Amjed Hassan",
-            "orcid": "https://orcid.org/0000-0002-4487-6982"
+            "orcid": "https://orcid.org/0000-0002-4487-6982",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4487-6982"
+            ]
           },
           "institutions": [
             {
@@ -26010,7 +25996,10 @@
           "author": {
             "id": "https://openalex.org/A5085377966",
             "display_name": "Mahmoud Mohamed Elsayed",
-            "orcid": "https://orcid.org/0000-0002-8387-2810"
+            "orcid": "https://orcid.org/0000-0002-8387-2810",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8387-2810"
+            ]
           },
           "institutions": [
             {
@@ -26047,7 +26036,10 @@
           "author": {
             "id": "https://openalex.org/A5067756597",
             "display_name": "Ali Oshaish",
-            "orcid": "https://orcid.org/0009-0003-9238-4397"
+            "orcid": "https://orcid.org/0009-0003-9238-4397",
+            "observed_orcids": [
+              "https://orcid.org/0009-0003-9238-4397"
+            ]
           },
           "institutions": [
             {
@@ -26084,10 +26076,24 @@
           "author": {
             "id": "https://openalex.org/A5024055548",
             "display_name": "Salah Al-Ofi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I257179599",
+              "display_name": "Baker Hughes (United States)",
+              "ror": "https://ror.org/05ts6js78",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I257179599"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Salah Al-Ofi",
           "raw_affiliation_strings": [
@@ -26097,7 +26103,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Baker Hughes, Dhahran, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I257179599"
+              ]
             }
           ]
         },
@@ -26106,7 +26114,8 @@
           "author": {
             "id": null,
             "display_name": "Ammar El-Husseiny",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -26143,7 +26152,10 @@
           "author": {
             "id": "https://openalex.org/A5079903196",
             "display_name": "Israa S. Abu‐Mahfouz",
-            "orcid": "https://orcid.org/0000-0001-5832-7354"
+            "orcid": "https://orcid.org/0000-0001-5832-7354",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5832-7354"
+            ]
           },
           "institutions": [
             {
@@ -26180,7 +26192,10 @@
           "author": {
             "id": "https://openalex.org/A5049649985",
             "display_name": "MOHAMED A. MAHMOUD",
-            "orcid": "https://orcid.org/0000-0002-4395-9567"
+            "orcid": "https://orcid.org/0000-0002-4395-9567",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4395-9567"
+            ]
           },
           "institutions": [
             {
@@ -26217,7 +26232,10 @@
           "author": {
             "id": "https://openalex.org/A5039010638",
             "display_name": "Mohamed Omar Abouelresh",
-            "orcid": "https://orcid.org/0000-0002-4373-8713"
+            "orcid": "https://orcid.org/0000-0002-4373-8713",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4373-8713"
+            ]
           },
           "institutions": [
             {
@@ -26254,7 +26272,10 @@
           "author": {
             "id": "https://openalex.org/A5008145904",
             "display_name": "Hussein M. Attia",
-            "orcid": "https://orcid.org/0000-0002-6407-9251"
+            "orcid": "https://orcid.org/0000-0002-6407-9251",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6407-9251"
+            ]
           },
           "institutions": [
             {
@@ -26288,8 +26309,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5075429508"
       ],
@@ -26302,11 +26323,11 @@
         "value_usd": 4270
       },
       "apc_paid": null,
-      "fwci": 1.3202,
+      "fwci": 1.2985,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.74381651,
+        "value": 0.73940326,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26634,8 +26655,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -27517,8 +27538,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -27537,8 +27558,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -29078,8 +29099,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -29087,8 +29108,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -29228,7 +29249,8 @@
           "author": {
             "id": "https://openalex.org/A5094009312",
             "display_name": "Samer Aljurf",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -29265,7 +29287,8 @@
           "author": {
             "id": "https://openalex.org/A5094009313",
             "display_name": "Abdelaziz Elyasa",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -29302,7 +29325,10 @@
           "author": {
             "id": "https://openalex.org/A5075429508",
             "display_name": "Amjed Hassan",
-            "orcid": "https://orcid.org/0000-0002-4487-6982"
+            "orcid": "https://orcid.org/0000-0002-4487-6982",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4487-6982"
+            ]
           },
           "institutions": [
             {
@@ -29337,9 +29363,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5104249407",
-            "display_name": "A. A. El-Husseiny",
-            "orcid": "https://orcid.org/0000-0001-5762-6109"
+            "id": "https://openalex.org/A5064720324",
+            "display_name": "Ammar El‐Husseiny",
+            "orcid": "https://orcid.org/0000-0001-5762-6109",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5762-6109"
+            ]
           },
           "institutions": [
             {
@@ -29376,7 +29405,10 @@
           "author": {
             "id": "https://openalex.org/A5079903196",
             "display_name": "Israa S. Abu‐Mahfouz",
-            "orcid": "https://orcid.org/0000-0001-5832-7354"
+            "orcid": "https://orcid.org/0000-0001-5832-7354",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5832-7354"
+            ]
           },
           "institutions": [
             {
@@ -29413,7 +29445,10 @@
           "author": {
             "id": "https://openalex.org/A5049649985",
             "display_name": "MOHAMED A. MAHMOUD",
-            "orcid": "https://orcid.org/0000-0002-4395-9567"
+            "orcid": "https://orcid.org/0000-0002-4395-9567",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4395-9567"
+            ]
           },
           "institutions": [
             {
@@ -29455,11 +29490,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 10.9935,
+      "fwci": 10.8839,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.99045781,
+        "value": 0.99033505,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -29823,8 +29858,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "x_sdgs": [],
@@ -29832,8 +29867,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -31181,8 +31216,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -32035,20 +32070,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": true,
@@ -32061,9 +32085,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Center of Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geoscience",
-              "institution_ids": [
-                "https://openalex.org/I4210118538"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "King Fahd University of Petroleum and Minerals (KFUPM)",
@@ -32075,15 +32097,14 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5059738250",
         "https://openalex.org/A5079903196"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I134085113",
-        "https://openalex.org/I4210118538"
+        "https://openalex.org/I134085113"
       ],
       "apc_list": {
         "value": 4500,
@@ -32091,11 +32112,11 @@
         "value_usd": 4500
       },
       "apc_paid": null,
-      "fwci": 1.7884,
+      "fwci": 1.7754,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.82435438,
+        "value": 0.82282782,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32381,8 +32402,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 74,
@@ -33629,8 +33650,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Life in Land"
         }
       ],
       "x_sdgs": [],
@@ -33652,8 +33673,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -35057,8 +35078,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -35077,8 +35098,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -36418,8 +36439,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -37867,8 +37888,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -37902,8 +37923,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -39072,8 +39093,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.6499999761581421
+          "score": 0.6499999761581421,
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -39100,8 +39121,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -40477,8 +40498,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -41560,8 +41581,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -41658,6 +41679,7 @@
             "cwts-core",
             "doaj",
             "jufo-1",
+            "ki-jl-1",
             "norway-1"
           ],
           "host_organization": "https://openalex.org/P4310320006",
@@ -41696,7 +41718,8 @@
           "author": {
             "id": "https://openalex.org/A5116492154",
             "display_name": "Ali Al-Eid",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -41745,7 +41768,10 @@
           "author": {
             "id": "https://openalex.org/A5079903196",
             "display_name": "Israa S. Abu‐Mahfouz",
-            "orcid": "https://orcid.org/0000-0001-5832-7354"
+            "orcid": "https://orcid.org/0000-0001-5832-7354",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5832-7354"
+            ]
           },
           "institutions": [
             {
@@ -41794,7 +41820,8 @@
           "author": {
             "id": "https://openalex.org/A5065446023",
             "display_name": "Bandar I. Ghassal",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -41834,6 +41861,7 @@
             {
               "raw_affiliation_string": "Saudi Aramco Oil Company",
               "institution_ids": [
+                "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
             },
@@ -41865,11 +41893,11 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 0.7347,
+      "fwci": 0.7102,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.59828061,
+        "value": 0.58906645,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42159,6 +42187,7 @@
               "cwts-core",
               "doaj",
               "jufo-1",
+              "ki-jl-1",
               "norway-1"
             ],
             "host_organization": "https://openalex.org/P4310320006",
@@ -42287,6 +42316,7 @@
             "cwts-core",
             "doaj",
             "jufo-1",
+            "ki-jl-1",
             "norway-1"
           ],
           "host_organization": "https://openalex.org/P4310320006",
@@ -42310,8 +42340,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -42333,8 +42363,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -43371,8 +43401,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -43598,8 +43628,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5051304682",
-            "display_name": "Ammar Ammar H. El-Husseiny",
+            "id": "https://openalex.org/A5064720324",
+            "display_name": "Ammar El‐Husseiny",
             "orcid": "https://orcid.org/0000-0001-5762-6109",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5762-6109"
@@ -43692,21 +43722,8 @@
               "https://orcid.org/0000-0002-3681-7464"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Septriandi Chan",
           "raw_affiliation_strings": [
@@ -43716,9 +43733,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "National Petroleum Technology Company, NESR, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -43782,11 +43797,11 @@
         "currency": "USD",
         "value_usd": 2460
       },
-      "fwci": 4.7258,
+      "fwci": 4.6946,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.93763186,
+        "value": 0.93711374,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -44271,8 +44286,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -45590,8 +45605,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -46519,20 +46534,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": false,
@@ -46545,8 +46549,7 @@
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals (KFUPM), Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I134085113",
-                "https://openalex.org/I4210118538"
+                "https://openalex.org/I134085113"
               ]
             }
           ]
@@ -46571,20 +46574,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": true,
@@ -46598,8 +46590,7 @@
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research (CIPR), College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals (KFUPM), Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I134085113",
-                "https://openalex.org/I4210118538"
+                "https://openalex.org/I134085113"
               ]
             },
             {
@@ -46612,15 +46603,14 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5074883327",
         "https://openalex.org/A5129083680"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I134085113",
-        "https://openalex.org/I4210118538"
+        "https://openalex.org/I134085113"
       ],
       "apc_list": {
         "value": 4330,
@@ -46628,11 +46618,11 @@
         "value_usd": 4330
       },
       "apc_paid": null,
-      "fwci": 3.2694,
+      "fwci": 3.2366,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.91041083,
+        "value": 0.90935088,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -46890,8 +46880,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -47800,8 +47790,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -47809,8 +47799,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -49201,8 +49191,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -49210,8 +49200,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -49810,8 +49800,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -50400,8 +50390,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -51083,8 +51073,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5051304682",
-            "display_name": "Ammar Ammar H. El-Husseiny",
+            "id": "https://openalex.org/A5064720324",
+            "display_name": "Ammar El‐Husseiny",
             "orcid": "https://orcid.org/0000-0001-5762-6109",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5762-6109"
@@ -51288,11 +51278,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.9993,
+      "fwci": 5.9965,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.96955603,
+        "value": 0.96955173,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -51530,8 +51520,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -52972,8 +52962,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -52981,8 +52971,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -54417,8 +54407,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4310398141.pdf",
@@ -55807,8 +55797,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -55837,8 +55827,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -57256,8 +57246,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -58514,8 +58504,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "x_sdgs": [],
@@ -58523,8 +58513,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -59560,8 +59550,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -59665,6 +59655,7 @@
           "listed_in": [
             "cwts-core",
             "jufo-1",
+            "ki-jl-1",
             "norway-1"
           ],
           "host_organization": "https://openalex.org/P4310320006",
@@ -59701,7 +59692,8 @@
           "author": {
             "id": "https://openalex.org/A5106384890",
             "display_name": "Stewart Peter Matovu",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -59713,20 +59705,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": false,
@@ -59739,9 +59720,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering & Geosciences",
-              "institution_ids": [
-                "https://openalex.org/I4210118538"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals",
@@ -59756,7 +59735,10 @@
           "author": {
             "id": "https://openalex.org/A5014644075",
             "display_name": "Talal Al Shafloot",
-            "orcid": "https://orcid.org/0000-0001-9515-355X"
+            "orcid": "https://orcid.org/0000-0001-9515-355X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9515-355X"
+            ]
           },
           "institutions": [
             {
@@ -59768,20 +59750,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": true,
@@ -59794,9 +59765,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering & Geosciences",
-              "institution_ids": [
-                "https://openalex.org/I4210118538"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals",
@@ -59811,7 +59780,10 @@
           "author": {
             "id": "https://openalex.org/A5068231423",
             "display_name": "Arshad Raza",
-            "orcid": "https://orcid.org/0000-0001-7706-1002"
+            "orcid": "https://orcid.org/0000-0001-7706-1002",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7706-1002"
+            ]
           },
           "institutions": [
             {
@@ -59823,20 +59795,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": true,
@@ -59849,9 +59810,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering & Geosciences",
-              "institution_ids": [
-                "https://openalex.org/I4210118538"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals",
@@ -59866,7 +59825,10 @@
           "author": {
             "id": "https://openalex.org/A5049649985",
             "display_name": "MOHAMED A. MAHMOUD",
-            "orcid": "https://orcid.org/0000-0002-4395-9567"
+            "orcid": "https://orcid.org/0000-0002-4395-9567",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4395-9567"
+            ]
           },
           "institutions": [
             {
@@ -59878,20 +59840,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": false,
@@ -59904,9 +59855,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering & Geosciences",
-              "institution_ids": [
-                "https://openalex.org/I4210118538"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals",
@@ -59921,7 +59870,10 @@
           "author": {
             "id": "https://openalex.org/A5075429508",
             "display_name": "Amjed Hassan",
-            "orcid": "https://orcid.org/0000-0002-4487-6982"
+            "orcid": "https://orcid.org/0000-0002-4487-6982",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4487-6982"
+            ]
           },
           "institutions": [
             {
@@ -59933,20 +59885,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": false,
@@ -59959,9 +59900,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering & Geosciences",
-              "institution_ids": [
-                "https://openalex.org/I4210118538"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals",
@@ -59976,7 +59915,10 @@
           "author": {
             "id": "https://openalex.org/A5023804988",
             "display_name": "Sulaiman A. Alarifi",
-            "orcid": "https://orcid.org/0000-0003-3643-4014"
+            "orcid": "https://orcid.org/0000-0003-3643-4014",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3643-4014"
+            ]
           },
           "institutions": [
             {
@@ -59988,20 +59930,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": false,
@@ -60014,9 +59945,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering & Geosciences",
-              "institution_ids": [
-                "https://openalex.org/I4210118538"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals",
@@ -60031,7 +59960,10 @@
           "author": {
             "id": "https://openalex.org/A5079903196",
             "display_name": "Israa S. Abu‐Mahfouz",
-            "orcid": "https://orcid.org/0000-0001-5832-7354"
+            "orcid": "https://orcid.org/0000-0001-5832-7354",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5832-7354"
+            ]
           },
           "institutions": [
             {
@@ -60043,20 +59975,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": false,
@@ -60069,9 +59990,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "College of Petroleum Engineering & Geosciences",
-              "institution_ids": [
-                "https://openalex.org/I4210118538"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals",
@@ -60083,15 +60002,14 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5014644075",
         "https://openalex.org/A5068231423"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I134085113",
-        "https://openalex.org/I4210118538"
+        "https://openalex.org/I134085113"
       ],
       "apc_list": {
         "value": 4500,
@@ -60103,16 +60021,16 @@
         "currency": "USD",
         "value_usd": 4500
       },
-      "fwci": 0.5984,
+      "fwci": 0.5802,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.60007928,
+        "value": 0.59167359,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 96
       },
       "biblio": {
@@ -60328,6 +60246,7 @@
             "listed_in": [
               "cwts-core",
               "jufo-1",
+              "ki-jl-1",
               "norway-1"
             ],
             "host_organization": "https://openalex.org/P4310320006",
@@ -60368,6 +60287,7 @@
           "listed_in": [
             "cwts-core",
             "jufo-1",
+            "ki-jl-1",
             "norway-1"
           ],
           "host_organization": "https://openalex.org/P4310320006",
@@ -60391,8 +60311,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "x_sdgs": [],
@@ -60406,8 +60326,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -61931,8 +61851,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415216698.pdf",
@@ -63150,8 +63070,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -63955,8 +63875,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -65191,8 +65111,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -66465,8 +66385,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -67698,8 +67618,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4293014346.pdf",
@@ -68571,8 +68491,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -69547,7 +69467,10 @@
           "author": {
             "id": "https://openalex.org/A5030870212",
             "display_name": "Muhammad Usman",
-            "orcid": "https://orcid.org/0000-0002-0477-9854"
+            "orcid": "https://orcid.org/0000-0002-0477-9854",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0477-9854"
+            ]
           },
           "institutions": [
             {
@@ -69584,7 +69507,10 @@
           "author": {
             "id": "https://openalex.org/A5081528176",
             "display_name": "Sebastian Grohmann",
-            "orcid": "https://orcid.org/0000-0002-3222-3255"
+            "orcid": "https://orcid.org/0000-0002-3222-3255",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3222-3255"
+            ]
           },
           "institutions": [
             {
@@ -69621,7 +69547,10 @@
           "author": {
             "id": "https://openalex.org/A5079903196",
             "display_name": "Israa S. Abu‐Mahfouz",
-            "orcid": "https://orcid.org/0000-0001-5832-7354"
+            "orcid": "https://orcid.org/0000-0001-5832-7354",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5832-7354"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -69636,34 +69565,13 @@
           "author": {
             "id": "https://openalex.org/A5058223208",
             "display_name": "Volker Vahrenkamp",
-            "orcid": "https://orcid.org/0000-0002-2182-7993"
+            "orcid": "https://orcid.org/0000-0002-2182-7993",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2182-7993"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210095435",
-              "display_name": "King Abdullah Petroleum Studies and Research Center",
-              "ror": "https://ror.org/00qd31w11",
-              "country_code": "SA",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210095435"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210134674",
-              "display_name": "Japan Petroleum Energy Center",
-              "ror": "https://ror.org/03jfdh841",
-              "country_code": "JP",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I4210134674"
-              ]
-            }
-          ],
-          "countries": [
-            "JP",
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Volker Vahrenkamp",
           "raw_affiliation_strings": [
@@ -69673,10 +69581,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Energy Research and Petroleum Engineering, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210095435",
-                "https://openalex.org/I4210134674"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -69685,7 +69590,10 @@
           "author": {
             "id": "https://openalex.org/A5047072062",
             "display_name": "Ralf Littke",
-            "orcid": "https://orcid.org/0000-0003-0421-8720"
+            "orcid": "https://orcid.org/0000-0003-0421-8720",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0421-8720"
+            ]
           },
           "institutions": [
             {
@@ -69719,8 +69627,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 4,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5030870212"
       ],
@@ -69997,8 +69905,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -70006,8 +69914,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -70420,8 +70328,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -71307,7 +71215,10 @@
           "author": {
             "id": "https://openalex.org/A5079903196",
             "display_name": "Israa S. Abu‐Mahfouz",
-            "orcid": "https://orcid.org/0000-0001-5832-7354"
+            "orcid": "https://orcid.org/0000-0001-5832-7354",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5832-7354"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -71322,7 +71233,10 @@
           "author": {
             "id": "https://openalex.org/A5008682043",
             "display_name": "Akbar Nugroho Wicaksono",
-            "orcid": "https://orcid.org/0009-0009-8782-1533"
+            "orcid": "https://orcid.org/0009-0009-8782-1533",
+            "observed_orcids": [
+              "https://orcid.org/0009-0009-8782-1533"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -71337,7 +71251,10 @@
           "author": {
             "id": "https://openalex.org/A5087579258",
             "display_name": "Erdem Idiz",
-            "orcid": "https://orcid.org/0000-0001-6707-6139"
+            "orcid": "https://orcid.org/0000-0001-6707-6139",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6707-6139"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -71352,7 +71269,10 @@
           "author": {
             "id": "https://openalex.org/A5011492064",
             "display_name": "Joe A. Cartwright",
-            "orcid": "https://orcid.org/0000-0003-4198-9719"
+            "orcid": "https://orcid.org/0000-0003-4198-9719",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4198-9719"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -71367,7 +71287,8 @@
           "author": {
             "id": "https://openalex.org/A5105531005",
             "display_name": "Carlos J. Santamarina",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -71411,34 +71332,13 @@
           "author": {
             "id": "https://openalex.org/A5058223208",
             "display_name": "Volker Vahrenkamp",
-            "orcid": "https://orcid.org/0000-0002-2182-7993"
+            "orcid": "https://orcid.org/0000-0002-2182-7993",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2182-7993"
+            ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210095435",
-              "display_name": "King Abdullah Petroleum Studies and Research Center",
-              "ror": "https://ror.org/00qd31w11",
-              "country_code": "SA",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210095435"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210134674",
-              "display_name": "Japan Petroleum Energy Center",
-              "ror": "https://ror.org/03jfdh841",
-              "country_code": "JP",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I4210134674"
-              ]
-            }
-          ],
-          "countries": [
-            "JP",
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Volker Vahrenkamp",
           "raw_affiliation_strings": [
@@ -71449,23 +71349,18 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Energy Research and Petroleum Engineering, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210095435",
-                "https://openalex.org/I4210134674"
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Energy Research and Petroleum Engineering",
-              "institution_ids": [
-                "https://openalex.org/I4210134674"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5079903196"
       ],
@@ -71780,8 +71675,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -72343,8 +72238,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "x_sdgs": [],
@@ -72352,8 +72247,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -73269,8 +73164,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -73278,8 +73173,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -73924,8 +73819,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -73933,8 +73828,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -74872,8 +74767,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -76039,8 +75934,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 71,
@@ -76478,8 +76373,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -76543,7 +76438,8 @@
           "author": {
             "id": "https://openalex.org/A5020095913",
             "display_name": "Ahmed Alshaibani",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -76555,20 +76451,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": false,
@@ -76581,8 +76466,7 @@
             {
               "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I134085113",
-                "https://openalex.org/I4210118538"
+                "https://openalex.org/I134085113"
               ]
             }
           ]
@@ -76592,7 +76476,10 @@
           "author": {
             "id": "https://openalex.org/A5079903196",
             "display_name": "Israa S. Abu‐Mahfouz",
-            "orcid": "https://orcid.org/0000-0001-5832-7354"
+            "orcid": "https://orcid.org/0000-0001-5832-7354",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5832-7354"
+            ]
           },
           "institutions": [
             {
@@ -76604,20 +76491,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": false,
@@ -76630,8 +76506,7 @@
             {
               "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I134085113",
-                "https://openalex.org/I4210118538"
+                "https://openalex.org/I134085113"
               ]
             }
           ]
@@ -76641,7 +76516,10 @@
           "author": {
             "id": "https://openalex.org/A5077467560",
             "display_name": "Sherif M. Hanafy",
-            "orcid": "https://orcid.org/0000-0003-4568-2941"
+            "orcid": "https://orcid.org/0000-0003-4568-2941",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4568-2941"
+            ]
           },
           "institutions": [
             {
@@ -76653,20 +76531,9 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
             }
           ],
           "countries": [
-            "ID",
             "SA"
           ],
           "is_corresponding": false,
@@ -76679,25 +76546,26 @@
             {
               "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum and Minerals, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I134085113",
-                "https://openalex.org/I4210118538"
+                "https://openalex.org/I134085113"
               ]
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.19862406,
+        "value": 0.19233297,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -76990,8 +76858,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -78381,8 +78249,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -79859,8 +79727,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -81329,8 +81197,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -82495,8 +82363,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -82975,8 +82843,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -83521,18 +83389,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I2800952698",
-              "display_name": "Saudi Aramco Medical Services Organization",
-              "ror": "https://ror.org/04k820v98",
-              "country_code": "SA",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I2799853436",
-                "https://openalex.org/I2800952698",
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -83556,7 +83412,6 @@
             {
               "raw_affiliation_string": "Saudi Aramco, Dhahran, Eastern Province, 31311, SA",
               "institution_ids": [
-                "https://openalex.org/I2800952698",
                 "https://openalex.org/I4210143841"
               ]
             }
@@ -83571,18 +83426,6 @@
             "observed_orcids": []
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I2800952698",
-              "display_name": "Saudi Aramco Medical Services Organization",
-              "ror": "https://ror.org/04k820v98",
-              "country_code": "SA",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I2799853436",
-                "https://openalex.org/I2800952698",
-                "https://openalex.org/I4210143841"
-              ]
-            },
             {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
@@ -83607,7 +83450,6 @@
             {
               "raw_affiliation_string": "Saudi Aramco, Dhahran, Eastern Province, 31311, SA",
               "institution_ids": [
-                "https://openalex.org/I2800952698",
                 "https://openalex.org/I4210143841"
               ]
             }
@@ -83656,12 +83498,11 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5060000314"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I2800952698",
         "https://openalex.org/I4210143841"
       ],
       "apc_list": {
@@ -83674,7 +83515,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13367934,
+        "value": 0.13312542,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -84029,8 +83870,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -85632,8 +85473,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.4069851338863373
+          "score": 0.4069851338863373,
+          "display_name": "Life in Land"
         }
       ],
       "x_sdgs": [],
@@ -85647,8 +85488,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -85920,8 +85761,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5104249407",
-            "display_name": "A. A. El-Husseiny",
+            "id": "https://openalex.org/A5064720324",
+            "display_name": "Ammar El‐Husseiny",
             "orcid": "https://orcid.org/0000-0001-5762-6109",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5762-6109"
@@ -86117,7 +85958,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13116429,
+        "value": 0.13037475,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -86505,8 +86346,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -87667,10 +87508,12 @@
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5073415508",
-            "display_name": "Adamu Kimayim",
-            "orcid": null,
-            "observed_orcids": []
+            "id": "https://openalex.org/A5106908772",
+            "display_name": "Adamu Kimayim Gaduwang",
+            "orcid": "https://orcid.org/0009-0009-8749-785X",
+            "observed_orcids": [
+              "https://orcid.org/0009-0009-8749-785X"
+            ]
           },
           "institutions": [
             {
@@ -87705,8 +87548,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5120438152",
-            "display_name": "Bassam S. Tawabini",
+            "id": "https://openalex.org/A5074883327",
+            "display_name": "Bassam Tawabini",
             "orcid": "https://orcid.org/0000-0002-0096-2723",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0096-2723"
@@ -87832,8 +87675,8 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
-        "https://openalex.org/A5073415508",
-        "https://openalex.org/A5120438152"
+        "https://openalex.org/A5074883327",
+        "https://openalex.org/A5106908772"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113"
@@ -88167,8 +88010,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -89271,8 +89114,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -90357,8 +90200,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.6702041029930115
+          "score": 0.6702041029930115,
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -90372,8 +90215,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -91720,8 +91563,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 119,
@@ -93127,8 +92970,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -94042,8 +93885,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5051304682",
-            "display_name": "Ammar Ammar H. El-Husseiny",
+            "id": "https://openalex.org/A5064720324",
+            "display_name": "Ammar El‐Husseiny",
             "orcid": "https://orcid.org/0000-0001-5762-6109",
             "observed_orcids": [
               "https://orcid.org/0000-0001-5762-6109"
@@ -94150,7 +93993,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.53219439,
+        "value": 0.52123603,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -94436,8 +94279,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 71,
@@ -95951,8 +95794,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.48193252086639404
+          "score": 0.48193252086639404,
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -95986,8 +95829,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7171327959.pdf",
@@ -97436,8 +97279,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7171831159.pdf",
@@ -98804,8 +98647,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8564205765724182
+          "score": 0.8564205765724182,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -98824,8 +98667,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7203874943.pdf",
@@ -100205,8 +100048,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7203890155.pdf",
@@ -101222,8 +101065,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6479591727256775
+          "score": 0.6479591727256775,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -101237,8 +101080,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
