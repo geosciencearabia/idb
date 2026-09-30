@@ -633,11 +633,11 @@
         "value_usd": 3670
       },
       "apc_paid": null,
-      "fwci": 3.4226,
+      "fwci": 3.4125,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.93648961,
+        "value": 0.93618934,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -810,9 +810,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5600000023841858,
           "id": "https://metadata.un.org/sdg/10",
-          "display_name": "Reduced inequalities"
+          "display_name": "Reduced inequalities",
+          "score": 0.5600000023841858
         }
       ],
       "x_sdgs": [],
@@ -820,8 +820,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -856,7 +856,6 @@
         "https://openalex.org/W3166111822",
         "https://openalex.org/W3183994952",
         "https://openalex.org/W3197308578",
-        "https://openalex.org/W3205927194",
         "https://openalex.org/W3210813904",
         "https://openalex.org/W4225370476",
         "https://openalex.org/W4281565761",
@@ -871,6 +870,7 @@
         "https://openalex.org/W4323904364",
         "https://openalex.org/W4392059653",
         "https://openalex.org/W4398251086",
+        "https://openalex.org/W4408489371",
         "https://openalex.org/W6639824700",
         "https://openalex.org/W6680598519",
         "https://openalex.org/W6720006811",
@@ -906,7 +906,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-23T09:40:40.371523",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -953,7 +953,8 @@
       "type": "conference-paper",
       "indexed_in": [
         "arxiv",
-        "crossref"
+        "crossref",
+        "datacite"
       ],
       "open_access": {
         "is_oa": true,
@@ -1130,11 +1131,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 20.4434,
+      "fwci": 20.447,
       "has_fulltext": false,
       "cited_by_count": 60,
       "citation_normalized_percentile": {
-        "value": 0.99884332,
+        "value": 0.9988432,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1439,7 +1440,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 3,
       "locations": [
         {
           "id": "doi:10.2523/iptc-19693-ms",
@@ -1500,6 +1501,38 @@
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "text"
+        },
+        {
+          "id": "doi:10.48550/arxiv.2001.10156",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.48550/arxiv.2001.10156",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400194",
+            "display_name": "arXiv (Cornell University)",
+            "issn_l": "2331-8422",
+            "issn": [
+              "2331-8422"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I205783295",
+            "host_organization_name": "Cornell University",
+            "host_organization_lineage": [
+              "https://openalex.org/I205783295"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "article-journal"
         }
       ],
       "best_oa_location": {
@@ -1536,9 +1569,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7099999785423279,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7099999785423279
         }
       ],
       "x_sdgs": [],
@@ -1546,8 +1579,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -2170,7 +2203,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-26T08:19:03.415552",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2955,8 +2988,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -4321,9 +4354,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/8",
-          "display_name": "Decent work and economic growth"
+          "display_name": "Decent work and economic growth",
+          "score": 0.4399999976158142
         }
       ],
       "x_sdgs": [],
@@ -4337,8 +4370,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -4956,8 +4989,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -5503,12 +5536,10 @@
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5101867027",
-            "display_name": "Xin Ju",
-            "orcid": "https://orcid.org/0000-0003-2742-3719",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-2742-3719"
-            ]
+            "id": null,
+            "display_name": "Ju, Xin",
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -5957,9 +5988,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/10",
-          "display_name": "Reduced inequalities"
+          "display_name": "Reduced inequalities",
+          "score": 0.4300000071525574
         }
       ],
       "x_sdgs": [],
@@ -5967,8 +5998,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6426,7 +6457,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6888,8 +6919,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -7567,8 +7598,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,

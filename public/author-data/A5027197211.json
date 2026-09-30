@@ -884,8 +884,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -1722,8 +1722,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -3240,8 +3240,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -3855,8 +3855,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 74,
@@ -5192,8 +5192,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 90,
@@ -6231,8 +6231,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
@@ -7032,8 +7032,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -8356,8 +8356,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -9068,8 +9068,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -9275,7 +9275,10 @@
           "author": {
             "id": "https://openalex.org/A5057087796",
             "display_name": "Abubakar Isah",
-            "orcid": "https://orcid.org/0000-0002-8926-7697"
+            "orcid": "https://orcid.org/0000-0002-8926-7697",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8926-7697"
+            ]
           },
           "institutions": [
             {
@@ -9311,8 +9314,11 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5049649985",
-            "display_name": "MOHAMED A. MAHMOUD",
-            "orcid": "https://orcid.org/0000-0002-4395-9567"
+            "display_name": "Mohamed Mahmoud",
+            "orcid": "https://orcid.org/0000-0002-4395-9567",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4395-9567"
+            ]
           },
           "institutions": [
             {
@@ -9349,7 +9355,10 @@
           "author": {
             "id": "https://openalex.org/A5002974432",
             "display_name": "Murtada Saleh Aljawad",
-            "orcid": "https://orcid.org/0000-0002-3540-6807"
+            "orcid": "https://orcid.org/0000-0002-3540-6807",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3540-6807"
+            ]
           },
           "institutions": [
             {
@@ -9385,8 +9394,11 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5073305973",
-            "display_name": "Muhammad Maaz Arif",
-            "orcid": "https://orcid.org/0000-0001-7035-6000"
+            "display_name": "Muhammad Arif",
+            "orcid": "https://orcid.org/0000-0001-7035-6000",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7035-6000"
+            ]
           },
           "institutions": [
             {
@@ -9423,7 +9435,10 @@
           "author": {
             "id": "https://openalex.org/A5011150776",
             "display_name": "Syed Rizwanullah Hussaini",
-            "orcid": "https://orcid.org/0000-0001-7371-1522"
+            "orcid": "https://orcid.org/0000-0001-7371-1522",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7371-1522"
+            ]
           },
           "institutions": [
             {
@@ -9460,7 +9475,10 @@
           "author": {
             "id": "https://openalex.org/A5027197211",
             "display_name": "Abduljamiu Olalekan Amao",
-            "orcid": "https://orcid.org/0000-0001-8203-851X"
+            "orcid": "https://orcid.org/0000-0001-8203-851X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8203-851X"
+            ]
           },
           "institutions": [
             {
@@ -9497,7 +9515,10 @@
           "author": {
             "id": "https://openalex.org/A5068231423",
             "display_name": "Arshad Raza",
-            "orcid": "https://orcid.org/0000-0001-7706-1002"
+            "orcid": "https://orcid.org/0000-0001-7706-1002",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7706-1002"
+            ]
           },
           "institutions": [
             {
@@ -9534,7 +9555,10 @@
           "author": {
             "id": "https://openalex.org/A5084940954",
             "display_name": "Muhammad Shahzad Kamal",
-            "orcid": "https://orcid.org/0000-0003-2359-836X"
+            "orcid": "https://orcid.org/0000-0003-2359-836X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2359-836X"
+            ]
           },
           "institutions": [
             {
@@ -9587,11 +9611,11 @@
         "currency": "USD",
         "value_usd": 4140
       },
-      "fwci": 3.361,
+      "fwci": 3.4125,
       "has_fulltext": false,
-      "cited_by_count": 27,
+      "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.93358192,
+        "value": 0.93567552,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9981,8 +10005,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 113,
@@ -10746,14 +10770,14 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2025,
           "cited_by_count": 19
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10981,12 +11005,10 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5053747503",
-            "display_name": "Bandar Alotaibi",
-            "orcid": "https://orcid.org/0000-0001-9956-2027",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-9956-2027"
-            ]
+            "id": null,
+            "display_name": "Bandar Al-Otaibi",
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -11081,11 +11103,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 3.4221,
+      "fwci": 3.4004,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.93925644,
+        "value": 0.93874459,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11316,8 +11338,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 125,
@@ -11475,7 +11497,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11666,13 +11688,10 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5077774746",
-            "display_name": "Mohammed Umar",
-            "orcid": "https://orcid.org/0000-0003-2462-1824",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-2462-1824",
-              "https://orcid.org/0009-0009-7550-9286"
-            ]
+            "id": null,
+            "display_name": "Mustapha Umar",
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -11759,11 +11778,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.414,
+      "fwci": 3.3995,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.93309449,
+        "value": 0.93279594,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11989,8 +12008,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -12913,7 +12932,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13664,8 +13683,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -14111,8 +14130,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15195,11 +15214,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 3.4478,
+      "fwci": 3.4474,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.93960744,
+        "value": 0.93963657,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15595,8 +15614,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 95,
@@ -15732,7 +15751,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16327,8 +16346,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 100,
@@ -17249,8 +17268,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3025937655.pdf",
@@ -18628,8 +18647,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -19029,11 +19048,11 @@
         "value_usd": 2710
       },
       "apc_paid": null,
-      "fwci": 2.2485,
+      "fwci": 2.2478,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.87201518,
+        "value": 0.87196016,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19299,8 +19318,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -19379,7 +19398,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20005,8 +20024,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -20739,8 +20758,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -21511,8 +21530,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4292342220.pdf",
@@ -22748,8 +22767,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -23603,12 +23622,10 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5064466690",
-            "display_name": "Muhammad Azzam Ismail",
-            "orcid": "https://orcid.org/0000-0002-5341-7374",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-5341-7374"
-            ]
+            "id": null,
+            "display_name": "Muhammad A. Ismail",
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -24148,11 +24165,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 4.8481,
+      "fwci": 4.8218,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.96243868,
+        "value": 0.96192751,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24445,8 +24462,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 116,
@@ -24599,7 +24616,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25251,8 +25268,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 95,
@@ -26159,8 +26176,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -26887,8 +26904,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -28679,8 +28696,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 130,
@@ -29634,8 +29651,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -30781,8 +30798,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -32289,8 +32306,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4365516011.pdf",
@@ -33856,8 +33873,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -34546,8 +34563,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -35378,8 +35395,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -36502,8 +36519,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4307414375.pdf",
@@ -38021,8 +38038,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -39233,8 +39250,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -40467,7 +40484,7 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5109416326",
+            "id": null,
             "display_name": "Abubakar Yusuf",
             "orcid": null,
             "observed_orcids": []
@@ -40738,11 +40755,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 2.8948,
+      "fwci": 2.8653,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.91007045,
+        "value": 0.90920467,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -40985,8 +41002,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 150,
@@ -41169,7 +41186,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2024-11-28T00:00:00"
     },
     {
@@ -41930,8 +41947,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4309609812.pdf",
@@ -43212,11 +43229,11 @@
         "currency": "USD",
         "value_usd": 2590
       },
-      "fwci": 1.5523,
+      "fwci": 1.5489,
       "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.79493015,
+        "value": 0.79444703,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43644,8 +43661,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4392918132.pdf",
@@ -44285,7 +44302,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -45048,8 +45065,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -46417,8 +46434,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -47931,8 +47948,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -48648,8 +48665,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -49227,8 +49244,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 132,
@@ -50967,8 +50984,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -51883,8 +51900,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387363867.pdf",
@@ -53022,8 +53039,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -54532,8 +54549,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 138,
@@ -55298,8 +55315,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -56128,11 +56145,11 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 1.2402,
+      "fwci": 1.2404,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.76955201,
+        "value": 0.76966591,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -56743,8 +56760,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 132,
@@ -56925,7 +56942,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -57502,8 +57519,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -58325,8 +58342,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3093626874.pdf",
@@ -59001,7 +59018,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5049649985",
-            "display_name": "MOHAMED A. MAHMOUD",
+            "display_name": "Mohamed Mahmoud",
             "orcid": "https://orcid.org/0000-0002-4395-9567",
             "observed_orcids": [
               "https://orcid.org/0000-0002-4395-9567"
@@ -59041,7 +59058,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5073305973",
-            "display_name": "Muhammad Maaz Arif",
+            "display_name": "Muhammad Arif",
             "orcid": "https://orcid.org/0000-0001-7035-6000",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7035-6000"
@@ -59173,11 +59190,11 @@
         "value_usd": 4080
       },
       "apc_paid": null,
-      "fwci": 1.9364,
+      "fwci": 1.935,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.84052661,
+        "value": 0.84026575,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -59526,8 +59543,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -59640,7 +59657,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -60444,8 +60461,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -60950,8 +60967,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -61437,8 +61454,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -62388,8 +62405,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -63884,8 +63901,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -64795,8 +64812,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4293032551.pdf",
@@ -65521,8 +65538,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -66413,8 +66430,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -67293,8 +67310,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -67898,8 +67915,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -68563,8 +68580,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -69887,8 +69904,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -71486,8 +71503,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 103,
@@ -72355,7 +72372,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mohd Yusuf Khan",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), King Fahd University of Petroleum & Minerals, Box 5040, Dhahran, 31261, Saudi Arabia",
@@ -72400,7 +72417,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mohd Yusuf Khan",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), King Fahd University of Petroleum & Minerals, Box 5040, Dhahran, 31261, Saudi Arabia",
@@ -72559,12 +72576,10 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5019749261",
-            "display_name": "Firoz A. Kalam Khan",
-            "orcid": "https://orcid.org/0000-0001-9278-5455",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-9278-5455"
-            ]
+            "id": null,
+            "display_name": "Firoz Khan",
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -72655,9 +72670,7 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
-        "https://openalex.org/A5017037187",
-        "https://openalex.org/A5019749261",
-        "https://openalex.org/A5042532738"
+        "https://openalex.org/A5017037187"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113"
@@ -72668,11 +72681,11 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 0.3431,
+      "fwci": 0.3423,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.44815632,
+        "value": 0.44752273,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -73019,8 +73032,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -73101,7 +73114,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-26T08:19:03.415552",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -73698,8 +73711,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -74555,1174 +74568,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4398220506",
-      "doi": "https://doi.org/10.1016/j.jsamd.2024.100748",
-      "title": "Modulating the electrocatalytic reduction of CO2 to CO via surface reconstruction of ZnO nanoshapes",
-      "display_name": "Modulating the electrocatalytic reduction of CO2 to CO via surface reconstruction of ZnO nanoshapes",
-      "publication_year": 2024,
-      "publication_date": "2024-05-22",
-      "ids": {
-        "openalex": "https://openalex.org/W4398220506",
-        "doi": "https://doi.org/10.1016/j.jsamd.2024.100748"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.jsamd.2024.100748",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.jsamd.2024.100748",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S2764990209",
-          "display_name": "Journal of Science Advanced Materials and Devices",
-          "issn_l": "2468-2179",
-          "issn": [
-            "2468-2179",
-            "2468-2284"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "doaj",
-            "norway-1"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Science: Advanced Materials and Devices",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://doi.org/10.1016/j.jsamd.2024.100748",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5049879414",
-            "display_name": "Mustapha Umar",
-            "orcid": "https://orcid.org/0000-0001-5846-7509",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5846-7509"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mustapha Umar",
-          "raw_affiliation_strings": [
-            "Department of Chemistry, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-            "Interdisciplinary Research Center for Refining & Advanced Chemicals, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Chemistry, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Refining & Advanced Chemicals, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5098758531",
-            "display_name": "Mohammed Yousef Aljezan",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed Yousef Aljezan",
-          "raw_affiliation_strings": [
-            "EXPEC Advanced Research Centre, Saudi Aramco, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "EXPEC Advanced Research Centre, Saudi Aramco, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5030121582",
-            "display_name": "Ismail Adeyinka AbdulAzeez",
-            "orcid": "https://orcid.org/0000-0001-8098-5433",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8098-5433"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ismail Abdulazeez",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu Olalekan Amao",
-            "orcid": "https://orcid.org/0000-0001-8203-851X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8203-851X"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abduljamiu O. Amao",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5082919572",
-            "display_name": "Saheed Adewale Ganiyu",
-            "orcid": "https://orcid.org/0000-0002-6002-3795",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-6002-3795"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Saheed A. Ganiyu",
-          "raw_affiliation_strings": [
-            "Department of Chemistry, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-            "Interdisciplinary Research Center for Refining & Advanced Chemicals, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Chemistry, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Refining & Advanced Chemicals, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5081366915",
-            "display_name": "Khalid Rashed Alhooshani",
-            "orcid": "https://orcid.org/0000-0002-6119-668X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-6119-668X"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Khalid Alhooshani",
-          "raw_affiliation_strings": [
-            "Department of Chemistry, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-            "Interdisciplinary Research Center for Refining & Advanced Chemicals, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Chemistry, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Refining & Advanced Chemicals, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081366915"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 1300,
-        "currency": "USD",
-        "value_usd": 1300
-      },
-      "apc_paid": {
-        "value": 1300,
-        "currency": "USD",
-        "value_usd": 1300
-      },
-      "fwci": 0.2744,
-      "has_fulltext": false,
-      "cited_by_count": 4,
-      "citation_normalized_percentile": {
-        "value": 0.38610704,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 94,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "9",
-        "issue": "3",
-        "first_page": "100748",
-        "last_page": "100748"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11784",
-        "display_name": "CO2 Reduction Techniques and Catalysts",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2105",
-          "display_name": "Renewable Energy, Sustainability and the Environment"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/21",
-          "display_name": "Energy"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11784",
-          "display_name": "CO2 Reduction Techniques and Catalysts",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2105",
-            "display_name": "Renewable Energy, Sustainability and the Environment"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10440",
-          "display_name": "Advanced Thermoelectric Materials and Devices",
-          "score": 0.9984999895095825,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2505",
-            "display_name": "Materials Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/25",
-            "display_name": "Materials Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10480",
-          "display_name": "Ionic liquids properties and applications",
-          "score": 0.9959999918937683,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1503",
-            "display_name": "Catalysis"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/15",
-            "display_name": "Chemical Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/reduction",
-          "display_name": "Reduction (mathematics)",
-          "score": 0.7638128995895386
-        },
-        {
-          "id": "https://openalex.org/keywords/materials-science",
-          "display_name": "Materials science",
-          "score": 0.48456111550331116
-        },
-        {
-          "id": "https://openalex.org/keywords/electrocatalyst",
-          "display_name": "Electrocatalyst",
-          "score": 0.42185044288635254
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.3440443277359009
-        },
-        {
-          "id": "https://openalex.org/keywords/chemical-engineering",
-          "display_name": "Chemical engineering",
-          "score": 0.3419730067253113
-        },
-        {
-          "id": "https://openalex.org/keywords/electrode",
-          "display_name": "Electrode",
-          "score": 0.3204832971096039
-        },
-        {
-          "id": "https://openalex.org/keywords/electrochemistry",
-          "display_name": "Electrochemistry",
-          "score": 0.1984982192516327
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.09487295150756836
-        },
-        {
-          "id": "https://openalex.org/keywords/physical-chemistry",
-          "display_name": "Physical chemistry",
-          "score": 0.08707329630851746
-        },
-        {
-          "id": "https://openalex.org/keywords/mathematics",
-          "display_name": "Mathematics",
-          "score": 0.078955739736557
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C111335779",
-          "wikidata": "https://www.wikidata.org/wiki/Q3454686",
-          "display_name": "Reduction (mathematics)",
-          "level": 2,
-          "score": 0.7638128995895386
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.48456111550331116
-        },
-        {
-          "id": "https://openalex.org/C33989665",
-          "wikidata": "https://www.wikidata.org/wiki/Q5357962",
-          "display_name": "Electrocatalyst",
-          "level": 4,
-          "score": 0.42185044288635254
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.3440443277359009
-        },
-        {
-          "id": "https://openalex.org/C42360764",
-          "wikidata": "https://www.wikidata.org/wiki/Q83588",
-          "display_name": "Chemical engineering",
-          "level": 1,
-          "score": 0.3419730067253113
-        },
-        {
-          "id": "https://openalex.org/C17525397",
-          "wikidata": "https://www.wikidata.org/wiki/Q176140",
-          "display_name": "Electrode",
-          "level": 2,
-          "score": 0.3204832971096039
-        },
-        {
-          "id": "https://openalex.org/C52859227",
-          "wikidata": "https://www.wikidata.org/wiki/Q7877",
-          "display_name": "Electrochemistry",
-          "level": 3,
-          "score": 0.1984982192516327
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.09487295150756836
-        },
-        {
-          "id": "https://openalex.org/C147789679",
-          "wikidata": "https://www.wikidata.org/wiki/Q11372",
-          "display_name": "Physical chemistry",
-          "level": 1,
-          "score": 0.08707329630851746
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0.078955739736557
-        },
-        {
-          "id": "https://openalex.org/C2524010",
-          "wikidata": "https://www.wikidata.org/wiki/Q8087",
-          "display_name": "Geometry",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.jsamd.2024.100748",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1016/j.jsamd.2024.100748",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764990209",
-            "display_name": "Journal of Science Advanced Materials and Devices",
-            "issn_l": "2468-2179",
-            "issn": [
-              "2468-2179",
-              "2468-2284"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "doaj",
-              "norway-1"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of Science: Advanced Materials and Devices",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:9d4376db4ae740ec8677ddb2a7aa5aee",
-          "is_oa": true,
-          "landing_page_url": "https://doaj.org/article/9d4376db4ae740ec8677ddb2a7aa5aee",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Journal of Science: Advanced Materials and Devices, Vol 9, Iss 3, Pp 100748- (2024)",
-          "raw_type": "article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1016/j.jsamd.2024.100748",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.jsamd.2024.100748",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S2764990209",
-          "display_name": "Journal of Science Advanced Materials and Devices",
-          "issn_l": "2468-2179",
-          "issn": [
-            "2468-2179",
-            "2468-2284"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "doaj",
-            "norway-1"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Science: Advanced Materials and Devices",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 30,
-      "referenced_works": [
-        "https://openalex.org/W1971588152",
-        "https://openalex.org/W2003211648",
-        "https://openalex.org/W2014386806",
-        "https://openalex.org/W2054263575",
-        "https://openalex.org/W2071159507",
-        "https://openalex.org/W2345767711",
-        "https://openalex.org/W2493300873",
-        "https://openalex.org/W2552233834",
-        "https://openalex.org/W2598056552",
-        "https://openalex.org/W2736577107",
-        "https://openalex.org/W2770968067",
-        "https://openalex.org/W2803912744",
-        "https://openalex.org/W2809367539",
-        "https://openalex.org/W2899022327",
-        "https://openalex.org/W2921143111",
-        "https://openalex.org/W2941562238",
-        "https://openalex.org/W2972199352",
-        "https://openalex.org/W3020099476",
-        "https://openalex.org/W3091155454",
-        "https://openalex.org/W3205799102",
-        "https://openalex.org/W4226153630",
-        "https://openalex.org/W4236744087",
-        "https://openalex.org/W4244627953",
-        "https://openalex.org/W4290754945",
-        "https://openalex.org/W4304003652",
-        "https://openalex.org/W4361248630",
-        "https://openalex.org/W4381850183",
-        "https://openalex.org/W4385752803",
-        "https://openalex.org/W4391068346",
-        "https://openalex.org/W4395479321"
-      ],
-      "related_works": [
-        "https://openalex.org/W2748952813",
-        "https://openalex.org/W2375410627",
-        "https://openalex.org/W2131631219",
-        "https://openalex.org/W2472735067",
-        "https://openalex.org/W3054872367",
-        "https://openalex.org/W78797838",
-        "https://openalex.org/W2781982351",
-        "https://openalex.org/W2897817002",
-        "https://openalex.org/W2895938959",
-        "https://openalex.org/W2010872403"
-      ],
-      "abstract_inverted_index": {
-        "17": [
-          148
-        ],
-        "The": [
-          0
-        ],
-        "electrocatalytic": [
-          1
-        ],
-        "conversion": [
-          2,
-          101
-        ],
-        "of": [
-          3,
-          74,
-          80,
-          120,
-          132,
-          143,
-          158,
-          165
-        ],
-        "carbon": [
-          4,
-          17,
-          50
-        ],
-        "dioxide": [
-          5
-        ],
-        "(CO2)": [
-          6
-        ],
-        "into": [
-          7,
-          49
-        ],
-        "valuable": [
-          8
-        ],
-        "chemicals": [
-          9
-        ],
-        "presents": [
-          10
-        ],
-        "a": [
-          11,
-          104,
-          118,
-          154,
-          161
-        ],
-        "promising": [
-          12
-        ],
-        "strategy": [
-          13
-        ],
-        "for": [
-          14,
-          98,
-          145
-        ],
-        "closing": [
-          15
-        ],
-        "the": [
-          16,
-          72,
-          95,
-          99
-        ],
-        "cycle.": [
-          18
-        ],
-        "In": [
-          19,
-          103
-        ],
-        "this": [
-          20,
-          141
-        ],
-        "study,": [
-          21
-        ],
-        "we": [
-          22,
-          88
-        ],
-        "synthesized": [
-          23,
-          58
-        ],
-        "zinc": [
-          24
-        ],
-        "(Zn)": [
-          25
-        ],
-        "catalysts": [
-          26,
-          42,
-          107,
-          139,
-          152
-        ],
-        "through": [
-          27
-        ],
-        "hydrothermal": [
-          28
-        ],
-        "methods": [
-          29
-        ],
-        "using": [
-          30
-        ],
-        "either": [
-          31
-        ],
-        "polyvinylpyrrolidone": [
-          32
-        ],
-        "(PVP)": [
-          33
-        ],
-        "or": [
-          34
-        ],
-        "cetyltrimethylammonium": [
-          35
-        ],
-        "bromide": [
-          36
-        ],
-        "(CTAB)": [
-          37
-        ],
-        "as": [
-          38,
-          94
-        ],
-        "stabilizing": [
-          39
-        ],
-        "agents.": [
-          40
-        ],
-        "These": [
-          41
-        ],
-        "proved": [
-          43
-        ],
-        "highly": [
-          44
-        ],
-        "efficient": [
-          45
-        ],
-        "in": [
-          46
-        ],
-        "converting": [
-          47
-        ],
-        "CO2": [
-          48
-        ],
-        "monoxide": [
-          51
-        ],
-        "(CO).": [
-          52
-        ],
-        "Our": [
-          53
-        ],
-        "findings": [
-          54
-        ],
-        "revealed": [
-          55
-        ],
-        "that": [
-          56,
-          90
-        ],
-        "ZnO,": [
-          57
-        ],
-        "with": [
-          59
-        ],
-        "different": [
-          60
-        ],
-        "morphologies—namely,": [
-          61
-        ],
-        "nanoneedles": [
-          62
-        ],
-        "(ZnO-NN)": [
-          63
-        ],
-        "and": [
-          64,
-          111
-        ],
-        "nanorods": [
-          65
-        ],
-        "(ZnO-NR)—underwent": [
-          66
-        ],
-        "significant": [
-          67
-        ],
-        "electro-reconstruction,": [
-          68
-        ],
-        "ultimately": [
-          69
-        ],
-        "leading": [
-          70
-        ],
-        "to": [
-          71,
-          129,
-          134
-        ],
-        "formation": [
-          73
-        ],
-        "hexagonal": [
-          75
-        ],
-        "metallic": [
-          76,
-          91,
-          135
-        ],
-        "Zn": [
-          77,
-          92
-        ],
-        "crystals,": [
-          78
-        ],
-        "regardless": [
-          79
-        ],
-        "their": [
-          81
-        ],
-        "initial": [
-          82
-        ],
-        "characteristics.": [
-          83
-        ],
-        "Utilizing": [
-          84
-        ],
-        "ex-situ": [
-          85
-        ],
-        "operando": [
-          86
-        ],
-        "techniques,": [
-          87
-        ],
-        "elucidated": [
-          89
-        ],
-        "serves": [
-          93
-        ],
-        "active": [
-          96
-        ],
-        "phase": [
-          97
-        ],
-        "CO2-to-CO": [
-          100
-        ],
-        "process.": [
-          102
-        ],
-        "comparison,": [
-          105
-        ],
-        "ZnO-NN": [
-          106
-        ],
-        "demonstrated": [
-          108
-        ],
-        "superior": [
-          109
-        ],
-        "selectivity": [
-          110,
-          116,
-          157
-        ],
-        "stability,": [
-          112
-        ],
-        "achieving": [
-          113
-        ],
-        "91.3%": [
-          114
-        ],
-        "CO": [
-          115,
-          156
-        ],
-        "at": [
-          117,
-          160
-        ],
-        "potential": [
-          119,
-          164
-        ],
-        "-0.88": [
-          121
-        ],
-        "V": [
-          122,
-          167
-        ],
-        "vs": [
-          123,
-          168
-        ],
-        "RHE": [
-          124
-        ],
-        "(Reversible": [
-          125
-        ],
-        "Hydrogen": [
-          126
-        ],
-        "Electrode)": [
-          127
-        ],
-        "due": [
-          128
-        ],
-        "facile": [
-          130
-        ],
-        "transformation": [
-          131
-        ],
-        "ZnO": [
-          133
-        ],
-        "Zn.": [
-          136
-        ],
-        "Remarkably,": [
-          137
-        ],
-        "these": [
-          138
-        ],
-        "maintained": [
-          140
-        ],
-        "level": [
-          142
-        ],
-        "performance": [
-          144
-        ],
-        "more": [
-          146
-        ],
-        "than": [
-          147
-        ],
-        "hours.": [
-          149
-        ],
-        "Conversely,": [
-          150
-        ],
-        "ZnO-NR": [
-          151
-        ],
-        "exhibited": [
-          153
-        ],
-        "lower": [
-          155
-        ],
-        "62.5%": [
-          159
-        ],
-        "relatively": [
-          162
-        ],
-        "higher": [
-          163
-        ],
-        "-0.98": [
-          166
-        ],
-        "RHE.": [
-          169
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-09-26T08:19:03.415552",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4405910999",
       "doi": "https://doi.org/10.1016/j.jseaes.2024.106483",
       "title": "Petrological and geochemical characteristics of Ordovician cherts in the Qasim Formation, NW Saudi Arabia: Understanding the roles of biogenic and volcanic activities",
@@ -76325,8 +75170,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 126,
@@ -77142,8 +75987,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -77559,8 +76404,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -78605,8 +77450,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -79511,8 +78356,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4412363895.pdf",
@@ -80977,8 +79822,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -81735,8 +80580,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 131,
@@ -82636,8 +81481,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 111,
@@ -83959,8 +82804,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2402697159.pdf",
@@ -84994,8 +83839,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -85747,8 +84592,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -86407,8 +85252,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -88480,8 +87325,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -89023,6 +87868,1174 @@
         }
       ],
       "updated_date": "2026-09-24T07:57:37.273135",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4398220506",
+      "doi": "https://doi.org/10.1016/j.jsamd.2024.100748",
+      "title": "Modulating the electrocatalytic reduction of CO2 to CO via surface reconstruction of ZnO nanoshapes",
+      "display_name": "Modulating the electrocatalytic reduction of CO2 to CO via surface reconstruction of ZnO nanoshapes",
+      "publication_year": 2024,
+      "publication_date": "2024-05-22",
+      "ids": {
+        "openalex": "https://openalex.org/W4398220506",
+        "doi": "https://doi.org/10.1016/j.jsamd.2024.100748"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.jsamd.2024.100748",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.jsamd.2024.100748",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764990209",
+          "display_name": "Journal of Science Advanced Materials and Devices",
+          "issn_l": "2468-2179",
+          "issn": [
+            "2468-2179",
+            "2468-2284"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Science: Advanced Materials and Devices",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1016/j.jsamd.2024.100748",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5049879414",
+            "display_name": "Mustapha Umar",
+            "orcid": "https://orcid.org/0000-0001-5846-7509",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5846-7509"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mustapha Umar",
+          "raw_affiliation_strings": [
+            "Department of Chemistry, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+            "Interdisciplinary Research Center for Refining & Advanced Chemicals, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Chemistry, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Refining & Advanced Chemicals, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5098758531",
+            "display_name": "Mohammed Yousef Aljezan",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Yousef Aljezan",
+          "raw_affiliation_strings": [
+            "EXPEC Advanced Research Centre, Saudi Aramco, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "EXPEC Advanced Research Centre, Saudi Aramco, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5030121582",
+            "display_name": "Ismail Adeyinka AbdulAzeez",
+            "orcid": "https://orcid.org/0000-0001-8098-5433",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8098-5433"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ismail Abdulazeez",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5027197211",
+            "display_name": "Abduljamiu Olalekan Amao",
+            "orcid": "https://orcid.org/0000-0001-8203-851X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8203-851X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abduljamiu O. Amao",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5082919572",
+            "display_name": "Saheed Adewale Ganiyu",
+            "orcid": "https://orcid.org/0000-0002-6002-3795",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6002-3795"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Saheed A. Ganiyu",
+          "raw_affiliation_strings": [
+            "Department of Chemistry, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+            "Interdisciplinary Research Center for Refining & Advanced Chemicals, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Chemistry, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Refining & Advanced Chemicals, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5081366915",
+            "display_name": "Khalid Rashed Alhooshani",
+            "orcid": "https://orcid.org/0000-0002-6119-668X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6119-668X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Khalid Alhooshani",
+          "raw_affiliation_strings": [
+            "Department of Chemistry, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+            "Interdisciplinary Research Center for Refining & Advanced Chemicals, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Chemistry, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Refining & Advanced Chemicals, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5081366915"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 1300,
+        "currency": "USD",
+        "value_usd": 1300
+      },
+      "apc_paid": {
+        "value": 1300,
+        "currency": "USD",
+        "value_usd": 1300
+      },
+      "fwci": 0.2738,
+      "has_fulltext": false,
+      "cited_by_count": 4,
+      "citation_normalized_percentile": {
+        "value": 0.38535906,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "9",
+        "issue": "3",
+        "first_page": "100748",
+        "last_page": "100748"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11784",
+        "display_name": "CO2 Reduction Techniques and Catalysts",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2105",
+          "display_name": "Renewable Energy, Sustainability and the Environment"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/21",
+          "display_name": "Energy"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11784",
+          "display_name": "CO2 Reduction Techniques and Catalysts",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2105",
+            "display_name": "Renewable Energy, Sustainability and the Environment"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10440",
+          "display_name": "Advanced Thermoelectric Materials and Devices",
+          "score": 0.9984999895095825,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2505",
+            "display_name": "Materials Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/25",
+            "display_name": "Materials Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10480",
+          "display_name": "Ionic liquids properties and applications",
+          "score": 0.9959999918937683,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1503",
+            "display_name": "Catalysis"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/15",
+            "display_name": "Chemical Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/reduction",
+          "display_name": "Reduction (mathematics)",
+          "score": 0.7638128995895386
+        },
+        {
+          "id": "https://openalex.org/keywords/materials-science",
+          "display_name": "Materials science",
+          "score": 0.48456111550331116
+        },
+        {
+          "id": "https://openalex.org/keywords/electrocatalyst",
+          "display_name": "Electrocatalyst",
+          "score": 0.42185044288635254
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.3440443277359009
+        },
+        {
+          "id": "https://openalex.org/keywords/chemical-engineering",
+          "display_name": "Chemical engineering",
+          "score": 0.3419730067253113
+        },
+        {
+          "id": "https://openalex.org/keywords/electrode",
+          "display_name": "Electrode",
+          "score": 0.3204832971096039
+        },
+        {
+          "id": "https://openalex.org/keywords/electrochemistry",
+          "display_name": "Electrochemistry",
+          "score": 0.1984982192516327
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.09487295150756836
+        },
+        {
+          "id": "https://openalex.org/keywords/physical-chemistry",
+          "display_name": "Physical chemistry",
+          "score": 0.08707329630851746
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.078955739736557
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C111335779",
+          "wikidata": "https://www.wikidata.org/wiki/Q3454686",
+          "display_name": "Reduction (mathematics)",
+          "level": 2,
+          "score": 0.7638128995895386
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.48456111550331116
+        },
+        {
+          "id": "https://openalex.org/C33989665",
+          "wikidata": "https://www.wikidata.org/wiki/Q5357962",
+          "display_name": "Electrocatalyst",
+          "level": 4,
+          "score": 0.42185044288635254
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.3440443277359009
+        },
+        {
+          "id": "https://openalex.org/C42360764",
+          "wikidata": "https://www.wikidata.org/wiki/Q83588",
+          "display_name": "Chemical engineering",
+          "level": 1,
+          "score": 0.3419730067253113
+        },
+        {
+          "id": "https://openalex.org/C17525397",
+          "wikidata": "https://www.wikidata.org/wiki/Q176140",
+          "display_name": "Electrode",
+          "level": 2,
+          "score": 0.3204832971096039
+        },
+        {
+          "id": "https://openalex.org/C52859227",
+          "wikidata": "https://www.wikidata.org/wiki/Q7877",
+          "display_name": "Electrochemistry",
+          "level": 3,
+          "score": 0.1984982192516327
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.09487295150756836
+        },
+        {
+          "id": "https://openalex.org/C147789679",
+          "wikidata": "https://www.wikidata.org/wiki/Q11372",
+          "display_name": "Physical chemistry",
+          "level": 1,
+          "score": 0.08707329630851746
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.078955739736557
+        },
+        {
+          "id": "https://openalex.org/C2524010",
+          "wikidata": "https://www.wikidata.org/wiki/Q8087",
+          "display_name": "Geometry",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.jsamd.2024.100748",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.jsamd.2024.100748",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764990209",
+            "display_name": "Journal of Science Advanced Materials and Devices",
+            "issn_l": "2468-2179",
+            "issn": [
+              "2468-2179",
+              "2468-2284"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Science: Advanced Materials and Devices",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:9d4376db4ae740ec8677ddb2a7aa5aee",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/9d4376db4ae740ec8677ddb2a7aa5aee",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Journal of Science: Advanced Materials and Devices, Vol 9, Iss 3, Pp 100748- (2024)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.jsamd.2024.100748",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.jsamd.2024.100748",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764990209",
+          "display_name": "Journal of Science Advanced Materials and Devices",
+          "issn_l": "2468-2179",
+          "issn": [
+            "2468-2179",
+            "2468-2284"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Science: Advanced Materials and Devices",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "x_sdgs": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 30,
+      "referenced_works": [
+        "https://openalex.org/W1971588152",
+        "https://openalex.org/W2003211648",
+        "https://openalex.org/W2014386806",
+        "https://openalex.org/W2054263575",
+        "https://openalex.org/W2071159507",
+        "https://openalex.org/W2345767711",
+        "https://openalex.org/W2493300873",
+        "https://openalex.org/W2552233834",
+        "https://openalex.org/W2598056552",
+        "https://openalex.org/W2736577107",
+        "https://openalex.org/W2770968067",
+        "https://openalex.org/W2803912744",
+        "https://openalex.org/W2809367539",
+        "https://openalex.org/W2899022327",
+        "https://openalex.org/W2921143111",
+        "https://openalex.org/W2941562238",
+        "https://openalex.org/W2972199352",
+        "https://openalex.org/W3020099476",
+        "https://openalex.org/W3091155454",
+        "https://openalex.org/W3205799102",
+        "https://openalex.org/W4226153630",
+        "https://openalex.org/W4236744087",
+        "https://openalex.org/W4244627953",
+        "https://openalex.org/W4290754945",
+        "https://openalex.org/W4304003652",
+        "https://openalex.org/W4361248630",
+        "https://openalex.org/W4381850183",
+        "https://openalex.org/W4385752803",
+        "https://openalex.org/W4391068346",
+        "https://openalex.org/W4395479321"
+      ],
+      "related_works": [
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2375410627",
+        "https://openalex.org/W2131631219",
+        "https://openalex.org/W2472735067",
+        "https://openalex.org/W3054872367",
+        "https://openalex.org/W78797838",
+        "https://openalex.org/W2781982351",
+        "https://openalex.org/W2897817002",
+        "https://openalex.org/W2895938959",
+        "https://openalex.org/W2010872403"
+      ],
+      "abstract_inverted_index": {
+        "17": [
+          148
+        ],
+        "The": [
+          0
+        ],
+        "electrocatalytic": [
+          1
+        ],
+        "conversion": [
+          2,
+          101
+        ],
+        "of": [
+          3,
+          74,
+          80,
+          120,
+          132,
+          143,
+          158,
+          165
+        ],
+        "carbon": [
+          4,
+          17,
+          50
+        ],
+        "dioxide": [
+          5
+        ],
+        "(CO2)": [
+          6
+        ],
+        "into": [
+          7,
+          49
+        ],
+        "valuable": [
+          8
+        ],
+        "chemicals": [
+          9
+        ],
+        "presents": [
+          10
+        ],
+        "a": [
+          11,
+          104,
+          118,
+          154,
+          161
+        ],
+        "promising": [
+          12
+        ],
+        "strategy": [
+          13
+        ],
+        "for": [
+          14,
+          98,
+          145
+        ],
+        "closing": [
+          15
+        ],
+        "the": [
+          16,
+          72,
+          95,
+          99
+        ],
+        "cycle.": [
+          18
+        ],
+        "In": [
+          19,
+          103
+        ],
+        "this": [
+          20,
+          141
+        ],
+        "study,": [
+          21
+        ],
+        "we": [
+          22,
+          88
+        ],
+        "synthesized": [
+          23,
+          58
+        ],
+        "zinc": [
+          24
+        ],
+        "(Zn)": [
+          25
+        ],
+        "catalysts": [
+          26,
+          42,
+          107,
+          139,
+          152
+        ],
+        "through": [
+          27
+        ],
+        "hydrothermal": [
+          28
+        ],
+        "methods": [
+          29
+        ],
+        "using": [
+          30
+        ],
+        "either": [
+          31
+        ],
+        "polyvinylpyrrolidone": [
+          32
+        ],
+        "(PVP)": [
+          33
+        ],
+        "or": [
+          34
+        ],
+        "cetyltrimethylammonium": [
+          35
+        ],
+        "bromide": [
+          36
+        ],
+        "(CTAB)": [
+          37
+        ],
+        "as": [
+          38,
+          94
+        ],
+        "stabilizing": [
+          39
+        ],
+        "agents.": [
+          40
+        ],
+        "These": [
+          41
+        ],
+        "proved": [
+          43
+        ],
+        "highly": [
+          44
+        ],
+        "efficient": [
+          45
+        ],
+        "in": [
+          46
+        ],
+        "converting": [
+          47
+        ],
+        "CO2": [
+          48
+        ],
+        "monoxide": [
+          51
+        ],
+        "(CO).": [
+          52
+        ],
+        "Our": [
+          53
+        ],
+        "findings": [
+          54
+        ],
+        "revealed": [
+          55
+        ],
+        "that": [
+          56,
+          90
+        ],
+        "ZnO,": [
+          57
+        ],
+        "with": [
+          59
+        ],
+        "different": [
+          60
+        ],
+        "morphologies—namely,": [
+          61
+        ],
+        "nanoneedles": [
+          62
+        ],
+        "(ZnO-NN)": [
+          63
+        ],
+        "and": [
+          64,
+          111
+        ],
+        "nanorods": [
+          65
+        ],
+        "(ZnO-NR)—underwent": [
+          66
+        ],
+        "significant": [
+          67
+        ],
+        "electro-reconstruction,": [
+          68
+        ],
+        "ultimately": [
+          69
+        ],
+        "leading": [
+          70
+        ],
+        "to": [
+          71,
+          129,
+          134
+        ],
+        "formation": [
+          73
+        ],
+        "hexagonal": [
+          75
+        ],
+        "metallic": [
+          76,
+          91,
+          135
+        ],
+        "Zn": [
+          77,
+          92
+        ],
+        "crystals,": [
+          78
+        ],
+        "regardless": [
+          79
+        ],
+        "their": [
+          81
+        ],
+        "initial": [
+          82
+        ],
+        "characteristics.": [
+          83
+        ],
+        "Utilizing": [
+          84
+        ],
+        "ex-situ": [
+          85
+        ],
+        "operando": [
+          86
+        ],
+        "techniques,": [
+          87
+        ],
+        "elucidated": [
+          89
+        ],
+        "serves": [
+          93
+        ],
+        "active": [
+          96
+        ],
+        "phase": [
+          97
+        ],
+        "CO2-to-CO": [
+          100
+        ],
+        "process.": [
+          102
+        ],
+        "comparison,": [
+          105
+        ],
+        "ZnO-NN": [
+          106
+        ],
+        "demonstrated": [
+          108
+        ],
+        "superior": [
+          109
+        ],
+        "selectivity": [
+          110,
+          116,
+          157
+        ],
+        "stability,": [
+          112
+        ],
+        "achieving": [
+          113
+        ],
+        "91.3%": [
+          114
+        ],
+        "CO": [
+          115,
+          156
+        ],
+        "at": [
+          117,
+          160
+        ],
+        "potential": [
+          119,
+          164
+        ],
+        "-0.88": [
+          121
+        ],
+        "V": [
+          122,
+          167
+        ],
+        "vs": [
+          123,
+          168
+        ],
+        "RHE": [
+          124
+        ],
+        "(Reversible": [
+          125
+        ],
+        "Hydrogen": [
+          126
+        ],
+        "Electrode)": [
+          127
+        ],
+        "due": [
+          128
+        ],
+        "facile": [
+          130
+        ],
+        "transformation": [
+          131
+        ],
+        "ZnO": [
+          133
+        ],
+        "Zn.": [
+          136
+        ],
+        "Remarkably,": [
+          137
+        ],
+        "these": [
+          138
+        ],
+        "maintained": [
+          140
+        ],
+        "level": [
+          142
+        ],
+        "performance": [
+          144
+        ],
+        "more": [
+          146
+        ],
+        "than": [
+          147
+        ],
+        "hours.": [
+          149
+        ],
+        "Conversely,": [
+          150
+        ],
+        "ZnO-NR": [
+          151
+        ],
+        "exhibited": [
+          153
+        ],
+        "lower": [
+          155
+        ],
+        "62.5%": [
+          159
+        ],
+        "relatively": [
+          162
+        ],
+        "higher": [
+          163
+        ],
+        "-0.98": [
+          166
+        ],
+        "RHE.": [
+          169
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -89726,8 +89739,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4401646659.pdf",
@@ -90703,11 +90716,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.8857,
+      "fwci": 0.8869,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.75011238,
+        "value": 0.75039345,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -90988,8 +91001,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -91042,7 +91055,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -91497,8 +91510,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -92967,8 +92980,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -94245,8 +94258,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -95372,8 +95385,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -95925,8 +95938,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -96441,8 +96454,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -98068,8 +98081,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 93,
@@ -98606,8 +98619,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -98716,7 +98729,10 @@
           "author": {
             "id": "https://openalex.org/A5076656571",
             "display_name": "Asmaa Korin",
-            "orcid": "https://orcid.org/0000-0001-9618-3849"
+            "orcid": "https://orcid.org/0000-0001-9618-3849",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9618-3849"
+            ]
           },
           "institutions": [
             {
@@ -98753,7 +98769,10 @@
           "author": {
             "id": "https://openalex.org/A5060256566",
             "display_name": "Sherif Allam",
-            "orcid": "https://orcid.org/0009-0004-4049-9237"
+            "orcid": "https://orcid.org/0009-0004-4049-9237",
+            "observed_orcids": [
+              "https://orcid.org/0009-0004-4049-9237"
+            ]
           },
           "institutions": [
             {
@@ -98790,7 +98809,10 @@
           "author": {
             "id": "https://openalex.org/A5082826691",
             "display_name": "JOHN D. HUMPHREY",
-            "orcid": "https://orcid.org/0000-0002-8927-2322"
+            "orcid": "https://orcid.org/0000-0002-8927-2322",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8927-2322"
+            ]
           },
           "institutions": [
             {
@@ -98827,7 +98849,10 @@
           "author": {
             "id": "https://openalex.org/A5027197211",
             "display_name": "Abduljamiu Olalekan Amao",
-            "orcid": "https://orcid.org/0000-0001-8203-851X"
+            "orcid": "https://orcid.org/0000-0001-8203-851X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8203-851X"
+            ]
           },
           "institutions": [
             {
@@ -98864,7 +98889,10 @@
           "author": {
             "id": "https://openalex.org/A5028675144",
             "display_name": "Korhan Ayrancı",
-            "orcid": "https://orcid.org/0000-0002-4808-9898"
+            "orcid": "https://orcid.org/0000-0002-4808-9898",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4808-9898"
+            ]
           },
           "institutions": [
             {
@@ -98899,9 +98927,10 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5030338408",
-            "display_name": "Mohammad A. Najjar",
-            "orcid": "https://orcid.org/0000-0001-5827-8345"
+            "id": null,
+            "display_name": "Mohammed I. Najjar",
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -98923,7 +98952,8 @@
           "author": {
             "id": "https://openalex.org/A5061515777",
             "display_name": "Ahmed A. Bahameem",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -98945,7 +98975,10 @@
           "author": {
             "id": "https://openalex.org/A5067218163",
             "display_name": "Iyad S. Zalmout",
-            "orcid": "https://orcid.org/0000-0003-1874-801X"
+            "orcid": "https://orcid.org/0000-0003-1874-801X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1874-801X"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -98967,7 +99000,10 @@
           "author": {
             "id": "https://openalex.org/A5044930714",
             "display_name": "Abdullah M. Memesh",
-            "orcid": "https://orcid.org/0000-0001-8551-3240"
+            "orcid": "https://orcid.org/0000-0001-8551-3240",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8551-3240"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -98989,7 +99025,10 @@
           "author": {
             "id": "https://openalex.org/A5035815399",
             "display_name": "Michael A. Kaminski",
-            "orcid": "https://orcid.org/0000-0002-7344-5874"
+            "orcid": "https://orcid.org/0000-0002-7344-5874",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7344-5874"
+            ]
           },
           "institutions": [
             {
@@ -99037,11 +99076,11 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 1.6483,
+      "fwci": 1.5919,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.81249651,
+        "value": 0.80756812,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -99296,8 +99335,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -99399,7 +99438,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -100007,8 +100046,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -100470,8 +100509,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -101252,8 +101291,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -102222,8 +102261,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -102817,8 +102856,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -103477,8 +103516,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -104154,8 +104193,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -104946,8 +104985,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -105446,8 +105485,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -106256,8 +106295,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -107382,8 +107421,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4224231587.pdf",
@@ -108765,8 +108804,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2996369956.pdf",
@@ -110120,8 +110159,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -110927,8 +110966,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4283012769.pdf",
@@ -111696,7 +111735,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -111824,7 +111863,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5073305973",
-            "display_name": "Muhammad Maaz Arif",
+            "display_name": "Muhammad Arif",
             "orcid": "https://orcid.org/0000-0001-7035-6000",
             "observed_orcids": [
               "https://orcid.org/0000-0001-7035-6000"
@@ -112246,8 +112285,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -112271,7 +112310,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -112426,12 +112465,10 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5053747503",
-            "display_name": "Bandar Alotaibi",
-            "orcid": "https://orcid.org/0000-0001-9956-2027",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-9956-2027"
-            ]
+            "id": null,
+            "display_name": "Bandar Al-Otaibi",
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -112721,8 +112758,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -112746,7 +112783,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -113250,8 +113287,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -114535,8 +114572,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -115641,8 +115678,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -116024,8 +116061,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -116312,8 +116349,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -116723,8 +116760,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -117070,8 +117107,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -117175,7 +117212,7 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5017996907",
+            "id": null,
             "display_name": "Mohammad Otaibi",
             "orcid": null,
             "observed_orcids": []
@@ -117252,7 +117289,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.24524391,
+        "value": 0.24570792,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -117460,8 +117497,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -117490,7 +117527,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -117865,8 +117902,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -118448,8 +118485,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -119591,8 +119628,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -120728,8 +120765,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -121907,8 +121944,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -122942,8 +122979,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -123296,8 +123333,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -123686,8 +123723,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -124198,8 +124235,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -125059,8 +125096,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -126009,8 +126046,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -127118,8 +127155,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4213063077.pdf",
@@ -128394,8 +128431,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -129216,8 +129253,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -130268,8 +130305,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -131414,8 +131451,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4281767628.pdf",
@@ -132438,8 +132475,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -132926,8 +132963,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -133946,8 +133983,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -135230,8 +135267,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -135896,8 +135933,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -136312,8 +136349,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -136957,8 +136994,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -137751,8 +137788,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -139080,8 +139117,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -139726,8 +139763,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -140824,8 +140861,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -142097,8 +142134,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -143250,8 +143287,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -143664,8 +143701,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -144823,8 +144860,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -145004,7 +145041,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5120327808",
-            "display_name": "KHALED AL-RAEEINI",
+            "display_name": "Khaled Ahmed Mohammed Al-Raeeini",
             "orcid": "https://orcid.org/0009-0002-0379-331X",
             "observed_orcids": [
               "https://orcid.org/0009-0002-0379-331X"
@@ -145218,7 +145255,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.341727,
+        "value": 0.33480469,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -145465,8 +145502,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 179,
@@ -145654,7 +145691,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2026-05-26T00:00:00"
     },
     {
@@ -146324,8 +146361,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -147966,8 +148003,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -149199,8 +149236,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -150431,8 +150468,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

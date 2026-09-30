@@ -739,11 +739,11 @@
         "currency": "EUR",
         "value_usd": 1693
       },
-      "fwci": 2.9334,
+      "fwci": 2.9313,
       "has_fulltext": true,
       "cited_by_count": 87,
       "citation_normalized_percentile": {
-        "value": 0.92118815,
+        "value": 0.92096588,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1841,7 +1841,7 @@
           "cited_by_count": 13
         }
       ],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6049,13 +6049,10 @@
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5032185994",
-            "display_name": "Mehdi Alipour",
-            "orcid": "https://orcid.org/0000-0001-9842-8715",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-9842-8715",
-              "https://orcid.org/0000-0002-8711-2560"
-            ]
+            "id": null,
+            "display_name": "M. Alipour",
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -6261,11 +6258,11 @@
         "value_usd": 2710
       },
       "apc_paid": null,
-      "fwci": 2.9987,
+      "fwci": 2.9655,
       "has_fulltext": false,
       "cited_by_count": 50,
       "citation_normalized_percentile": {
-        "value": 0.90694245,
+        "value": 0.90594658,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6636,7 +6633,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21318,8 +21315,8 @@
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5034667952",
-            "display_name": "I. S. Strakhov",
+            "id": null,
+            "display_name": "Ivan Strakhov",
             "orcid": "https://orcid.org/0000-0002-1140-1745",
             "observed_orcids": [
               "https://orcid.org/0000-0002-1140-1745"
@@ -21815,13 +21812,13 @@
         "currency": "USD",
         "value_usd": 3550
       },
-      "fwci": 3.1937,
+      "fwci": 3.1823,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.90024816,
+        "value": 0.89988863,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 93,
@@ -22964,7 +22961,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24542,7 +24539,10 @@
           "author": {
             "id": "https://openalex.org/A5039383179",
             "display_name": "Jihad Mohamad Alja’am",
-            "orcid": "https://orcid.org/0000-0003-0989-4648"
+            "orcid": "https://orcid.org/0000-0003-0989-4648",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0989-4648"
+            ]
           },
           "institutions": [
             {
@@ -24577,9 +24577,10 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5082424148",
-            "display_name": "Murtadha L. Al‐Saady",
-            "orcid": "https://orcid.org/0000-0002-8246-8963"
+            "id": null,
+            "display_name": "M AlSaady",
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -24616,7 +24617,8 @@
           "author": {
             "id": "https://openalex.org/A5048728593",
             "display_name": "Mohamed Al-Marri",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -24653,7 +24655,10 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
-            "orcid": "https://orcid.org/0000-0001-6787-3533"
+            "orcid": "https://orcid.org/0000-0001-6787-3533",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6787-3533"
+            ]
           },
           "institutions": [
             {
@@ -24699,7 +24704,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.46687697,
+        "value": 0.47435897,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25505,7 +25510,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -32078,7 +32083,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.20487926,
+        "value": 0.20493028,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33102,7 +33107,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33667,12 +33672,10 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5010978449",
+            "id": null,
             "display_name": "Khalid Bashir",
-            "orcid": "https://orcid.org/0000-0002-8191-4263",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-8191-4263"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -33831,7 +33834,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.20661363,
+        "value": 0.20667331,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34621,7 +34624,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35798,12 +35801,10 @@
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5018540421",
-            "display_name": "Ivan A. Strakhov",
-            "orcid": "https://orcid.org/0000-0003-0647-6133",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-0647-6133"
-            ]
+            "id": null,
+            "display_name": "Ivan Strakhov",
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -36176,9 +36177,7 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5018540421"
-      ],
+      "corresponding_author_ids": [],
       "corresponding_institution_ids": [
         "https://openalex.org/I185261750"
       ],
@@ -36188,7 +36187,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.20869565,
+        "value": 0.20835146,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36416,7 +36415,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T17:25:34.749102",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37014,9 +37013,10 @@
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5018540421",
-            "display_name": "Ivan A. Strakhov",
-            "orcid": "https://orcid.org/0000-0003-0647-6133"
+            "id": null,
+            "display_name": "Ivan Strakhov",
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -37031,7 +37031,10 @@
           "author": {
             "id": "https://openalex.org/A5063023865",
             "display_name": "Zach A. DiLoreto",
-            "orcid": "https://orcid.org/0000-0002-0295-2764"
+            "orcid": "https://orcid.org/0000-0002-0295-2764",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0295-2764"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -37046,7 +37049,10 @@
           "author": {
             "id": "https://openalex.org/A5011492717",
             "display_name": "Hadil Elsayed",
-            "orcid": "https://orcid.org/0000-0001-7566-4002"
+            "orcid": "https://orcid.org/0000-0001-7566-4002",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7566-4002"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -37061,7 +37067,10 @@
           "author": {
             "id": "https://openalex.org/A5085989529",
             "display_name": "Zulfa Ali Al Disi",
-            "orcid": "https://orcid.org/0000-0003-0935-4545"
+            "orcid": "https://orcid.org/0000-0003-0935-4545",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0935-4545"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -37076,7 +37085,10 @@
           "author": {
             "id": "https://openalex.org/A5070682798",
             "display_name": "Khaled Naja",
-            "orcid": "https://orcid.org/0000-0001-9259-3082"
+            "orcid": "https://orcid.org/0000-0001-9259-3082",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9259-3082"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -37091,7 +37103,10 @@
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
-            "orcid": "https://orcid.org/0000-0001-6787-3533"
+            "orcid": "https://orcid.org/0000-0001-6787-3533",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6787-3533"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -37106,7 +37121,10 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
-            "orcid": "https://orcid.org/0000-0001-5027-0648"
+            "orcid": "https://orcid.org/0000-0001-5027-0648",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5027-0648"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -37121,7 +37139,8 @@
           "author": {
             "id": "https://openalex.org/A5031066506",
             "display_name": "Jassim Alkhayat",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -37136,7 +37155,10 @@
           "author": {
             "id": "https://openalex.org/A5030411046",
             "display_name": "Maria Dittrich",
-            "orcid": "https://orcid.org/0000-0002-8112-2661"
+            "orcid": "https://orcid.org/0000-0002-8112-2661",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8112-2661"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -37158,7 +37180,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.27643065,
+        "value": 0.27549369,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37376,7 +37398,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-09-29T14:09:16.559479",
       "created_date": "2025-10-10T00:00:00"
     },
     {
