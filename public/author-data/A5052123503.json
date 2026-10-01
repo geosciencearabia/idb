@@ -3938,7 +3938,10 @@
           "author": {
             "id": "https://openalex.org/A5102799927",
             "display_name": "Ali Aldawood",
-            "orcid": "https://orcid.org/0000-0002-9535-0825"
+            "orcid": "https://orcid.org/0000-0002-9535-0825",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9535-0825"
+            ]
           },
           "institutions": [
             {
@@ -3995,7 +3998,8 @@
           "author": {
             "id": "https://openalex.org/A5020766559",
             "display_name": "Ali Shaiban",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -4052,7 +4056,10 @@
           "author": {
             "id": "https://openalex.org/A5052123503",
             "display_name": "Ezzedeen Alfataierge",
-            "orcid": "https://orcid.org/0000-0003-4543-530X"
+            "orcid": "https://orcid.org/0000-0003-4543-530X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4543-530X"
+            ]
           },
           "institutions": [
             {
@@ -4109,7 +4116,10 @@
           "author": {
             "id": "https://openalex.org/A5067998463",
             "display_name": "Andrey V. Bakulin",
-            "orcid": "https://orcid.org/0000-0002-6638-7821"
+            "orcid": "https://orcid.org/0000-0002-6638-7821",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6638-7821"
+            ]
           },
           "institutions": [
             {
@@ -4169,11 +4179,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0861,
+      "fwci": 1.024,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.71568585,
+        "value": 0.6992444,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4262,69 +4272,34 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geophone",
-          "display_name": "Geophone",
-          "score": 0.8101921081542969
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6584998369216919
-        },
-        {
-          "id": "https://openalex.org/keywords/vertical-seismic-profile",
-          "display_name": "Vertical seismic profile",
-          "score": 0.6208333373069763
-        },
-        {
-          "id": "https://openalex.org/keywords/offset",
-          "display_name": "Offset (computer science)",
-          "score": 0.4853054881095886
-        },
-        {
-          "id": "https://openalex.org/keywords/seismology",
-          "display_name": "Seismology",
-          "score": 0.4802168309688568
-        },
-        {
           "id": "https://openalex.org/keywords/distributed-acoustic-sensing",
-          "display_name": "Distributed acoustic sensing",
-          "score": 0.4595012664794922
+          "display_name": "distributed acoustic sensing",
+          "score": 0.996999979019165
         },
         {
-          "id": "https://openalex.org/keywords/acoustics",
-          "display_name": "Acoustics",
-          "score": 0.37934762239456177
+          "id": "https://openalex.org/keywords/walkaway-vsp",
+          "display_name": "walkaway VSP",
+          "score": 0.7670000195503235
         },
         {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.23715811967849731
+          "id": "https://openalex.org/keywords/velocity-model-building",
+          "display_name": "velocity model building",
+          "score": 0.8009999990463257
         },
         {
-          "id": "https://openalex.org/keywords/fiber-optic-sensor",
-          "display_name": "Fiber optic sensor",
-          "score": 0.20208021998405457
+          "id": "https://openalex.org/keywords/first-arrival-picking",
+          "display_name": "first-arrival picking",
+          "score": 0.7260000109672546
         },
         {
-          "id": "https://openalex.org/keywords/optical-fiber",
-          "display_name": "Optical fiber",
-          "score": 0.17859479784965515
+          "id": "https://openalex.org/keywords/deep-wells",
+          "display_name": "deep wells",
+          "score": 0.3529999852180481
         },
         {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.14248815178871155
-        },
-        {
-          "id": "https://openalex.org/keywords/telecommunications",
-          "display_name": "Telecommunications",
-          "score": 0.11912262439727783
-        },
-        {
-          "id": "https://openalex.org/keywords/physics",
-          "display_name": "Physics",
-          "score": 0.10727143287658691
+          "id": "https://openalex.org/keywords/signal-to-noise-ratio",
+          "display_name": "signal-to-noise ratio",
+          "score": 0.628000020980835
         }
       ],
       "concepts": [
@@ -4472,9 +4447,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land"
         }
       ],
       "x_sdgs": [],
@@ -5523,11 +5498,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7334,
+      "fwci": 0.7302,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.62852836,
+        "value": 0.62693419,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5616,54 +5591,24 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/data-acquisition",
-          "display_name": "Data acquisition",
-          "score": 0.6823534369468689
+          "id": "https://openalex.org/keywords/unmanned-aerial-vehicles",
+          "display_name": "unmanned aerial vehicles",
+          "score": 0.9599999785423279
         },
         {
-          "id": "https://openalex.org/keywords/terrain",
-          "display_name": "Terrain",
-          "score": 0.6405104398727417
+          "id": "https://openalex.org/keywords/data-acquisition-planning",
+          "display_name": "data acquisition planning",
+          "score": 0.7009999752044678
         },
         {
-          "id": "https://openalex.org/keywords/remote-sensing",
-          "display_name": "Remote sensing",
-          "score": 0.6018305420875549
+          "id": "https://openalex.org/keywords/high-resolution-aerial-imagery",
+          "display_name": "high-resolution aerial imagery",
+          "score": 0.6290000081062317
         },
         {
-          "id": "https://openalex.org/keywords/drone",
-          "display_name": "Drone",
-          "score": 0.5703423023223877
-        },
-        {
-          "id": "https://openalex.org/keywords/footprint",
-          "display_name": "Footprint",
-          "score": 0.5039986968040466
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.49147212505340576
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.34743982553482056
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.21623188257217407
-        },
-        {
-          "id": "https://openalex.org/keywords/cartography",
-          "display_name": "Cartography",
-          "score": 0.1595204472541809
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.14430612325668335
+          "id": "https://openalex.org/keywords/carbon-footprint-reduction",
+          "display_name": "carbon footprint reduction",
+          "score": 0.6639999747276306
         }
       ],
       "concepts": [
@@ -5811,9 +5756,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production"
         }
       ],
       "x_sdgs": [],
@@ -7563,11 +7508,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.4004,
+      "fwci": 7.418,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.97366565,
+        "value": 0.97389464,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7656,64 +7601,34 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geophone",
-          "display_name": "Geophone",
-          "score": 0.8726754188537598
+          "id": "https://openalex.org/keywords/distributed-acoustic-sensing",
+          "display_name": "distributed acoustic sensing",
+          "score": 1
         },
         {
-          "id": "https://openalex.org/keywords/amplitude",
-          "display_name": "Amplitude",
-          "score": 0.6747545003890991
+          "id": "https://openalex.org/keywords/vertical-seismic-profiling",
+          "display_name": "vertical seismic profiling",
+          "score": 0.875
         },
         {
-          "id": "https://openalex.org/keywords/vertical-seismic-profile",
-          "display_name": "Vertical seismic profile",
-          "score": 0.5778048038482666
+          "id": "https://openalex.org/keywords/kinetic-and-potential-energy",
+          "display_name": "kinetic and potential energy",
+          "score": 0.8019999861717224
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5513336062431335
+          "id": "https://openalex.org/keywords/channel-spacing",
+          "display_name": "channel spacing",
+          "score": 0.5609999895095825
         },
         {
-          "id": "https://openalex.org/keywords/inversion",
-          "display_name": "Inversion (geology)",
-          "score": 0.5178720951080322
+          "id": "https://openalex.org/keywords/gauge-length",
+          "display_name": "gauge length",
+          "score": 0.9729999899864197
         },
         {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.4004684090614319
-        },
-        {
-          "id": "https://openalex.org/keywords/seismology",
-          "display_name": "Seismology",
-          "score": 0.39956429600715637
-        },
-        {
-          "id": "https://openalex.org/keywords/acoustics",
-          "display_name": "Acoustics",
-          "score": 0.39707323908805847
-        },
-        {
-          "id": "https://openalex.org/keywords/geophysics",
-          "display_name": "Geophysics",
-          "score": 0.34177878499031067
-        },
-        {
-          "id": "https://openalex.org/keywords/physics",
-          "display_name": "Physics",
-          "score": 0.13645097613334656
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.09552595019340515
-        },
-        {
-          "id": "https://openalex.org/keywords/optics",
-          "display_name": "Optics",
-          "score": 0.08988875150680542
+          "id": "https://openalex.org/keywords/desert-environment",
+          "display_name": "desert environment",
+          "score": 0.4690000116825104
         }
       ],
       "concepts": [
@@ -8457,11 +8372,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5994,
+      "fwci": 0.5986,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.64773637,
+        "value": 0.64730204,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8516,84 +8431,39 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/seismic-survey",
-          "display_name": "Seismic survey",
-          "score": 0.7116485834121704
+          "id": "https://openalex.org/keywords/unmanned-aerial-vehicles",
+          "display_name": "unmanned aerial vehicles",
+          "score": 0.9110000133514404
         },
         {
-          "id": "https://openalex.org/keywords/aerial-survey",
-          "display_name": "Aerial survey",
-          "score": 0.680046021938324
+          "id": "https://openalex.org/keywords/seismic-survey-planning",
+          "display_name": "seismic survey planning",
+          "score": 0.8100000023841858
         },
         {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.6625339984893799
+          "id": "https://openalex.org/keywords/aerial-imagery",
+          "display_name": "aerial imagery",
+          "score": 0.5189999938011169
         },
         {
-          "id": "https://openalex.org/keywords/high-resolution",
-          "display_name": "High resolution",
-          "score": 0.5018360614776611
+          "id": "https://openalex.org/keywords/high-resolution-mapping",
+          "display_name": "high-resolution mapping",
+          "score": 0.7009999752044678
         },
         {
-          "id": "https://openalex.org/keywords/ground-truth",
-          "display_name": "Ground truth",
-          "score": 0.4934472143650055
+          "id": "https://openalex.org/keywords/automated-image-labeling",
+          "display_name": "automated image labeling",
+          "score": 0.6489999890327454
         },
         {
-          "id": "https://openalex.org/keywords/trace",
-          "display_name": "TRACE (psycholinguistics)",
-          "score": 0.4803920388221741
+          "id": "https://openalex.org/keywords/machine-learning",
+          "display_name": "machine learning",
+          "score": 0.8050000071525574
         },
         {
-          "id": "https://openalex.org/keywords/remote-sensing",
-          "display_name": "Remote sensing",
-          "score": 0.46847501397132874
-        },
-        {
-          "id": "https://openalex.org/keywords/data-acquisition",
-          "display_name": "Data acquisition",
-          "score": 0.4478864073753357
-        },
-        {
-          "id": "https://openalex.org/keywords/resolution",
-          "display_name": "Resolution (logic)",
-          "score": 0.4268677234649658
-        },
-        {
-          "id": "https://openalex.org/keywords/crew",
-          "display_name": "Crew",
-          "score": 0.4220616817474365
-        },
-        {
-          "id": "https://openalex.org/keywords/real-time-computing",
-          "display_name": "Real-time computing",
-          "score": 0.3617766499519348
-        },
-        {
-          "id": "https://openalex.org/keywords/artificial-intelligence",
-          "display_name": "Artificial intelligence",
-          "score": 0.3415988087654114
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.22524034976959229
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.1631144881248474
-        },
-        {
-          "id": "https://openalex.org/keywords/seismology",
-          "display_name": "Seismology",
-          "score": 0.13439589738845825
-        },
-        {
-          "id": "https://openalex.org/keywords/aeronautics",
-          "display_name": "Aeronautics",
-          "score": 0.08181056380271912
+          "id": "https://openalex.org/keywords/subsurface-conditions",
+          "display_name": "ground conditions",
+          "score": 0.3869999945163727
         }
       ],
       "concepts": [
@@ -9302,11 +9172,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6167,
+      "fwci": 0.6133,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.7034289,
+        "value": 0.70262444,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9395,29 +9265,24 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.6058953404426575
+          "id": "https://openalex.org/keywords/unmanned-aerial-vehicles",
+          "display_name": "unmanned aerial vehicles",
+          "score": 0.8830000162124634
         },
         {
-          "id": "https://openalex.org/keywords/data-acquisition",
-          "display_name": "Data acquisition",
-          "score": 0.5308799743652344
+          "id": "https://openalex.org/keywords/uav-swarms",
+          "display_name": "UAV swarms",
+          "score": 0.7070000171661377
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.3802059590816498
+          "id": "https://openalex.org/keywords/land-seismic-exploration",
+          "display_name": "land seismic exploration",
+          "score": 0.6819999814033508
         },
         {
-          "id": "https://openalex.org/keywords/real-time-computing",
-          "display_name": "Real-time computing",
-          "score": 0.339743971824646
-        },
-        {
-          "id": "https://openalex.org/keywords/operating-system",
-          "display_name": "Operating system",
-          "score": 0.13290256261825562
+          "id": "https://openalex.org/keywords/environmental-footprint-reduction",
+          "display_name": "environmental footprint reduction",
+          "score": 0.6019999980926514
         }
       ],
       "concepts": [
@@ -10341,9 +10206,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -11196,11 +11061,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6913,
+      "fwci": 0.6766,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.65809171,
+        "value": 0.65221526,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11289,19 +11154,19 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5578349232673645
+          "id": "https://openalex.org/keywords/distributed-acoustic-sensing",
+          "display_name": "distributed acoustic sensing",
+          "score": 0.9980000257492065
         },
         {
-          "id": "https://openalex.org/keywords/dual",
-          "display_name": "Dual (grammatical number)",
-          "score": 0.5027163028717041
+          "id": "https://openalex.org/keywords/vertical-seismic-profiling",
+          "display_name": "vertical seismic profiling",
+          "score": 0.8690000176429749
         },
         {
-          "id": "https://openalex.org/keywords/philosophy",
-          "display_name": "Philosophy",
-          "score": 0.09541979432106018
+          "id": "https://openalex.org/keywords/velocity-inversion",
+          "display_name": "velocity inversion",
+          "score": 0.6700000166893005
         }
       ],
       "concepts": [
@@ -12384,9 +12249,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6899999976158142,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -14328,11 +14193,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7695,
+      "fwci": 0.769,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.68460171,
+        "value": 0.68449111,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14421,79 +14286,49 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/land-cover",
-          "display_name": "Land cover",
-          "score": 0.6612607836723328
+          "id": "https://openalex.org/keywords/land-cover-classification",
+          "display_name": "land cover classification",
+          "score": 0.9860000014305115
         },
         {
-          "id": "https://openalex.org/keywords/ground-truth",
-          "display_name": "Ground truth",
-          "score": 0.6213952898979187
+          "id": "https://openalex.org/keywords/uav-imagery",
+          "display_name": "UAV imagery",
+          "score": 0.7739999890327454
         },
         {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.5976952314376831
+          "id": "https://openalex.org/keywords/orthomosaic",
+          "display_name": "orthomosaic",
+          "score": 0.781000018119812
+        },
+        {
+          "id": "https://openalex.org/keywords/arid-regions",
+          "display_name": "arid regions",
+          "score": 0.8769999742507935
+        },
+        {
+          "id": "https://openalex.org/keywords/cloth-simulation-filter",
+          "display_name": "cloth simulation filter",
+          "score": 0.8519999980926514
         },
         {
           "id": "https://openalex.org/keywords/random-forest",
-          "display_name": "Random forest",
-          "score": 0.5527985692024231
+          "display_name": "random forest",
+          "score": 0.984000027179718
         },
         {
-          "id": "https://openalex.org/keywords/remote-sensing",
-          "display_name": "Remote sensing",
-          "score": 0.5007774829864502
+          "id": "https://openalex.org/keywords/conditional-gan",
+          "display_name": "conditional generative adversarial networks",
+          "score": 0.9700000286102295
         },
         {
-          "id": "https://openalex.org/keywords/footprint",
-          "display_name": "Footprint",
-          "score": 0.4964044690132141
+          "id": "https://openalex.org/keywords/edge-detection",
+          "display_name": "edge detection",
+          "score": 0.9300000071525574
         },
         {
-          "id": "https://openalex.org/keywords/arid",
-          "display_name": "Arid",
-          "score": 0.45759114623069763
-        },
-        {
-          "id": "https://openalex.org/keywords/artificial-intelligence",
-          "display_name": "Artificial intelligence",
-          "score": 0.4357268214225769
-        },
-        {
-          "id": "https://openalex.org/keywords/filter",
-          "display_name": "Filter (signal processing)",
-          "score": 0.4343111217021942
-        },
-        {
-          "id": "https://openalex.org/keywords/cover",
-          "display_name": "Cover (algebra)",
-          "score": 0.4213874340057373
-        },
-        {
-          "id": "https://openalex.org/keywords/land-use",
-          "display_name": "Land use",
-          "score": 0.27267754077911377
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-vision",
-          "display_name": "Computer vision",
-          "score": 0.2645592987537384
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.14707359671592712
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.11341902613639832
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.10509830713272095
+          "id": "https://openalex.org/keywords/machine-learning",
+          "display_name": "machine learning",
+          "score": 0.515999972820282
         }
       ],
       "concepts": [
@@ -14652,9 +14487,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production"
         }
       ],
       "x_sdgs": [],
@@ -16297,11 +16132,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.046,
+      "fwci": 2.0384,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.80925847,
+        "value": 0.80857449,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16390,99 +16225,29 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geophone",
-          "display_name": "Geophone",
-          "score": 0.9000484943389893
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.7277935743331909
-        },
-        {
-          "id": "https://openalex.org/keywords/casing",
-          "display_name": "Casing",
-          "score": 0.5963364839553833
-        },
-        {
           "id": "https://openalex.org/keywords/distributed-acoustic-sensing",
-          "display_name": "Distributed acoustic sensing",
-          "score": 0.5938742756843567
+          "display_name": "distributed acoustic sensing",
+          "score": 0.9890000224113464
         },
         {
-          "id": "https://openalex.org/keywords/offset",
-          "display_name": "Offset (computer science)",
-          "score": 0.5210113525390625
+          "id": "https://openalex.org/keywords/walkaway-vsp",
+          "display_name": "walkaway VSP",
+          "score": 0.7739999890327454
         },
         {
-          "id": "https://openalex.org/keywords/vertical-seismic-profile",
-          "display_name": "Vertical seismic profile",
-          "score": 0.4756819009780884
+          "id": "https://openalex.org/keywords/velocity-model-building",
+          "display_name": "velocity model building",
+          "score": 0.7699999809265137
         },
         {
-          "id": "https://openalex.org/keywords/stack",
-          "display_name": "Stack (abstract data type)",
-          "score": 0.4690084159374237
+          "id": "https://openalex.org/keywords/first-arrival-picking",
+          "display_name": "first-arrival picking",
+          "score": 0.7570000290870667
         },
         {
-          "id": "https://openalex.org/keywords/high-resolution",
-          "display_name": "High resolution",
-          "score": 0.4507940411567688
-        },
-        {
-          "id": "https://openalex.org/keywords/seismology",
-          "display_name": "Seismology",
-          "score": 0.4242894649505615
-        },
-        {
-          "id": "https://openalex.org/keywords/sensitivity",
-          "display_name": "Sensitivity (control systems)",
-          "score": 0.41794317960739136
-        },
-        {
-          "id": "https://openalex.org/keywords/acoustics",
-          "display_name": "Acoustics",
-          "score": 0.35241830348968506
-        },
-        {
-          "id": "https://openalex.org/keywords/remote-sensing",
-          "display_name": "Remote sensing",
-          "score": 0.302729994058609
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.1825581192970276
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.16687867045402527
-        },
-        {
-          "id": "https://openalex.org/keywords/electronic-engineering",
-          "display_name": "Electronic engineering",
-          "score": 0.1311272382736206
-        },
-        {
-          "id": "https://openalex.org/keywords/optical-fiber",
-          "display_name": "Optical fiber",
-          "score": 0.12872275710105896
-        },
-        {
-          "id": "https://openalex.org/keywords/geophysics",
-          "display_name": "Geophysics",
-          "score": 0.11489254236221313
-        },
-        {
-          "id": "https://openalex.org/keywords/fiber-optic-sensor",
-          "display_name": "Fiber optic sensor",
-          "score": 0.0989207923412323
-        },
-        {
-          "id": "https://openalex.org/keywords/telecommunications",
-          "display_name": "Telecommunications",
-          "score": 0.09294715523719788
+          "id": "https://openalex.org/keywords/traveltime-inversion",
+          "display_name": "travel time inversion",
+          "score": 0.6499999761581421
         }
       ],
       "concepts": [
@@ -16655,9 +16420,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "score": 0.7200000286102295,
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "x_sdgs": [],
@@ -17308,11 +17073,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3631,
+      "fwci": 1.359,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.78520812,
+        "value": 0.78488601,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17401,69 +17166,24 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/data-acquisition",
-          "display_name": "Data acquisition",
-          "score": 0.7600125074386597
+          "id": "https://openalex.org/keywords/unmanned-aerial-vehicles",
+          "display_name": "unmanned aerial vehicles",
+          "score": 0.9959999918937683
         },
         {
-          "id": "https://openalex.org/keywords/aerial-photography",
-          "display_name": "Aerial photography",
-          "score": 0.7063027620315552
+          "id": "https://openalex.org/keywords/high-resolution-aerial-imagery",
+          "display_name": "high-resolution aerial imagery",
+          "score": 0.8029999732971191
         },
         {
-          "id": "https://openalex.org/keywords/remote-sensing",
-          "display_name": "Remote sensing",
-          "score": 0.6984529495239258
+          "id": "https://openalex.org/keywords/field-productivity",
+          "display_name": "field productivity",
+          "score": 0.375
         },
         {
-          "id": "https://openalex.org/keywords/aerial-photos",
-          "display_name": "Aerial photos",
-          "score": 0.5445677042007446
-        },
-        {
-          "id": "https://openalex.org/keywords/target-acquisition",
-          "display_name": "Target acquisition",
-          "score": 0.49678900837898254
-        },
-        {
-          "id": "https://openalex.org/keywords/high-resolution",
-          "display_name": "High resolution",
-          "score": 0.4949583411216736
-        },
-        {
-          "id": "https://openalex.org/keywords/aerial-survey",
-          "display_name": "Aerial survey",
-          "score": 0.48580288887023926
-        },
-        {
-          "id": "https://openalex.org/keywords/satellite",
-          "display_name": "Satellite",
-          "score": 0.44912034273147583
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.39380887150764465
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.29483145475387573
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.20665287971496582
-        },
-        {
-          "id": "https://openalex.org/keywords/artificial-intelligence",
-          "display_name": "Artificial intelligence",
-          "score": 0.1965247094631195
-        },
-        {
-          "id": "https://openalex.org/keywords/aerospace-engineering",
-          "display_name": "Aerospace engineering",
-          "score": 0.1025572121143341
+          "id": "https://openalex.org/keywords/satellite-imagery-comparison",
+          "display_name": "satellite image comparison",
+          "score": 0.5509999990463257
         }
       ],
       "concepts": [
@@ -17587,9 +17307,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -19139,9 +18859,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -20391,7 +20111,10 @@
           "author": {
             "id": "https://openalex.org/A5052123503",
             "display_name": "Ezzedeen Alfataierge",
-            "orcid": "https://orcid.org/0000-0003-4543-530X"
+            "orcid": "https://orcid.org/0000-0003-4543-530X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4543-530X"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -20498,78 +20221,33 @@
       "keywords": [
         {
           "id": "https://openalex.org/keywords/distributed-acoustic-sensing",
-          "display_name": "Distributed acoustic sensing",
-          "score": 0.7431308627128601
+          "display_name": "distributed acoustic sensing",
+          "score": 0.9959999918937683
         },
         {
           "id": "https://openalex.org/keywords/fiber-bragg-grating",
-          "display_name": "Fiber Bragg grating",
-          "score": 0.7418535947799683
+          "display_name": "fiber Bragg grating",
+          "score": 0.9940000176429749
         },
         {
-          "id": "https://openalex.org/keywords/optical-fiber",
-          "display_name": "Optical fiber",
-          "score": 0.519467294216156
+          "id": "https://openalex.org/keywords/land-seismic",
+          "display_name": "land seismic",
+          "score": 0.37299999594688416
         },
         {
-          "id": "https://openalex.org/keywords/phosfos",
-          "display_name": "PHOSFOS",
-          "score": 0.48875927925109863
+          "id": "https://openalex.org/keywords/marine-seismic",
+          "display_name": "marine seismic",
+          "score": 0.984000027179718
         },
         {
-          "id": "https://openalex.org/keywords/fiber-optic-sensor",
-          "display_name": "Fiber optic sensor",
-          "score": 0.45896223187446594
+          "id": "https://openalex.org/keywords/fiber-optic-sensing",
+          "display_name": "fiber optic sensing",
+          "score": 0.5360000133514404
         },
         {
-          "id": "https://openalex.org/keywords/fiber",
-          "display_name": "Fiber",
-          "score": 0.4290494918823242
-        },
-        {
-          "id": "https://openalex.org/keywords/acoustic-sensor",
-          "display_name": "Acoustic sensor",
-          "score": 0.42581531405448914
-        },
-        {
-          "id": "https://openalex.org/keywords/materials-science",
-          "display_name": "Materials science",
-          "score": 0.40664705634117126
-        },
-        {
-          "id": "https://openalex.org/keywords/acoustics",
-          "display_name": "Acoustics",
-          "score": 0.39837080240249634
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.35805994272232056
-        },
-        {
-          "id": "https://openalex.org/keywords/seismology",
-          "display_name": "Seismology",
-          "score": 0.3272566497325897
-        },
-        {
-          "id": "https://openalex.org/keywords/optics",
-          "display_name": "Optics",
-          "score": 0.30602169036865234
-        },
-        {
-          "id": "https://openalex.org/keywords/polarization-maintaining-optical-fiber",
-          "display_name": "Polarization-maintaining optical fiber",
-          "score": 0.23486682772636414
-        },
-        {
-          "id": "https://openalex.org/keywords/physics",
-          "display_name": "Physics",
-          "score": 0.17280003428459167
-        },
-        {
-          "id": "https://openalex.org/keywords/composite-material",
-          "display_name": "Composite material",
-          "score": 0.05816781520843506
+          "id": "https://openalex.org/keywords/seismic-monitoring",
+          "display_name": "seismic monitoring",
+          "score": 0.40299999713897705
         }
       ],
       "concepts": [
@@ -20700,9 +20378,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -21919,7 +21597,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.16030862,
+        "value": 0.16034298,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22005,24 +21683,29 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/borehole",
-          "display_name": "Borehole",
-          "score": 0.6369227170944214
+          "id": "https://openalex.org/keywords/distributed-acoustic-sensing",
+          "display_name": "distributed acoustic sensing",
+          "score": 0.8109999895095825
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6308286190032959
+          "id": "https://openalex.org/keywords/walkaway-vsp",
+          "display_name": "walkaway VSP",
+          "score": 0.7559999823570251
         },
         {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.33001306653022766
+          "id": "https://openalex.org/keywords/simultaneous-acquisition",
+          "display_name": "simultaneous acquisition",
+          "score": 0.6850000023841858
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.15635988116264343
+          "id": "https://openalex.org/keywords/deep-wells",
+          "display_name": "deep wells",
+          "score": 0.7200000286102295
+        },
+        {
+          "id": "https://openalex.org/keywords/borehole-geophysics",
+          "display_name": "borehole geophysics",
+          "score": 0.9369999766349792
         }
       ],
       "concepts": [
@@ -22244,7 +21927,10 @@
           "author": {
             "id": "https://openalex.org/A5089898416",
             "display_name": "Abdulrahman Alshuhail",
-            "orcid": "https://orcid.org/0000-0003-1746-2861"
+            "orcid": "https://orcid.org/0000-0003-1746-2861",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1746-2861"
+            ]
           },
           "institutions": [
             {
@@ -22301,7 +21987,10 @@
           "author": {
             "id": "https://openalex.org/A5080833208",
             "display_name": "C. Tsingas",
-            "orcid": "https://orcid.org/0000-0001-9449-5160"
+            "orcid": "https://orcid.org/0000-0001-9449-5160",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9449-5160"
+            ]
           },
           "institutions": [
             {
@@ -22358,7 +22047,10 @@
           "author": {
             "id": "https://openalex.org/A5052123503",
             "display_name": "Ezzedeen Alfataierge",
-            "orcid": "https://orcid.org/0000-0003-4543-530X"
+            "orcid": "https://orcid.org/0000-0003-4543-530X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4543-530X"
+            ]
           },
           "institutions": [
             {
@@ -22415,7 +22107,10 @@
           "author": {
             "id": "https://openalex.org/A5012078441",
             "display_name": "Daniele Colombo",
-            "orcid": "https://orcid.org/0000-0002-2870-5876"
+            "orcid": "https://orcid.org/0000-0002-2870-5876",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2870-5876"
+            ]
           },
           "institutions": [
             {
@@ -22472,7 +22167,10 @@
           "author": {
             "id": "https://openalex.org/A5084495777",
             "display_name": "Abdulmohsen Alali",
-            "orcid": "https://orcid.org/0000-0002-5128-992X"
+            "orcid": "https://orcid.org/0000-0002-5128-992X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5128-992X"
+            ]
           },
           "institutions": [
             {
@@ -22536,7 +22234,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03530599,
+        "value": 0.03557381,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22623,73 +22321,38 @@
       "keywords": [
         {
           "id": "https://openalex.org/keywords/robotics",
-          "display_name": "Robotics",
-          "score": 0.7705726623535156
+          "display_name": "robotics",
+          "score": 0.9319999814033508
         },
         {
           "id": "https://openalex.org/keywords/automation",
-          "display_name": "Automation",
-          "score": 0.7543468475341797
+          "display_name": "automation",
+          "score": 0.9819999933242798
         },
         {
-          "id": "https://openalex.org/keywords/chain",
-          "display_name": "Chain (unit)",
-          "score": 0.528221845626831
+          "id": "https://openalex.org/keywords/seismic-data-acquisition",
+          "display_name": "seismic data acquisition",
+          "score": 0.9390000104904175
         },
         {
-          "id": "https://openalex.org/keywords/artificial-intelligence",
-          "display_name": "Artificial intelligence",
-          "score": 0.5096585750579834
+          "id": "https://openalex.org/keywords/seismic-data-processing",
+          "display_name": "seismic data processing",
+          "score": 0.9520000219345093
         },
         {
-          "id": "https://openalex.org/keywords/value-chain",
-          "display_name": "Value chain",
-          "score": 0.49378976225852966
+          "id": "https://openalex.org/keywords/seismic-interpretation",
+          "display_name": "seismic interpretation",
+          "score": 0.9649999737739563
         },
         {
-          "id": "https://openalex.org/keywords/value",
-          "display_name": "Value (mathematics)",
-          "score": 0.49121540784835815
+          "id": "https://openalex.org/keywords/subsurface-characterization",
+          "display_name": "subsurface characterization",
+          "score": 0.7160000205039978
         },
         {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.42324337363243103
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.3538053035736084
-        },
-        {
-          "id": "https://openalex.org/keywords/robot",
-          "display_name": "Robot",
-          "score": 0.28757593035697937
-        },
-        {
-          "id": "https://openalex.org/keywords/mechanical-engineering",
-          "display_name": "Mechanical engineering",
-          "score": 0.19004502892494202
-        },
-        {
-          "id": "https://openalex.org/keywords/business",
-          "display_name": "Business",
-          "score": 0.17252975702285767
-        },
-        {
-          "id": "https://openalex.org/keywords/machine-learning",
-          "display_name": "Machine learning",
-          "score": 0.16273587942123413
-        },
-        {
-          "id": "https://openalex.org/keywords/supply-chain",
-          "display_name": "Supply chain",
-          "score": 0.15485402941703796
-        },
-        {
-          "id": "https://openalex.org/keywords/physics",
-          "display_name": "Physics",
-          "score": 0.08073267340660095
+          "id": "https://openalex.org/keywords/research-and-development-collaboration",
+          "display_name": "research and development collaboration",
+          "score": 0.6499999761581421
         }
       ],
       "concepts": [
@@ -23513,7 +23176,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.25066228,
+        "value": 0.24926927,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23565,34 +23228,39 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.6014730930328369
+          "id": "https://openalex.org/keywords/gamma-ray-log",
+          "display_name": "gamma-ray log",
+          "score": 0.8339999914169312
         },
         {
-          "id": "https://openalex.org/keywords/drilling",
-          "display_name": "Drilling",
-          "score": 0.5179135203361511
+          "id": "https://openalex.org/keywords/sonic-logs",
+          "display_name": "sonic logs",
+          "score": 0.41600000858306885
         },
         {
-          "id": "https://openalex.org/keywords/artificial-intelligence",
-          "display_name": "Artificial intelligence",
-          "score": 0.43172410130500793
+          "id": "https://openalex.org/keywords/carbonate-reservoirs",
+          "display_name": "carbonate reservoirs",
+          "score": 0.5220000147819519
         },
         {
-          "id": "https://openalex.org/keywords/data-mining",
-          "display_name": "Data mining",
-          "score": 0.37039464712142944
+          "id": "https://openalex.org/keywords/bidirectional-lstm",
+          "display_name": "bidirectional LSTM",
+          "score": 0.6679999828338623
         },
         {
-          "id": "https://openalex.org/keywords/machine-learning",
-          "display_name": "Machine learning",
-          "score": 0.33463531732559204
+          "id": "https://openalex.org/keywords/sequence-to-sequence-models",
+          "display_name": "sequence-to-sequence models",
+          "score": 0.7749999761581421
         },
         {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.11688950657844543
+          "id": "https://openalex.org/keywords/geosteering",
+          "display_name": "geosteering",
+          "score": 0.8230000138282776
+        },
+        {
+          "id": "https://openalex.org/keywords/complex-reservoirs",
+          "display_name": "complex reservoirs",
+          "score": 0.38499999046325684
         }
       ],
       "concepts": [
@@ -23667,9 +23335,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.6399999856948853,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -24353,7 +24021,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.16146072,
+        "value": 0.16134123,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24405,19 +24073,34 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.4015546441078186
+          "id": "https://openalex.org/keywords/near-surface-velocity-model",
+          "display_name": "near-surface velocity model",
+          "score": 0.859000027179718
         },
         {
-          "id": "https://openalex.org/keywords/materials-science",
-          "display_name": "Materials science",
-          "score": 0.390083909034729
+          "id": "https://openalex.org/keywords/distributed-acoustic-sensing",
+          "display_name": "distributed acoustic sensing",
+          "score": 0.8560000061988831
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.3612252473831177
+          "id": "https://openalex.org/keywords/vertical-seismic-profiling",
+          "display_name": "vertical seismic profiling",
+          "score": 0.7720000147819519
+        },
+        {
+          "id": "https://openalex.org/keywords/water-wells",
+          "display_name": "water wells",
+          "score": 0.8199999928474426
+        },
+        {
+          "id": "https://openalex.org/keywords/rate-of-penetration",
+          "display_name": "rate of penetration",
+          "score": 0.6499999761581421
+        },
+        {
+          "id": "https://openalex.org/keywords/seismic-refraction",
+          "display_name": "seismic refraction",
+          "score": 0.6990000009536743
         }
       ],
       "concepts": [
@@ -24464,9 +24147,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "score": 0.6299999952316284,
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "x_sdgs": [],
@@ -25132,7 +24815,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37727065,
+        "value": 0.37468031,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25218,39 +24901,39 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/robustness",
-          "display_name": "Robustness (evolution)",
-          "score": 0.6901000142097473
+          "id": "https://openalex.org/keywords/well-placement",
+          "display_name": "well placement",
+          "score": 0.7680000066757202
         },
         {
-          "id": "https://openalex.org/keywords/drill",
-          "display_name": "Drill",
-          "score": 0.5181999802589417
+          "id": "https://openalex.org/keywords/cross-correlation-function",
+          "display_name": "cross correlation function",
+          "score": 0.7710000276565552
         },
         {
-          "id": "https://openalex.org/keywords/grid",
-          "display_name": "Grid",
-          "score": 0.47600001096725464
+          "id": "https://openalex.org/keywords/drill-string",
+          "display_name": "drill string",
+          "score": 0.5199999809265137
         },
         {
-          "id": "https://openalex.org/keywords/tracking",
-          "display_name": "Tracking (education)",
-          "score": 0.43209999799728394
+          "id": "https://openalex.org/keywords/probability-distribution-functions",
+          "display_name": "probability distribution functions",
+          "score": 0.6000000238418579
+        },
+        {
+          "id": "https://openalex.org/keywords/positional-uncertainty",
+          "display_name": "position uncertainty",
+          "score": 0.8399999737739563
+        },
+        {
+          "id": "https://openalex.org/keywords/source-localization",
+          "display_name": "source localization",
+          "score": 0.5559999942779541
         },
         {
           "id": "https://openalex.org/keywords/measurement-while-drilling",
-          "display_name": "Measurement while drilling",
-          "score": 0.38670000433921814
-        },
-        {
-          "id": "https://openalex.org/keywords/field",
-          "display_name": "Field (mathematics)",
-          "score": 0.329800009727478
-        },
-        {
-          "id": "https://openalex.org/keywords/outlier",
-          "display_name": "Outlier",
-          "score": 0.3221000134944916
+          "display_name": "measurement while drilling",
+          "score": 0.7680000066757202
         }
       ],
       "concepts": [
@@ -28118,9 +27801,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 0.4758980870246887,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         }
       ],
       "x_sdgs": [],

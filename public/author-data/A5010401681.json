@@ -1326,7 +1326,8 @@
           "author": {
             "id": "https://openalex.org/A5010401681",
             "display_name": "Abdulrahman S. Alsharhan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -1377,11 +1378,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6448,
+      "fwci": 1.629,
       "has_fulltext": false,
       "cited_by_count": 219,
       "citation_normalized_percentile": {
-        "value": 0.8335884,
+        "value": 0.83200824,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1470,54 +1471,64 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.9256181120872498
+          "id": "https://openalex.org/keywords/petroleum-geology",
+          "display_name": "petroleum geology",
+          "score": 0.8989999890327454
         },
         {
-          "id": "https://openalex.org/keywords/source-rock",
-          "display_name": "Source rock",
-          "score": 0.7252402305603027
+          "id": "https://openalex.org/keywords/hydrocarbon-plays",
+          "display_name": "hydrocarbon plays",
+          "score": 0.8769999742507935
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.5894147157669067
+          "id": "https://openalex.org/keywords/source-rocks",
+          "display_name": "source rocks",
+          "score": 0.6129999756813049
         },
         {
-          "id": "https://openalex.org/keywords/rift",
-          "display_name": "Rift",
-          "score": 0.5835500955581665
+          "id": "https://openalex.org/keywords/reservoirs",
+          "display_name": "reservoirs",
+          "score": 0.7089999914169312
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.5605963468551636
+          "id": "https://openalex.org/keywords/hydrocarbon-seals",
+          "display_name": "hydrocarbon seals",
+          "score": 0.5529999732971191
         },
         {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.5087235569953918
+          "id": "https://openalex.org/keywords/miocene-evaporites",
+          "display_name": "Miocene evaporites",
+          "score": 0.824999988079071
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.4716978073120117
+          "id": "https://openalex.org/keywords/nubian-sandstone",
+          "display_name": "Nubian sandstone",
+          "score": 0.6850000023841858
         },
         {
-          "id": "https://openalex.org/keywords/petroleum",
-          "display_name": "Petroleum",
-          "score": 0.4481849670410156
+          "id": "https://openalex.org/keywords/miocene-sandstones",
+          "display_name": "Miocene sandstones",
+          "score": 0.5440000295639038
         },
         {
-          "id": "https://openalex.org/keywords/paleogene",
-          "display_name": "Paleogene",
-          "score": 0.4188401401042938
+          "id": "https://openalex.org/keywords/biomarkers",
+          "display_name": "biomarkers",
+          "score": 0.5460000038146973
         },
         {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.3912201523780823
+          "id": "https://openalex.org/keywords/steranes",
+          "display_name": "steranes",
+          "score": 0.6909999847412109
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-fields",
+          "display_name": "oil fields",
+          "score": 0.3240000009536743
+        },
+        {
+          "id": "https://openalex.org/keywords/miocene-volcanism",
+          "display_name": "Miocene volcanism",
+          "score": 0.3240000009536743
         }
       ],
       "concepts": [
@@ -2814,11 +2825,11 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 7.0793,
+      "fwci": 7.0635,
       "has_fulltext": false,
       "cited_by_count": 158,
       "citation_normalized_percentile": {
-        "value": 0.97714189,
+        "value": 0.97708952,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2907,89 +2918,59 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8383647203445435
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.7995705604553223
-        },
-        {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.7802146077156067
-        },
-        {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.6939505338668823
-        },
-        {
-          "id": "https://openalex.org/keywords/group",
-          "display_name": "Group (periodic table)",
-          "score": 0.6937648057937622
-        },
-        {
-          "id": "https://openalex.org/keywords/cenomanian",
-          "display_name": "Cenomanian",
-          "score": 0.6839728355407715
-        },
-        {
-          "id": "https://openalex.org/keywords/peninsula",
-          "display_name": "Peninsula",
-          "score": 0.6389844417572021
-        },
-        {
-          "id": "https://openalex.org/keywords/palaeogeography",
-          "display_name": "Palaeogeography",
-          "score": 0.6331032514572144
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-platform",
-          "display_name": "Carbonate platform",
-          "score": 0.5309250950813293
-        },
-        {
-          "id": "https://openalex.org/keywords/sequence-stratigraphy",
-          "display_name": "Sequence stratigraphy",
-          "score": 0.5302972793579102
+          "id": "https://openalex.org/keywords/mid-cretaceous",
+          "display_name": "mid-Cretaceous",
+          "score": 0.9240000247955322
         },
         {
           "id": "https://openalex.org/keywords/stratigraphy",
-          "display_name": "Stratigraphy",
-          "score": 0.5230356454849243
+          "display_name": "stratigraphy",
+          "score": 0.8019999861717224
         },
         {
-          "id": "https://openalex.org/keywords/carbonate",
-          "display_name": "Carbonate",
-          "score": 0.4987316131591797
+          "id": "https://openalex.org/keywords/paleogeography",
+          "display_name": "paleogeography",
+          "score": 0.9010000228881836
         },
         {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.48264461755752563
+          "id": "https://openalex.org/keywords/persian-gulf",
+          "display_name": "Persian Gulf",
+          "score": 0.8579999804496765
         },
         {
-          "id": "https://openalex.org/keywords/clastic-rock",
-          "display_name": "Clastic rock",
-          "score": 0.41873428225517273
+          "id": "https://openalex.org/keywords/united-arab-emirates",
+          "display_name": "United Arab Emirates",
+          "score": 0.9399999976158142
         },
         {
-          "id": "https://openalex.org/keywords/archaeology",
-          "display_name": "Archaeology",
-          "score": 0.10034897923469543
+          "id": "https://openalex.org/keywords/facies-distribution",
+          "display_name": "facies distribution",
+          "score": 0.7260000109672546
         },
         {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.08770483732223511
+          "id": "https://openalex.org/keywords/carbonate-platform",
+          "display_name": "carbonate platform",
+          "score": 0.4869999885559082
         },
         {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.06508585810661316
+          "id": "https://openalex.org/keywords/intracratonic-basin",
+          "display_name": "intracratonic basin",
+          "score": 0.9879999756813049
+        },
+        {
+          "id": "https://openalex.org/keywords/albian-cenomanian",
+          "display_name": "Albian-Cenomanian",
+          "score": 0.8090000152587891
+        },
+        {
+          "id": "https://openalex.org/keywords/type-section",
+          "display_name": "type section",
+          "score": 0.7649999856948853
+        },
+        {
+          "id": "https://openalex.org/keywords/synonymy",
+          "display_name": "synonymy",
+          "score": 0.5630000233650208
         }
       ],
       "concepts": [
@@ -8043,7 +8024,8 @@
           "author": {
             "id": "https://openalex.org/A5010401681",
             "display_name": "Abdulrahman S. Alsharhan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -8063,11 +8045,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.6388,
+      "fwci": 4.5285,
       "has_fulltext": true,
       "cited_by_count": 124,
       "citation_normalized_percentile": {
-        "value": 0.94658754,
+        "value": 0.94504157,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8156,94 +8138,79 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8978313207626343
+          "id": "https://openalex.org/keywords/khuff-formation",
+          "display_name": "Khuff Formation",
+          "score": 0.9990000128746033
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.8139292001724243
+          "id": "https://openalex.org/keywords/guadalupian",
+          "display_name": "Middle Permian",
+          "score": 0.7670000195503235
         },
         {
-          "id": "https://openalex.org/keywords/outcrop",
-          "display_name": "Outcrop",
-          "score": 0.7774469256401062
+          "id": "https://openalex.org/keywords/early-triassic",
+          "display_name": "Early Triassic",
+          "score": 0.996999979019165
         },
         {
-          "id": "https://openalex.org/keywords/anhydrite",
-          "display_name": "Anhydrite",
-          "score": 0.756985068321228
+          "id": "https://openalex.org/keywords/carbonate-sedimentology",
+          "display_name": "carbonate sedimentology",
+          "score": 0.6629999876022339
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-facies",
+          "display_name": "sedimentary facies",
+          "score": 0.6430000066757202
+        },
+        {
+          "id": "https://openalex.org/keywords/transgressive-systems-tract",
+          "display_name": "transgressive systems tract",
+          "score": 0.546999990940094
+        },
+        {
+          "id": "https://openalex.org/keywords/highstand-systems-tract",
+          "display_name": "highstand systems tract",
+          "score": 0.7979999780654907
+        },
+        {
+          "id": "https://openalex.org/keywords/maximum-flooding-surface",
+          "display_name": "maximum flooding surface",
+          "score": 0.753000020980835
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence-stratigraphy",
+          "display_name": "sequence stratigraphy",
+          "score": 0.5479999780654907
         },
         {
           "id": "https://openalex.org/keywords/sabkha",
-          "display_name": "Sabkha",
-          "score": 0.6972891092300415
+          "display_name": "sabkha",
+          "score": 0.843999981880188
         },
         {
-          "id": "https://openalex.org/keywords/lithology",
-          "display_name": "Lithology",
-          "score": 0.6788477897644043
+          "id": "https://openalex.org/keywords/lagoons",
+          "display_name": "lagoons",
+          "score": 0.824999988079071
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.6710816621780396
+          "id": "https://openalex.org/keywords/dolomitization",
+          "display_name": "dolomitization",
+          "score": 0.7870000004768372
         },
         {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.6499475240707397
+          "id": "https://openalex.org/keywords/secondary-porosity",
+          "display_name": "secondary porosity",
+          "score": 0.7039999961853027
         },
         {
-          "id": "https://openalex.org/keywords/ooid",
-          "display_name": "Ooid",
-          "score": 0.6051729917526245
+          "id": "https://openalex.org/keywords/anhydrite",
+          "display_name": "anhydrite",
+          "score": 0.5559999942779541
         },
         {
-          "id": "https://openalex.org/keywords/carbonate",
-          "display_name": "Carbonate",
-          "score": 0.5972005128860474
-        },
-        {
-          "id": "https://openalex.org/keywords/evaporite",
-          "display_name": "Evaporite",
-          "score": 0.5160781741142273
-        },
-        {
-          "id": "https://openalex.org/keywords/permian",
-          "display_name": "Permian",
-          "score": 0.509554386138916
-        },
-        {
-          "id": "https://openalex.org/keywords/shoal",
-          "display_name": "Shoal",
-          "score": 0.4780843257904053
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-platform",
-          "display_name": "Carbonate platform",
-          "score": 0.4499056935310364
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.4238811433315277
-        },
-        {
-          "id": "https://openalex.org/keywords/gypsum",
-          "display_name": "Gypsum",
-          "score": 0.24437111616134644
-        },
-        {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.21226632595062256
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.20391428470611572
+          "id": "https://openalex.org/keywords/oil-reservoirs",
+          "display_name": "hydrocarbon reservoirs",
+          "score": 0.609000027179718
         }
       ],
       "concepts": [
@@ -16067,7 +16034,10 @@
           "author": {
             "id": "https://openalex.org/A5070411489",
             "display_name": "Fadhil Sadooni",
-            "orcid": "https://orcid.org/0000-0001-5027-0648"
+            "orcid": "https://orcid.org/0000-0001-5027-0648",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5027-0648"
+            ]
           },
           "institutions": [
             {
@@ -16111,7 +16081,8 @@
           "author": {
             "id": "https://openalex.org/A5010401681",
             "display_name": "Abdulrahman S. Alsharhan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -16160,11 +16131,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3158,
+      "fwci": 2.2909,
       "has_fulltext": false,
       "cited_by_count": 69,
       "citation_normalized_percentile": {
-        "value": 0.87224246,
+        "value": 0.87093863,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16253,39 +16224,84 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.9406032562255859
+          "id": "https://openalex.org/keywords/triassic-strata",
+          "display_name": "Triassic strata",
+          "score": 0.9700000286102295
         },
         {
-          "id": "https://openalex.org/keywords/stratigraphy",
-          "display_name": "Stratigraphy",
-          "score": 0.7835627794265747
+          "id": "https://openalex.org/keywords/arabian-plate",
+          "display_name": "Arabian Plate",
+          "score": 0.6579999923706055
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.5725908875465393
+          "id": "https://openalex.org/keywords/lithofacies-distribution",
+          "display_name": "lithofacies distribution",
+          "score": 0.8619999885559082
         },
         {
-          "id": "https://openalex.org/keywords/petroleum",
-          "display_name": "Petroleum",
-          "score": 0.5270129442214966
+          "id": "https://openalex.org/keywords/hydrocarbon-potential",
+          "display_name": "hydrocarbon potential",
+          "score": 0.9829999804496765
         },
         {
-          "id": "https://openalex.org/keywords/petroleum-exploration",
-          "display_name": "Petroleum exploration",
-          "score": 0.41402286291122437
+          "id": "https://openalex.org/keywords/carbonate-platform",
+          "display_name": "carbonate platform",
+          "score": 0.5640000104904175
         },
         {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.32840240001678467
+          "id": "https://openalex.org/keywords/evaporites",
+          "display_name": "evaporites",
+          "score": 0.8960000276565552
         },
         {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.03929451107978821
+          "id": "https://openalex.org/keywords/high-frequency-sequences",
+          "display_name": "high-frequency sequences",
+          "score": 0.5410000085830688
+        },
+        {
+          "id": "https://openalex.org/keywords/highstand-systems-tract",
+          "display_name": "highstand systems tract",
+          "score": 0.7310000061988831
+        },
+        {
+          "id": "https://openalex.org/keywords/lowstand-systems-tract",
+          "display_name": "lowstand systems tract",
+          "score": 0.7850000262260437
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-reservoirs",
+          "display_name": "hydrocarbon reservoirs",
+          "score": 0.6880000233650208
+        },
+        {
+          "id": "https://openalex.org/keywords/source-rocks",
+          "display_name": "source rocks",
+          "score": 0.7110000252723694
+        },
+        {
+          "id": "https://openalex.org/keywords/thermal-maturation",
+          "display_name": "thermal maturation",
+          "score": 0.8539999723434448
+        },
+        {
+          "id": "https://openalex.org/keywords/eustasy",
+          "display_name": "eustasy",
+          "score": 0.8059999942779541
+        },
+        {
+          "id": "https://openalex.org/keywords/levant",
+          "display_name": "Levant",
+          "score": 0.39100000262260437
+        },
+        {
+          "id": "https://openalex.org/keywords/syria",
+          "display_name": "Syria",
+          "score": 0.5329999923706055
+        },
+        {
+          "id": "https://openalex.org/keywords/iraq",
+          "display_name": "Iraq",
+          "score": 0.7670000195503235
         }
       ],
       "concepts": [
@@ -18033,11 +18049,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4074,
+      "fwci": 1.4001,
       "has_fulltext": false,
       "cited_by_count": 66,
       "citation_normalized_percentile": {
-        "value": 0.80086976,
+        "value": 0.79976985,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18126,74 +18142,44 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/abu-dhabi",
-          "display_name": "Abu dhabi",
-          "score": 0.7793653011322021
+          "id": "https://openalex.org/keywords/grain-size-analysis",
+          "display_name": "grain size analysis",
+          "score": 0.8569999933242798
         },
         {
-          "id": "https://openalex.org/keywords/sediment",
-          "display_name": "Sediment",
-          "score": 0.561852753162384
+          "id": "https://openalex.org/keywords/beach-sediments",
+          "display_name": "beach sediments",
+          "score": 0.8939999938011169
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.510560154914856
+          "id": "https://openalex.org/keywords/depositional-environment",
+          "display_name": "depositional environment",
+          "score": 0.7739999890327454
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.4727162718772888
+          "id": "https://openalex.org/keywords/sediment-provenance",
+          "display_name": "sediment provenance",
+          "score": 0.7310000061988831
         },
         {
-          "id": "https://openalex.org/keywords/statistical-analysis",
-          "display_name": "Statistical analysis",
-          "score": 0.4635410010814667
+          "id": "https://openalex.org/keywords/coastal-provinces",
+          "display_name": "coastal provinces",
+          "score": 0.5519999861717224
         },
         {
-          "id": "https://openalex.org/keywords/deposition",
-          "display_name": "Deposition (geology)",
-          "score": 0.4378502666950226
+          "id": "https://openalex.org/keywords/arabian-gulf-coast",
+          "display_name": "Arabian Gulf coast",
+          "score": 0.7459999918937683
         },
         {
-          "id": "https://openalex.org/keywords/coastal-zone",
-          "display_name": "Coastal zone",
-          "score": 0.4257766008377075
+          "id": "https://openalex.org/keywords/sediment-transport",
+          "display_name": "sediment transport",
+          "score": 0.8579999804496765
         },
         {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.40581387281417847
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.3742802143096924
-        },
-        {
-          "id": "https://openalex.org/keywords/physical-geography",
-          "display_name": "Physical geography",
-          "score": 0.32360929250717163
-        },
-        {
-          "id": "https://openalex.org/keywords/archaeology",
-          "display_name": "Archaeology",
-          "score": 0.24584698677062988
-        },
-        {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.21126598119735718
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.1776738464832306
-        },
-        {
-          "id": "https://openalex.org/keywords/metropolitan-area",
-          "display_name": "Metropolitan area",
-          "score": 0.10514852404594421
+          "id": "https://openalex.org/keywords/coastal-geomorphology",
+          "display_name": "coastal geomorphology",
+          "score": 0.9169999957084656
         }
       ],
       "concepts": [
@@ -21104,7 +21090,8 @@
           "author": {
             "id": "https://openalex.org/A5010401681",
             "display_name": "Abdulrahman S. Alsharhan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -21141,7 +21128,8 @@
           "author": {
             "id": "https://openalex.org/A5054234997",
             "display_name": "Christopher G. St. C. Kendall",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -21181,11 +21169,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5159,
+      "fwci": 2.5035,
       "has_fulltext": false,
       "cited_by_count": 57,
       "citation_normalized_percentile": {
-        "value": 0.88839786,
+        "value": 0.8877463,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21274,49 +21262,69 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.9004807472229004
-        },
-        {
-          "id": "https://openalex.org/keywords/evaporite",
-          "display_name": "Evaporite",
-          "score": 0.8550158143043518
-        },
-        {
           "id": "https://openalex.org/keywords/anhydrite",
-          "display_name": "Anhydrite",
-          "score": 0.8018783926963806
+          "display_name": "anhydrite",
+          "score": 0.8610000014305115
         },
         {
-          "id": "https://openalex.org/keywords/holocene",
-          "display_name": "Holocene",
-          "score": 0.7478589415550232
+          "id": "https://openalex.org/keywords/evaporites",
+          "display_name": "evaporites",
+          "score": 0.722000002861023
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.6718301773071289
+          "id": "https://openalex.org/keywords/depositional-environment",
+          "display_name": "depositional environment",
+          "score": 0.9120000004768372
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.4381023943424225
+          "id": "https://openalex.org/keywords/sabkha",
+          "display_name": "sabkha",
+          "score": 0.9580000042915344
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.05468055605888367
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.03880777955055237
+          "id": "https://openalex.org/keywords/playa",
+          "display_name": "playa",
+          "score": 0.925000011920929
         },
         {
           "id": "https://openalex.org/keywords/gypsum",
-          "display_name": "Gypsum",
-          "score": 0.03611084818840027
+          "display_name": "gypsum",
+          "score": 0.49399998784065247
+        },
+        {
+          "id": "https://openalex.org/keywords/halite",
+          "display_name": "halite",
+          "score": 0.9269999861717224
+        },
+        {
+          "id": "https://openalex.org/keywords/peritidal-carbonates",
+          "display_name": "peritidal carbonates",
+          "score": 0.7570000290870667
+        },
+        {
+          "id": "https://openalex.org/keywords/algal-mats",
+          "display_name": "algal mats",
+          "score": 0.7369999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/eolianites",
+          "display_name": "eolianites",
+          "score": 0.7549999952316284
+        },
+        {
+          "id": "https://openalex.org/keywords/facies-belts",
+          "display_name": "facies belts",
+          "score": 0.6510000228881836
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrocarbon-seals",
+          "display_name": "hydrocarbon seals",
+          "score": 0.7570000290870667
+        },
+        {
+          "id": "https://openalex.org/keywords/persian-gulf",
+          "display_name": "Persian Gulf",
+          "score": 0.7099999785423279
         }
       ],
       "concepts": [
@@ -26691,7 +26699,8 @@
           "author": {
             "id": "https://openalex.org/A5010401681",
             "display_name": "Abdulrahman S. Alsharhan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -26713,7 +26722,8 @@
           "author": {
             "id": "https://openalex.org/A5054234997",
             "display_name": "Christopher G. St. C. Kendall",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -26757,16 +26767,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.7225,
+      "fwci": 2.6381,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.91315136,
+        "value": 0.9125,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -26850,64 +26860,54 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8915746212005615
-        },
-        {
           "id": "https://openalex.org/keywords/sabkha",
-          "display_name": "Sabkha",
-          "score": 0.821366548538208
+          "display_name": "sabkha",
+          "score": 0.9470000267028809
         },
         {
-          "id": "https://openalex.org/keywords/evaporite",
-          "display_name": "Evaporite",
-          "score": 0.6176705360412598
+          "id": "https://openalex.org/keywords/coastal-sabkha",
+          "display_name": "coastal sabkha",
+          "score": 0.7009999752044678
         },
         {
-          "id": "https://openalex.org/keywords/marine-transgression",
-          "display_name": "Marine transgression",
-          "score": 0.5426455140113831
+          "id": "https://openalex.org/keywords/sequence-stratigraphy",
+          "display_name": "sequence stratigraphy",
+          "score": 0.7519999742507935
         },
         {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.5355783104896545
+          "id": "https://openalex.org/keywords/sea-level-fluctuations",
+          "display_name": "sea-level fluctuations",
+          "score": 0.6930000185966492
         },
         {
-          "id": "https://openalex.org/keywords/holocene",
-          "display_name": "Holocene",
-          "score": 0.5190896987915039
+          "id": "https://openalex.org/keywords/mangroves",
+          "display_name": "mangroves",
+          "score": 0.5630000233650208
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.4983088970184326
+          "id": "https://openalex.org/keywords/algal-mats",
+          "display_name": "algal mats",
+          "score": 0.6650000214576721
         },
         {
-          "id": "https://openalex.org/keywords/sedimentology",
-          "display_name": "Sedimentology",
-          "score": 0.4700668752193451
+          "id": "https://openalex.org/keywords/aeolian-dunes",
+          "display_name": "aeolian dunes",
+          "score": 0.8009999990463257
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.46569547057151794
+          "id": "https://openalex.org/keywords/gravel-plains",
+          "display_name": "gravel plains",
+          "score": 0.5350000262260437
         },
         {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.42589086294174194
+          "id": "https://openalex.org/keywords/coral-reefs",
+          "display_name": "coral reefs",
+          "score": 0.6179999709129333
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.4059339165687561
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.1145581603050232
+          "id": "https://openalex.org/keywords/oolitic-shoals",
+          "display_name": "oolitic shoals",
+          "score": 0.7609999775886536
         }
       ],
       "concepts": [
@@ -28190,7 +28190,8 @@
           "author": {
             "id": "https://openalex.org/A5010401681",
             "display_name": "Abdulrahman S. Alsharhan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -28234,11 +28235,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.7045,
+      "fwci": 6.6131,
       "has_fulltext": false,
       "cited_by_count": 77,
       "citation_normalized_percentile": {
-        "value": 0.96337862,
+        "value": 0.96289647,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -28327,54 +28328,74 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/abu-dhabi",
-          "display_name": "Abu dhabi",
-          "score": 0.9506261348724365
+          "id": "https://openalex.org/keywords/shuaiba-formation",
+          "display_name": "Shuaiba Formation",
+          "score": 0.9639999866485596
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.9171245098114014
+          "id": "https://openalex.org/keywords/aptian",
+          "display_name": "Aptian",
+          "score": 0.906000018119812
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.8614651560783386
+          "id": "https://openalex.org/keywords/thamama-group",
+          "display_name": "Thamama Group",
+          "score": 0.8100000023841858
         },
         {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.8326160907745361
+          "id": "https://openalex.org/keywords/depositional-environment",
+          "display_name": "depositional environment",
+          "score": 0.7480000257492065
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.520442545413971
+          "id": "https://openalex.org/keywords/hydrocarbon-habitat",
+          "display_name": "hydrocarbon habitat",
+          "score": 0.6660000085830688
         },
         {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.41718152165412903
+          "id": "https://openalex.org/keywords/rudist-reefs",
+          "display_name": "rudist reefs",
+          "score": 0.6129999756813049
         },
         {
-          "id": "https://openalex.org/keywords/mining-engineering",
-          "display_name": "Mining engineering",
-          "score": 0.3418341279029846
+          "id": "https://openalex.org/keywords/orbitolinids",
+          "display_name": "orbitolinids",
+          "score": 0.7929999828338623
         },
         {
-          "id": "https://openalex.org/keywords/archaeology",
-          "display_name": "Archaeology",
-          "score": 0.13976824283599854
+          "id": "https://openalex.org/keywords/calcareous-algae",
+          "display_name": "calcareous algae",
+          "score": 0.6629999876022339
         },
         {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.057755500078201294
+          "id": "https://openalex.org/keywords/lagoon-facies",
+          "display_name": "lagoonal facies",
+          "score": 0.8100000023841858
         },
         {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.053608238697052
+          "id": "https://openalex.org/keywords/shelf-carbonates",
+          "display_name": "shelf carbonates",
+          "score": 0.4000000059604645
+        },
+        {
+          "id": "https://openalex.org/keywords/stylolites",
+          "display_name": "stylolites",
+          "score": 0.6209999918937683
+        },
+        {
+          "id": "https://openalex.org/keywords/persian-gulf",
+          "display_name": "Persian Gulf",
+          "score": 0.4490000009536743
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-platform-evolution",
+          "display_name": "carbonate platform evolution",
+          "score": 0.4300000071525574
+        },
+        {
+          "id": "https://openalex.org/keywords/nahr-umr-formation",
+          "display_name": "Nahr Umr Formation",
+          "score": 0.5870000123977661
         }
       ],
       "concepts": [
@@ -31030,11 +31051,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5213,
+      "fwci": 2.5186,
       "has_fulltext": false,
       "cited_by_count": 54,
       "citation_normalized_percentile": {
-        "value": 0.88803857,
+        "value": 0.8879971,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31123,39 +31144,39 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.9013291597366333
+          "id": "https://openalex.org/keywords/source-rock-correlation",
+          "display_name": "source rock correlation",
+          "score": 0.7649999856948853
         },
         {
-          "id": "https://openalex.org/keywords/source-rock",
-          "display_name": "Source rock",
-          "score": 0.688183605670929
+          "id": "https://openalex.org/keywords/rudeis-formation",
+          "display_name": "Rudeis Formation",
+          "score": 0.7670000195503235
         },
         {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.4944748878479004
+          "id": "https://openalex.org/keywords/kareem-formation",
+          "display_name": "Kareem Formation",
+          "score": 0.7329999804496765
         },
         {
-          "id": "https://openalex.org/keywords/mining-engineering",
-          "display_name": "Mining engineering",
-          "score": 0.45570287108421326
+          "id": "https://openalex.org/keywords/kerogen-type",
+          "display_name": "kerogen type",
+          "score": 0.6259999871253967
         },
         {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.45132675766944885
+          "id": "https://openalex.org/keywords/hydrocarbon-biomarkers",
+          "display_name": "hydrocarbon biomarkers",
+          "score": 0.640999972820282
         },
         {
-          "id": "https://openalex.org/keywords/earth-science",
-          "display_name": "Earth science",
-          "score": 0.3606497645378113
+          "id": "https://openalex.org/keywords/source-rock-maturity",
+          "display_name": "source rock maturity",
+          "score": 0.5149999856948853
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.3353976309299469
+          "id": "https://openalex.org/keywords/strike-slip-faulting",
+          "display_name": "strike-slip faulting",
+          "score": 0.6489999890327454
         }
       ],
       "concepts": [
@@ -36168,11 +36189,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.9191,
+      "fwci": 3.9364,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.92,
+        "value": 0.92035398,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -36261,89 +36282,39 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8529618978500366
+          "id": "https://openalex.org/keywords/jurassic-carbonate-platform",
+          "display_name": "Jurassic carbonate platform",
+          "score": 0.6980000138282776
         },
         {
-          "id": "https://openalex.org/keywords/cyclostratigraphy",
-          "display_name": "Cyclostratigraphy",
-          "score": 0.7864106893539429
+          "id": "https://openalex.org/keywords/cretaceous-carbonate-platform",
+          "display_name": "Cretaceous carbonate platform",
+          "score": 0.9330000281333923
         },
         {
-          "id": "https://openalex.org/keywords/chronostratigraphy",
-          "display_name": "Chronostratigraphy",
-          "score": 0.7444339394569397
+          "id": "https://openalex.org/keywords/tethyan-realm",
+          "display_name": "Tethyan Realm",
+          "score": 0.7929999828338623
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.7052887082099915
+          "id": "https://openalex.org/keywords/sabkha",
+          "display_name": "sabkha",
+          "score": 0.7279999852180481
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.6687427163124084
+          "id": "https://openalex.org/keywords/persian-gulf",
+          "display_name": "Persian Gulf",
+          "score": 0.800000011920929
         },
         {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.6074599027633667
+          "id": "https://openalex.org/keywords/carbonate-sedimentology",
+          "display_name": "carbonate sedimentology",
+          "score": 0.46799999475479126
         },
         {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.5878231525421143
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate",
-          "display_name": "Carbonate",
-          "score": 0.5485123991966248
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-platform",
-          "display_name": "Carbonate platform",
-          "score": 0.5309362411499023
-        },
-        {
-          "id": "https://openalex.org/keywords/sequence-stratigraphy",
-          "display_name": "Sequence stratigraphy",
-          "score": 0.5285980701446533
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.5234262943267822
-        },
-        {
-          "id": "https://openalex.org/keywords/diagenesis",
-          "display_name": "Diagenesis",
-          "score": 0.5211622714996338
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.4852752387523651
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-basin",
-          "display_name": "Sedimentary basin",
-          "score": 0.449641615152359
-        },
-        {
-          "id": "https://openalex.org/keywords/basin-modelling",
-          "display_name": "Basin modelling",
-          "score": 0.4343033730983734
-        },
-        {
-          "id": "https://openalex.org/keywords/sequence",
-          "display_name": "Sequence (biology)",
-          "score": 0.4263908863067627
-        },
-        {
-          "id": "https://openalex.org/keywords/stratigraphy",
-          "display_name": "Stratigraphy",
-          "score": 0.4246121346950531
+          "id": "https://openalex.org/keywords/petroleum-exploration",
+          "display_name": "petroleum exploration",
+          "score": 0.4480000138282776
         }
       ],
       "concepts": [
@@ -37095,7 +37066,8 @@
           "author": {
             "id": "https://openalex.org/A5010401681",
             "display_name": "Abdulrahman S. Alsharhan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -37110,7 +37082,8 @@
           "author": {
             "id": "https://openalex.org/A5075615652",
             "display_name": "A.E.M. Nairn",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -37132,11 +37105,11 @@
         "value_usd": 1725
       },
       "apc_paid": null,
-      "fwci": 3.0787,
+      "fwci": 3.0849,
       "has_fulltext": false,
       "cited_by_count": 35,
       "citation_normalized_percentile": {
-        "value": 0.9164062,
+        "value": 0.9162657,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -37225,49 +37198,34 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8394738435745239
+          "id": "https://openalex.org/keywords/arabian-basin",
+          "display_name": "Arabian Basin",
+          "score": 0.8529999852180481
         },
         {
           "id": "https://openalex.org/keywords/mesozoic",
           "display_name": "Mesozoic",
-          "score": 0.6445452570915222
+          "score": 0.8640000224113464
         },
         {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.6156508326530457
+          "id": "https://openalex.org/keywords/hydrocarbon-habitat",
+          "display_name": "hydrocarbon habitat",
+          "score": 0.7250000238418579
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.502018928527832
+          "id": "https://openalex.org/keywords/petroleum-geology",
+          "display_name": "petroleum geology",
+          "score": 0.7269999980926514
         },
         {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.4769679009914398
+          "id": "https://openalex.org/keywords/stratigraphy",
+          "display_name": "stratigraphy",
+          "score": 0.6209999918937683
         },
         {
-          "id": "https://openalex.org/keywords/habitat",
-          "display_name": "Habitat",
-          "score": 0.4397367835044861
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrocarbon-exploration",
-          "display_name": "Hydrocarbon exploration",
-          "score": 0.41247445344924927
-        },
-        {
-          "id": "https://openalex.org/keywords/earth-science",
-          "display_name": "Earth science",
-          "score": 0.3848762512207031
-        },
-        {
-          "id": "https://openalex.org/keywords/ecology",
-          "display_name": "Ecology",
-          "score": 0.11074602603912354
+          "id": "https://openalex.org/keywords/qatar",
+          "display_name": "Qatar",
+          "score": 0.6520000100135803
         }
       ],
       "concepts": [
@@ -41219,7 +41177,8 @@
           "author": {
             "id": "https://openalex.org/A5010401681",
             "display_name": "Abdulrahman S. Alsharhan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -41256,7 +41215,8 @@
           "author": {
             "id": "https://openalex.org/A5091125978",
             "display_name": "M.G. Salah",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -41281,11 +41241,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2782,
+      "fwci": 1.2702,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.7981828,
+        "value": 0.79671893,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41374,54 +41334,79 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.9328936338424683
+          "id": "https://openalex.org/keywords/north-sinai",
+          "display_name": "North Sinai",
+          "score": 0.8560000061988831
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.7617173194885254
+          "id": "https://openalex.org/keywords/hydrocarbon-potential",
+          "display_name": "hydrocarbon potential",
+          "score": 0.8159999847412109
         },
         {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.7314071655273438
+          "id": "https://openalex.org/keywords/geologic-setting",
+          "display_name": "geologic setting",
+          "score": 0.7950000166893005
         },
         {
-          "id": "https://openalex.org/keywords/rift",
-          "display_name": "Rift",
-          "score": 0.60597163438797
+          "id": "https://openalex.org/keywords/petroleum-exploration",
+          "display_name": "petroleum exploration",
+          "score": 0.671999990940094
         },
         {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.5710161924362183
+          "id": "https://openalex.org/keywords/source-rocks",
+          "display_name": "source rocks",
+          "score": 0.6510000228881836
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-rocks",
+          "display_name": "reservoir rocks",
+          "score": 0.671999990940094
+        },
+        {
+          "id": "https://openalex.org/keywords/caprock",
+          "display_name": "caprock",
+          "score": 0.5889999866485596
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-traps",
+          "display_name": "structural traps",
+          "score": 0.890999972820282
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphic-traps",
+          "display_name": "stratigraphic traps",
+          "score": 0.9639999866485596
+        },
+        {
+          "id": "https://openalex.org/keywords/normal-faults",
+          "display_name": "normal faults",
+          "score": 0.6320000290870667
         },
         {
           "id": "https://openalex.org/keywords/anticline",
-          "display_name": "Anticline",
-          "score": 0.5471866726875305
+          "display_name": "anticline",
+          "score": 0.8370000123977661
         },
         {
-          "id": "https://openalex.org/keywords/cenozoic",
-          "display_name": "Cenozoic",
-          "score": 0.4557766914367676
+          "id": "https://openalex.org/keywords/transform-faults",
+          "display_name": "transform faults",
+          "score": 0.8029999732971191
         },
         {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.43888619542121887
+          "id": "https://openalex.org/keywords/cretaceous-carbonates",
+          "display_name": "Cretaceous carbonates",
+          "score": 0.8619999885559082
         },
         {
-          "id": "https://openalex.org/keywords/mesozoic",
-          "display_name": "Mesozoic",
-          "score": 0.42230430245399475
+          "id": "https://openalex.org/keywords/miocene-sandstones",
+          "display_name": "Miocene sandstones",
+          "score": 0.7940000295639038
         },
         {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.24028021097183228
+          "id": "https://openalex.org/keywords/tectonic-trends",
+          "display_name": "tectonic trends",
+          "score": 0.46299999952316284
         }
       ],
       "concepts": [
@@ -44417,54 +44402,59 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8693016767501831
+          "id": "https://openalex.org/keywords/facies-distribution",
+          "display_name": "facies distribution",
+          "score": 0.8730000257492065
         },
         {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.5818291902542114
+          "id": "https://openalex.org/keywords/hydrocarbon-potential",
+          "display_name": "hydrocarbon potential",
+          "score": 0.9829999804496765
         },
         {
-          "id": "https://openalex.org/keywords/clastic-rock",
-          "display_name": "Clastic rock",
-          "score": 0.5233116149902344
+          "id": "https://openalex.org/keywords/arabian-plate",
+          "display_name": "Arabian Plate",
+          "score": 0.878000020980835
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.5188849568367004
+          "id": "https://openalex.org/keywords/western-iran",
+          "display_name": "western Iran",
+          "score": 0.8360000252723694
         },
         {
-          "id": "https://openalex.org/keywords/foreland-basin",
-          "display_name": "Foreland basin",
-          "score": 0.4488091468811035
+          "id": "https://openalex.org/keywords/asmari-formation",
+          "display_name": "Asmari Formation",
+          "score": 0.9990000128746033
         },
         {
-          "id": "https://openalex.org/keywords/sea-level",
-          "display_name": "Sea level",
-          "score": 0.43656009435653687
+          "id": "https://openalex.org/keywords/coral-reefs",
+          "display_name": "coral reefs",
+          "score": 0.6779999732971191
         },
         {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.39463967084884644
+          "id": "https://openalex.org/keywords/shallow-water-carbonates",
+          "display_name": "shallow-water carbonates",
+          "score": 0.8539999723434448
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.13864916563034058
+          "id": "https://openalex.org/keywords/neotethys-closure",
+          "display_name": "Neotethys closure",
+          "score": 0.8669999837875366
         },
         {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.09018346667289734
+          "id": "https://openalex.org/keywords/paratethys",
+          "display_name": "Paratethys",
+          "score": 0.9660000205039978
         },
         {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.08541348576545715
+          "id": "https://openalex.org/keywords/red-sea-opening",
+          "display_name": "Red Sea opening",
+          "score": 0.8730000257492065
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-exploration",
+          "display_name": "petroleum exploration",
+          "score": 0.5389999747276306
         }
       ],
       "concepts": [
@@ -48479,7 +48469,8 @@
           "author": {
             "id": "https://openalex.org/A5010401681",
             "display_name": "Abdulrahman S. Alsharhan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -48494,7 +48485,8 @@
           "author": {
             "id": "https://openalex.org/A5019853162",
             "display_name": "Kinji Magara",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -48516,7 +48508,7 @@
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.07577656,
+        "value": 0.07569827,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48605,74 +48597,74 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.9109351634979248
+          "id": "https://openalex.org/keywords/jurassic",
+          "display_name": "Jurassic",
+          "score": 0.5849999785423279
         },
         {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.7016899585723877
+          "id": "https://openalex.org/keywords/sedimentary-facies",
+          "display_name": "sedimentary facies",
+          "score": 0.9480000138282776
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.6981021761894226
+          "id": "https://openalex.org/keywords/depositional-environment",
+          "display_name": "depositional environment",
+          "score": 0.8180000185966492
         },
         {
-          "id": "https://openalex.org/keywords/evaporite",
-          "display_name": "Evaporite",
-          "score": 0.6245090961456299
-        },
-        {
-          "id": "https://openalex.org/keywords/clastic-rock",
-          "display_name": "Clastic rock",
-          "score": 0.6012531518936157
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.5563591122627258
+          "id": "https://openalex.org/keywords/oil-reservoirs",
+          "display_name": "hydrocarbon reservoirs",
+          "score": 0.7599999904632568
         },
         {
           "id": "https://openalex.org/keywords/carbonate-platform",
-          "display_name": "Carbonate platform",
-          "score": 0.5343524217605591
+          "display_name": "carbonate platform",
+          "score": 0.44999998807907104
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.5275209546089172
+          "id": "https://openalex.org/keywords/carbonate-ramp",
+          "display_name": "carbonate ramp",
+          "score": 0.781000018119812
         },
         {
-          "id": "https://openalex.org/keywords/marine-transgression",
-          "display_name": "Marine transgression",
-          "score": 0.5077353715896606
+          "id": "https://openalex.org/keywords/carbonate-shelf",
+          "display_name": "carbonate shelf",
+          "score": 0.9559999704360962
         },
         {
-          "id": "https://openalex.org/keywords/carbonate",
-          "display_name": "Carbonate",
-          "score": 0.4819762110710144
+          "id": "https://openalex.org/keywords/intrashelf-basin",
+          "display_name": "intrashelf basin",
+          "score": 0.9639999866485596
         },
         {
           "id": "https://openalex.org/keywords/sabkha",
-          "display_name": "Sabkha",
-          "score": 0.4511685371398926
+          "display_name": "sabkha",
+          "score": 0.9330000281333923
         },
         {
-          "id": "https://openalex.org/keywords/marl",
-          "display_name": "Marl",
-          "score": 0.445840060710907
+          "id": "https://openalex.org/keywords/eustasy",
+          "display_name": "eustasy",
+          "score": 0.75
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-basin",
-          "display_name": "Sedimentary basin",
-          "score": 0.42614853382110596
+          "id": "https://openalex.org/keywords/epeirogeny",
+          "display_name": "epeirogeny",
+          "score": 0.8830000162124634
         },
         {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.418877512216568
+          "id": "https://openalex.org/keywords/source-rocks",
+          "display_name": "source rocks",
+          "score": 0.6299999952316284
+        },
+        {
+          "id": "https://openalex.org/keywords/kerogen",
+          "display_name": "kerogen",
+          "score": 0.625
+        },
+        {
+          "id": "https://openalex.org/keywords/ghawar-field",
+          "display_name": "Ghawar field",
+          "score": 0.777999997138977
         }
       ],
       "concepts": [
@@ -52425,1134 +52417,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W3158228730",
-      "doi": "https://doi.org/10.2113/geoarabia0303387",
-      "title": "Structural and Stratigraphical Setting of the Faiyah Range, Northwestern Oman Mountain Front, United Arab Emirates",
-      "display_name": "Structural and Stratigraphical Setting of the Faiyah Range, Northwestern Oman Mountain Front, United Arab Emirates",
-      "publication_year": 1998,
-      "publication_date": "1998-07-01",
-      "ids": {
-        "openalex": "https://openalex.org/W3158228730",
-        "doi": "https://doi.org/10.2113/geoarabia0303387",
-        "mag": "3158228730"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2113/geoarabia0303387",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.2113/geoarabia0303387",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S189311251",
-          "display_name": "GeoArabia",
-          "issn_l": "1025-6059",
-          "issn": [
-            "1025-6059"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-1",
-            "norway-1"
-          ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": "cc-by-nc",
-        "license_id": "https://openalex.org/licenses/cc-by-nc",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "GeoArabia",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://doi.org/10.2113/geoarabia0303387",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5109003219",
-            "display_name": "Mohamed Atef Noweir",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I201726411",
-              "display_name": "United Arab Emirates University",
-              "ror": "https://ror.org/01km6p862",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I201726411"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "M. Atef Noweir",
-          "raw_affiliation_strings": [
-            "United Arab Emirates University"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "United Arab Emirates University",
-              "institution_ids": [
-                "https://openalex.org/I201726411"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5010401681",
-            "display_name": "Abdulrahman S. Alsharhan",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I201726411",
-              "display_name": "United Arab Emirates University",
-              "ror": "https://ror.org/01km6p862",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I201726411"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdulrahman S. Alsharhan",
-          "raw_affiliation_strings": [
-            "United Arab Emirates University"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "United Arab Emirates University",
-              "institution_ids": [
-                "https://openalex.org/I201726411"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5110689173",
-            "display_name": "Mohamed Boukhary",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I201726411",
-              "display_name": "United Arab Emirates University",
-              "ror": "https://ror.org/01km6p862",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I201726411"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohamed A. Boukhary",
-          "raw_affiliation_strings": [
-            "United Arab Emirates University"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "United Arab Emirates University",
-              "institution_ids": [
-                "https://openalex.org/I201726411"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I201726411"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.7668,
-      "has_fulltext": false,
-      "cited_by_count": 22,
-      "citation_normalized_percentile": {
-        "value": 0.88075237,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "3",
-        "issue": "3",
-        "first_page": "387",
-        "last_page": "398"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9987999796867371,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9987999796867371,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9976000189781189,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9976000189781189,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.9072796106338501
-        },
-        {
-          "id": "https://openalex.org/keywords/anticline",
-          "display_name": "Anticline",
-          "score": 0.824478030204773
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.7267370820045471
-        },
-        {
-          "id": "https://openalex.org/keywords/obduction",
-          "display_name": "Obduction",
-          "score": 0.5927513241767883
-        },
-        {
-          "id": "https://openalex.org/keywords/nappe",
-          "display_name": "Nappe",
-          "score": 0.5914527177810669
-        },
-        {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.5798879265785217
-        },
-        {
-          "id": "https://openalex.org/keywords/unconformity",
-          "display_name": "Unconformity",
-          "score": 0.5769840478897095
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.5623180270195007
-        },
-        {
-          "id": "https://openalex.org/keywords/ophiolite",
-          "display_name": "Ophiolite",
-          "score": 0.5297483205795288
-        },
-        {
-          "id": "https://openalex.org/keywords/sinistral-and-dextral",
-          "display_name": "Sinistral and dextral",
-          "score": 0.5170264840126038
-        },
-        {
-          "id": "https://openalex.org/keywords/marine-transgression",
-          "display_name": "Marine transgression",
-          "score": 0.4806419909000397
-        },
-        {
-          "id": "https://openalex.org/keywords/fault",
-          "display_name": "Fault (geology)",
-          "score": 0.4693618416786194
-        },
-        {
-          "id": "https://openalex.org/keywords/paleogene",
-          "display_name": "Paleogene",
-          "score": 0.42838379740715027
-        },
-        {
-          "id": "https://openalex.org/keywords/subduction",
-          "display_name": "Subduction",
-          "score": 0.25224244594573975
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.24040257930755615
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.18743303418159485
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanic-crust",
-          "display_name": "Oceanic crust",
-          "score": 0.08210372924804688
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.9072796106338501
-        },
-        {
-          "id": "https://openalex.org/C116637073",
-          "wikidata": "https://www.wikidata.org/wiki/Q190147",
-          "display_name": "Anticline",
-          "level": 3,
-          "score": 0.824478030204773
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.7267370820045471
-        },
-        {
-          "id": "https://openalex.org/C192717286",
-          "wikidata": "https://www.wikidata.org/wiki/Q772239",
-          "display_name": "Obduction",
-          "level": 5,
-          "score": 0.5927513241767883
-        },
-        {
-          "id": "https://openalex.org/C153220577",
-          "wikidata": "https://www.wikidata.org/wiki/Q1479638",
-          "display_name": "Nappe",
-          "level": 3,
-          "score": 0.5914527177810669
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.5798879265785217
-        },
-        {
-          "id": "https://openalex.org/C191735495",
-          "wikidata": "https://www.wikidata.org/wiki/Q876798",
-          "display_name": "Unconformity",
-          "level": 3,
-          "score": 0.5769840478897095
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.5623180270195007
-        },
-        {
-          "id": "https://openalex.org/C23923706",
-          "wikidata": "https://www.wikidata.org/wiki/Q605396",
-          "display_name": "Ophiolite",
-          "level": 3,
-          "score": 0.5297483205795288
-        },
-        {
-          "id": "https://openalex.org/C50047906",
-          "wikidata": "https://www.wikidata.org/wiki/Q2497260",
-          "display_name": "Sinistral and dextral",
-          "level": 3,
-          "score": 0.5170264840126038
-        },
-        {
-          "id": "https://openalex.org/C77271252",
-          "wikidata": "https://www.wikidata.org/wiki/Q301920",
-          "display_name": "Marine transgression",
-          "level": 3,
-          "score": 0.4806419909000397
-        },
-        {
-          "id": "https://openalex.org/C175551986",
-          "wikidata": "https://www.wikidata.org/wiki/Q47089",
-          "display_name": "Fault (geology)",
-          "level": 2,
-          "score": 0.4693618416786194
-        },
-        {
-          "id": "https://openalex.org/C204330871",
-          "wikidata": "https://www.wikidata.org/wiki/Q55810",
-          "display_name": "Paleogene",
-          "level": 3,
-          "score": 0.42838379740715027
-        },
-        {
-          "id": "https://openalex.org/C58097730",
-          "wikidata": "https://www.wikidata.org/wiki/Q176318",
-          "display_name": "Subduction",
-          "level": 3,
-          "score": 0.25224244594573975
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.24040257930755615
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.18743303418159485
-        },
-        {
-          "id": "https://openalex.org/C154200439",
-          "wikidata": "https://www.wikidata.org/wiki/Q238851",
-          "display_name": "Oceanic crust",
-          "level": 4,
-          "score": 0.08210372924804688
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2113/geoarabia0303387",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.2113/geoarabia0303387",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S189311251",
-            "display_name": "GeoArabia",
-            "issn_l": "1025-6059",
-            "issn": [
-              "1025-6059"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "jufo-1",
-              "norway-1"
-            ],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": "cc-by-nc",
-          "license_id": "https://openalex.org/licenses/cc-by-nc",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "GeoArabia",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.2113/geoarabia0303387",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.2113/geoarabia0303387",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S189311251",
-          "display_name": "GeoArabia",
-          "issn_l": "1025-6059",
-          "issn": [
-            "1025-6059"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-1",
-            "norway-1"
-          ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": "cc-by-nc",
-        "license_id": "https://openalex.org/licenses/cc-by-nc",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "GeoArabia",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
-        }
-      ],
-      "x_sdgs": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 40,
-      "referenced_works": [
-        "https://openalex.org/W622751671",
-        "https://openalex.org/W1537425267",
-        "https://openalex.org/W1567684566",
-        "https://openalex.org/W1592324393",
-        "https://openalex.org/W1979820932",
-        "https://openalex.org/W1985748982",
-        "https://openalex.org/W1990448469",
-        "https://openalex.org/W1991062313",
-        "https://openalex.org/W1994737413",
-        "https://openalex.org/W2032960425",
-        "https://openalex.org/W2048456716",
-        "https://openalex.org/W2065247298",
-        "https://openalex.org/W2066182738",
-        "https://openalex.org/W2068451724",
-        "https://openalex.org/W2068785216",
-        "https://openalex.org/W2094216289",
-        "https://openalex.org/W2100232339",
-        "https://openalex.org/W2108855048",
-        "https://openalex.org/W2145995786",
-        "https://openalex.org/W2146586425",
-        "https://openalex.org/W2154733372",
-        "https://openalex.org/W2169236649",
-        "https://openalex.org/W2171710577",
-        "https://openalex.org/W2898199447",
-        "https://openalex.org/W2904132173",
-        "https://openalex.org/W2937684811",
-        "https://openalex.org/W3001692965",
-        "https://openalex.org/W4234206494",
-        "https://openalex.org/W6632240102",
-        "https://openalex.org/W6633868096",
-        "https://openalex.org/W6635232110",
-        "https://openalex.org/W6646620103",
-        "https://openalex.org/W6649041380",
-        "https://openalex.org/W6657073502",
-        "https://openalex.org/W6658462408",
-        "https://openalex.org/W6667046958",
-        "https://openalex.org/W6667189187",
-        "https://openalex.org/W6667610414",
-        "https://openalex.org/W6681312227",
-        "https://openalex.org/W6681434823"
-      ],
-      "related_works": [
-        "https://openalex.org/W4242195779",
-        "https://openalex.org/W2560326800",
-        "https://openalex.org/W4256149684",
-        "https://openalex.org/W2109468534",
-        "https://openalex.org/W2367756865",
-        "https://openalex.org/W1534297386",
-        "https://openalex.org/W2275812285",
-        "https://openalex.org/W2037509965",
-        "https://openalex.org/W2118995100",
-        "https://openalex.org/W3158228730"
-      ],
-      "abstract_inverted_index": {
-        "ABSTRACT": [
-          0
-        ],
-        "The": [
-          1,
-          32,
-          49,
-          69,
-          87,
-          145,
-          161
-        ],
-        "Faiyah": [
-          2,
-          33,
-          64,
-          75,
-          101,
-          182
-        ],
-        "Range": [
-          3,
-          102
-        ],
-        "belongs": [
-          4
-        ],
-        "to": [
-          5,
-          38,
-          45,
-          91,
-          189,
-          197
-        ],
-        "a": [
-          6,
-          56,
-          132,
-          142,
-          150
-        ],
-        "group": [
-          7
-        ],
-        "of": [
-          8,
-          16,
-          27,
-          126,
-          164,
-          170,
-          177,
-          202
-        ],
-        "regional": [
-          9
-        ],
-        "ridges": [
-          10
-        ],
-        "that": [
-          11,
-          122,
-          174
-        ],
-        "formed": [
-          12
-        ],
-        "by": [
-          13,
-          55
-        ],
-        "post-obduction": [
-          14
-        ],
-        "folding": [
-          15
-        ],
-        "the": [
-          17,
-          24,
-          28,
-          46,
-          63,
-          79,
-          97,
-          100,
-          103,
-          108,
-          115,
-          123,
-          127,
-          136,
-          157,
-          165,
-          181,
-          190,
-          199,
-          203
-        ],
-        "Upper": [
-          18
-        ],
-        "Cretaceous-Tertiary": [
-          19
-        ],
-        "sedimentary": [
-          20,
-          105
-        ],
-        "rocks": [
-          21,
-          106
-        ],
-        "exposed": [
-          22
-        ],
-        "along": [
-          23
-        ],
-        "western": [
-          25
-        ],
-        "margin": [
-          26
-        ],
-        "Northern": [
-          29
-        ],
-        "Oman": [
-          30
-        ],
-        "Mountains.": [
-          31
-        ],
-        "Anticline,": [
-          34
-        ],
-        "generally": [
-          35
-        ],
-        "trends": [
-          36
-        ],
-        "north-northeast": [
-          37
-        ],
-        "south-southwest": [
-          39
-        ],
-        "with": [
-          40
-        ],
-        "thrust": [
-          41
-        ],
-        "faults": [
-          42
-        ],
-        "striking": [
-          43
-        ],
-        "parallel": [
-          44
-        ],
-        "fold": [
-          47
-        ],
-        "axis.": [
-          48
-        ],
-        "anticlinal": [
-          50
-        ],
-        "hinge": [
-          51
-        ],
-        "was": [
-          52,
-          129,
-          139,
-          147
-        ],
-        "later": [
-          53
-        ],
-        "displaced": [
-          54
-        ],
-        "dextral": [
-          57
-        ],
-        "strike-slip": [
-          58
-        ],
-        "fault,": [
-          59
-        ],
-        "named": [
-          60
-        ],
-        "here": [
-          61
-        ],
-        "as": [
-          62
-        ],
-        "Fault,": [
-          65
-        ],
-        "into": [
-          66
-        ],
-        "two": [
-          67
-        ],
-        "segments.": [
-          68
-        ],
-        "northeastern": [
-          70
-        ],
-        "segment": [
-          71,
-          81
-        ],
-        "includes": [
-          72,
-          82
-        ],
-        "Jebels": [
-          73,
-          83
-        ],
-        "Rumaylah,": [
-          74
-        ],
-        "and": [
-          76,
-          78,
-          85,
-          111,
-          114,
-          192
-        ],
-        "Mulayhah,": [
-          77
-        ],
-        "southwestern": [
-          80
-        ],
-        "Buhays": [
-          84
-        ],
-        "Aqabah.": [
-          86
-        ],
-        "anticline": [
-          88
-        ],
-        "is": [
-          89,
-          176,
-          186,
-          195
-        ],
-        "interpreted": [
-          90
-        ],
-        "result": [
-          92
-        ],
-        "from": [
-          93
-        ],
-        "northeast-southwest": [
-          94
-        ],
-        "compression": [
-          95
-        ],
-        "during": [
-          96,
-          141
-        ],
-        "Tertiary.": [
-          98
-        ],
-        "In": [
-          99
-        ],
-        "neoautochthonous": [
-          104
-        ],
-        "are": [
-          107
-        ],
-        "Maastrichtian": [
-          109,
-          178
-        ],
-        "Qahlah": [
-          110,
-          128
-        ],
-        "Simsima": [
-          112,
-          146,
-          191,
-          204
-        ],
-        "formations,": [
-          113
-        ],
-        "Eocene": [
-          116
-        ],
-        "Dammam": [
-          117
-        ],
-        "Formation.": [
-          118
-        ],
-        "Stratigraphic": [
-          119
-        ],
-        "evidence": [
-          120
-        ],
-        "shows": [
-          121
-        ],
-        "lower": [
-          124
-        ],
-        "part": [
-          125,
-          138
-        ],
-        "deposited": [
-          130,
-          140,
-          148
-        ],
-        "in": [
-          131,
-          149,
-          180,
-          205
-        ],
-        "non-marine": [
-          133
-        ],
-        "environment": [
-          134
-        ],
-        "while": [
-          135
-        ],
-        "upper": [
-          137,
-          200
-        ],
-        "marine": [
-          143
-        ],
-        "transgression.": [
-          144
-        ],
-        "shallow-marine": [
-          151
-        ],
-        "environment.": [
-          152
-        ],
-        "These": [
-          153
-        ],
-        "units": [
-          154
-        ],
-        "unconformably": [
-          155
-        ],
-        "overlap": [
-          156
-        ],
-        "allochthonous": [
-          158
-        ],
-        "Semail": [
-          159
-        ],
-        "Ophiolite.": [
-          160
-        ],
-        "microfaunal": [
-          162
-        ],
-        "content": [
-          163
-        ],
-        "so-called": [
-          166
-        ],
-        "Muthaymimah": [
-          167
-        ],
-        "Formation": [
-          168
-        ],
-        "(?Tertiary),": [
-          169
-        ],
-        "earlier": [
-          171
-        ],
-        "authors,": [
-          172
-        ],
-        "indicates": [
-          173
-        ],
-        "it": [
-          175,
-          194
-        ],
-        "age": [
-          179
-        ],
-        "Range.": [
-          183
-        ],
-        "This": [
-          184
-        ],
-        "sequence": [
-          185
-        ],
-        "also": [
-          187
-        ],
-        "conformable": [
-          188
-        ],
-        "therefore": [
-          193
-        ],
-        "considered": [
-          196
-        ],
-        "be": [
-          198
-        ],
-        "member": [
-          201
-        ],
-        "this": [
-          206
-        ],
-        "area.": [
-          207
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-09-22T06:50:58.402377",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2733942769",
       "doi": "https://doi.org/10.1127/njgpm/2002/2002/426",
       "title": "Stratigraphy and sedimentology of the Hofuf Formation in the State of Qatar in relation to the tectonic evolution of the East Arabian Block",
@@ -55426,357 +54290,6 @@
         }
       ],
       "updated_date": "2026-07-27T08:26:11.824852",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W1524789850",
-      "doi": null,
-      "title": "Bu Hasa Field--United Arab Emirates, Rub al Khali Basin, Abu Dhabi",
-      "display_name": "Bu Hasa Field--United Arab Emirates, Rub al Khali Basin, Abu Dhabi",
-      "publication_year": 1993,
-      "publication_date": "1993-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W1524789850",
-        "mag": "1524789850"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "mag:1524789850",
-        "is_oa": false,
-        "landing_page_url": "http://archives.datapages.com/data/specpubs/fieldst3/data/a022/a022/0001/0050/0069.htm",
-        "pdf_url": null,
-        "source": null,
-        "license": null,
-        "license_id": null,
-        "version": null,
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": null,
-        "raw_type": null
-      },
-      "type": "article",
-      "indexed_in": [],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5010401681",
-            "display_name": "Abdulrahman S. Alsharhan",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Abdulrahman S. Alsharhan",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5010401681"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 12,
-      "citation_normalized_percentile": {
-        "value": 0.09755794,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "22",
-        "issue": null,
-        "first_page": "99",
-        "last_page": "127"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10635",
-        "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "score": 0.9965999722480774,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2210",
-          "display_name": "Mechanical Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9965999722480774,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9940000176429749,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11801",
-          "display_name": "Reservoir Engineering and Simulation Methods",
-          "score": 0.9887999892234802,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/abu-dhabi",
-          "display_name": "Abu dhabi",
-          "score": 0.7867169380187988
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.4395253360271454
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.38240382075309753
-        },
-        {
-          "id": "https://openalex.org/keywords/ancient-history",
-          "display_name": "Ancient history",
-          "score": 0.3786953389644623
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.36120104789733887
-        },
-        {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.19060879945755005
-        },
-        {
-          "id": "https://openalex.org/keywords/archaeology",
-          "display_name": "Archaeology",
-          "score": 0.14118704199790955
-        },
-        {
-          "id": "https://openalex.org/keywords/history",
-          "display_name": "History",
-          "score": 0.1268773078918457
-        },
-        {
-          "id": "https://openalex.org/keywords/metropolitan-area",
-          "display_name": "Metropolitan area",
-          "score": 0.07063111662864685
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C3020203576",
-          "wikidata": "https://www.wikidata.org/wiki/Q1519",
-          "display_name": "Abu dhabi",
-          "level": 3,
-          "score": 0.7867169380187988
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.4395253360271454
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.38240382075309753
-        },
-        {
-          "id": "https://openalex.org/C195244886",
-          "wikidata": "https://www.wikidata.org/wiki/Q41493",
-          "display_name": "Ancient history",
-          "level": 1,
-          "score": 0.3786953389644623
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.36120104789733887
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.19060879945755005
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.14118704199790955
-        },
-        {
-          "id": "https://openalex.org/C95457728",
-          "wikidata": "https://www.wikidata.org/wiki/Q309",
-          "display_name": "History",
-          "level": 0,
-          "score": 0.1268773078918457
-        },
-        {
-          "id": "https://openalex.org/C158739034",
-          "wikidata": "https://www.wikidata.org/wiki/Q1907114",
-          "display_name": "Metropolitan area",
-          "level": 2,
-          "score": 0.07063111662864685
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "mag:1524789850",
-          "is_oa": false,
-          "landing_page_url": "http://archives.datapages.com/data/specpubs/fieldst3/data/a022/a022/0001/0050/0069.htm",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": null,
-          "is_accepted": false,
-          "is_published": null,
-          "raw_source_name": null,
-          "raw_type": null
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46000000834465027
-        }
-      ],
-      "x_sdgs": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W3019667809",
-        "https://openalex.org/W3090137343",
-        "https://openalex.org/W3022675187",
-        "https://openalex.org/W2332732751",
-        "https://openalex.org/W772216353",
-        "https://openalex.org/W2505430568",
-        "https://openalex.org/W3088837581",
-        "https://openalex.org/W2604593938",
-        "https://openalex.org/W2606961253",
-        "https://openalex.org/W3021037472",
-        "https://openalex.org/W2496703725",
-        "https://openalex.org/W2553685802",
-        "https://openalex.org/W607825927",
-        "https://openalex.org/W2801418930",
-        "https://openalex.org/W3111827044",
-        "https://openalex.org/W2050020600",
-        "https://openalex.org/W2504737797",
-        "https://openalex.org/W3022409798",
-        "https://openalex.org/W1496131927",
-        "https://openalex.org/W2063670076"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2021,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T04:12:42.849631",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -58325,6 +56838,1097 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W3158228730",
+      "doi": "https://doi.org/10.2113/geoarabia0303387",
+      "title": "Structural and Stratigraphical Setting of the Faiyah Range, Northwestern Oman Mountain Front, United Arab Emirates",
+      "display_name": "Structural and Stratigraphical Setting of the Faiyah Range, Northwestern Oman Mountain Front, United Arab Emirates",
+      "publication_year": 1998,
+      "publication_date": "1998-07-01",
+      "ids": {
+        "openalex": "https://openalex.org/W3158228730",
+        "doi": "https://doi.org/10.2113/geoarabia0303387",
+        "mag": "3158228730"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2113/geoarabia0303387",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2113/geoarabia0303387",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S189311251",
+          "display_name": "GeoArabia",
+          "issn_l": "1025-6059",
+          "issn": [
+            "1025-6059"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "GeoArabia",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.2113/geoarabia0303387",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5109003219",
+            "display_name": "Mohamed Atef Noweir",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I201726411",
+              "display_name": "United Arab Emirates University",
+              "ror": "https://ror.org/01km6p862",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I201726411"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. Atef Noweir",
+          "raw_affiliation_strings": [
+            "United Arab Emirates University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "United Arab Emirates University",
+              "institution_ids": [
+                "https://openalex.org/I201726411"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5010401681",
+            "display_name": "Abdulrahman S. Alsharhan",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I201726411",
+              "display_name": "United Arab Emirates University",
+              "ror": "https://ror.org/01km6p862",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I201726411"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulrahman S. Alsharhan",
+          "raw_affiliation_strings": [
+            "United Arab Emirates University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "United Arab Emirates University",
+              "institution_ids": [
+                "https://openalex.org/I201726411"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5110689173",
+            "display_name": "Mohamed Boukhary",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I201726411",
+              "display_name": "United Arab Emirates University",
+              "ror": "https://ror.org/01km6p862",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I201726411"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohamed A. Boukhary",
+          "raw_affiliation_strings": [
+            "United Arab Emirates University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "United Arab Emirates University",
+              "institution_ids": [
+                "https://openalex.org/I201726411"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I201726411"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.7308,
+      "has_fulltext": false,
+      "cited_by_count": 22,
+      "citation_normalized_percentile": {
+        "value": 0.87798063,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "3",
+        "issue": "3",
+        "first_page": "387",
+        "last_page": "398"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9987999796867371,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9987999796867371,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9976000189781189,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9976000189781189,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/dammam-formation",
+          "display_name": "Dammam Formation",
+          "score": 0.9950000047683716
+        },
+        {
+          "id": "https://openalex.org/keywords/semail-ophiolite",
+          "display_name": "Samail ophiolite",
+          "score": 0.8949999809265137
+        },
+        {
+          "id": "https://openalex.org/keywords/unconformity",
+          "display_name": "unconformity",
+          "score": 0.8220000267028809
+        },
+        {
+          "id": "https://openalex.org/keywords/marine-transgression",
+          "display_name": "marine transgression",
+          "score": 0.828000009059906
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphy",
+          "display_name": "stratigraphy",
+          "score": 0.6299999952316284
+        },
+        {
+          "id": "https://openalex.org/keywords/microfossils",
+          "display_name": "microfossils",
+          "score": 0.6970000267028809
+        },
+        {
+          "id": "https://openalex.org/keywords/maastrichtian",
+          "display_name": "Maastrichtian",
+          "score": 0.675000011920929
+        },
+        {
+          "id": "https://openalex.org/keywords/eocene",
+          "display_name": "Eocene",
+          "score": 0.42800000309944153
+        },
+        {
+          "id": "https://openalex.org/keywords/mountain-front",
+          "display_name": "mountain front",
+          "score": 0.3440000116825104
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.9072796106338501
+        },
+        {
+          "id": "https://openalex.org/C116637073",
+          "wikidata": "https://www.wikidata.org/wiki/Q190147",
+          "display_name": "Anticline",
+          "level": 3,
+          "score": 0.824478030204773
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.7267370820045471
+        },
+        {
+          "id": "https://openalex.org/C192717286",
+          "wikidata": "https://www.wikidata.org/wiki/Q772239",
+          "display_name": "Obduction",
+          "level": 5,
+          "score": 0.5927513241767883
+        },
+        {
+          "id": "https://openalex.org/C153220577",
+          "wikidata": "https://www.wikidata.org/wiki/Q1479638",
+          "display_name": "Nappe",
+          "level": 3,
+          "score": 0.5914527177810669
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.5798879265785217
+        },
+        {
+          "id": "https://openalex.org/C191735495",
+          "wikidata": "https://www.wikidata.org/wiki/Q876798",
+          "display_name": "Unconformity",
+          "level": 3,
+          "score": 0.5769840478897095
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.5623180270195007
+        },
+        {
+          "id": "https://openalex.org/C23923706",
+          "wikidata": "https://www.wikidata.org/wiki/Q605396",
+          "display_name": "Ophiolite",
+          "level": 3,
+          "score": 0.5297483205795288
+        },
+        {
+          "id": "https://openalex.org/C50047906",
+          "wikidata": "https://www.wikidata.org/wiki/Q2497260",
+          "display_name": "Sinistral and dextral",
+          "level": 3,
+          "score": 0.5170264840126038
+        },
+        {
+          "id": "https://openalex.org/C77271252",
+          "wikidata": "https://www.wikidata.org/wiki/Q301920",
+          "display_name": "Marine transgression",
+          "level": 3,
+          "score": 0.4806419909000397
+        },
+        {
+          "id": "https://openalex.org/C175551986",
+          "wikidata": "https://www.wikidata.org/wiki/Q47089",
+          "display_name": "Fault (geology)",
+          "level": 2,
+          "score": 0.4693618416786194
+        },
+        {
+          "id": "https://openalex.org/C204330871",
+          "wikidata": "https://www.wikidata.org/wiki/Q55810",
+          "display_name": "Paleogene",
+          "level": 3,
+          "score": 0.42838379740715027
+        },
+        {
+          "id": "https://openalex.org/C58097730",
+          "wikidata": "https://www.wikidata.org/wiki/Q176318",
+          "display_name": "Subduction",
+          "level": 3,
+          "score": 0.25224244594573975
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.24040257930755615
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.18743303418159485
+        },
+        {
+          "id": "https://openalex.org/C154200439",
+          "wikidata": "https://www.wikidata.org/wiki/Q238851",
+          "display_name": "Oceanic crust",
+          "level": 4,
+          "score": 0.08210372924804688
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2113/geoarabia0303387",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.2113/geoarabia0303387",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S189311251",
+            "display_name": "GeoArabia",
+            "issn_l": "1025-6059",
+            "issn": [
+              "1025-6059"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "GeoArabia",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.2113/geoarabia0303387",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2113/geoarabia0303387",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S189311251",
+          "display_name": "GeoArabia",
+          "issn_l": "1025-6059",
+          "issn": [
+            "1025-6059"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "GeoArabia",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
+        }
+      ],
+      "x_sdgs": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 40,
+      "referenced_works": [
+        "https://openalex.org/W622751671",
+        "https://openalex.org/W1537425267",
+        "https://openalex.org/W1567684566",
+        "https://openalex.org/W1592324393",
+        "https://openalex.org/W1979820932",
+        "https://openalex.org/W1985748982",
+        "https://openalex.org/W1990448469",
+        "https://openalex.org/W1991062313",
+        "https://openalex.org/W1994737413",
+        "https://openalex.org/W2032960425",
+        "https://openalex.org/W2048456716",
+        "https://openalex.org/W2065247298",
+        "https://openalex.org/W2066182738",
+        "https://openalex.org/W2068451724",
+        "https://openalex.org/W2068785216",
+        "https://openalex.org/W2094216289",
+        "https://openalex.org/W2100232339",
+        "https://openalex.org/W2108855048",
+        "https://openalex.org/W2145995786",
+        "https://openalex.org/W2146586425",
+        "https://openalex.org/W2154733372",
+        "https://openalex.org/W2169236649",
+        "https://openalex.org/W2171710577",
+        "https://openalex.org/W2898199447",
+        "https://openalex.org/W2904132173",
+        "https://openalex.org/W2937684811",
+        "https://openalex.org/W3001692965",
+        "https://openalex.org/W4234206494",
+        "https://openalex.org/W6632240102",
+        "https://openalex.org/W6633868096",
+        "https://openalex.org/W6635232110",
+        "https://openalex.org/W6646620103",
+        "https://openalex.org/W6649041380",
+        "https://openalex.org/W6657073502",
+        "https://openalex.org/W6658462408",
+        "https://openalex.org/W6667046958",
+        "https://openalex.org/W6667189187",
+        "https://openalex.org/W6667610414",
+        "https://openalex.org/W6681312227",
+        "https://openalex.org/W6681434823"
+      ],
+      "related_works": [
+        "https://openalex.org/W4242195779",
+        "https://openalex.org/W2560326800",
+        "https://openalex.org/W4256149684",
+        "https://openalex.org/W2109468534",
+        "https://openalex.org/W2367756865",
+        "https://openalex.org/W1534297386",
+        "https://openalex.org/W2275812285",
+        "https://openalex.org/W2037509965",
+        "https://openalex.org/W2118995100",
+        "https://openalex.org/W3158228730"
+      ],
+      "abstract_inverted_index": {
+        "ABSTRACT": [
+          0
+        ],
+        "The": [
+          1,
+          32,
+          49,
+          69,
+          87,
+          145,
+          161
+        ],
+        "Faiyah": [
+          2,
+          33,
+          64,
+          75,
+          101,
+          182
+        ],
+        "Range": [
+          3,
+          102
+        ],
+        "belongs": [
+          4
+        ],
+        "to": [
+          5,
+          38,
+          45,
+          91,
+          189,
+          197
+        ],
+        "a": [
+          6,
+          56,
+          132,
+          142,
+          150
+        ],
+        "group": [
+          7
+        ],
+        "of": [
+          8,
+          16,
+          27,
+          126,
+          164,
+          170,
+          177,
+          202
+        ],
+        "regional": [
+          9
+        ],
+        "ridges": [
+          10
+        ],
+        "that": [
+          11,
+          122,
+          174
+        ],
+        "formed": [
+          12
+        ],
+        "by": [
+          13,
+          55
+        ],
+        "post-obduction": [
+          14
+        ],
+        "folding": [
+          15
+        ],
+        "the": [
+          17,
+          24,
+          28,
+          46,
+          63,
+          79,
+          97,
+          100,
+          103,
+          108,
+          115,
+          123,
+          127,
+          136,
+          157,
+          165,
+          181,
+          190,
+          199,
+          203
+        ],
+        "Upper": [
+          18
+        ],
+        "Cretaceous-Tertiary": [
+          19
+        ],
+        "sedimentary": [
+          20,
+          105
+        ],
+        "rocks": [
+          21,
+          106
+        ],
+        "exposed": [
+          22
+        ],
+        "along": [
+          23
+        ],
+        "western": [
+          25
+        ],
+        "margin": [
+          26
+        ],
+        "Northern": [
+          29
+        ],
+        "Oman": [
+          30
+        ],
+        "Mountains.": [
+          31
+        ],
+        "Anticline,": [
+          34
+        ],
+        "generally": [
+          35
+        ],
+        "trends": [
+          36
+        ],
+        "north-northeast": [
+          37
+        ],
+        "south-southwest": [
+          39
+        ],
+        "with": [
+          40
+        ],
+        "thrust": [
+          41
+        ],
+        "faults": [
+          42
+        ],
+        "striking": [
+          43
+        ],
+        "parallel": [
+          44
+        ],
+        "fold": [
+          47
+        ],
+        "axis.": [
+          48
+        ],
+        "anticlinal": [
+          50
+        ],
+        "hinge": [
+          51
+        ],
+        "was": [
+          52,
+          129,
+          139,
+          147
+        ],
+        "later": [
+          53
+        ],
+        "displaced": [
+          54
+        ],
+        "dextral": [
+          57
+        ],
+        "strike-slip": [
+          58
+        ],
+        "fault,": [
+          59
+        ],
+        "named": [
+          60
+        ],
+        "here": [
+          61
+        ],
+        "as": [
+          62
+        ],
+        "Fault,": [
+          65
+        ],
+        "into": [
+          66
+        ],
+        "two": [
+          67
+        ],
+        "segments.": [
+          68
+        ],
+        "northeastern": [
+          70
+        ],
+        "segment": [
+          71,
+          81
+        ],
+        "includes": [
+          72,
+          82
+        ],
+        "Jebels": [
+          73,
+          83
+        ],
+        "Rumaylah,": [
+          74
+        ],
+        "and": [
+          76,
+          78,
+          85,
+          111,
+          114,
+          192
+        ],
+        "Mulayhah,": [
+          77
+        ],
+        "southwestern": [
+          80
+        ],
+        "Buhays": [
+          84
+        ],
+        "Aqabah.": [
+          86
+        ],
+        "anticline": [
+          88
+        ],
+        "is": [
+          89,
+          176,
+          186,
+          195
+        ],
+        "interpreted": [
+          90
+        ],
+        "result": [
+          92
+        ],
+        "from": [
+          93
+        ],
+        "northeast-southwest": [
+          94
+        ],
+        "compression": [
+          95
+        ],
+        "during": [
+          96,
+          141
+        ],
+        "Tertiary.": [
+          98
+        ],
+        "In": [
+          99
+        ],
+        "neoautochthonous": [
+          104
+        ],
+        "are": [
+          107
+        ],
+        "Maastrichtian": [
+          109,
+          178
+        ],
+        "Qahlah": [
+          110,
+          128
+        ],
+        "Simsima": [
+          112,
+          146,
+          191,
+          204
+        ],
+        "formations,": [
+          113
+        ],
+        "Eocene": [
+          116
+        ],
+        "Dammam": [
+          117
+        ],
+        "Formation.": [
+          118
+        ],
+        "Stratigraphic": [
+          119
+        ],
+        "evidence": [
+          120
+        ],
+        "shows": [
+          121
+        ],
+        "lower": [
+          124
+        ],
+        "part": [
+          125,
+          138
+        ],
+        "deposited": [
+          130,
+          140,
+          148
+        ],
+        "in": [
+          131,
+          149,
+          180,
+          205
+        ],
+        "non-marine": [
+          133
+        ],
+        "environment": [
+          134
+        ],
+        "while": [
+          135
+        ],
+        "upper": [
+          137,
+          200
+        ],
+        "marine": [
+          143
+        ],
+        "transgression.": [
+          144
+        ],
+        "shallow-marine": [
+          151
+        ],
+        "environment.": [
+          152
+        ],
+        "These": [
+          153
+        ],
+        "units": [
+          154
+        ],
+        "unconformably": [
+          155
+        ],
+        "overlap": [
+          156
+        ],
+        "allochthonous": [
+          158
+        ],
+        "Semail": [
+          159
+        ],
+        "Ophiolite.": [
+          160
+        ],
+        "microfaunal": [
+          162
+        ],
+        "content": [
+          163
+        ],
+        "so-called": [
+          166
+        ],
+        "Muthaymimah": [
+          167
+        ],
+        "Formation": [
+          168
+        ],
+        "(?Tertiary),": [
+          169
+        ],
+        "earlier": [
+          171
+        ],
+        "authors,": [
+          172
+        ],
+        "indicates": [
+          173
+        ],
+        "it": [
+          175,
+          194
+        ],
+        "age": [
+          179
+        ],
+        "Range.": [
+          183
+        ],
+        "This": [
+          184
+        ],
+        "sequence": [
+          185
+        ],
+        "also": [
+          187
+        ],
+        "conformable": [
+          188
+        ],
+        "therefore": [
+          193
+        ],
+        "considered": [
+          196
+        ],
+        "be": [
+          198
+        ],
+        "member": [
+          201
+        ],
+        "this": [
+          206
+        ],
+        "area.": [
+          207
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-22T06:50:58.402377",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W1596243404",
       "doi": null,
       "title": "The holocene tidal flat complex of the Arabian Gulf coast of Abu Dhabi.",
@@ -58451,11 +58055,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.581,
+      "fwci": 1.5808,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.84093579,
+        "value": 0.84092022,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -58510,34 +58114,19 @@
       ],
       "keywords": [
         {
+          "id": "https://openalex.org/keywords/arabian-gulf-coast",
+          "display_name": "Arabian Gulf coast",
+          "score": 0.8600000143051147
+        },
+        {
           "id": "https://openalex.org/keywords/abu-dhabi",
-          "display_name": "Abu dhabi",
-          "score": 0.8487027883529663
+          "display_name": "Abu Dhabi",
+          "score": 0.875
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8179100751876831
-        },
-        {
-          "id": "https://openalex.org/keywords/holocene",
-          "display_name": "Holocene",
-          "score": 0.7773252725601196
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.608107328414917
-        },
-        {
-          "id": "https://openalex.org/keywords/archaeology",
-          "display_name": "Archaeology",
-          "score": 0.25562921166419983
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.22008714079856873
+          "id": "https://openalex.org/keywords/coastal-sedimentology",
+          "display_name": "coastal sedimentology",
+          "score": 0.6380000114440918
         }
       ],
       "concepts": [
@@ -63950,6 +63539,334 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W1524789850",
+      "doi": null,
+      "title": "Bu Hasa Field--United Arab Emirates, Rub al Khali Basin, Abu Dhabi",
+      "display_name": "Bu Hasa Field--United Arab Emirates, Rub al Khali Basin, Abu Dhabi",
+      "publication_year": 1993,
+      "publication_date": "1993-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1524789850",
+        "mag": "1524789850"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "mag:1524789850",
+        "is_oa": false,
+        "landing_page_url": "http://archives.datapages.com/data/specpubs/fieldst3/data/a022/a022/0001/0050/0069.htm",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": null
+      },
+      "type": "article",
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5010401681",
+            "display_name": "Abdulrahman S. Alsharhan",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Abdulrahman S. Alsharhan",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5010401681"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 12,
+      "citation_normalized_percentile": {
+        "value": 0.10430387,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "22",
+        "issue": null,
+        "first_page": "99",
+        "last_page": "127"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10635",
+        "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+        "score": 0.9965999722480774,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2210",
+          "display_name": "Mechanical Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10635",
+          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+          "score": 0.9965999722480774,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9940000176429749,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11801",
+          "display_name": "Reservoir Engineering and Simulation Methods",
+          "score": 0.9887999892234802,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/rub-al-khali-basin",
+          "display_name": "Rub' Al-Khali Basin",
+          "score": 0.9549999833106995
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-fields",
+          "display_name": "oil fields",
+          "score": 0.6370000243186951
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-exploration",
+          "display_name": "petroleum exploration",
+          "score": 0.6380000114440918
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-reservoirs",
+          "display_name": "hydrocarbon reservoirs",
+          "score": 0.5180000066757202
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C3020203576",
+          "wikidata": "https://www.wikidata.org/wiki/Q1519",
+          "display_name": "Abu dhabi",
+          "level": 3,
+          "score": 0.7867169380187988
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.4395253360271454
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.38240382075309753
+        },
+        {
+          "id": "https://openalex.org/C195244886",
+          "wikidata": "https://www.wikidata.org/wiki/Q41493",
+          "display_name": "Ancient history",
+          "level": 1,
+          "score": 0.3786953389644623
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.36120104789733887
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.19060879945755005
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.14118704199790955
+        },
+        {
+          "id": "https://openalex.org/C95457728",
+          "wikidata": "https://www.wikidata.org/wiki/Q309",
+          "display_name": "History",
+          "level": 0,
+          "score": 0.1268773078918457
+        },
+        {
+          "id": "https://openalex.org/C158739034",
+          "wikidata": "https://www.wikidata.org/wiki/Q1907114",
+          "display_name": "Metropolitan area",
+          "level": 2,
+          "score": 0.07063111662864685
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "mag:1524789850",
+          "is_oa": false,
+          "landing_page_url": "http://archives.datapages.com/data/specpubs/fieldst3/data/a022/a022/0001/0050/0069.htm",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.46000000834465027
+        }
+      ],
+      "x_sdgs": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W3019667809",
+        "https://openalex.org/W3090137343",
+        "https://openalex.org/W3022675187",
+        "https://openalex.org/W2332732751",
+        "https://openalex.org/W772216353",
+        "https://openalex.org/W2505430568",
+        "https://openalex.org/W3088837581",
+        "https://openalex.org/W2604593938",
+        "https://openalex.org/W2606961253",
+        "https://openalex.org/W3021037472",
+        "https://openalex.org/W2496703725",
+        "https://openalex.org/W2553685802",
+        "https://openalex.org/W607825927",
+        "https://openalex.org/W2801418930",
+        "https://openalex.org/W3111827044",
+        "https://openalex.org/W2050020600",
+        "https://openalex.org/W2504737797",
+        "https://openalex.org/W3022409798",
+        "https://openalex.org/W1496131927",
+        "https://openalex.org/W2063670076"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2021,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T04:12:42.849631",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2033460774",
       "doi": "https://doi.org/10.1007/bf03175632",
       "title": "Diagenetic history and source rock potential of the Upper Jurassic Diyab Formation, offshore Abu Dhabi, United Arab Emirates",
@@ -67311,11 +67228,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4365,
+      "fwci": 1.4105,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.83967666,
+        "value": 0.839448,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -67404,54 +67321,69 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/christian-ministry",
-          "display_name": "Christian ministry",
-          "score": 0.727226734161377
+          "id": "https://openalex.org/keywords/water-governance",
+          "display_name": "water governance",
+          "score": 0.9980000257492065
         },
         {
-          "id": "https://openalex.org/keywords/context",
-          "display_name": "Context (archaeology)",
-          "score": 0.49065032601356506
+          "id": "https://openalex.org/keywords/united-arab-emirates",
+          "display_name": "United Arab Emirates",
+          "score": 0.9589999914169312
         },
         {
-          "id": "https://openalex.org/keywords/government",
-          "display_name": "Government (linguistics)",
-          "score": 0.4783496558666229
+          "id": "https://openalex.org/keywords/water-conservation",
+          "display_name": "water conservation",
+          "score": 0.49399998784065247
         },
         {
-          "id": "https://openalex.org/keywords/business",
-          "display_name": "Business",
-          "score": 0.4381585121154785
+          "id": "https://openalex.org/keywords/desalination",
+          "display_name": "desalination",
+          "score": 0.7730000019073486
         },
         {
-          "id": "https://openalex.org/keywords/delegation",
-          "display_name": "Delegation",
-          "score": 0.4171242415904999
+          "id": "https://openalex.org/keywords/treated-wastewater",
+          "display_name": "treated wastewater",
+          "score": 0.699999988079071
         },
         {
-          "id": "https://openalex.org/keywords/environmental-planning",
-          "display_name": "Environmental planning",
-          "score": 0.39247485995292664
+          "id": "https://openalex.org/keywords/unconventional-water-resources",
+          "display_name": "non-conventional water resources",
+          "score": 0.8420000076293945
         },
         {
-          "id": "https://openalex.org/keywords/environmental-protection",
-          "display_name": "Environmental protection",
-          "score": 0.342610239982605
+          "id": "https://openalex.org/keywords/intergovernmental-agreements",
+          "display_name": "intergovernmental agreements",
+          "score": 0.7170000076293945
         },
         {
-          "id": "https://openalex.org/keywords/political-science",
-          "display_name": "Political science",
-          "score": 0.26631778478622437
+          "id": "https://openalex.org/keywords/federal-authority",
+          "display_name": "federal authority",
+          "score": 0.3409999907016754
         },
         {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.2429819107055664
+          "id": "https://openalex.org/keywords/water-policy",
+          "display_name": "water policy",
+          "score": 0.39100000262260437
         },
         {
-          "id": "https://openalex.org/keywords/law",
-          "display_name": "Law",
-          "score": 0.11746916174888611
+          "id": "https://openalex.org/keywords/water-demand-management",
+          "display_name": "water demand management",
+          "score": 0.5410000085830688
+        },
+        {
+          "id": "https://openalex.org/keywords/water-resources-management",
+          "display_name": "water resources management",
+          "score": 0.3779999911785126
+        },
+        {
+          "id": "https://openalex.org/keywords/water-scarcity",
+          "display_name": "water scarcity",
+          "score": 0.30799999833106995
+        },
+        {
+          "id": "https://openalex.org/keywords/water-pollution-control",
+          "display_name": "water pollution control",
+          "score": 0.3190000057220459
         }
       ],
       "concepts": [
@@ -67776,7 +67708,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.61621622,
+        "value": 0.6157998,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -67866,63 +67798,43 @@
       "keywords": [
         {
           "id": "https://openalex.org/keywords/groundwater-recharge",
-          "display_name": "Groundwater recharge",
-          "score": 0.8034504652023315
+          "display_name": "groundwater recharge",
+          "score": 0.7070000171661377
         },
         {
-          "id": "https://openalex.org/keywords/groundwater",
-          "display_name": "Groundwater",
-          "score": 0.7997918128967285
+          "id": "https://openalex.org/keywords/groundwater-salinity",
+          "display_name": "groundwater salinity",
+          "score": 0.6769999861717224
         },
         {
-          "id": "https://openalex.org/keywords/wadi",
-          "display_name": "Wadi",
-          "score": 0.6623787879943848
+          "id": "https://openalex.org/keywords/water-quality",
+          "display_name": "water quality",
+          "score": 0.5669999718666077
         },
         {
-          "id": "https://openalex.org/keywords/hydrogeology",
-          "display_name": "Hydrogeology",
-          "score": 0.6394295692443848
+          "id": "https://openalex.org/keywords/soil-type",
+          "display_name": "soil type",
+          "score": 0.5120000243186951
         },
         {
-          "id": "https://openalex.org/keywords/hydrology",
-          "display_name": "Hydrology (agriculture)",
-          "score": 0.6235741376876831
+          "id": "https://openalex.org/keywords/structural-trends",
+          "display_name": "structural trends",
+          "score": 0.5899999737739563
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.513445258140564
+          "id": "https://openalex.org/keywords/groundwater-protection-zones",
+          "display_name": "groundwater protection zones",
+          "score": 0.5360000133514404
         },
         {
-          "id": "https://openalex.org/keywords/groundwater-flow",
-          "display_name": "Groundwater flow",
-          "score": 0.47060781717300415
+          "id": "https://openalex.org/keywords/agricultural-water-use",
+          "display_name": "agricultural water use",
+          "score": 0.6800000071525574
         },
         {
-          "id": "https://openalex.org/keywords/drainage",
-          "display_name": "Drainage",
-          "score": 0.43379244208335876
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.2614012658596039
-        },
-        {
-          "id": "https://openalex.org/keywords/aquifer",
-          "display_name": "Aquifer",
-          "score": 0.22290870547294617
-        },
-        {
-          "id": "https://openalex.org/keywords/cartography",
-          "display_name": "Cartography",
-          "score": 0.1382090151309967
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.09168842434883118
+          "id": "https://openalex.org/keywords/united-arab-emirates",
+          "display_name": "United Arab Emirates",
+          "score": 0.8659999966621399
         }
       ],
       "concepts": [
@@ -68869,11 +68781,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.8872,
+      "fwci": 4.3197,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.88188976,
+        "value": 0.88235294,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -68962,49 +68874,64 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/evaporite",
-          "display_name": "Evaporite",
-          "score": 0.8918474912643433
+          "id": "https://openalex.org/keywords/cyanobacterial-mats",
+          "display_name": "cyanobacterial mats",
+          "score": 0.9900000095367432
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8504832983016968
+          "id": "https://openalex.org/keywords/algal-mats",
+          "display_name": "algal mats",
+          "score": 0.6819999814033508
         },
         {
-          "id": "https://openalex.org/keywords/carbonate",
-          "display_name": "Carbonate",
-          "score": 0.825637936592102
+          "id": "https://openalex.org/keywords/evaporites",
+          "display_name": "evaporites",
+          "score": 0.9470000267028809
         },
         {
-          "id": "https://openalex.org/keywords/holocene",
-          "display_name": "Holocene",
-          "score": 0.7089031934738159
+          "id": "https://openalex.org/keywords/petroleum-source-rocks",
+          "display_name": "petroleum source rocks",
+          "score": 0.6230000257492065
         },
         {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.5995792150497437
+          "id": "https://openalex.org/keywords/type-ii-kerogen",
+          "display_name": "type II kerogen",
+          "score": 0.7839999794960022
         },
         {
-          "id": "https://openalex.org/keywords/petroleum",
-          "display_name": "Petroleum",
-          "score": 0.4644335210323334
+          "id": "https://openalex.org/keywords/organic-matter",
+          "display_name": "organic matter",
+          "score": 0.47699999809265137
         },
         {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.3708789348602295
+          "id": "https://openalex.org/keywords/total-organic-carbon",
+          "display_name": "total organic carbon",
+          "score": 0.7940000295639038
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.2610289752483368
+          "id": "https://openalex.org/keywords/carbonate-reservoirs",
+          "display_name": "carbonate reservoirs",
+          "score": 0.8519999980926514
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.19380560517311096
+          "id": "https://openalex.org/keywords/barrier-islands",
+          "display_name": "barrier islands",
+          "score": 0.5809999704360962
+        },
+        {
+          "id": "https://openalex.org/keywords/lagoons",
+          "display_name": "lagoons",
+          "score": 0.7450000047683716
+        },
+        {
+          "id": "https://openalex.org/keywords/persian-gulf",
+          "display_name": "Persian Gulf",
+          "score": 0.6919999718666077
+        },
+        {
+          "id": "https://openalex.org/keywords/united-arab-emirates",
+          "display_name": "United Arab Emirates",
+          "score": 0.5529999732971191
         }
       ],
       "concepts": [
@@ -75644,11 +75571,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8664,
+      "fwci": 0.8696,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.77656079,
+        "value": 0.77483444,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -75737,44 +75664,74 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/abu-dhabi",
-          "display_name": "Abu dhabi",
-          "score": 0.960455060005188
+          "id": "https://openalex.org/keywords/quartz",
+          "display_name": "quartz",
+          "score": 0.7940000295639038
         },
         {
-          "id": "https://openalex.org/keywords/quaternary",
-          "display_name": "Quaternary",
-          "score": 0.8084416389465332
+          "id": "https://openalex.org/keywords/dolomite",
+          "display_name": "dolomite",
+          "score": 0.8500000238418579
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6522245407104492
+          "id": "https://openalex.org/keywords/calcite",
+          "display_name": "calcite",
+          "score": 0.968999981880188
         },
         {
-          "id": "https://openalex.org/keywords/archaeology",
-          "display_name": "Archaeology",
-          "score": 0.4636821150779724
+          "id": "https://openalex.org/keywords/pyroxene",
+          "display_name": "pyroxene",
+          "score": 0.628000020980835
         },
         {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.3927127420902252
+          "id": "https://openalex.org/keywords/zircon",
+          "display_name": "zircon",
+          "score": 0.7020000219345093
         },
         {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.38266241550445557
+          "id": "https://openalex.org/keywords/amphibole",
+          "display_name": "amphibole",
+          "score": 0.8169999718666077
         },
         {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.34865057468414307
+          "id": "https://openalex.org/keywords/rutile",
+          "display_name": "rutile",
+          "score": 0.5920000076293945
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.11429676413536072
+          "id": "https://openalex.org/keywords/staurolite",
+          "display_name": "staurolite",
+          "score": 0.8080000281333923
+        },
+        {
+          "id": "https://openalex.org/keywords/garnet",
+          "display_name": "garnet",
+          "score": 0.9309999942779541
+        },
+        {
+          "id": "https://openalex.org/keywords/biotite",
+          "display_name": "biotite",
+          "score": 0.8690000176429749
+        },
+        {
+          "id": "https://openalex.org/keywords/monazite",
+          "display_name": "monazite",
+          "score": 0.9129999876022339
+        },
+        {
+          "id": "https://openalex.org/keywords/titanite",
+          "display_name": "titanite",
+          "score": 0.7590000033378601
+        },
+        {
+          "id": "https://openalex.org/keywords/selective-sorting",
+          "display_name": "selective sorting",
+          "score": 0.7519999742507935
+        },
+        {
+          "id": "https://openalex.org/keywords/sediment-provenance",
+          "display_name": "sediment provenance",
+          "score": 0.8579999804496765
         }
       ],
       "concepts": [
@@ -87646,7 +87603,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2896,
+      "fwci": 1.3087,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
@@ -87739,64 +87696,54 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/aquifer",
-          "display_name": "Aquifer",
-          "score": 0.9540004730224609
-        },
-        {
-          "id": "https://openalex.org/keywords/quaternary",
-          "display_name": "Quaternary",
-          "score": 0.7500860691070557
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.7241294384002686
-        },
-        {
-          "id": "https://openalex.org/keywords/hydraulic-conductivity",
-          "display_name": "Hydraulic conductivity",
-          "score": 0.6350226402282715
-        },
-        {
-          "id": "https://openalex.org/keywords/groundwater",
-          "display_name": "Groundwater",
-          "score": 0.6215476393699646
+          "id": "https://openalex.org/keywords/groundwater-mound",
+          "display_name": "groundwater mound",
+          "score": 0.6990000009536743
         },
         {
           "id": "https://openalex.org/keywords/hydrogeology",
-          "display_name": "Hydrogeology",
-          "score": 0.48924875259399414
+          "display_name": "hydrogeology",
+          "score": 0.6129999756813049
         },
         {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.38287803530693054
+          "id": "https://openalex.org/keywords/groundwater-hydrochemistry",
+          "display_name": "hydrogeochemistry",
+          "score": 0.9660000205039978
         },
         {
-          "id": "https://openalex.org/keywords/hydrology",
-          "display_name": "Hydrology (agriculture)",
-          "score": 0.33415687084198
+          "id": "https://openalex.org/keywords/hydraulic-properties",
+          "display_name": "hydraulic properties",
+          "score": 0.4779999852180481
         },
         {
-          "id": "https://openalex.org/keywords/soil-science",
-          "display_name": "Soil science",
-          "score": 0.19018980860710144
+          "id": "https://openalex.org/keywords/groundwater-salinity",
+          "display_name": "groundwater salinity",
+          "score": 0.5379999876022339
         },
         {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.14203178882598877
+          "id": "https://openalex.org/keywords/sodium-adsorption-ratio",
+          "display_name": "sodium adsorption ratio",
+          "score": 0.8870000243186951
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.09015366435050964
+          "id": "https://openalex.org/keywords/water-quality",
+          "display_name": "water quality",
+          "score": 0.3799999952316284
         },
         {
-          "id": "https://openalex.org/keywords/soil-water",
-          "display_name": "Soil water",
-          "score": 0.05160707235336304
+          "id": "https://openalex.org/keywords/isotopic-hydrology",
+          "display_name": "isotopic hydrology",
+          "score": 0.4659999907016754
+        },
+        {
+          "id": "https://openalex.org/keywords/pluvial-periods",
+          "display_name": "pluvial periods",
+          "score": 0.671999990940094
+        },
+        {
+          "id": "https://openalex.org/keywords/paleo-aquifers",
+          "display_name": "paleo-aquifers",
+          "score": 0.7639999985694885
         }
       ],
       "concepts": [
@@ -91973,7 +91920,10 @@
           "author": {
             "id": "https://openalex.org/A5103003307",
             "display_name": "Christopher Kendall",
-            "orcid": "https://orcid.org/0000-0002-9968-8145"
+            "orcid": "https://orcid.org/0000-0002-9968-8145",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9968-8145"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -91988,7 +91938,8 @@
           "author": {
             "id": "https://openalex.org/A5010401681",
             "display_name": "Abdulrahman S. Alsharhan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -92003,7 +91954,8 @@
           "author": {
             "id": "https://openalex.org/A5047253463",
             "display_name": "Lisa Marlow",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -92016,7 +91968,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -92025,12 +91977,12 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.2184386,
+        "value": 0.21456734,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 94
       },
       "biblio": {
@@ -92114,74 +92066,69 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.9031893610954285
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8929805755615234
-        },
-        {
-          "id": "https://openalex.org/keywords/evaporite",
-          "display_name": "Evaporite",
-          "score": 0.8510070443153381
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.8025134801864624
-        },
-        {
-          "id": "https://openalex.org/keywords/phanerozoic",
-          "display_name": "Phanerozoic",
-          "score": 0.6131949424743652
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.5915803909301758
-        },
-        {
-          "id": "https://openalex.org/keywords/paleozoic",
-          "display_name": "Paleozoic",
-          "score": 0.5648597478866577
-        },
-        {
           "id": "https://openalex.org/keywords/stratigraphy",
-          "display_name": "Stratigraphy",
-          "score": 0.5118981599807739
+          "display_name": "stratigraphy",
+          "score": 0.8140000104904175
         },
         {
-          "id": "https://openalex.org/keywords/passive-margin",
-          "display_name": "Passive margin",
-          "score": 0.41797035932540894
+          "id": "https://openalex.org/keywords/depositional-systems",
+          "display_name": "depositional systems",
+          "score": 0.9929999709129333
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-basin",
-          "display_name": "Sedimentary basin",
-          "score": 0.41501739621162415
+          "id": "https://openalex.org/keywords/petroleum-systems",
+          "display_name": "petroleum systems",
+          "score": 0.8899999856948853
         },
         {
-          "id": "https://openalex.org/keywords/cenozoic",
-          "display_name": "Cenozoic",
-          "score": 0.37128710746765137
+          "id": "https://openalex.org/keywords/petroleum-exploration",
+          "display_name": "petroleum exploration",
+          "score": 0.8500000238418579
         },
         {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.316646546125412
+          "id": "https://openalex.org/keywords/source-rocks",
+          "display_name": "source rocks",
+          "score": 0.6060000061988831
         },
         {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.3080548644065857
+          "id": "https://openalex.org/keywords/caprock",
+          "display_name": "caprock",
+          "score": 0.7960000038146973
         },
         {
-          "id": "https://openalex.org/keywords/rift",
-          "display_name": "Rift",
-          "score": 0.08793282508850098
+          "id": "https://openalex.org/keywords/reservoir-rocks",
+          "display_name": "reservoir rocks",
+          "score": 0.9829999804496765
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrocarbon-traps",
+          "display_name": "hydrocarbon traps",
+          "score": 0.8450000286102295
+        },
+        {
+          "id": "https://openalex.org/keywords/evaporites",
+          "display_name": "evaporites",
+          "score": 0.7400000095367432
+        },
+        {
+          "id": "https://openalex.org/keywords/shallow-water-carbonates",
+          "display_name": "shallow-water carbonates",
+          "score": 0.8230000138282776
+        },
+        {
+          "id": "https://openalex.org/keywords/siliciclastics",
+          "display_name": "siliciclastics",
+          "score": 0.8519999980926514
+        },
+        {
+          "id": "https://openalex.org/keywords/epeirogeny",
+          "display_name": "epeirogeny",
+          "score": 0.7200000286102295
+        },
+        {
+          "id": "https://openalex.org/keywords/exploration-frontiers",
+          "display_name": "exploration frontiers",
+          "score": 0.6880000233650208
         }
       ],
       "concepts": [
@@ -92904,7 +92851,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2025-11-06T04:12:42.849631",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -94955,7 +94902,8 @@
           "author": {
             "id": "https://openalex.org/A5010401681",
             "display_name": "Abdulrahman S. Alsharhan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -94970,7 +94918,8 @@
           "author": {
             "id": "https://openalex.org/A5075615652",
             "display_name": "A.E.M. Nairn",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -94992,7 +94941,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.00463768,
+        "value": 0.00470588,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -95081,74 +95030,69 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.8997389674186707
+          "id": "https://openalex.org/keywords/cretaceous-stratigraphy",
+          "display_name": "Cretaceous stratigraphy",
+          "score": 0.9950000047683716
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8944723606109619
+          "id": "https://openalex.org/keywords/paleogeography",
+          "display_name": "paleogeography",
+          "score": 0.8669999837875366
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.8474721312522888
+          "id": "https://openalex.org/keywords/arabian-peninsula",
+          "display_name": "Arabian Peninsula",
+          "score": 0.9810000061988831
         },
         {
-          "id": "https://openalex.org/keywords/cenomanian",
-          "display_name": "Cenomanian",
-          "score": 0.7521573305130005
+          "id": "https://openalex.org/keywords/thamama-group",
+          "display_name": "Thamama Group",
+          "score": 0.921999990940094
         },
         {
-          "id": "https://openalex.org/keywords/aptian",
-          "display_name": "Aptian",
-          "score": 0.6981208324432373
+          "id": "https://openalex.org/keywords/stratigraphic-nomenclature",
+          "display_name": "stratigraphic nomenclature",
+          "score": 0.9739999771118164
         },
         {
-          "id": "https://openalex.org/keywords/unconformity",
-          "display_name": "Unconformity",
-          "score": 0.6798555254936218
+          "id": "https://openalex.org/keywords/regional-unconformity",
+          "display_name": "regional unconformity",
+          "score": 0.8370000123977661
         },
         {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.6641494035720825
+          "id": "https://openalex.org/keywords/carbonate-shelf",
+          "display_name": "carbonate shelf",
+          "score": 0.7049999833106995
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.5740296244621277
+          "id": "https://openalex.org/keywords/depositional-environment",
+          "display_name": "depositional environment",
+          "score": 0.6499999761581421
         },
         {
-          "id": "https://openalex.org/keywords/lithology",
-          "display_name": "Lithology",
-          "score": 0.5100517868995667
+          "id": "https://openalex.org/keywords/eustasy",
+          "display_name": "eustasy",
+          "score": 0.8489999771118164
         },
         {
-          "id": "https://openalex.org/keywords/stratigraphy",
-          "display_name": "Stratigraphy",
-          "score": 0.5051053166389465
+          "id": "https://openalex.org/keywords/tectonic-tilting",
+          "display_name": "tectonic tilting",
+          "score": 0.9470000267028809
         },
         {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.4833666682243347
+          "id": "https://openalex.org/keywords/secondary-porosity",
+          "display_name": "secondary porosity",
+          "score": 0.7760000228881836
         },
         {
-          "id": "https://openalex.org/keywords/subaerial",
-          "display_name": "Subaerial",
-          "score": 0.46526339650154114
+          "id": "https://openalex.org/keywords/shuaiba-formation",
+          "display_name": "Shuaiba Formation",
+          "score": 0.8980000019073486
         },
         {
-          "id": "https://openalex.org/keywords/sea-level",
-          "display_name": "Sea level",
-          "score": 0.4309566020965576
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.09324926137924194
+          "id": "https://openalex.org/keywords/mishrif-formation",
+          "display_name": "Mishrif Formation",
+          "score": 0.9929999709129333
         }
       ],
       "concepts": [
@@ -100700,6 +100644,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
@@ -100734,7 +100679,8 @@
           "author": {
             "id": "https://openalex.org/A5089599866",
             "display_name": "I.A. Al-Jallal",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -100756,7 +100702,8 @@
           "author": {
             "id": "https://openalex.org/A5010401681",
             "display_name": "Abdulrahman S. Alsharhan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -100882,19 +100829,19 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.43525487184524536
+          "id": "https://openalex.org/keywords/arabian-peninsula",
+          "display_name": "Arabian Peninsula",
+          "score": 0.9039999842643738
         },
         {
-          "id": "https://openalex.org/keywords/history",
-          "display_name": "History",
-          "score": 0.34275585412979126
+          "id": "https://openalex.org/keywords/gulf-region",
+          "display_name": "Gulf region",
+          "score": 0.6190000176429749
         },
         {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.3291044533252716
+          "id": "https://openalex.org/keywords/gulf-states",
+          "display_name": "Gulf states",
+          "score": 0.30300000309944153
         }
       ],
       "concepts": [
@@ -100936,6 +100883,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
             "host_organization_lineage": [
@@ -103323,7 +103271,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.18453039,
+        "value": 0.18432671,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -103409,39 +103357,29 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/abu-dhabi",
-          "display_name": "Abu dhabi",
-          "score": 0.9727932214736938
+          "id": "https://openalex.org/keywords/grain-roundness",
+          "display_name": "grain roundness",
+          "score": 0.8479999899864197
         },
         {
-          "id": "https://openalex.org/keywords/quaternary",
-          "display_name": "Quaternary",
-          "score": 0.8302489519119263
+          "id": "https://openalex.org/keywords/grain-sorting",
+          "display_name": "grain sorting",
+          "score": 0.8299999833106995
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.673580527305603
+          "id": "https://openalex.org/keywords/grain-size",
+          "display_name": "grain size",
+          "score": 0.6629999876022339
         },
         {
-          "id": "https://openalex.org/keywords/archaeology",
-          "display_name": "Archaeology",
-          "score": 0.5038322806358337
+          "id": "https://openalex.org/keywords/quartz-dissolution",
+          "display_name": "quartz dissolution",
+          "score": 0.6060000061988831
         },
         {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.40481531620025635
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.3797280788421631
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.21279731392860413
+          "id": "https://openalex.org/keywords/last-glacial-period",
+          "display_name": "last glacial period",
+          "score": 0.5770000219345093
         }
       ],
       "concepts": [
@@ -105653,54 +105591,59 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8646063804626465
+          "id": "https://openalex.org/keywords/lower-aptian",
+          "display_name": "Lower Aptian",
+          "score": 0.8690000176429749
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-microfacies",
+          "display_name": "carbonate microfacies",
+          "score": 0.8209999799728394
         },
         {
           "id": "https://openalex.org/keywords/diagenesis",
-          "display_name": "Diagenesis",
-          "score": 0.8474605083465576
+          "display_name": "diagenesis",
+          "score": 0.7459999918937683
         },
         {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.7907067537307739
+          "id": "https://openalex.org/keywords/reservoir-quality",
+          "display_name": "reservoir quality",
+          "score": 0.6869999766349792
         },
         {
-          "id": "https://openalex.org/keywords/aptian",
-          "display_name": "Aptian",
-          "score": 0.7473053932189941
+          "id": "https://openalex.org/keywords/shallow-water-carbonates",
+          "display_name": "shallow-water carbonates",
+          "score": 0.699999988079071
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.6746268272399902
+          "id": "https://openalex.org/keywords/offshore-banks",
+          "display_name": "offshore banks",
+          "score": 0.5009999871253967
         },
         {
-          "id": "https://openalex.org/keywords/wackestone",
-          "display_name": "Wackestone",
-          "score": 0.6570956707000732
+          "id": "https://openalex.org/keywords/biomicrite",
+          "display_name": "biomicrite",
+          "score": 0.527999997138977
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.5123454332351685
+          "id": "https://openalex.org/keywords/stylolites",
+          "display_name": "stylolites",
+          "score": 0.8479999899864197
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.4616602063179016
+          "id": "https://openalex.org/keywords/aragonite-dissolution",
+          "display_name": "aragonite dissolution",
+          "score": 0.7960000038146973
         },
         {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.40128380060195923
+          "id": "https://openalex.org/keywords/pressure-solution",
+          "display_name": "pressure solution",
+          "score": 0.8339999914169312
         },
         {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.35294151306152344
+          "id": "https://openalex.org/keywords/united-arab-emirates",
+          "display_name": "United Arab Emirates",
+          "score": 0.7620000243186951
         }
       ],
       "concepts": [
@@ -108207,7 +108150,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.23729841,
+        "value": 0.23724598,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -108293,74 +108236,29 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.662293016910553
+          "id": "https://openalex.org/keywords/jurassic",
+          "display_name": "Jurassic",
+          "score": 0.6190000176429749
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6072656512260437
+          "id": "https://openalex.org/keywords/cretaceous",
+          "display_name": "Cretaceous",
+          "score": 1
         },
         {
           "id": "https://openalex.org/keywords/middle-east",
           "display_name": "Middle East",
-          "score": 0.5580494403839111
+          "score": 0.4830000102519989
         },
         {
-          "id": "https://openalex.org/keywords/stratigraphy",
-          "display_name": "Stratigraphy",
-          "score": 0.5422450304031372
+          "id": "https://openalex.org/keywords/carbonate-sedimentology",
+          "display_name": "carbonate sedimentology",
+          "score": 0.5090000033378601
         },
         {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.5142845511436462
-        },
-        {
-          "id": "https://openalex.org/keywords/library-science",
-          "display_name": "Library science",
-          "score": 0.4937938153743744
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.47084400057792664
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-platform",
-          "display_name": "Carbonate platform",
-          "score": 0.449853777885437
-        },
-        {
-          "id": "https://openalex.org/keywords/citation",
-          "display_name": "Citation",
-          "score": 0.4170166552066803
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate",
-          "display_name": "Carbonate",
-          "score": 0.4134068489074707
-        },
-        {
-          "id": "https://openalex.org/keywords/history",
-          "display_name": "History",
-          "score": 0.3441525995731354
-        },
-        {
-          "id": "https://openalex.org/keywords/archaeology",
-          "display_name": "Archaeology",
-          "score": 0.2406505048274994
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.18551364541053772
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.0904899537563324
+          "id": "https://openalex.org/keywords/carbonate-reservoirs",
+          "display_name": "carbonate reservoirs",
+          "score": 0.45500001311302185
         }
       ],
       "concepts": [
@@ -108588,6 +108486,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I139351228",
           "host_organization_name": "Office of Scientific and Technical Information",
           "host_organization_lineage": [
@@ -108618,7 +108517,8 @@
           "author": {
             "id": "https://openalex.org/A5075615652",
             "display_name": "A.E.M. Nairn",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -108633,7 +108533,8 @@
           "author": {
             "id": "https://openalex.org/A5010401681",
             "display_name": "Abdulrahman S. Alsharhan",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -108655,7 +108556,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.17113874,
+        "value": 0.160181,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -108741,64 +108642,94 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8103187680244446
+          "id": "https://openalex.org/keywords/thamama-group",
+          "display_name": "Thamama Group",
+          "score": 0.9990000128746033
         },
         {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.7302496433258057
+          "id": "https://openalex.org/keywords/early-cretaceous",
+          "display_name": "Lower Cretaceous",
+          "score": 0.9480000138282776
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.7282572984695435
+          "id": "https://openalex.org/keywords/paleogeography",
+          "display_name": "paleogeography",
+          "score": 0.968999981880188
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.6907624006271362
+          "id": "https://openalex.org/keywords/depositional-environment",
+          "display_name": "depositional environment",
+          "score": 0.9980000257492065
         },
         {
-          "id": "https://openalex.org/keywords/littoral-zone",
-          "display_name": "Littoral zone",
-          "score": 0.6060595512390137
+          "id": "https://openalex.org/keywords/persian-gulf",
+          "display_name": "Persian Gulf",
+          "score": 0.9139999747276306
         },
         {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.5905836820602417
+          "id": "https://openalex.org/keywords/arabian-platform",
+          "display_name": "Arabian Platform",
+          "score": 0.8479999899864197
         },
         {
-          "id": "https://openalex.org/keywords/group",
-          "display_name": "Group (periodic table)",
-          "score": 0.5390270352363586
+          "id": "https://openalex.org/keywords/carbonate-ramp",
+          "display_name": "carbonate ramp",
+          "score": 0.8040000200271606
         },
         {
-          "id": "https://openalex.org/keywords/clastic-rock",
-          "display_name": "Clastic rock",
-          "score": 0.49300286173820496
+          "id": "https://openalex.org/keywords/clastic-wedge",
+          "display_name": "clastic wedge",
+          "score": 0.6019999980926514
         },
         {
-          "id": "https://openalex.org/keywords/terrigenous-sediment",
-          "display_name": "Terrigenous sediment",
-          "score": 0.4543917775154114
+          "id": "https://openalex.org/keywords/barremian",
+          "display_name": "Barremian",
+          "score": 0.6340000033378601
         },
         {
-          "id": "https://openalex.org/keywords/palaeogeography",
-          "display_name": "Palaeogeography",
-          "score": 0.42725878953933716
+          "id": "https://openalex.org/keywords/berriasian",
+          "display_name": "Berriasian",
+          "score": 0.7360000014305115
         },
         {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.19970539212226868
+          "id": "https://openalex.org/keywords/aptian",
+          "display_name": "Aptian",
+          "score": 0.9919999837875366
         },
         {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.10738331079483032
+          "id": "https://openalex.org/keywords/canadian-shield",
+          "display_name": "Canadian Shield",
+          "score": 0.7789999842643738
+        },
+        {
+          "id": "https://openalex.org/keywords/intracratonic-basin",
+          "display_name": "intracratonic basin",
+          "score": 0.8309999704360962
+        },
+        {
+          "id": "https://openalex.org/keywords/rudists",
+          "display_name": "rudists",
+          "score": 0.9940000176429749
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-reservoirs",
+          "display_name": "hydrocarbon reservoirs",
+          "score": 0.9079999923706055
+        },
+        {
+          "id": "https://openalex.org/keywords/salt-tectonics",
+          "display_name": "salt tectonics",
+          "score": 0.9079999923706055
+        },
+        {
+          "id": "https://openalex.org/keywords/lithological-variation",
+          "display_name": "lithological variation",
+          "score": 0.5109999775886536
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphic-correlation",
+          "display_name": "stratigraphic correlation",
+          "score": 0.765999972820282
         }
       ],
       "concepts": [
@@ -108924,6 +108855,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I139351228",
             "host_organization_name": "Office of Scientific and Technical Information",
             "host_organization_lineage": [

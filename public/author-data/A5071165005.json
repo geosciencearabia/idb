@@ -633,11 +633,11 @@
         "value_usd": 3670
       },
       "apc_paid": null,
-      "fwci": 3.4125,
+      "fwci": 3.4075,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.93618934,
+        "value": 0.93611557,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -726,19 +726,54 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.5545613765716553
+          "id": "https://openalex.org/keywords/geological-co2-storage",
+          "display_name": "CO2 geological storage",
+          "score": 0.9470000267028809
         },
         {
-          "id": "https://openalex.org/keywords/scalable-vector-graphics",
-          "display_name": "Scalable Vector Graphics",
-          "score": 0.43883803486824036
+          "id": "https://openalex.org/keywords/co2-plume-migration",
+          "display_name": "CO2 plume migration",
+          "score": 0.9660000205039978
         },
         {
-          "id": "https://openalex.org/keywords/world-wide-web",
-          "display_name": "World Wide Web",
-          "score": 0.1661686897277832
+          "id": "https://openalex.org/keywords/faulted-reservoirs",
+          "display_name": "faulted reservoirs",
+          "score": 0.9929999709129333
+        },
+        {
+          "id": "https://openalex.org/keywords/graph-neural-networks",
+          "display_name": "graph neural networks",
+          "score": 0.9810000061988831
+        },
+        {
+          "id": "https://openalex.org/keywords/surrogate-modeling",
+          "display_name": "surrogate models",
+          "score": 0.7459999918937683
+        },
+        {
+          "id": "https://openalex.org/keywords/subsurface-flow",
+          "display_name": "subsurface flow",
+          "score": 0.8669999837875366
+        },
+        {
+          "id": "https://openalex.org/keywords/gas-saturation",
+          "display_name": "gas saturation",
+          "score": 0.652999997138977
+        },
+        {
+          "id": "https://openalex.org/keywords/pore-pressure",
+          "display_name": "pore pressure",
+          "score": 0.9929999709129333
+        },
+        {
+          "id": "https://openalex.org/keywords/unstructured-meshes",
+          "display_name": "unstructured grid",
+          "score": 0.902999997138977
+        },
+        {
+          "id": "https://openalex.org/keywords/permeability-heterogeneity",
+          "display_name": "permeability heterogeneity",
+          "score": 0.8759999871253967
         }
       ],
       "concepts": [
@@ -810,9 +845,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/10",
+          "score": 0.5600000023841858,
           "display_name": "Reduced inequalities",
-          "score": 0.5600000023841858
+          "id": "https://metadata.un.org/sdg/10"
         }
       ],
       "x_sdgs": [],
@@ -820,8 +855,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -1569,9 +1604,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7099999785423279,
           "display_name": "Life below water",
-          "score": 0.7099999785423279
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -1579,8 +1614,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -2588,11 +2623,11 @@
         "currency": "USD",
         "value_usd": 3640
       },
-      "fwci": 1.5515,
+      "fwci": 1.5399,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.82753026,
+        "value": 0.82607611,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2681,44 +2716,64 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/discriminator",
-          "display_name": "Discriminator",
-          "score": 0.8116000294685364
+          "id": "https://openalex.org/keywords/conditional-gan",
+          "display_name": "conditional generative adversarial networks",
+          "score": 0.9129999876022339
         },
         {
-          "id": "https://openalex.org/keywords/variogram",
-          "display_name": "Variogram",
-          "score": 0.5570999979972839
+          "id": "https://openalex.org/keywords/pix2pix",
+          "display_name": "Pix2Pix",
+          "score": 0.949999988079071
         },
         {
-          "id": "https://openalex.org/keywords/intersection",
-          "display_name": "Intersection (aeronautics)",
-          "score": 0.5382000207901001
+          "id": "https://openalex.org/keywords/groningen-gas-field",
+          "display_name": "Groningen gas field",
+          "score": 0.9980000257492065
         },
         {
-          "id": "https://openalex.org/keywords/generator",
-          "display_name": "Generator (circuit theory)",
-          "score": 0.490200012922287
+          "id": "https://openalex.org/keywords/facies-prediction",
+          "display_name": "facies prediction",
+          "score": 0.8960000276565552
         },
         {
-          "id": "https://openalex.org/keywords/geostatistics",
-          "display_name": "Geostatistics",
-          "score": 0.40939998626708984
+          "id": "https://openalex.org/keywords/porosity-prediction",
+          "display_name": "porosity estimation",
+          "score": 0.7960000038146973
         },
         {
-          "id": "https://openalex.org/keywords/pairwise-comparison",
-          "display_name": "Pairwise comparison",
-          "score": 0.38440001010894775
+          "id": "https://openalex.org/keywords/permeability-prediction",
+          "display_name": "permeability prediction",
+          "score": 0.9959999918937683
         },
         {
-          "id": "https://openalex.org/keywords/property",
-          "display_name": "Property (philosophy)",
-          "score": 0.3808000087738037
+          "id": "https://openalex.org/keywords/water-saturation-estimation",
+          "display_name": "water saturation estimation",
+          "score": 0.953000009059906
         },
         {
-          "id": "https://openalex.org/keywords/generative-grammar",
-          "display_name": "Generative grammar",
-          "score": 0.3596000075340271
+          "id": "https://openalex.org/keywords/reservoir-characterization",
+          "display_name": "reservoir characterization",
+          "score": 0.5070000290870667
+        },
+        {
+          "id": "https://openalex.org/keywords/missing-data-imputation",
+          "display_name": "missing data imputation",
+          "score": 0.5809999704360962
+        },
+        {
+          "id": "https://openalex.org/keywords/variogram-analysis",
+          "display_name": "variogram analysis",
+          "score": 0.4869999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/u-net-generator",
+          "display_name": "U-Net generator",
+          "score": 0.7459999918937683
+        },
+        {
+          "id": "https://openalex.org/keywords/patchgan-discriminator",
+          "display_name": "PatchGAN discriminator",
+          "score": 0.9940000176429749
         }
       ],
       "concepts": [
@@ -2988,8 +3043,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -3898,7 +3953,10 @@
           "author": {
             "id": "https://openalex.org/A5071165005",
             "display_name": "Rayan Kanfar",
-            "orcid": "https://orcid.org/0000-0003-4321-5573"
+            "orcid": "https://orcid.org/0000-0003-4321-5573",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4321-5573"
+            ]
           },
           "institutions": [
             {
@@ -3942,7 +4000,10 @@
           "author": {
             "id": "https://openalex.org/A5013088513",
             "display_name": "Tapan Mukerji",
-            "orcid": "https://orcid.org/0000-0003-1711-1850"
+            "orcid": "https://orcid.org/0000-0003-1711-1850",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1711-1850"
+            ]
           },
           "institutions": [
             {
@@ -3998,11 +4059,11 @@
         "value_usd": 2780
       },
       "apc_paid": null,
-      "fwci": 1.2234,
+      "fwci": 1.2043,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.74859865,
+        "value": 0.74652436,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4091,84 +4152,29 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/karst",
-          "display_name": "Karst",
-          "score": 0.8406196236610413
+          "id": "https://openalex.org/keywords/karst-morphology",
+          "display_name": "karst morphology",
+          "score": 0.9629999995231628
         },
         {
-          "id": "https://openalex.org/keywords/graph",
-          "display_name": "Graph",
-          "score": 0.5768588185310364
+          "id": "https://openalex.org/keywords/discrete-fracture-network",
+          "display_name": "discrete fracture network",
+          "score": 0.8640000224113464
         },
         {
-          "id": "https://openalex.org/keywords/cave",
-          "display_name": "Cave",
-          "score": 0.524128258228302
+          "id": "https://openalex.org/keywords/cave-evolution",
+          "display_name": "cave evolution",
+          "score": 0.699999988079071
         },
         {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.4820014536380768
+          "id": "https://openalex.org/keywords/mapper-algorithm",
+          "display_name": "Mapper algorithm",
+          "score": 0.7239999771118164
         },
         {
-          "id": "https://openalex.org/keywords/clustering-coefficient",
-          "display_name": "Clustering coefficient",
-          "score": 0.44181177020072937
-        },
-        {
-          "id": "https://openalex.org/keywords/algorithm",
-          "display_name": "Algorithm",
-          "score": 0.4225255846977234
-        },
-        {
-          "id": "https://openalex.org/keywords/topology",
-          "display_name": "Topology (electrical circuits)",
-          "score": 0.38363680243492126
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.33801549673080444
-        },
-        {
-          "id": "https://openalex.org/keywords/mathematical-optimization",
-          "display_name": "Mathematical optimization",
-          "score": 0.3364609181880951
-        },
-        {
-          "id": "https://openalex.org/keywords/theoretical-computer-science",
-          "display_name": "Theoretical computer science",
-          "score": 0.3299643397331238
-        },
-        {
-          "id": "https://openalex.org/keywords/biological-system",
-          "display_name": "Biological system",
-          "score": 0.3229357898235321
-        },
-        {
-          "id": "https://openalex.org/keywords/cluster-analysis",
-          "display_name": "Cluster analysis",
-          "score": 0.3120988607406616
-        },
-        {
-          "id": "https://openalex.org/keywords/mathematics",
-          "display_name": "Mathematics",
-          "score": 0.276671439409256
-        },
-        {
-          "id": "https://openalex.org/keywords/artificial-intelligence",
-          "display_name": "Artificial intelligence",
-          "score": 0.13155999779701233
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.11973944306373596
-        },
-        {
-          "id": "https://openalex.org/keywords/combinatorics",
-          "display_name": "Combinatorics",
-          "score": 0.11617186665534973
+          "id": "https://openalex.org/keywords/density-based-spatial-clustering",
+          "display_name": "density-based spatial clustering",
+          "score": 0.9490000009536743
         }
       ],
       "concepts": [
@@ -4354,9 +4360,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/8",
+          "score": 0.4399999976158142,
           "display_name": "Decent work and economic growth",
-          "score": 0.4399999976158142
+          "id": "https://metadata.un.org/sdg/8"
         }
       ],
       "x_sdgs": [],
@@ -4370,8 +4376,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -4747,11 +4753,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8419,
+      "fwci": 0.8356,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.65206586,
+        "value": 0.65057416,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4840,39 +4846,49 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/generative-grammar",
-          "display_name": "Generative grammar",
-          "score": 0.699474573135376
+          "id": "https://openalex.org/keywords/large-language-models",
+          "display_name": "large language models",
+          "score": 0.9760000109672546
         },
         {
-          "id": "https://openalex.org/keywords/workflow",
-          "display_name": "Workflow",
-          "score": 0.6618822813034058
+          "id": "https://openalex.org/keywords/autonomous-agents",
+          "display_name": "autonomous agents",
+          "score": 0.6669999957084656
         },
         {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.6181352138519287
+          "id": "https://openalex.org/keywords/seismic-data-processing",
+          "display_name": "seismic data processing",
+          "score": 0.9779999852180481
         },
         {
-          "id": "https://openalex.org/keywords/power",
-          "display_name": "Power (physics)",
-          "score": 0.41040849685668945
+          "id": "https://openalex.org/keywords/generative-ai",
+          "display_name": "generative AI",
+          "score": 0.746999979019165
         },
         {
-          "id": "https://openalex.org/keywords/natural-language-processing",
-          "display_name": "Natural language processing",
-          "score": 0.4060376286506653
+          "id": "https://openalex.org/keywords/workflow-automation",
+          "display_name": "workflow automation",
+          "score": 0.6380000114440918
         },
         {
-          "id": "https://openalex.org/keywords/artificial-intelligence",
-          "display_name": "Artificial intelligence",
-          "score": 0.3854062855243683
+          "id": "https://openalex.org/keywords/bandpass-filtering",
+          "display_name": "bandpass filtering",
+          "score": 0.8980000019073486
         },
         {
-          "id": "https://openalex.org/keywords/database",
-          "display_name": "Database",
-          "score": 0.10456249117851257
+          "id": "https://openalex.org/keywords/frequency-spectrum-analysis",
+          "display_name": "frequency spectrum analysis",
+          "score": 0.984000027179718
+        },
+        {
+          "id": "https://openalex.org/keywords/guardrails",
+          "display_name": "guardrails",
+          "score": 0.7419999837875366
+        },
+        {
+          "id": "https://openalex.org/keywords/data-security",
+          "display_name": "data security",
+          "score": 0.5910000205039978
         }
       ],
       "concepts": [
@@ -4989,8 +5005,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -5733,64 +5749,59 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.6544598340988159
+          "id": "https://openalex.org/keywords/geological-co2-storage",
+          "display_name": "CO2 geological storage",
+          "score": 0.9459999799728394
         },
         {
-          "id": "https://openalex.org/keywords/polygon-mesh",
-          "display_name": "Polygon mesh",
-          "score": 0.5984286069869995
+          "id": "https://openalex.org/keywords/co2-plume-migration",
+          "display_name": "CO2 plume migration",
+          "score": 0.9559999704360962
         },
         {
-          "id": "https://openalex.org/keywords/deep-learning",
-          "display_name": "Deep learning",
-          "score": 0.5632665157318115
+          "id": "https://openalex.org/keywords/faulted-reservoirs",
+          "display_name": "faulted reservoirs",
+          "score": 0.9929999709129333
         },
         {
-          "id": "https://openalex.org/keywords/convolutional-neural-network",
-          "display_name": "Convolutional neural network",
-          "score": 0.5463488698005676
+          "id": "https://openalex.org/keywords/graph-neural-networks",
+          "display_name": "graph neural networks",
+          "score": 0.9700000286102295
         },
         {
-          "id": "https://openalex.org/keywords/artificial-neural-network",
-          "display_name": "Artificial neural network",
-          "score": 0.5375425815582275
+          "id": "https://openalex.org/keywords/surrogate-modeling",
+          "display_name": "surrogate models",
+          "score": 0.7200000286102295
         },
         {
-          "id": "https://openalex.org/keywords/algorithm",
-          "display_name": "Algorithm",
-          "score": 0.4783205986022949
+          "id": "https://openalex.org/keywords/subsurface-flow",
+          "display_name": "subsurface flow",
+          "score": 0.8870000243186951
         },
         {
-          "id": "https://openalex.org/keywords/graph",
-          "display_name": "Graph",
-          "score": 0.4654330313205719
+          "id": "https://openalex.org/keywords/gas-saturation",
+          "display_name": "gas saturation",
+          "score": 0.6600000262260437
         },
         {
-          "id": "https://openalex.org/keywords/reservoir-simulation",
-          "display_name": "Reservoir simulation",
-          "score": 0.4611857533454895
+          "id": "https://openalex.org/keywords/pore-pressure",
+          "display_name": "pore pressure",
+          "score": 0.9909999966621399
         },
         {
-          "id": "https://openalex.org/keywords/artificial-intelligence",
-          "display_name": "Artificial intelligence",
-          "score": 0.4087844491004944
+          "id": "https://openalex.org/keywords/unstructured-meshes",
+          "display_name": "unstructured grid",
+          "score": 0.8939999938011169
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.2543542981147766
+          "id": "https://openalex.org/keywords/permeability-heterogeneity",
+          "display_name": "permeability heterogeneity",
+          "score": 0.8989999890327454
         },
         {
-          "id": "https://openalex.org/keywords/theoretical-computer-science",
-          "display_name": "Theoretical computer science",
-          "score": 0.23938912153244019
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-engineering",
-          "display_name": "Petroleum engineering",
-          "score": 0.14233684539794922
+          "id": "https://openalex.org/keywords/generalizability",
+          "display_name": "generalizability",
+          "score": 0.47200000286102295
         }
       ],
       "concepts": [
@@ -5988,9 +5999,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/10",
+          "score": 0.4300000071525574,
           "display_name": "Reduced inequalities",
-          "score": 0.4300000071525574
+          "id": "https://metadata.un.org/sdg/10"
         }
       ],
       "x_sdgs": [],
@@ -5998,8 +6009,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6736,69 +6747,44 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/generative-grammar",
-          "display_name": "Generative grammar",
-          "score": 0.6580716371536255
+          "id": "https://openalex.org/keywords/cave-morphology",
+          "display_name": "cave morphology",
+          "score": 0.7080000042915344
         },
         {
-          "id": "https://openalex.org/keywords/cave",
-          "display_name": "Cave",
-          "score": 0.6527528166770935
+          "id": "https://openalex.org/keywords/spatial-uncertainty",
+          "display_name": "spatial uncertainty",
+          "score": 0.3409999907016754
         },
         {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.5864328742027283
+          "id": "https://openalex.org/keywords/spatial-point-pattern-analysis",
+          "display_name": "point pattern analysis",
+          "score": 0.6600000262260437
         },
         {
-          "id": "https://openalex.org/keywords/point",
-          "display_name": "Point (geometry)",
-          "score": 0.5693967342376709
+          "id": "https://openalex.org/keywords/generative-adversarial-networks",
+          "display_name": "generative adversarial networks",
+          "score": 0.9829999804496765
         },
         {
-          "id": "https://openalex.org/keywords/statistical-analysis",
-          "display_name": "Statistical analysis",
-          "score": 0.45295393466949463
+          "id": "https://openalex.org/keywords/geomodeling",
+          "display_name": "geographic modeling",
+          "score": 0.6980000138282776
         },
         {
-          "id": "https://openalex.org/keywords/statistical-model",
-          "display_name": "Statistical model",
-          "score": 0.4324409067630768
+          "id": "https://openalex.org/keywords/well-placement",
+          "display_name": "well placement",
+          "score": 0.7269999980926514
         },
         {
-          "id": "https://openalex.org/keywords/adversarial-system",
-          "display_name": "Adversarial system",
-          "score": 0.4289611577987671
+          "id": "https://openalex.org/keywords/spatial-statistics",
+          "display_name": "spatial statistics",
+          "score": 0.48500001430511475
         },
         {
-          "id": "https://openalex.org/keywords/artificial-intelligence",
-          "display_name": "Artificial intelligence",
-          "score": 0.3683755397796631
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.24109655618667603
-        },
-        {
-          "id": "https://openalex.org/keywords/mathematics",
-          "display_name": "Mathematics",
-          "score": 0.20703694224357605
-        },
-        {
-          "id": "https://openalex.org/keywords/statistics",
-          "display_name": "Statistics",
-          "score": 0.19283217191696167
-        },
-        {
-          "id": "https://openalex.org/keywords/geometry",
-          "display_name": "Geometry",
-          "score": 0.12552306056022644
-        },
-        {
-          "id": "https://openalex.org/keywords/archaeology",
-          "display_name": "Archaeology",
-          "score": 0.11286497116088867
+          "id": "https://openalex.org/keywords/karst-caves",
+          "display_name": "karst caves",
+          "score": 0.46700000762939453
         }
       ],
       "concepts": [
@@ -6919,8 +6905,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -7399,7 +7385,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03506935,
+        "value": 0.03489488,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7485,34 +7471,44 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.747212290763855
+          "id": "https://openalex.org/keywords/well-placement-optimization",
+          "display_name": "well placement optimization",
+          "score": 0.8640000224113464
         },
         {
-          "id": "https://openalex.org/keywords/cave",
-          "display_name": "Cave",
-          "score": 0.6511847972869873
+          "id": "https://openalex.org/keywords/partially-observable-markov-decision-processes",
+          "display_name": "partially observable Markov decision processes",
+          "score": 0.8650000095367432
         },
         {
-          "id": "https://openalex.org/keywords/mathematical-optimization",
-          "display_name": "Mathematical optimization",
-          "score": 0.34591659903526306
+          "id": "https://openalex.org/keywords/generative-adversarial-networks",
+          "display_name": "generative adversarial networks",
+          "score": 0.9900000095367432
         },
         {
-          "id": "https://openalex.org/keywords/archaeology",
-          "display_name": "Archaeology",
-          "score": 0.07815656065940857
+          "id": "https://openalex.org/keywords/sequential-decision-making",
+          "display_name": "sequential decision making",
+          "score": 0.8500000238418579
         },
         {
-          "id": "https://openalex.org/keywords/mathematics",
-          "display_name": "Mathematics",
-          "score": 0.07688289880752563
+          "id": "https://openalex.org/keywords/lidar-survey",
+          "display_name": "LiDAR survey",
+          "score": 0.6880000233650208
         },
         {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.05849558115005493
+          "id": "https://openalex.org/keywords/subsurface-investigation",
+          "display_name": "subsurface investigation",
+          "score": 0.5730000138282776
+        },
+        {
+          "id": "https://openalex.org/keywords/drilling-hazards",
+          "display_name": "drilling hazards",
+          "score": 0.36399999260902405
+        },
+        {
+          "id": "https://openalex.org/keywords/san-salvador-island",
+          "display_name": "San Salvador Island",
+          "score": 0.824999988079071
         }
       ],
       "concepts": [
@@ -7598,8 +7594,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,

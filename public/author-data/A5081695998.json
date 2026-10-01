@@ -1196,8 +1196,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6899999976158142,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -1216,8 +1216,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -2250,8 +2250,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.75,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -2270,8 +2270,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4698,8 +4698,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6600000262260437,
-          "display_name": "Peace, Justice and strong institutions",
-          "id": "https://metadata.un.org/sdg/16"
+          "id": "https://metadata.un.org/sdg/16",
+          "display_name": "Peace, Justice and strong institutions"
         }
       ],
       "x_sdgs": [],
@@ -4750,8 +4750,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -5568,8 +5568,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -5577,8 +5577,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -6569,8 +6569,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8100000023841858,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -6578,8 +6578,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 107,
@@ -7751,8 +7751,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8999999761581421,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -7766,8 +7766,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -8590,8 +8590,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7699999809265137,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -8599,8 +8599,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -9862,8 +9862,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8999999761581421,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -9885,8 +9885,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 100,
@@ -10670,7 +10670,10 @@
           "author": {
             "id": "https://openalex.org/A5081695998",
             "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528"
+            "orcid": "https://orcid.org/0000-0001-8467-4528",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8467-4528"
+            ]
           },
           "institutions": [
             {
@@ -10718,16 +10721,16 @@
         "value_usd": 2600
       },
       "apc_paid": null,
-      "fwci": 1.7953,
+      "fwci": 1.7762,
       "has_fulltext": false,
       "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.82762334,
+        "value": 0.82554201,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -10811,89 +10814,49 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/goethite",
-          "display_name": "Goethite",
-          "score": 0.8408262729644775
+          "id": "https://openalex.org/keywords/nickel-laterite",
+          "display_name": "nickel laterite",
+          "score": 0.7879999876022339
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.779075026512146
-        },
-        {
-          "id": "https://openalex.org/keywords/magnetite",
-          "display_name": "Magnetite",
-          "score": 0.7666211128234863
+          "id": "https://openalex.org/keywords/mineral-liberation-analysis",
+          "display_name": "mineral liberation analysis",
+          "score": 0.9179999828338623
         },
         {
           "id": "https://openalex.org/keywords/chlorite",
-          "display_name": "Chlorite",
-          "score": 0.7607242465019226
+          "display_name": "chlorite",
+          "score": 0.7889999747276306
         },
         {
-          "id": "https://openalex.org/keywords/mineral",
-          "display_name": "Mineral",
-          "score": 0.7217018008232117
-        },
-        {
-          "id": "https://openalex.org/keywords/laterite",
-          "display_name": "Laterite",
-          "score": 0.707891047000885
+          "id": "https://openalex.org/keywords/goethite",
+          "display_name": "goethite",
+          "score": 1
         },
         {
           "id": "https://openalex.org/keywords/chromite",
-          "display_name": "Chromite",
-          "score": 0.7023934721946716
+          "display_name": "chromite",
+          "score": 0.9169999957084656
         },
         {
-          "id": "https://openalex.org/keywords/weathering",
-          "display_name": "Weathering",
-          "score": 0.6616716384887695
+          "id": "https://openalex.org/keywords/magnetite",
+          "display_name": "magnetite",
+          "score": 0.9990000128746033
         },
         {
-          "id": "https://openalex.org/keywords/mineralogy",
-          "display_name": "Mineralogy",
-          "score": 0.6217687726020813
+          "id": "https://openalex.org/keywords/chemical-weathering",
+          "display_name": "chemical weathering",
+          "score": 0.8389999866485596
         },
         {
-          "id": "https://openalex.org/keywords/lepidocrocite",
-          "display_name": "Lepidocrocite",
-          "score": 0.5210399031639099
+          "id": "https://openalex.org/keywords/nickel-exploration",
+          "display_name": "nickel exploration",
+          "score": 0.7089999914169312
         },
         {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.5116065144538879
-        },
-        {
-          "id": "https://openalex.org/keywords/electron-microprobe",
-          "display_name": "Electron microprobe",
-          "score": 0.49079498648643494
-        },
-        {
-          "id": "https://openalex.org/keywords/nickel",
-          "display_name": "Nickel",
-          "score": 0.19962260127067566
-        },
-        {
-          "id": "https://openalex.org/keywords/metallurgy",
-          "display_name": "Metallurgy",
-          "score": 0.1613011360168457
-        },
-        {
-          "id": "https://openalex.org/keywords/materials-science",
-          "display_name": "Materials science",
-          "score": 0.13785865902900696
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.11433181166648865
-        },
-        {
-          "id": "https://openalex.org/keywords/quartz",
-          "display_name": "Quartz",
-          "score": 0.11212149262428284
+          "id": "https://openalex.org/keywords/mineral-processing",
+          "display_name": "mineral processing",
+          "score": 0.40299999713897705
         }
       ],
       "concepts": [
@@ -11103,8 +11066,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -11848,8 +11811,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8399999737739563,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -11863,8 +11826,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -12082,7 +12045,10 @@
           "author": {
             "id": "https://openalex.org/A5062108247",
             "display_name": "Sobhi Jaber Nasir",
-            "orcid": "https://orcid.org/0000-0002-4906-510X"
+            "orcid": "https://orcid.org/0000-0002-4906-510X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4906-510X"
+            ]
           },
           "institutions": [
             {
@@ -12126,7 +12092,10 @@
           "author": {
             "id": "https://openalex.org/A5081695998",
             "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528"
+            "orcid": "https://orcid.org/0000-0001-8467-4528",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8467-4528"
+            ]
           },
           "institutions": [
             {
@@ -12170,7 +12139,10 @@
           "author": {
             "id": "https://openalex.org/A5083269164",
             "display_name": "Hugh R. Rollinson",
-            "orcid": "https://orcid.org/0000-0002-6553-8472"
+            "orcid": "https://orcid.org/0000-0002-6553-8472",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6553-8472"
+            ]
           },
           "institutions": [
             {
@@ -12214,7 +12186,8 @@
           "author": {
             "id": "https://openalex.org/A5112847090",
             "display_name": "A. Al-Harthy",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -12258,7 +12231,10 @@
           "author": {
             "id": "https://openalex.org/A5086333789",
             "display_name": "Abdulrazak Al‐Sayigh",
-            "orcid": "https://orcid.org/0000-0002-2188-2327"
+            "orcid": "https://orcid.org/0000-0002-2188-2327",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2188-2327"
+            ]
           },
           "institutions": [
             {
@@ -12302,7 +12278,8 @@
           "author": {
             "id": "https://openalex.org/A5040070578",
             "display_name": "Ali I. Al-Lazki",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -12346,7 +12323,8 @@
           "author": {
             "id": "https://openalex.org/A5005228490",
             "display_name": "Thomas Theye",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -12390,7 +12368,8 @@
           "author": {
             "id": "https://openalex.org/A5108916830",
             "display_name": "H.-J. Massonne",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -12434,7 +12413,10 @@
           "author": {
             "id": "https://openalex.org/A5056695911",
             "display_name": "Elena A. Belousova",
-            "orcid": "https://orcid.org/0000-0003-2315-3520"
+            "orcid": "https://orcid.org/0000-0003-2315-3520",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2315-3520"
+            ]
           },
           "institutions": [
             {
@@ -12489,11 +12471,11 @@
         "value_usd": 3990
       },
       "apc_paid": null,
-      "fwci": 1.7559,
+      "fwci": 1.6143,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.82587721,
+        "value": 0.81017185,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12582,119 +12564,59 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/carbonatite",
-          "display_name": "Carbonatite",
-          "score": 0.9838230609893799
+          "id": "https://openalex.org/keywords/carbonatites",
+          "display_name": "carbonatites",
+          "score": 0.8830000162124634
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8843499422073364
+          "id": "https://openalex.org/keywords/ultramafic-lamprophyre",
+          "display_name": "ultramafic lamprophyre",
+          "score": 0.9409999847412109
         },
         {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.7868835926055908
+          "id": "https://openalex.org/keywords/diatremes",
+          "display_name": "diatremes",
+          "score": 0.7929999828338623
         },
         {
-          "id": "https://openalex.org/keywords/diatreme",
-          "display_name": "Diatreme",
-          "score": 0.76941978931427
+          "id": "https://openalex.org/keywords/aillikite",
+          "display_name": "aillikite",
+          "score": 0.8550000190734863
         },
         {
-          "id": "https://openalex.org/keywords/xenolith",
-          "display_name": "Xenolith",
-          "score": 0.7464414238929749
+          "id": "https://openalex.org/keywords/petrogenesis",
+          "display_name": "petrogenesis",
+          "score": 0.7580000162124634
         },
         {
-          "id": "https://openalex.org/keywords/ultramafic-rock",
-          "display_name": "Ultramafic rock",
-          "score": 0.7241644859313965
+          "id": "https://openalex.org/keywords/parental-magma",
+          "display_name": "parental magma",
+          "score": 0.4650000035762787
         },
         {
-          "id": "https://openalex.org/keywords/breccia",
-          "display_name": "Breccia",
-          "score": 0.6310351490974426
+          "id": "https://openalex.org/keywords/magma-mixing",
+          "display_name": "magma mixing",
+          "score": 0.43299999833106995
         },
         {
-          "id": "https://openalex.org/keywords/phlogopite",
-          "display_name": "Phlogopite",
-          "score": 0.6084122657775879
+          "id": "https://openalex.org/keywords/magmatic-differentiation",
+          "display_name": "magma differentiation",
+          "score": 0.32899999618530273
         },
         {
-          "id": "https://openalex.org/keywords/kimberlite",
-          "display_name": "Kimberlite",
-          "score": 0.5473305583000183
+          "id": "https://openalex.org/keywords/sr-nd-pb-isotopes",
+          "display_name": "Sr-Nd-Pb isotopes",
+          "score": 0.8339999914169312
         },
         {
-          "id": "https://openalex.org/keywords/lapilli",
-          "display_name": "Lapilli",
-          "score": 0.5454609394073486
+          "id": "https://openalex.org/keywords/trace-element-geochemistry",
+          "display_name": "trace element geochemistry",
+          "score": 0.6620000004768372
         },
         {
-          "id": "https://openalex.org/keywords/augite",
-          "display_name": "Augite",
-          "score": 0.541590690612793
-        },
-        {
-          "id": "https://openalex.org/keywords/olivine",
-          "display_name": "Olivine",
-          "score": 0.4880441725254059
-        },
-        {
-          "id": "https://openalex.org/keywords/baddeleyite",
-          "display_name": "Baddeleyite",
-          "score": 0.4779013395309448
-        },
-        {
-          "id": "https://openalex.org/keywords/melilite",
-          "display_name": "Melilite",
-          "score": 0.418239027261734
-        },
-        {
-          "id": "https://openalex.org/keywords/metasomatism",
-          "display_name": "Metasomatism",
-          "score": 0.41420796513557434
-        },
-        {
-          "id": "https://openalex.org/keywords/petrology",
-          "display_name": "Petrology",
-          "score": 0.3562605082988739
-        },
-        {
-          "id": "https://openalex.org/keywords/volcanic-rock",
-          "display_name": "Volcanic rock",
-          "score": 0.19666582345962524
-        },
-        {
-          "id": "https://openalex.org/keywords/zircon",
-          "display_name": "Zircon",
-          "score": 0.19104599952697754
-        },
-        {
-          "id": "https://openalex.org/keywords/volcano",
-          "display_name": "Volcano",
-          "score": 0.15598344802856445
-        },
-        {
-          "id": "https://openalex.org/keywords/basalt",
-          "display_name": "Basalt",
-          "score": 0.14192533493041992
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.13367250561714172
-        },
-        {
-          "id": "https://openalex.org/keywords/plagioclase",
-          "display_name": "Plagioclase",
-          "score": 0.08334958553314209
-        },
-        {
-          "id": "https://openalex.org/keywords/spinel",
-          "display_name": "Spinel",
-          "score": 0.05584195256233215
+          "id": "https://openalex.org/keywords/early-cretaceous",
+          "display_name": "Lower Cretaceous",
+          "score": 0.5619999766349792
         }
       ],
       "concepts": [
@@ -12923,8 +12845,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8600000143051147,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -12932,8 +12854,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -13883,8 +13805,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -14539,8 +14461,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5,
-          "display_name": "Peace, Justice and strong institutions",
-          "id": "https://metadata.un.org/sdg/16"
+          "id": "https://metadata.un.org/sdg/16",
+          "display_name": "Peace, Justice and strong institutions"
         }
       ],
       "x_sdgs": [],
@@ -14591,8 +14513,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -15183,8 +15105,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -15206,8 +15128,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 100,
@@ -15936,8 +15858,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -16546,8 +16468,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -17720,8 +17642,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8500000238418579,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -17729,8 +17651,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -18960,8 +18882,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -20047,8 +19969,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.44999998807907104,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -20062,8 +19984,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -20768,8 +20690,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -21476,8 +21398,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -21485,8 +21407,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -22523,8 +22445,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -22532,8 +22454,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2327941769.pdf",
@@ -23409,7 +23331,10 @@
           "author": {
             "id": "https://openalex.org/A5078036264",
             "display_name": "Mohammed Farfour",
-            "orcid": "https://orcid.org/0000-0001-9023-1782"
+            "orcid": "https://orcid.org/0000-0001-9023-1782",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9023-1782"
+            ]
           },
           "institutions": [
             {
@@ -23446,7 +23371,10 @@
           "author": {
             "id": "https://openalex.org/A5050277999",
             "display_name": "Talal K. Al-Hosni",
-            "orcid": "https://orcid.org/0000-0003-1272-5204"
+            "orcid": "https://orcid.org/0000-0003-1272-5204",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1272-5204"
+            ]
           },
           "institutions": [
             {
@@ -23483,7 +23411,10 @@
           "author": {
             "id": "https://openalex.org/A5081695998",
             "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528"
+            "orcid": "https://orcid.org/0000-0001-8467-4528",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8467-4528"
+            ]
           },
           "institutions": [
             {
@@ -23520,7 +23451,10 @@
           "author": {
             "id": "https://openalex.org/A5044806143",
             "display_name": "Mohamed A. K. El‐Ghali",
-            "orcid": "https://orcid.org/0000-0002-7850-3471"
+            "orcid": "https://orcid.org/0000-0002-7850-3471",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7850-3471"
+            ]
           },
           "institutions": [
             {
@@ -23562,11 +23496,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.7831,
+      "fwci": 2.722,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.82184317,
+        "value": 0.81889952,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23655,89 +23589,39 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8389215469360352
+          "id": "https://openalex.org/keywords/geophysical-modeling",
+          "display_name": "geophysical modeling",
+          "score": 0.9279999732971191
         },
         {
-          "id": "https://openalex.org/keywords/petrophysics",
-          "display_name": "Petrophysics",
-          "score": 0.8212865591049194
+          "id": "https://openalex.org/keywords/resistivity-interpretation",
+          "display_name": "resistivity interpretation",
+          "score": 0.6179999709129333
         },
         {
-          "id": "https://openalex.org/keywords/lithology",
-          "display_name": "Lithology",
-          "score": 0.7678767442703247
+          "id": "https://openalex.org/keywords/cavity-detection",
+          "display_name": "cavity detection",
+          "score": 0.7379999756813049
         },
         {
-          "id": "https://openalex.org/keywords/geophysics",
-          "display_name": "Geophysics",
-          "score": 0.7097793817520142
+          "id": "https://openalex.org/keywords/petrophysical-properties",
+          "display_name": "petrophysical properties",
+          "score": 0.9419999718666077
         },
         {
-          "id": "https://openalex.org/keywords/electrical-resistivity-tomography",
-          "display_name": "Electrical resistivity tomography",
-          "score": 0.5741366744041443
+          "id": "https://openalex.org/keywords/formation-dip",
+          "display_name": "formation dip",
+          "score": 0.722000002861023
         },
         {
-          "id": "https://openalex.org/keywords/marl",
-          "display_name": "Marl",
-          "score": 0.5577993988990784
+          "id": "https://openalex.org/keywords/porosity-and-permeability",
+          "display_name": "porosity and permeability",
+          "score": 0.796999990940094
         },
         {
-          "id": "https://openalex.org/keywords/electrical-resistivity-and-conductivity",
-          "display_name": "Electrical resistivity and conductivity",
-          "score": 0.5231591463088989
-        },
-        {
-          "id": "https://openalex.org/keywords/conglomerate",
-          "display_name": "Conglomerate",
-          "score": 0.5106101632118225
-        },
-        {
-          "id": "https://openalex.org/keywords/permeability",
-          "display_name": "Permeability (electromagnetism)",
-          "score": 0.47521430253982544
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-geology",
-          "display_name": "Environmental geology",
-          "score": 0.4589470624923706
-        },
-        {
-          "id": "https://openalex.org/keywords/mineralogy",
-          "display_name": "Mineralogy",
-          "score": 0.32431209087371826
-        },
-        {
-          "id": "https://openalex.org/keywords/petrology",
-          "display_name": "Petrology",
-          "score": 0.32394546270370483
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.3003997504711151
-        },
-        {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.2638510465621948
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrogeology",
-          "display_name": "Hydrogeology",
-          "score": 0.26034629344940186
-        },
-        {
-          "id": "https://openalex.org/keywords/porosity",
-          "display_name": "Porosity",
-          "score": 0.2181544303894043
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.210414320230484
+          "id": "https://openalex.org/keywords/north-oman",
+          "display_name": "North Oman",
+          "score": 0.5170000195503235
         }
       ],
       "concepts": [
@@ -23925,8 +23809,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8100000023841858,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -23934,8 +23818,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -25160,8 +25044,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7900000214576721,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -25175,8 +25059,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -25304,6 +25188,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": null,
           "host_organization_name": null,
           "host_organization_lineage": [],
@@ -25332,7 +25217,10 @@
           "author": {
             "id": "https://openalex.org/A5081695998",
             "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528"
+            "orcid": "https://orcid.org/0000-0001-8467-4528",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8467-4528"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -25347,7 +25235,8 @@
           "author": {
             "id": "https://openalex.org/A5054422299",
             "display_name": "Khadija Semhi",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -25369,12 +25258,12 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.24811841,
+        "value": 0.24438972,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 94
       },
       "biblio": {
@@ -25458,24 +25347,24 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8547431230545044
+          "id": "https://openalex.org/keywords/rare-earth-elements",
+          "display_name": "rare earth elements",
+          "score": 0.8299999833106995
         },
         {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.8054534196853638
+          "id": "https://openalex.org/keywords/ree-geochemistry",
+          "display_name": "rare earth element geochemistry",
+          "score": 0.8799999952316284
         },
         {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.6674366593360901
+          "id": "https://openalex.org/keywords/ore-genesis",
+          "display_name": "ore genesis",
+          "score": 0.6940000057220459
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.41356295347213745
+          "id": "https://openalex.org/keywords/oman-mountains",
+          "display_name": "Oman Mountains",
+          "score": 0.6650000214576721
         }
       ],
       "concepts": [
@@ -25524,6 +25413,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
@@ -25543,8 +25433,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4099999964237213,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -25552,8 +25442,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25903,8 +25793,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5600000023841858,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -25912,8 +25802,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -26888,8 +26778,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28660,8 +28550,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4300000071525574,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -28669,8 +28559,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29552,8 +29442,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30400,8 +30290,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8700000047683716,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -30409,8 +30299,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4231050176.pdf",
@@ -30918,8 +30808,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -31988,8 +31878,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4699999988079071,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land"
         }
       ],
       "x_sdgs": [],
@@ -31997,8 +31887,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33360,8 +33250,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -33369,8 +33259,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4249711171.pdf",
@@ -33440,7 +33330,10 @@
           "author": {
             "id": "https://openalex.org/A5078036264",
             "display_name": "Mohammed Farfour",
-            "orcid": "https://orcid.org/0000-0001-9023-1782"
+            "orcid": "https://orcid.org/0000-0001-9023-1782",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9023-1782"
+            ]
           },
           "institutions": [
             {
@@ -33477,7 +33370,10 @@
           "author": {
             "id": "https://openalex.org/A5050277999",
             "display_name": "Talal K. Al-Hosni",
-            "orcid": "https://orcid.org/0000-0003-1272-5204"
+            "orcid": "https://orcid.org/0000-0003-1272-5204",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1272-5204"
+            ]
           },
           "institutions": [
             {
@@ -33514,7 +33410,10 @@
           "author": {
             "id": "https://openalex.org/A5081695998",
             "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528"
+            "orcid": "https://orcid.org/0000-0001-8467-4528",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8467-4528"
+            ]
           },
           "institutions": [
             {
@@ -33551,7 +33450,10 @@
           "author": {
             "id": "https://openalex.org/A5044806143",
             "display_name": "Mohamed A. K. El‐Ghali",
-            "orcid": "https://orcid.org/0000-0002-7850-3471"
+            "orcid": "https://orcid.org/0000-0002-7850-3471",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7850-3471"
+            ]
           },
           "institutions": [
             {
@@ -33597,7 +33499,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.0331675,
+        "value": 0.03301435,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33683,14 +33585,39 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6470625996589661
+          "id": "https://openalex.org/keywords/geophysical-modeling",
+          "display_name": "geophysical modeling",
+          "score": 0.9279999732971191
         },
         {
-          "id": "https://openalex.org/keywords/geophysics",
-          "display_name": "Geophysics",
-          "score": 0.6008486151695251
+          "id": "https://openalex.org/keywords/resistivity-interpretation",
+          "display_name": "resistivity interpretation",
+          "score": 0.6179999709129333
+        },
+        {
+          "id": "https://openalex.org/keywords/cavity-detection",
+          "display_name": "cavity detection",
+          "score": 0.7379999756813049
+        },
+        {
+          "id": "https://openalex.org/keywords/petrophysical-properties",
+          "display_name": "petrophysical properties",
+          "score": 0.9419999718666077
+        },
+        {
+          "id": "https://openalex.org/keywords/formation-dip",
+          "display_name": "formation dip",
+          "score": 0.722000002861023
+        },
+        {
+          "id": "https://openalex.org/keywords/porosity-and-permeability",
+          "display_name": "porosity and permeability",
+          "score": 0.796999990940094
+        },
+        {
+          "id": "https://openalex.org/keywords/north-oman",
+          "display_name": "North Oman",
+          "score": 0.5170000195503235
         }
       ],
       "concepts": [
@@ -33731,8 +33658,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8100000023841858,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -33740,8 +33667,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -34650,8 +34577,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35124,8 +35051,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35522,8 +35449,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36496,8 +36423,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36958,8 +36885,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37439,8 +37366,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37916,8 +37843,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38388,8 +38315,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38482,7 +38409,10 @@
           "author": {
             "id": "https://openalex.org/A5024022389",
             "display_name": "Morgan Lee Blades",
-            "orcid": "https://orcid.org/0000-0002-4653-4476"
+            "orcid": "https://orcid.org/0000-0002-4653-4476",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4653-4476"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -38497,7 +38427,10 @@
           "author": {
             "id": "https://openalex.org/A5011450580",
             "display_name": "Brandon L. Alessio",
-            "orcid": "https://orcid.org/0000-0001-7288-8713"
+            "orcid": "https://orcid.org/0000-0001-7288-8713",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7288-8713"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -38512,7 +38445,10 @@
           "author": {
             "id": "https://openalex.org/A5046466285",
             "display_name": "Alan Stephen Collins",
-            "orcid": "https://orcid.org/0000-0002-3408-5474"
+            "orcid": "https://orcid.org/0000-0002-3408-5474",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3408-5474"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -38527,7 +38463,10 @@
           "author": {
             "id": "https://openalex.org/A5004188350",
             "display_name": "John Foden",
-            "orcid": "https://orcid.org/0000-0003-3564-7253"
+            "orcid": "https://orcid.org/0000-0003-3564-7253",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3564-7253"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -38542,7 +38481,10 @@
           "author": {
             "id": "https://openalex.org/A5003363361",
             "display_name": "Justin L. Payne",
-            "orcid": "https://orcid.org/0000-0002-3953-7783"
+            "orcid": "https://orcid.org/0000-0002-3953-7783",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3953-7783"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -38557,7 +38499,10 @@
           "author": {
             "id": "https://openalex.org/A5057911678",
             "display_name": "Stijn Glorie",
-            "orcid": "https://orcid.org/0000-0002-3107-9028"
+            "orcid": "https://orcid.org/0000-0002-3107-9028",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3107-9028"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -38572,7 +38517,8 @@
           "author": {
             "id": "https://openalex.org/A5030177136",
             "display_name": "Peter N. Holden",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -38587,7 +38533,8 @@
           "author": {
             "id": "https://openalex.org/A5077183618",
             "display_name": "B. Thorpe",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -38602,7 +38549,10 @@
           "author": {
             "id": "https://openalex.org/A5081695998",
             "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528"
+            "orcid": "https://orcid.org/0000-0001-8467-4528",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8467-4528"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -38706,49 +38656,24 @@
       ],
       "keywords": [
         {
+          "id": "https://openalex.org/keywords/neoproterozoic-accretion",
+          "display_name": "Neoproterozoic accretion",
+          "score": 0.9369999766349792
+        },
+        {
           "id": "https://openalex.org/keywords/zircon",
-          "display_name": "Zircon",
-          "score": 0.9532597064971924
+          "display_name": "zircon",
+          "score": 0.8140000104904175
         },
         {
-          "id": "https://openalex.org/keywords/table",
-          "display_name": "Table (database)",
-          "score": 0.7513774633407593
+          "id": "https://openalex.org/keywords/hafnium-isotopes",
+          "display_name": "Hf isotopes",
+          "score": 0.8889999985694885
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.7349112033843994
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.5433633327484131
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.4794518053531647
-        },
-        {
-          "id": "https://openalex.org/keywords/archaeology",
-          "display_name": "Archaeology",
-          "score": 0.32539600133895874
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.12604740262031555
-        },
-        {
-          "id": "https://openalex.org/keywords/database",
-          "display_name": "Database",
-          "score": 0.09318527579307556
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.04970923066139221
+          "id": "https://openalex.org/keywords/crustal-evolution",
+          "display_name": "crustal evolution",
+          "score": 0.35499998927116394
         }
       ],
       "concepts": [
@@ -38886,8 +38811,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39172,7 +39097,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.09043713,
+        "value": 0.09297093,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39258,29 +39183,84 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/ironstone",
-          "display_name": "Ironstone",
-          "score": 0.9825795888900757
+          "id": "https://openalex.org/keywords/ferricrete",
+          "display_name": "ferricrete",
+          "score": 0.9300000071525574
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.9270817637443542
+          "id": "https://openalex.org/keywords/late-cretaceous",
+          "display_name": "Late Cretaceous",
+          "score": 0.921999990940094
         },
         {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.7184300422668457
+          "id": "https://openalex.org/keywords/oman-mountains",
+          "display_name": "Oman Mountains",
+          "score": 0.8059999942779541
         },
         {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.7107706665992737
+          "id": "https://openalex.org/keywords/oman-ophiolite",
+          "display_name": "Oman ophiolite",
+          "score": 0.8790000081062317
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.1729075312614441
+          "id": "https://openalex.org/keywords/mafic-ultramafic-rocks",
+          "display_name": "mafic-ultramafic rocks",
+          "score": 0.8479999899864197
+        },
+        {
+          "id": "https://openalex.org/keywords/hematite",
+          "display_name": "hematite",
+          "score": 0.6480000019073486
+        },
+        {
+          "id": "https://openalex.org/keywords/goethite",
+          "display_name": "goethite",
+          "score": 0.9940000176429749
+        },
+        {
+          "id": "https://openalex.org/keywords/magnetite",
+          "display_name": "magnetite",
+          "score": 0.9819999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/trace-elements",
+          "display_name": "trace elements",
+          "score": 0.5370000004768372
+        },
+        {
+          "id": "https://openalex.org/keywords/chromite",
+          "display_name": "chromite",
+          "score": 0.7300000190734863
+        },
+        {
+          "id": "https://openalex.org/keywords/shallow-marine-environment",
+          "display_name": "shallow marine environment",
+          "score": 0.5799999833106995
+        },
+        {
+          "id": "https://openalex.org/keywords/ce-and-eu-anomalies",
+          "display_name": "Ce and Eu anomalies",
+          "score": 0.6019999980926514
+        },
+        {
+          "id": "https://openalex.org/keywords/scandium",
+          "display_name": "scandium",
+          "score": 0.9330000281333923
+        },
+        {
+          "id": "https://openalex.org/keywords/critical-metals",
+          "display_name": "critical metals",
+          "score": 0.953000009059906
+        },
+        {
+          "id": "https://openalex.org/keywords/lateritic-soil",
+          "display_name": "lateritic soil",
+          "score": 0.4580000042915344
+        },
+        {
+          "id": "https://openalex.org/keywords/paleosols",
+          "display_name": "paleosols",
+          "score": 0.593999981880188
         }
       ],
       "concepts": [
@@ -39367,8 +39347,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -39376,8 +39356,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 125,
@@ -40317,7 +40297,8 @@
           "author": {
             "id": "https://openalex.org/A5091239490",
             "display_name": "Amer M. Al-Sabri",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -40354,7 +40335,10 @@
           "author": {
             "id": "https://openalex.org/A5081695998",
             "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528"
+            "orcid": "https://orcid.org/0000-0001-8467-4528",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8467-4528"
+            ]
           },
           "institutions": [
             {
@@ -40391,7 +40375,10 @@
           "author": {
             "id": "https://openalex.org/A5058473670",
             "display_name": "Nabil Mohammed Al-Areeq",
-            "orcid": "https://orcid.org/0000-0002-9574-0954"
+            "orcid": "https://orcid.org/0000-0002-9574-0954",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9574-0954"
+            ]
           },
           "institutions": [
             {
@@ -40435,7 +40422,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.14810638,
+        "value": 0.14543284,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40521,44 +40508,64 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/zeolite",
-          "display_name": "Zeolite",
-          "score": 0.9143000245094299
+          "id": "https://openalex.org/keywords/natural-zeolite",
+          "display_name": "natural zeolite",
+          "score": 0.8209999799728394
+        },
+        {
+          "id": "https://openalex.org/keywords/zeolite-minerals",
+          "display_name": "zeolite minerals",
+          "score": 0.7459999918937683
         },
         {
           "id": "https://openalex.org/keywords/clinoptilolite",
-          "display_name": "Clinoptilolite",
-          "score": 0.8565000295639038
+          "display_name": "clinoptilolite",
+          "score": 0.8939999938011169
         },
         {
-          "id": "https://openalex.org/keywords/aluminosilicate",
-          "display_name": "Aluminosilicate",
-          "score": 0.7560999989509583
+          "id": "https://openalex.org/keywords/hollandite",
+          "display_name": "hollandite",
+          "score": 0.9929999709129333
+        },
+        {
+          "id": "https://openalex.org/keywords/zeolitization",
+          "display_name": "zeolitization",
+          "score": 0.8960000276565552
+        },
+        {
+          "id": "https://openalex.org/keywords/volcanic-glass-alteration",
+          "display_name": "volcanic glass alteration",
+          "score": 0.9940000176429749
         },
         {
           "id": "https://openalex.org/keywords/petrography",
-          "display_name": "Petrography",
-          "score": 0.6452999711036682
+          "display_name": "petrography",
+          "score": 0.8100000023841858
         },
         {
-          "id": "https://openalex.org/keywords/mineral",
-          "display_name": "Mineral",
-          "score": 0.6370000243186951
+          "id": "https://openalex.org/keywords/geochemical-composition",
+          "display_name": "geochemical composition",
+          "score": 0.8199999928474426
         },
         {
-          "id": "https://openalex.org/keywords/loss-on-ignition",
-          "display_name": "Loss on ignition",
-          "score": 0.5692999958992004
+          "id": "https://openalex.org/keywords/cation-exchange-capacity",
+          "display_name": "cation exchange capacity",
+          "score": 0.878000020980835
         },
         {
-          "id": "https://openalex.org/keywords/clay-minerals",
-          "display_name": "Clay minerals",
-          "score": 0.48559999465942383
+          "id": "https://openalex.org/keywords/hydrated-aluminosilicate",
+          "display_name": "hydrated aluminosilicate",
+          "score": 0.8650000095367432
         },
         {
-          "id": "https://openalex.org/keywords/trace-minerals",
-          "display_name": "Trace Minerals",
-          "score": 0.484499990940094
+          "id": "https://openalex.org/keywords/agricultural-applications",
+          "display_name": "agricultural applications",
+          "score": 0.7200000286102295
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-applications",
+          "display_name": "environmental applications",
+          "score": 0.9139999747276306
         }
       ],
       "concepts": [
@@ -40845,8 +40852,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41813,8 +41820,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.591495931148529,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -41822,8 +41829,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -42254,8 +42261,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4990810453891754,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -42263,8 +42270,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

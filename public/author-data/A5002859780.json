@@ -818,9 +818,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -828,8 +828,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -2152,8 +2152,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -2281,7 +2281,8 @@
           "author": {
             "id": "https://openalex.org/A5087370063",
             "display_name": "R. A. Rahmani",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -2303,7 +2304,10 @@
           "author": {
             "id": "https://openalex.org/A5010680677",
             "display_name": "Ronald J. Steel",
-            "orcid": "https://orcid.org/0000-0002-6846-7788"
+            "orcid": "https://orcid.org/0000-0002-6846-7788",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6846-7788"
+            ]
           },
           "institutions": [
             {
@@ -2340,7 +2344,8 @@
           "author": {
             "id": "https://openalex.org/A5002859780",
             "display_name": "Abdulaziz A. Al-Duaiji",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -2380,11 +2385,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8649,
+      "fwci": 0.8398,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.77142857,
+        "value": 0.76691729,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2473,84 +2478,69 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8594068288803101
-        },
-        {
           "id": "https://openalex.org/keywords/devonian",
           "display_name": "Devonian",
-          "score": 0.8367594480514526
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentology",
-          "display_name": "Sedimentology",
-          "score": 0.6989713311195374
-        },
-        {
-          "id": "https://openalex.org/keywords/carboniferous",
-          "display_name": "Carboniferous",
-          "score": 0.6406345367431641
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.5952609777450562
-        },
-        {
-          "id": "https://openalex.org/keywords/paleozoic",
-          "display_name": "Paleozoic",
-          "score": 0.5650010704994202
-        },
-        {
-          "id": "https://openalex.org/keywords/siliciclastic",
-          "display_name": "Siliciclastic",
-          "score": 0.5562046766281128
-        },
-        {
-          "id": "https://openalex.org/keywords/transgressive",
-          "display_name": "Transgressive",
-          "score": 0.5445788502693176
+          "score": 0.8069999814033508
         },
         {
           "id": "https://openalex.org/keywords/sequence-stratigraphy",
-          "display_name": "Sequence stratigraphy",
-          "score": 0.5377576351165771
+          "display_name": "sequence stratigraphy",
+          "score": 0.921999990940094
         },
         {
-          "id": "https://openalex.org/keywords/orogeny",
-          "display_name": "Orogeny",
-          "score": 0.5143600702285767
+          "id": "https://openalex.org/keywords/sedimentology",
+          "display_name": "sedimentology",
+          "score": 0.7559999823570251
         },
         {
-          "id": "https://openalex.org/keywords/late-devonian-extinction",
-          "display_name": "Late Devonian extinction",
-          "score": 0.45069509744644165
+          "id": "https://openalex.org/keywords/gas-reservoirs",
+          "display_name": "gas reservoirs",
+          "score": 0.796999990940094
         },
         {
-          "id": "https://openalex.org/keywords/stylolite",
-          "display_name": "Stylolite",
-          "score": 0.41446900367736816
+          "id": "https://openalex.org/keywords/tidal-estuary",
+          "display_name": "tidal estuary",
+          "score": 0.7089999914169312
         },
         {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.3734584450721741
+          "id": "https://openalex.org/keywords/shoreface-deposits",
+          "display_name": "shoreface deposits",
+          "score": 0.6769999861717224
         },
         {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.3626583516597748
+          "id": "https://openalex.org/keywords/transgressive-deposits",
+          "display_name": "transgressive deposits",
+          "score": 0.5389999747276306
         },
         {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.15552976727485657
+          "id": "https://openalex.org/keywords/disconformity",
+          "display_name": "disconformity",
+          "score": 0.6940000057220459
         },
         {
-          "id": "https://openalex.org/keywords/diagenesis",
-          "display_name": "Diagenesis",
-          "score": 0.14522364735603333
+          "id": "https://openalex.org/keywords/depositional-systems",
+          "display_name": "depositional systems",
+          "score": 0.6349999904632568
+        },
+        {
+          "id": "https://openalex.org/keywords/eastern-province",
+          "display_name": "Eastern Province",
+          "score": 0.3869999945163727
+        },
+        {
+          "id": "https://openalex.org/keywords/saudi-arabia",
+          "display_name": "Saudi Arabia",
+          "score": 0.7260000109672546
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphic-nomenclature",
+          "display_name": "stratigraphic nomenclature",
+          "score": 0.796999990940094
+        },
+        {
+          "id": "https://openalex.org/keywords/biostratigraphic-zonation",
+          "display_name": "biozonation",
+          "score": 0.5770000219345093
         }
       ],
       "concepts": [
@@ -2706,9 +2696,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "x_sdgs": [],
@@ -2716,8 +2706,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -4535,8 +4525,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -5677,8 +5667,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6449,8 +6439,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6978,9 +6968,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "x_sdgs": [],
@@ -6988,8 +6978,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7995,9 +7985,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6200000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6200000047683716
         }
       ],
       "x_sdgs": [],
@@ -8005,8 +7995,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
