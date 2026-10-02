@@ -3,52 +3,30 @@
     "id": "https://openalex.org/A5072935704",
     "orcid": "https://orcid.org/0009-0002-6134-0511",
     "observed_orcids": [
-      "https://orcid.org/0009-0002-6134-0511",
-      "https://orcid.org/0000-0002-3186-4595"
+      "https://orcid.org/0009-0002-6134-0511"
     ],
     "display_name": "Anas Muhammad Salisu",
     "raw_author_names": [
       "ANAS MUHAMMAD SALISU",
-      "Anas M Salisu",
       "Anas M. Salisu",
-      "Anas Muhammad Salisu",
-      "M.S. Anas"
+      "Anas Muhammad Salisu"
     ],
     "full_name": "Anas Muhammad Salisu",
-    "works_count": 32,
-    "cited_by_count": 243,
+    "works_count": 26,
+    "cited_by_count": 238,
     "summary_stats": {
-      "2yr_mean_citedness": 6.083333333333333,
+      "2yr_mean_citedness": 7.380952380952381,
       "h_index": 10,
-      "i10_index": 11
+      "i10_index": 12
     },
     "ids": {
       "openalex": "https://openalex.org/A5072935704",
       "orcid": "https://orcid.org/0009-0002-6134-0511",
       "observed_orcids": [
-        "https://orcid.org/0009-0002-6134-0511",
-        "https://orcid.org/0000-0002-3186-4595"
+        "https://orcid.org/0009-0002-6134-0511"
       ]
     },
     "affiliations": [
-      {
-        "institution": {
-          "id": "https://openalex.org/I12789410",
-          "ror": "https://ror.org/019apvn83",
-          "display_name": "Ahmadu Bello University",
-          "country_code": "NG",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I12789410"
-          ]
-        },
-        "years": [
-          2026,
-          2025,
-          2022,
-          2015
-        ]
-      },
       {
         "institution": {
           "id": "https://openalex.org/I134085113",
@@ -70,16 +48,6 @@
       }
     ],
     "last_known_institutions": [
-      {
-        "id": "https://openalex.org/I12789410",
-        "ror": "https://ror.org/019apvn83",
-        "display_name": "Ahmadu Bello University",
-        "country_code": "NG",
-        "type": "education",
-        "lineage": [
-          "https://openalex.org/I12789410"
-        ]
-      },
       {
         "id": "https://openalex.org/I134085113",
         "ror": "https://ror.org/03yez3163",
@@ -180,26 +148,9 @@
     ],
     "topic_share": [
       {
-        "id": "https://openalex.org/T12299",
-        "display_name": "Radiation Shielding Materials Analysis",
-        "value": 0.0000632,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2505",
-          "display_name": "Materials Chemistry"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/25",
-          "display_name": "Materials Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T11852",
         "display_name": "Clay minerals and soil interactions",
-        "value": 0.000062,
+        "value": 0.0000625,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -216,7 +167,7 @@
       {
         "id": "https://openalex.org/T11278",
         "display_name": "Calcium Carbonate Crystallization and Inhibition",
-        "value": 0.0000463,
+        "value": 0.0000466,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -233,7 +184,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000454,
+        "value": 0.0000457,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -250,7 +201,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000309,
+        "value": 0.0000312,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -258,6 +209,23 @@
         "field": {
           "id": "https://openalex.org/fields/22",
           "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "value": 0.0000285,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -299,52 +267,44 @@
     ],
     "counts_by_year": [
       {
-        "year": 2015,
-        "works_count": 2,
-        "oa_works_count": 0,
-        "cited_by_count": 13
-      },
-      {
         "year": 2022,
-        "works_count": 3,
-        "oa_works_count": 2,
-        "cited_by_count": 20
+        "works_count": 2,
+        "oa_works_count": 1,
+        "cited_by_count": 18
       },
       {
         "year": 2023,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 64
+        "cited_by_count": 65
       },
       {
         "year": 2024,
         "works_count": 7,
         "oa_works_count": 2,
-        "cited_by_count": 83
+        "cited_by_count": 86
       },
       {
         "year": 2025,
-        "works_count": 8,
-        "oa_works_count": 5,
-        "cited_by_count": 53
+        "works_count": 6,
+        "oa_works_count": 3,
+        "cited_by_count": 58
       },
       {
         "year": 2026,
-        "works_count": 9,
+        "works_count": 8,
         "oa_works_count": 5,
-        "cited_by_count": 10
+        "cited_by_count": 11
       }
     ],
     "display_name_alternatives": [
       "ANAS MUHAMMAD SALISU",
-      "Anas M Salisu",
       "Anas M. Salisu",
-      "Anas Muhammad Salisu",
-      "M.S. Anas"
+      "Anas Muhammad Salisu"
     ],
     "block_key": "a salisu",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5072935704",
-    "updated_date": "2026-09-28T13:44:42",
+    "updated_date": "2026-09-30T12:28:01",
     "created_date": "2022-01-25T00:00:00"
   },
   "works": [
@@ -417,8 +377,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -505,8 +464,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -722,11 +680,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 4.9495,
+      "fwci": 4.9403,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.97256454,
+        "value": 0.97238836,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -986,8 +944,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -1123,7 +1081,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1195,8 +1153,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -1274,8 +1231,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -1449,11 +1405,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 3.5564,
+      "fwci": 3.5482,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.94381199,
+        "value": 0.94360039,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1725,8 +1681,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -1734,8 +1690,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 125,
@@ -1893,7 +1849,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-30T09:27:27.532063",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1965,8 +1921,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -2284,8 +2239,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -2631,11 +2585,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 6.9492,
+      "fwci": 6.934,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.98330785,
+        "value": 0.98330147,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2896,8 +2850,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -2911,8 +2865,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 130,
@@ -3075,7 +3029,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-30T09:27:27.532063",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3148,8 +3102,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -3189,8 +3142,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -3356,11 +3308,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.6313,
+      "fwci": 3.6168,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.93898507,
+        "value": 0.93868474,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3601,8 +3553,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -4525,7 +4477,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-09-30T09:27:27.532063",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4598,8 +4550,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -4646,8 +4597,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -4826,11 +4776,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.905,
+      "fwci": 2.8934,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.91143284,
+        "value": 0.91098242,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5067,8 +5017,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 132,
@@ -6138,7 +6088,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-30T09:27:27.532063",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6208,8 +6158,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -6249,8 +6198,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -6390,11 +6338,11 @@
         "currency": "CHF",
         "value_usd": 2896
       },
-      "fwci": 2.4209,
+      "fwci": 2.4112,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.88510448,
+        "value": 0.88462342,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6710,8 +6658,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -7556,7 +7504,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-30T09:27:27.532063",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7664,8 +7612,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -7705,8 +7652,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -7806,11 +7752,11 @@
         "currency": "CHF",
         "value_usd": 2896
       },
-      "fwci": 2.4209,
+      "fwci": 2.4112,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.89465672,
+        "value": 0.89423565,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8159,8 +8105,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -8762,7 +8708,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-09-30T09:27:27.532063",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-12-19T00:00:00"
     },
     {
@@ -8834,8 +8780,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -9245,8 +9190,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -9454,11 +9398,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 5.0178,
+      "fwci": 5.0084,
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.96559472,
+        "value": 0.96544944,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9732,8 +9676,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -9741,8 +9685,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 116,
@@ -9895,7 +9839,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-30T09:27:27.532063",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10054,8 +9998,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -10151,11 +10094,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.6091,
+      "fwci": 1.6081,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.79611676,
+        "value": 0.79595072,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10458,8 +10401,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7200000286102295
+          "score": 0.7200000286102295,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -10473,8 +10416,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -10595,7 +10538,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10669,8 +10612,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -10710,8 +10652,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -10975,11 +10916,11 @@
         "value_usd": 2760
       },
       "apc_paid": null,
-      "fwci": 2.5865,
+      "fwci": 2.5805,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.89891044,
+        "value": 0.89853444,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11209,8 +11150,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -11218,8 +11159,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -11324,7 +11265,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11396,8 +11337,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -11517,8 +11457,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -12080,11 +12019,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 3.0629,
+      "fwci": 3.0561,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.91767487,
+        "value": 0.91710709,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12347,8 +12286,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 150,
@@ -12531,7 +12470,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-30T09:27:27.532063",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2024-11-28T00:00:00"
     },
     {
@@ -12672,8 +12611,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -12713,8 +12651,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -12869,11 +12806,11 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 5.3088,
+      "fwci": 5.2907,
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.94994583,
+        "value": 0.94973731,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13250,8 +13187,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -13265,8 +13202,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387996609.pdf",
@@ -13977,7 +13914,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14049,8 +13986,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -14130,8 +14066,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -14221,11 +14156,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1788,
+      "fwci": 2.1701,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.87770149,
+        "value": 0.87719036,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14572,8 +14507,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -15057,7 +14992,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-30T09:27:27.532063",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15137,8 +15072,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -15178,8 +15112,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -15400,11 +15333,11 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 13.5536,
+      "fwci": 13.4434,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.99172691,
+        "value": 0.99157336,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -15917,8 +15850,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -16475,7 +16408,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-09-30T09:27:27.532063",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2026-03-06T00:00:00"
     },
     {
@@ -16584,8 +16517,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -16768,11 +16700,11 @@
         "value_usd": 3530
       },
       "apc_paid": null,
-      "fwci": 1.1316,
+      "fwci": 1.129,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.72487419,
+        "value": 0.72425501,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17004,8 +16936,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 92,
@@ -17130,7 +17062,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2024-10-19T00:00:00"
     },
     {
@@ -17197,8 +17129,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -17276,8 +17207,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -17447,11 +17377,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 25.0743,
+      "fwci": 24.3964,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.99292866,
+        "value": 0.99277828,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -17540,44 +17470,59 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/diagenesis",
-          "display_name": "Diagenesis",
-          "score": 0.9212999939918518
+          "id": "https://openalex.org/keywords/sediment-provenance",
+          "display_name": "sediment provenance",
+          "score": 0.7260000109672546
         },
         {
-          "id": "https://openalex.org/keywords/devonian",
-          "display_name": "Devonian",
-          "score": 0.628000020980835
+          "id": "https://openalex.org/keywords/paleoclimate",
+          "display_name": "paleoclimate",
+          "score": 0.8849999904632568
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.6190999746322632
+          "id": "https://openalex.org/keywords/paleoweathering",
+          "display_name": "paleoweathering",
+          "score": 0.984000027179718
         },
         {
-          "id": "https://openalex.org/keywords/authigenic",
-          "display_name": "Authigenic",
-          "score": 0.5803999900817871
+          "id": "https://openalex.org/keywords/chemical-weathering",
+          "display_name": "chemical weathering",
+          "score": 0.7329999804496765
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.541700005531311
+          "id": "https://openalex.org/keywords/passive-margin",
+          "display_name": "passive continental margin",
+          "score": 0.7850000262260437
         },
         {
-          "id": "https://openalex.org/keywords/denudation",
-          "display_name": "Denudation",
-          "score": 0.42489999532699585
+          "id": "https://openalex.org/keywords/tectonic-setting",
+          "display_name": "tectonic setting",
+          "score": 0.7760000228881836
         },
         {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.4221999943256378
+          "id": "https://openalex.org/keywords/authigenic-kaolinite",
+          "display_name": "authigenic kaolinite",
+          "score": 0.9139999747276306
         },
         {
-          "id": "https://openalex.org/keywords/paleozoic",
-          "display_name": "Paleozoic",
-          "score": 0.4131999909877777
+          "id": "https://openalex.org/keywords/illitization",
+          "display_name": "illitization",
+          "score": 0.9369999766349792
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-quality",
+          "display_name": "reservoir quality",
+          "score": 0.7310000061988831
+        },
+        {
+          "id": "https://openalex.org/keywords/porosity-reduction",
+          "display_name": "porosity reduction",
+          "score": 0.7390000224113464
+        },
+        {
+          "id": "https://openalex.org/keywords/compaction",
+          "display_name": "compaction",
+          "score": 0.6740000247955322
         }
       ],
       "concepts": [
@@ -17814,8 +17759,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -17916,7 +17861,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2026-02-11T00:00:00"
     },
     {
@@ -17992,8 +17937,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -18298,11 +18242,11 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 0.6466,
+      "fwci": 0.6451,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.58271852,
+        "value": 0.5820469,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18655,8 +18599,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4401646659.pdf",
@@ -19463,7 +19407,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19616,8 +19560,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -19805,11 +19748,11 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 0.7053,
+      "fwci": 0.7025,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.58215424,
+        "value": 0.58119758,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20175,8 +20118,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407393621.pdf",
@@ -20818,7 +20761,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20890,8 +20833,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -20931,8 +20873,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -21068,11 +21009,11 @@
         "value_usd": 3810
       },
       "apc_paid": null,
-      "fwci": 1.9362,
+      "fwci": 1.9205,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.88170256,
+        "value": 0.88044942,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21426,8 +21367,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8751643896102905
+          "score": 0.8751643896102905,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -21441,8 +21382,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -21516,7 +21457,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-26T08:19:03.415552",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2026-07-09T00:00:00"
     },
     {
@@ -21581,8 +21522,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [],
@@ -21616,8 +21556,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -21995,8 +21934,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -22004,8 +21943,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22029,7 +21968,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22181,8 +22120,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [],
@@ -22275,54 +22213,94 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/channel",
-          "display_name": "Channel (broadcasting)",
-          "score": 0.5853912234306335
+          "id": "https://openalex.org/keywords/ophiomorpha",
+          "display_name": "Ophiomorpha",
+          "score": 0.9819999933242798
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.4750385582447052
+          "id": "https://openalex.org/keywords/trace-fossils",
+          "display_name": "trace fossils",
+          "score": 0.7279999852180481
         },
         {
-          "id": "https://openalex.org/keywords/quality",
-          "display_name": "Quality (philosophy)",
-          "score": 0.4723331034183502
+          "id": "https://openalex.org/keywords/burrows",
+          "display_name": "burrows",
+          "score": 0.7429999709129333
         },
         {
-          "id": "https://openalex.org/keywords/water-resource-management",
-          "display_name": "Water resource management",
-          "score": 0.3869374096393585
+          "id": "https://openalex.org/keywords/reservoir-quality",
+          "display_name": "reservoir quality",
+          "score": 0.9570000171661377
         },
         {
-          "id": "https://openalex.org/keywords/hydrology",
-          "display_name": "Hydrology (agriculture)",
-          "score": 0.3569182753562927
+          "id": "https://openalex.org/keywords/porosity",
+          "display_name": "porosity",
+          "score": 0.7900000214576721
         },
         {
-          "id": "https://openalex.org/keywords/mining-engineering",
-          "display_name": "Mining engineering",
-          "score": 0.34146392345428467
+          "id": "https://openalex.org/keywords/permeability",
+          "display_name": "permeability",
+          "score": 0.9980000257492065
         },
         {
-          "id": "https://openalex.org/keywords/petroleum-engineering",
-          "display_name": "Petroleum engineering",
-          "score": 0.32731378078460693
+          "id": "https://openalex.org/keywords/dam-formation",
+          "display_name": "Dam Formation",
+          "score": 0.8059999942779541
         },
         {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.31820806860923767
+          "id": "https://openalex.org/keywords/petrophysical-properties",
+          "display_name": "petrophysical properties",
+          "score": 0.7149999737739563
         },
         {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.2798859477043152
+          "id": "https://openalex.org/keywords/tight-reservoirs",
+          "display_name": "tight reservoirs",
+          "score": 0.375
         },
         {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.2049228847026825
+          "id": "https://openalex.org/keywords/paleoecology",
+          "display_name": "paleoecology",
+          "score": 0.32600000500679016
+        },
+        {
+          "id": "https://openalex.org/keywords/computed-tomography",
+          "display_name": "computed tomography",
+          "score": 0.36500000953674316
+        },
+        {
+          "id": "https://openalex.org/keywords/petrography",
+          "display_name": "petrography",
+          "score": 0.5580000281333923
+        },
+        {
+          "id": "https://openalex.org/keywords/dolomitic-mudstone",
+          "display_name": "dolomitic mudstone",
+          "score": 0.5370000004768372
+        },
+        {
+          "id": "https://openalex.org/keywords/feldspar",
+          "display_name": "feldspar",
+          "score": 0.41600000858306885
+        },
+        {
+          "id": "https://openalex.org/keywords/quartz",
+          "display_name": "quartz",
+          "score": 0.7070000171661377
+        },
+        {
+          "id": "https://openalex.org/keywords/cross-lamination",
+          "display_name": "cross-lamination",
+          "score": 0.5109999775886536
+        },
+        {
+          "id": "https://openalex.org/keywords/saudi-arabia",
+          "display_name": "Saudi Arabia",
+          "score": 0.3240000009536743
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-reservoirs",
+          "display_name": "hydrocarbon reservoirs",
+          "score": 0.48100000619888306
         }
       ],
       "concepts": [
@@ -22489,8 +22467,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -22498,8 +22476,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22518,7 +22496,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2022-01-25T00:00:00"
     },
     {
@@ -22592,8 +22570,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -22829,8 +22806,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -23276,7 +23252,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.1670996,
+        "value": 0.16177752,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23362,49 +23338,74 @@
       ],
       "keywords": [
         {
+          "id": "https://openalex.org/keywords/upper-benue-trough",
+          "display_name": "Upper Benue Trough",
+          "score": 0.9399999976158142
+        },
+        {
+          "id": "https://openalex.org/keywords/late-cretaceous",
+          "display_name": "Late Cretaceous",
+          "score": 0.906000018119812
+        },
+        {
+          "id": "https://openalex.org/keywords/coniacian-santonian",
+          "display_name": "Coniacian-Santonian",
+          "score": 0.9269999861717224
+        },
+        {
+          "id": "https://openalex.org/keywords/sediment-provenance",
+          "display_name": "sediment provenance",
+          "score": 0.753000020980835
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonic-setting",
+          "display_name": "tectonic setting",
+          "score": 0.8320000171661377
+        },
+        {
           "id": "https://openalex.org/keywords/diagenesis",
-          "display_name": "Diagenesis",
-          "score": 0.8910999894142151
+          "display_name": "diagenesis",
+          "score": 0.746999979019165
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.617900013923645
+          "id": "https://openalex.org/keywords/caprock",
+          "display_name": "caprock",
+          "score": 0.640999972820282
         },
         {
-          "id": "https://openalex.org/keywords/source-rock",
-          "display_name": "Source rock",
-          "score": 0.573199987411499
+          "id": "https://openalex.org/keywords/co2-sequestration",
+          "display_name": "CO2 sequestration",
+          "score": 0.8299999833106995
         },
         {
-          "id": "https://openalex.org/keywords/clastic-rock",
-          "display_name": "Clastic rock",
-          "score": 0.5615000128746033
+          "id": "https://openalex.org/keywords/chemical-weathering",
+          "display_name": "chemical weathering",
+          "score": 0.8730000257492065
         },
         {
-          "id": "https://openalex.org/keywords/provenance",
-          "display_name": "Provenance",
-          "score": 0.5232999920845032
+          "id": "https://openalex.org/keywords/kaolinite",
+          "display_name": "kaolinite",
+          "score": 0.8700000047683716
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.5164999961853027
+          "id": "https://openalex.org/keywords/illite",
+          "display_name": "illite",
+          "score": 0.7799999713897705
         },
         {
-          "id": "https://openalex.org/keywords/weathering",
-          "display_name": "Weathering",
-          "score": 0.5145000219345093
+          "id": "https://openalex.org/keywords/total-organic-carbon",
+          "display_name": "total organic carbon",
+          "score": 0.7329999804496765
         },
         {
-          "id": "https://openalex.org/keywords/oil-shale",
-          "display_name": "Oil shale",
-          "score": 0.4984000027179718
+          "id": "https://openalex.org/keywords/redox-conditions",
+          "display_name": "redox conditions",
+          "score": 0.7250000238418579
         },
         {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.4334000051021576
+          "id": "https://openalex.org/keywords/calcite-concretions",
+          "display_name": "calcite concretions",
+          "score": 0.8370000123977661
         }
       ],
       "concepts": [
@@ -23640,8 +23641,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5982216000556946
+          "score": 0.5982216000556946,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -23668,8 +23669,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -23780,7 +23781,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2026-03-25T00:00:00"
     },
     {
@@ -23854,8 +23855,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -23895,8 +23895,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -24087,7 +24086,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.34880069,
+        "value": 0.33548809,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24173,44 +24172,54 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/mineralization",
-          "display_name": "Mineralization (soil science)",
-          "score": 0.7156000137329102
+          "id": "https://openalex.org/keywords/barite-mineralization",
+          "display_name": "barite mineralization",
+          "score": 0.9710000157356262
         },
         {
-          "id": "https://openalex.org/keywords/petrography",
-          "display_name": "Petrography",
-          "score": 0.663100004196167
+          "id": "https://openalex.org/keywords/sediment-hosted-mineralization",
+          "display_name": "sediment-hosted mineralization",
+          "score": 0.7360000014305115
         },
         {
-          "id": "https://openalex.org/keywords/hydrothermal-circulation",
-          "display_name": "Hydrothermal circulation",
-          "score": 0.6585999727249146
+          "id": "https://openalex.org/keywords/red-sea-rift",
+          "display_name": "Red Sea rift",
+          "score": 0.9369999766349792
+        },
+        {
+          "id": "https://openalex.org/keywords/fault-controlled-fluid-migration",
+          "display_name": "fault-controlled fluid migration",
+          "score": 0.6499999761581421
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrothermal-fluids",
+          "display_name": "hydrothermal fluids",
+          "score": 0.9430000185966492
         },
         {
           "id": "https://openalex.org/keywords/fluid-inclusions",
-          "display_name": "Fluid inclusions",
-          "score": 0.6554999947547913
+          "display_name": "fluid inclusions",
+          "score": 0.8640000224113464
         },
         {
-          "id": "https://openalex.org/keywords/diagenesis",
-          "display_name": "Diagenesis",
-          "score": 0.6538000106811523
+          "id": "https://openalex.org/keywords/sulfur-isotopes",
+          "display_name": "sulfur isotopes",
+          "score": 0.7720000147819519
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.5019000172615051
+          "id": "https://openalex.org/keywords/fluid-rock-interaction",
+          "display_name": "fluid-rock interaction",
+          "score": 0.7910000085830688
         },
         {
-          "id": "https://openalex.org/keywords/overprinting",
-          "display_name": "Overprinting",
-          "score": 0.45100000500679016
+          "id": "https://openalex.org/keywords/evaporite-brines",
+          "display_name": "evaporite brines",
+          "score": 0.5600000023841858
         },
         {
-          "id": "https://openalex.org/keywords/ore-genesis",
-          "display_name": "Ore genesis",
-          "score": 0.40709999203681946
+          "id": "https://openalex.org/keywords/early-miocene",
+          "display_name": "Early Miocene",
+          "score": 0.49300000071525574
         }
       ],
       "concepts": [
@@ -24435,8 +24444,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8707032203674316
+          "score": 0.8707032203674316,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -24450,8 +24459,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -25491,7 +25500,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2026-05-31T00:00:00"
     },
     {
@@ -25599,8 +25608,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -25702,7 +25710,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37924112,
+        "value": 0.36107584,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25788,49 +25796,59 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/authigenic",
-          "display_name": "Authigenic",
-          "score": 0.975600004196167
+          "id": "https://openalex.org/keywords/authigenic-smectite",
+          "display_name": "authigenic smectite",
+          "score": 0.9380000233650208
         },
         {
-          "id": "https://openalex.org/keywords/glauconite",
-          "display_name": "Glauconite",
-          "score": 0.9280999898910522
+          "id": "https://openalex.org/keywords/illitization",
+          "display_name": "illitization",
+          "score": 0.9679999947547913
         },
         {
-          "id": "https://openalex.org/keywords/illite",
-          "display_name": "Illite",
-          "score": 0.8776000142097473
+          "id": "https://openalex.org/keywords/smectite-illite-transformation",
+          "display_name": "smectite to illite transformation",
+          "score": 0.9359999895095825
         },
         {
-          "id": "https://openalex.org/keywords/clay-minerals",
-          "display_name": "Clay minerals",
-          "score": 0.8084999918937683
+          "id": "https://openalex.org/keywords/mixed-layer-illite-smectite",
+          "display_name": "mixed-layer illite/smectite",
+          "score": 0.8500000238418579
         },
         {
-          "id": "https://openalex.org/keywords/diagenesis",
-          "display_name": "Diagenesis",
-          "score": 0.7343000173568726
+          "id": "https://openalex.org/keywords/burial-diagenesis",
+          "display_name": "burial diagenesis",
+          "score": 0.7250000238418579
         },
         {
-          "id": "https://openalex.org/keywords/muscovite",
-          "display_name": "Muscovite",
-          "score": 0.6502000093460083
+          "id": "https://openalex.org/keywords/sandstone-reservoir-quality",
+          "display_name": "sandstone reservoir quality",
+          "score": 0.8640000224113464
         },
         {
-          "id": "https://openalex.org/keywords/quartz",
-          "display_name": "Quartz",
-          "score": 0.4796000123023987
+          "id": "https://openalex.org/keywords/clay-mineral-evolution",
+          "display_name": "clay mineral evolution",
+          "score": 0.4880000054836273
         },
         {
-          "id": "https://openalex.org/keywords/saponite",
-          "display_name": "Saponite",
-          "score": 0.44670000672340393
+          "id": "https://openalex.org/keywords/hydrothermal-experiments",
+          "display_name": "hydrothermal experiments",
+          "score": 0.5600000023841858
         },
         {
-          "id": "https://openalex.org/keywords/hydrothermal-circulation",
-          "display_name": "Hydrothermal circulation",
-          "score": 0.4465999901294708
+          "id": "https://openalex.org/keywords/red-sea-water",
+          "display_name": "Red Sea water",
+          "score": 0.6480000019073486
+        },
+        {
+          "id": "https://openalex.org/keywords/porosity-preservation",
+          "display_name": "porosity preservation",
+          "score": 0.6959999799728394
+        },
+        {
+          "id": "https://openalex.org/keywords/permeability-reduction",
+          "display_name": "permeability reduction",
+          "score": 0.7480000257492065
         }
       ],
       "concepts": [
@@ -26084,8 +26102,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8677359223365784
+          "score": 0.8677359223365784,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -26093,8 +26111,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -26818,7 +26836,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2026-06-09T00:00:00"
     },
     {
@@ -26926,8 +26944,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -27029,7 +27046,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.36467314,
+        "value": 0.36161453,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27418,8 +27435,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8754722476005554
+          "score": 0.8754722476005554,
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -27427,8 +27444,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -28177,7 +28194,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2026-06-09T00:00:00"
     },
     {
@@ -28249,8 +28266,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -28290,8 +28306,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -28475,7 +28490,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.75706499,
+        "value": 0.75112548,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28760,8 +28775,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.4896319806575775
+          "score": 0.4896319806575775,
+          "display_name": "Climate action"
         }
       ],
       "x_sdgs": [],
@@ -28769,8 +28784,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -29568,7 +29583,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-30T09:27:27.532063",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2026-09-25T00:00:00"
     }
   ]

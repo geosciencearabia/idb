@@ -605,8 +605,7 @@
             "display_name": "Andrew D. La Croix",
             "orcid": "https://orcid.org/0000-0002-9716-9501",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-9716-9501",
-              "https://orcid.org/0000-0001-5927-0003"
+              "https://orcid.org/0000-0002-9716-9501"
             ]
           },
           "institutions": [
@@ -845,11 +844,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 15.0479,
+      "fwci": 15.1345,
       "has_fulltext": false,
       "cited_by_count": 118,
       "citation_normalized_percentile": {
-        "value": 0.99227202,
+        "value": 0.99226006,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -938,79 +937,49 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/permeability",
-          "display_name": "Permeability (electromagnetism)",
-          "score": 0.7797818779945374
+          "id": "https://openalex.org/keywords/bioturbation",
+          "display_name": "bioturbation",
+          "score": 0.9390000104904175
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6781760454177856
-        },
-        {
-          "id": "https://openalex.org/keywords/trace-fossil",
-          "display_name": "Trace fossil",
-          "score": 0.6007605791091919
+          "id": "https://openalex.org/keywords/trace-fossils",
+          "display_name": "trace fossils",
+          "score": 0.8949999809265137
         },
         {
           "id": "https://openalex.org/keywords/porosity",
-          "display_name": "Porosity",
-          "score": 0.5433706641197205
+          "display_name": "porosity",
+          "score": 0.6850000023841858
         },
         {
-          "id": "https://openalex.org/keywords/porous-medium",
-          "display_name": "Porous medium",
-          "score": 0.4677674174308777
+          "id": "https://openalex.org/keywords/permeability",
+          "display_name": "permeability",
+          "score": 0.9980000257492065
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.45553824305534363
+          "id": "https://openalex.org/keywords/dual-porosity-media",
+          "display_name": "dual-porosity media",
+          "score": 0.8169999718666077
         },
         {
-          "id": "https://openalex.org/keywords/burrow",
-          "display_name": "Burrow",
-          "score": 0.42671069502830505
+          "id": "https://openalex.org/keywords/permeability-upscaling",
+          "display_name": "permeability upscaling",
+          "score": 0.5809999704360962
         },
         {
-          "id": "https://openalex.org/keywords/matrix",
-          "display_name": "Matrix (chemical analysis)",
-          "score": 0.4222959280014038
+          "id": "https://openalex.org/keywords/burrow-diameter",
+          "display_name": "burrow diameter",
+          "score": 0.6629999876022339
         },
         {
-          "id": "https://openalex.org/keywords/mineralogy",
-          "display_name": "Mineralogy",
-          "score": 0.38150128722190857
+          "id": "https://openalex.org/keywords/burrow-structure",
+          "display_name": "burrow architecture",
+          "score": 0.9300000071525574
         },
         {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.3630334138870239
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.15964820981025696
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.15848150849342346
-        },
-        {
-          "id": "https://openalex.org/keywords/materials-science",
-          "display_name": "Materials science",
-          "score": 0.13584229350090027
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.13266679644584656
-        },
-        {
-          "id": "https://openalex.org/keywords/composite-material",
-          "display_name": "Composite material",
-          "score": 0.09620407223701477
+          "id": "https://openalex.org/keywords/reservoir-quality",
+          "display_name": "reservoir quality",
+          "score": 0.4359999895095825
         }
       ],
       "concepts": [
@@ -1188,8 +1157,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -1334,7 +1303,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1581,11 +1550,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7151,
+      "fwci": 0.7142,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.6361186,
+        "value": 0.63617021,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1904,8 +1873,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -2890,8 +2859,7 @@
             "display_name": "Andrew D. La Croix",
             "orcid": "https://orcid.org/0000-0002-9716-9501",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-9716-9501",
-              "https://orcid.org/0000-0001-5927-0003"
+              "https://orcid.org/0000-0002-9716-9501"
             ]
           },
           "institutions": [
@@ -3090,11 +3058,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7788,
+      "fwci": 1.7583,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.82646115,
+        "value": 0.82446269,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3184,78 +3152,58 @@
       "keywords": [
         {
           "id": "https://openalex.org/keywords/bioturbation",
-          "display_name": "Bioturbation",
-          "score": 0.8653697967529297
+          "display_name": "bioturbation",
+          "score": 0.9279999732971191
         },
         {
-          "id": "https://openalex.org/keywords/petrography",
-          "display_name": "Petrography",
-          "score": 0.8582330942153931
-        },
-        {
-          "id": "https://openalex.org/keywords/burrow",
-          "display_name": "Burrow",
-          "score": 0.7358059287071228
-        },
-        {
-          "id": "https://openalex.org/keywords/diagenesis",
-          "display_name": "Diagenesis",
-          "score": 0.6988945007324219
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6749054193496704
-        },
-        {
-          "id": "https://openalex.org/keywords/sediment",
-          "display_name": "Sediment",
-          "score": 0.5731444358825684
-        },
-        {
-          "id": "https://openalex.org/keywords/porosity",
-          "display_name": "Porosity",
-          "score": 0.5380679368972778
-        },
-        {
-          "id": "https://openalex.org/keywords/attenuation",
-          "display_name": "Attenuation",
-          "score": 0.5321490168571472
+          "id": "https://openalex.org/keywords/trace-fossils",
+          "display_name": "trace fossils",
+          "score": 0.7799999713897705
         },
         {
           "id": "https://openalex.org/keywords/permeability",
-          "display_name": "Permeability (electromagnetism)",
-          "score": 0.45972388982772827
+          "display_name": "permeability",
+          "score": 0.8600000143051147
         },
         {
-          "id": "https://openalex.org/keywords/mineralogy",
-          "display_name": "Mineralogy",
-          "score": 0.42582252621650696
+          "id": "https://openalex.org/keywords/porosity",
+          "display_name": "porosity",
+          "score": 0.7689999938011169
         },
         {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.25480327010154724
+          "id": "https://openalex.org/keywords/x-ray-microtomography",
+          "display_name": "X-ray microtomography",
+          "score": 0.9330000281333923
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.2350025773048401
+          "id": "https://openalex.org/keywords/x-ray-attenuation",
+          "display_name": "X-ray attenuation",
+          "score": 0.875
         },
         {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.12265190482139587
+          "id": "https://openalex.org/keywords/reservoir-quality",
+          "display_name": "reservoir quality",
+          "score": 0.6150000095367432
         },
         {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.09227314591407776
+          "id": "https://openalex.org/keywords/sediment-reworking",
+          "display_name": "sediment reworking",
+          "score": 0.6060000061988831
         },
         {
-          "id": "https://openalex.org/keywords/physics",
-          "display_name": "Physics",
-          "score": 0.0832916796207428
+          "id": "https://openalex.org/keywords/diagenesis",
+          "display_name": "diagenesis",
+          "score": 0.9649999737739563
+        },
+        {
+          "id": "https://openalex.org/keywords/siliciclastics",
+          "display_name": "siliciclastics",
+          "score": 0.8379999995231628
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonates",
+          "display_name": "carbonates",
+          "score": 0.9929999709129333
         }
       ],
       "concepts": [
@@ -3445,8 +3393,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -4117,7 +4065,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4397,11 +4345,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 1.6664,
+      "fwci": 1.6647,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.79574874,
+        "value": 0.795885,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4708,8 +4656,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 175,
@@ -5282,13 +5230,13 @@
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.09699987,
+        "value": 0.09703903,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 89,
-        "max": 98
+        "max": 97
       },
       "biblio": {
         "volume": "67",
@@ -5371,59 +5319,54 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.9180574417114258
+          "id": "https://openalex.org/keywords/trace-fossils",
+          "display_name": "trace fossils",
+          "score": 0.734000027179718
         },
         {
-          "id": "https://openalex.org/keywords/ichnofacies",
-          "display_name": "Ichnofacies",
-          "score": 0.8337514996528625
+          "id": "https://openalex.org/keywords/coastal-dune-fields",
+          "display_name": "coastal dune fields",
+          "score": 0.8080000281333923
         },
         {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.8004310131072998
+          "id": "https://openalex.org/keywords/early-permian",
+          "display_name": "Lower Permian",
+          "score": 0.6290000081062317
         },
         {
-          "id": "https://openalex.org/keywords/trace-fossil",
-          "display_name": "Trace fossil",
-          "score": 0.6692079305648804
+          "id": "https://openalex.org/keywords/tidal-flats",
+          "display_name": "tidal flats",
+          "score": 0.7269999980926514
         },
         {
-          "id": "https://openalex.org/keywords/ichnology",
-          "display_name": "Ichnology",
-          "score": 0.6481286287307739
+          "id": "https://openalex.org/keywords/shallow-marine-sedimentation",
+          "display_name": "shallow-marine sedimentation",
+          "score": 0.5889999866485596
         },
         {
-          "id": "https://openalex.org/keywords/aeolian-processes",
-          "display_name": "Aeolian processes",
-          "score": 0.6362149715423584
+          "id": "https://openalex.org/keywords/skolithos",
+          "display_name": "Skolithos",
+          "score": 0.7590000033378601
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.6167070269584656
+          "id": "https://openalex.org/keywords/cruziana",
+          "display_name": "Cruziana",
+          "score": 0.9829999804496765
         },
         {
-          "id": "https://openalex.org/keywords/sedimentology",
-          "display_name": "Sedimentology",
-          "score": 0.49793386459350586
+          "id": "https://openalex.org/keywords/paleosols",
+          "display_name": "paleosols",
+          "score": 0.7979999780654907
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-structures",
-          "display_name": "Sedimentary structures",
-          "score": 0.47073686122894287
+          "id": "https://openalex.org/keywords/groundwater-level",
+          "display_name": "groundwater level",
+          "score": 0.48500001430511475
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.4603109359741211
-        },
-        {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.3863046169281006
+          "id": "https://openalex.org/keywords/facies-model",
+          "display_name": "facies model",
+          "score": 0.5649999976158142
         }
       ],
       "concepts": [
@@ -5569,8 +5512,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 117,
@@ -6509,7 +6452,8 @@
           "author": {
             "id": "https://openalex.org/A5030587820",
             "display_name": "Camilo A. Polo",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -6546,7 +6490,8 @@
           "author": {
             "id": "https://openalex.org/A5103799444",
             "display_name": "John Melvin",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -6583,7 +6528,8 @@
           "author": {
             "id": "https://openalex.org/A5012935449",
             "display_name": "Nigel P. Hooker",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -6620,7 +6566,10 @@
           "author": {
             "id": "https://openalex.org/A5071875690",
             "display_name": "Murray K. Gingras",
-            "orcid": "https://orcid.org/0000-0002-6683-1750"
+            "orcid": "https://orcid.org/0000-0002-6683-1750",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6683-1750"
+            ]
           },
           "institutions": [
             {
@@ -6657,7 +6606,8 @@
           "author": {
             "id": "https://openalex.org/A5111738454",
             "display_name": "S. George Pemberton",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -6705,11 +6655,11 @@
         "value_usd": 3050
       },
       "apc_paid": null,
-      "fwci": 0.1923,
+      "fwci": 0.1889,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.50613824,
+        "value": 0.50067295,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6798,64 +6748,44 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/paleosol",
-          "display_name": "Paleosol",
-          "score": 0.858578085899353
+          "id": "https://openalex.org/keywords/trace-fossils",
+          "display_name": "trace fossils",
+          "score": 0.8709999918937683
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8507767915725708
+          "id": "https://openalex.org/keywords/paleosols",
+          "display_name": "paleosols",
+          "score": 0.8659999966621399
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.7360027432441711
-        },
-        {
-          "id": "https://openalex.org/keywords/trace-fossil",
-          "display_name": "Trace fossil",
-          "score": 0.6827776432037354
-        },
-        {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.5817068815231323
-        },
-        {
-          "id": "https://openalex.org/keywords/unconformity",
-          "display_name": "Unconformity",
-          "score": 0.5677666664123535
-        },
-        {
-          "id": "https://openalex.org/keywords/subaerial",
-          "display_name": "Subaerial",
-          "score": 0.5216106176376343
+          "id": "https://openalex.org/keywords/scoyenia-ichnofacies",
+          "display_name": "Scoyenia ichnofacies",
+          "score": 0.8489999771118164
         },
         {
           "id": "https://openalex.org/keywords/bioturbation",
-          "display_name": "Bioturbation",
-          "score": 0.5093566179275513
+          "display_name": "bioturbation",
+          "score": 0.9290000200271606
         },
         {
-          "id": "https://openalex.org/keywords/ichnofacies",
-          "display_name": "Ichnofacies",
-          "score": 0.47771453857421875
+          "id": "https://openalex.org/keywords/pedogenesis",
+          "display_name": "soil formation",
+          "score": 0.5989999771118164
         },
         {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.33926600217819214
+          "id": "https://openalex.org/keywords/genetic-stratigraphy",
+          "display_name": "genetic stratigraphy",
+          "score": 0.6940000057220459
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.20953315496444702
+          "id": "https://openalex.org/keywords/aeolian-dunes",
+          "display_name": "aeolian dunes",
+          "score": 0.8190000057220459
         },
         {
-          "id": "https://openalex.org/keywords/sediment",
-          "display_name": "Sediment",
-          "score": 0.1922968626022339
+          "id": "https://openalex.org/keywords/tectonostratigraphy",
+          "display_name": "tectonostratigraphy",
+          "score": 0.8610000014305115
         }
       ],
       "concepts": [
@@ -7014,8 +6944,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 147,
@@ -7540,11 +7470,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8938,
+      "fwci": 0.8945,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.72318165,
+        "value": 0.72358134,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7825,8 +7755,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -9042,7 +8972,8 @@
           "author": {
             "id": "https://openalex.org/A5046919784",
             "display_name": "Ivan Sergeevich Deshenenkov",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -9079,7 +9010,8 @@
           "author": {
             "id": "https://openalex.org/A5030587820",
             "display_name": "Camilo A. Polo",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -9121,11 +9053,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6774,
+      "fwci": 1.6661,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.78235217,
+        "value": 0.78103244,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9214,84 +9146,69 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.7769240736961365
+          "id": "https://openalex.org/keywords/bioturbation",
+          "display_name": "bioturbation",
+          "score": 0.8740000128746033
         },
         {
-          "id": "https://openalex.org/keywords/thin-section",
-          "display_name": "Thin section",
-          "score": 0.5202249884605408
+          "id": "https://openalex.org/keywords/reservoir-heterogeneity",
+          "display_name": "reservoir heterogeneity",
+          "score": 0.7490000128746033
         },
         {
-          "id": "https://openalex.org/keywords/dolomite",
-          "display_name": "Dolomite",
-          "score": 0.49371084570884705
+          "id": "https://openalex.org/keywords/cretaceous-carbonates",
+          "display_name": "Cretaceous carbonates",
+          "score": 0.8130000233650208
         },
         {
-          "id": "https://openalex.org/keywords/dolostone",
-          "display_name": "Dolostone",
-          "score": 0.4676035940647125
+          "id": "https://openalex.org/keywords/thalassinoides",
+          "display_name": "Thalassinoides",
+          "score": 0.7689999938011169
+        },
+        {
+          "id": "https://openalex.org/keywords/burrows",
+          "display_name": "burrows",
+          "score": 0.7549999952316284
         },
         {
           "id": "https://openalex.org/keywords/permeability",
-          "display_name": "Permeability (electromagnetism)",
-          "score": 0.43439170718193054
+          "display_name": "permeability",
+          "score": 0.8119999766349792
         },
         {
-          "id": "https://openalex.org/keywords/petrology",
-          "display_name": "Petrology",
-          "score": 0.42667290568351746
+          "id": "https://openalex.org/keywords/intergranular-porosity",
+          "display_name": "intergranular porosity",
+          "score": 0.8949999809265137
         },
         {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.4231833219528198
+          "id": "https://openalex.org/keywords/dolomitization",
+          "display_name": "dolomitization",
+          "score": 0.8209999799728394
         },
         {
-          "id": "https://openalex.org/keywords/petrophysics",
-          "display_name": "Petrophysics",
-          "score": 0.4205535650253296
+          "id": "https://openalex.org/keywords/sweet-spot-identification",
+          "display_name": "sweet spot identification",
+          "score": 0.6510000228881836
         },
         {
-          "id": "https://openalex.org/keywords/petrography",
-          "display_name": "Petrography",
-          "score": 0.4160318374633789
+          "id": "https://openalex.org/keywords/fluid-flow-properties",
+          "display_name": "fluid flow properties",
+          "score": 0.6150000095367432
         },
         {
-          "id": "https://openalex.org/keywords/carbonate-rock",
-          "display_name": "Carbonate rock",
-          "score": 0.366118848323822
+          "id": "https://openalex.org/keywords/three-dimensional-computed-tomography",
+          "display_name": "three-dimensional computed tomography",
+          "score": 0.8040000200271606
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.3591913878917694
+          "id": "https://openalex.org/keywords/mercury-injection-capillary-pressure",
+          "display_name": "mercury injection capillary pressure",
+          "score": 0.7850000262260437
         },
         {
-          "id": "https://openalex.org/keywords/mineralogy",
-          "display_name": "Mineralogy",
-          "score": 0.32690149545669556
-        },
-        {
-          "id": "https://openalex.org/keywords/porosity",
-          "display_name": "Porosity",
-          "score": 0.30094796419143677
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.19501015543937683
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.16857123374938965
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.1654689908027649
+          "id": "https://openalex.org/keywords/pore-size-distribution",
+          "display_name": "pore size distribution",
+          "score": 0.4779999852180481
         }
       ],
       "concepts": [
@@ -9591,8 +9508,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3005990354.pdf",
@@ -10145,6 +10062,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I154425047",
           "host_organization_name": "University of Alberta",
           "host_organization_lineage": [
@@ -10177,7 +10095,8 @@
           "author": {
             "id": "https://openalex.org/A5030587820",
             "display_name": "Camilo A. Polo",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -10283,59 +10202,49 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/norwegian",
-          "display_name": "Norwegian",
-          "score": 0.8017603158950806
-        },
-        {
           "id": "https://openalex.org/keywords/bioturbation",
-          "display_name": "Bioturbation",
-          "score": 0.7844324111938477
+          "display_name": "bioturbation",
+          "score": 0.9980000257492065
         },
         {
-          "id": "https://openalex.org/keywords/resource",
-          "display_name": "Resource (disambiguation)",
-          "score": 0.6263062953948975
+          "id": "https://openalex.org/keywords/permeability",
+          "display_name": "permeability",
+          "score": 0.7540000081062317
         },
         {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.5602859854698181
+          "id": "https://openalex.org/keywords/trace-fossils",
+          "display_name": "trace fossils",
+          "score": 0.6790000200271606
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5398669838905334
+          "id": "https://openalex.org/keywords/cruziana-ichnofacies",
+          "display_name": "Cruziana ichnofacies",
+          "score": 0.9950000047683716
         },
         {
-          "id": "https://openalex.org/keywords/quality",
-          "display_name": "Quality (philosophy)",
-          "score": 0.47427210211753845
+          "id": "https://openalex.org/keywords/upper-cretaceous",
+          "display_name": "Upper Cretaceous",
+          "score": 0.9200000166893005
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.36290836334228516
+          "id": "https://openalex.org/keywords/mre-basin",
+          "display_name": "Møre Basin",
+          "score": 0.8569999933242798
         },
         {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.11858317255973816
+          "id": "https://openalex.org/keywords/sandstone",
+          "display_name": "sandstone",
+          "score": 0.5640000104904175
         },
         {
-          "id": "https://openalex.org/keywords/epistemology",
-          "display_name": "Epistemology",
-          "score": 0.11526438593864441
+          "id": "https://openalex.org/keywords/mudstone",
+          "display_name": "mudstone",
+          "score": 0.9909999966621399
         },
         {
-          "id": "https://openalex.org/keywords/sediment",
-          "display_name": "Sediment",
-          "score": 0.09366372227668762
-        },
-        {
-          "id": "https://openalex.org/keywords/philosophy",
-          "display_name": "Philosophy",
-          "score": 0.08122169971466064
+          "id": "https://openalex.org/keywords/x-ray-microtomography",
+          "display_name": "X-ray microtomography",
+          "score": 0.7360000014305115
         }
       ],
       "concepts": [
@@ -10447,6 +10356,7 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
+            "listed_in": [],
             "host_organization": "https://openalex.org/I154425047",
             "host_organization_name": "University of Alberta",
             "host_organization_lineage": [
@@ -10491,6 +10401,7 @@
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
+          "listed_in": [],
           "host_organization": "https://openalex.org/I154425047",
           "host_organization_name": "University of Alberta",
           "host_organization_lineage": [
@@ -10519,8 +10430,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

@@ -633,11 +633,11 @@
         "value_usd": 3670
       },
       "apc_paid": null,
-      "fwci": 3.4075,
+      "fwci": 3.4,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.93611557,
+        "value": 0.93591472,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -855,8 +855,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -1166,11 +1166,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 20.447,
+      "fwci": 20.4434,
       "has_fulltext": false,
       "cited_by_count": 60,
       "citation_normalized_percentile": {
-        "value": 0.9988432,
+        "value": 0.99884332,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1259,84 +1259,64 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/wireline",
-          "display_name": "Wireline",
-          "score": 0.8947529196739197
+          "id": "https://openalex.org/keywords/drilling-data",
+          "display_name": "drilling data",
+          "score": 0.7950000166893005
         },
         {
-          "id": "https://openalex.org/keywords/drilling",
-          "display_name": "Drilling",
-          "score": 0.6551644802093506
+          "id": "https://openalex.org/keywords/density-log",
+          "display_name": "density log",
+          "score": 0.7310000061988831
         },
         {
-          "id": "https://openalex.org/keywords/convolutional-neural-network",
-          "display_name": "Convolutional neural network",
-          "score": 0.6252090334892273
+          "id": "https://openalex.org/keywords/porosity-logs",
+          "display_name": "porosity logs",
+          "score": 0.9919999837875366
         },
         {
-          "id": "https://openalex.org/keywords/workflow",
-          "display_name": "Workflow",
-          "score": 0.6076631546020508
+          "id": "https://openalex.org/keywords/sonic-logs",
+          "display_name": "sonic logs",
+          "score": 0.9980000257492065
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5934056639671326
+          "id": "https://openalex.org/keywords/temporal-convolutional-network",
+          "display_name": "temporal convolutional network",
+          "score": 0.9909999966621399
         },
         {
-          "id": "https://openalex.org/keywords/deep-learning",
-          "display_name": "Deep learning",
-          "score": 0.555189847946167
-        },
-        {
-          "id": "https://openalex.org/keywords/well-logging",
-          "display_name": "Well logging",
-          "score": 0.5316795706748962
-        },
-        {
-          "id": "https://openalex.org/keywords/artificial-neural-network",
-          "display_name": "Artificial neural network",
-          "score": 0.45492830872535706
+          "id": "https://openalex.org/keywords/data-augmentation",
+          "display_name": "data augmentation",
+          "score": 0.8550000190734863
         },
         {
           "id": "https://openalex.org/keywords/feature-engineering",
-          "display_name": "Feature engineering",
-          "score": 0.4444938898086548
+          "display_name": "feature engineering",
+          "score": 0.9599999785423279
         },
         {
-          "id": "https://openalex.org/keywords/correlation-coefficient",
-          "display_name": "Correlation coefficient",
-          "score": 0.41429659724235535
+          "id": "https://openalex.org/keywords/volve-field",
+          "display_name": "Volve field",
+          "score": 0.7680000066757202
         },
         {
-          "id": "https://openalex.org/keywords/artificial-intelligence",
-          "display_name": "Artificial intelligence",
-          "score": 0.32225245237350464
+          "id": "https://openalex.org/keywords/rock-classification",
+          "display_name": "rock classification",
+          "score": 0.5550000071525574
         },
         {
-          "id": "https://openalex.org/keywords/petroleum-engineering",
-          "display_name": "Petroleum engineering",
-          "score": 0.31977739930152893
+          "id": "https://openalex.org/keywords/cemented-sandstone",
+          "display_name": "cemented sandstone",
+          "score": 0.7509999871253967
         },
         {
-          "id": "https://openalex.org/keywords/machine-learning",
-          "display_name": "Machine learning",
-          "score": 0.316497802734375
+          "id": "https://openalex.org/keywords/unconsolidated-sand",
+          "display_name": "unconsolidated sand",
+          "score": 0.9079999923706055
         },
         {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.26690220832824707
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.14191707968711853
-        },
-        {
-          "id": "https://openalex.org/keywords/database",
-          "display_name": "Database",
-          "score": 0.0917176604270935
+          "id": "https://openalex.org/keywords/shale",
+          "display_name": "shale",
+          "score": 0.7480000257492065
         }
       ],
       "concepts": [
@@ -1614,8 +1594,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -2623,11 +2603,11 @@
         "currency": "USD",
         "value_usd": 3640
       },
-      "fwci": 1.5399,
+      "fwci": 1.5352,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.82607611,
+        "value": 0.82515912,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3043,8 +3023,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -4059,11 +4039,11 @@
         "value_usd": 2780
       },
       "apc_paid": null,
-      "fwci": 1.2043,
+      "fwci": 1.202,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.74652436,
+        "value": 0.74634831,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4376,8 +4356,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -4753,11 +4733,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8356,
+      "fwci": 0.8339,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.65057416,
+        "value": 0.64978277,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5005,8 +4985,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -6009,8 +5989,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6661,7 +6641,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.41643509,
+        "value": 0.41603811,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6767,8 +6747,8 @@
           "score": 0.9829999804496765
         },
         {
-          "id": "https://openalex.org/keywords/geomodeling",
-          "display_name": "geographic modeling",
+          "id": "https://openalex.org/keywords/geomodelling",
+          "display_name": "geomodelling",
           "score": 0.6980000138282776
         },
         {
@@ -6905,8 +6885,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -7161,7 +7141,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7385,7 +7365,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03489488,
+        "value": 0.03480764,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7594,8 +7574,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,

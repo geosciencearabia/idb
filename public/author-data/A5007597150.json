@@ -391,11 +391,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7302,
+      "fwci": 0.7286,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.61823435,
+        "value": 0.61767161,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -763,8 +763,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -1471,11 +1471,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7349,
+      "fwci": 1.731,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.85159138,
+        "value": 0.851246,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1756,9 +1756,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6899999976158142,
           "display_name": "Life below water",
-          "score": 0.6899999976158142
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -1766,8 +1766,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -2699,11 +2699,11 @@
         "currency": "USD",
         "value_usd": 5330
       },
-      "fwci": 1.8239,
+      "fwci": 1.8138,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.87129756,
+        "value": 0.87079642,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3014,9 +3014,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -3030,8 +3030,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 74,
@@ -3963,11 +3963,11 @@
         "currency": "CHF",
         "value_usd": 1267
       },
-      "fwci": 0.8137,
+      "fwci": 0.8138,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.65088907,
+        "value": 0.6509204,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4328,8 +4328,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3107735373.pdf",
@@ -5299,11 +5299,11 @@
         "currency": "CHF",
         "value_usd": 1267
       },
-      "fwci": 0.1357,
+      "fwci": 0.1356,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.36584238,
+        "value": 0.36614273,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5392,99 +5392,44 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8847494125366211
-        },
-        {
-          "id": "https://openalex.org/keywords/transtension",
-          "display_name": "Transtension",
-          "score": 0.8473913669586182
-        },
-        {
-          "id": "https://openalex.org/keywords/clockwise",
-          "display_name": "Clockwise",
-          "score": 0.7197726964950562
-        },
-        {
-          "id": "https://openalex.org/keywords/arch",
-          "display_name": "Arch",
-          "score": 0.6433262228965759
-        },
-        {
-          "id": "https://openalex.org/keywords/fold",
-          "display_name": "Fold (higher-order function)",
-          "score": 0.5783442258834839
-        },
-        {
-          "id": "https://openalex.org/keywords/outcrop",
-          "display_name": "Outcrop",
-          "score": 0.5341424345970154
-        },
-        {
-          "id": "https://openalex.org/keywords/seismology",
-          "display_name": "Seismology",
-          "score": 0.5215182900428772
-        },
-        {
-          "id": "https://openalex.org/keywords/neogene",
-          "display_name": "Neogene",
-          "score": 0.5200985670089722
+          "id": "https://openalex.org/keywords/oman-mountains",
+          "display_name": "Oman Mountains",
+          "score": 0.953000009059906
         },
         {
           "id": "https://openalex.org/keywords/fold-and-thrust-belt",
-          "display_name": "Fold and thrust belt",
-          "score": 0.49647194147109985
+          "display_name": "fold and thrust belt",
+          "score": 0.9509999752044678
         },
         {
-          "id": "https://openalex.org/keywords/thrust",
-          "display_name": "Thrust",
-          "score": 0.43176764249801636
+          "id": "https://openalex.org/keywords/neogene-deformation",
+          "display_name": "Neogene deformation",
+          "score": 0.6029999852180481
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.4202626347541809
+          "id": "https://openalex.org/keywords/paleostress-analysis",
+          "display_name": "paleostress analysis",
+          "score": 0.8169999718666077
         },
         {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.39225703477859497
+          "id": "https://openalex.org/keywords/fault-kinematics",
+          "display_name": "fault kinematics",
+          "score": 0.6919999718666077
         },
         {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.3678850531578064
+          "id": "https://openalex.org/keywords/thin-skinned-tectonics",
+          "display_name": "thin-skinned tectonics",
+          "score": 0.8560000061988831
         },
         {
-          "id": "https://openalex.org/keywords/rotation",
-          "display_name": "Rotation (mathematics)",
-          "score": 0.33786481618881226
+          "id": "https://openalex.org/keywords/thick-skinned-tectonics",
+          "display_name": "thick-skinned tectonics",
+          "score": 0.9909999966621399
         },
         {
-          "id": "https://openalex.org/keywords/geometry",
-          "display_name": "Geometry",
-          "score": 0.3168575167655945
-        },
-        {
-          "id": "https://openalex.org/keywords/foreland-basin",
-          "display_name": "Foreland basin",
-          "score": 0.2878120243549347
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.21062514185905457
-        },
-        {
-          "id": "https://openalex.org/keywords/rift",
-          "display_name": "Rift",
-          "score": 0.10810643434524536
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.07405996322631836
+          "id": "https://openalex.org/keywords/transtension",
+          "display_name": "transtension",
+          "score": 0.7329999804496765
         }
       ],
       "concepts": [
@@ -5778,8 +5723,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3010622588.pdf",
@@ -6844,11 +6789,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9652,
+      "fwci": 0.9619,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.79100758,
+        "value": 0.79060824,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7149,9 +7094,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -7165,8 +7110,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386162512.pdf",
@@ -7481,11 +7426,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.1386,
+      "fwci": 1.1358,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.8116474,
+        "value": 0.81119501,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7793,9 +7738,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.550000011920929,
           "display_name": "Sustainable cities and communities",
-          "score": 0.550000011920929
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "x_sdgs": [],
@@ -7803,8 +7748,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -8011,11 +7956,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.0772,
+      "fwci": 0.077,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.30184869,
+        "value": 0.30168956,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8251,9 +8196,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.47999998927116394,
           "display_name": "Life in Land",
-          "score": 0.47999998927116394
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "x_sdgs": [],
@@ -8261,8 +8206,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -8477,7 +8422,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.10229033,
+        "value": 0.10219632,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8779,9 +8724,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.46000000834465027,
           "display_name": "Life below water",
-          "score": 0.46000000834465027
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -8789,8 +8734,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -8895,7 +8840,10 @@
           "author": {
             "id": "https://openalex.org/A5091426946",
             "display_name": "Andrea Pezzotta",
-            "orcid": "https://orcid.org/0000-0002-1093-1576"
+            "orcid": "https://orcid.org/0000-0002-1093-1576",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1093-1576"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -8910,7 +8858,10 @@
           "author": {
             "id": "https://openalex.org/A5012088042",
             "display_name": "Alessia Marinoni",
-            "orcid": "https://orcid.org/0009-0000-5841-9830"
+            "orcid": "https://orcid.org/0009-0000-5841-9830",
+            "observed_orcids": [
+              "https://orcid.org/0009-0000-5841-9830"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -8925,7 +8876,10 @@
           "author": {
             "id": "https://openalex.org/A5007597150",
             "display_name": "Mohammed H. Al Kindi",
-            "orcid": "https://orcid.org/0000-0002-8456-158X"
+            "orcid": "https://orcid.org/0000-0002-8456-158X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8456-158X"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -8940,7 +8894,10 @@
           "author": {
             "id": "https://openalex.org/A5041575007",
             "display_name": "Davide Susini",
-            "orcid": "https://orcid.org/0000-0003-0526-9407"
+            "orcid": "https://orcid.org/0000-0003-0526-9407",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0526-9407"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -8955,7 +8912,8 @@
           "author": {
             "id": "https://openalex.org/A5134503469",
             "display_name": "Sam Turner",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -8970,7 +8928,10 @@
           "author": {
             "id": "https://openalex.org/A5037028344",
             "display_name": "Michele Zucali",
-            "orcid": "https://orcid.org/0000-0003-3600-7856"
+            "orcid": "https://orcid.org/0000-0003-3600-7856",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3600-7856"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -8985,7 +8946,8 @@
           "author": {
             "id": "https://openalex.org/A5134553090",
             "display_name": "Andrea Zerboni",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -9007,7 +8969,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.29852109,
+        "value": 0.27732865,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9093,34 +9055,64 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/landform",
-          "display_name": "Landform",
-          "score": 0.7071999907493591
+          "id": "https://openalex.org/keywords/geomorphological-mapping",
+          "display_name": "geomorphological mapping",
+          "score": 0.8889999985694885
         },
         {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.5572999715805054
+          "id": "https://openalex.org/keywords/semail-ophiolite",
+          "display_name": "Samail ophiolite",
+          "score": 0.9610000252723694
         },
         {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.5509999990463257
+          "id": "https://openalex.org/keywords/obduction",
+          "display_name": "obduction",
+          "score": 0.8510000109672546
         },
         {
-          "id": "https://openalex.org/keywords/dome",
-          "display_name": "Dome (geology)",
-          "score": 0.48019999265670776
+          "id": "https://openalex.org/keywords/late-cretaceous-tectonics",
+          "display_name": "Late Cretaceous tectonics",
+          "score": 0.8690000176429749
         },
         {
-          "id": "https://openalex.org/keywords/fluvial",
-          "display_name": "Fluvial",
-          "score": 0.39590001106262207
+          "id": "https://openalex.org/keywords/landscape-evolution",
+          "display_name": "landscape evolution",
+          "score": 0.906000018119812
         },
         {
-          "id": "https://openalex.org/keywords/cenozoic",
-          "display_name": "Cenozoic",
-          "score": 0.376800000667572
+          "id": "https://openalex.org/keywords/karstification",
+          "display_name": "karstification",
+          "score": 0.9039999842643738
+        },
+        {
+          "id": "https://openalex.org/keywords/fluvial-processes",
+          "display_name": "fluvial processes",
+          "score": 0.781000018119812
+        },
+        {
+          "id": "https://openalex.org/keywords/slope-processes",
+          "display_name": "slope processes",
+          "score": 0.9440000057220459
+        },
+        {
+          "id": "https://openalex.org/keywords/exogenous-processes",
+          "display_name": "exogenous processes",
+          "score": 0.6209999918937683
+        },
+        {
+          "id": "https://openalex.org/keywords/endogenous-processes",
+          "display_name": "endogenous processes",
+          "score": 0.6309999823570251
+        },
+        {
+          "id": "https://openalex.org/keywords/arid-regions",
+          "display_name": "arid regions",
+          "score": 0.6520000100135803
+        },
+        {
+          "id": "https://openalex.org/keywords/human-land-use-impacts",
+          "display_name": "human land use impacts",
+          "score": 0.4690000116825104
         }
       ],
       "concepts": [
@@ -9296,9 +9288,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.45413655042648315,
           "display_name": "Climate action",
-          "score": 0.45413655042648315
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -9306,8 +9298,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9741,7 +9733,10 @@
           "author": {
             "id": "https://openalex.org/A5091426946",
             "display_name": "Andrea Pezzotta",
-            "orcid": "https://orcid.org/0000-0002-1093-1576"
+            "orcid": "https://orcid.org/0000-0002-1093-1576",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1093-1576"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -9756,7 +9751,10 @@
           "author": {
             "id": "https://openalex.org/A5012088042",
             "display_name": "Alessia Marinoni",
-            "orcid": "https://orcid.org/0009-0000-5841-9830"
+            "orcid": "https://orcid.org/0009-0000-5841-9830",
+            "observed_orcids": [
+              "https://orcid.org/0009-0000-5841-9830"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -9771,7 +9769,10 @@
           "author": {
             "id": "https://openalex.org/A5007597150",
             "display_name": "Mohammed H. Al Kindi",
-            "orcid": "https://orcid.org/0000-0002-8456-158X"
+            "orcid": "https://orcid.org/0000-0002-8456-158X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8456-158X"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -9786,7 +9787,10 @@
           "author": {
             "id": "https://openalex.org/A5041575007",
             "display_name": "Davide Susini",
-            "orcid": "https://orcid.org/0000-0003-0526-9407"
+            "orcid": "https://orcid.org/0000-0003-0526-9407",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0526-9407"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -9801,7 +9805,8 @@
           "author": {
             "id": "https://openalex.org/A5134503469",
             "display_name": "Sam Turner",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -9816,7 +9821,10 @@
           "author": {
             "id": "https://openalex.org/A5037028344",
             "display_name": "Michele Zucali",
-            "orcid": "https://orcid.org/0000-0003-3600-7856"
+            "orcid": "https://orcid.org/0000-0003-3600-7856",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3600-7856"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -9831,7 +9839,8 @@
           "author": {
             "id": "https://openalex.org/A5134553090",
             "display_name": "Andrea Zerboni",
-            "orcid": null
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -9853,7 +9862,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.29979916,
+        "value": 0.27855888,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9939,34 +9948,64 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/landform",
-          "display_name": "Landform",
-          "score": 0.7071999907493591
+          "id": "https://openalex.org/keywords/geomorphological-mapping",
+          "display_name": "geomorphological mapping",
+          "score": 0.8889999985694885
         },
         {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.5572999715805054
+          "id": "https://openalex.org/keywords/semail-ophiolite",
+          "display_name": "Samail ophiolite",
+          "score": 0.9610000252723694
         },
         {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.5509999990463257
+          "id": "https://openalex.org/keywords/obduction",
+          "display_name": "obduction",
+          "score": 0.8510000109672546
         },
         {
-          "id": "https://openalex.org/keywords/dome",
-          "display_name": "Dome (geology)",
-          "score": 0.48019999265670776
+          "id": "https://openalex.org/keywords/late-cretaceous-tectonics",
+          "display_name": "Late Cretaceous tectonics",
+          "score": 0.8690000176429749
         },
         {
-          "id": "https://openalex.org/keywords/fluvial",
-          "display_name": "Fluvial",
-          "score": 0.39590001106262207
+          "id": "https://openalex.org/keywords/landscape-evolution",
+          "display_name": "landscape evolution",
+          "score": 0.906000018119812
         },
         {
-          "id": "https://openalex.org/keywords/cenozoic",
-          "display_name": "Cenozoic",
-          "score": 0.376800000667572
+          "id": "https://openalex.org/keywords/karstification",
+          "display_name": "karstification",
+          "score": 0.9039999842643738
+        },
+        {
+          "id": "https://openalex.org/keywords/fluvial-processes",
+          "display_name": "fluvial processes",
+          "score": 0.781000018119812
+        },
+        {
+          "id": "https://openalex.org/keywords/slope-processes",
+          "display_name": "slope processes",
+          "score": 0.9440000057220459
+        },
+        {
+          "id": "https://openalex.org/keywords/exogenous-processes",
+          "display_name": "exogenous processes",
+          "score": 0.6209999918937683
+        },
+        {
+          "id": "https://openalex.org/keywords/endogenous-processes",
+          "display_name": "endogenous processes",
+          "score": 0.6309999823570251
+        },
+        {
+          "id": "https://openalex.org/keywords/arid-regions",
+          "display_name": "arid regions",
+          "score": 0.6520000100135803
+        },
+        {
+          "id": "https://openalex.org/keywords/human-land-use-impacts",
+          "display_name": "human land use impacts",
+          "score": 0.4690000116825104
         }
       ],
       "concepts": [
@@ -10142,9 +10181,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.45413655042648315,
           "display_name": "Climate action",
-          "score": 0.45413655042648315
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "x_sdgs": [],
@@ -10152,8 +10191,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10804,16 +10843,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I78757542",
-              "display_name": "University of Newcastle Australia",
-              "ror": "https://ror.org/00eae9z71",
-              "country_code": "AU",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I78757542"
-              ]
-            },
-            {
               "id": "https://openalex.org/I84884186",
               "display_name": "Newcastle University",
               "ror": "https://ror.org/01kj2bm70",
@@ -10825,7 +10854,6 @@
             }
           ],
           "countries": [
-            "AU",
             "GB"
           ],
           "is_corresponding": false,
@@ -10838,7 +10866,6 @@
             {
               "raw_affiliation_string": "Newcastle University",
               "institution_ids": [
-                "https://openalex.org/I78757542",
                 "https://openalex.org/I84884186"
               ]
             }
@@ -10926,8 +10953,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 5,
-      "institutions_distinct_count": 8,
+      "countries_distinct_count": 4,
+      "institutions_distinct_count": 7,
       "corresponding_author_ids": [
         "https://openalex.org/A5091426946"
       ],
@@ -10948,7 +10975,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38227458,
+        "value": 0.3780293,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11034,24 +11061,64 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/dome",
-          "display_name": "Dome (geology)",
-          "score": 0.7348999977111816
+          "id": "https://openalex.org/keywords/geomorphological-mapping",
+          "display_name": "geomorphological mapping",
+          "score": 0.9120000004768372
         },
         {
-          "id": "https://openalex.org/keywords/surface",
-          "display_name": "Surface (topology)",
-          "score": 0.38960000872612
+          "id": "https://openalex.org/keywords/semail-ophiolite",
+          "display_name": "Samail ophiolite",
+          "score": 0.9580000042915344
         },
         {
-          "id": "https://openalex.org/keywords/geologic-map",
-          "display_name": "Geologic map",
-          "score": 0.24819999933242798
+          "id": "https://openalex.org/keywords/obduction",
+          "display_name": "obduction",
+          "score": 0.8690000176429749
         },
         {
-          "id": "https://openalex.org/keywords/landform",
-          "display_name": "Landform",
-          "score": 0.23749999701976776
+          "id": "https://openalex.org/keywords/late-cretaceous-tectonics",
+          "display_name": "Late Cretaceous tectonics",
+          "score": 0.8690000176429749
+        },
+        {
+          "id": "https://openalex.org/keywords/landscape-evolution",
+          "display_name": "landscape evolution",
+          "score": 0.8930000066757202
+        },
+        {
+          "id": "https://openalex.org/keywords/karstification",
+          "display_name": "karstification",
+          "score": 0.9200000166893005
+        },
+        {
+          "id": "https://openalex.org/keywords/fluvial-processes",
+          "display_name": "fluvial processes",
+          "score": 0.7760000228881836
+        },
+        {
+          "id": "https://openalex.org/keywords/slope-processes",
+          "display_name": "slope processes",
+          "score": 0.9359999895095825
+        },
+        {
+          "id": "https://openalex.org/keywords/exogenous-processes",
+          "display_name": "exogenous processes",
+          "score": 0.625
+        },
+        {
+          "id": "https://openalex.org/keywords/endogenous-processes",
+          "display_name": "endogenous processes",
+          "score": 0.6539999842643738
+        },
+        {
+          "id": "https://openalex.org/keywords/arid-regions",
+          "display_name": "arid regions",
+          "score": 0.6620000004768372
+        },
+        {
+          "id": "https://openalex.org/keywords/human-land-use-impacts",
+          "display_name": "human land use impacts",
+          "score": 0.47699999809265137
         }
       ],
       "concepts": [
@@ -11292,8 +11359,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7155534781.pdf",
@@ -11721,7 +11788,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2026-04-25T00:00:00"
     },
     {
@@ -11927,7 +11994,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3853798,
+        "value": 0.38271104,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12292,9 +12359,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5195932388305664,
           "display_name": "Life below water",
-          "score": 0.5195932388305664
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "x_sdgs": [],
@@ -12302,8 +12369,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -13317,8 +13384,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13920,39 +13987,54 @@
       "topics": [],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/documentation",
-          "display_name": "Documentation",
-          "score": 0.6154000163078308
+          "id": "https://openalex.org/keywords/early-human-settlement",
+          "display_name": "early human settlement",
+          "score": 0.8790000081062317
         },
         {
-          "id": "https://openalex.org/keywords/georeference",
-          "display_name": "Georeference",
-          "score": 0.5781999826431274
+          "id": "https://openalex.org/keywords/desert-settlement",
+          "display_name": "desert settlement",
+          "score": 0.6840000152587891
         },
         {
-          "id": "https://openalex.org/keywords/transect",
-          "display_name": "Transect",
-          "score": 0.5515000224113464
+          "id": "https://openalex.org/keywords/rub-al-khali",
+          "display_name": "Rub' al Khali",
+          "score": 0.9660000205039978
         },
         {
-          "id": "https://openalex.org/keywords/raw-data",
-          "display_name": "Raw data",
-          "score": 0.511900007724762
+          "id": "https://openalex.org/keywords/middle-paleolithic",
+          "display_name": "Middle Palaeolithic",
+          "score": 0.8240000009536743
         },
         {
-          "id": "https://openalex.org/keywords/workflow",
-          "display_name": "Workflow",
-          "score": 0.49889999628067017
+          "id": "https://openalex.org/keywords/middle-stone-age",
+          "display_name": "Middle Stone Age",
+          "score": 0.9980000257492065
         },
         {
-          "id": "https://openalex.org/keywords/settlement",
-          "display_name": "Settlement (finance)",
-          "score": 0.47699999809265137
+          "id": "https://openalex.org/keywords/geoarchaeology",
+          "display_name": "geoarchaeology",
+          "score": 0.8769999742507935
         },
         {
-          "id": "https://openalex.org/keywords/code",
-          "display_name": "Code (set theory)",
-          "score": 0.4481000006198883
+          "id": "https://openalex.org/keywords/arabian-peninsula",
+          "display_name": "Arabian Peninsula",
+          "score": 0.75
+        },
+        {
+          "id": "https://openalex.org/keywords/oman",
+          "display_name": "Oman",
+          "score": 0.7440000176429749
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrology",
+          "display_name": "hydrology",
+          "score": 0.5249999761581421
+        },
+        {
+          "id": "https://openalex.org/keywords/lithic-provenance",
+          "display_name": "lithic provenance",
+          "score": 0.43299999833106995
         }
       ],
       "concepts": [
@@ -14160,8 +14242,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

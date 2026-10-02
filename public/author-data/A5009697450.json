@@ -11,8 +11,8 @@
       "Muhammad Hammad Malik"
     ],
     "full_name": "Muhammad Hammad Malik",
-    "works_count": 20,
-    "cited_by_count": 156,
+    "works_count": 19,
+    "cited_by_count": 155,
     "summary_stats": {
       "2yr_mean_citedness": 2.4444444444444446,
       "h_index": 8,
@@ -150,7 +150,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000443,
+        "value": 0.0000448,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -167,7 +167,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000397,
+        "value": 0.0000402,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -184,7 +184,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000279,
+        "value": 0.0000283,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -201,7 +201,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000243,
+        "value": 0.0000245,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -218,7 +218,7 @@
       {
         "id": "https://openalex.org/T14160",
         "display_name": "Water management and technologies",
-        "value": 0.0000174,
+        "value": 0.0000178,
         "subfield": {
           "id": "https://openalex.org/subfields/1105",
           "display_name": "Ecology, Evolution, Behavior and Systematics"
@@ -280,9 +280,9 @@
       },
       {
         "year": 2022,
-        "works_count": 5,
+        "works_count": 4,
         "oa_works_count": 3,
-        "cited_by_count": 52
+        "cited_by_count": 51
       },
       {
         "year": 2023,
@@ -315,7 +315,7 @@
     ],
     "block_key": "m malik",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5009697450",
-    "updated_date": "2026-09-27T12:30:27",
+    "updated_date": "2026-09-30T12:28:01",
     "created_date": "2018-01-26T00:00:00"
   },
   "works": [
@@ -388,8 +388,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -765,11 +764,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 4.6401,
+      "fwci": 4.634,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.96653885,
+        "value": 0.9664716,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1065,8 +1064,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -1187,7 +1186,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1257,7 +1256,10 @@
           "author": {
             "id": "https://openalex.org/A5081623474",
             "display_name": "Arif Hussain",
-            "orcid": "https://orcid.org/0000-0001-7720-1933"
+            "orcid": "https://orcid.org/0000-0001-7720-1933",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7720-1933"
+            ]
           },
           "institutions": [
             {
@@ -1294,7 +1296,10 @@
           "author": {
             "id": "https://openalex.org/A5067104728",
             "display_name": "Muhammad Naveed Butt",
-            "orcid": "https://orcid.org/0000-0002-1699-7429"
+            "orcid": "https://orcid.org/0000-0002-1699-7429",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1699-7429"
+            ]
           },
           "institutions": [
             {
@@ -1331,7 +1336,10 @@
           "author": {
             "id": "https://openalex.org/A5055054874",
             "display_name": "Cornel Olariu",
-            "orcid": "https://orcid.org/0000-0003-2837-4664"
+            "orcid": "https://orcid.org/0000-0003-2837-4664",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2837-4664"
+            ]
           },
           "institutions": [
             {
@@ -1368,7 +1376,10 @@
           "author": {
             "id": "https://openalex.org/A5009697450",
             "display_name": "Muhammad Hammad Malik",
-            "orcid": "https://orcid.org/0000-0002-9451-0188"
+            "orcid": "https://orcid.org/0000-0002-9451-0188",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9451-0188"
+            ]
           },
           "institutions": [
             {
@@ -1405,7 +1416,10 @@
           "author": {
             "id": "https://openalex.org/A5059881838",
             "display_name": "Ardiansyah Koeshidayatullah",
-            "orcid": "https://orcid.org/0000-0001-7558-8783"
+            "orcid": "https://orcid.org/0000-0001-7558-8783",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7558-8783"
+            ]
           },
           "institutions": [
             {
@@ -1442,7 +1456,10 @@
           "author": {
             "id": "https://openalex.org/A5027197211",
             "display_name": "Abduljamiu Olalekan Amao",
-            "orcid": "https://orcid.org/0000-0001-8203-851X"
+            "orcid": "https://orcid.org/0000-0001-8203-851X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8203-851X"
+            ]
           },
           "institutions": [
             {
@@ -1479,7 +1496,10 @@
           "author": {
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid A. Al-Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "orcid": "https://orcid.org/0000-0002-4872-6201",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4872-6201"
+            ]
           },
           "institutions": [
             {
@@ -1527,16 +1547,16 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 3.1237,
+      "fwci": 3.1013,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.92666839,
+        "value": 0.92592785,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 97,
+        "min": 96,
         "max": 100
       },
       "biblio": {
@@ -1620,69 +1640,54 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/siliciclastic",
-          "display_name": "Siliciclastic",
-          "score": 0.9720736742019653
+          "id": "https://openalex.org/keywords/reservoir-quality",
+          "display_name": "reservoir quality",
+          "score": 0.9229999780654907
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.9015887975692749
+          "id": "https://openalex.org/keywords/red-sea-rift",
+          "display_name": "Red Sea rift",
+          "score": 0.6190000176429749
         },
         {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.8089003562927246
+          "id": "https://openalex.org/keywords/miocene",
+          "display_name": "Miocene",
+          "score": 0.8980000019073486
         },
         {
-          "id": "https://openalex.org/keywords/carbonate",
-          "display_name": "Carbonate",
-          "score": 0.6871125102043152
+          "id": "https://openalex.org/keywords/facies-associations",
+          "display_name": "facies associations",
+          "score": 0.7670000195503235
+        },
+        {
+          "id": "https://openalex.org/keywords/permeability",
+          "display_name": "permeability",
+          "score": 0.8659999966621399
+        },
+        {
+          "id": "https://openalex.org/keywords/porosity",
+          "display_name": "porosity",
+          "score": 0.9980000257492065
         },
         {
           "id": "https://openalex.org/keywords/diagenesis",
-          "display_name": "Diagenesis",
-          "score": 0.5899496078491211
+          "display_name": "diagenesis",
+          "score": 0.7689999938011169
         },
         {
-          "id": "https://openalex.org/keywords/carbonate-rock",
-          "display_name": "Carbonate rock",
-          "score": 0.5517024993896484
+          "id": "https://openalex.org/keywords/stratigraphic-traps",
+          "display_name": "stratigraphic traps",
+          "score": 0.9769999980926514
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.4548611342906952
+          "id": "https://openalex.org/keywords/alluvial-fans",
+          "display_name": "alluvial fans",
+          "score": 0.8289999961853027
         },
         {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.4547306001186371
-        },
-        {
-          "id": "https://openalex.org/keywords/petrography",
-          "display_name": "Petrography",
-          "score": 0.44222527742385864
-        },
-        {
-          "id": "https://openalex.org/keywords/petrology",
-          "display_name": "Petrology",
-          "score": 0.38089096546173096
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.35445162653923035
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.3091331124305725
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.10128650069236755
+          "id": "https://openalex.org/keywords/carbonate-ramp",
+          "display_name": "carbonate ramp",
+          "score": 0.7990000247955322
         }
       ],
       "concepts": [
@@ -1839,8 +1844,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -2065,8 +2070,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -2365,11 +2369,11 @@
         "currency": "USD",
         "value_usd": 3295
       },
-      "fwci": 1.9036,
+      "fwci": 1.9011,
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.83456033,
+        "value": 0.83424906,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2687,8 +2691,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -3676,7 +3680,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3870,8 +3874,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -4049,11 +4052,11 @@
         "currency": "USD",
         "value_usd": 2950
       },
-      "fwci": 0.9195,
+      "fwci": 0.9189,
       "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.67340732,
+        "value": 0.67335482,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4397,8 +4400,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -5302,7 +5305,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5658,8 +5661,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -5755,11 +5757,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 2.3164,
+      "fwci": 2.3113,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.86238532,
+        "value": 0.86207776,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5967,8 +5969,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8500000238418579,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -6152,7 +6154,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2024-07-27T00:00:00"
     },
     {
@@ -6297,11 +6299,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.6413,
+      "fwci": 2.6379,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.88856672,
+        "value": 0.88864877,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6589,8 +6591,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8700000047683716,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -7263,11 +7265,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2295,
+      "fwci": 2.2297,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.88598217,
+        "value": 0.88599537,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7497,8 +7499,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8999999761581421,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -7969,8 +7971,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -8301,11 +8302,11 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 6.9479,
+      "fwci": 6.7889,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.96169217,
+        "value": 0.96054711,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8394,59 +8395,84 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/siliciclastic",
-          "display_name": "Siliciclastic",
-          "score": 0.9267334938049316
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.9224262237548828
-        },
-        {
           "id": "https://openalex.org/keywords/diagenesis",
-          "display_name": "Diagenesis",
-          "score": 0.8753678202629089
+          "display_name": "diagenesis",
+          "score": 0.8949999809265137
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.8241552114486694
+          "id": "https://openalex.org/keywords/red-sea",
+          "display_name": "Red Sea",
+          "score": 0.8080000281333923
         },
         {
-          "id": "https://openalex.org/keywords/carbonate",
-          "display_name": "Carbonate",
-          "score": 0.6581602692604065
+          "id": "https://openalex.org/keywords/oligo-miocene",
+          "display_name": "Oligocene-Miocene",
+          "score": 0.9169999957084656
         },
         {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.5858839154243469
+          "id": "https://openalex.org/keywords/porosity-and-permeability",
+          "display_name": "porosity and permeability",
+          "score": 0.8349999785423279
         },
         {
-          "id": "https://openalex.org/keywords/rift",
-          "display_name": "Rift",
-          "score": 0.5696097612380981
+          "id": "https://openalex.org/keywords/stylolites",
+          "display_name": "stylolites",
+          "score": 0.6899999976158142
         },
         {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.4592217803001404
+          "id": "https://openalex.org/keywords/chemical-compaction",
+          "display_name": "chemical compaction",
+          "score": 0.7789999842643738
         },
         {
-          "id": "https://openalex.org/keywords/carbonate-rock",
-          "display_name": "Carbonate rock",
-          "score": 0.41817522048950195
+          "id": "https://openalex.org/keywords/dolomitization",
+          "display_name": "dolomitization",
+          "score": 0.6600000262260437
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.3207654058933258
+          "id": "https://openalex.org/keywords/micritization",
+          "display_name": "micritization",
+          "score": 0.7300000190734863
         },
         {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.11104267835617065
+          "id": "https://openalex.org/keywords/kaolinite-cementation",
+          "display_name": "kaolinite cementation",
+          "score": 0.6690000295639038
+        },
+        {
+          "id": "https://openalex.org/keywords/feldspar-dissolution",
+          "display_name": "feldspar dissolution",
+          "score": 0.7139999866485596
+        },
+        {
+          "id": "https://openalex.org/keywords/ooids",
+          "display_name": "ooids",
+          "score": 0.5040000081062317
+        },
+        {
+          "id": "https://openalex.org/keywords/microbialites",
+          "display_name": "microbialites",
+          "score": 0.8569999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/fluid-flow",
+          "display_name": "fluid flow",
+          "score": 0.6970000267028809
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-heterogeneity",
+          "display_name": "reservoir heterogeneity",
+          "score": 0.7080000042915344
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-exploration",
+          "display_name": "petroleum exploration",
+          "score": 0.7570000290870667
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-sequestration",
+          "display_name": "carbon sequestration",
+          "score": 0.9879999756813049
         }
       ],
       "concepts": [
@@ -8589,8 +8615,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8600000143051147,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -8704,7 +8730,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8915,11 +8941,11 @@
         "currency": "EUR",
         "value_usd": 841
       },
-      "fwci": 0.6342,
+      "fwci": 0.6344,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.75230097,
+        "value": 0.75238753,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9221,8 +9247,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7699999809265137,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -9654,11 +9680,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.4021,
+      "fwci": 3.3945,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.9017478,
+        "value": 0.90154059,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9932,8 +9958,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.47999998927116394,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -10742,11 +10768,11 @@
         "currency": "USD",
         "value_usd": 500
       },
-      "fwci": 0.8038,
+      "fwci": 0.8017,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.77153151,
+        "value": 0.77137302,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11150,8 +11176,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4699999988079071,
-          "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production"
         }
       ],
       "x_sdgs": [],
@@ -12019,11 +12045,11 @@
         "value_usd": 0
       },
       "apc_paid": null,
-      "fwci": 2.5171,
+      "fwci": 2.4108,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.82974588,
+        "value": 0.82410401,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12113,43 +12139,58 @@
       "keywords": [
         {
           "id": "https://openalex.org/keywords/pyrite",
-          "display_name": "Pyrite",
-          "score": 0.9079999923706055
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrogen-sulfide",
-          "display_name": "Hydrogen sulfide",
-          "score": 0.7432000041007996
+          "display_name": "pyrite",
+          "score": 0.7089999914169312
         },
         {
           "id": "https://openalex.org/keywords/calcite",
-          "display_name": "Calcite",
-          "score": 0.6450999975204468
+          "display_name": "calcite",
+          "score": 0.9330000281333923
         },
         {
-          "id": "https://openalex.org/keywords/hydrogen",
-          "display_name": "Hydrogen",
-          "score": 0.5738000273704529
+          "id": "https://openalex.org/keywords/hydrogen-sulfide-production",
+          "display_name": "hydrogen sulfide production",
+          "score": 0.8059999942779541
         },
         {
-          "id": "https://openalex.org/keywords/sulfur",
-          "display_name": "Sulfur",
-          "score": 0.5378999710083008
+          "id": "https://openalex.org/keywords/hydrogen-storage",
+          "display_name": "hydrogen storage",
+          "score": 0.7269999980926514
         },
         {
-          "id": "https://openalex.org/keywords/sulfide-minerals",
-          "display_name": "Sulfide minerals",
-          "score": 0.49900001287460327
+          "id": "https://openalex.org/keywords/underground-hydrogen-storage",
+          "display_name": "underground hydrogen storage",
+          "score": 0.7599999904632568
         },
         {
-          "id": "https://openalex.org/keywords/hydrocarbon",
-          "display_name": "Hydrocarbon",
-          "score": 0.48750001192092896
+          "id": "https://openalex.org/keywords/pyrite-oxidation",
+          "display_name": "pyrite oxidation",
+          "score": 0.746999979019165
         },
         {
-          "id": "https://openalex.org/keywords/sulfide",
-          "display_name": "Sulfide",
-          "score": 0.4032999873161316
+          "id": "https://openalex.org/keywords/pyrrhotite",
+          "display_name": "pyrrhotite",
+          "score": 0.718999981880188
+        },
+        {
+          "id": "https://openalex.org/keywords/brine",
+          "display_name": "brine",
+          "score": 0.6470000147819519
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-conditions",
+          "display_name": "reservoir conditions",
+          "score": 0.4790000021457672
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemical-interactions",
+          "display_name": "geochemical interactions",
+          "score": 0.6859999895095825
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrogen-storage-safety",
+          "display_name": "hydrogen storage safety",
+          "score": 0.5870000123977661
         }
       ],
       "concepts": [
@@ -13513,8 +13554,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -13614,11 +13654,11 @@
         "currency": "USD",
         "value_usd": 3600
       },
-      "fwci": 1.5857,
+      "fwci": 1.5777,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.82329613,
+        "value": 0.82243626,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13945,8 +13985,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -14737,7 +14777,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14802,8 +14842,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [],
@@ -15198,8 +15237,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -15227,7 +15266,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15474,8 +15513,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -15804,8 +15842,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4399999976158142,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "x_sdgs": [],
@@ -15833,7 +15871,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2023-12-06T00:00:00"
     },
     {
@@ -16040,8 +16078,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -16372,8 +16409,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -17213,7 +17250,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17381,8 +17418,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -17784,8 +17820,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -18575,7 +18611,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18807,7 +18843,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.27153617,
+        "value": 0.26163351,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18893,29 +18929,54 @@
       ],
       "keywords": [
         {
+          "id": "https://openalex.org/keywords/underground-hydrogen-storage",
+          "display_name": "underground hydrogen storage",
+          "score": 0.9929999709129333
+        },
+        {
           "id": "https://openalex.org/keywords/anhydrite",
-          "display_name": "Anhydrite",
-          "score": 0.7718999981880188
+          "display_name": "anhydrite",
+          "score": 0.9909999966621399
         },
         {
-          "id": "https://openalex.org/keywords/reactivity",
-          "display_name": "Reactivity (psychology)",
-          "score": 0.6549999713897705
+          "id": "https://openalex.org/keywords/hydrogen-reactivity",
+          "display_name": "hydrogen reactivity",
+          "score": 0.8019999861717224
         },
         {
-          "id": "https://openalex.org/keywords/hydrogen",
-          "display_name": "Hydrogen",
-          "score": 0.580299973487854
+          "id": "https://openalex.org/keywords/hydrogen-sulfide-formation",
+          "display_name": "hydrogen sulfide formation",
+          "score": 0.7160000205039978
         },
         {
-          "id": "https://openalex.org/keywords/hydrogen-storage",
-          "display_name": "Hydrogen storage",
-          "score": 0.5764999985694885
+          "id": "https://openalex.org/keywords/thermochemical-sulfate-reduction",
+          "display_name": "thermochemical sulfate reduction",
+          "score": 0.8389999866485596
         },
         {
-          "id": "https://openalex.org/keywords/hydrogen-sulfide",
-          "display_name": "Hydrogen sulfide",
-          "score": 0.3698999881744385
+          "id": "https://openalex.org/keywords/gypsum-hydration",
+          "display_name": "gypsum hydration",
+          "score": 0.8289999961853027
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-integrity",
+          "display_name": "reservoir integrity",
+          "score": 0.7689999938011169
+        },
+        {
+          "id": "https://openalex.org/keywords/brine",
+          "display_name": "brine",
+          "score": 0.414000004529953
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrogen-loss",
+          "display_name": "hydrogen loss",
+          "score": 0.4090000092983246
+        },
+        {
+          "id": "https://openalex.org/keywords/storage-site-selection",
+          "display_name": "storage site selection",
+          "score": 0.31700000166893005
         }
       ],
       "concepts": [
@@ -20005,8 +20066,7 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883",
-              "https://orcid.org/0000-0003-4264-7673"
+              "https://orcid.org/0000-0002-4637-9883"
             ]
           },
           "institutions": [
@@ -20046,8 +20106,7 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511",
             "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511",
-              "https://orcid.org/0000-0002-3186-4595"
+              "https://orcid.org/0009-0002-6134-0511"
             ]
           },
           "institutions": [
@@ -20238,7 +20297,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.34880069,
+        "value": 0.33548809,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20324,44 +20383,54 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/mineralization",
-          "display_name": "Mineralization (soil science)",
-          "score": 0.7156000137329102
+          "id": "https://openalex.org/keywords/barite-mineralization",
+          "display_name": "barite mineralization",
+          "score": 0.9710000157356262
         },
         {
-          "id": "https://openalex.org/keywords/petrography",
-          "display_name": "Petrography",
-          "score": 0.663100004196167
+          "id": "https://openalex.org/keywords/sediment-hosted-mineralization",
+          "display_name": "sediment-hosted mineralization",
+          "score": 0.7360000014305115
         },
         {
-          "id": "https://openalex.org/keywords/hydrothermal-circulation",
-          "display_name": "Hydrothermal circulation",
-          "score": 0.6585999727249146
+          "id": "https://openalex.org/keywords/red-sea-rift",
+          "display_name": "Red Sea rift",
+          "score": 0.9369999766349792
+        },
+        {
+          "id": "https://openalex.org/keywords/fault-controlled-fluid-migration",
+          "display_name": "fault-controlled fluid migration",
+          "score": 0.6499999761581421
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrothermal-fluids",
+          "display_name": "hydrothermal fluids",
+          "score": 0.9430000185966492
         },
         {
           "id": "https://openalex.org/keywords/fluid-inclusions",
-          "display_name": "Fluid inclusions",
-          "score": 0.6554999947547913
+          "display_name": "fluid inclusions",
+          "score": 0.8640000224113464
         },
         {
-          "id": "https://openalex.org/keywords/diagenesis",
-          "display_name": "Diagenesis",
-          "score": 0.6538000106811523
+          "id": "https://openalex.org/keywords/sulfur-isotopes",
+          "display_name": "sulfur isotopes",
+          "score": 0.7720000147819519
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.5019000172615051
+          "id": "https://openalex.org/keywords/fluid-rock-interaction",
+          "display_name": "fluid-rock interaction",
+          "score": 0.7910000085830688
         },
         {
-          "id": "https://openalex.org/keywords/overprinting",
-          "display_name": "Overprinting",
-          "score": 0.45100000500679016
+          "id": "https://openalex.org/keywords/evaporite-brines",
+          "display_name": "evaporite brines",
+          "score": 0.5600000023841858
         },
         {
-          "id": "https://openalex.org/keywords/ore-genesis",
-          "display_name": "Ore genesis",
-          "score": 0.40709999203681946
+          "id": "https://openalex.org/keywords/early-miocene",
+          "display_name": "Early Miocene",
+          "score": 0.49300000071525574
         }
       ],
       "concepts": [
@@ -20586,8 +20655,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8707032203674316,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "x_sdgs": [],
@@ -21642,7 +21711,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-01T08:54:57.152042",
       "created_date": "2026-05-31T00:00:00"
     }
   ]
