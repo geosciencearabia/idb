@@ -24,7 +24,7 @@
     ],
     "full_name": "Khalid A. Al-Ramadan",
     "works_count": 167,
-    "cited_by_count": 2554,
+    "cited_by_count": 2556,
     "summary_stats": {
       "2yr_mean_citedness": 3.5925925925925926,
       "h_index": 26,
@@ -207,7 +207,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002441,
+        "value": 0.0002439,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -241,7 +241,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0001519,
+        "value": 0.0001518,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -258,7 +258,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0001368,
+        "value": 0.0001367,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -275,7 +275,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0001279,
+        "value": 0.0001278,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -381,7 +381,7 @@
         "year": 2015,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 74
+        "cited_by_count": 76
       },
       {
         "year": 2016,
@@ -468,7 +468,7 @@
     ],
     "block_key": "k al-ramadan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5085007251",
-    "updated_date": "2026-10-01T12:39:15",
+    "updated_date": "2026-10-02T12:33:38",
     "created_date": "2019-08-13T00:00:00"
   },
   "works": [
@@ -170304,6 +170304,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I118564535",
+              "display_name": "University of Bern",
+              "ror": "https://ror.org/02k7v4d05",
+              "country_code": "CH",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I118564535"
+              ]
+            },
+            {
               "id": "https://openalex.org/I1299204452",
               "display_name": "Oeschger Centre for Climate Change Research",
               "ror": "https://ror.org/0329s8h62",
@@ -170327,6 +170337,7 @@
             {
               "raw_affiliation_string": "Institut für Geologie, Oeschger Centre for Climate Change Research, Universität Bern, Baltzerstrasse 1+3, CH3012 Bern, Switzerland",
               "institution_ids": [
+                "https://openalex.org/I118564535",
                 "https://openalex.org/I1299204452"
               ]
             }
@@ -170382,7 +170393,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5085007251"
       ],
@@ -170403,7 +170414,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.75112548,
+        "value": 0.73840959,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -170685,13 +170696,7 @@
         "raw_source_name": "Chemical Geology",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [
-        {
-          "score": 0.4896319806575775,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
-        }
-      ],
+      "sustainable_development_goals": [],
       "x_sdgs": [],
       "study_designs": [],
       "awards": [],
@@ -171496,7 +171501,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-03T13:16:28.481748",
       "created_date": "2026-09-25T00:00:00"
     },
     {
