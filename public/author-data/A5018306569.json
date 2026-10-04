@@ -730,11 +730,11 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 3.9211,
+      "fwci": 3.9338,
       "has_fulltext": true,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.95359178,
+        "value": 0.95367335,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1230,14 +1230,14 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.4399999976158142,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.4399999976158142
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [
         {
@@ -1287,8 +1287,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4388818709.pdf",
@@ -2103,11 +2103,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 5.7097,
+      "fwci": 5.7377,
       "has_fulltext": false,
       "cited_by_count": 44,
       "citation_normalized_percentile": {
-        "value": 0.95593142,
+        "value": 0.95614789,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2473,14 +2473,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.75,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.75
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -2501,8 +2501,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -3129,11 +3129,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 2.7822,
+      "fwci": 2.7898,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.90497875,
+        "value": 0.90513047,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3437,14 +3437,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.5199999809265137,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5199999809265137
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -3460,8 +3460,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -3948,11 +3948,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8905,
+      "fwci": 1.8922,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.83367938,
+        "value": 0.83389153,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4279,20 +4279,20 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.4099999964237213,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life on land",
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.4099999964237213
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -5199,11 +5199,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 1.841,
+      "fwci": 1.8458,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.84434135,
+        "value": 0.84471462,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5510,14 +5510,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -5528,8 +5528,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 96,
@@ -6124,11 +6124,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 0.893,
+      "fwci": 0.8991,
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.68232429,
+        "value": 0.684516,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6529,18 +6529,29 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459
+        },
+        {
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651
         }
       ],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
+        }
+      ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -7000,11 +7011,11 @@
         "currency": "USD",
         "value_usd": 2990
       },
-      "fwci": 7.6157,
+      "fwci": 7.6352,
       "has_fulltext": true,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.97100703,
+        "value": 0.97101367,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7384,12 +7395,18 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.821399986743927
         }
       ],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
+        }
+      ],
       "study_designs": [],
       "awards": [
         {
@@ -7427,8 +7444,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4281644459.pdf",
@@ -8348,11 +8365,11 @@
         "currency": "USD",
         "value_usd": 2290
       },
-      "fwci": 3.2256,
+      "fwci": 3.2367,
       "has_fulltext": true,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.92779678,
+        "value": 0.92785732,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8946,7 +8963,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [
         {
@@ -8970,8 +8987,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4391640940.pdf",
@@ -9853,11 +9870,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 2.0517,
+      "fwci": 2.0573,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.84889672,
+        "value": 0.84935389,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10153,14 +10170,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.41999998688697815,
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.41999998688697815
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [
         {
@@ -10179,8 +10196,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 97,
@@ -10754,11 +10771,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 8.1765,
+      "fwci": 8.1802,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.97340627,
+        "value": 0.97343413,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11122,14 +11139,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -11140,8 +11157,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 124,
@@ -11639,11 +11656,11 @@
         "value_usd": 3250
       },
       "apc_paid": null,
-      "fwci": 1.2991,
+      "fwci": 1.3031,
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.75896716,
+        "value": 0.75972927,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11994,12 +12011,18 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.46149998903274536
         }
       ],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
+        }
+      ],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -12015,8 +12038,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4288040109.pdf",
@@ -12862,16 +12885,16 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.6081,
+      "fwci": 1.6135,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.80405967,
+        "value": 0.80467537,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 91,
         "max": 99
       },
       "biblio": {
@@ -13166,7 +13189,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [
         {
@@ -13199,8 +13222,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -13689,11 +13712,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9354,
+      "fwci": 1.942,
       "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.83869077,
+        "value": 0.83926231,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14075,20 +14098,20 @@
         "raw_source_name": "Geology",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.7699999809265137,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7699999809265137
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4393031684.pdf",
@@ -14966,11 +14989,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 1.7741,
+      "fwci": 1.7802,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.83246214,
+        "value": 0.8330017,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15434,7 +15457,7 @@
         "raw_type": "Article"
       },
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [
         {
@@ -15477,8 +15500,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 96,
@@ -15897,11 +15920,11 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 6.7889,
+      "fwci": 6.776,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.96217658,
+        "value": 0.96185273,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16237,12 +16260,18 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5769000053405762
         }
       ],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8199999928474426
+        }
+      ],
       "study_designs": [],
       "awards": [
         {
@@ -16261,8 +16290,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 167,
@@ -16814,11 +16843,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 6.7889,
+      "fwci": 6.776,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.96262098,
+        "value": 0.96229573,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17103,14 +17132,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [
         {
@@ -17148,8 +17177,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -17793,11 +17822,11 @@
         "currency": "USD",
         "value_usd": 3400
       },
-      "fwci": 7.8884,
+      "fwci": 7.8649,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.97303116,
+        "value": 0.97280677,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18247,13 +18276,13 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -19532,11 +19561,11 @@
         "value_usd": 3500
       },
       "apc_paid": null,
-      "fwci": 2.6379,
+      "fwci": 2.6452,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.88785259,
+        "value": 0.88812061,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19812,20 +19841,20 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -20762,11 +20791,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 1.6184,
+      "fwci": 1.6219,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.79815982,
+        "value": 0.79859287,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21085,12 +21114,18 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.46149998903274536
         }
       ],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
+        }
+      ],
       "study_designs": [],
       "awards": [
         {
@@ -21121,8 +21156,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 74,
@@ -21616,11 +21651,11 @@
         "value_usd": 3140
       },
       "apc_paid": null,
-      "fwci": 7.6375,
+      "fwci": 7.623,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.96617618,
+        "value": 0.9659874,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -21889,14 +21924,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [
         {
@@ -21915,8 +21950,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 92,
@@ -22287,16 +22322,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 10.8668,
+      "fwci": 10.8152,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.98827751,
+        "value": 0.98812121,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 91,
         "max": 98
       },
       "biblio": {
@@ -22473,18 +22508,29 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.9853000044822693
+        },
+        {
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4399999976158142
         }
       ],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [
+        {
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5699999928474426
+        }
+      ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -23779,11 +23825,11 @@
         "currency": "USD",
         "value_usd": 4050
       },
-      "fwci": 0.433,
+      "fwci": 0.4344,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.51025082,
+        "value": 0.51180755,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24145,12 +24191,18 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651
         }
       ],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
+        }
+      ],
       "study_designs": [],
       "awards": [
         {
@@ -24176,8 +24228,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 115,
@@ -25431,11 +25483,11 @@
         "currency": "CHF",
         "value_usd": 2447
       },
-      "fwci": 0.5941,
+      "fwci": 0.596,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.55378089,
+        "value": 0.55589439,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25885,12 +25937,18 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4399999976158142
         }
       ],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8299999833106995
+        }
+      ],
       "study_designs": [],
       "awards": [
         {
@@ -25914,8 +25972,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4377293771.pdf",
@@ -26695,11 +26753,11 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 2.6948,
+      "fwci": 2.7009,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.87589664,
+        "value": 0.87613461,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26961,14 +27019,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.7799999713897705,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.7799999713897705
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -26979,8 +27037,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 105,
@@ -27334,11 +27392,11 @@
         "currency": "USD",
         "value_usd": 3640
       },
-      "fwci": 5.0101,
+      "fwci": 5.0315,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.93221772,
+        "value": 0.93199894,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -27634,8 +27692,14 @@
         "raw_source_name": "Geoenergy Science and Engineering",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.9786999821662903
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [
         {
@@ -27654,8 +27718,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -28694,11 +28758,11 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 16.2643,
+      "fwci": 16.0607,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.98097354,
+        "value": 0.98047036,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -29093,18 +29157,24 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4302540421485901,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.8234000205993652
         }
       ],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.4302540421485901
+        }
+      ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 101,
@@ -29954,16 +30024,16 @@
         "currency": "CHF",
         "value_usd": 2160
       },
-      "fwci": 2.0954,
+      "fwci": 2.1012,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.85385422,
+        "value": 0.85421781,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 91,
         "max": 96
       },
       "biblio": {
@@ -30388,20 +30458,20 @@
         "raw_source_name": "Water",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3182053178.pdf"
@@ -31252,11 +31322,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 0.7129,
+      "fwci": 0.7152,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.5887915,
+        "value": 0.59042972,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31627,14 +31697,14 @@
         "raw_source_name": "Alabere, A, Alsuwaidi, M, Hassan, A A, Mansurbeg, H, Morad, S, Al-Shalabi, E W & Jallad, O A 2023, 'Controls on the formation and evolution of multimodal pore network in lower cretaceous limestone reservoir, Abu Dhabi, United Arab Emirates', Marine and Petroleum Geology, vol. 152, 106222. https://doi.org/10.1016/j.marpetgeo.2023.106222",
         "raw_type": "info:eu-repo/semantics/article"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [
         {
@@ -31679,8 +31749,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 120,
@@ -32080,7 +32150,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.23708282,
+        "value": 0.23717711,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32288,13 +32358,13 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -33439,11 +33509,11 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 2.5458,
+      "fwci": 2.541,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.89280071,
+        "value": 0.89259697,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33759,7 +33829,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [
         {
@@ -33807,8 +33877,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 92,
@@ -34246,16 +34316,16 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 3.1553,
+      "fwci": 3.146,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.89014164,
+        "value": 0.88981664,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 91,
         "max": 96
       },
       "biblio": {
@@ -34503,14 +34573,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.41999998688697815,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.41999998688697815
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -34521,8 +34591,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 130,
@@ -34882,11 +34952,11 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 1.5777,
+      "fwci": 1.573,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.83121813,
+        "value": 0.83074753,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35136,12 +35206,23 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 1
+        },
+        {
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651
         }
       ],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716
+        }
+      ],
       "study_designs": [],
       "awards": [
         {
@@ -35160,8 +35241,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 107,
@@ -35562,11 +35643,11 @@
         "currency": "USD",
         "value_usd": 3160
       },
-      "fwci": 8.1321,
+      "fwci": 8.0304,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.93750434,
+        "value": 0.93687251,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -35977,12 +36058,18 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4364251494407654,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.821399986743927
         }
       ],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.4364251494407654
+        }
+      ],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -35993,8 +36080,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -37020,11 +37107,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9205,
+      "fwci": 1.9103,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.84608873,
+        "value": 0.84562562,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37500,14 +37587,14 @@
         "raw_source_name": "Petroleum Geoscience",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.8797712922096252,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8797712922096252
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -37518,8 +37605,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -38160,11 +38247,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2442,
+      "fwci": 0.2449,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.6004821,
+        "value": 0.60149092,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38461,20 +38548,20 @@
         "raw_source_name": "",
         "raw_type": "Text"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.7699999809265137,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7699999809265137
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2890054025.pdf",
@@ -38809,7 +38896,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.17089922,
+        "value": 0.17084064,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39199,7 +39286,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -39210,8 +39297,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -40254,11 +40341,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.911,
+      "fwci": 0.9108,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.76956748,
+        "value": 0.76906181,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40618,13 +40705,13 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -41881,20 +41968,20 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.46000000834465027,
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.46000000834465027
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43035,20 +43122,20 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43983,20 +44070,20 @@
         "raw_source_name": null,
         "raw_type": "peer-review"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.6700000166893005,
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.6700000166893005
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -44529,20 +44616,20 @@
         "raw_source_name": null,
         "raw_type": "peer-review"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.6700000166893005,
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.6700000166893005
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -45376,20 +45463,20 @@
         "raw_source_name": "Research Square",
         "raw_type": "posted-content"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -46120,14 +46207,14 @@
         "raw_source_name": "Research Square",
         "raw_type": "posted-content"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.44999998807907104,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.44999998807907104
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [
         {
@@ -46177,8 +46264,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386256654.pdf",
@@ -47089,18 +47176,24 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5769000053405762
         }
       ],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
+        }
+      ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -48440,20 +48533,20 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -49348,7 +49441,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.36004616,
+        "value": 0.35919467,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49700,13 +49793,13 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -51027,7 +51120,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.1724453,
+        "value": 0.17100424,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -51443,7 +51536,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -51454,8 +51547,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 95,
@@ -51699,7 +51792,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38686131,
+        "value": 0.38701518,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -51911,14 +52004,20 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.821399986743927
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -52159,7 +52258,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.31084337,
+        "value": 0.31025416,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -52372,13 +52471,13 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -53207,20 +53306,20 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "score": 0.8764263391494751,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8764263391494751
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

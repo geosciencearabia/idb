@@ -633,11 +633,11 @@
         "value_usd": 3670
       },
       "apc_paid": null,
-      "fwci": 3.4,
+      "fwci": 3.4486,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.93591472,
+        "value": 0.93672085,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -845,12 +845,18 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/10",
+          "score": 0.685699999332428,
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
+        }
+      ],
+      "sustainable_development_goals_aurora": [
+        {
           "score": 0.5600000023841858,
+          "id": "https://metadata.un.org/sdg/10",
           "display_name": "Reduced inequalities"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -1166,11 +1172,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 20.4434,
+      "fwci": 20.4316,
       "has_fulltext": false,
       "cited_by_count": 60,
       "citation_normalized_percentile": {
-        "value": 0.99884332,
+        "value": 0.99884174,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1582,14 +1588,14 @@
         "raw_source_name": null,
         "raw_type": "text"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7099999785423279,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -2396,11 +2402,11 @@
         "value_usd": 2780
       },
       "apc_paid": null,
-      "fwci": 1.4038,
+      "fwci": 1.4197,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.77478992,
+        "value": 0.77708507,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2695,14 +2701,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/8",
           "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/8",
           "display_name": "Decent work and economic growth"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -3168,11 +3174,11 @@
         "currency": "USD",
         "value_usd": 3640
       },
-      "fwci": 1.5352,
+      "fwci": 1.5391,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.82515912,
+        "value": 0.82583436,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3572,7 +3578,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -4733,17 +4739,17 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8339,
+      "fwci": 1.2736,
       "has_fulltext": false,
-      "cited_by_count": 2,
+      "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.64978277,
+        "value": 0.74287439,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
-        "max": 96
+        "min": 91,
+        "max": 97
       },
       "biblio": {
         "volume": "44",
@@ -4980,7 +4986,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -5463,14 +5469,14 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-04T09:36:47.201465",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5979,12 +5985,18 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/10",
+          "score": 0.685699999332428,
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
+        }
+      ],
+      "sustainable_development_goals_aurora": [
+        {
           "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/10",
           "display_name": "Reduced inequalities"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -6641,7 +6653,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.41603811,
+        "value": 0.4158062,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6880,7 +6892,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -7365,7 +7377,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03480764,
+        "value": 0.03483195,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7569,7 +7581,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],

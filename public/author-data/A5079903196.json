@@ -824,11 +824,11 @@
         "currency": "USD",
         "value_usd": 2760
       },
-      "fwci": 13.6643,
+      "fwci": 13.7088,
       "has_fulltext": true,
       "cited_by_count": 115,
       "citation_normalized_percentile": {
-        "value": 0.9985178,
+        "value": 0.99852609,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1196,12 +1196,23 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.9090999960899353,
+          "display_name": "Affordable and clean energy"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
+        }
+      ],
+      "sustainable_development_goals_aurora": [
+        {
           "id": "https://metadata.un.org/sdg/9",
           "score": 0.41999998688697815,
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -2411,11 +2422,11 @@
         "currency": "USD",
         "value_usd": 4200
       },
-      "fwci": 8.3866,
+      "fwci": 8.4154,
       "has_fulltext": false,
       "cited_by_count": 52,
       "citation_normalized_percentile": {
-        "value": 0.99240352,
+        "value": 0.99233196,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2791,8 +2802,14 @@
         "raw_source_name": "Fuel",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.75,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -3816,11 +3833,11 @@
         "value_usd": 2760
       },
       "apc_paid": null,
-      "fwci": 4.9832,
+      "fwci": 5.0179,
       "has_fulltext": false,
       "cited_by_count": 51,
       "citation_normalized_percentile": {
-        "value": 0.96280144,
+        "value": 0.96294413,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4174,12 +4191,23 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.9853000044822693,
+          "display_name": "Affordable and clean energy"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
+        }
+      ],
+      "sustainable_development_goals_aurora": [
+        {
           "id": "https://metadata.un.org/sdg/9",
           "score": 0.49000000953674316,
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -4746,11 +4774,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 2.527,
+      "fwci": 2.5355,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.89710469,
+        "value": 0.89743191,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5200,14 +5228,14 @@
         "raw_source_name": "",
         "raw_type": "Article"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
           "display_name": "Life below water"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -5605,11 +5633,11 @@
         "currency": "USD",
         "value_usd": 4270
       },
-      "fwci": 3.2256,
+      "fwci": 3.2367,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.9313874,
+        "value": 0.93152148,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5934,14 +5962,14 @@
         "raw_source_name": "International Journal of Coal Geology",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
           "score": 0.49000000953674316,
           "display_name": "Life below water"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -7241,11 +7269,11 @@
         "currency": "USD",
         "value_usd": 4500
       },
-      "fwci": 3.2256,
+      "fwci": 3.2367,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.9327064,
+        "value": 0.93283184,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7673,8 +7701,19 @@
         "raw_source_name": "Energy &amp; Fuels",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.75,
+          "display_name": "Affordable and clean energy"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.75,
+          "display_name": "Climate action"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -8688,11 +8727,11 @@
         "value_usd": 3380
       },
       "apc_paid": null,
-      "fwci": 2.4439,
+      "fwci": 2.4557,
       "has_fulltext": false,
       "cited_by_count": 63,
       "citation_normalized_percentile": {
-        "value": 0.8755018,
+        "value": 0.87605782,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8955,7 +8994,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -9365,11 +9404,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.6974,
+      "fwci": 2.7031,
       "has_fulltext": false,
       "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.89521602,
+        "value": 0.89540515,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9630,14 +9669,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
           "score": 0.6899999976158142,
           "display_name": "Life below water"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -10515,11 +10554,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.502,
+      "fwci": 1.5118,
       "has_fulltext": false,
       "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.78596801,
+        "value": 0.78742837,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10754,7 +10793,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -11720,11 +11759,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3117,
+      "fwci": 2.3299,
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.87625512,
+        "value": 0.87709899,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12107,14 +12146,14 @@
         "raw_source_name": "Petroleum Geoscience",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/15",
           "score": 0.4699999988079071,
-          "display_name": "Life in Land"
+          "display_name": "Life on land"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [
         {
@@ -13175,11 +13214,11 @@
         "currency": "USD",
         "value_usd": 4050
       },
-      "fwci": 2.3764,
+      "fwci": 2.3841,
       "has_fulltext": true,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.87897064,
+        "value": 0.87918986,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13527,14 +13566,14 @@
         "raw_source_name": "Sedimentology",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
           "score": 0.6299999952316284,
           "display_name": "Life below water"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -14591,11 +14630,11 @@
         "value_usd": 5000
       },
       "apc_paid": null,
-      "fwci": 1.6487,
+      "fwci": 1.6724,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.81945991,
+        "value": 0.82219864,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14920,8 +14959,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.821399986743927,
+          "display_name": "Climate action"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -15931,11 +15976,11 @@
         "currency": "USD",
         "value_usd": 1690
       },
-      "fwci": 3.4522,
+      "fwci": 3.4995,
       "has_fulltext": true,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.92867435,
+        "value": 0.92971435,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16283,8 +16328,14 @@
         "raw_source_name": "Geothermal Energy",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -17221,11 +17272,11 @@
         "value_usd": 4200
       },
       "apc_paid": null,
-      "fwci": 2.903,
+      "fwci": 2.913,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.91780655,
+        "value": 0.91790827,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17504,8 +17555,19 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.878000020980835,
+          "display_name": "Affordable and clean energy"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.46149998903274536,
+          "display_name": "Climate action"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -17759,11 +17821,11 @@
         "currency": "USD",
         "value_usd": 3530
       },
-      "fwci": 0.7998,
+      "fwci": 0.8072,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.64235599,
+        "value": 0.64561404,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18053,8 +18115,14 @@
         "raw_source_name": "Geoenergy Science and Engineering",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.75,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [
         {
@@ -19410,11 +19478,11 @@
         "value_usd": 4500
       },
       "apc_paid": null,
-      "fwci": 5.837,
+      "fwci": 5.9447,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.97072616,
+        "value": 0.97122786,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19665,8 +19733,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8485000133514404,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -20785,11 +20859,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 10.7721,
+      "fwci": 10.7654,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.98942619,
+        "value": 0.98942321,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -21181,14 +21255,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/15",
           "score": 0.4300000071525574,
-          "display_name": "Life in Land"
+          "display_name": "Life on land"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -22466,11 +22540,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 3.5704,
+      "fwci": 3.5913,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.94303968,
+        "value": 0.94283295,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -22746,11 +22820,17 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.75,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.6899999976158142,
           "display_name": "Affordable and clean energy"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -23102,11 +23182,11 @@
         "currency": "USD",
         "value_usd": 2590
       },
-      "fwci": 2.6486,
+      "fwci": 2.6711,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.89805285,
+        "value": 0.89877764,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23536,12 +23616,18 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.9853000044822693,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [
+        {
           "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563,
           "display_name": "Life below water"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [
         {
@@ -24447,11 +24533,11 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 4.215,
+      "fwci": 4.2131,
       "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.95309938,
+        "value": 0.95290749,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24831,14 +24917,14 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
           "display_name": "Life below water"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -26099,11 +26185,11 @@
         "value_usd": 4270
       },
       "apc_paid": null,
-      "fwci": 1.2898,
+      "fwci": 1.2947,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.73782214,
+        "value": 0.73880126,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26397,7 +26483,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [
         {
@@ -26900,11 +26986,11 @@
         "currency": "USD",
         "value_usd": 3690
       },
-      "fwci": 1.2902,
+      "fwci": 1.2947,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.7494382,
+        "value": 0.75030332,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27286,14 +27372,14 @@
         "raw_source_name": "International Journal of Earth Sciences",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -28637,11 +28723,11 @@
         "value_usd": 2850
       },
       "apc_paid": null,
-      "fwci": 1.6299,
+      "fwci": 1.6437,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.81849791,
+        "value": 0.82049169,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28864,12 +28950,18 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.7778000235557556,
+          "display_name": "Clean water and sanitation"
+        }
+      ],
+      "sustainable_development_goals_aurora": [
+        {
           "id": "https://metadata.un.org/sdg/13",
           "score": 0.46000000834465027,
           "display_name": "Climate action"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -29256,11 +29348,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 10.8153,
+      "fwci": 10.772,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.99033401,
+        "value": 0.99032882,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -29593,12 +29685,18 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.75,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [
+        {
           "id": "https://metadata.un.org/sdg/9",
           "score": 0.46000000834465027,
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -30625,11 +30723,11 @@
         "currency": "CHF",
         "value_usd": 3801
       },
-      "fwci": 2.1075,
+      "fwci": 2.1066,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.86984023,
+        "value": 0.86940733,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30953,7 +31051,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -31854,11 +31952,11 @@
         "value_usd": 4500
       },
       "apc_paid": null,
-      "fwci": 1.7562,
+      "fwci": 1.7555,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.82047978,
+        "value": 0.82040598,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32123,8 +32221,24 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.9853000044822693,
+          "display_name": "Affordable and clean energy"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.4943999946117401,
+          "display_name": "Industry, innovation and infrastructure"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -33027,16 +33141,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7562,
+      "fwci": 1.7555,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.82757813,
+        "value": 0.8274361,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 91,
         "max": 99
       },
       "biblio": {
@@ -33349,14 +33463,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/15",
           "score": 0.4399999976158142,
-          "display_name": "Life in Land"
+          "display_name": "Life on land"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [
         {
@@ -34371,11 +34485,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 1.6081,
+      "fwci": 1.6135,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.79714627,
+        "value": 0.79781506,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34750,14 +34864,14 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
           "score": 0.5099999904632568,
           "display_name": "Life below water"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -35717,11 +35831,11 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 1.4262,
+      "fwci": 1.4383,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.78748261,
+        "value": 0.78931465,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36104,8 +36218,14 @@
         "raw_source_name": "ACS Omega",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [
         {
@@ -37190,11 +37310,11 @@
         "currency": "USD",
         "value_usd": 1260
       },
-      "fwci": 4.0422,
+      "fwci": 4.0513,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.93423213,
+        "value": 0.93393561,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -37577,12 +37697,18 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [
+        {
           "id": "https://metadata.un.org/sdg/13",
           "score": 0.44999998807907104,
           "display_name": "Climate action"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [
         {
@@ -38431,11 +38557,11 @@
         "currency": "USD",
         "value_usd": 2460
       },
-      "fwci": 5.4414,
+      "fwci": 5.4549,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.95120267,
+        "value": 0.95128909,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -38780,14 +38906,14 @@
         "raw_source_name": "Journal of Asian Earth Sciences: X",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
           "score": 0.6499999761581421,
           "display_name": "Climate action"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [
         {
@@ -39619,16 +39745,16 @@
         "value_usd": 4460
       },
       "apc_paid": null,
-      "fwci": 0.5957,
+      "fwci": 0.5981,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.58386711,
+        "value": 0.58632025,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 91,
         "max": 98
       },
       "biblio": {
@@ -39888,8 +40014,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.875,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [
         {
@@ -40436,11 +40568,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.3783,
+      "fwci": 8.3731,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.97998026,
+        "value": 0.97997462,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -40818,14 +40950,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
           "score": 0.6000000238418579,
           "display_name": "Life below water"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -42051,11 +42183,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 9.0128,
+      "fwci": 8.9767,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.98582322,
+        "value": 0.9858156,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -42298,7 +42430,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -42931,11 +43063,11 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 0.9264,
+      "fwci": 0.9465,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.69130123,
+        "value": 0.69829773,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43296,8 +43428,19 @@
         "raw_source_name": "ACS Omega",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/12",
+          "score": 0.5171999931335449,
+          "display_name": "Responsible consumption and production"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -44164,11 +44307,11 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 0.7025,
+      "fwci": 0.7022,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.58607037,
+        "value": 0.58687555,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44598,14 +44741,14 @@
         "raw_source_name": "ACS Omega",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
           "score": 0.49000000953674316,
           "display_name": "Life below water"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [
         {
@@ -45372,11 +45515,11 @@
         "value_usd": 1700
       },
       "apc_paid": null,
-      "fwci": 0.6174,
+      "fwci": 0.6227,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.6233936,
+        "value": 0.62748309,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45651,8 +45794,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -46053,11 +46202,11 @@
         "currency": "USD",
         "value_usd": 2460
       },
-      "fwci": 4.5912,
+      "fwci": 4.5594,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.93532772,
+        "value": 0.93461453,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -46556,7 +46705,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -47554,11 +47703,11 @@
         "currency": "USD",
         "value_usd": 1260
       },
-      "fwci": 16.2643,
+      "fwci": 16.0607,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.98430665,
+        "value": 0.98383991,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -47920,7 +48069,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -48944,11 +49093,11 @@
         "value_usd": 4330
       },
       "apc_paid": null,
-      "fwci": 3.1608,
+      "fwci": 3.151,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.90623595,
+        "value": 0.9057762,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -49245,8 +49394,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.878000020980835,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -49519,11 +49674,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.2442,
+      "fwci": 0.2449,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.5337833,
+        "value": 0.53509679,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49747,14 +49902,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
           "score": 0.44999998807907104,
           "display_name": "Climate action"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -50230,7 +50385,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.9818,
+      "fwci": 5.9808,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
@@ -50472,7 +50627,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -51627,11 +51782,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8988,
+      "fwci": 1.8977,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.83031785,
+        "value": 0.83001101,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -51928,14 +52083,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
           "score": 0.5299999713897705,
           "display_name": "Life below water"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -52443,11 +52598,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7959,
+      "fwci": 0.7924,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.74354167,
+        "value": 0.74263963,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -52663,8 +52818,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.75,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -53681,11 +53842,11 @@
         "currency": "CHF",
         "value_usd": 2513
       },
-      "fwci": 0.2867,
+      "fwci": 0.2888,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.45097169,
+        "value": 0.45538543,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -54231,7 +54392,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [
         {
@@ -55266,11 +55427,11 @@
         "currency": "USD",
         "value_usd": 2320
       },
-      "fwci": 0.4838,
+      "fwci": 0.4855,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.48673669,
+        "value": 0.48927445,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -55658,14 +55819,14 @@
         "raw_source_name": "Journal of Asian Earth Sciences: X",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [
         {
@@ -56782,11 +56943,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.7382,
+      "fwci": 2.7297,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.88632371,
+        "value": 0.88545979,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -57089,8 +57250,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -58002,11 +58169,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.6051,
+      "fwci": 3.5907,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.89238535,
+        "value": 0.89200516,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -58327,12 +58494,23 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.9786999821662903,
+          "display_name": "Climate action"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [
+        {
           "id": "https://metadata.un.org/sdg/12",
           "score": 0.44999998807907104,
           "display_name": "Responsible consumption and production"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -59118,16 +59296,16 @@
         "value_usd": 1700
       },
       "apc_paid": null,
-      "fwci": 0.6174,
+      "fwci": 0.6227,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.6022653,
+        "value": 0.60686675,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 91,
         "max": 96
       },
       "biblio": {
@@ -59393,8 +59571,19 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 1,
+          "display_name": "Climate action"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.75,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -59870,16 +60059,16 @@
         "currency": "USD",
         "value_usd": 4500
       },
-      "fwci": 0.5742,
+      "fwci": 0.576,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.5891524,
+        "value": 0.59126288,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 91,
         "max": 96
       },
       "biblio": {
@@ -60154,12 +60343,28 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.75,
+          "display_name": "Affordable and clean energy"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/12",
+          "score": 0.5925999879837036,
+          "display_name": "Responsible consumption and production"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.428600013256073,
+          "display_name": "Industry, innovation and infrastructure"
+        }
+      ],
+      "sustainable_development_goals_aurora": [
+        {
           "id": "https://metadata.un.org/sdg/6",
           "score": 0.44999998807907104,
           "display_name": "Clean water and sanitation"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -61223,11 +61428,11 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 0.3512,
+      "fwci": 0.3511,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.52509019,
+        "value": 0.52614181,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -61692,7 +61897,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -62587,11 +62792,11 @@
         "value_usd": 3480
       },
       "apc_paid": null,
-      "fwci": 0.3087,
+      "fwci": 0.3114,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.55042474,
+        "value": 0.55580908,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -62956,8 +63161,19 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 1,
+          "display_name": "Climate action"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -63460,11 +63676,11 @@
         "currency": "USD",
         "value_usd": 3360
       },
-      "fwci": 2.5051,
+      "fwci": 2.5157,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.89050323,
+        "value": 0.89063655,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -63791,8 +64007,19 @@
         "raw_source_name": "Journal of CO2 Utilization",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 1,
+          "display_name": "Climate action"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [
         {
@@ -64794,11 +65021,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3371,
+      "fwci": 2.3311,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.84312809,
+        "value": 0.84284323,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -65073,8 +65300,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.9853000044822693,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -66115,11 +66348,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3691,
+      "fwci": 1.3648,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.7838143,
+        "value": 0.78346506,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -66346,8 +66579,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8485000133514404,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -67152,11 +67391,11 @@
         "currency": "USD",
         "value_usd": 500
       },
-      "fwci": 0.2297,
+      "fwci": 0.2305,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.38171847,
+        "value": 0.38402195,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -67572,7 +67811,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -68499,8 +68738,14 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.9786999821662903,
+          "display_name": "Climate action"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -69926,14 +70171,14 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
           "score": 0.49000000953674316,
           "display_name": "Life below water"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -70383,7 +70628,7 @@
         "raw_type": "Dissertation"
       },
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -71705,7 +71950,7 @@
         "raw_type": "posted-content"
       },
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -72031,7 +72276,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.04575234,
+        "value": 0.045562,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -72291,14 +72536,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/12",
           "score": 0.4099999964237213,
           "display_name": "Responsible consumption and production"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -73005,7 +73250,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.39681427,
+        "value": 0.3963778,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -73242,12 +73487,18 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.75,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [
+        {
           "id": "https://metadata.un.org/sdg/13",
           "score": 0.5699999928474426,
           "display_name": "Climate action"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -73714,7 +73965,27 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1201/9781003485278-34",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4306463075",
+          "display_name": "CRC Press eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310320584",
+          "host_organization_name": "CRC Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320584",
+            "https://openalex.org/P4310320547"
+          ],
+          "host_organization_lineage_names": [
+            "CRC Press",
+            "Taylor & Francis"
+          ],
+          "type": "ebook platform"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -73766,7 +74037,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.00434531,
+        "value": 0.00431158,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -73913,7 +74184,27 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1201/9781003485278-34",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4306463075",
+            "display_name": "CRC Press eBooks",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4310320584",
+            "host_organization_name": "CRC Press",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320584",
+              "https://openalex.org/P4310320547"
+            ],
+            "host_organization_lineage_names": [
+              "CRC Press",
+              "Taylor & Francis"
+            ],
+            "type": "ebook platform"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -73926,12 +74217,18 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.878000020980835,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [
+        {
           "id": "https://metadata.un.org/sdg/13",
           "score": 0.5099999904632568,
           "display_name": "Climate action"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -74401,7 +74698,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-04T09:36:47.201465",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -74598,7 +74895,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.02991773,
+        "value": 0.02994012,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -74866,8 +75163,14 @@
         "raw_source_name": "IOP Conference Series: Earth and Environmental Science",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -76054,7 +76357,7 @@
         "raw_type": "posted-content"
       },
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -76275,7 +76578,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.32119503,
+        "value": 0.32046679,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -76490,7 +76793,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -76687,7 +76990,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.19189485,
+        "value": 0.19149869,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -76985,7 +77288,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -77987,7 +78290,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3549173,
+        "value": 0.35406514,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -78371,7 +78674,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -79456,7 +79759,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.35914861,
+        "value": 0.358297,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -79882,7 +80185,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -81098,7 +81401,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.24126242,
+        "value": 0.24093991,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -81383,8 +81686,24 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 1,
+          "display_name": "Climate action"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/12",
+          "score": 0.5171999931335449,
+          "display_name": "Responsible consumption and production"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -82554,8 +82873,14 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 1,
+          "display_name": "Climate action"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -82759,7 +83084,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.74348637,
+        "value": 0.74286953,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -83030,7 +83355,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -83707,7 +84032,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13020342,
+        "value": 0.12731547,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -84041,7 +84366,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -85291,7 +85616,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.10485042,
+        "value": 0.1025486,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -85672,14 +85997,14 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/15",
           "score": 0.4069851338863373,
-          "display_name": "Life in Land"
+          "display_name": "Life on land"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -86160,7 +86485,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.12650466,
+        "value": 0.12373922,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -86571,8 +86896,19 @@
         "raw_source_name": "Unconventional Resources",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8485000133514404,
+          "display_name": "Affordable and clean energy"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -88266,8 +88602,19 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.9853000044822693,
+          "display_name": "Affordable and clean energy"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -89051,7 +89398,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.18280674,
+        "value": 0.17845845,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -89376,7 +89723,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
@@ -90092,7 +90439,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.26563161,
+        "value": 0.25920232,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -90459,14 +90806,14 @@
         "raw_source_name": "MethodsX",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
           "score": 0.6702041029930115,
           "display_name": "Climate action"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -91331,7 +91678,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.52426915,
+        "value": 0.51794801,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -91823,8 +92170,14 @@
         "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7778000235557556,
+          "display_name": "Life below water"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -92937,7 +93290,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.48394488,
+        "value": 0.47408444,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -93261,7 +93614,7 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -94295,7 +94648,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.50672863,
+        "value": 0.49654777,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -94610,7 +94963,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -95842,7 +96195,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.56569806,
+        "value": 0.55145907,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -96196,11 +96549,17 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.9786999821662903,
+          "display_name": "Climate action"
+        }
+      ],
+      "sustainable_development_goals_aurora": [
+        {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.48193252086639404,
           "display_name": "Climate action"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [
         {
@@ -97299,7 +97658,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.62887136,
+        "value": 0.6169594,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -97685,7 +98044,7 @@
         "raw_type": "journal-article"
       },
       "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -98663,7 +99022,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.54106699,
+        "value": 0.52875808,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -99068,12 +99427,18 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [
+        {
           "id": "https://metadata.un.org/sdg/14",
           "score": 0.8564205765724182,
           "display_name": "Life below water"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -100146,7 +100511,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63837689,
+        "value": 0.62491519,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -100478,8 +100843,14 @@
         "raw_source_name": "Earth-Science Reviews",
         "raw_type": "journal-article"
       },
-      "sustainable_development_goals": [],
-      "x_sdgs": [],
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
       "funders": [
@@ -101277,7 +101648,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.80808436,
+        "value": 0.79026153,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -101547,11 +101918,22 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
+          "score": 1,
+          "display_name": "Life below water"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.75,
+          "display_name": "Climate action"
+        }
+      ],
+      "sustainable_development_goals_aurora": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6479591727256775,
           "display_name": "Life below water"
         }
       ],
-      "x_sdgs": [],
       "study_designs": [],
       "awards": [],
       "funders": [
