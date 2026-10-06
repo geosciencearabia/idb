@@ -275,7 +275,7 @@
       {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "value": 0.0004046,
+        "value": 0.0004041,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -292,7 +292,7 @@
       {
         "id": "https://openalex.org/T13018",
         "display_name": "Seismology and Earthquake Studies",
-        "value": 0.0002043,
+        "value": 0.0002039,
         "subfield": {
           "id": "https://openalex.org/subfields/1702",
           "display_name": "Artificial Intelligence"
@@ -309,7 +309,7 @@
       {
         "id": "https://openalex.org/T11757",
         "display_name": "Seismic Waves and Analysis",
-        "value": 0.0001527,
+        "value": 0.0001525,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -326,7 +326,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.000137,
+        "value": 0.0001364,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -343,7 +343,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0001298,
+        "value": 0.0001297,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -547,7 +547,7 @@
     ],
     "block_key": "a al-shuhail",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054922583",
-    "updated_date": "2026-10-03T12:27:44",
+    "updated_date": "2026-10-04T12:28:53",
     "created_date": "2016-11-30T00:00:00"
   },
   "works": [
@@ -45947,6 +45947,46 @@
           "countries": [
             "SA"
           ],
+          "is_corresponding": true,
+          "raw_author_name": "Abdullatif A. Al-Shuhail",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111604304",
+            "display_name": "Abdullah A. Alshuhail",
+            "orcid": "https://orcid.org/0000-0001-5392-3261",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5392-3261"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
@@ -45987,47 +46027,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
-          "raw_author_name": "Abdullatif A. Al-Shuhail",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5111604304",
-            "display_name": "Abdullah A. Alshuhail",
-            "orcid": "https://orcid.org/0000-0001-5392-3261",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5392-3261"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Abdullah A. Alshuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -46074,7 +46074,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Abdullah A. Alshuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -46535,6 +46535,7 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
+        "https://openalex.org/A5054922583",
         "https://openalex.org/A5111604304"
       ],
       "corresponding_institution_ids": [
@@ -46546,11 +46547,11 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.4267,
+      "fwci": 1.6997,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.76746903,
+        "value": 0.80735229,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46570,7 +46571,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "score": 0.9998999834060669,
+        "score": 0.9984999895095825,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -46588,7 +46589,7 @@
         {
           "id": "https://openalex.org/T10271",
           "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9998999834060669,
+          "score": 0.9984999895095825,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -46603,16 +46604,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9990000128746033,
+          "id": "https://openalex.org/T11757",
+          "display_name": "Seismic Waves and Analysis",
+          "score": 0.0012000000569969416,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -46620,16 +46621,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10892",
-          "display_name": "Drilling and Well Engineering",
-          "score": 0.9987000226974487,
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -46941,7 +46942,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-02T10:15:12.560889",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -56995,7 +56996,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1190/image2022-3746892.1",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4363604378",
+          "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -57213,11 +57228,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7128,
+      "fwci": 0.8035,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.80143654,
+        "value": 0.81968206,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -57237,7 +57252,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T11105",
         "display_name": "Advanced Image Processing Techniques",
-        "score": 0.9998999834060669,
+        "score": 0.8086000084877014,
         "subfield": {
           "id": "https://openalex.org/subfields/1707",
           "display_name": "Computer Vision and Pattern Recognition"
@@ -57255,7 +57270,7 @@
         {
           "id": "https://openalex.org/T11105",
           "display_name": "Advanced Image Processing Techniques",
-          "score": 0.9998999834060669,
+          "score": 0.8086000084877014,
           "subfield": {
             "id": "https://openalex.org/subfields/1707",
             "display_name": "Computer Vision and Pattern Recognition"
@@ -57263,6 +57278,23 @@
           "field": {
             "id": "https://openalex.org/fields/17",
             "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.17100000381469727,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -57272,7 +57304,7 @@
         {
           "id": "https://openalex.org/T10688",
           "display_name": "Image and Signal Denoising Methods",
-          "score": 0.9976000189781189,
+          "score": 0.004399999976158142,
           "subfield": {
             "id": "https://openalex.org/subfields/1707",
             "display_name": "Computer Vision and Pattern Recognition"
@@ -57280,23 +57312,6 @@
           "field": {
             "id": "https://openalex.org/fields/17",
             "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13114",
-          "display_name": "Image Processing Techniques and Applications",
-          "score": 0.9955000281333923,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2214",
-            "display_name": "Media Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -57366,7 +57381,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1190/image2022-3746892.1",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4363604378",
+            "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -57814,7 +57843,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -72590,8 +72619,8 @@
         "landing_page_url": "https://doi.org/10.3997/2214-4609.201402198",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306499677",
-          "display_name": "68th EAGE Conference and Exhibition incorporating SPE EUROPEC 2006",
+          "id": "https://openalex.org/S4306499730",
+          "display_name": "EAGE Conference and Exhibition incorporating SPE EUROPEC",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
@@ -72655,7 +72684,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.1545858,
+        "value": 0.15103839,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -72673,9 +72702,9 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T11757",
-        "display_name": "Seismic Waves and Analysis",
-        "score": 0.9879000186920166,
+        "id": "https://openalex.org/T10271",
+        "display_name": "Seismic Imaging and Inversion Techniques",
+        "score": 0.9916999936103821,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -72691,9 +72720,9 @@
       },
       "topics": [
         {
-          "id": "https://openalex.org/T11757",
-          "display_name": "Seismic Waves and Analysis",
-          "score": 0.9879000186920166,
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.9916999936103821,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -72708,16 +72737,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T12233",
-          "display_name": "Geotechnical Engineering and Underground Structures",
-          "score": 0.9251000285148621,
+          "id": "https://openalex.org/T11757",
+          "display_name": "Seismic Waves and Analysis",
+          "score": 0.0017000000225380063,
           "subfield": {
-            "id": "https://openalex.org/subfields/2205",
-            "display_name": "Civil and Structural Engineering"
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -72725,12 +72754,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10233",
-          "display_name": "Geotechnical Engineering and Soil Mechanics",
-          "score": 0.9136000275611877,
+          "id": "https://openalex.org/T11609",
+          "display_name": "Geophysical Methods and Applications",
+          "score": 0.0005000000237487257,
           "subfield": {
-            "id": "https://openalex.org/subfields/2205",
-            "display_name": "Civil and Structural Engineering"
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
           },
           "field": {
             "id": "https://openalex.org/fields/22",
@@ -72874,8 +72903,8 @@
           "landing_page_url": "https://doi.org/10.3997/2214-4609.201402198",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306499677",
-            "display_name": "68th EAGE Conference and Exhibition incorporating SPE EUROPEC 2006",
+            "id": "https://openalex.org/S4306499730",
+            "display_name": "EAGE Conference and Exhibition incorporating SPE EUROPEC",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -73189,7 +73218,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -88579,7 +88608,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1190/1.3054857",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4363604378",
+          "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -88746,11 +88789,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0426,
+      "fwci": 1.1786,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.7235543,
+        "value": 0.75750153,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -88770,7 +88813,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T11757",
         "display_name": "Seismic Waves and Analysis",
-        "score": 1,
+        "score": 0.9667999744415283,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -88788,7 +88831,7 @@
         {
           "id": "https://openalex.org/T11757",
           "display_name": "Seismic Waves and Analysis",
-          "score": 1,
+          "score": 0.9667999744415283,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -88805,7 +88848,7 @@
         {
           "id": "https://openalex.org/T10271",
           "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.998199999332428,
+          "score": 0.021199999377131462,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -88822,7 +88865,7 @@
         {
           "id": "https://openalex.org/T13885",
           "display_name": "Geophysics and Sensor Technology",
-          "score": 0.9980999827384949,
+          "score": 0.002300000051036477,
           "subfield": {
             "id": "https://openalex.org/subfields/2212",
             "display_name": "Ocean Engineering"
@@ -88975,7 +89018,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1190/1.3054857",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4363604378",
+            "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -89501,7 +89558,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -89522,7 +89579,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1190/1.1932032",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4363604378",
+          "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -89648,7 +89719,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.10338681,
+        "value": 0.0789826,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -89666,9 +89737,9 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T10271",
-        "display_name": "Seismic Imaging and Inversion Techniques",
-        "score": 0.9883000254631042,
+        "id": "https://openalex.org/T11757",
+        "display_name": "Seismic Waves and Analysis",
+        "score": 0.8784000277519226,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -89684,9 +89755,9 @@
       },
       "topics": [
         {
-          "id": "https://openalex.org/T10271",
-          "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9883000254631042,
+          "id": "https://openalex.org/T11757",
+          "display_name": "Seismic Waves and Analysis",
+          "score": 0.8784000277519226,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -89701,16 +89772,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10688",
-          "display_name": "Image and Signal Denoising Methods",
-          "score": 0.9771999716758728,
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.10260000079870224,
           "subfield": {
-            "id": "https://openalex.org/subfields/1707",
-            "display_name": "Computer Vision and Pattern Recognition"
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
           },
           "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -89718,12 +89789,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10662",
-          "display_name": "Ultrasonics and Acoustic Wave Propagation",
-          "score": 0.9132000207901001,
+          "id": "https://openalex.org/T13885",
+          "display_name": "Geophysics and Sensor Technology",
+          "score": 0.006200000178068876,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
           },
           "field": {
             "id": "https://openalex.org/fields/22",
@@ -89804,7 +89875,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1190/1.1932032",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4363604378",
+            "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -89988,7 +90073,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -91749,7 +91834,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1190/segam2018-2997935.1",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4363604378",
+          "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -91977,11 +92076,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1008,
+      "fwci": 0.0992,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.39334315,
+        "value": 0.36373382,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -92001,7 +92100,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T13018",
         "display_name": "Seismology and Earthquake Studies",
-        "score": 0.9995999932289124,
+        "score": 0.9442999958992004,
         "subfield": {
           "id": "https://openalex.org/subfields/1702",
           "display_name": "Artificial Intelligence"
@@ -92019,7 +92118,7 @@
         {
           "id": "https://openalex.org/T13018",
           "display_name": "Seismology and Earthquake Studies",
-          "score": 0.9995999932289124,
+          "score": 0.9442999958992004,
           "subfield": {
             "id": "https://openalex.org/subfields/1702",
             "display_name": "Artificial Intelligence"
@@ -92034,9 +92133,9 @@
           }
         },
         {
-          "id": "https://openalex.org/T10271",
-          "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9965000152587891,
+          "id": "https://openalex.org/T11757",
+          "display_name": "Seismic Waves and Analysis",
+          "score": 0.0215000007301569,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -92051,16 +92150,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T11512",
-          "display_name": "Anomaly Detection Techniques and Applications",
-          "score": 0.9954000115394592,
+          "id": "https://openalex.org/T10635",
+          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+          "score": 0.004699999932199717,
           "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
           },
           "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -92274,7 +92373,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1190/segam2018-2997935.1",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4363604378",
+            "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -92712,7 +92825,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -94089,7 +94202,7 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306499750",
-          "display_name": "78th EAGE Conference and Exhibition 2016",
+          "display_name": "EAGE Conference and Exhibition",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
@@ -94329,13 +94442,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3353,
+      "fwci": 3.1201,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.88919668,
+        "value": 0.91984447,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 89,
@@ -94353,7 +94466,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T11757",
         "display_name": "Seismic Waves and Analysis",
-        "score": 0.9998999834060669,
+        "score": 0.5145999789237976,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -94371,7 +94484,7 @@
         {
           "id": "https://openalex.org/T11757",
           "display_name": "Seismic Waves and Analysis",
-          "score": 0.9998999834060669,
+          "score": 0.5145999789237976,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -94388,7 +94501,7 @@
         {
           "id": "https://openalex.org/T13018",
           "display_name": "Seismology and Earthquake Studies",
-          "score": 0.9997000098228455,
+          "score": 0.23909999430179596,
           "subfield": {
             "id": "https://openalex.org/subfields/1702",
             "display_name": "Artificial Intelligence"
@@ -94405,7 +94518,7 @@
         {
           "id": "https://openalex.org/T10271",
           "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9994999766349792,
+          "score": 0.06989999860525131,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -94564,7 +94677,7 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306499750",
-            "display_name": "78th EAGE Conference and Exhibition 2016",
+            "display_name": "EAGE Conference and Exhibition",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -94764,7 +94877,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -106483,8 +106596,8 @@
         "landing_page_url": "https://doi.org/10.3997/2214-4609.201901122",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306499799",
-          "display_name": "81st EAGE Conference and Exhibition 2019",
+          "id": "https://openalex.org/S4306499750",
+          "display_name": "EAGE Conference and Exhibition",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
@@ -106681,11 +106794,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.216,
+      "fwci": 1.6557,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.77593361,
+        "value": 0.82312443,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -106705,7 +106818,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T11757",
         "display_name": "Seismic Waves and Analysis",
-        "score": 0.9998999834060669,
+        "score": 0.9106000065803528,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -106723,7 +106836,7 @@
         {
           "id": "https://openalex.org/T11757",
           "display_name": "Seismic Waves and Analysis",
-          "score": 0.9998999834060669,
+          "score": 0.9106000065803528,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -106738,16 +106851,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10205",
-          "display_name": "Advanced Fiber Optic Sensors",
-          "score": 0.9991999864578247,
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.08659999817609787,
           "subfield": {
-            "id": "https://openalex.org/subfields/2208",
-            "display_name": "Electrical and Electronic Engineering"
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -106757,7 +106870,7 @@
         {
           "id": "https://openalex.org/T13885",
           "display_name": "Geophysics and Sensor Technology",
-          "score": 0.994700014591217,
+          "score": 0.00039999998989515007,
           "subfield": {
             "id": "https://openalex.org/subfields/2212",
             "display_name": "Ocean Engineering"
@@ -106980,8 +107093,8 @@
           "landing_page_url": "https://doi.org/10.3997/2214-4609.201901122",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306499799",
-            "display_name": "81st EAGE Conference and Exhibition 2019",
+            "id": "https://openalex.org/S4306499750",
+            "display_name": "EAGE Conference and Exhibition",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -107418,7 +107531,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -108393,7 +108506,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.3997/2214-4609.202010533",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4363607722",
+          "display_name": "EAGE Annual Conference & Exhibition",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -108621,11 +108748,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.225,
+      "fwci": 1.7864,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.68908961,
+        "value": 0.76159493,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -108643,9 +108770,9 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T11757",
-        "display_name": "Seismic Waves and Analysis",
-        "score": 0.9995999932289124,
+        "id": "https://openalex.org/T10271",
+        "display_name": "Seismic Imaging and Inversion Techniques",
+        "score": 0.9160000085830688,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -108661,9 +108788,9 @@
       },
       "topics": [
         {
-          "id": "https://openalex.org/T11757",
-          "display_name": "Seismic Waves and Analysis",
-          "score": 0.9995999932289124,
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.9160000085830688,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -108678,16 +108805,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10555",
-          "display_name": "Fire effects on ecosystems",
-          "score": 0.9905999898910522,
+          "id": "https://openalex.org/T11757",
+          "display_name": "Seismic Waves and Analysis",
+          "score": 0.05510000139474869,
           "subfield": {
-            "id": "https://openalex.org/subfields/2306",
-            "display_name": "Global and Planetary Change"
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
           },
           "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -108695,16 +108822,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10577",
-          "display_name": "Hydrology and Sediment Transport Processes",
-          "score": 0.9818000197410583,
+          "id": "https://openalex.org/T11609",
+          "display_name": "Geophysical Methods and Applications",
+          "score": 0.004800000227987766,
           "subfield": {
-            "id": "https://openalex.org/subfields/2303",
-            "display_name": "Ecology"
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
           },
           "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -108808,7 +108935,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.3997/2214-4609.202010533",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4363607722",
+            "display_name": "EAGE Annual Conference & Exhibition",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -109299,7 +109440,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -109947,7 +110088,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1190/1.1815851",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4363604378",
+          "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -110069,11 +110224,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6754,
+      "fwci": 1.8399,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.80684248,
+        "value": 0.81436812,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -110090,7 +110245,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "score": 0.9998000264167786,
+        "score": 0.9901999831199646,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -110108,7 +110263,7 @@
         {
           "id": "https://openalex.org/T10271",
           "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9998000264167786,
+          "score": 0.9901999831199646,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -110123,16 +110278,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T11757",
-          "display_name": "Seismic Waves and Analysis",
-          "score": 0.9988999962806702,
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.0024999999441206455,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
           },
           "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -110140,12 +110295,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T11609",
-          "display_name": "Geophysical Methods and Applications",
-          "score": 0.998199999332428,
+          "id": "https://openalex.org/T10635",
+          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+          "score": 0.001500000013038516,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
           },
           "field": {
             "id": "https://openalex.org/fields/22",
@@ -110256,7 +110411,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1190/1.1815851",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4363604378",
+            "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -110756,7 +110925,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -117276,7 +117445,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1190/segam2015-5843038.1",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4363604378",
+          "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -117470,7 +117653,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.27038627,
+        "value": 0.27580579,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -117487,7 +117670,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "score": 0.9998999834060669,
+        "score": 0.9901999831199646,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -117505,7 +117688,7 @@
         {
           "id": "https://openalex.org/T10271",
           "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9998999834060669,
+          "score": 0.9901999831199646,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -117513,6 +117696,23 @@
           "field": {
             "id": "https://openalex.org/fields/19",
             "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11034",
+          "display_name": "Digital Filter Design and Implementation",
+          "score": 0.0017999999690800905,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1711",
+            "display_name": "Signal Processing"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -117522,7 +117722,7 @@
         {
           "id": "https://openalex.org/T11757",
           "display_name": "Seismic Waves and Analysis",
-          "score": 0.9988999962806702,
+          "score": 0.0015999999595806003,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -117530,23 +117730,6 @@
           "field": {
             "id": "https://openalex.org/fields/19",
             "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10688",
-          "display_name": "Image and Signal Denoising Methods",
-          "score": 0.9962000250816345,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1707",
-            "display_name": "Computer Vision and Pattern Recognition"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -117658,7 +117841,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1190/segam2015-5843038.1",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4363604378",
+            "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -117951,7 +118148,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -119581,7 +119778,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.3997/2214-4609.201801933",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S7407087556",
+          "display_name": "EAGE Annual Conference & Exhibition Workshop Programme",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -119649,7 +119860,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.08643411,
+        "value": 0.13454039,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -119666,7 +119877,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "score": 0.9988999962806702,
+        "score": 0.9990000128746033,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -119684,7 +119895,7 @@
         {
           "id": "https://openalex.org/T10271",
           "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9988999962806702,
+          "score": 0.9990000128746033,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -119699,16 +119910,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9965999722480774,
+          "id": "https://openalex.org/T11757",
+          "display_name": "Seismic Waves and Analysis",
+          "score": 0.00019999999494757503,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -119716,16 +119927,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.992900013923645,
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -119883,7 +120094,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.3997/2214-4609.201801933",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S7407087556",
+            "display_name": "EAGE Annual Conference & Exhibition Workshop Programme",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -120404,7 +120629,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -139361,7 +139586,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.3997/2214-4609.2024101070",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4363607722",
+          "display_name": "EAGE Annual Conference & Exhibition",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -139643,7 +139882,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.10117493,
+        "value": 0.14440154,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -139658,16 +139897,16 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T11302",
-        "display_name": "CO2 Sequestration and Geologic Interactions",
-        "score": 0.9997000098228455,
+        "id": "https://openalex.org/T10271",
+        "display_name": "Seismic Imaging and Inversion Techniques",
+        "score": 0.49459999799728394,
         "subfield": {
-          "id": "https://openalex.org/subfields/2305",
-          "display_name": "Environmental Engineering"
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
         },
         "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -139676,26 +139915,9 @@
       },
       "topics": [
         {
-          "id": "https://openalex.org/T11302",
-          "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 0.9997000098228455,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
           "id": "https://openalex.org/T10271",
           "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9995999932289124,
+          "score": 0.49459999799728394,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -139710,9 +139932,26 @@
           }
         },
         {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 0.48240000009536743,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9986000061035156,
+          "score": 0.0038999998942017555,
           "subfield": {
             "id": "https://openalex.org/subfields/2211",
             "display_name": "Mechanics of Materials"
@@ -139907,7 +140146,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.3997/2214-4609.2024101070",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4363607722",
+            "display_name": "EAGE Annual Conference & Exhibition",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -140416,7 +140669,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -147633,7 +147886,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2118/227562-ms",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S7407086985",
+          "display_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -147826,7 +148093,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.19040316,
+        "value": 0.23760746,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -147843,7 +148110,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "score": 0.9998000264167786,
+        "score": 0.9976000189781189,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -147861,7 +148128,7 @@
         {
           "id": "https://openalex.org/T10271",
           "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9998000264167786,
+          "score": 0.9976000189781189,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -147878,7 +148145,7 @@
         {
           "id": "https://openalex.org/T11757",
           "display_name": "Seismic Waves and Analysis",
-          "score": 0.9987999796867371,
+          "score": 0.0010000000474974513,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -147895,7 +148162,7 @@
         {
           "id": "https://openalex.org/T13018",
           "display_name": "Seismology and Earthquake Studies",
-          "score": 0.9977999925613403,
+          "score": 0.00009999999747378752,
           "subfield": {
             "id": "https://openalex.org/subfields/1702",
             "display_name": "Artificial Intelligence"
@@ -148141,7 +148408,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2118/227562-ms",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S7407086985",
+            "display_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -148790,7 +149071,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-26T08:19:03.415552",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -148810,7 +149091,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2118/227369-ms",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S7407086985",
+          "display_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -149035,7 +149330,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.19500438,
+        "value": 0.24327785,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -149052,7 +149347,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "score": 0.9998999834060669,
+        "score": 0.8187999725341797,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -149070,7 +149365,7 @@
         {
           "id": "https://openalex.org/T10271",
           "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9998999834060669,
+          "score": 0.8187999725341797,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -149085,12 +149380,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9984999895095825,
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.15139999985694885,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
           },
           "field": {
             "id": "https://openalex.org/fields/22",
@@ -149102,16 +149397,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10892",
-          "display_name": "Drilling and Well Engineering",
-          "score": 0.9979000091552734,
+          "id": "https://openalex.org/T13067",
+          "display_name": "Geological Modeling and Analysis",
+          "score": 0.004800000227987766,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -149374,7 +149669,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2118/227369-ms",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S7407086985",
+            "display_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -150049,7 +150358,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -150069,7 +150378,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2118/227264-ms",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S7407086985",
+          "display_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -150223,7 +150546,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.20442594,
+        "value": 0.24931407,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -150240,7 +150563,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "score": 0.9998999834060669,
+        "score": 0.9980000257492065,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -150258,7 +150581,7 @@
         {
           "id": "https://openalex.org/T10271",
           "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9998999834060669,
+          "score": 0.9980000257492065,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -150273,16 +150596,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10892",
-          "display_name": "Drilling and Well Engineering",
-          "score": 0.9984999895095825,
+          "id": "https://openalex.org/T12026",
+          "display_name": "Explainable Artificial Intelligence (XAI)",
+          "score": 0.00039999998989515007,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -150290,16 +150613,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9980000257492065,
+          "id": "https://openalex.org/T10572",
+          "display_name": "Geophysical and Geoelectrical Methods",
+          "score": 0.00039999998989515007,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -150566,7 +150889,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2118/227264-ms",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S7407086985",
+            "display_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -151086,7 +151423,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {

@@ -922,8 +922,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 93,
@@ -1813,8 +1813,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -3092,8 +3092,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -3755,8 +3755,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -4306,8 +4306,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4645,7 +4645,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.15530/urtec-2022-3721116",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4306523920",
+          "display_name": "Unconventional Resources Technology Conference (URTeC)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -4779,12 +4793,12 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 9.5692,
+      "fwci": 18.2239,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.98660274,
-        "is_in_top_1_percent": false,
+        "value": 0.99243652,
+        "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
@@ -4801,16 +4815,16 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9991999864578247,
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.51419997215271,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -4819,9 +4833,26 @@
       },
       "topics": [
         {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.51419997215271,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9991999864578247,
+          "score": 0.42649999260902405,
           "subfield": {
             "id": "https://openalex.org/subfields/2211",
             "display_name": "Mechanics of Materials"
@@ -4836,29 +4867,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.9980000257492065,
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.019200000911951065,
           "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9929999709129333,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -5044,7 +5058,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.15530/urtec-2022-3721116",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4306523920",
+            "display_name": "Unconventional Resources Technology Conference (URTeC)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -5091,8 +5119,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -5741,7 +5769,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6440,8 +6468,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 111,
@@ -7812,8 +7840,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -8327,8 +8355,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -8472,6 +8500,46 @@
           "countries": [
             "SA"
           ],
+          "is_corresponding": true,
+          "raw_author_name": "Abdullatif A. Al-Shuhail",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111604304",
+            "display_name": "Abdullah A. Alshuhail",
+            "orcid": "https://orcid.org/0000-0001-5392-3261",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5392-3261"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
@@ -8512,47 +8580,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
-          "raw_author_name": "Abdullatif A. Al-Shuhail",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5111604304",
-            "display_name": "Abdullah A. Alshuhail",
-            "orcid": "https://orcid.org/0000-0001-5392-3261",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5392-3261"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Abdullah A. Alshuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -8599,7 +8627,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Abdullah A. Alshuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -9060,6 +9088,7 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
+        "https://openalex.org/A5054922583",
         "https://openalex.org/A5111604304"
       ],
       "corresponding_institution_ids": [
@@ -9071,11 +9100,11 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.4267,
+      "fwci": 1.6997,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.76746903,
+        "value": 0.80735229,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9095,7 +9124,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "score": 0.9998999834060669,
+        "score": 0.9984999895095825,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -9113,7 +9142,7 @@
         {
           "id": "https://openalex.org/T10271",
           "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9998999834060669,
+          "score": 0.9984999895095825,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -9128,16 +9157,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9990000128746033,
+          "id": "https://openalex.org/T11757",
+          "display_name": "Seismic Waves and Analysis",
+          "score": 0.0012000000569969416,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -9145,16 +9174,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10892",
-          "display_name": "Drilling and Well Engineering",
-          "score": 0.9987000226974487,
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -9397,8 +9426,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -9466,7 +9495,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-02T10:15:12.560889",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10164,8 +10193,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -11789,8 +11818,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -13153,8 +13182,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -13896,7 +13925,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2118/213353-ms",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S7407086985",
+          "display_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -14097,11 +14140,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.4593,
+      "fwci": 5.8992,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.95182537,
+        "value": 0.95794334,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14121,7 +14164,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9995999932289124,
+        "score": 0.9609000086784363,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -14139,7 +14182,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9995999932289124,
+          "score": 0.9609000086784363,
           "subfield": {
             "id": "https://openalex.org/subfields/2211",
             "display_name": "Mechanics of Materials"
@@ -14156,7 +14199,7 @@
         {
           "id": "https://openalex.org/T12157",
           "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.9955000281333923,
+          "score": 0.01889999955892563,
           "subfield": {
             "id": "https://openalex.org/subfields/1702",
             "display_name": "Artificial Intelligence"
@@ -14171,16 +14214,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9904000163078308,
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.0071000000461936,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -14362,7 +14405,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2118/213353-ms",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S7407086985",
+            "display_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -14379,8 +14436,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -14844,7 +14901,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15560,8 +15617,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4293379780.pdf",
@@ -16536,8 +16593,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16581,7 +16638,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2118/224825-ms",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S7407088710",
+          "display_name": "SPE Conference at Oman Petroleum & Energy Show",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -16783,11 +16854,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.1468,
+      "fwci": 12.5008,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.94150443,
+        "value": 0.9812508,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16805,12 +16876,12 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T11801",
-        "display_name": "Reservoir Engineering and Simulation Methods",
-        "score": 0.9987999796867371,
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.9937000274658203,
         "subfield": {
-          "id": "https://openalex.org/subfields/2212",
-          "display_name": "Ocean Engineering"
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
         },
         "field": {
           "id": "https://openalex.org/fields/22",
@@ -16823,26 +16894,9 @@
       },
       "topics": [
         {
-          "id": "https://openalex.org/T11801",
-          "display_name": "Reservoir Engineering and Simulation Methods",
-          "score": 0.9987999796867371,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9987000226974487,
+          "score": 0.9937000274658203,
           "subfield": {
             "id": "https://openalex.org/subfields/2211",
             "display_name": "Mechanics of Materials"
@@ -16859,10 +16913,27 @@
         {
           "id": "https://openalex.org/T13067",
           "display_name": "Geological Modeling and Analysis",
-          "score": 0.9986000061035156,
+          "score": 0.001500000013038516,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.0008999999845400453,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -17006,7 +17077,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2118/224825-ms",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S7407088710",
+            "display_name": "SPE Conference at Oman Petroleum & Energy Show",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -17023,8 +17108,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -17678,7 +17763,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18316,8 +18401,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3127304390.pdf",
@@ -19274,8 +19359,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19949,8 +20034,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20621,8 +20706,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21190,8 +21275,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2902775908.pdf",
@@ -22115,8 +22200,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22521,8 +22606,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22876,8 +22961,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23371,8 +23456,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24397,8 +24482,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -25049,8 +25134,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -25146,7 +25231,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2118/227660-ms",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S7407086985",
+          "display_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -25312,7 +25411,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.36214414,
+        "value": 0.33453191,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25329,7 +25428,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9998000264167786,
+        "score": 0.9487000107765198,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -25347,7 +25446,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9998000264167786,
+          "score": 0.9487000107765198,
           "subfield": {
             "id": "https://openalex.org/subfields/2211",
             "display_name": "Mechanics of Materials"
@@ -25362,16 +25461,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10892",
-          "display_name": "Drilling and Well Engineering",
-          "score": 0.9965999722480774,
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.03629999980330467,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -25379,16 +25478,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9944999814033508,
+          "id": "https://openalex.org/T12157",
+          "display_name": "Geochemistry and Geologic Mapping",
+          "score": 0.004100000020116568,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -25624,7 +25723,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2118/227660-ms",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S7407086985",
+            "display_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -25641,8 +25754,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -26499,7 +26612,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27032,8 +27145,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,

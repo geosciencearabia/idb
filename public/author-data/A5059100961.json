@@ -816,17 +816,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8299999833106995,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8299999833106995
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -2079,8 +2079,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4410159041.pdf",
@@ -2858,6 +2858,46 @@
           "countries": [
             "SA"
           ],
+          "is_corresponding": true,
+          "raw_author_name": "Abdullatif A. Al-Shuhail",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111604304",
+            "display_name": "Abdullah A. Alshuhail",
+            "orcid": "https://orcid.org/0000-0001-5392-3261",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5392-3261"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
@@ -2898,47 +2938,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
-          "raw_author_name": "Abdullatif A. Al-Shuhail",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5111604304",
-            "display_name": "Abdullah A. Alshuhail",
-            "orcid": "https://orcid.org/0000-0001-5392-3261",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5392-3261"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Abdullah A. Alshuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -2985,7 +2985,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Abdullah A. Alshuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -3446,6 +3446,7 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
+        "https://openalex.org/A5054922583",
         "https://openalex.org/A5111604304"
       ],
       "corresponding_institution_ids": [
@@ -3457,11 +3458,11 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.4267,
+      "fwci": 1.6997,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.76746903,
+        "value": 0.80735229,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3481,7 +3482,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "score": 0.9998999834060669,
+        "score": 0.9984999895095825,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -3499,7 +3500,7 @@
         {
           "id": "https://openalex.org/T10271",
           "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9998999834060669,
+          "score": 0.9984999895095825,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -3514,16 +3515,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9990000128746033,
+          "id": "https://openalex.org/T11757",
+          "display_name": "Seismic Waves and Analysis",
+          "score": 0.0012000000569969416,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -3531,16 +3532,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10892",
-          "display_name": "Drilling and Well Engineering",
-          "score": 0.9987000226974487,
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -3755,9 +3756,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7099999785423279,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.7099999785423279
         }
       ],
       "study_designs": [],
@@ -3783,8 +3784,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -3852,7 +3853,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-02T10:15:12.560889",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4318,8 +4319,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -4868,8 +4869,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -5899,17 +5900,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.550000011920929,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.550000011920929
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2238788930.pdf",
@@ -6348,8 +6349,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6783,7 +6784,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1190/image2025-4308603.1",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4363604378",
+          "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -6975,7 +6990,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37096774,
+        "value": 0.15176435,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6990,16 +7005,16 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.17710000276565552,
+        "id": "https://openalex.org/T11609",
+        "display_name": "Geophysical Methods and Applications",
+        "score": 0.9771000146865845,
         "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
+          "id": "https://openalex.org/subfields/2212",
+          "display_name": "Ocean Engineering"
         },
         "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -7008,26 +7023,9 @@
       },
       "topics": [
         {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.17710000276565552,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
           "id": "https://openalex.org/T11609",
           "display_name": "Geophysical Methods and Applications",
-          "score": 0.11599999666213989,
+          "score": 0.9771000146865845,
           "subfield": {
             "id": "https://openalex.org/subfields/2212",
             "display_name": "Ocean Engineering"
@@ -7042,9 +7040,26 @@
           }
         },
         {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.005200000014156103,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
           "id": "https://openalex.org/T10572",
           "display_name": "Geophysical and Geoelectrical Methods",
-          "score": 0.09149999916553497,
+          "score": 0.004800000227987766,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -7199,7 +7214,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1190/image2025-4308603.1",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4363604378",
+            "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -7216,8 +7245,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -7634,7 +7663,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-26T08:19:03.415552",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2026-04-02T00:00:00"
     },
     {
@@ -8514,8 +8543,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7162439439.pdf",

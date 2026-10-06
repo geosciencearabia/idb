@@ -211,7 +211,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0002387,
+        "value": 0.0002384,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -228,7 +228,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0001971,
+        "value": 0.0001958,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -245,7 +245,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0001555,
+        "value": 0.0001545,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -262,7 +262,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0001393,
+        "value": 0.0001392,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -279,7 +279,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001139,
+        "value": 0.0001133,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -454,7 +454,7 @@
     ],
     "block_key": "o abdullatif",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5028390167",
-    "updated_date": "2026-09-30T12:28:01",
+    "updated_date": "2026-10-04T12:28:53",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -41501,7 +41501,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.15530/urtec-2017-2687468",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4306523920",
+          "display_name": "Unconventional Resources Technology Conference (URTeC)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -41609,11 +41623,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1786,
+      "fwci": 2.0326,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.782584,
+        "value": 0.8630405,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41631,12 +41645,12 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T10635",
-        "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "score": 0.9965000152587891,
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.8970000147819519,
         "subfield": {
-          "id": "https://openalex.org/subfields/2210",
-          "display_name": "Mechanical Engineering"
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
         },
         "field": {
           "id": "https://openalex.org/fields/22",
@@ -41649,29 +41663,12 @@
       },
       "topics": [
         {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9965000152587891,
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.8970000147819519,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10892",
-          "display_name": "Drilling and Well Engineering",
-          "score": 0.9947999715805054,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
           },
           "field": {
             "id": "https://openalex.org/fields/22",
@@ -41685,7 +41682,7 @@
         {
           "id": "https://openalex.org/T10271",
           "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9929999709129333,
+          "score": 0.08420000225305557,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -41693,6 +41690,23 @@
           "field": {
             "id": "https://openalex.org/fields/19",
             "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10491",
+          "display_name": "Enhanced Oil Recovery Techniques",
+          "score": 0.0015999999595806003,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -41840,7 +41854,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.15530/urtec-2017-2687468",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4306523920",
+            "display_name": "Unconventional Resources Technology Conference (URTeC)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -41886,7 +41914,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41920,7 +41948,7 @@
           "host_organization_name": null,
           "host_organization_lineage": [],
           "host_organization_lineage_names": [],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -42143,11 +42171,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2979,
+      "fwci": 1.3541,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.77612964,
+        "value": 0.79290121,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42167,7 +42195,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "score": 0.9998999834060669,
+        "score": 0.9922000169754028,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -42185,7 +42213,7 @@
         {
           "id": "https://openalex.org/T10635",
           "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9998999834060669,
+          "score": 0.9922000169754028,
           "subfield": {
             "id": "https://openalex.org/subfields/2210",
             "display_name": "Mechanical Engineering"
@@ -42200,12 +42228,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10892",
-          "display_name": "Drilling and Well Engineering",
-          "score": 0.9997000098228455,
+          "id": "https://openalex.org/T10161",
+          "display_name": "Rock Mechanics and Modeling",
+          "score": 0.0015999999595806003,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
           },
           "field": {
             "id": "https://openalex.org/fields/22",
@@ -42217,9 +42245,9 @@
           }
         },
         {
-          "id": "https://openalex.org/T13050",
-          "display_name": "Oil and Gas Production Techniques",
-          "score": 0.9990000128746033,
+          "id": "https://openalex.org/T10892",
+          "display_name": "Drilling and Well Engineering",
+          "score": 0.0007999999797903001,
           "subfield": {
             "id": "https://openalex.org/subfields/2212",
             "display_name": "Ocean Engineering"
@@ -42379,7 +42407,7 @@
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -43047,7 +43075,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -45499,8 +45527,8 @@
         "landing_page_url": "https://doi.org/10.3997/2214-4609.201901101",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306499799",
-          "display_name": "81st EAGE Conference and Exhibition 2019",
+          "id": "https://openalex.org/S4306499750",
+          "display_name": "EAGE Conference and Exhibition",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
@@ -45702,11 +45730,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8919,
+      "fwci": 1.0359,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.69153867,
+        "value": 0.71948378,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45759,16 +45787,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9993000030517578,
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.00009999999747378752,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -45776,16 +45804,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T11801",
-          "display_name": "Reservoir Engineering and Simulation Methods",
-          "score": 0.9991000294685364,
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -46029,8 +46057,8 @@
           "landing_page_url": "https://doi.org/10.3997/2214-4609.201901101",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306499799",
-            "display_name": "81st EAGE Conference and Exhibition 2019",
+            "id": "https://openalex.org/S4306499750",
+            "display_name": "EAGE Conference and Exhibition",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -46565,7 +46593,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -48115,7 +48143,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2118/172526-ms",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S7407086545",
+          "display_name": "SPE Middle East Oil & Gas Show and Conference (MEOS)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -48311,11 +48353,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7138,
+      "fwci": 1.0793,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.66077644,
+        "value": 0.75177305,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48368,12 +48410,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9923999905586243,
+          "id": "https://openalex.org/T10161",
+          "display_name": "Rock Mechanics and Modeling",
+          "score": 0,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
           },
           "field": {
             "id": "https://openalex.org/fields/22",
@@ -48385,16 +48427,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T11225",
-          "display_name": "Geothermal Energy Systems and Applications",
-          "score": 0.9908000230789185,
+          "id": "https://openalex.org/T10491",
+          "display_name": "Enhanced Oil Recovery Techniques",
+          "score": 0,
           "subfield": {
-            "id": "https://openalex.org/subfields/2105",
-            "display_name": "Renewable Energy, Sustainability and the Environment"
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
           },
           "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -48618,7 +48660,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2118/172526-ms",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S7407086545",
+            "display_name": "SPE Middle East Oil & Gas Show and Conference (MEOS)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -49319,7 +49375,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -49341,8 +49397,8 @@
         "landing_page_url": "https://doi.org/10.3997/2214-4609.20149955",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306499731",
-          "display_name": "72nd EAGE Conference and Exhibition - Workshops and Fieldtrips",
+          "id": "https://openalex.org/S4306499727",
+          "display_name": "EAGE Conference and Exhibition - Workshops and Fieldtrips",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
@@ -49422,7 +49478,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.22064516,
+        "value": 0.232493,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49442,7 +49498,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "score": 0.9961000084877014,
+        "score": 0.9276999831199646,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -49460,7 +49516,7 @@
         {
           "id": "https://openalex.org/T13067",
           "display_name": "Geological Modeling and Analysis",
-          "score": 0.9961000084877014,
+          "score": 0.9276999831199646,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -49475,16 +49531,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T11801",
-          "display_name": "Reservoir Engineering and Simulation Methods",
-          "score": 0.9894000291824341,
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.048500001430511475,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -49494,7 +49550,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9886999726295471,
+          "score": 0.009999999776482582,
           "subfield": {
             "id": "https://openalex.org/subfields/2211",
             "display_name": "Mechanics of Materials"
@@ -49632,8 +49688,8 @@
           "landing_page_url": "https://doi.org/10.3997/2214-4609.20149955",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306499731",
-            "display_name": "72nd EAGE Conference and Exhibition - Workshops and Fieldtrips",
+            "id": "https://openalex.org/S4306499727",
+            "display_name": "EAGE Conference and Exhibition - Workshops and Fieldtrips",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -49877,7 +49933,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -49911,7 +49967,7 @@
           "host_organization_name": null,
           "host_organization_lineage": [],
           "host_organization_lineage_names": [],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -50096,11 +50152,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0399,
+      "fwci": 1.1056,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.68844032,
+        "value": 0.70999885,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -50120,7 +50176,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9991000294685364,
+        "score": 0.625,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -50138,7 +50194,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9991000294685364,
+          "score": 0.625,
           "subfield": {
             "id": "https://openalex.org/subfields/2211",
             "display_name": "Mechanics of Materials"
@@ -50155,7 +50211,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.996999979019165,
+          "score": 0.24719999730587006,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -50170,16 +50226,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9958999752998352,
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.020800000056624413,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -50326,7 +50382,7 @@
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -50992,7 +51048,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -53503,8 +53559,8 @@
         "landing_page_url": "https://doi.org/10.15530/urtec-2021-5683",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306523943",
-          "display_name": "Proceedings of the 9th Unconventional Resources Technology Conference",
+          "id": "https://openalex.org/S4306523920",
+          "display_name": "Unconventional Resources Technology Conference (URTeC)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
@@ -53626,11 +53682,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9488,
+      "fwci": 1.0158,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.68839428,
+        "value": 0.70419482,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -53650,7 +53706,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9987000226974487,
+        "score": 0.9976000189781189,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -53668,7 +53724,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9987000226974487,
+          "score": 0.9976000189781189,
           "subfield": {
             "id": "https://openalex.org/subfields/2211",
             "display_name": "Mechanics of Materials"
@@ -53683,16 +53739,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9940000176429749,
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 0.0006000000284984708,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -53700,16 +53756,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T12603",
-          "display_name": "NMR spectroscopy and applications",
-          "score": 0.9902999997138977,
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.00039999998989515007,
           "subfield": {
-            "id": "https://openalex.org/subfields/3106",
-            "display_name": "Nuclear and High Energy Physics"
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
           },
           "field": {
-            "id": "https://openalex.org/fields/31",
-            "display_name": "Physics and Astronomy"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -53872,8 +53928,8 @@
           "landing_page_url": "https://doi.org/10.15530/urtec-2021-5683",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306523943",
-            "display_name": "Proceedings of the 9th Unconventional Resources Technology Conference",
+            "id": "https://openalex.org/S4306523920",
+            "display_name": "Unconventional Resources Technology Conference (URTeC)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -53927,7 +53983,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -57258,7 +57314,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1190/segam2014-0021.1",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4363604378",
+          "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -57447,7 +57517,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.33755465,
+        "value": 0.30355688,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -57467,7 +57537,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9995999932289124,
+        "score": 0.8481000065803528,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -57485,7 +57555,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9995999932289124,
+          "score": 0.8481000065803528,
           "subfield": {
             "id": "https://openalex.org/subfields/2211",
             "display_name": "Mechanics of Materials"
@@ -57500,16 +57570,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10491",
-          "display_name": "Enhanced Oil Recovery Techniques",
-          "score": 0.9983999729156494,
+          "id": "https://openalex.org/T12676",
+          "display_name": "Machine Learning and ELM",
+          "score": 0.11100000143051147,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -57517,12 +57587,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9976999759674072,
+          "id": "https://openalex.org/T10491",
+          "display_name": "Enhanced Oil Recovery Techniques",
+          "score": 0.01360000018030405,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
           },
           "field": {
             "id": "https://openalex.org/fields/22",
@@ -57743,7 +57813,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1190/segam2014-0021.1",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4363604378",
+            "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -58222,7 +58306,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -63715,7 +63799,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2118/204558-ms",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S7407086545",
+          "display_name": "SPE Middle East Oil & Gas Show and Conference (MEOS)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -63945,11 +64043,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4174,
+      "fwci": 1.7677,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.85587045,
+        "value": 0.8703591,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -63969,7 +64067,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "score": 0.9998999834060669,
+        "score": 1,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -63987,7 +64085,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.9998999834060669,
+          "score": 1,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -64002,16 +64100,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9973000288009644,
+          "id": "https://openalex.org/T10577",
+          "display_name": "Hydrology and Sediment Transport Processes",
+          "score": 0,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/2303",
+            "display_name": "Ecology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -64019,12 +64117,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9947999715805054,
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0,
           "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -64263,7 +64361,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2118/204558-ms",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S7407086545",
+            "display_name": "SPE Middle East Oil & Gas Show and Conference (MEOS)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -65281,7 +65393,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -70841,8 +70953,8 @@
         "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.395.iptc-17695-ms",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4363607918",
-          "display_name": "IPTC 2014: International Petroleum Technology Conference",
+          "id": "https://openalex.org/S4363607856",
+          "display_name": "International Petroleum Technology Conference (IPTC)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
@@ -70964,7 +71076,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13432836,
+        "value": 0.12014662,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -70981,7 +71093,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9975000023841858,
+        "score": 0.9955999851226807,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -70999,7 +71111,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9975000023841858,
+          "score": 0.9955999851226807,
           "subfield": {
             "id": "https://openalex.org/subfields/2211",
             "display_name": "Mechanics of Materials"
@@ -71014,16 +71126,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.9718000292778015,
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.0006000000284984708,
           "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
           },
           "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -71031,12 +71143,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9642000198364258,
+          "id": "https://openalex.org/T10491",
+          "display_name": "Enhanced Oil Recovery Techniques",
+          "score": 0.0005000000237487257,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
           },
           "field": {
             "id": "https://openalex.org/fields/22",
@@ -71242,8 +71354,8 @@
           "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.395.iptc-17695-ms",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4363607918",
-            "display_name": "IPTC 2014: International Petroleum Technology Conference",
+            "id": "https://openalex.org/S4363607856",
+            "display_name": "International Petroleum Technology Conference (IPTC)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -71640,7 +71752,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -75519,7 +75631,7 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306499750",
-          "display_name": "78th EAGE Conference and Exhibition 2016",
+          "display_name": "EAGE Conference and Exhibition",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
@@ -75643,7 +75755,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.35531595,
+        "value": 0.29194823,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -75660,7 +75772,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9998000264167786,
+        "score": 0.8554999828338623,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -75678,7 +75790,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9998000264167786,
+          "score": 0.8554999828338623,
           "subfield": {
             "id": "https://openalex.org/subfields/2211",
             "display_name": "Mechanics of Materials"
@@ -75693,16 +75805,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T11801",
-          "display_name": "Reservoir Engineering and Simulation Methods",
-          "score": 0.9977999925613403,
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.10819999873638153,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -75710,16 +75822,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10491",
-          "display_name": "Enhanced Oil Recovery Techniques",
-          "score": 0.9965999722480774,
+          "id": "https://openalex.org/T13067",
+          "display_name": "Geological Modeling and Analysis",
+          "score": 0.01850000023841858,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -75893,7 +76005,7 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306499750",
-            "display_name": "78th EAGE Conference and Exhibition 2016",
+            "display_name": "EAGE Conference and Exhibition",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -76407,7 +76519,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -84944,8 +85056,8 @@
         "landing_page_url": "https://doi.org/10.3997/2214-4609.201901467",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306499799",
-          "display_name": "81st EAGE Conference and Exhibition 2019",
+          "id": "https://openalex.org/S4306499750",
+          "display_name": "EAGE Conference and Exhibition",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
@@ -85071,7 +85183,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.17613378,
+        "value": 0.25387205,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -85086,16 +85198,16 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9984999895095825,
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.6205999851226807,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -85104,26 +85216,9 @@
       },
       "topics": [
         {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9984999895095825,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.9876000285148621,
+          "score": 0.6205999851226807,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -85138,16 +85233,33 @@
           }
         },
         {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.9797999858856201,
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.35989999771118164,
           "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
           },
           "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.005900000222027302,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -85329,8 +85441,8 @@
           "landing_page_url": "https://doi.org/10.3997/2214-4609.201901467",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306499799",
-            "display_name": "81st EAGE Conference and Exhibition 2019",
+            "id": "https://openalex.org/S4306499750",
+            "display_name": "EAGE Conference and Exhibition",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -85755,7 +85867,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -85777,8 +85889,8 @@
         "landing_page_url": "https://doi.org/10.3997/2214-4609.201901468",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306499799",
-          "display_name": "81st EAGE Conference and Exhibition 2019",
+          "id": "https://openalex.org/S4306499750",
+          "display_name": "EAGE Conference and Exhibition",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
@@ -85904,7 +86016,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.18095065,
+        "value": 0.26026936,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -85919,16 +86031,16 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9991000294685364,
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.975600004196167,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -85937,9 +86049,26 @@
       },
       "topics": [
         {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.975600004196167,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9991000294685364,
+          "score": 0.01810000091791153,
           "subfield": {
             "id": "https://openalex.org/subfields/2211",
             "display_name": "Mechanics of Materials"
@@ -85954,9 +86083,9 @@
           }
         },
         {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.993399977684021,
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.0019000000320374966,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -85964,23 +86093,6 @@
           "field": {
             "id": "https://openalex.org/fields/19",
             "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9929999709129333,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -86145,8 +86257,8 @@
           "landing_page_url": "https://doi.org/10.3997/2214-4609.201901468",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306499799",
-            "display_name": "81st EAGE Conference and Exhibition 2019",
+            "id": "https://openalex.org/S4306499750",
+            "display_name": "EAGE Conference and Exhibition",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -86629,7 +86741,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -106700,7 +106812,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1306/11322osman2020",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S7407089262",
+          "display_name": "AAPG Annual Convention and Exhibition (ACE)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -106768,7 +106894,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.47891723,
+        "value": 0.65980707,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -106783,16 +106909,16 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T11801",
-        "display_name": "Reservoir Engineering and Simulation Methods",
-        "score": 0.9994999766349792,
+        "id": "https://openalex.org/T13067",
+        "display_name": "Geological Modeling and Analysis",
+        "score": 0.7099999785423279,
         "subfield": {
-          "id": "https://openalex.org/subfields/2212",
-          "display_name": "Ocean Engineering"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -106801,12 +106927,29 @@
       },
       "topics": [
         {
-          "id": "https://openalex.org/T11801",
-          "display_name": "Reservoir Engineering and Simulation Methods",
-          "score": 0.9994999766349792,
+          "id": "https://openalex.org/T13067",
+          "display_name": "Geological Modeling and Analysis",
+          "score": 0.7099999785423279,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.15610000491142273,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
           },
           "field": {
             "id": "https://openalex.org/fields/22",
@@ -106818,33 +106961,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10892",
-          "display_name": "Drilling and Well Engineering",
-          "score": 0.9965000152587891,
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.11810000240802765,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9940000176429749,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -106985,7 +107111,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1306/11322osman2020",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S7407089262",
+            "display_name": "AAPG Annual Convention and Exhibition (ACE)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -107028,7 +107168,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {

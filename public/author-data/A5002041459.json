@@ -2648,9 +2648,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5899999737739563
+          "score": 0.5899999737739563,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -3697,9 +3697,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "display_name": "Zero hunger"
         }
       ],
       "study_designs": [],
@@ -6265,9 +6265,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -7300,9 +7300,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -8398,9 +8398,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.75
+          "score": 0.75,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -9097,7 +9097,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2118/204892-ms",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S7407086545",
+          "display_name": "SPE Middle East Oil & Gas Show and Conference (MEOS)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -9286,7 +9300,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.16024169,
+        "value": 0.15724454,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9306,7 +9320,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T12157",
         "display_name": "Geochemistry and Geologic Mapping",
-        "score": 0.9980999827384949,
+        "score": 0.8866999745368958,
         "subfield": {
           "id": "https://openalex.org/subfields/1702",
           "display_name": "Artificial Intelligence"
@@ -9324,7 +9338,7 @@
         {
           "id": "https://openalex.org/T12157",
           "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.9980999827384949,
+          "score": 0.8866999745368958,
           "subfield": {
             "id": "https://openalex.org/subfields/1702",
             "display_name": "Artificial Intelligence"
@@ -9339,16 +9353,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T12282",
-          "display_name": "Mineral Processing and Grinding",
-          "score": 0.9908000230789185,
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.059700001031160355,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -9356,16 +9370,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10640",
-          "display_name": "Spectroscopy and Chemometric Analyses",
-          "score": 0.9376000165939331,
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.02630000002682209,
           "subfield": {
-            "id": "https://openalex.org/subfields/1602",
-            "display_name": "Analytical Chemistry"
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
           },
           "field": {
-            "id": "https://openalex.org/fields/16",
-            "display_name": "Chemistry"
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -9544,7 +9558,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2118/204892-ms",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S7407086545",
+            "display_name": "SPE Middle East Oil & Gas Show and Conference (MEOS)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -9558,14 +9586,14 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Peace, justice, and strong institutions",
           "id": "https://metadata.un.org/sdg/16",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "display_name": "Peace, justice, and strong institutions"
         },
         {
-          "display_name": "Reduced inequalities",
           "id": "https://metadata.un.org/sdg/10",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "display_name": "Reduced inequalities"
         }
       ],
       "study_designs": [],
@@ -10366,7 +10394,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11114,16 +11142,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8669640421867371
+          "score": 0.8669640421867371,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -11232,7 +11260,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2118/204591-ms",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S7407086545",
+          "display_name": "SPE Middle East Oil & Gas Show and Conference (MEOS)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -11370,7 +11412,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.35789474,
+        "value": 0.39074863,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11387,7 +11429,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "score": 0.9994000196456909,
+        "score": 0.9990000128746033,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -11405,7 +11447,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.9994000196456909,
+          "score": 0.9990000128746033,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -11420,16 +11462,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10577",
-          "display_name": "Hydrology and Sediment Transport Processes",
-          "score": 0.9991000294685364,
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.00039999998989515007,
           "subfield": {
-            "id": "https://openalex.org/subfields/2303",
-            "display_name": "Ecology"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -11437,20 +11479,20 @@
           }
         },
         {
-          "id": "https://openalex.org/T10889",
-          "display_name": "Soil erosion and sediment transport",
-          "score": 0.9983000159263611,
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.00009999999747378752,
           "subfield": {
-            "id": "https://openalex.org/subfields/1111",
-            "display_name": "Soil Science"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/11",
-            "display_name": "Agricultural and Biological Sciences"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
-            "id": "https://openalex.org/domains/1",
-            "display_name": "Life Sciences"
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
           }
         }
       ],
@@ -11659,7 +11701,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2118/204591-ms",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S7407086545",
+            "display_name": "SPE Middle East Oil & Gas Show and Conference (MEOS)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -11673,9 +11729,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -12552,7 +12608,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13489,7 +13545,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2118/227604-ms",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S7407086985",
+          "display_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -13751,7 +13821,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.22774194,
+        "value": 0.23646961,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13766,16 +13836,16 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T10995",
-        "display_name": "Methane Hydrates and Related Phenomena",
-        "score": 0.9926000237464905,
+        "id": "https://openalex.org/T11740",
+        "display_name": "Geochemistry and Elemental Analysis",
+        "score": 0.2685999870300293,
         "subfield": {
-          "id": "https://openalex.org/subfields/2304",
-          "display_name": "Environmental Chemistry"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -13784,12 +13854,29 @@
       },
       "topics": [
         {
-          "id": "https://openalex.org/T10995",
-          "display_name": "Methane Hydrates and Related Phenomena",
-          "score": 0.9926000237464905,
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.2685999870300293,
           "subfield": {
-            "id": "https://openalex.org/subfields/2304",
-            "display_name": "Environmental Chemistry"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 0.21080000698566437,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
           },
           "field": {
             "id": "https://openalex.org/fields/23",
@@ -13803,7 +13890,7 @@
         {
           "id": "https://openalex.org/T11278",
           "display_name": "Calcium Carbonate Crystallization and Inhibition",
-          "score": 0.9901999831199646,
+          "score": 0.16060000658035278,
           "subfield": {
             "id": "https://openalex.org/subfields/2502",
             "display_name": "Biomaterials"
@@ -13811,23 +13898,6 @@
           "field": {
             "id": "https://openalex.org/fields/25",
             "display_name": "Materials Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9896000027656555,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -14074,7 +14144,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2118/227604-ms",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S7407086985",
+            "display_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -14876,7 +14960,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14896,7 +14980,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1190/image2025-4305054.1",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4363604378",
+          "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -15048,7 +15146,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38297872,
+        "value": 0.29411765,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15063,16 +15161,16 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.44749999046325684,
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.9887999892234802,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -15081,26 +15179,9 @@
       },
       "topics": [
         {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.44749999046325684,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.13740000128746033,
+          "score": 0.9887999892234802,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -15115,16 +15196,33 @@
           }
         },
         {
-          "id": "https://openalex.org/T11302",
-          "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 0.09440000355243683,
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.006200000178068876,
           "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.002099999925121665,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -15313,7 +15411,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1190/image2025-4305054.1",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4363604378",
+            "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -15326,16 +15438,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8427148461341858
+          "score": 0.8427148461341858,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -15609,7 +15721,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2026-04-02T00:00:00"
     }
   ]

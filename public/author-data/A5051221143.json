@@ -11,7 +11,7 @@
     ],
     "full_name": "Rabah Alouani",
     "works_count": 19,
-    "cited_by_count": 208,
+    "cited_by_count": 212,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 7,
@@ -195,7 +195,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0001079,
+        "value": 0.0001075,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -212,7 +212,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.000018,
+        "value": 0.0000177,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -229,7 +229,7 @@
       {
         "id": "https://openalex.org/T10110",
         "display_name": "earthquake and tectonic studies",
-        "value": 0.0000147,
+        "value": 0.0000148,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -261,16 +261,16 @@
         }
       },
       {
-        "id": "https://openalex.org/T13404",
-        "display_name": "Geological and Tectonic Studies in Latin America",
-        "value": 0.0000118,
+        "id": "https://openalex.org/T12282",
+        "display_name": "Mineral Processing and Grinding",
+        "value": 0.0000113,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/2210",
+          "display_name": "Mechanical Engineering"
         },
         "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -327,13 +327,13 @@
         "year": 2005,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 6
+        "cited_by_count": 7
       },
       {
         "year": 2006,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 30
+        "cited_by_count": 32
       },
       {
         "year": 2007,
@@ -351,7 +351,7 @@
         "year": 2010,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 50
+        "cited_by_count": 51
       },
       {
         "year": 2016,
@@ -397,7 +397,7 @@
     ],
     "block_key": "r alouani",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051221143",
-    "updated_date": "2026-09-28T13:44:42",
+    "updated_date": "2026-10-04T12:28:53",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1043,17 +1043,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -1859,8 +1859,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2400592313.pdf",
@@ -2890,17 +2890,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.5600000023841858,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5600000023841858
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W176213037.pdf",
@@ -4107,8 +4107,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1966461395.pdf",
@@ -5263,17 +5263,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -5844,17 +5844,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.47999998927116394,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.47999998927116394
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -7388,8 +7388,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -7949,17 +7949,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.5799999833106995,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5799999833106995
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -9116,17 +9116,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -9253,7 +9253,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.8.p015",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4306497541",
+          "display_name": "EAGE North African/Mediterranean Petroleum & Geosciences Conference & Exhibition",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -9349,11 +9363,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5318,
+      "fwci": 1.2891,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.82723949,
+        "value": 0.86307692,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9371,12 +9385,12 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T13205",
-        "display_name": "Geological and Geophysical Studies Worldwide",
-        "score": 0.9998999834060669,
+        "id": "https://openalex.org/T13193",
+        "display_name": "Geological Studies and Exploration",
+        "score": 0.37299999594688416,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -9389,9 +9403,26 @@
       },
       "topics": [
         {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.37299999594688416,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
           "id": "https://openalex.org/T13205",
           "display_name": "Geological and Geophysical Studies Worldwide",
-          "score": 0.9998999834060669,
+          "score": 0.3285999894142151,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -9406,29 +9437,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10110",
-          "display_name": "earthquake and tectonic studies",
-          "score": 0.9890999794006348,
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.17110000550746918,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.9627000093460083,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -9510,7 +9524,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.8.p015",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4306497541",
+            "display_name": "EAGE North African/Mediterranean Petroleum & Geosciences Conference & Exhibition",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -9524,17 +9552,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.4000000059604645,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4000000059604645
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9847,7 +9875,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9868,7 +9896,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.11.p16",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4306497541",
+          "display_name": "EAGE North African/Mediterranean Petroleum & Geosciences Conference & Exhibition",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -9980,11 +10022,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5095,
+      "fwci": 1.8355,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.84555842,
+        "value": 0.86750306,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10004,7 +10046,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "score": 0.9994999766349792,
+        "score": 0.8539999723434448,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -10022,7 +10064,7 @@
         {
           "id": "https://openalex.org/T13205",
           "display_name": "Geological and Geophysical Studies Worldwide",
-          "score": 0.9994999766349792,
+          "score": 0.8539999723434448,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -10037,12 +10079,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9979000091552734,
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.10209999978542328,
           "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -10054,12 +10096,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9955999851226807,
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.02290000021457672,
           "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -10154,7 +10196,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.11.p16",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4306497541",
+            "display_name": "EAGE North African/Mediterranean Petroleum & Geosciences Conference & Exhibition",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -10171,8 +10227,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10483,7 +10539,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-04T09:36:47.201465",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10948,17 +11004,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.5699999928474426,
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5699999928474426
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11803,8 +11859,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -12367,17 +12423,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8100000023841858,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8100000023841858
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12812,17 +12868,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13577,8 +13633,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3140554541.pdf",
@@ -14557,8 +14613,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -15222,17 +15278,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.6600000262260437,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6600000262260437
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386418130.pdf",
@@ -15953,8 +16009,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,

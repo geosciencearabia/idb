@@ -18,7 +18,7 @@
     ],
     "full_name": "Énay, Raymond",
     "works_count": 108,
-    "cited_by_count": 1874,
+    "cited_by_count": 1882,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 22,
@@ -299,7 +299,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002195,
+        "value": 0.0002184,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -316,7 +316,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0001558,
+        "value": 0.0001536,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -333,7 +333,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0001152,
+        "value": 0.0001143,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -350,7 +350,7 @@
       {
         "id": "https://openalex.org/T12821",
         "display_name": "Geological Formations and Processes Exploration",
-        "value": 0.0000788,
+        "value": 0.0000777,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -367,7 +367,7 @@
       {
         "id": "https://openalex.org/T12234",
         "display_name": "Mollusks and Parasites Studies",
-        "value": 0.0000677,
+        "value": 0.0000671,
         "subfield": {
           "id": "https://openalex.org/subfields/1109",
           "display_name": "Insect Science"
@@ -449,13 +449,13 @@
         "year": 1965,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 13
+        "cited_by_count": 14
       },
       {
         "year": 1966,
         "works_count": 5,
         "oa_works_count": 0,
-        "cited_by_count": 46
+        "cited_by_count": 47
       },
       {
         "year": 1971,
@@ -491,13 +491,13 @@
         "year": 1980,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 28
+        "cited_by_count": 29
       },
       {
         "year": 1981,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 31
+        "cited_by_count": 32
       },
       {
         "year": 1982,
@@ -521,7 +521,7 @@
         "year": 1987,
         "works_count": 5,
         "oa_works_count": 0,
-        "cited_by_count": 132
+        "cited_by_count": 133
       },
       {
         "year": 1988,
@@ -575,7 +575,7 @@
         "year": 1997,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 129
+        "cited_by_count": 130
       },
       {
         "year": 1998,
@@ -623,13 +623,13 @@
         "year": 2005,
         "works_count": 5,
         "oa_works_count": 0,
-        "cited_by_count": 80
+        "cited_by_count": 81
       },
       {
         "year": 2006,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 15
+        "cited_by_count": 16
       },
       {
         "year": 2007,
@@ -718,7 +718,7 @@
     ],
     "block_key": "r enay",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5084630459",
-    "updated_date": "2026-10-03T12:27:44",
+    "updated_date": "2026-10-04T12:28:53",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -19254,8 +19254,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": null,
-            "display_name": "P. Cros",
+            "id": "https://openalex.org/A5078368010",
+            "display_name": "Pierre Cros",
             "orcid": null,
             "observed_orcids": []
           },
@@ -19385,13 +19385,13 @@
         "value_usd": 539
       },
       "apc_paid": null,
-      "fwci": 2.2841,
+      "fwci": 4.2162,
       "has_fulltext": false,
       "cited_by_count": 47,
       "citation_normalized_percentile": {
-        "value": 0.87703999,
+        "value": 0.93339831,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 88,
@@ -19407,12 +19407,12 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T13205",
-        "display_name": "Geological and Geophysical Studies Worldwide",
-        "score": 0.9998999834060669,
+        "id": "https://openalex.org/T13177",
+        "display_name": "Geological and Geophysical Studies",
+        "score": 0.3163999915122986,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -19425,12 +19425,12 @@
       },
       "topics": [
         {
-          "id": "https://openalex.org/T13205",
-          "display_name": "Geological and Geophysical Studies Worldwide",
-          "score": 0.9998999834060669,
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.3163999915122986,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -19442,12 +19442,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.9994000196456909,
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.26759999990463257,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -19459,12 +19459,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9994000196456909,
+          "id": "https://openalex.org/T14047",
+          "display_name": "Marine and environmental studies",
+          "score": 0.20260000228881836,
           "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
+            "id": "https://openalex.org/subfields/1910",
+            "display_name": "Oceanography"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -19686,7 +19686,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -57506,7 +57506,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.8.t045",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4306497541",
+          "display_name": "EAGE North African/Mediterranean Petroleum & Geosciences Conference & Exhibition",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -57636,7 +57650,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.00868373,
+        "value": 0.01629914,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -57654,12 +57668,12 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T13205",
-        "display_name": "Geological and Geophysical Studies Worldwide",
-        "score": 0.9994000196456909,
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.7782999873161316,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -57672,9 +57686,43 @@
       },
       "topics": [
         {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.7782999873161316,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.09309999644756317,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
           "id": "https://openalex.org/T13205",
           "display_name": "Geological and Geophysical Studies Worldwide",
-          "score": 0.9994000196456909,
+          "score": 0.05959999933838844,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -57836,7 +57884,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.8.t045",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4306497541",
+            "display_name": "EAGE North African/Mediterranean Petroleum & Geosciences Conference & Exhibition",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -58159,7 +58221,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {

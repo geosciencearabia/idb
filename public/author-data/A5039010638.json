@@ -17,7 +17,7 @@
     ],
     "full_name": "Mohamed Omar Abouelresh",
     "works_count": 53,
-    "cited_by_count": 1058,
+    "cited_by_count": 1059,
     "summary_stats": {
       "2yr_mean_citedness": 4.909090909090909,
       "h_index": 17,
@@ -228,7 +228,7 @@
       {
         "id": "https://openalex.org/T12456",
         "display_name": "Geotourism and Geoheritage Conservation",
-        "value": 0.0002538,
+        "value": 0.0002431,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -245,7 +245,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000669,
+        "value": 0.0000668,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -262,7 +262,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.000057,
+        "value": 0.0000569,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -279,7 +279,7 @@
       {
         "id": "https://openalex.org/T12603",
         "display_name": "NMR spectroscopy and applications",
-        "value": 0.0000569,
+        "value": 0.0000568,
         "subfield": {
           "id": "https://openalex.org/subfields/3106",
           "display_name": "Nuclear and High Energy Physics"
@@ -296,7 +296,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000541,
+        "value": 0.0000532,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -396,7 +396,7 @@
         "year": 2019,
         "works_count": 11,
         "oa_works_count": 1,
-        "cited_by_count": 173
+        "cited_by_count": 174
       },
       {
         "year": 2020,
@@ -452,7 +452,7 @@
     ],
     "block_key": "m abouelresh",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039010638",
-    "updated_date": "2026-10-01T12:39:15",
+    "updated_date": "2026-10-04T12:28:53",
     "created_date": "2019-08-13T00:00:00"
   },
   "works": [
@@ -927,9 +927,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.7900000214576721,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -2713,9 +2713,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Responsible consumption and production",
           "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "study_designs": [],
@@ -4359,9 +4359,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Responsible consumption and production",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "study_designs": [],
@@ -5525,9 +5525,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Decent work and economic growth",
           "score": 0.6399999856948853,
-          "id": "https://metadata.un.org/sdg/8",
-          "display_name": "Decent work and economic growth"
+          "id": "https://metadata.un.org/sdg/8"
         }
       ],
       "study_designs": [],
@@ -7523,7 +7523,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2118/187667-ms",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S7407087853",
+          "display_name": "SPE Kuwait Oil & Gas Show and Conference (KOGS)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -7751,11 +7765,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 16.3936,
+      "fwci": 18.2935,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.99728062,
+        "value": 0.99735864,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -7775,7 +7789,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 1,
+        "score": 0.9653000235557556,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -7793,7 +7807,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 1,
+          "score": 0.9653000235557556,
           "subfield": {
             "id": "https://openalex.org/subfields/2211",
             "display_name": "Mechanics of Materials"
@@ -7808,26 +7822,9 @@
           }
         },
         {
-          "id": "https://openalex.org/T11588",
-          "display_name": "Atmospheric and Environmental Gas Dynamics",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2306",
-            "display_name": "Global and Planetary Change"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
           "id": "https://openalex.org/T11284",
           "display_name": "Coal Properties and Utilization",
-          "score": 0.9991999864578247,
+          "score": 0.010999999940395355,
           "subfield": {
             "id": "https://openalex.org/subfields/2212",
             "display_name": "Ocean Engineering"
@@ -7835,6 +7832,23 @@
           "field": {
             "id": "https://openalex.org/fields/22",
             "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 0.005400000140070915,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -8005,7 +8019,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2118/187667-ms",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S7407087853",
+            "display_name": "SPE Kuwait Oil & Gas Show and Conference (KOGS)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -8018,14 +8046,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
+          "display_name": "Affordable and clean energy",
           "score": 0.571399986743927,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -8552,7 +8580,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8573,7 +8601,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2118/198130-ms",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S7407087853",
+          "display_name": "SPE Kuwait Oil & Gas Show and Conference (KOGS)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -8803,11 +8845,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 23.1888,
+      "fwci": 26.9341,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.99872762,
+        "value": 0.99856605,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -8827,7 +8869,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9998999834060669,
+        "score": 0.9937000274658203,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -8845,7 +8887,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9998999834060669,
+          "score": 0.9937000274658203,
           "subfield": {
             "id": "https://openalex.org/subfields/2211",
             "display_name": "Mechanics of Materials"
@@ -8860,16 +8902,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T12603",
-          "display_name": "NMR spectroscopy and applications",
-          "score": 0.9984999895095825,
+          "id": "https://openalex.org/T10820",
+          "display_name": "Fuzzy Logic and Control Systems",
+          "score": 0.0017000000225380063,
           "subfield": {
-            "id": "https://openalex.org/subfields/3106",
-            "display_name": "Nuclear and High Energy Physics"
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
           },
           "field": {
-            "id": "https://openalex.org/fields/31",
-            "display_name": "Physics and Astronomy"
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -8879,7 +8921,7 @@
         {
           "id": "https://openalex.org/T12157",
           "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.9972000122070312,
+          "score": 0.0003000000142492354,
           "subfield": {
             "id": "https://openalex.org/subfields/1702",
             "display_name": "Artificial Intelligence"
@@ -9037,7 +9079,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2118/198130-ms",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S7407087853",
+            "display_name": "SPE Kuwait Oil & Gas Show and Conference (KOGS)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -9051,9 +9107,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Responsible consumption and production",
           "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "study_designs": [],
@@ -9731,7 +9787,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10296,9 +10352,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Responsible consumption and production",
           "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "study_designs": [],
@@ -13325,9 +13381,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Sustainable cities and communities",
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "study_designs": [],
@@ -14343,9 +14399,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -15045,16 +15101,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life on land",
           "score": 0.4390000104904175,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -15784,9 +15840,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life on land",
           "score": 0.7605999708175659,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -17818,9 +17874,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -20240,9 +20296,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.9786999821662903,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -22617,9 +22673,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life on land",
           "score": 0.8125,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -23199,9 +23255,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Clean water and sanitation",
           "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [],
@@ -23395,7 +23451,7 @@
           "host_organization_name": null,
           "host_organization_lineage": [],
           "host_organization_lineage_names": [],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -23664,11 +23720,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9007,
+      "fwci": 0.5886,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.70122564,
+        "value": 0.66812488,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23686,16 +23742,16 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9998999834060669,
+        "id": "https://openalex.org/T11302",
+        "display_name": "CO2 Sequestration and Geologic Interactions",
+        "score": 0.9413999915122986,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/2305",
+          "display_name": "Environmental Engineering"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -23704,26 +23760,9 @@
       },
       "topics": [
         {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
           "id": "https://openalex.org/T11302",
           "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 0.9983000159263611,
+          "score": 0.9413999915122986,
           "subfield": {
             "id": "https://openalex.org/subfields/2305",
             "display_name": "Environmental Engineering"
@@ -23738,9 +23777,26 @@
           }
         },
         {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.05000000074505806,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
           "id": "https://openalex.org/T10967",
           "display_name": "Carbon Dioxide Capture Technologies",
-          "score": 0.998199999332428,
+          "score": 0.0027000000700354576,
           "subfield": {
             "id": "https://openalex.org/subfields/2210",
             "display_name": "Mechanical Engineering"
@@ -24025,7 +24081,7 @@
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -24039,9 +24095,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -24928,7 +24984,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25606,16 +25662,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -26613,9 +26669,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life on land",
           "score": 0.8518999814987183,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -27338,9 +27394,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life on land",
           "score": 0.4390000104904175,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -28942,7 +28998,7 @@
           "host_organization_name": null,
           "host_organization_lineage": [],
           "host_organization_lineage_names": [],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -29165,11 +29221,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.0798,
+      "fwci": 2.2112,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.82434804,
+        "value": 0.83369603,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29189,7 +29245,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 1,
+        "score": 0.9990000128746033,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -29207,7 +29263,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 1,
+          "score": 0.9990000128746033,
           "subfield": {
             "id": "https://openalex.org/subfields/2211",
             "display_name": "Mechanics of Materials"
@@ -29222,16 +29278,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10995",
-          "display_name": "Methane Hydrates and Related Phenomena",
-          "score": 0.9984999895095825,
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.00039999998989515007,
           "subfield": {
-            "id": "https://openalex.org/subfields/2304",
-            "display_name": "Environmental Chemistry"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -29239,12 +29295,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.9948999881744385,
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.00009999999747378752,
           "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -29453,7 +29509,7 @@
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -30203,7 +30259,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30807,8 +30863,8 @@
         "landing_page_url": "https://doi.org/10.2118/178573-ms",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4363608023",
-          "display_name": "Unconventional Resources Technology Conference",
+          "id": "https://openalex.org/S4306523920",
+          "display_name": "Unconventional Resources Technology Conference (URTeC)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
@@ -30892,11 +30948,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.6103,
+      "fwci": 5.0863,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.94409322,
+        "value": 0.94875944,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -30916,7 +30972,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 1,
+        "score": 0.9994999766349792,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -30934,7 +30990,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 1,
+          "score": 0.9994999766349792,
           "subfield": {
             "id": "https://openalex.org/subfields/2211",
             "display_name": "Mechanics of Materials"
@@ -30949,12 +31005,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9995999932289124,
+          "id": "https://openalex.org/T10491",
+          "display_name": "Enhanced Oil Recovery Techniques",
+          "score": 0.00009999999747378752,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
           },
           "field": {
             "id": "https://openalex.org/fields/22",
@@ -30966,12 +31022,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T11284",
-          "display_name": "Coal Properties and Utilization",
-          "score": 0.9988999962806702,
+          "id": "https://openalex.org/T10635",
+          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+          "score": 0.00009999999747378752,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
           },
           "field": {
             "id": "https://openalex.org/fields/22",
@@ -31068,8 +31124,8 @@
           "landing_page_url": "https://doi.org/10.2118/178573-ms",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4363608023",
-            "display_name": "Unconventional Resources Technology Conference",
+            "id": "https://openalex.org/S4306523920",
+            "display_name": "Unconventional Resources Technology Conference (URTeC)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -31095,9 +31151,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Climate action",
           "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -31181,7 +31237,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -31215,7 +31271,7 @@
           "host_organization_name": null,
           "host_organization_lineage": [],
           "host_organization_lineage_names": [],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
@@ -31526,11 +31582,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.643,
+      "fwci": 4.0652,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.91590838,
+        "value": 0.92711798,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -31550,7 +31606,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 1,
+        "score": 0.9984999895095825,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -31568,7 +31624,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 1,
+          "score": 0.9984999895095825,
           "subfield": {
             "id": "https://openalex.org/subfields/2211",
             "display_name": "Mechanics of Materials"
@@ -31583,12 +31639,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9994999766349792,
+          "id": "https://openalex.org/T11284",
+          "display_name": "Coal Properties and Utilization",
+          "score": 0.00039999998989515007,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
           },
           "field": {
             "id": "https://openalex.org/fields/22",
@@ -31600,16 +31656,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T11588",
-          "display_name": "Atmospheric and Environmental Gas Dynamics",
-          "score": 0.9994000196456909,
+          "id": "https://openalex.org/T10635",
+          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+          "score": 0.0003000000142492354,
           "subfield": {
-            "id": "https://openalex.org/subfields/2306",
-            "display_name": "Global and Planetary Change"
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
           },
           "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -31861,7 +31917,7 @@
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
@@ -31875,9 +31931,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -32824,7 +32880,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33204,9 +33260,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.5099999904632568,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -35665,9 +35721,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -36256,7 +36312,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1190/image2022-3745573.1",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4363604378",
+          "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -36380,11 +36450,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3923,
+      "fwci": 2.6007,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.86236074,
+        "value": 0.86901351,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36437,16 +36507,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T11630",
-          "display_name": "Petroleum Processing and Analysis",
-          "score": 0.9991999864578247,
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0,
           "subfield": {
-            "id": "https://openalex.org/subfields/1602",
-            "display_name": "Analytical Chemistry"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/16",
-            "display_name": "Chemistry"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -36454,16 +36524,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9980999827384949,
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -36689,7 +36759,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1190/image2022-3745573.1",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4363604378",
+            "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -37227,7 +37311,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37248,7 +37332,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.15530/urtec-2015-2154081",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4306523920",
+          "display_name": "Unconventional Resources Technology Conference (URTeC)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -37296,11 +37394,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3051,
+      "fwci": 2.5431,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.86401388,
+        "value": 0.87378641,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37320,7 +37418,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9987999796867371,
+        "score": 1,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -37338,7 +37436,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9987999796867371,
+          "score": 1,
           "subfield": {
             "id": "https://openalex.org/subfields/2211",
             "display_name": "Mechanics of Materials"
@@ -37353,12 +37451,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.9961000084877014,
+          "id": "https://openalex.org/T10491",
+          "display_name": "Enhanced Oil Recovery Techniques",
+          "score": 0,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
           },
           "field": {
             "id": "https://openalex.org/fields/22",
@@ -37370,16 +37468,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10892",
-          "display_name": "Drilling and Well Engineering",
-          "score": 0.983299970626831,
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -37490,7 +37588,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.15530/urtec-2015-2154081",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4306523920",
+            "display_name": "Unconventional Resources Technology Conference (URTeC)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -37532,7 +37644,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37969,16 +38081,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -39153,9 +39265,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Responsible consumption and production",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "study_designs": [],
@@ -41472,9 +41584,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -43310,9 +43422,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.49000000953674316,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -43980,16 +44092,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Sustainable cities and communities",
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Decent work and economic growth",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/8",
-          "display_name": "Decent work and economic growth"
+          "id": "https://metadata.un.org/sdg/8"
         }
       ],
       "study_designs": [],
@@ -45616,9 +45728,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -50296,14 +50408,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         },
         {
+          "display_name": "Life on land",
           "score": 0.4390000104904175,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -51132,21 +51244,21 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life on land",
           "score": 0.9599999785423279,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "id": "https://metadata.un.org/sdg/15"
         },
         {
+          "display_name": "Zero hunger",
           "score": 0.40450000762939453,
-          "id": "https://metadata.un.org/sdg/2",
-          "display_name": "Zero hunger"
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Zero hunger",
           "score": 0.5606032609939575,
-          "id": "https://metadata.un.org/sdg/2",
-          "display_name": "Zero hunger"
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "study_designs": [],

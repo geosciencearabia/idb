@@ -10,7 +10,7 @@
     ],
     "full_name": "Jacques Manivit",
     "works_count": 8,
-    "cited_by_count": 330,
+    "cited_by_count": 332,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 6,
@@ -131,7 +131,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0000308,
+        "value": 0.0000307,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -148,7 +148,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000241,
+        "value": 0.0000243,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -165,7 +165,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000174,
+        "value": 0.0000176,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -182,7 +182,7 @@
       {
         "id": "https://openalex.org/T12097",
         "display_name": "Aquatic Invertebrate Ecology and Behavior",
-        "value": 0.0000062,
+        "value": 0.0000063,
         "subfield": {
           "id": "https://openalex.org/subfields/2303",
           "display_name": "Ecology"
@@ -257,13 +257,13 @@
         "year": 1987,
         "works_count": 3,
         "oa_works_count": 0,
-        "cited_by_count": 159
+        "cited_by_count": 160
       },
       {
         "year": 1990,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 83
+        "cited_by_count": 84
       },
       {
         "year": 1996,
@@ -290,7 +290,7 @@
     ],
     "block_key": "j manivit",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051867931",
-    "updated_date": "2026-09-25T12:19:18",
+    "updated_date": "2026-10-04T12:28:53",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -788,16 +788,16 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8399999737739563
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -1313,16 +1313,16 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6499999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6499999761581421
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -2568,16 +2568,16 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7300000190734863,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7300000190734863
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -3881,8 +3881,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -5280,16 +5280,16 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -5749,8 +5749,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6353,16 +6353,16 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6841,8 +6841,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

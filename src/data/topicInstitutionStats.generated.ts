@@ -19,92 +19,86 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
-    "publications": 1331,
-    "citations": 25562
+    "publications": 1333,
+    "citations": 25650
   },
   {
     "id": "https://openalex.org/T10109",
     "name": "Paleontology and Stratigraphy of Fossils",
-    "publications": 1107,
-    "citations": 31016
+    "publications": 1112,
+    "citations": 31172
   },
   {
     "id": "https://openalex.org/T10017",
     "name": "Geology and Paleoclimatology Research",
-    "publications": 765,
-    "citations": 18799
+    "publications": 754,
+    "citations": 18664
   },
   {
     "id": "https://openalex.org/T10965",
     "name": "Geological formations and processes",
-    "publications": 688,
-    "citations": 19985
+    "publications": 715,
+    "citations": 19967
   },
   {
     "id": "https://openalex.org/T10001",
     "name": "Geological and Geochemical Analysis",
-    "publications": 660,
-    "citations": 33275
+    "publications": 659,
+    "citations": 33227
   },
   {
     "id": "https://openalex.org/T13177",
     "name": "Geological and Geophysical Studies",
-    "publications": 588,
-    "citations": 11690
+    "publications": 585,
+    "citations": 11781
   },
   {
     "id": "https://openalex.org/T12157",
     "name": "Geochemistry and Geologic Mapping",
-    "publications": 586,
-    "citations": 13137
+    "publications": 577,
+    "citations": 13125
   },
   {
     "id": "https://openalex.org/T10635",
     "name": "Hydraulic Fracturing and Reservoir Analysis",
-    "publications": 353,
-    "citations": 4969
-  },
-  {
-    "id": "https://openalex.org/T10995",
-    "name": "Methane Hydrates and Related Phenomena",
-    "publications": 325,
-    "citations": 5506
-  },
-  {
-    "id": "https://openalex.org/T10110",
-    "name": "earthquake and tectonic studies",
-    "publications": 312,
-    "citations": 16407
+    "publications": 334,
+    "citations": 4948
   },
   {
     "id": "https://openalex.org/T13193",
     "name": "Geological Studies and Exploration",
-    "publications": 283,
-    "citations": 5339
+    "publications": 316,
+    "citations": 5648
+  },
+  {
+    "id": "https://openalex.org/T10995",
+    "name": "Methane Hydrates and Related Phenomena",
+    "publications": 311,
+    "citations": 5306
+  },
+  {
+    "id": "https://openalex.org/T10110",
+    "name": "earthquake and tectonic studies",
+    "publications": 308,
+    "citations": 16380
   },
   {
     "id": "https://openalex.org/T10271",
     "name": "Seismic Imaging and Inversion Techniques",
-    "publications": 227,
-    "citations": 1516
-  },
-  {
-    "id": "https://openalex.org/T11801",
-    "name": "Reservoir Engineering and Simulation Methods",
-    "publications": 169,
-    "citations": 1167
-  },
-  {
-    "id": "https://openalex.org/T10413",
-    "name": "High-pressure geophysics and materials",
-    "publications": 165,
-    "citations": 14131
+    "publications": 230,
+    "citations": 1530
   },
   {
     "id": "https://openalex.org/T11740",
     "name": "Geochemistry and Elemental Analysis",
-    "publications": 156,
-    "citations": 3654
+    "publications": 186,
+    "citations": 3967
+  },
+  {
+    "id": "https://openalex.org/T10413",
+    "name": "High-pressure geophysics and materials",
+    "publications": 164,
+    "citations": 14131
   },
   {
     "id": "https://openalex.org/T10765",
@@ -116,49 +110,55 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T14047",
     "name": "Marine and environmental studies",
     "publications": 156,
-    "citations": 2609
+    "citations": 2888
   },
   {
-    "id": "https://openalex.org/T10892",
-    "name": "Drilling and Well Engineering",
-    "publications": 143,
-    "citations": 1023
+    "id": "https://openalex.org/T11801",
+    "name": "Reservoir Engineering and Simulation Methods",
+    "publications": 156,
+    "citations": 1158
   },
   {
     "id": "https://openalex.org/T11302",
     "name": "CO2 Sequestration and Geologic Interactions",
-    "publications": 131,
-    "citations": 1872
+    "publications": 137,
+    "citations": 1916
   },
   {
-    "id": "https://openalex.org/T11588",
-    "name": "Atmospheric and Environmental Gas Dynamics",
-    "publications": 118,
-    "citations": 2692
-  },
-  {
-    "id": "https://openalex.org/T13205",
-    "name": "Geological and Geophysical Studies Worldwide",
-    "publications": 117,
-    "citations": 2151
+    "id": "https://openalex.org/T10892",
+    "name": "Drilling and Well Engineering",
+    "publications": 123,
+    "citations": 973
   },
   {
     "id": "https://openalex.org/T11757",
     "name": "Seismic Waves and Analysis",
+    "publications": 117,
+    "citations": 782
+  },
+  {
+    "id": "https://openalex.org/T13205",
+    "name": "Geological and Geophysical Studies Worldwide",
+    "publications": 114,
+    "citations": 2114
+  },
+  {
+    "id": "https://openalex.org/T11588",
+    "name": "Atmospheric and Environmental Gas Dynamics",
     "publications": 112,
-    "citations": 767
+    "citations": 2485
   },
   {
     "id": "https://openalex.org/T11630",
     "name": "Petroleum Processing and Analysis",
-    "publications": 104,
-    "citations": 2300
+    "publications": 102,
+    "citations": 2135
   },
   {
-    "id": "https://openalex.org/T12821",
-    "name": "Geological Formations and Processes Exploration",
-    "publications": 80,
-    "citations": 916
+    "id": "https://openalex.org/T13067",
+    "name": "Geological Modeling and Analysis",
+    "publications": 82,
+    "citations": 907
   },
   {
     "id": "https://openalex.org/T12073",
@@ -167,28 +167,28 @@ export const topicStats: TopicStats[] = [
     "citations": 1437
   },
   {
-    "id": "https://openalex.org/T10398",
-    "name": "Groundwater and Isotope Geochemistry",
-    "publications": 78,
-    "citations": 800
+    "id": "https://openalex.org/T12821",
+    "name": "Geological Formations and Processes Exploration",
+    "publications": 79,
+    "citations": 916
   },
   {
     "id": "https://openalex.org/T10955",
     "name": "Paleontology and Evolutionary Biology",
+    "publications": 78,
+    "citations": 1300
+  },
+  {
+    "id": "https://openalex.org/T10398",
+    "name": "Groundwater and Isotope Geochemistry",
     "publications": 77,
-    "citations": 1295
+    "citations": 874
   },
   {
     "id": "https://openalex.org/T10491",
     "name": "Enhanced Oil Recovery Techniques",
-    "publications": 71,
-    "citations": 625
-  },
-  {
-    "id": "https://openalex.org/T13067",
-    "name": "Geological Modeling and Analysis",
-    "publications": 68,
-    "citations": 901
+    "publications": 76,
+    "citations": 646
   },
   {
     "id": "https://openalex.org/T11354",
@@ -197,28 +197,28 @@ export const topicStats: TopicStats[] = [
     "citations": 1315
   },
   {
-    "id": "https://openalex.org/T13018",
-    "name": "Seismology and Earthquake Studies",
-    "publications": 51,
-    "citations": 445
-  },
-  {
     "id": "https://openalex.org/T12543",
     "name": "Groundwater and Watershed Analysis",
     "publications": 50,
-    "citations": 355
+    "citations": 357
+  },
+  {
+    "id": "https://openalex.org/T13018",
+    "name": "Seismology and Earthquake Studies",
+    "publications": 46,
+    "citations": 435
   },
   {
     "id": "https://openalex.org/T10572",
     "name": "Geophysical and Geoelectrical Methods",
     "publications": 46,
-    "citations": 399
+    "citations": 325
   },
   {
     "id": "https://openalex.org/T10894",
     "name": "Groundwater flow and contamination studies",
-    "publications": 40,
-    "citations": 527
+    "publications": 39,
+    "citations": 443
   },
   {
     "id": "https://openalex.org/T10385",
@@ -227,10 +227,16 @@ export const topicStats: TopicStats[] = [
     "citations": 1377
   },
   {
-    "id": "https://openalex.org/T11852",
-    "name": "Clay minerals and soil interactions",
+    "id": "https://openalex.org/T10161",
+    "name": "Rock Mechanics and Modeling",
+    "publications": 38,
+    "citations": 422
+  },
+  {
+    "id": "https://openalex.org/T11609",
+    "name": "Geophysical Methods and Applications",
     "publications": 37,
-    "citations": 206
+    "citations": 226
   },
   {
     "id": "https://openalex.org/T10325",
@@ -242,43 +248,31 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12383",
     "name": "Aeolian processes and effects",
     "publications": 36,
-    "citations": 621
+    "citations": 599
   },
   {
-    "id": "https://openalex.org/T11609",
-    "name": "Geophysical Methods and Applications",
+    "id": "https://openalex.org/T11852",
+    "name": "Clay minerals and soil interactions",
     "publications": 36,
-    "citations": 239
+    "citations": 206
   },
   {
     "id": "https://openalex.org/T11405",
     "name": "Geophysics and Gravity Measurements",
-    "publications": 35,
+    "publications": 34,
     "citations": 90
-  },
-  {
-    "id": "https://openalex.org/T10421",
-    "name": "Pleistocene-Era Hominins and Archaeology",
-    "publications": 33,
-    "citations": 753
   },
   {
     "id": "https://openalex.org/T10406",
     "name": "Planetary Science and Exploration",
-    "publications": 32,
+    "publications": 33,
     "citations": 137
   },
   {
-    "id": "https://openalex.org/T10161",
-    "name": "Rock Mechanics and Modeling",
-    "publications": 31,
-    "citations": 415
-  },
-  {
-    "id": "https://openalex.org/T12282",
-    "name": "Mineral Processing and Grinding",
-    "publications": 31,
-    "citations": 245
+    "id": "https://openalex.org/T10421",
+    "name": "Pleistocene-Era Hominins and Archaeology",
+    "publications": 32,
+    "citations": 750
   },
   {
     "id": "https://openalex.org/T10973",
@@ -289,14 +283,8 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T11786",
     "name": "Geomagnetism and Paleomagnetism Studies",
-    "publications": 28,
+    "publications": 27,
     "citations": 237
-  },
-  {
-    "id": "https://openalex.org/T12624",
-    "name": "Maritime and Coastal Archaeology",
-    "publications": 25,
-    "citations": 309
   },
   {
     "id": "https://openalex.org/T11278",
@@ -305,22 +293,40 @@ export const topicStats: TopicStats[] = [
     "citations": 130
   },
   {
-    "id": "https://openalex.org/T11284",
-    "name": "Coal Properties and Utilization",
+    "id": "https://openalex.org/T12624",
+    "name": "Maritime and Coastal Archaeology",
+    "publications": 24,
+    "citations": 299
+  },
+  {
+    "id": "https://openalex.org/T12282",
+    "name": "Mineral Processing and Grinding",
+    "publications": 24,
+    "citations": 227
+  },
+  {
+    "id": "https://openalex.org/T12083",
+    "name": "Karst Systems and Hydrogeology",
+    "publications": 24,
+    "citations": 205
+  },
+  {
+    "id": "https://openalex.org/T12218",
+    "name": "Coal and Its By-products",
     "publications": 23,
-    "citations": 384
+    "citations": 390
   },
   {
     "id": "https://openalex.org/T11225",
     "name": "Geothermal Energy Systems and Applications",
     "publications": 23,
-    "citations": 239
+    "citations": 242
   },
   {
-    "id": "https://openalex.org/T12083",
-    "name": "Karst Systems and Hydrogeology",
+    "id": "https://openalex.org/T11284",
+    "name": "Coal Properties and Utilization",
     "publications": 22,
-    "citations": 205
+    "citations": 384
   },
   {
     "id": "https://openalex.org/T13925",
@@ -329,10 +335,10 @@ export const topicStats: TopicStats[] = [
     "citations": 0
   },
   {
-    "id": "https://openalex.org/T12603",
-    "name": "NMR spectroscopy and applications",
+    "id": "https://openalex.org/T11634",
+    "name": "Water Quality and Pollution Assessment",
     "publications": 21,
-    "citations": 487
+    "citations": 276
   },
   {
     "id": "https://openalex.org/T14163",
@@ -341,22 +347,16 @@ export const topicStats: TopicStats[] = [
     "citations": 0
   },
   {
-    "id": "https://openalex.org/T12218",
-    "name": "Coal and Its By-products",
-    "publications": 20,
-    "citations": 380
-  },
-  {
-    "id": "https://openalex.org/T11634",
-    "name": "Water Quality and Pollution Assessment",
-    "publications": 20,
-    "citations": 202
-  },
-  {
     "id": "https://openalex.org/T12639",
     "name": "Global Energy and Sustainability Research",
     "publications": 20,
     "citations": 199
+  },
+  {
+    "id": "https://openalex.org/T12603",
+    "name": "NMR spectroscopy and applications",
+    "publications": 19,
+    "citations": 457
   },
   {
     "id": "https://openalex.org/T10689",
@@ -377,28 +377,28 @@ export const topicStats: TopicStats[] = [
     "citations": 258
   },
   {
-    "id": "https://openalex.org/T13372",
-    "name": "Archaeology and Historical Studies",
-    "publications": 17,
-    "citations": 243
-  },
-  {
     "id": "https://openalex.org/T13497",
     "name": "Hermeneutics and Narrative Identity",
     "publications": 17,
     "citations": 24
   },
   {
-    "id": "https://openalex.org/T10032",
-    "name": "Marine and coastal ecosystems",
-    "publications": 16,
-    "citations": 234
-  },
-  {
     "id": "https://openalex.org/T10967",
     "name": "Carbon Dioxide Capture Technologies",
     "publications": 16,
-    "citations": 168
+    "citations": 341
+  },
+  {
+    "id": "https://openalex.org/T13372",
+    "name": "Archaeology and Historical Studies",
+    "publications": 16,
+    "citations": 242
+  },
+  {
+    "id": "https://openalex.org/T10647",
+    "name": "Coastal and Marine Dynamics",
+    "publications": 16,
+    "citations": 183
   },
   {
     "id": "https://openalex.org/T12456",
@@ -407,10 +407,28 @@ export const topicStats: TopicStats[] = [
     "citations": 111
   },
   {
+    "id": "https://openalex.org/T13885",
+    "name": "Geophysics and Sensor Technology",
+    "publications": 16,
+    "citations": 55
+  },
+  {
     "id": "https://openalex.org/T13099",
     "name": "Health, Medicine and Society",
     "publications": 16,
     "citations": 24
+  },
+  {
+    "id": "https://openalex.org/T11490",
+    "name": "Hydrological Forecasting Using AI",
+    "publications": 15,
+    "citations": 311
+  },
+  {
+    "id": "https://openalex.org/T10032",
+    "name": "Marine and coastal ecosystems",
+    "publications": 15,
+    "citations": 232
   },
   {
     "id": "https://openalex.org/T13443",
@@ -425,40 +443,10 @@ export const topicStats: TopicStats[] = [
     "citations": 529
   },
   {
-    "id": "https://openalex.org/T11490",
-    "name": "Hydrological Forecasting Using AI",
-    "publications": 14,
-    "citations": 309
-  },
-  {
-    "id": "https://openalex.org/T10330",
-    "name": "Hydrology and Watershed Management Studies",
+    "id": "https://openalex.org/T10033",
+    "name": "Concrete and Cement Materials Research",
     "publications": 13,
-    "citations": 218
-  },
-  {
-    "id": "https://openalex.org/T10647",
-    "name": "Coastal and Marine Dynamics",
-    "publications": 13,
-    "citations": 170
-  },
-  {
-    "id": "https://openalex.org/T11755",
-    "name": "Transboundary Water Resource Management",
-    "publications": 13,
-    "citations": 162
-  },
-  {
-    "id": "https://openalex.org/T10688",
-    "name": "Image and Signal Denoising Methods",
-    "publications": 13,
-    "citations": 60
-  },
-  {
-    "id": "https://openalex.org/T14160",
-    "name": "Water management and technologies",
-    "publications": 13,
-    "citations": 36
+    "citations": 129
   },
   {
     "id": "https://openalex.org/T11387",
@@ -473,16 +461,22 @@ export const topicStats: TopicStats[] = [
     "citations": 288
   },
   {
+    "id": "https://openalex.org/T10330",
+    "name": "Hydrology and Watershed Management Studies",
+    "publications": 12,
+    "citations": 218
+  },
+  {
+    "id": "https://openalex.org/T11755",
+    "name": "Transboundary Water Resource Management",
+    "publications": 12,
+    "citations": 162
+  },
+  {
     "id": "https://openalex.org/T10139",
     "name": "Heavy metals in environment",
     "publications": 12,
     "citations": 140
-  },
-  {
-    "id": "https://openalex.org/T10033",
-    "name": "Concrete and Cement Materials Research",
-    "publications": 12,
-    "citations": 129
   },
   {
     "id": "https://openalex.org/T10643",
@@ -491,34 +485,22 @@ export const topicStats: TopicStats[] = [
     "citations": 124
   },
   {
-    "id": "https://openalex.org/T10770",
-    "name": "Soil Geostatistics and Mapping",
-    "publications": 12,
-    "citations": 48
-  },
-  {
     "id": "https://openalex.org/T11643",
     "name": "Building materials and conservation",
     "publications": 12,
     "citations": 37
   },
   {
+    "id": "https://openalex.org/T14160",
+    "name": "Water management and technologies",
+    "publications": 12,
+    "citations": 36
+  },
+  {
     "id": "https://openalex.org/T10087",
     "name": "Archaeology and ancient environmental studies",
     "publications": 11,
     "citations": 444
-  },
-  {
-    "id": "https://openalex.org/T10577",
-    "name": "Hydrology and Sediment Transport Processes",
-    "publications": 11,
-    "citations": 236
-  },
-  {
-    "id": "https://openalex.org/T11923",
-    "name": "Mine drainage and remediation techniques",
-    "publications": 11,
-    "citations": 140
   },
   {
     "id": "https://openalex.org/T11698",
@@ -533,10 +515,22 @@ export const topicStats: TopicStats[] = [
     "citations": 68
   },
   {
-    "id": "https://openalex.org/T10535",
-    "name": "Landslides and related hazards",
+    "id": "https://openalex.org/T10688",
+    "name": "Image and Signal Denoising Methods",
     "publications": 11,
-    "citations": 65
+    "citations": 57
+  },
+  {
+    "id": "https://openalex.org/T11211",
+    "name": "3D Surveying and Cultural Heritage",
+    "publications": 11,
+    "citations": 55
+  },
+  {
+    "id": "https://openalex.org/T10770",
+    "name": "Soil Geostatistics and Mapping",
+    "publications": 11,
+    "citations": 48
   },
   {
     "id": "https://openalex.org/T13200",
@@ -551,10 +545,16 @@ export const topicStats: TopicStats[] = [
     "citations": 223
   },
   {
-    "id": "https://openalex.org/T10889",
-    "name": "Soil erosion and sediment transport",
+    "id": "https://openalex.org/T10969",
+    "name": "Water resources management and optimization",
     "publications": 10,
-    "citations": 180
+    "citations": 203
+  },
+  {
+    "id": "https://openalex.org/T11923",
+    "name": "Mine drainage and remediation techniques",
+    "publications": 10,
+    "citations": 139
   },
   {
     "id": "https://openalex.org/T10779",
@@ -566,7 +566,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T13619",
     "name": "Geotechnical and Geomechanical Engineering",
     "publications": 10,
-    "citations": 81
+    "citations": 77
+  },
+  {
+    "id": "https://openalex.org/T10535",
+    "name": "Landslides and related hazards",
+    "publications": 10,
+    "citations": 65
   },
   {
     "id": "https://openalex.org/T11857",
@@ -575,22 +581,16 @@ export const topicStats: TopicStats[] = [
     "citations": 60
   },
   {
-    "id": "https://openalex.org/T11211",
-    "name": "3D Surveying and Cultural Heritage",
-    "publications": 10,
-    "citations": 52
-  },
-  {
-    "id": "https://openalex.org/T10640",
-    "name": "Spectroscopy and Chemometric Analyses",
-    "publications": 10,
-    "citations": 35
-  },
-  {
     "id": "https://openalex.org/T10939",
     "name": "Crystal Structures and Properties",
     "publications": 9,
     "citations": 376
+  },
+  {
+    "id": "https://openalex.org/T10577",
+    "name": "Hydrology and Sediment Transport Processes",
+    "publications": 9,
+    "citations": 236
   },
   {
     "id": "https://openalex.org/T12596",
@@ -599,16 +599,10 @@ export const topicStats: TopicStats[] = [
     "citations": 226
   },
   {
-    "id": "https://openalex.org/T10969",
-    "name": "Water resources management and optimization",
+    "id": "https://openalex.org/T10889",
+    "name": "Soil erosion and sediment transport",
     "publications": 9,
-    "citations": 203
-  },
-  {
-    "id": "https://openalex.org/T12482",
-    "name": "Tunneling and Rock Mechanics",
-    "publications": 9,
-    "citations": 127
+    "citations": 180
   },
   {
     "id": "https://openalex.org/T12097",
@@ -623,16 +617,22 @@ export const topicStats: TopicStats[] = [
     "citations": 76
   },
   {
-    "id": "https://openalex.org/T13885",
-    "name": "Geophysics and Sensor Technology",
+    "id": "https://openalex.org/T10640",
+    "name": "Spectroscopy and Chemometric Analyses",
     "publications": 9,
-    "citations": 28
+    "citations": 32
   },
   {
     "id": "https://openalex.org/T14049",
     "name": "Plant and Fungal Species Descriptions",
     "publications": 8,
     "citations": 290
+  },
+  {
+    "id": "https://openalex.org/T12482",
+    "name": "Tunneling and Rock Mechanics",
+    "publications": 8,
+    "citations": 120
   },
   {
     "id": "https://openalex.org/T12724",
@@ -645,6 +645,18 @@ export const topicStats: TopicStats[] = [
     "name": "Diatoms and Algae Research",
     "publications": 8,
     "citations": 46
+  },
+  {
+    "id": "https://openalex.org/T11007",
+    "name": "Hybrid Renewable Energy Systems",
+    "publications": 8,
+    "citations": 38
+  },
+  {
+    "id": "https://openalex.org/T13102",
+    "name": "Soil and Environmental Studies",
+    "publications": 7,
+    "citations": 394
   },
   {
     "id": "https://openalex.org/T11088",
@@ -671,28 +683,16 @@ export const topicStats: TopicStats[] = [
     "citations": 36
   },
   {
-    "id": "https://openalex.org/T14339",
-    "name": "Image Processing and 3D Reconstruction",
-    "publications": 7,
-    "citations": 32
-  },
-  {
     "id": "https://openalex.org/T12613",
     "name": "X-ray Diffraction in Crystallography",
     "publications": 7,
     "citations": 31
   },
   {
-    "id": "https://openalex.org/T12100",
-    "name": "Advanced Mathematical Modeling in Engineering",
+    "id": "https://openalex.org/T10205",
+    "name": "Advanced Fiber Optic Sensors",
     "publications": 7,
-    "citations": 21
-  },
-  {
-    "id": "https://openalex.org/T13050",
-    "name": "Oil and Gas Production Techniques",
-    "publications": 7,
-    "citations": 20
+    "citations": 26
   },
   {
     "id": "https://openalex.org/T13621",
@@ -701,22 +701,16 @@ export const topicStats: TopicStats[] = [
     "citations": 3
   },
   {
-    "id": "https://openalex.org/T13102",
-    "name": "Soil and Environmental Studies",
-    "publications": 6,
-    "citations": 372
-  },
-  {
     "id": "https://openalex.org/T11073",
     "name": "Metal Extraction and Bioleaching",
     "publications": 6,
     "citations": 229
   },
   {
-    "id": "https://openalex.org/T11007",
-    "name": "Hybrid Renewable Energy Systems",
+    "id": "https://openalex.org/T11186",
+    "name": "Hydrology and Drought Analysis",
     "publications": 6,
-    "citations": 36
+    "citations": 107
   },
   {
     "id": "https://openalex.org/T11926",
@@ -731,22 +725,28 @@ export const topicStats: TopicStats[] = [
     "citations": 33
   },
   {
+    "id": "https://openalex.org/T14339",
+    "name": "Image Processing and 3D Reconstruction",
+    "publications": 6,
+    "citations": 32
+  },
+  {
+    "id": "https://openalex.org/T12100",
+    "name": "Advanced Mathematical Modeling in Engineering",
+    "publications": 6,
+    "citations": 21
+  },
+  {
+    "id": "https://openalex.org/T10811",
+    "name": "Hydrogen Storage and Materials",
+    "publications": 6,
+    "citations": 20
+  },
+  {
     "id": "https://openalex.org/T11325",
     "name": "Inertial Sensor and Navigation",
     "publications": 6,
     "citations": 17
-  },
-  {
-    "id": "https://openalex.org/T10205",
-    "name": "Advanced Fiber Optic Sensors",
-    "publications": 6,
-    "citations": 13
-  },
-  {
-    "id": "https://openalex.org/T10255",
-    "name": "Oceanographic and Atmospheric Processes",
-    "publications": 6,
-    "citations": 12
   },
   {
     "id": "https://openalex.org/T13126",
@@ -803,28 +803,16 @@ export const topicStats: TopicStats[] = [
     "citations": 43
   },
   {
-    "id": "https://openalex.org/T12233",
-    "name": "Geotechnical Engineering and Underground Structures",
+    "id": "https://openalex.org/T11781",
+    "name": "Wastewater Treatment and Reuse",
     "publications": 5,
-    "citations": 25
+    "citations": 42
   },
   {
     "id": "https://openalex.org/T10766",
     "name": "Urban Heat Island Mitigation",
     "publications": 5,
     "citations": 19
-  },
-  {
-    "id": "https://openalex.org/T11164",
-    "name": "Remote Sensing and LiDAR Applications",
-    "publications": 5,
-    "citations": 17
-  },
-  {
-    "id": "https://openalex.org/T11802",
-    "name": "Chemical Looping and Thermochemical Processes",
-    "publications": 5,
-    "citations": 14
   },
   {
     "id": "https://openalex.org/T10016",
@@ -845,8 +833,14 @@ export const topicStats: TopicStats[] = [
     "citations": 6
   },
   {
-    "id": "https://openalex.org/T10801",
-    "name": "Synthetic Aperture Radar (SAR) Applications and Techniques",
+    "id": "https://openalex.org/T10419",
+    "name": "Pharmaceutical and Antibiotic Environmental Impacts",
+    "publications": 5,
+    "citations": 5
+  },
+  {
+    "id": "https://openalex.org/T10255",
+    "name": "Oceanographic and Atmospheric Processes",
     "publications": 5,
     "citations": 2
   },
@@ -881,12 +875,6 @@ export const topicStats: TopicStats[] = [
     "citations": 119
   },
   {
-    "id": "https://openalex.org/T11186",
-    "name": "Hydrology and Drought Analysis",
-    "publications": 4,
-    "citations": 104
-  },
-  {
     "id": "https://openalex.org/T10075",
     "name": "Atmospheric chemistry and aerosols",
     "publications": 4,
@@ -911,16 +899,16 @@ export const topicStats: TopicStats[] = [
     "citations": 60
   },
   {
+    "id": "https://openalex.org/T10029",
+    "name": "Climate variability and models",
+    "publications": 4,
+    "citations": 57
+  },
+  {
     "id": "https://openalex.org/T11091",
     "name": "Extraction and Separation Processes",
     "publications": 4,
     "citations": 48
-  },
-  {
-    "id": "https://openalex.org/T11781",
-    "name": "Wastewater Treatment and Reuse",
-    "publications": 4,
-    "citations": 39
   },
   {
     "id": "https://openalex.org/T10815",
@@ -941,20 +929,32 @@ export const topicStats: TopicStats[] = [
     "citations": 17
   },
   {
-    "id": "https://openalex.org/T10811",
-    "name": "Hydrogen Storage and Materials",
+    "id": "https://openalex.org/T11164",
+    "name": "Remote Sensing and LiDAR Applications",
+    "publications": 4,
+    "citations": 15
+  },
+  {
+    "id": "https://openalex.org/T10320",
+    "name": "Neural Networks and Applications",
+    "publications": 4,
+    "citations": 15
+  },
+  {
+    "id": "https://openalex.org/T11802",
+    "name": "Chemical Looping and Thermochemical Processes",
+    "publications": 4,
+    "citations": 14
+  },
+  {
+    "id": "https://openalex.org/T13050",
+    "name": "Oil and Gas Production Techniques",
     "publications": 4,
     "citations": 13
   },
   {
-    "id": "https://openalex.org/T13596",
-    "name": "Grouting, Rheology, and Soil Mechanics",
-    "publications": 4,
-    "citations": 7
-  },
-  {
-    "id": "https://openalex.org/T10419",
-    "name": "Pharmaceutical and Antibiotic Environmental Impacts",
+    "id": "https://openalex.org/T12078",
+    "name": "Environmental remediation with nanomaterials",
     "publications": 4,
     "citations": 5
   },
@@ -989,6 +989,12 @@ export const topicStats: TopicStats[] = [
     "citations": 0
   },
   {
+    "id": "https://openalex.org/T10801",
+    "name": "Synthetic Aperture Radar (SAR) Applications and Techniques",
+    "publications": 4,
+    "citations": 0
+  },
+  {
     "id": "https://openalex.org/T11970",
     "name": "Molecular Biology Techniques and Applications",
     "publications": 4,
@@ -999,12 +1005,6 @@ export const topicStats: TopicStats[] = [
     "name": "Marine Invertebrate Physiology and Ecology",
     "publications": 3,
     "citations": 224
-  },
-  {
-    "id": "https://openalex.org/T13335",
-    "name": "Pharmacological Effects of Medicinal Plants",
-    "publications": 3,
-    "citations": 223
   },
   {
     "id": "https://openalex.org/T10992",
@@ -1049,12 +1049,6 @@ export const topicStats: TopicStats[] = [
     "citations": 57
   },
   {
-    "id": "https://openalex.org/T10029",
-    "name": "Climate variability and models",
-    "publications": 3,
-    "citations": 54
-  },
-  {
     "id": "https://openalex.org/T11877",
     "name": "Iron oxide chemistry and applications",
     "publications": 3,
@@ -1091,28 +1085,10 @@ export const topicStats: TopicStats[] = [
     "citations": 33
   },
   {
-    "id": "https://openalex.org/T10233",
-    "name": "Geotechnical Engineering and Soil Mechanics",
-    "publications": 3,
-    "citations": 32
-  },
-  {
     "id": "https://openalex.org/T11312",
     "name": "Soil Moisture and Remote Sensing",
     "publications": 3,
     "citations": 32
-  },
-  {
-    "id": "https://openalex.org/T12555",
-    "name": "Ancient Egypt and Archaeology",
-    "publications": 3,
-    "citations": 32
-  },
-  {
-    "id": "https://openalex.org/T11059",
-    "name": "Market Dynamics and Volatility",
-    "publications": 3,
-    "citations": 27
   },
   {
     "id": "https://openalex.org/T11913",
@@ -1127,10 +1103,10 @@ export const topicStats: TopicStats[] = [
     "citations": 22
   },
   {
-    "id": "https://openalex.org/T11512",
-    "name": "Anomaly Detection Techniques and Applications",
+    "id": "https://openalex.org/T12233",
+    "name": "Geotechnical Engineering and Underground Structures",
     "publications": 3,
-    "citations": 22
+    "citations": 20
   },
   {
     "id": "https://openalex.org/T12343",
@@ -1143,12 +1119,6 @@ export const topicStats: TopicStats[] = [
     "name": "Copper-based nanomaterials and applications",
     "publications": 3,
     "citations": 19
-  },
-  {
-    "id": "https://openalex.org/T13058",
-    "name": "Soil and Land Suitability Analysis",
-    "publications": 3,
-    "citations": 18
   },
   {
     "id": "https://openalex.org/T12038",
@@ -1175,12 +1145,6 @@ export const topicStats: TopicStats[] = [
     "citations": 14
   },
   {
-    "id": "https://openalex.org/T10320",
-    "name": "Neural Networks and Applications",
-    "publications": 3,
-    "citations": 13
-  },
-  {
     "id": "https://openalex.org/T11949",
     "name": "Nuclear Physics and Applications",
     "publications": 3,
@@ -1193,8 +1157,20 @@ export const topicStats: TopicStats[] = [
     "citations": 10
   },
   {
+    "id": "https://openalex.org/T13890",
+    "name": "Remote Sensing and Land Use",
+    "publications": 3,
+    "citations": 7
+  },
+  {
     "id": "https://openalex.org/T10477",
     "name": "Astrophysics and Star Formation Studies",
+    "publications": 3,
+    "citations": 7
+  },
+  {
+    "id": "https://openalex.org/T13596",
+    "name": "Grouting, Rheology, and Soil Mechanics",
     "publications": 3,
     "citations": 7
   },
@@ -1211,8 +1187,8 @@ export const topicStats: TopicStats[] = [
     "citations": 6
   },
   {
-    "id": "https://openalex.org/T12078",
-    "name": "Environmental remediation with nanomaterials",
+    "id": "https://openalex.org/T12773",
+    "name": "Water Quality and Resources Studies",
     "publications": 3,
     "citations": 5
   },
@@ -1235,20 +1211,8 @@ export const topicStats: TopicStats[] = [
     "citations": 4
   },
   {
-    "id": "https://openalex.org/T12307",
-    "name": "Ancient Near East History",
-    "publications": 3,
-    "citations": 3
-  },
-  {
     "id": "https://openalex.org/T10353",
     "name": "Zeolite Catalysis and Synthesis",
-    "publications": 3,
-    "citations": 2
-  },
-  {
-    "id": "https://openalex.org/T11558",
-    "name": "Composite Material Mechanics",
     "publications": 3,
     "citations": 2
   },
@@ -1319,6 +1283,12 @@ export const topicStats: TopicStats[] = [
     "citations": 204
   },
   {
+    "id": "https://openalex.org/T13335",
+    "name": "Pharmacological Effects of Medicinal Plants",
+    "publications": 2,
+    "citations": 200
+  },
+  {
     "id": "https://openalex.org/T10423",
     "name": "Neurobiology and Insect Physiology Research",
     "publications": 2,
@@ -1343,12 +1313,6 @@ export const topicStats: TopicStats[] = [
     "citations": 59
   },
   {
-    "id": "https://openalex.org/T10699",
-    "name": "Primate Behavior and Ecology",
-    "publications": 2,
-    "citations": 51
-  },
-  {
     "id": "https://openalex.org/T11836",
     "name": "Bryophyte Studies and Records",
     "publications": 2,
@@ -1359,6 +1323,12 @@ export const topicStats: TopicStats[] = [
     "name": "Automated Road and Building Extraction",
     "publications": 2,
     "citations": 46
+  },
+  {
+    "id": "https://openalex.org/T13215",
+    "name": "Global Maritime and Colonial Histories",
+    "publications": 2,
+    "citations": 41
   },
   {
     "id": "https://openalex.org/T12008",
@@ -1391,14 +1361,44 @@ export const topicStats: TopicStats[] = [
     "citations": 31
   },
   {
+    "id": "https://openalex.org/T10036",
+    "name": "Advanced Neural Network Applications",
+    "publications": 2,
+    "citations": 31
+  },
+  {
+    "id": "https://openalex.org/T12555",
+    "name": "Ancient Egypt and Archaeology",
+    "publications": 2,
+    "citations": 31
+  },
+  {
     "id": "https://openalex.org/T13068",
     "name": "Ancient Mediterranean Archaeology and History",
     "publications": 2,
     "citations": 31
   },
   {
+    "id": "https://openalex.org/T10233",
+    "name": "Geotechnical Engineering and Soil Mechanics",
+    "publications": 2,
+    "citations": 28
+  },
+  {
+    "id": "https://openalex.org/T12676",
+    "name": "Machine Learning and ELM",
+    "publications": 2,
+    "citations": 25
+  },
+  {
     "id": "https://openalex.org/T12417",
     "name": "Morphological variations and asymmetry",
+    "publications": 2,
+    "citations": 24
+  },
+  {
+    "id": "https://openalex.org/T13485",
+    "name": "Marine and Coastal Ecosystems",
     "publications": 2,
     "citations": 24
   },
@@ -1415,16 +1415,22 @@ export const topicStats: TopicStats[] = [
     "citations": 20
   },
   {
+    "id": "https://openalex.org/T11512",
+    "name": "Anomaly Detection Techniques and Applications",
+    "publications": 2,
+    "citations": 19
+  },
+  {
     "id": "https://openalex.org/T10655",
     "name": "GNSS positioning and interference",
     "publications": 2,
     "citations": 17
   },
   {
-    "id": "https://openalex.org/T11963",
-    "name": "Impact of Light on Environment and Health",
+    "id": "https://openalex.org/T11059",
+    "name": "Market Dynamics and Volatility",
     "publications": 2,
-    "citations": 16
+    "citations": 17
   },
   {
     "id": "https://openalex.org/T12359",
@@ -1465,6 +1471,12 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T12424",
     "name": "Earthquake Detection and Analysis",
+    "publications": 2,
+    "citations": 13
+  },
+  {
+    "id": "https://openalex.org/T13058",
+    "name": "Soil and Land Suitability Analysis",
     "publications": 2,
     "citations": 13
   },
@@ -1511,12 +1523,6 @@ export const topicStats: TopicStats[] = [
     "citations": 8
   },
   {
-    "id": "https://openalex.org/T13114",
-    "name": "Image Processing Techniques and Applications",
-    "publications": 2,
-    "citations": 8
-  },
-  {
     "id": "https://openalex.org/T12330",
     "name": "Botanical Research and Applications",
     "publications": 2,
@@ -1541,14 +1547,8 @@ export const topicStats: TopicStats[] = [
     "citations": 6
   },
   {
-    "id": "https://openalex.org/T13890",
-    "name": "Remote Sensing and Land Use",
-    "publications": 2,
-    "citations": 5
-  },
-  {
-    "id": "https://openalex.org/T10266",
-    "name": "Plant Water Relations and Carbon Dynamics",
+    "id": "https://openalex.org/T12577",
+    "name": "Geography and Environmental Studies",
     "publications": 2,
     "citations": 5
   },
@@ -1571,26 +1571,8 @@ export const topicStats: TopicStats[] = [
     "citations": 4
   },
   {
-    "id": "https://openalex.org/T12095",
-    "name": "Vehicle emissions and performance",
-    "publications": 2,
-    "citations": 3
-  },
-  {
-    "id": "https://openalex.org/T11333",
-    "name": "Climate change and permafrost",
-    "publications": 2,
-    "citations": 3
-  },
-  {
     "id": "https://openalex.org/T13375",
     "name": "Integrated Water Resources Management",
-    "publications": 2,
-    "citations": 3
-  },
-  {
-    "id": "https://openalex.org/T10662",
-    "name": "Ultrasonics and Acoustic Wave Propagation",
     "publications": 2,
     "citations": 3
   },
@@ -1601,14 +1583,26 @@ export const topicStats: TopicStats[] = [
     "citations": 3
   },
   {
-    "id": "https://openalex.org/T11119",
-    "name": "Urban Stormwater Management Solutions",
+    "id": "https://openalex.org/T11948",
+    "name": "Machine Learning in Materials Science",
+    "publications": 2,
+    "citations": 2
+  },
+  {
+    "id": "https://openalex.org/T10088",
+    "name": "Thermochemical Biomass Conversion Processes",
     "publications": 2,
     "citations": 2
   },
   {
     "id": "https://openalex.org/T13065",
     "name": "Mining Techniques and Economics",
+    "publications": 2,
+    "citations": 2
+  },
+  {
+    "id": "https://openalex.org/T12307",
+    "name": "Ancient Near East History",
     "publications": 2,
     "citations": 2
   },
@@ -1631,10 +1625,10 @@ export const topicStats: TopicStats[] = [
     "citations": 1
   },
   {
-    "id": "https://openalex.org/T14470",
-    "name": "Advanced Data Processing Techniques",
+    "id": "https://openalex.org/T12026",
+    "name": "Explainable Artificial Intelligence (XAI)",
     "publications": 2,
-    "citations": 1
+    "citations": 0
   },
   {
     "id": "https://openalex.org/T12039",
@@ -1711,6 +1705,12 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T10661",
     "name": "biodegradable polymer synthesis and properties",
+    "publications": 2,
+    "citations": 0
+  },
+  {
+    "id": "https://openalex.org/T11558",
+    "name": "Composite Material Mechanics",
     "publications": 2,
     "citations": 0
   },
@@ -1901,14 +1901,14 @@ export const topicStats: TopicStats[] = [
     "citations": 30
   },
   {
-    "id": "https://openalex.org/T11307",
-    "name": "Domain Adaptation and Few-Shot Learning",
+    "id": "https://openalex.org/T10820",
+    "name": "Fuzzy Logic and Control Systems",
     "publications": 1,
     "citations": 29
   },
   {
-    "id": "https://openalex.org/T10036",
-    "name": "Advanced Neural Network Applications",
+    "id": "https://openalex.org/T11307",
+    "name": "Domain Adaptation and Few-Shot Learning",
     "publications": 1,
     "citations": 29
   },
@@ -1943,20 +1943,14 @@ export const topicStats: TopicStats[] = [
     "citations": 25
   },
   {
-    "id": "https://openalex.org/T12676",
-    "name": "Machine Learning and ELM",
-    "publications": 1,
-    "citations": 24
-  },
-  {
-    "id": "https://openalex.org/T13540",
-    "name": "Animal Diversity and Health Studies",
-    "publications": 1,
-    "citations": 23
-  },
-  {
     "id": "https://openalex.org/T11126",
     "name": "Metallurgical Processes and Thermodynamics",
+    "publications": 1,
+    "citations": 22
+  },
+  {
+    "id": "https://openalex.org/T13811",
+    "name": "Earth Systems and Cosmic Evolution",
     "publications": 1,
     "citations": 22
   },
@@ -1969,12 +1963,6 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T12956",
     "name": "Asian Geopolitics and Ethnography",
-    "publications": 1,
-    "citations": 18
-  },
-  {
-    "id": "https://openalex.org/T13215",
-    "name": "Global Maritime and Colonial Histories",
     "publications": 1,
     "citations": 18
   },
@@ -2033,6 +2021,12 @@ export const topicStats: TopicStats[] = [
     "citations": 14
   },
   {
+    "id": "https://openalex.org/T11963",
+    "name": "Impact of Light on Environment and Health",
+    "publications": 1,
+    "citations": 14
+  },
+  {
     "id": "https://openalex.org/T11954",
     "name": "Energy Efficiency and Management",
     "publications": 1,
@@ -2051,8 +2045,14 @@ export const topicStats: TopicStats[] = [
     "citations": 11
   },
   {
-    "id": "https://openalex.org/T12368",
-    "name": "Grey System Theory Applications",
+    "id": "https://openalex.org/T11326",
+    "name": "Stock Market Forecasting Methods",
+    "publications": 1,
+    "citations": 10
+  },
+  {
+    "id": "https://openalex.org/T11918",
+    "name": "Forecasting Techniques and Applications",
     "publications": 1,
     "citations": 10
   },
@@ -2159,20 +2159,8 @@ export const topicStats: TopicStats[] = [
     "citations": 6
   },
   {
-    "id": "https://openalex.org/T14468",
-    "name": "Plant Ecology and Soil Science",
-    "publications": 1,
-    "citations": 5
-  },
-  {
     "id": "https://openalex.org/T10409",
     "name": "Fuel Cells and Related Materials",
-    "publications": 1,
-    "citations": 5
-  },
-  {
-    "id": "https://openalex.org/T10247",
-    "name": "Perovskite Materials and Applications",
     "publications": 1,
     "citations": 5
   },
@@ -2261,6 +2249,12 @@ export const topicStats: TopicStats[] = [
     "citations": 4
   },
   {
+    "id": "https://openalex.org/T12095",
+    "name": "Vehicle emissions and performance",
+    "publications": 1,
+    "citations": 3
+  },
+  {
     "id": "https://openalex.org/T12302",
     "name": "Advanced Nanomaterials in Catalysis",
     "publications": 1,
@@ -2269,6 +2263,12 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T12713",
     "name": "Forest Ecology and Biodiversity Studies",
+    "publications": 1,
+    "citations": 3
+  },
+  {
+    "id": "https://openalex.org/T12364",
+    "name": "Archaeological Research and Protection",
     "publications": 1,
     "citations": 3
   },
@@ -2291,20 +2291,26 @@ export const topicStats: TopicStats[] = [
     "citations": 2
   },
   {
+    "id": "https://openalex.org/T10266",
+    "name": "Plant Water Relations and Carbon Dynamics",
+    "publications": 1,
+    "citations": 2
+  },
+  {
+    "id": "https://openalex.org/T14146",
+    "name": "Earthquake and Tsunami Effects",
+    "publications": 1,
+    "citations": 2
+  },
+  {
     "id": "https://openalex.org/T14428",
     "name": "Coal and Coke Industries Research",
     "publications": 1,
     "citations": 2
   },
   {
-    "id": "https://openalex.org/T10868",
-    "name": "Soft Robotics and Applications",
-    "publications": 1,
-    "citations": 2
-  },
-  {
-    "id": "https://openalex.org/T10862",
-    "name": "AI in cancer detection",
+    "id": "https://openalex.org/T12535",
+    "name": "Machine Learning and Data Classification",
     "publications": 1,
     "citations": 2
   },
@@ -2357,12 +2363,6 @@ export const topicStats: TopicStats[] = [
     "citations": 1
   },
   {
-    "id": "https://openalex.org/T10555",
-    "name": "Fire effects on ecosystems",
-    "publications": 1,
-    "citations": 1
-  },
-  {
     "id": "https://openalex.org/T11656",
     "name": "Turtle Biology and Conservation",
     "publications": 1,
@@ -2405,12 +2405,6 @@ export const topicStats: TopicStats[] = [
     "citations": 1
   },
   {
-    "id": "https://openalex.org/T13485",
-    "name": "Marine and Coastal Ecosystems",
-    "publications": 1,
-    "citations": 1
-  },
-  {
     "id": "https://openalex.org/T14408",
     "name": "Coastal Management and Development",
     "publications": 1,
@@ -2423,14 +2417,8 @@ export const topicStats: TopicStats[] = [
     "citations": 1
   },
   {
-    "id": "https://openalex.org/T10191",
-    "name": "Robotics and Sensor-Based Localization",
-    "publications": 1,
-    "citations": 1
-  },
-  {
-    "id": "https://openalex.org/T11133",
-    "name": "UAV Applications and Optimization",
+    "id": "https://openalex.org/T10699",
+    "name": "Primate Behavior and Ecology",
     "publications": 1,
     "citations": 1
   },
@@ -2453,6 +2441,12 @@ export const topicStats: TopicStats[] = [
     "citations": 1
   },
   {
+    "id": "https://openalex.org/T14470",
+    "name": "Advanced Data Processing Techniques",
+    "publications": 1,
+    "citations": 1
+  },
+  {
     "id": "https://openalex.org/T11168",
     "name": "International Development and Aid",
     "publications": 1,
@@ -2465,28 +2459,22 @@ export const topicStats: TopicStats[] = [
     "citations": 1
   },
   {
-    "id": "https://openalex.org/T12490",
-    "name": "Software Engineering and Design Patterns",
+    "id": "https://openalex.org/T13595",
+    "name": "Archaeology and Cultural Heritage",
     "publications": 1,
     "citations": 1
   },
   {
-    "id": "https://openalex.org/T13083",
-    "name": "Advanced Text Analysis Techniques",
+    "id": "https://openalex.org/T12601",
+    "name": "Web Applications and Data Management",
     "publications": 1,
     "citations": 1
   },
   {
-    "id": "https://openalex.org/T10215",
-    "name": "Semantic Web and Ontologies",
+    "id": "https://openalex.org/T11462",
+    "name": "Museums and Cultural Heritage",
     "publications": 1,
     "citations": 1
-  },
-  {
-    "id": "https://openalex.org/T12026",
-    "name": "Explainable Artificial Intelligence (XAI)",
-    "publications": 1,
-    "citations": 0
   },
   {
     "id": "https://openalex.org/T11303",
@@ -2579,6 +2567,12 @@ export const topicStats: TopicStats[] = [
     "citations": 0
   },
   {
+    "id": "https://openalex.org/T13141",
+    "name": "Statistical Methods and Applications",
+    "publications": 1,
+    "citations": 0
+  },
+  {
     "id": "https://openalex.org/T11148",
     "name": "Language, Metaphor, and Cognition",
     "publications": 1,
@@ -2645,6 +2639,18 @@ export const topicStats: TopicStats[] = [
     "citations": 0
   },
   {
+    "id": "https://openalex.org/T10783",
+    "name": "Additive Manufacturing and 3D Printing Technologies",
+    "publications": 1,
+    "citations": 0
+  },
+  {
+    "id": "https://openalex.org/T11333",
+    "name": "Climate change and permafrost",
+    "publications": 1,
+    "citations": 0
+  },
+  {
     "id": "https://openalex.org/T12119",
     "name": "Linguistics and Discourse Analysis",
     "publications": 1,
@@ -2681,20 +2687,14 @@ export const topicStats: TopicStats[] = [
     "citations": 0
   },
   {
-    "id": "https://openalex.org/T13670",
-    "name": "Ziziphus Jujuba Studies and Applications",
-    "publications": 1,
-    "citations": 0
-  },
-  {
-    "id": "https://openalex.org/T13422",
-    "name": "Phytochemistry and biological activities of Ficus species",
-    "publications": 1,
-    "citations": 0
-  },
-  {
     "id": "https://openalex.org/T12911",
     "name": "Water Resources and Sustainability",
+    "publications": 1,
+    "citations": 0
+  },
+  {
+    "id": "https://openalex.org/T11119",
+    "name": "Urban Stormwater Management Solutions",
     "publications": 1,
     "citations": 0
   },
@@ -2855,6 +2855,12 @@ export const topicStats: TopicStats[] = [
     "citations": 0
   },
   {
+    "id": "https://openalex.org/T10347",
+    "name": "Atmospheric aerosols and clouds",
+    "publications": 1,
+    "citations": 0
+  },
+  {
     "id": "https://openalex.org/T12001",
     "name": "Fossil Insects in Amber",
     "publications": 1,
@@ -2927,8 +2933,20 @@ export const topicStats: TopicStats[] = [
     "citations": 0
   },
   {
+    "id": "https://openalex.org/T11034",
+    "name": "Digital Filter Design and Implementation",
+    "publications": 1,
+    "citations": 0
+  },
+  {
     "id": "https://openalex.org/T11659",
     "name": "Advanced Image Fusion Techniques",
+    "publications": 1,
+    "citations": 0
+  },
+  {
+    "id": "https://openalex.org/T13114",
+    "name": "Image Processing Techniques and Applications",
     "publications": 1,
     "citations": 0
   },
@@ -2953,6 +2971,12 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T13316",
     "name": "Crafts, Textile, and Design",
+    "publications": 1,
+    "citations": 0
+  },
+  {
+    "id": "https://openalex.org/T10662",
+    "name": "Ultrasonics and Acoustic Wave Propagation",
     "publications": 1,
     "citations": 0
   },
@@ -2987,12 +3011,6 @@ export const topicStats: TopicStats[] = [
     "citations": 0
   },
   {
-    "id": "https://openalex.org/T12577",
-    "name": "Geography and Environmental Studies",
-    "publications": 1,
-    "citations": 0
-  },
-  {
     "id": "https://openalex.org/T13511",
     "name": "Geodetic Measurements and Engineering Structures",
     "publications": 1,
@@ -3013,6 +3031,12 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T12017",
     "name": "Recycling and Waste Management Techniques",
+    "publications": 1,
+    "citations": 0
+  },
+  {
+    "id": "https://openalex.org/T11830",
+    "name": "Point processes and geometric inequalities",
     "publications": 1,
     "citations": 0
   },
@@ -3137,7 +3161,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 1010,
-    "citations": 11330
+    "citations": 11332
   },
   {
     "id": "https://openalex.org/I4210143841",
@@ -3155,7 +3179,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I36197038",
     "name": "Taiz University",
     "publications": 174,
-    "citations": 4346
+    "citations": 4347
   },
   {
     "id": "https://openalex.org/I1294671590",
@@ -3185,7 +3209,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I33849332",
     "name": "University of Malaya",
     "publications": 110,
-    "citations": 3421
+    "citations": 3422
   },
   {
     "id": "https://openalex.org/I201726411",
@@ -3197,7 +3221,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I28022161",
     "name": "King Saud University",
     "publications": 100,
-    "citations": 1049
+    "citations": 1051
   },
   {
     "id": "https://openalex.org/I49324905",
@@ -3209,7 +3233,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I139290333",
     "name": "British Geological Survey",
     "publications": 95,
-    "citations": 3913
+    "citations": 3914
   },
   {
     "id": "https://openalex.org/I205640436",
@@ -3239,13 +3263,13 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I21203515",
     "name": "Kazan Federal University",
     "publications": 56,
-    "citations": 454
+    "citations": 456
   },
   {
     "id": "https://openalex.org/I176601375",
     "name": "Khalifa University of Science and Technology",
     "publications": 55,
-    "citations": 508
+    "citations": 509
   },
   {
     "id": "https://openalex.org/I114972647",
@@ -3263,7 +3287,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I203899302",
     "name": "Universiti Teknologi Petronas",
     "publications": 48,
-    "citations": 777
+    "citations": 779
   },
   {
     "id": "https://openalex.org/I19820366",
@@ -3275,7 +3299,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210158893",
     "name": "Bureau de Recherches Géologiques et Minières",
     "publications": 42,
-    "citations": 1491
+    "citations": 1492
   },
   {
     "id": "https://openalex.org/I4576418",
@@ -3311,7 +3335,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I185163786",
     "name": "King Abdulaziz University",
     "publications": 29,
-    "citations": 1307
+    "citations": 1308
   },
   {
     "id": "https://openalex.org/I146416000",
@@ -3764,6 +3788,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 42
   },
   {
+    "id": "https://openalex.org/I124055696",
+    "name": "University of Copenhagen",
+    "publications": 13,
+    "citations": 3583
+  },
+  {
     "id": "https://openalex.org/I34403800",
     "name": "GEOMAR Helmholtz Centre for Ocean Research Kiel",
     "publications": 13,
@@ -3833,13 +3863,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I46208956",
     "name": "Salahaddin University-Erbil",
     "publications": 13,
-    "citations": 129
-  },
-  {
-    "id": "https://openalex.org/I124055696",
-    "name": "University of Copenhagen",
-    "publications": 12,
-    "citations": 3583
+    "citations": 130
   },
   {
     "id": "https://openalex.org/I4405260085",
@@ -3875,7 +3899,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I69050122",
     "name": "Near East University",
     "publications": 12,
-    "citations": 380
+    "citations": 382
   },
   {
     "id": "https://openalex.org/I3125347698",
@@ -3953,7 +3977,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I170606269",
     "name": "University of the Fraser Valley",
     "publications": 11,
-    "citations": 146
+    "citations": 147
   },
   {
     "id": "https://openalex.org/I55202024",
@@ -3965,7 +3989,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I71999127",
     "name": "Universitat de Barcelona",
     "publications": 11,
-    "citations": 84
+    "citations": 85
   },
   {
     "id": "https://openalex.org/I179097149",
@@ -4187,7 +4211,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I70703428",
     "name": "Palacký University Olomouc",
     "publications": 9,
-    "citations": 61
+    "citations": 62
   },
   {
     "id": "https://openalex.org/I25217355",
@@ -4505,7 +4529,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I265217849",
     "name": "IFP Énergies nouvelles",
     "publications": 6,
-    "citations": 713
+    "citations": 714
   },
   {
     "id": "https://openalex.org/I79510175",
@@ -4559,7 +4583,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I2801979204",
     "name": "Geological Survey of Denmark and Greenland",
     "publications": 6,
-    "citations": 362
+    "citations": 363
   },
   {
     "id": "https://openalex.org/I124357947",
@@ -5267,7 +5291,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I2800838116",
     "name": "University of Al Maarif",
     "publications": 4,
-    "citations": 53
+    "citations": 54
   },
   {
     "id": "https://openalex.org/I100066346",
@@ -5744,12 +5768,6 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 70
   },
   {
-    "id": "https://openalex.org/I161028277",
-    "name": "Institute for Advanced Studies in Basic Sciences",
-    "publications": 3,
-    "citations": 66
-  },
-  {
     "id": "https://openalex.org/I4405259948",
     "name": "National Institute of Natural Hazards",
     "publications": 3,
@@ -5960,6 +5978,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 14
   },
   {
+    "id": "https://openalex.org/I24768866",
+    "name": "Bulgarian Academy of Sciences",
+    "publications": 3,
+    "citations": 10
+  },
+  {
     "id": "https://openalex.org/I52179390",
     "name": "University of Waikato",
     "publications": 3,
@@ -5970,12 +5994,6 @@ export const institutionStats: InstitutionStats[] = [
     "name": "Prince Mohammad bin Fahd University",
     "publications": 3,
     "citations": 10
-  },
-  {
-    "id": "https://openalex.org/I24768866",
-    "name": "Bulgarian Academy of Sciences",
-    "publications": 3,
-    "citations": 9
   },
   {
     "id": "https://openalex.org/I40034438",
@@ -6002,6 +6020,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 7
   },
   {
+    "id": "https://openalex.org/I20230540",
+    "name": "University of Miskolc",
+    "publications": 3,
+    "citations": 6
+  },
+  {
     "id": "https://openalex.org/I4210107855",
     "name": "Laboratoire de Spectroscopie pour les Interactions, la Réactivité et l'Environnement",
     "publications": 3,
@@ -6018,12 +6042,6 @@ export const institutionStats: InstitutionStats[] = [
     "name": "Array Information Technology (United States)",
     "publications": 3,
     "citations": 6
-  },
-  {
-    "id": "https://openalex.org/I20230540",
-    "name": "University of Miskolc",
-    "publications": 3,
-    "citations": 5
   },
   {
     "id": "https://openalex.org/I124601658",
@@ -6239,7 +6257,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210109366",
     "name": "Ecofys (Netherlands)",
     "publications": 2,
-    "citations": 208
+    "citations": 209
   },
   {
     "id": "https://openalex.org/I2801710774",
@@ -6251,7 +6269,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I148297040",
     "name": "Netherlands Organisation for Applied Scientific Research",
     "publications": 2,
-    "citations": 179
+    "citations": 180
   },
   {
     "id": "https://openalex.org/I90745801",
@@ -6592,6 +6610,12 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I71395657",
     "name": "Niigata University",
+    "publications": 2,
+    "citations": 66
+  },
+  {
+    "id": "https://openalex.org/I161028277",
+    "name": "Institute for Advanced Studies in Basic Sciences",
     "publications": 2,
     "citations": 66
   },
@@ -7451,13 +7475,13 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210136445",
     "name": "Przedsiębiorstwo Badań Geofizycznych",
     "publications": 1,
-    "citations": 172
+    "citations": 173
   },
   {
     "id": "https://openalex.org/I4210152215",
     "name": "Vattenfall (Denmark)",
     "publications": 1,
-    "citations": 172
+    "citations": 173
   },
   {
     "id": "https://openalex.org/I4405272269",
@@ -8870,6 +8894,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 10
   },
   {
+    "id": "https://openalex.org/I214977574",
+    "name": "University Canada West",
+    "publications": 1,
+    "citations": 10
+  },
+  {
     "id": "https://openalex.org/I4210134214",
     "name": "Beijing Research Institute of Uranium Geology",
     "publications": 1,
@@ -8908,12 +8938,6 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I3131952115",
     "name": "Kaduna Polytechnic",
-    "publications": 1,
-    "citations": 9
-  },
-  {
-    "id": "https://openalex.org/I214977574",
-    "name": "University Canada West",
     "publications": 1,
     "citations": 9
   },
@@ -9982,12 +10006,6 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I69425150",
     "name": "Imam Khomeini International University",
-    "publications": 1,
-    "citations": 0
-  },
-  {
-    "id": "https://openalex.org/I4210151315",
-    "name": "Geocenter Denmark",
     "publications": 1,
     "citations": 0
   },
