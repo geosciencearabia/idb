@@ -28008,11 +28008,11 @@
         "currency": "CHF",
         "value_usd": 2172
       },
-      "fwci": 1.4392,
-      "has_fulltext": false,
+      "fwci": 1.428,
+      "has_fulltext": true,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.84823401,
+        "value": 0.84699181,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28418,10 +28418,11 @@
       ],
       "has_content": {
         "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": true
       },
       "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2801087535.pdf"
+        "pdf": "https://content.openalex.org/works/W2801087535.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2801087535.grobid-xml"
       },
       "referenced_works_count": 47,
       "referenced_works": [
@@ -28976,7 +28977,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-07T09:51:55.459714",
       "created_date": "2018-05-17T00:00:00"
     },
     {
@@ -57727,16 +57728,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1083,
+      "fwci": 0.1055,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.4524316,
+        "value": 0.43741994,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 96
       },
       "biblio": {
@@ -58008,7 +58009,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 3,
       "locations": [
         {
           "id": "doi:10.15446/esrj.v26n3.96985",
@@ -58049,6 +58050,46 @@
           "is_published": true,
           "raw_source_name": "Earth Sciences Research Journal",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:ojs.unal.edu.co:article/96985",
+          "is_oa": true,
+          "landing_page_url": "https://revistas.unal.edu.co/index.php/esrj/article/view/96985",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S123144898",
+            "display_name": "Earth Sciences Research Journal",
+            "issn_l": "1794-6190",
+            "issn": [
+              "1794-6190",
+              "2339-3459"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "jufo-1",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310318911",
+            "host_organization_name": "National University of Colombia",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310318911"
+            ],
+            "host_organization_lineage_names": [
+              "National University of Colombia"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "1794-6190",
+          "raw_type": "info:eu-repo/semantics/article"
         },
         {
           "id": "pmh:oai:www.revistas.unal.edu.co:article/96985",
@@ -58781,7 +58822,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-08T07:41:39.490200",
+      "updated_date": "2026-10-07T09:51:55.459714",
       "created_date": "2025-10-10T00:00:00"
     },
     {
