@@ -19,7 +19,7 @@
     ],
     "full_name": "Salah A. Al‐Khirbash",
     "works_count": 47,
-    "cited_by_count": 980,
+    "cited_by_count": 981,
     "summary_stats": {
       "2yr_mean_citedness": 0.8571428571428571,
       "h_index": 16,
@@ -218,7 +218,7 @@
       {
         "id": "https://openalex.org/T12157",
         "display_name": "Geochemistry and Geologic Mapping",
-        "value": 0.0000452,
+        "value": 0.0000453,
         "subfield": {
           "id": "https://openalex.org/subfields/1702",
           "display_name": "Artificial Intelligence"
@@ -235,7 +235,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000265,
+        "value": 0.0000268,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -364,7 +364,7 @@
         "year": 2011,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 122
+        "cited_by_count": 123
       },
       {
         "year": 2013,
@@ -446,7 +446,7 @@
     ],
     "block_key": "s al-khirbash",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5081695998",
-    "updated_date": "2026-10-06T12:31:48",
+    "updated_date": "2026-10-07T12:33:31",
     "created_date": "2022-05-11T00:00:00"
   },
   "works": [
@@ -829,11 +829,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.3177,
+      "fwci": 0.3178,
       "has_fulltext": false,
-      "cited_by_count": 101,
+      "cited_by_count": 99,
       "citation_normalized_percentile": {
-        "value": 0.64611922,
+        "value": 0.64603227,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1181,9 +1181,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.6899999976158142,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6899999976158142
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -1201,8 +1201,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -1313,11 +1313,11 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 7
+          "cited_by_count": 6
         },
         {
           "year": 2018,
-          "cited_by_count": 7
+          "cited_by_count": 6
         },
         {
           "year": 2017,
@@ -1344,7 +1344,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2245,9 +2245,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.75,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.75
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -2265,8 +2265,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4683,9 +4683,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.6600000262260437,
           "id": "https://metadata.un.org/sdg/16",
-          "display_name": "Peace, justice, and strong institutions",
-          "score": 0.6600000262260437
+          "display_name": "Peace, justice, and strong institutions"
         }
       ],
       "study_designs": [],
@@ -4735,8 +4735,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -5538,17 +5538,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -6143,11 +6143,11 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 5.1053,
+      "fwci": 4.8945,
       "has_fulltext": false,
-      "cited_by_count": 64,
+      "cited_by_count": 62,
       "citation_normalized_percentile": {
-        "value": 0.96030756,
+        "value": 0.95719304,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6530,17 +6530,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8100000023841858,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8100000023841858
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 107,
@@ -7245,7 +7245,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 16
+          "cited_by_count": 15
         },
         {
           "year": 2020,
@@ -7257,14 +7257,14 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 8
+          "cited_by_count": 7
         },
         {
           "year": 2017,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7388,11 +7388,11 @@
         "value_usd": 3310
       },
       "apc_paid": null,
-      "fwci": 2.9494,
+      "fwci": 2.947,
       "has_fulltext": false,
-      "cited_by_count": 45,
+      "cited_by_count": 44,
       "citation_normalized_percentile": {
-        "value": 0.88915411,
+        "value": 0.88830506,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7700,9 +7700,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8999999761581421
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -7715,8 +7715,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -7847,7 +7847,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 10
+          "cited_by_count": 9
         },
         {
           "year": 2020,
@@ -7874,7 +7874,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-02T07:38:04.252551",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8478,17 +8478,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.7699999809265137,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7699999809265137
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -9505,11 +9505,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5495,
+      "fwci": 2.3806,
       "has_fulltext": false,
-      "cited_by_count": 37,
+      "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.88807552,
+        "value": 0.87678768,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9778,9 +9778,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8999999761581421
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -9801,8 +9801,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 100,
@@ -10506,14 +10506,14 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 9
+          "cited_by_count": 8
         },
         {
           "year": 2020,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10637,11 +10637,11 @@
         "value_usd": 2600
       },
       "apc_paid": null,
-      "fwci": 2.3319,
+      "fwci": 2.1994,
       "has_fulltext": false,
-      "cited_by_count": 34,
+      "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.8710737,
+        "value": 0.86213115,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10982,8 +10982,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -11119,14 +11119,14 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 7
+          "cited_by_count": 6
         },
         {
           "year": 2020,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-02T18:50:13.731487",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11712,9 +11712,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -11727,8 +11727,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -12372,11 +12372,11 @@
         "value_usd": 3990
       },
       "apc_paid": null,
-      "fwci": 2.0434,
+      "fwci": 2.0461,
       "has_fulltext": false,
-      "cited_by_count": 36,
+      "cited_by_count": 35,
       "citation_normalized_percentile": {
-        "value": 0.8524864,
+        "value": 0.85264467,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12746,17 +12746,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -12882,7 +12882,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 5
+          "cited_by_count": 4
         },
         {
           "year": 2020,
@@ -12913,7 +12913,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12971,7 +12971,7 @@
         "raw_source_name": "Water, Air, and Soil Pollution",
         "raw_type": "journal-article"
       },
-      "type": "article",
+      "type": "book-chapter",
       "indexed_in": [
         "crossref"
       ],
@@ -13370,11 +13370,11 @@
         "value_usd": 3890
       },
       "apc_paid": null,
-      "fwci": 0.9085,
+      "fwci": 1.4474,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.75996094,
+        "value": 0.81992337,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13712,14 +13712,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7811999917030334,
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.7811999917030334
+          "display_name": "Responsible consumption and production"
         },
         {
+          "score": 0.4390000104904175,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land",
-          "score": 0.4390000104904175
+          "display_name": "Life on land"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -13727,8 +13727,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -13857,7 +13857,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-06T10:28:23.643775",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14362,16 +14362,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 1
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.5,
           "id": "https://metadata.un.org/sdg/16",
-          "display_name": "Peace, justice, and strong institutions",
-          "score": 0.5
+          "display_name": "Peace, justice, and strong institutions"
         }
       ],
       "study_designs": [],
@@ -14421,8 +14421,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -14697,11 +14697,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 1.3492,
+      "fwci": 1.352,
       "has_fulltext": false,
-      "cited_by_count": 26,
+      "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.81455713,
+        "value": 0.8137016,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14991,9 +14991,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -15014,8 +15014,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 100,
@@ -15153,11 +15153,11 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 3
+          "cited_by_count": 2
         },
         {
           "year": 2021,
-          "cited_by_count": 4
+          "cited_by_count": 3
         },
         {
           "year": 2020,
@@ -15176,7 +15176,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15768,8 +15768,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -15966,15 +15966,15 @@
             "OM"
           ],
           "is_corresponding": true,
-          "raw_author_name": "Salah A. Al‐Khirbash",
+          "raw_author_name": "Salah A. Al-Khirbash",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences Sultan Qaboos University  Muscat Oman",
+            "Sultan Qaboos University",
             "Department of Earth Sciences, Sultan Qaboos University, Muscat, Oman"
           ],
           "raw_orcid": "https://orcid.org/0000-0001-8467-4528",
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Earth Sciences Sultan Qaboos University  Muscat Oman",
+              "raw_affiliation_string": "Sultan Qaboos University",
               "institution_ids": [
                 "https://openalex.org/I47818738"
               ]
@@ -16026,21 +16026,14 @@
           "is_corresponding": false,
           "raw_author_name": "Ahmed H. Ahmed",
           "raw_affiliation_strings": [
-            "Department of Geology Faculty of Science Helwan University  Cairo Egypt",
-            "Faculty of Earth Science King Abdulaziz University  Jeddah Saudi Arabia",
+            "Faculty of Earth Sciences, KAU",
             "Department of Geology, Faculty of Science, Helwan University, Cairo, Egypt",
             "Faculty of Earth Science, King Abdulaziz University, Jeddah, Saudi Arabia"
           ],
           "raw_orcid": "https://orcid.org/0000-0003-4327-5330",
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Geology Faculty of Science Helwan University  Cairo Egypt",
-              "institution_ids": [
-                "https://openalex.org/I84058292"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Faculty of Earth Science King Abdulaziz University  Jeddah Saudi Arabia",
+              "raw_affiliation_string": "Faculty of Earth Sciences, KAU",
               "institution_ids": [
                 "https://openalex.org/I185163786"
               ]
@@ -16075,16 +16068,16 @@
         "value_usd": 3500
       },
       "apc_paid": null,
-      "fwci": 1.0627,
+      "fwci": 1.0519,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.71869111,
+        "value": 0.71350877,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 98
       },
       "biblio": {
@@ -16316,7 +16309,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 3,
       "locations": [
         {
           "id": "doi:10.1029/2021jb022363",
@@ -16357,6 +16350,34 @@
           "is_published": true,
           "raw_source_name": "Journal of Geophysical Research: Solid Earth",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "doi:10.1002/essoar.10505368.1",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1002/essoar.10505368.1",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "posted-content"
+        },
+        {
+          "id": "doi:10.1002/essoar.10507175.1",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1002/essoar.10507175.1",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "posted-content"
         }
       ],
       "best_oa_location": null,
@@ -16366,11 +16387,11 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 68,
+      "referenced_works_count": 69,
       "referenced_works": [
         "https://openalex.org/W25545989",
         "https://openalex.org/W59394388",
@@ -16433,6 +16454,7 @@
         "https://openalex.org/W2889687723",
         "https://openalex.org/W2921244692",
         "https://openalex.org/W2945094751",
+        "https://openalex.org/W2945318394",
         "https://openalex.org/W2980324491",
         "https://openalex.org/W2981813428",
         "https://openalex.org/W3001845587",
@@ -17009,7 +17031,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17545,8 +17567,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -18315,16 +18337,16 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 2.4739,
+      "fwci": 2.4953,
       "has_fulltext": false,
-      "cited_by_count": 25,
+      "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.87277235,
+        "value": 0.87332919,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 97
       },
       "biblio": {
@@ -18617,9 +18639,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.44999998807907104
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -18632,8 +18654,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -18725,7 +18747,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 4
+          "cited_by_count": 3
         },
         {
           "year": 2020,
@@ -18748,7 +18770,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19350,8 +19372,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -19991,17 +20013,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -21298,17 +21320,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -22310,17 +22332,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2327941769.pdf",
@@ -23888,9 +23910,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7900000214576721
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -23903,8 +23925,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -24277,17 +24299,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.4099999964237213
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24658,17 +24680,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.5600000023841858,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5600000023841858
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25850,17 +25872,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8100000023841858,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.8100000023841858
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -26705,8 +26727,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28442,17 +28464,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.4300000071525574
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29327,8 +29349,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30125,17 +30147,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4231050176.pdf",
@@ -30163,2031 +30185,6 @@
       "counts_by_year": [],
       "updated_date": "2026-10-05T09:50:58.205359",
       "created_date": "2022-05-11T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4235388960",
-      "doi": "https://doi.org/10.1002/essoar.10507175.1",
-      "title": "Distribution and Mobility of Platinum-Group Elements in the Late Cretaceous Ni-laterite in the Northern Oman Mountains",
-      "display_name": "Distribution and Mobility of Platinum-Group Elements in the Late Cretaceous Ni-laterite in the Northern Oman Mountains",
-      "publication_year": 2021,
-      "publication_date": "2021-05-28",
-      "ids": {
-        "openalex": "https://openalex.org/W4235388960",
-        "doi": "https://doi.org/10.1002/essoar.10507175.1"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1002/essoar.10507175.1",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1002/essoar.10507175.1",
-        "pdf_url": null,
-        "source": null,
-        "license": null,
-        "license_id": null,
-        "version": "acceptedVersion",
-        "is_accepted": true,
-        "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "posted-content"
-      },
-      "type": "preprint",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5081695998",
-            "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8467-4528"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I47818738",
-              "display_name": "Sultan Qaboos University",
-              "ror": "https://ror.org/04wq8zb47",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Salah A. Al-Khirbash",
-          "raw_affiliation_strings": [
-            "Sultan Qaboos University"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0001-8467-4528",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Sultan Qaboos University",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5101466549",
-            "display_name": "Ahmed Hassan Ahmed",
-            "orcid": "https://orcid.org/0000-0003-4327-5330",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-4327-5330"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I185163786",
-              "display_name": "King Abdulaziz University",
-              "ror": "https://ror.org/02ma4wv74",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I185163786"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ahmed H. Ahmed",
-          "raw_affiliation_strings": [
-            "Faculty of Earth Sciences, KAU"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0003-4327-5330",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Faculty of Earth Sciences, KAU",
-              "institution_ids": [
-                "https://openalex.org/I185163786"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081695998"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I47818738"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": null,
-      "has_fulltext": false,
-      "cited_by_count": 0,
-      "citation_normalized_percentile": null,
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11740",
-        "display_name": "Geochemistry and Elemental Analysis",
-        "score": 0.8779000043869019,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1906",
-          "display_name": "Geochemistry and Petrology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11740",
-          "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.8779000043869019,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.06759999692440033,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.02410000003874302,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/platinum-group-elements",
-          "display_name": "platinum group elements",
-          "score": 0.9950000047683716
-        },
-        {
-          "id": "https://openalex.org/keywords/lateritization",
-          "display_name": "lateritization",
-          "score": 0.8899999856948853
-        },
-        {
-          "id": "https://openalex.org/keywords/saprolite",
-          "display_name": "saprolite",
-          "score": 0.8130000233650208
-        },
-        {
-          "id": "https://openalex.org/keywords/ferricrete",
-          "display_name": "ferricrete",
-          "score": 0.8849999904632568
-        },
-        {
-          "id": "https://openalex.org/keywords/chromite",
-          "display_name": "chromite",
-          "score": 0.6769999861717224
-        },
-        {
-          "id": "https://openalex.org/keywords/oxyhydroxides",
-          "display_name": "oxyhydroxides",
-          "score": 0.8790000081062317
-        },
-        {
-          "id": "https://openalex.org/keywords/late-cretaceous",
-          "display_name": "Late Cretaceous",
-          "score": 0.8029999732971191
-        },
-        {
-          "id": "https://openalex.org/keywords/oman-ophiolite",
-          "display_name": "Oman ophiolite",
-          "score": 0.925000011920929
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2779256693",
-          "wikidata": "https://www.wikidata.org/wiki/Q622845",
-          "display_name": "Laterite",
-          "level": 3,
-          "score": 0.9295841455459595
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.7561502456665039
-        },
-        {
-          "id": "https://openalex.org/C2781251403",
-          "wikidata": "https://www.wikidata.org/wiki/Q223995",
-          "display_name": "Platinum group",
-          "level": 4,
-          "score": 0.5476098656654358
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.47561198472976685
-        },
-        {
-          "id": "https://openalex.org/C110121322",
-          "wikidata": "https://www.wikidata.org/wiki/Q865811",
-          "display_name": "Distribution (mathematics)",
-          "level": 2,
-          "score": 0.42638128995895386
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.37164604663848877
-        },
-        {
-          "id": "https://openalex.org/C1965285",
-          "wikidata": "https://www.wikidata.org/wiki/Q8008",
-          "display_name": "Earth science",
-          "level": 1,
-          "score": 0.36256206035614014
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.343300461769104
-        },
-        {
-          "id": "https://openalex.org/C136764020",
-          "wikidata": "https://www.wikidata.org/wiki/Q466",
-          "display_name": "World Wide Web",
-          "level": 1,
-          "score": 0.34183457493782043
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.3344244956970215
-        },
-        {
-          "id": "https://openalex.org/C161191863",
-          "wikidata": "https://www.wikidata.org/wiki/Q199655",
-          "display_name": "Library science",
-          "level": 1,
-          "score": 0.3216843008995056
-        },
-        {
-          "id": "https://openalex.org/C518104683",
-          "wikidata": "https://www.wikidata.org/wiki/Q880",
-          "display_name": "Platinum",
-          "level": 3,
-          "score": 0.2688482701778412
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.20764821767807007
-        },
-        {
-          "id": "https://openalex.org/C504270822",
-          "wikidata": "https://www.wikidata.org/wiki/Q744",
-          "display_name": "Nickel",
-          "level": 2,
-          "score": 0.15238052606582642
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0.1406724452972412
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.13904651999473572
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.09686651825904846
-        },
-        {
-          "id": "https://openalex.org/C191897082",
-          "wikidata": "https://www.wikidata.org/wiki/Q11467",
-          "display_name": "Metallurgy",
-          "level": 1,
-          "score": 0.08901751041412354
-        },
-        {
-          "id": "https://openalex.org/C134306372",
-          "wikidata": "https://www.wikidata.org/wiki/Q7754",
-          "display_name": "Mathematical analysis",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C55493867",
-          "wikidata": "https://www.wikidata.org/wiki/Q7094",
-          "display_name": "Biochemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C161790260",
-          "wikidata": "https://www.wikidata.org/wiki/Q82264",
-          "display_name": "Catalysis",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1002/essoar.10507175.1",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1002/essoar.10507175.1",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "acceptedVersion",
-          "is_accepted": true,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "posted-content"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "sustainable_development_goals_aurora": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 49,
-      "referenced_works": [
-        "https://openalex.org/W25545989",
-        "https://openalex.org/W59394388",
-        "https://openalex.org/W105440873",
-        "https://openalex.org/W1988387617",
-        "https://openalex.org/W1989098212",
-        "https://openalex.org/W1998093513",
-        "https://openalex.org/W2007778673",
-        "https://openalex.org/W2008004562",
-        "https://openalex.org/W2011176927",
-        "https://openalex.org/W2030606756",
-        "https://openalex.org/W2034087206",
-        "https://openalex.org/W2036299044",
-        "https://openalex.org/W2038094447",
-        "https://openalex.org/W2038637645",
-        "https://openalex.org/W2045999980",
-        "https://openalex.org/W2046892047",
-        "https://openalex.org/W2048448105",
-        "https://openalex.org/W2051983668",
-        "https://openalex.org/W2052378678",
-        "https://openalex.org/W2053678930",
-        "https://openalex.org/W2063857126",
-        "https://openalex.org/W2068281069",
-        "https://openalex.org/W2077193584",
-        "https://openalex.org/W2080212705",
-        "https://openalex.org/W2092393593",
-        "https://openalex.org/W2097364628",
-        "https://openalex.org/W2108659026",
-        "https://openalex.org/W2112162621",
-        "https://openalex.org/W2113682426",
-        "https://openalex.org/W2122582439",
-        "https://openalex.org/W2138443142",
-        "https://openalex.org/W2145308764",
-        "https://openalex.org/W2152084210",
-        "https://openalex.org/W2155245639",
-        "https://openalex.org/W2162335679",
-        "https://openalex.org/W2162652089",
-        "https://openalex.org/W2212631681",
-        "https://openalex.org/W2332302581",
-        "https://openalex.org/W2522633957",
-        "https://openalex.org/W2549909563",
-        "https://openalex.org/W2573155256",
-        "https://openalex.org/W2600550446",
-        "https://openalex.org/W2889687723",
-        "https://openalex.org/W2945318394",
-        "https://openalex.org/W2980324491",
-        "https://openalex.org/W3001845587",
-        "https://openalex.org/W3007461299",
-        "https://openalex.org/W3037808010",
-        "https://openalex.org/W3100735501"
-      ],
-      "related_works": [
-        "https://openalex.org/W4387497383",
-        "https://openalex.org/W3183948672",
-        "https://openalex.org/W3173606202",
-        "https://openalex.org/W3110381201",
-        "https://openalex.org/W2948807893",
-        "https://openalex.org/W2935909890",
-        "https://openalex.org/W2778153218",
-        "https://openalex.org/W2758277628",
-        "https://openalex.org/W1531601525",
-        "https://openalex.org/W2076016372"
-      ],
-      "abstract_inverted_index": {
-        "2": [
-          131,
-          136
-        ],
-        "3": [
-          133,
-          138
-        ],
-        "35": [
-          51
-        ],
-        "253": [
-          84
-        ],
-        "Low-grade": [
-          0
-        ],
-        "Ni-laterite": [
-          1,
-          27,
-          142,
-          217
-        ],
-        "deposits": [
-          2,
-          226
-        ],
-        "are": [
-          3,
-          23,
-          154
-        ],
-        "well-developed": [
-          4
-        ],
-        "over": [
-          5
-        ],
-        "the": [
-          6,
-          10,
-          30,
-          43,
-          58,
-          62,
-          73,
-          77,
-          89,
-          106,
-          141,
-          147,
-          162,
-          168,
-          174,
-          185,
-          201,
-          215,
-          223,
-          250
-        ],
-        "mafic/ultramafic": [
-          7
-        ],
-        "protoliths": [
-          8
-        ],
-        "in": [
-          9,
-          25,
-          61,
-          72,
-          88,
-          140,
-          167,
-          197,
-          200,
-          214,
-          219
-        ],
-        "northern": [
-          11
-        ],
-        "Oman": [
-          12,
-          31,
-          216
-        ],
-        "Mountains.": [
-          13
-        ],
-        "Concentrations,": [
-          14
-        ],
-        "distribution": [
-          15,
-          179
-        ],
-        "patterns": [
-          16,
-          180
-        ],
-        "and": [
-          17,
-          91,
-          128,
-          134,
-          170,
-          181,
-          240
-        ],
-        "mobility": [
-          18
-        ],
-        "of": [
-          19,
-          29,
-          149,
-          165,
-          188,
-          211
-        ],
-        "platinum-group": [
-          20
-        ],
-        "element": [
-          21
-        ],
-        "(PGE)": [
-          22
-        ],
-        "investigated": [
-          24
-        ],
-        "some": [
-          26
-        ],
-        "profiles": [
-          28
-        ],
-        "ophiolite": [
-          32
-        ],
-        "as": [
-          33,
-          232
-        ],
-        "a": [
-          34,
-          121
-        ],
-        "possible": [
-          35,
-          251
-        ],
-        "unconventional": [
-          36,
-          234
-        ],
-        "PGE": [
-          37,
-          45,
-          49,
-          59,
-          67,
-          80,
-          96,
-          108,
-          126,
-          178,
-          193,
-          213,
-          235
-        ],
-        "resource.": [
-          38
-        ],
-        "The": [
-          39,
-          66,
-          94,
-          177,
-          208
-        ],
-        "ultramafic": [
-          40,
-          186
-        ],
-        "protolith": [
-          41
-        ],
-        "displays": [
-          42
-        ],
-        "lowest": [
-          44,
-          107
-        ],
-        "content": [
-          46,
-          60,
-          68,
-          81,
-          97,
-          109
-        ],
-        "(average": [
-          47
-        ],
-        "total": [
-          48,
-          79,
-          212
-        ],
-        "=": [
-          50
-        ],
-        "ppb),": [
-          52
-        ],
-        "which": [
-          53,
-          228
-        ],
-        "is": [
-          54,
-          86,
-          110,
-          120,
-          218
-        ],
-        "almost": [
-          55
-        ],
-        "similar": [
-          56
-        ],
-        "to": [
-          57,
-          83,
-          99,
-          113,
-          161
-        ],
-        "overlying": [
-          63
-        ],
-        "saprolite": [
-          64
-        ],
-        "zone.": [
-          65
-        ],
-        "substantially": [
-          69
-        ],
-        "increased": [
-          70
-        ],
-        "upward": [
-          71
-        ],
-        "laterite": [
-          74,
-          225
-        ],
-        "profile,": [
-          75
-        ],
-        "where": [
-          76
-        ],
-        "highest": [
-          78,
-          95
-        ],
-        "(up": [
-          82
-        ],
-        "ppb)": [
-          85
-        ],
-        "recorded": [
-          87
-        ],
-        "oxide": [
-          90,
-          169
-        ],
-        "ferricrete/clay-rich": [
-          92,
-          171
-        ],
-        "zones.": [
-          93
-        ],
-        "corresponds": [
-          98
-        ],
-        "Pt": [
-          100
-        ],
-        ">": [
-          101,
-          103
-        ],
-        "Ru": [
-          102
-        ],
-        "Pd,": [
-          104
-        ],
-        "while": [
-          105
-        ],
-        "mostly": [
-          111
-        ],
-        "corresponding": [
-          112
-        ],
-        "Os": [
-          114
-        ],
-        "<": [
-          115,
-          117
-        ],
-        "Rh": [
-          116
-        ],
-        "Ir,": [
-          118
-        ],
-        "There": [
-          119
-        ],
-        "general": [
-          122
-        ],
-        "positive": [
-          123,
-          182
-        ],
-        "correlation": [
-          124,
-          183
-        ],
-        "between": [
-          125
-        ],
-        "contents": [
-          127,
-          139
-        ],
-        "both": [
-          129
-        ],
-        "Cr": [
-          130
-        ],
-        "O": [
-          132,
-          137
-        ],
-        "Fe": [
-          135
-        ],
-        "profiles.": [
-          143
-        ],
-        "This": [
-          144
-        ],
-        "may": [
-          145
-        ],
-        "reflect": [
-          146
-        ],
-        "formation": [
-          148
-        ],
-        "PGE-Fe": [
-          150
-        ],
-        "nanoparticle": [
-          151
-        ],
-        "alloys": [
-          152
-        ],
-        "that": [
-          153,
-          192
-        ],
-        "hosted": [
-          155
-        ],
-        "by": [
-          156
-        ],
-        "Fe-rich": [
-          157
-        ],
-        "oxyhydroxides": [
-          158
-        ],
-        "or": [
-          159
-        ],
-        "due": [
-          160
-        ],
-        "residual": [
-          163
-        ],
-        "accumulation": [
-          164
-        ],
-        "chromite": [
-          166
-        ],
-        "zones": [
-          172
-        ],
-        "during": [
-          173
-        ],
-        "lateritization": [
-          175,
-          206
-        ],
-        "process.": [
-          176
-        ],
-        "with": [
-          184,
-          222
-        ],
-        "index": [
-          187
-        ],
-        "alteration": [
-          189
-        ],
-        "(UMIA)": [
-          190
-        ],
-        "indicate": [
-          191
-        ],
-        "can": [
-          194,
-          229,
-          243
-        ],
-        "be": [
-          195,
-          230,
-          244
-        ],
-        "mobilized": [
-          196
-        ],
-        "different": [
-          198
-        ],
-        "proportions": [
-          199
-        ],
-        "surficial": [
-          202
-        ],
-        "environment": [
-          203
-        ],
-        "upon": [
-          204
-        ],
-        "progressive": [
-          205
-        ],
-        "processes.": [
-          207
-        ],
-        "high": [
-          209
-        ],
-        "concentration": [
-          210
-        ],
-        "good": [
-          220
-        ],
-        "agreement": [
-          221
-        ],
-        "PGE-rich": [
-          224
-        ],
-        "worldwide,": [
-          227
-        ],
-        "considered": [
-          231
-        ],
-        "an": [
-          233
-        ],
-        "resource": [
-          236
-        ],
-        "if": [
-          237
-        ],
-        "adequate": [
-          238
-        ],
-        "extraction": [
-          239
-        ],
-        "refining": [
-          241
-        ],
-        "processes": [
-          242
-        ],
-        "applied": [
-          245
-        ],
-        "for": [
-          246
-        ],
-        "their": [
-          247
-        ],
-        "recovery": [
-          248
-        ],
-        "from": [
-          249
-        ],
-        "upcoming": [
-          252
-        ],
-        "Ni": [
-          253
-        ],
-        "production.": [
-          254
-        ]
-      },
-      "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4241546767",
-      "doi": "https://doi.org/10.1002/essoar.10505368.1",
-      "title": "Distribution and Mobility of Platinum-Group Elements in the Late Cretaceous Ni-laterite Soil in the Northern Oman Mountains",
-      "display_name": "Distribution and Mobility of Platinum-Group Elements in the Late Cretaceous Ni-laterite Soil in the Northern Oman Mountains",
-      "publication_year": 2020,
-      "publication_date": "2020-12-13",
-      "ids": {
-        "openalex": "https://openalex.org/W4241546767",
-        "doi": "https://doi.org/10.1002/essoar.10505368.1"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1002/essoar.10505368.1",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1002/essoar.10505368.1",
-        "pdf_url": null,
-        "source": null,
-        "license": null,
-        "license_id": null,
-        "version": "acceptedVersion",
-        "is_accepted": true,
-        "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "posted-content"
-      },
-      "type": "preprint",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5081695998",
-            "display_name": "Salah Al‐Khirbash",
-            "orcid": "https://orcid.org/0000-0001-8467-4528",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8467-4528"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I47818738",
-              "display_name": "Sultan Qaboos University",
-              "ror": "https://ror.org/04wq8zb47",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Salah A. Al-Khirbash",
-          "raw_affiliation_strings": [
-            "Sultan Qaboos University"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0001-8467-4528",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Sultan Qaboos University",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5101466549",
-            "display_name": "Ahmed Hassan Ahmed",
-            "orcid": "https://orcid.org/0000-0003-4327-5330",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-4327-5330"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I185163786",
-              "display_name": "King Abdulaziz University",
-              "ror": "https://ror.org/02ma4wv74",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I185163786"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ahmed H. Ahmed",
-          "raw_affiliation_strings": [
-            "Faculty of Earth Sciences, KAU"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0003-4327-5330",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Faculty of Earth Sciences, KAU",
-              "institution_ids": [
-                "https://openalex.org/I185163786"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081695998"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I47818738"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": null,
-      "has_fulltext": false,
-      "cited_by_count": 0,
-      "citation_normalized_percentile": null,
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11740",
-        "display_name": "Geochemistry and Elemental Analysis",
-        "score": 0.8773999810218811,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1906",
-          "display_name": "Geochemistry and Petrology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11740",
-          "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.8773999810218811,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13102",
-          "display_name": "Soil and Environmental Studies",
-          "score": 0.03550000116229057,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1111",
-            "display_name": "Soil Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/11",
-            "display_name": "Agricultural and Biological Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/1",
-            "display_name": "Life Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.03460000082850456,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/platinum-group-elements",
-          "display_name": "platinum group elements",
-          "score": 0.996999979019165
-        },
-        {
-          "id": "https://openalex.org/keywords/lateritization",
-          "display_name": "lateritization",
-          "score": 0.8040000200271606
-        },
-        {
-          "id": "https://openalex.org/keywords/chromite",
-          "display_name": "chromite",
-          "score": 0.8199999928474426
-        },
-        {
-          "id": "https://openalex.org/keywords/saprolite",
-          "display_name": "saprolite",
-          "score": 0.7160000205039978
-        },
-        {
-          "id": "https://openalex.org/keywords/oman-ophiolite",
-          "display_name": "Oman ophiolite",
-          "score": 0.7639999985694885
-        },
-        {
-          "id": "https://openalex.org/keywords/late-cretaceous",
-          "display_name": "Late Cretaceous",
-          "score": 0.7960000038146973
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2779256693",
-          "wikidata": "https://www.wikidata.org/wiki/Q622845",
-          "display_name": "Laterite",
-          "level": 3,
-          "score": 0.9139466881752014
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.6842042803764343
-        },
-        {
-          "id": "https://openalex.org/C2781251403",
-          "wikidata": "https://www.wikidata.org/wiki/Q223995",
-          "display_name": "Platinum group",
-          "level": 4,
-          "score": 0.6164725422859192
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5096995830535889
-        },
-        {
-          "id": "https://openalex.org/C43169469",
-          "wikidata": "https://www.wikidata.org/wiki/Q580922",
-          "display_name": "Preprint",
-          "level": 2,
-          "score": 0.4348128139972687
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.423225462436676
-        },
-        {
-          "id": "https://openalex.org/C161191863",
-          "wikidata": "https://www.wikidata.org/wiki/Q199655",
-          "display_name": "Library science",
-          "level": 1,
-          "score": 0.34774476289749146
-        },
-        {
-          "id": "https://openalex.org/C1965285",
-          "wikidata": "https://www.wikidata.org/wiki/Q8008",
-          "display_name": "Earth science",
-          "level": 1,
-          "score": 0.33564531803131104
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.29978320002555847
-        },
-        {
-          "id": "https://openalex.org/C136764020",
-          "wikidata": "https://www.wikidata.org/wiki/Q466",
-          "display_name": "World Wide Web",
-          "level": 1,
-          "score": 0.28714999556541443
-        },
-        {
-          "id": "https://openalex.org/C518104683",
-          "wikidata": "https://www.wikidata.org/wiki/Q880",
-          "display_name": "Platinum",
-          "level": 3,
-          "score": 0.25042593479156494
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.16522803902626038
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.12282723188400269
-        },
-        {
-          "id": "https://openalex.org/C191897082",
-          "wikidata": "https://www.wikidata.org/wiki/Q11467",
-          "display_name": "Metallurgy",
-          "level": 1,
-          "score": 0.12099272012710571
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.1141020655632019
-        },
-        {
-          "id": "https://openalex.org/C504270822",
-          "wikidata": "https://www.wikidata.org/wiki/Q744",
-          "display_name": "Nickel",
-          "level": 2,
-          "score": 0.10689616203308105
-        },
-        {
-          "id": "https://openalex.org/C55493867",
-          "wikidata": "https://www.wikidata.org/wiki/Q7094",
-          "display_name": "Biochemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C161790260",
-          "wikidata": "https://www.wikidata.org/wiki/Q82264",
-          "display_name": "Catalysis",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1002/essoar.10505368.1",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1002/essoar.10505368.1",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "acceptedVersion",
-          "is_accepted": true,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "posted-content"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "sustainable_development_goals_aurora": [
-        {
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land",
-          "score": 0.4699999988079071
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W4387497383",
-        "https://openalex.org/W3183948672",
-        "https://openalex.org/W3173606202",
-        "https://openalex.org/W3110381201",
-        "https://openalex.org/W2948807893",
-        "https://openalex.org/W2935909890",
-        "https://openalex.org/W2778153218",
-        "https://openalex.org/W2758277628",
-        "https://openalex.org/W1531601525",
-        "https://openalex.org/W2076016372"
-      ],
-      "abstract_inverted_index": {
-        "2": [
-          133,
-          138
-        ],
-        "3": [
-          135,
-          140
-        ],
-        "35": [
-          78
-        ],
-        "253": [
-          45
-        ],
-        "Low-grade": [
-          0
-        ],
-        "Ni-laterite": [
-          1,
-          27,
-          144,
-          217
-        ],
-        "deposits": [
-          2,
-          226
-        ],
-        "are": [
-          3,
-          23,
-          51,
-          65,
-          156
-        ],
-        "well-developed": [
-          4
-        ],
-        "over": [
-          5
-        ],
-        "the": [
-          6,
-          10,
-          30,
-          48,
-          55,
-          59,
-          69,
-          85,
-          98,
-          143,
-          149,
-          164,
-          170,
-          174,
-          185,
-          201,
-          215,
-          223,
-          250
-        ],
-        "mafic/ultramafic": [
-          7
-        ],
-        "protoliths": [
-          8,
-          73
-        ],
-        "in": [
-          9,
-          25,
-          47,
-          54,
-          84,
-          142,
-          169,
-          197,
-          200,
-          214,
-          219
-        ],
-        "northern": [
-          11
-        ],
-        "Oman": [
-          12,
-          31,
-          49,
-          216
-        ],
-        "Mountains.": [
-          13
-        ],
-        "Concentrations,": [
-          14
-        ],
-        "distribution": [
-          15,
-          119,
-          179
-        ],
-        "patterns": [
-          16,
-          180
-        ],
-        "and": [
-          17,
-          71,
-          130,
-          136,
-          181,
-          240
-        ],
-        "mobility": [
-          18
-        ],
-        "of": [
-          19,
-          29,
-          58,
-          117,
-          151,
-          167,
-          188,
-          211
-        ],
-        "platinum-group": [
-          20
-        ],
-        "element": [
-          21
-        ],
-        "(PGE)": [
-          22
-        ],
-        "investigated": [
-          24
-        ],
-        "some": [
-          26
-        ],
-        "profiles": [
-          28
-        ],
-        "ophiolite": [
-          32
-        ],
-        "as": [
-          33,
-          232
-        ],
-        "a": [
-          34,
-          113,
-          123
-        ],
-        "possible": [
-          35,
-          251
-        ],
-        "unconventional": [
-          36,
-          234
-        ],
-        "PGE": [
-          37,
-          41,
-          63,
-          76,
-          82,
-          100,
-          118,
-          128,
-          178,
-          193,
-          213,
-          235
-        ],
-        "resource.": [
-          38
-        ],
-        "The": [
-          39,
-          62,
-          80,
-          177,
-          208
-        ],
-        "highest": [
-          40,
-          81
-        ],
-        "contents": [
-          42,
-          64,
-          129,
-          141
-        ],
-        "(up": [
-          43
-        ],
-        "to": [
-          44,
-          91,
-          105,
-          163
-        ],
-        "ppb)": [
-          46
-        ],
-        "Ni-laterites": [
-          50
-        ],
-        "mainly": [
-          52
-        ],
-        "concentrated": [
-          53
-        ],
-        "oxide/clay-rich": [
-          56,
-          171
-        ],
-        "zone": [
-          57,
-          87,
-          172
-        ],
-        "laterite": [
-          60,
-          225
-        ],
-        "profiles.": [
-          61,
-          145
-        ],
-        "substantially": [
-          66
-        ],
-        "decreased": [
-          67
-        ],
-        "toward": [
-          68
-        ],
-        "saprolite": [
-          70
-        ],
-        "underlying": [
-          72
-        ],
-        "(average": [
-          74
-        ],
-        "total": [
-          75,
-          212
-        ],
-        "=": [
-          77
-        ],
-        "ppb).": [
-          79
-        ],
-        "content": [
-          83,
-          101
-        ],
-        "oxide": [
-          86
-        ],
-        "is": [
-          88,
-          102,
-          122,
-          218
-        ],
-        "mostly": [
-          89,
-          103
-        ],
-        "corresponding": [
-          90,
-          104
-        ],
-        "Pt": [
-          92
-        ],
-        ">": [
-          93,
-          95
-        ],
-        "Ru": [
-          94
-        ],
-        "Pd,": [
-          96
-        ],
-        "while": [
-          97
-        ],
-        "lowest": [
-          99
-        ],
-        "Os": [
-          106
-        ],
-        "<": [
-          107,
-          109
-        ],
-        "Rh": [
-          108
-        ],
-        "Ir,": [
-          110
-        ],
-        "which": [
-          111,
-          228
-        ],
-        "shows": [
-          112
-        ],
-        "general": [
-          114,
-          124
-        ],
-        "positive": [
-          115,
-          125,
-          182
-        ],
-        "trend": [
-          116
-        ],
-        "patterns.": [
-          120
-        ],
-        "There": [
-          121
-        ],
-        "correlation": [
-          126,
-          183
-        ],
-        "between": [
-          127
-        ],
-        "both": [
-          131
-        ],
-        "Cr": [
-          132
-        ],
-        "O": [
-          134,
-          139
-        ],
-        "Fe": [
-          137
-        ],
-        "This": [
-          146
-        ],
-        "may": [
-          147
-        ],
-        "reflect": [
-          148
-        ],
-        "formation": [
-          150
-        ],
-        "PGE-Fe": [
-          152
-        ],
-        "nanoparticle": [
-          153
-        ],
-        "alloys": [
-          154
-        ],
-        "that": [
-          155,
-          192
-        ],
-        "hosted": [
-          157
-        ],
-        "by": [
-          158
-        ],
-        "Fe-rich": [
-          159
-        ],
-        "oxyhydroxides": [
-          160
-        ],
-        "or": [
-          161
-        ],
-        "due": [
-          162
-        ],
-        "residual": [
-          165
-        ],
-        "accumulation": [
-          166
-        ],
-        "chromite": [
-          168
-        ],
-        "during": [
-          173
-        ],
-        "lateritization": [
-          175,
-          206
-        ],
-        "process.": [
-          176
-        ],
-        "with": [
-          184,
-          222
-        ],
-        "ultramafic": [
-          186
-        ],
-        "index": [
-          187
-        ],
-        "alteration": [
-          189
-        ],
-        "(UMIA)": [
-          190
-        ],
-        "indicate": [
-          191
-        ],
-        "can": [
-          194,
-          229,
-          243
-        ],
-        "be": [
-          195,
-          230,
-          244
-        ],
-        "mobilized": [
-          196
-        ],
-        "different": [
-          198
-        ],
-        "proportions": [
-          199
-        ],
-        "surficial": [
-          202
-        ],
-        "environment": [
-          203
-        ],
-        "upon": [
-          204
-        ],
-        "progressive": [
-          205
-        ],
-        "processes.": [
-          207
-        ],
-        "high": [
-          209
-        ],
-        "concentration": [
-          210
-        ],
-        "good": [
-          220
-        ],
-        "agreement": [
-          221
-        ],
-        "PGE-rich": [
-          224
-        ],
-        "worldwide,": [
-          227
-        ],
-        "considered": [
-          231
-        ],
-        "an": [
-          233
-        ],
-        "resource": [
-          236
-        ],
-        "if": [
-          237
-        ],
-        "adequate": [
-          238
-        ],
-        "extraction": [
-          239
-        ],
-        "refining": [
-          241
-        ],
-        "processes": [
-          242
-        ],
-        "applied": [
-          245
-        ],
-        "for": [
-          246
-        ],
-        "their": [
-          247
-        ],
-        "recovery": [
-          248
-        ],
-        "from": [
-          249
-        ],
-        "upcoming": [
-          252
-        ],
-        "Ni": [
-          253
-        ],
-        "production.": [
-          254
-        ]
-      },
-      "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
-      "created_date": "2025-10-10T00:00:00"
     },
     {
       "id": "https://openalex.org/W4249711171",
@@ -32980,17 +30977,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.5,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4249711171.pdf",
@@ -33412,17 +31409,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8100000023841858,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.8100000023841858
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -33906,9 +31903,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.6084/m9.figshare.10265285",
+        "id": "pmh:oai:figshare.com:article/10265285",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.10265285",
+        "landing_page_url": "https://figshare.com/articles/dataset/Supp_Table_2_Oxygen_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/10265285",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -33929,10 +31926,10 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "",
         "raw_type": "Dataset"
       },
       "type": "dataset",
@@ -33942,7 +31939,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.6084/m9.figshare.10265285",
+        "oa_url": "https://figshare.com/articles/dataset/Supp_Table_2_Oxygen_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/10265285",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -34265,8 +32262,38 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 3,
       "locations": [
+        {
+          "id": "pmh:oai:figshare.com:article/10265285",
+          "is_oa": true,
+          "landing_page_url": "https://figshare.com/articles/dataset/Supp_Table_2_Oxygen_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/10265285",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Dataset"
+        },
         {
           "id": "doi:10.6084/m9.figshare.10265285",
           "is_oa": true,
@@ -34296,12 +32323,42 @@
           "is_published": null,
           "raw_source_name": null,
           "raw_type": "Dataset"
+        },
+        {
+          "id": "doi:10.6084/m9.figshare.10265285.v1",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.6084/m9.figshare.10265285.v1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "Dataset"
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.6084/m9.figshare.10265285",
+        "id": "pmh:oai:figshare.com:article/10265285",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.10265285",
+        "landing_page_url": "https://figshare.com/articles/dataset/Supp_Table_2_Oxygen_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/10265285",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -34322,10 +32379,10 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "",
         "raw_type": "Dataset"
       },
       "sustainable_development_goals": [],
@@ -34334,8 +32391,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34367,7 +32424,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34383,9 +32440,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.6084/m9.figshare.10265273",
+        "id": "pmh:oai:figshare.com:article/10265273",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.10265273",
+        "landing_page_url": "https://figshare.com/articles/Supp_Table_3_Hf_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/10265273",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -34406,10 +32463,10 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "",
         "raw_type": "Dataset"
       },
       "type": "dataset",
@@ -34419,7 +32476,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.6084/m9.figshare.10265273",
+        "oa_url": "https://figshare.com/articles/Supp_Table_3_Hf_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/10265273",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -34747,8 +32804,38 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 3,
       "locations": [
+        {
+          "id": "pmh:oai:figshare.com:article/10265273",
+          "is_oa": true,
+          "landing_page_url": "https://figshare.com/articles/Supp_Table_3_Hf_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/10265273",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Dataset"
+        },
         {
           "id": "doi:10.6084/m9.figshare.10265273",
           "is_oa": true,
@@ -34778,12 +32865,42 @@
           "is_published": null,
           "raw_source_name": null,
           "raw_type": "Dataset"
+        },
+        {
+          "id": "doi:10.6084/m9.figshare.10265273.v1",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.6084/m9.figshare.10265273.v1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "Dataset"
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.6084/m9.figshare.10265273",
+        "id": "pmh:oai:figshare.com:article/10265273",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.10265273",
+        "landing_page_url": "https://figshare.com/articles/Supp_Table_3_Hf_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/10265273",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -34804,10 +32921,10 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "",
         "raw_type": "Dataset"
       },
       "sustainable_development_goals": [],
@@ -34816,8 +32933,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34849,7 +32966,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34865,9 +32982,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.6084/m9.figshare.3487076",
+        "id": "pmh:oai:figshare.com:article/3487076",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.3487076",
+        "landing_page_url": "https://figshare.com/articles/dataset/Neoproterozoic_crustal_growth_at_the_margin_of_the_East_Gondwana_continent_age_and_isotopic_constraints_from_the_easternmost_inliers_of_Oman/3487076",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -34888,10 +33005,10 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "",
         "raw_type": "Dataset"
       },
       "type": "dataset",
@@ -34901,7 +33018,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.6084/m9.figshare.3487076",
+        "oa_url": "https://figshare.com/articles/dataset/Neoproterozoic_crustal_growth_at_the_margin_of_the_East_Gondwana_continent_age_and_isotopic_constraints_from_the_easternmost_inliers_of_Oman/3487076",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -35169,8 +33286,38 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 3,
       "locations": [
+        {
+          "id": "pmh:oai:figshare.com:article/3487076",
+          "is_oa": true,
+          "landing_page_url": "https://figshare.com/articles/dataset/Neoproterozoic_crustal_growth_at_the_margin_of_the_East_Gondwana_continent_age_and_isotopic_constraints_from_the_easternmost_inliers_of_Oman/3487076",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Dataset"
+        },
         {
           "id": "doi:10.6084/m9.figshare.3487076",
           "is_oa": true,
@@ -35200,12 +33347,42 @@
           "is_published": null,
           "raw_source_name": null,
           "raw_type": "Dataset"
+        },
+        {
+          "id": "doi:10.6084/m9.figshare.3487076.v1",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.6084/m9.figshare.3487076.v1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "Dataset"
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.6084/m9.figshare.3487076",
+        "id": "pmh:oai:figshare.com:article/3487076",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.3487076",
+        "landing_page_url": "https://figshare.com/articles/dataset/Neoproterozoic_crustal_growth_at_the_margin_of_the_East_Gondwana_continent_age_and_isotopic_constraints_from_the_easternmost_inliers_of_Oman/3487076",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -35226,10 +33403,10 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "",
         "raw_type": "Dataset"
       },
       "sustainable_development_goals": [],
@@ -35238,8 +33415,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35740,7 +33917,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35756,9 +33933,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.6084/m9.figshare.10265276",
+        "id": "pmh:oai:figshare.com:article/10265276",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.10265276",
+        "landing_page_url": "https://figshare.com/articles/Supp_Table_4_Detrital_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/10265276",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -35779,10 +33956,10 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "",
         "raw_type": "Dataset"
       },
       "type": "dataset",
@@ -35792,7 +33969,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.6084/m9.figshare.10265276",
+        "oa_url": "https://figshare.com/articles/Supp_Table_4_Detrital_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/10265276",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -36141,8 +34318,38 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 3,
       "locations": [
+        {
+          "id": "pmh:oai:figshare.com:article/10265276",
+          "is_oa": true,
+          "landing_page_url": "https://figshare.com/articles/Supp_Table_4_Detrital_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/10265276",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Dataset"
+        },
         {
           "id": "doi:10.6084/m9.figshare.10265276",
           "is_oa": true,
@@ -36172,12 +34379,42 @@
           "is_published": null,
           "raw_source_name": null,
           "raw_type": "Dataset"
+        },
+        {
+          "id": "doi:10.6084/m9.figshare.10265276.v1",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.6084/m9.figshare.10265276.v1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "Dataset"
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.6084/m9.figshare.10265276",
+        "id": "pmh:oai:figshare.com:article/10265276",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.10265276",
+        "landing_page_url": "https://figshare.com/articles/Supp_Table_4_Detrital_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/10265276",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -36198,10 +34435,10 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "",
         "raw_type": "Dataset"
       },
       "sustainable_development_goals": [],
@@ -36210,8 +34447,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36243,7 +34480,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -36259,9 +34496,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.6084/m9.figshare.9918623",
+        "id": "pmh:oai:figshare.com:article/9918623",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.9918623",
+        "landing_page_url": "https://figshare.com/articles/dataset/Supp_Table_2_Oxygen_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/9918623",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -36282,10 +34519,10 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "",
         "raw_type": "Dataset"
       },
       "type": "dataset",
@@ -36295,7 +34532,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.6084/m9.figshare.9918623",
+        "oa_url": "https://figshare.com/articles/dataset/Supp_Table_2_Oxygen_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/9918623",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -36611,8 +34848,38 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 3,
       "locations": [
+        {
+          "id": "pmh:oai:figshare.com:article/9918623",
+          "is_oa": true,
+          "landing_page_url": "https://figshare.com/articles/dataset/Supp_Table_2_Oxygen_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/9918623",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Dataset"
+        },
         {
           "id": "doi:10.6084/m9.figshare.9918623",
           "is_oa": true,
@@ -36642,12 +34909,42 @@
           "is_published": null,
           "raw_source_name": null,
           "raw_type": "Dataset"
+        },
+        {
+          "id": "doi:10.6084/m9.figshare.9918623.v1",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.6084/m9.figshare.9918623.v1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "Dataset"
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.6084/m9.figshare.9918623",
+        "id": "pmh:oai:figshare.com:article/9918623",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.9918623",
+        "landing_page_url": "https://figshare.com/articles/dataset/Supp_Table_2_Oxygen_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/9918623",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -36668,10 +34965,10 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "",
         "raw_type": "Dataset"
       },
       "sustainable_development_goals": [],
@@ -36680,8 +34977,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36713,7 +35010,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -36729,9 +35026,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.6084/m9.figshare.10265288",
+        "id": "pmh:oai:figshare.com:article/10265288",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.10265288",
+        "landing_page_url": "https://figshare.com/articles/Supp_Table_1_U_Pb_igneous_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/10265288",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -36752,10 +35049,10 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "",
         "raw_type": "Dataset"
       },
       "type": "dataset",
@@ -36765,7 +35062,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.6084/m9.figshare.10265288",
+        "oa_url": "https://figshare.com/articles/Supp_Table_1_U_Pb_igneous_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/10265288",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -37100,8 +35397,38 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 3,
       "locations": [
+        {
+          "id": "pmh:oai:figshare.com:article/10265288",
+          "is_oa": true,
+          "landing_page_url": "https://figshare.com/articles/Supp_Table_1_U_Pb_igneous_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/10265288",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Dataset"
+        },
         {
           "id": "doi:10.6084/m9.figshare.10265288",
           "is_oa": true,
@@ -37131,12 +35458,42 @@
           "is_published": null,
           "raw_source_name": null,
           "raw_type": "Dataset"
+        },
+        {
+          "id": "doi:10.6084/m9.figshare.10265288.v1",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.6084/m9.figshare.10265288.v1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "Dataset"
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.6084/m9.figshare.10265288",
+        "id": "pmh:oai:figshare.com:article/10265288",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.10265288",
+        "landing_page_url": "https://figshare.com/articles/Supp_Table_1_U_Pb_igneous_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/10265288",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -37157,10 +35514,10 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "",
         "raw_type": "Dataset"
       },
       "sustainable_development_goals": [],
@@ -37169,8 +35526,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37205,7 +35562,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37221,9 +35578,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.6084/m9.figshare.9918626",
+        "id": "pmh:oai:figshare.com:article/9918626",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.9918626",
+        "landing_page_url": "https://figshare.com/articles/Supp_Table_1_U_Pb_igneous_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/9918626",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -37244,10 +35601,10 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "",
         "raw_type": "Dataset"
       },
       "type": "dataset",
@@ -37257,7 +35614,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.6084/m9.figshare.9918626",
+        "oa_url": "https://figshare.com/articles/Supp_Table_1_U_Pb_igneous_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/9918626",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -37585,8 +35942,38 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 3,
       "locations": [
+        {
+          "id": "pmh:oai:figshare.com:article/9918626",
+          "is_oa": true,
+          "landing_page_url": "https://figshare.com/articles/Supp_Table_1_U_Pb_igneous_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/9918626",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Dataset"
+        },
         {
           "id": "doi:10.6084/m9.figshare.9918626",
           "is_oa": true,
@@ -37616,12 +36003,42 @@
           "is_published": null,
           "raw_source_name": null,
           "raw_type": "Dataset"
+        },
+        {
+          "id": "doi:10.6084/m9.figshare.9918626.v1",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.6084/m9.figshare.9918626.v1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "Dataset"
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.6084/m9.figshare.9918626",
+        "id": "pmh:oai:figshare.com:article/9918626",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.9918626",
+        "landing_page_url": "https://figshare.com/articles/Supp_Table_1_U_Pb_igneous_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/9918626",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -37642,10 +36059,10 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "",
         "raw_type": "Dataset"
       },
       "sustainable_development_goals": [],
@@ -37654,8 +36071,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37690,7 +36107,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37706,9 +36123,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.6084/m9.figshare.9918614",
+        "id": "pmh:oai:figshare.com:article/9918614",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.9918614",
+        "landing_page_url": "https://figshare.com/articles/dataset/Supp_Table_4_Detrital_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/9918614",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -37729,10 +36146,10 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "",
         "raw_type": "Dataset"
       },
       "type": "dataset",
@@ -37742,7 +36159,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.6084/m9.figshare.9918614",
+        "oa_url": "https://figshare.com/articles/dataset/Supp_Table_4_Detrital_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/9918614",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -38070,8 +36487,38 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 3,
       "locations": [
+        {
+          "id": "pmh:oai:figshare.com:article/9918614",
+          "is_oa": true,
+          "landing_page_url": "https://figshare.com/articles/dataset/Supp_Table_4_Detrital_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/9918614",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Dataset"
+        },
         {
           "id": "doi:10.6084/m9.figshare.9918614",
           "is_oa": true,
@@ -38101,12 +36548,42 @@
           "is_published": null,
           "raw_source_name": null,
           "raw_type": "Dataset"
+        },
+        {
+          "id": "doi:10.6084/m9.figshare.9918614.v1",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.6084/m9.figshare.9918614.v1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "Dataset"
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.6084/m9.figshare.9918614",
+        "id": "pmh:oai:figshare.com:article/9918614",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.9918614",
+        "landing_page_url": "https://figshare.com/articles/dataset/Supp_Table_4_Detrital_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/9918614",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -38127,10 +36604,10 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "",
         "raw_type": "Dataset"
       },
       "sustainable_development_goals": [],
@@ -38139,8 +36616,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38172,7 +36649,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -38188,9 +36665,9 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.6084/m9.figshare.9918611",
+        "id": "pmh:oai:figshare.com:article/9918611",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.9918611",
+        "landing_page_url": "https://figshare.com/articles/dataset/Supp_Table_3_Hf_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/9918611",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -38211,10 +36688,10 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "",
         "raw_type": "Dataset"
       },
       "type": "dataset",
@@ -38224,7 +36701,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.6084/m9.figshare.9918611",
+        "oa_url": "https://figshare.com/articles/dataset/Supp_Table_3_Hf_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/9918611",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -38566,8 +37043,38 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 3,
       "locations": [
+        {
+          "id": "pmh:oai:figshare.com:article/9918611",
+          "is_oa": true,
+          "landing_page_url": "https://figshare.com/articles/dataset/Supp_Table_3_Hf_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/9918611",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Dataset"
+        },
         {
           "id": "doi:10.6084/m9.figshare.9918611",
           "is_oa": true,
@@ -38597,12 +37104,42 @@
           "is_published": null,
           "raw_source_name": null,
           "raw_type": "Dataset"
+        },
+        {
+          "id": "doi:10.6084/m9.figshare.9918611.v1",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.6084/m9.figshare.9918611.v1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "Dataset"
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.6084/m9.figshare.9918611",
+        "id": "pmh:oai:figshare.com:article/9918611",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.9918611",
+        "landing_page_url": "https://figshare.com/articles/dataset/Supp_Table_3_Hf_Unravelling_the_Neoproterozoic_Accretionary_History_of_Oman_Using_an_Array_of_Isotopic_Systems_in_Zircon_/9918611",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -38623,10 +37160,10 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": null,
+        "raw_source_name": "",
         "raw_type": "Dataset"
       },
       "sustainable_development_goals": [],
@@ -38635,8 +37172,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38668,7 +37205,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -39171,17 +37708,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 125,
@@ -40676,8 +39213,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41254,11 +39791,11 @@
         "openalex": "https://openalex.org/W7130379539",
         "doi": "https://doi.org/10.6084/m9.figshare.28548547"
       },
-      "language": null,
+      "language": "en",
       "primary_location": {
-        "id": "doi:10.6084/m9.figshare.28548547",
+        "id": "pmh:oai:figshare.com:article/28548547",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.28548547",
+        "landing_page_url": "https://figshare.com/articles/journal_contribution/Supp_1_The_Amlah_terrane_Yemen_a_missing_link_in_the_Neoproterozoic_tectonic_collage_of_the_Arabian_Shield/28548547",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -41279,11 +39816,11 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
-        "raw_type": "JournalArticle"
+        "raw_type": "Text"
       },
       "type": "article",
       "indexed_in": [
@@ -41292,7 +39829,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.6084/m9.figshare.28548547",
+        "oa_url": "https://figshare.com/articles/journal_contribution/Supp_1_The_Amlah_terrane_Yemen_a_missing_link_in_the_Neoproterozoic_tectonic_collage_of_the_Arabian_Shield/28548547",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -41394,7 +39931,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.48849797,
+        "value": 0.46493857,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41568,8 +40105,38 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 3,
       "locations": [
+        {
+          "id": "pmh:oai:figshare.com:article/28548547",
+          "is_oa": true,
+          "landing_page_url": "https://figshare.com/articles/journal_contribution/Supp_1_The_Amlah_terrane_Yemen_a_missing_link_in_the_Neoproterozoic_tectonic_collage_of_the_Arabian_Shield/28548547",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Text"
+        },
         {
           "id": "doi:10.6084/m9.figshare.28548547",
           "is_oa": true,
@@ -41599,12 +40166,42 @@
           "is_published": null,
           "raw_source_name": null,
           "raw_type": "JournalArticle"
+        },
+        {
+          "id": "doi:10.6084/m9.figshare.28548547.v1",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.6084/m9.figshare.28548547.v1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "JournalArticle"
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.6084/m9.figshare.28548547",
+        "id": "pmh:oai:figshare.com:article/28548547",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.28548547",
+        "landing_page_url": "https://figshare.com/articles/journal_contribution/Supp_1_The_Amlah_terrane_Yemen_a_missing_link_in_the_Neoproterozoic_tectonic_collage_of_the_Arabian_Shield/28548547",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -41625,26 +40222,26 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
-        "raw_type": "JournalArticle"
+        "raw_type": "Text"
       },
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.591495931148529,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.591495931148529
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41671,7 +40268,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2026-02-19T00:00:00"
     },
     {
@@ -41685,11 +40282,11 @@
         "openalex": "https://openalex.org/W7130398866",
         "doi": "https://doi.org/10.6084/m9.figshare.28548553"
       },
-      "language": null,
+      "language": "en",
       "primary_location": {
-        "id": "doi:10.6084/m9.figshare.28548553",
+        "id": "pmh:oai:figshare.com:article/28548553",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.28548553",
+        "landing_page_url": "https://figshare.com/articles/journal_contribution/Supp_2_The_Amlah_terrane_Yemen_a_missing_link_in_the_Neoproterozoic_tectonic_collage_of_the_Arabian_Shield/28548553",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -41710,11 +40307,11 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
-        "raw_type": "JournalArticle"
+        "raw_type": "Text"
       },
       "type": "article",
       "indexed_in": [
@@ -41723,7 +40320,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://doi.org/10.6084/m9.figshare.28548553",
+        "oa_url": "https://figshare.com/articles/journal_contribution/Supp_2_The_Amlah_terrane_Yemen_a_missing_link_in_the_Neoproterozoic_tectonic_collage_of_the_Arabian_Shield/28548553",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -41825,7 +40422,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.48859463,
+        "value": 0.46503846,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42004,8 +40601,38 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 3,
       "locations": [
+        {
+          "id": "pmh:oai:figshare.com:article/28548553",
+          "is_oa": true,
+          "landing_page_url": "https://figshare.com/articles/journal_contribution/Supp_2_The_Amlah_terrane_Yemen_a_missing_link_in_the_Neoproterozoic_tectonic_collage_of_the_Arabian_Shield/28548553",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Text"
+        },
         {
           "id": "doi:10.6084/m9.figshare.28548553",
           "is_oa": true,
@@ -42035,12 +40662,42 @@
           "is_published": null,
           "raw_source_name": null,
           "raw_type": "JournalArticle"
+        },
+        {
+          "id": "doi:10.6084/m9.figshare.28548553.v1",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.6084/m9.figshare.28548553.v1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196282",
+            "display_name": "Figshare",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I4210132348",
+            "host_organization_name": "Figshare (United Kingdom)",
+            "host_organization_lineage": [
+              "https://openalex.org/I4210132348"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "JournalArticle"
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.6084/m9.figshare.28548553",
+        "id": "pmh:oai:figshare.com:article/28548553",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.6084/m9.figshare.28548553",
+        "landing_page_url": "https://figshare.com/articles/journal_contribution/Supp_2_The_Amlah_terrane_Yemen_a_missing_link_in_the_Neoproterozoic_tectonic_collage_of_the_Arabian_Shield/28548553",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4377196282",
@@ -42061,26 +40718,26 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": null,
+        "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
-        "raw_type": "JournalArticle"
+        "raw_type": "Text"
       },
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.4990810453891754,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.4990810453891754
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -42095,7 +40752,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2026-02-19T00:00:00"
     }
   ]

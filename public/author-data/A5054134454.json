@@ -13,7 +13,7 @@
     ],
     "full_name": "Sa’id A. Al-Hajri",
     "works_count": 32,
-    "cited_by_count": 1171,
+    "cited_by_count": 1172,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 15,
@@ -159,7 +159,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0000522,
+        "value": 0.0000539,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -176,7 +176,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000481,
+        "value": 0.0000486,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -193,7 +193,7 @@
       {
         "id": "https://openalex.org/T11354",
         "display_name": "Evolution and Paleontology Studies",
-        "value": 0.0000258,
+        "value": 0.0000264,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -210,7 +210,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000213,
+        "value": 0.0000214,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -285,7 +285,7 @@
         "year": 1996,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 186
+        "cited_by_count": 187
       },
       {
         "year": 1998,
@@ -369,7 +369,7 @@
     ],
     "block_key": "s al-hajri",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054134454",
-    "updated_date": "2026-10-05T12:30:24",
+    "updated_date": "2026-10-07T12:33:31",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -591,11 +591,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.4926,
+      "fwci": 8.469,
       "has_fulltext": true,
-      "cited_by_count": 554,
+      "cited_by_count": 552,
       "citation_normalized_percentile": {
-        "value": 0.97339848,
+        "value": 0.97331881,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -916,9 +916,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -931,8 +931,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2939888277.pdf",
@@ -1832,7 +1832,7 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 52
+          "cited_by_count": 51
         },
         {
           "year": 2023,
@@ -1844,7 +1844,7 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 39
+          "cited_by_count": 38
         },
         {
           "year": 2020,
@@ -1883,7 +1883,7 @@
           "cited_by_count": 23
         }
       ],
-      "updated_date": "2026-10-03T13:16:28.481748",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2080,11 +2080,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.8168,
+      "fwci": 3.7974,
       "has_fulltext": false,
-      "cited_by_count": 187,
+      "cited_by_count": 186,
       "citation_normalized_percentile": {
-        "value": 0.92329081,
+        "value": 0.92289988,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2395,9 +2395,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life on land",
           "score": 0.5,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -2420,8 +2420,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -3235,7 +3235,7 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 8
+          "cited_by_count": 7
         },
         {
           "year": 2023,
@@ -3282,7 +3282,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-10-07T09:51:55.459714",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3699,9 +3699,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.7900000214576721,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -3714,8 +3714,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -4401,17 +4401,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.6200000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -4987,8 +4987,10 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0001-6421-4559",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6421-4559"
+            ]
           },
           "institutions": [
             {
@@ -5160,11 +5162,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 4.046,
+      "fwci": 3.9759,
       "has_fulltext": false,
       "cited_by_count": 59,
       "citation_normalized_percentile": {
-        "value": 0.93246659,
+        "value": 0.93127527,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5457,17 +5459,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -5576,7 +5578,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5647,8 +5649,10 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0001-6421-4559",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6421-4559"
+            ]
           },
           "institutions": [
             {
@@ -5930,11 +5934,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 3.3495,
+      "fwci": 3.1757,
       "has_fulltext": false,
       "cited_by_count": 38,
       "citation_normalized_percentile": {
-        "value": 0.91543491,
+        "value": 0.91058077,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6257,9 +6261,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.699999988079071,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -6277,8 +6281,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -6442,7 +6446,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6488,8 +6492,10 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0001-6421-4559",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6421-4559"
+            ]
           },
           "institutions": [
             {
@@ -6632,11 +6638,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7598,
+      "fwci": 1.752,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.82735043,
+        "value": 0.82675815,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6857,8 +6863,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7470,7 +7476,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2017-06-05T00:00:00"
     },
     {
@@ -7979,9 +7985,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life on land",
           "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -7994,8 +8000,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -8168,8 +8174,10 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0001-6421-4559",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6421-4559"
+            ]
           },
           "institutions": [
             {
@@ -8373,11 +8381,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 2.0613,
+      "fwci": 1.9543,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.85510233,
+        "value": 0.84623518,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8613,17 +8621,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -8730,7 +8738,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8846,8 +8854,10 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0001-6421-4559",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6421-4559"
+            ]
           },
           "institutions": [
             {
@@ -9010,11 +9020,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 1.8036,
+      "fwci": 1.71,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.82760091,
+        "value": 0.81723435,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9305,9 +9315,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -9335,8 +9345,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -9429,7 +9439,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9866,17 +9876,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -10071,8 +10081,10 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0001-6421-4559",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6421-4559"
+            ]
           },
           "institutions": [
             {
@@ -10149,11 +10161,11 @@
         "value_usd": 3030
       },
       "apc_paid": null,
-      "fwci": 2.0441,
+      "fwci": 2.0265,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.87812552,
+        "value": 0.87706698,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10442,16 +10454,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -10464,8 +10476,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -10535,7 +10547,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-07T09:51:55.459714",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10920,8 +10932,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -11598,8 +11610,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -12011,8 +12023,10 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0001-6421-4559",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6421-4559"
+            ]
           },
           "institutions": [
             {
@@ -12133,11 +12147,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.69,
+      "fwci": 4.68,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.90598291,
+        "value": 0.90578158,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12385,17 +12399,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12436,7 +12450,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12944,8 +12958,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13246,8 +13260,10 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0001-6421-4559",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6421-4559"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -13401,11 +13417,11 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 0.7139,
+      "fwci": 0.5908,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.69621332,
+        "value": 0.62689139,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13823,9 +13839,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -13838,8 +13854,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2233849553.pdf",
@@ -13990,7 +14006,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14350,8 +14366,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -15433,8 +15449,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -15889,8 +15905,10 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0001-6421-4559",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6421-4559"
+            ]
           },
           "institutions": [
             {
@@ -16009,11 +16027,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.0792,
+      "fwci": 5.0891,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.9375,
+        "value": 0.93762183,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16237,17 +16255,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16288,7 +16306,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16381,8 +16399,10 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0001-6421-4559",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6421-4559"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -16454,7 +16474,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.20299145,
+        "value": 0.20342612,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16696,24 +16716,24 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16754,7 +16774,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17239,8 +17259,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -17627,17 +17647,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18091,17 +18111,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18446,17 +18466,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18675,8 +18695,10 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0001-6421-4559",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6421-4559"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -19089,8 +19111,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2263524228.pdf"
@@ -19593,7 +19615,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-07T09:51:55.459714",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19740,8 +19762,10 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0001-6421-4559",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6421-4559"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -19799,7 +19823,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.50194049,
+        "value": 0.50259067,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20069,8 +20093,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20099,7 +20123,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-07T09:51:55.459714",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20246,8 +20270,10 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0001-6421-4559",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6421-4559"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -20569,17 +20595,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20597,7 +20623,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-07T09:51:55.459714",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21021,17 +21047,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21423,17 +21449,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21761,17 +21787,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.5299999713897705,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21957,8 +21983,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

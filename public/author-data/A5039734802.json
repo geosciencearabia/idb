@@ -16,7 +16,7 @@
     ],
     "full_name": "Dave L. Cantrell",
     "works_count": 39,
-    "cited_by_count": 1263,
+    "cited_by_count": 1264,
     "summary_stats": {
       "2yr_mean_citedness": 1,
       "h_index": 20,
@@ -245,7 +245,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000664,
+        "value": 0.0000665,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -262,10 +262,27 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000389,
+        "value": 0.0000388,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "value": 0.0000302,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -291,23 +308,6 @@
         "domain": {
           "id": "https://openalex.org/domains/1",
           "display_name": "Life Sciences"
-        }
-      },
-      {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000298,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
         }
       },
       {
@@ -377,7 +377,7 @@
         "year": 1999,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 239
+        "cited_by_count": 240
       },
       {
         "year": 2001,
@@ -522,7 +522,7 @@
     ],
     "block_key": "d cantrell",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039734802",
-    "updated_date": "2026-10-06T12:31:48",
+    "updated_date": "2026-10-07T12:33:31",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -683,11 +683,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6429,
+      "fwci": 0.643,
       "has_fulltext": false,
-      "cited_by_count": 240,
+      "cited_by_count": 239,
       "citation_normalized_percentile": {
-        "value": 0.73747239,
+        "value": 0.73753052,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1579,7 +1579,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 20
+          "cited_by_count": 19
         },
         {
           "year": 2021,
@@ -1622,7 +1622,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-10-07T09:51:55.459714",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7822,671 +7822,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W3022076686",
-      "doi": "https://doi.org/10.1016/j.marpetgeo.2020.104415",
-      "title": "Depositional and diagenetic controls on reservoir quality: Example from the upper Cretaceous Mishrif Formation of Iraq",
-      "display_name": "Depositional and diagenetic controls on reservoir quality: Example from the upper Cretaceous Mishrif Formation of Iraq",
-      "publication_year": 2020,
-      "publication_date": "2020-04-29",
-      "ids": {
-        "openalex": "https://openalex.org/W3022076686",
-        "doi": "https://doi.org/10.1016/j.marpetgeo.2020.104415",
-        "mag": "3022076686"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.marpetgeo.2020.104415",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2020.104415",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S93565542",
-          "display_name": "Marine and Petroleum Geology",
-          "issn_l": "0264-8172",
-          "issn": [
-            "0264-8172",
-            "1873-4073"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-1",
-            "norway-1"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Marine and Petroleum Geology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5039734802",
-            "display_name": "Dave L. Cantrell",
-            "orcid": "https://orcid.org/0000-0003-3118-9769",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-3118-9769"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "D.L. Cantrell",
-          "raw_affiliation_strings": [
-            "Cantrell GeoLogic LLC, Franklin, TN, USA",
-            "QRI Quantum Reservoir Impact LLC, Houston, TX, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Cantrell GeoLogic LLC, Franklin, TN, USA",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "R.A. Shah",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "R.A. Shah",
-          "raw_affiliation_strings": [
-            "Independent Consultant, Houston, TX, USA",
-            "QRI Quantum Reservoir Impact LLC, Houston, TX, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Independent Consultant, Houston, TX, USA",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "J. Ou",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "J. Ou",
-          "raw_affiliation_strings": [
-            "PetroChina International (Middle East) Company Limited, Dubai, United Arab Emirates"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "PetroChina International (Middle East) Company Limited, Dubai, United Arab Emirates",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5039827691",
-            "display_name": "Chuan Xu",
-            "orcid": "https://orcid.org/0000-0001-7836-8276",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-7836-8276"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "C. Xu",
-          "raw_affiliation_strings": [
-            "Independent Consultant, Houston, TX, USA",
-            "QRI Quantum Reservoir Impact LLC, Houston, TX, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Independent Consultant, Houston, TX, USA",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "C. Phillips",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "C. Phillips",
-          "raw_affiliation_strings": [
-            "CBPetro, Crested Butte, CO, USA",
-            "QRI Quantum Reservoir Impact LLC, Houston, TX, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "CBPetro, Crested Butte, CO, USA",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5065433002",
-            "display_name": "X.L. Li",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "X.L. Li",
-          "raw_affiliation_strings": [
-            "Independent Consultant, Houston, TX, USA",
-            "QRI Quantum Reservoir Impact LLC, Houston, TX, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Independent Consultant, Houston, TX, USA",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5072925053",
-            "display_name": "Tingting Hu",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "T.M. Hu",
-          "raw_affiliation_strings": [
-            "Total SA, Beijing, China"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Total SA, Beijing, China",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5039734802"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 3100,
-        "currency": "USD",
-        "value_usd": 3100
-      },
-      "apc_paid": null,
-      "fwci": 4.0431,
-      "has_fulltext": false,
-      "cited_by_count": 44,
-      "citation_normalized_percentile": {
-        "value": 0.94565007,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 88,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "118",
-        "issue": null,
-        "first_page": "104415",
-        "last_page": "104415"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.625,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.625,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.3555000126361847,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.007300000172108412,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/reservoir-quality",
-          "display_name": "reservoir quality",
-          "score": 0.9259999990463257
-        },
-        {
-          "id": "https://openalex.org/keywords/mishrif-formation",
-          "display_name": "Mishrif Formation",
-          "score": 0.9539999961853027
-        },
-        {
-          "id": "https://openalex.org/keywords/cenomanian-turonian",
-          "display_name": "Cenomanian-Turonian",
-          "score": 0.8519999980926514
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-reservoirs",
-          "display_name": "carbonate reservoirs",
-          "score": 0.6790000200271606
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-facies",
-          "display_name": "sedimentary facies",
-          "score": 0.6769999861717224
-        },
-        {
-          "id": "https://openalex.org/keywords/sequence-stratigraphy",
-          "display_name": "sequence stratigraphy",
-          "score": 0.7870000004768372
-        },
-        {
-          "id": "https://openalex.org/keywords/sea-level-change",
-          "display_name": "sea-level change",
-          "score": 0.7170000076293945
-        },
-        {
-          "id": "https://openalex.org/keywords/meteoric-diagenesis",
-          "display_name": "meteoric diagenesis",
-          "score": 0.9049999713897705
-        },
-        {
-          "id": "https://openalex.org/keywords/brecciation",
-          "display_name": "brecciation",
-          "score": 0.6669999957084656
-        },
-        {
-          "id": "https://openalex.org/keywords/h-field",
-          "display_name": "H-field",
-          "score": 0.4790000021457672
-        },
-        {
-          "id": "https://openalex.org/keywords/upper-cretaceous",
-          "display_name": "Upper Cretaceous",
-          "score": 0.6230000257492065
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.907787024974823
-        },
-        {
-          "id": "https://openalex.org/C130452526",
-          "wikidata": "https://www.wikidata.org/wiki/Q180621",
-          "display_name": "Diagenesis",
-          "level": 2,
-          "score": 0.9036610722541809
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.8430831432342529
-        },
-        {
-          "id": "https://openalex.org/C83877588",
-          "wikidata": "https://www.wikidata.org/wiki/Q28337",
-          "display_name": "Shoal",
-          "level": 2,
-          "score": 0.7512124180793762
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.735527515411377
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.49250754714012146
-        },
-        {
-          "id": "https://openalex.org/C5900021",
-          "wikidata": "https://www.wikidata.org/wiki/Q163082",
-          "display_name": "Petrology",
-          "level": 1,
-          "score": 0.44649094343185425
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.41604065895080566
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.3533672094345093
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.2922131419181824
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.137613445520401
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.marpetgeo.2020.104415",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2020.104415",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S93565542",
-            "display_name": "Marine and Petroleum Geology",
-            "issn_l": "0264-8172",
-            "issn": [
-              "0264-8172",
-              "1873-4073"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "jufo-1",
-              "norway-1"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Marine and Petroleum Geology",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "sustainable_development_goals_aurora": [
-        {
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 62,
-      "referenced_works": [
-        "https://openalex.org/W365829125",
-        "https://openalex.org/W578079095",
-        "https://openalex.org/W948192881",
-        "https://openalex.org/W1514469041",
-        "https://openalex.org/W1532967299",
-        "https://openalex.org/W1560753261",
-        "https://openalex.org/W1580687896",
-        "https://openalex.org/W1605356892",
-        "https://openalex.org/W1952536840",
-        "https://openalex.org/W1985786983",
-        "https://openalex.org/W1988912271",
-        "https://openalex.org/W1990810195",
-        "https://openalex.org/W2003451471",
-        "https://openalex.org/W2009220556",
-        "https://openalex.org/W2017195568",
-        "https://openalex.org/W2019669775",
-        "https://openalex.org/W2023502112",
-        "https://openalex.org/W2045622541",
-        "https://openalex.org/W2051891894",
-        "https://openalex.org/W2061680126",
-        "https://openalex.org/W2068451724",
-        "https://openalex.org/W2079901376",
-        "https://openalex.org/W2081184868",
-        "https://openalex.org/W2087018781",
-        "https://openalex.org/W2106288237",
-        "https://openalex.org/W2119866941",
-        "https://openalex.org/W2125923759",
-        "https://openalex.org/W2135719368",
-        "https://openalex.org/W2140147987",
-        "https://openalex.org/W2141845199",
-        "https://openalex.org/W2161354549",
-        "https://openalex.org/W2167454550",
-        "https://openalex.org/W2200851220",
-        "https://openalex.org/W2247188168",
-        "https://openalex.org/W2258528414",
-        "https://openalex.org/W2531092595",
-        "https://openalex.org/W2575211338",
-        "https://openalex.org/W2590919824",
-        "https://openalex.org/W2806558743",
-        "https://openalex.org/W2908306306",
-        "https://openalex.org/W2926682100",
-        "https://openalex.org/W2939888277",
-        "https://openalex.org/W2958344564",
-        "https://openalex.org/W3108897286",
-        "https://openalex.org/W4214819432",
-        "https://openalex.org/W4242413772",
-        "https://openalex.org/W6630675632",
-        "https://openalex.org/W6633528569",
-        "https://openalex.org/W6647775009",
-        "https://openalex.org/W6652432978",
-        "https://openalex.org/W6656549707",
-        "https://openalex.org/W6667610414",
-        "https://openalex.org/W6670998611",
-        "https://openalex.org/W6676093145",
-        "https://openalex.org/W6678161309",
-        "https://openalex.org/W6680850318",
-        "https://openalex.org/W6690713769",
-        "https://openalex.org/W6734491424",
-        "https://openalex.org/W6751980475",
-        "https://openalex.org/W6757768307",
-        "https://openalex.org/W6821927843",
-        "https://openalex.org/W6875964227"
-      ],
-      "related_works": [
-        "https://openalex.org/W2366661441",
-        "https://openalex.org/W2070199798",
-        "https://openalex.org/W2365621732",
-        "https://openalex.org/W4385895535",
-        "https://openalex.org/W4313208625",
-        "https://openalex.org/W4213163261",
-        "https://openalex.org/W2377518074",
-        "https://openalex.org/W127180227",
-        "https://openalex.org/W2768565527",
-        "https://openalex.org/W4361215143"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 10
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-09-29T14:09:16.559479",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2494602570",
       "doi": "https://doi.org/10.1036/13431867m1063615",
       "title": "Tethyan Petroleum Systems of Saudi Arabia",
@@ -8894,6 +8229,671 @@
         }
       ],
       "updated_date": "2026-09-29T14:09:16.559479",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3022076686",
+      "doi": "https://doi.org/10.1016/j.marpetgeo.2020.104415",
+      "title": "Depositional and diagenetic controls on reservoir quality: Example from the upper Cretaceous Mishrif Formation of Iraq",
+      "display_name": "Depositional and diagenetic controls on reservoir quality: Example from the upper Cretaceous Mishrif Formation of Iraq",
+      "publication_year": 2020,
+      "publication_date": "2020-04-29",
+      "ids": {
+        "openalex": "https://openalex.org/W3022076686",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2020.104415",
+        "mag": "3022076686"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.marpetgeo.2020.104415",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2020.104415",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S93565542",
+          "display_name": "Marine and Petroleum Geology",
+          "issn_l": "0264-8172",
+          "issn": [
+            "0264-8172",
+            "1873-4073"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Marine and Petroleum Geology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5039734802",
+            "display_name": "Dave L. Cantrell",
+            "orcid": "https://orcid.org/0000-0003-3118-9769",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3118-9769"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "D.L. Cantrell",
+          "raw_affiliation_strings": [
+            "Cantrell GeoLogic LLC, Franklin, TN, USA",
+            "QRI Quantum Reservoir Impact LLC, Houston, TX, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Cantrell GeoLogic LLC, Franklin, TN, USA",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "R.A. Shah",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R.A. Shah",
+          "raw_affiliation_strings": [
+            "Independent Consultant, Houston, TX, USA",
+            "QRI Quantum Reservoir Impact LLC, Houston, TX, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Independent Consultant, Houston, TX, USA",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "J. Ou",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "J. Ou",
+          "raw_affiliation_strings": [
+            "PetroChina International (Middle East) Company Limited, Dubai, United Arab Emirates"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "PetroChina International (Middle East) Company Limited, Dubai, United Arab Emirates",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039827691",
+            "display_name": "Chuan Xu",
+            "orcid": "https://orcid.org/0000-0001-7836-8276",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7836-8276"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "C. Xu",
+          "raw_affiliation_strings": [
+            "Independent Consultant, Houston, TX, USA",
+            "QRI Quantum Reservoir Impact LLC, Houston, TX, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Independent Consultant, Houston, TX, USA",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "C. Phillips",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "C. Phillips",
+          "raw_affiliation_strings": [
+            "CBPetro, Crested Butte, CO, USA",
+            "QRI Quantum Reservoir Impact LLC, Houston, TX, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "CBPetro, Crested Butte, CO, USA",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5065433002",
+            "display_name": "X.L. Li",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "X.L. Li",
+          "raw_affiliation_strings": [
+            "Independent Consultant, Houston, TX, USA",
+            "QRI Quantum Reservoir Impact LLC, Houston, TX, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Independent Consultant, Houston, TX, USA",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5072925053",
+            "display_name": "Tingting Hu",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "T.M. Hu",
+          "raw_affiliation_strings": [
+            "Total SA, Beijing, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Total SA, Beijing, China",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5039734802"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 3100,
+        "currency": "USD",
+        "value_usd": 3100
+      },
+      "apc_paid": null,
+      "fwci": 3.8741,
+      "has_fulltext": false,
+      "cited_by_count": 43,
+      "citation_normalized_percentile": {
+        "value": 0.94133913,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "118",
+        "issue": null,
+        "first_page": "104415",
+        "last_page": "104415"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.625,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.625,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.3555000126361847,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.007300000172108412,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/reservoir-quality",
+          "display_name": "reservoir quality",
+          "score": 0.9259999990463257
+        },
+        {
+          "id": "https://openalex.org/keywords/mishrif-formation",
+          "display_name": "Mishrif Formation",
+          "score": 0.9539999961853027
+        },
+        {
+          "id": "https://openalex.org/keywords/cenomanian-turonian",
+          "display_name": "Cenomanian-Turonian",
+          "score": 0.8519999980926514
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-reservoirs",
+          "display_name": "carbonate reservoirs",
+          "score": 0.6790000200271606
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-facies",
+          "display_name": "sedimentary facies",
+          "score": 0.6769999861717224
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence-stratigraphy",
+          "display_name": "sequence stratigraphy",
+          "score": 0.7870000004768372
+        },
+        {
+          "id": "https://openalex.org/keywords/sea-level-change",
+          "display_name": "sea-level change",
+          "score": 0.7170000076293945
+        },
+        {
+          "id": "https://openalex.org/keywords/meteoric-diagenesis",
+          "display_name": "meteoric diagenesis",
+          "score": 0.9049999713897705
+        },
+        {
+          "id": "https://openalex.org/keywords/brecciation",
+          "display_name": "brecciation",
+          "score": 0.6669999957084656
+        },
+        {
+          "id": "https://openalex.org/keywords/h-field",
+          "display_name": "H-field",
+          "score": 0.4790000021457672
+        },
+        {
+          "id": "https://openalex.org/keywords/upper-cretaceous",
+          "display_name": "Upper Cretaceous",
+          "score": 0.6230000257492065
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.907787024974823
+        },
+        {
+          "id": "https://openalex.org/C130452526",
+          "wikidata": "https://www.wikidata.org/wiki/Q180621",
+          "display_name": "Diagenesis",
+          "level": 2,
+          "score": 0.9036610722541809
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.8430831432342529
+        },
+        {
+          "id": "https://openalex.org/C83877588",
+          "wikidata": "https://www.wikidata.org/wiki/Q28337",
+          "display_name": "Shoal",
+          "level": 2,
+          "score": 0.7512124180793762
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.735527515411377
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.49250754714012146
+        },
+        {
+          "id": "https://openalex.org/C5900021",
+          "wikidata": "https://www.wikidata.org/wiki/Q163082",
+          "display_name": "Petrology",
+          "level": 1,
+          "score": 0.44649094343185425
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.41604065895080566
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.3533672094345093
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.2922131419181824
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.137613445520401
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.marpetgeo.2020.104415",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2020.104415",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S93565542",
+            "display_name": "Marine and Petroleum Geology",
+            "issn_l": "0264-8172",
+            "issn": [
+              "0264-8172",
+              "1873-4073"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Marine and Petroleum Geology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 62,
+      "referenced_works": [
+        "https://openalex.org/W365829125",
+        "https://openalex.org/W578079095",
+        "https://openalex.org/W948192881",
+        "https://openalex.org/W1514469041",
+        "https://openalex.org/W1532967299",
+        "https://openalex.org/W1560753261",
+        "https://openalex.org/W1580687896",
+        "https://openalex.org/W1605356892",
+        "https://openalex.org/W1952536840",
+        "https://openalex.org/W1985786983",
+        "https://openalex.org/W1988912271",
+        "https://openalex.org/W1990810195",
+        "https://openalex.org/W2003451471",
+        "https://openalex.org/W2009220556",
+        "https://openalex.org/W2017195568",
+        "https://openalex.org/W2019669775",
+        "https://openalex.org/W2023502112",
+        "https://openalex.org/W2045622541",
+        "https://openalex.org/W2051891894",
+        "https://openalex.org/W2061680126",
+        "https://openalex.org/W2068451724",
+        "https://openalex.org/W2079901376",
+        "https://openalex.org/W2081184868",
+        "https://openalex.org/W2087018781",
+        "https://openalex.org/W2106288237",
+        "https://openalex.org/W2119866941",
+        "https://openalex.org/W2125923759",
+        "https://openalex.org/W2135719368",
+        "https://openalex.org/W2140147987",
+        "https://openalex.org/W2141845199",
+        "https://openalex.org/W2161354549",
+        "https://openalex.org/W2167454550",
+        "https://openalex.org/W2200851220",
+        "https://openalex.org/W2247188168",
+        "https://openalex.org/W2258528414",
+        "https://openalex.org/W2531092595",
+        "https://openalex.org/W2575211338",
+        "https://openalex.org/W2590919824",
+        "https://openalex.org/W2806558743",
+        "https://openalex.org/W2908306306",
+        "https://openalex.org/W2926682100",
+        "https://openalex.org/W2939888277",
+        "https://openalex.org/W2958344564",
+        "https://openalex.org/W3108897286",
+        "https://openalex.org/W4214819432",
+        "https://openalex.org/W4242413772",
+        "https://openalex.org/W6630675632",
+        "https://openalex.org/W6633528569",
+        "https://openalex.org/W6647775009",
+        "https://openalex.org/W6652432978",
+        "https://openalex.org/W6656549707",
+        "https://openalex.org/W6667610414",
+        "https://openalex.org/W6670998611",
+        "https://openalex.org/W6676093145",
+        "https://openalex.org/W6678161309",
+        "https://openalex.org/W6680850318",
+        "https://openalex.org/W6690713769",
+        "https://openalex.org/W6734491424",
+        "https://openalex.org/W6751980475",
+        "https://openalex.org/W6757768307",
+        "https://openalex.org/W6821927843",
+        "https://openalex.org/W6875964227"
+      ],
+      "related_works": [
+        "https://openalex.org/W2366661441",
+        "https://openalex.org/W2070199798",
+        "https://openalex.org/W2365621732",
+        "https://openalex.org/W4385895535",
+        "https://openalex.org/W4313208625",
+        "https://openalex.org/W4213163261",
+        "https://openalex.org/W2377518074",
+        "https://openalex.org/W127180227",
+        "https://openalex.org/W2768565527",
+        "https://openalex.org/W4361215143"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11616,11 +11616,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.9625,
+      "fwci": 2.7971,
       "has_fulltext": false,
-      "cited_by_count": 37,
+      "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.91035101,
+        "value": 0.90317653,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12888,10 +12888,10 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 7
+          "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13191,11 +13191,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 3.8076,
+      "fwci": 2.9539,
       "has_fulltext": false,
-      "cited_by_count": 33,
+      "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.93510289,
+        "value": 0.9141573,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13692,14 +13692,14 @@
         },
         {
           "year": 2019,
-          "cited_by_count": 5
+          "cited_by_count": 4
         },
         {
           "year": 2018,
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-22T17:25:34.749102",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {

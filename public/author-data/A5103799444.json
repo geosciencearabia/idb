@@ -10,7 +10,7 @@
     ],
     "full_name": "John Melvin (2)",
     "works_count": 35,
-    "cited_by_count": 727,
+    "cited_by_count": 728,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 13,
@@ -382,7 +382,7 @@
       {
         "id": "https://openalex.org/T14224",
         "display_name": "Oil, Gas, and Environmental Issues",
-        "value": 0.000026,
+        "value": 0.0000262,
         "subfield": {
           "id": "https://openalex.org/subfields/2105",
           "display_name": "Renewable Energy, Sustainability and the Environment"
@@ -399,7 +399,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000249,
+        "value": 0.0000251,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -522,7 +522,7 @@
         "year": 2009,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 278
+        "cited_by_count": 279
       },
       {
         "year": 2010,
@@ -579,7 +579,7 @@
     ],
     "block_key": "j melvin",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103799444",
-    "updated_date": "2026-10-05T12:30:24",
+    "updated_date": "2026-10-07T12:33:31",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -1410,8 +1410,10 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0001-6421-4559",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6421-4559"
+            ]
           },
           "institutions": [
             {
@@ -1992,11 +1994,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 25.1163,
+      "fwci": 23.9544,
       "has_fulltext": true,
-      "cited_by_count": 279,
+      "cited_by_count": 270,
       "citation_normalized_percentile": {
-        "value": 0.99786795,
+        "value": 0.99776569,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2619,9 +2621,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.550000011920929,
-          "display_name": "Life on land"
+          "score": 0.550000011920929
         }
       ],
       "study_designs": [],
@@ -3023,19 +3025,19 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 14
+          "cited_by_count": 13
         },
         {
           "year": 2021,
-          "cited_by_count": 15
+          "cited_by_count": 13
         },
         {
           "year": 2020,
-          "cited_by_count": 17
+          "cited_by_count": 15
         },
         {
           "year": 2019,
-          "cited_by_count": 20
+          "cited_by_count": 19
         },
         {
           "year": 2018,
@@ -3043,11 +3045,11 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 14
+          "cited_by_count": 13
         },
         {
           "year": 2016,
-          "cited_by_count": 20
+          "cited_by_count": 19
         },
         {
           "year": 2015,
@@ -3055,7 +3057,7 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 14
+          "cited_by_count": 13
         },
         {
           "year": 2013,
@@ -3066,7 +3068,7 @@
           "cited_by_count": 25
         }
       ],
-      "updated_date": "2026-10-07T09:51:55.459714",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3476,9 +3478,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4399999976158142,
-          "display_name": "Life below water"
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
@@ -4712,9 +4714,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929,
-          "display_name": "Life below water"
+          "score": 0.800000011920929
         }
       ],
       "study_designs": [],
@@ -5367,9 +5369,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -5563,8 +5565,10 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0001-6421-4559",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6421-4559"
+            ]
           },
           "institutions": [
             {
@@ -5846,11 +5850,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 3.3495,
+      "fwci": 3.1757,
       "has_fulltext": false,
       "cited_by_count": 38,
       "citation_normalized_percentile": {
-        "value": 0.91543491,
+        "value": 0.91058077,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6173,9 +6177,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.699999988079071,
-          "display_name": "Life below water"
+          "score": 0.699999988079071
         }
       ],
       "study_designs": [],
@@ -6358,7 +6362,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6812,9 +6816,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5799999833106995,
-          "display_name": "Life below water"
+          "score": 0.5799999833106995
         }
       ],
       "study_designs": [],
@@ -8584,9 +8588,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6299999952316284,
-          "display_name": "Life below water"
+          "score": 0.6299999952316284
         }
       ],
       "study_designs": [],
@@ -9323,9 +9327,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -11099,9 +11103,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4399999976158142,
-          "display_name": "Life below water"
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
@@ -12664,9 +12668,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4000000059604645,
-          "display_name": "Climate action"
+          "score": 0.4000000059604645
         }
       ],
       "study_designs": [],
@@ -15232,9 +15236,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "score": 0.8500000238418579
         }
       ],
       "study_designs": [],
@@ -17198,9 +17202,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -18278,9 +18282,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929,
-          "display_name": "Life below water"
+          "score": 0.800000011920929
         }
       ],
       "study_designs": [],
@@ -20100,9 +20104,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4399999976158142,
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
@@ -20857,9 +20861,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Reduced inequalities",
           "id": "https://metadata.un.org/sdg/10",
-          "score": 0.5699999928474426,
-          "display_name": "Reduced inequalities"
+          "score": 0.5699999928474426
         }
       ],
       "study_designs": [],
@@ -21534,9 +21538,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6200000047683716,
-          "display_name": "Life below water"
+          "score": 0.6200000047683716
         }
       ],
       "study_designs": [],
@@ -23054,9 +23058,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5,
-          "display_name": "Life below water"
+          "score": 0.5
         }
       ],
       "study_designs": [],
@@ -24624,9 +24628,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -25461,9 +25465,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.44999998807907104,
-          "display_name": "Life below water"
+          "score": 0.44999998807907104
         }
       ],
       "study_designs": [],
@@ -26331,9 +26335,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7200000286102295,
-          "display_name": "Life below water"
+          "score": 0.7200000286102295
         }
       ],
       "study_designs": [],
@@ -27319,16 +27323,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "score": 0.4399999976158142
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -28347,9 +28351,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5199999809265137,
-          "display_name": "Life below water"
+          "score": 0.5199999809265137
         }
       ],
       "study_designs": [],
@@ -28834,9 +28838,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -30133,9 +30137,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5799999833106995,
-          "display_name": "Life below water"
+          "score": 0.5799999833106995
         }
       ],
       "study_designs": [],
@@ -30982,9 +30986,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4099999964237213,
-          "display_name": "Climate action"
+          "score": 0.4099999964237213
         }
       ],
       "study_designs": [],
@@ -31497,9 +31501,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46000000834465027,
-          "display_name": "Climate action"
+          "score": 0.46000000834465027
         }
       ],
       "study_designs": [],
@@ -31639,8 +31643,10 @@
           "author": {
             "id": "https://openalex.org/A5111534349",
             "display_name": "Florentin Paris",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0001-6421-4559",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6421-4559"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -31698,7 +31704,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.18336191,
+        "value": 0.19071902,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31935,9 +31941,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.6100000143051147,
-          "display_name": "Life on land"
+          "score": 0.6100000143051147
         }
       ],
       "study_designs": [],
@@ -32600,7 +32606,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-10-08T09:06:37.294493",
       "created_date": "2025-10-10T00:00:00"
     },
     {
