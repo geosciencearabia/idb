@@ -19,7 +19,7 @@
     ],
     "full_name": "Geraint Wyn ap Gwilym Hughes",
     "works_count": 26,
-    "cited_by_count": 576,
+    "cited_by_count": 577,
     "summary_stats": {
       "2yr_mean_citedness": 2,
       "h_index": 12,
@@ -164,7 +164,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000415,
+        "value": 0.0000426,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -181,7 +181,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000311,
+        "value": 0.0000314,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -198,7 +198,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000213,
+        "value": 0.0000215,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -215,7 +215,7 @@
       {
         "id": "https://openalex.org/T14047",
         "display_name": "Marine and environmental studies",
-        "value": 0.0000165,
+        "value": 0.0000167,
         "subfield": {
           "id": "https://openalex.org/subfields/1910",
           "display_name": "Oceanography"
@@ -232,7 +232,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0000139,
+        "value": 0.0000148,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -284,7 +284,7 @@
         "year": 1991,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 96
+        "cited_by_count": 95
       },
       {
         "year": 1996,
@@ -308,7 +308,7 @@
         "year": 2004,
         "works_count": 3,
         "oa_works_count": 2,
-        "cited_by_count": 138
+        "cited_by_count": 139
       },
       {
         "year": 2005,
@@ -326,7 +326,7 @@
         "year": 2008,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 107
+        "cited_by_count": 108
       },
       {
         "year": 2010,
@@ -396,7 +396,7 @@
     ],
     "block_key": "g hughes",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5055315910",
-    "updated_date": "2026-10-05T12:30:24",
+    "updated_date": "2026-10-08T12:30:13",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -415,6 +415,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2113/geoarabia090379",
+        "doi": "https://doi.org/10.2113/geoarabia090379",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.2113/geoarabia090379",
         "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/9/3/79/5441704/hughes.pdf",
@@ -490,7 +491,7 @@
       "has_fulltext": true,
       "cited_by_count": 132,
       "citation_normalized_percentile": {
-        "value": 0.83313003,
+        "value": 0.8329472,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -782,6 +783,7 @@
       "locations": [
         {
           "id": "doi:10.2113/geoarabia090379",
+          "doi": "https://doi.org/10.2113/geoarabia090379",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.2113/geoarabia090379",
           "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/9/3/79/5441704/hughes.pdf",
@@ -817,6 +819,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.2113/geoarabia090379",
+        "doi": "https://doi.org/10.2113/geoarabia090379",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.2113/geoarabia090379",
         "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/9/3/79/5441704/hughes.pdf",
@@ -853,8 +856,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -1901,6 +1904,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/0264-8172(91)90088-i",
+        "doi": "https://doi.org/10.1016/0264-8172(91)90088-i",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/0264-8172(91)90088-i",
         "pdf_url": null,
@@ -2047,11 +2051,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 4.816,
+      "fwci": 4.8175,
       "has_fulltext": false,
       "cited_by_count": 95,
       "citation_normalized_percentile": {
-        "value": 0.93623943,
+        "value": 0.93626016,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2234,6 +2238,7 @@
       "locations": [
         {
           "id": "doi:10.1016/0264-8172(91)90088-i",
+          "doi": "https://doi.org/10.1016/0264-8172(91)90088-i",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/0264-8172(91)90088-i",
           "pdf_url": null,
@@ -2277,8 +2282,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -2405,6 +2410,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2113/geoarabia0504545",
+        "doi": "https://doi.org/10.2113/geoarabia0504545",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.2113/geoarabia0504545",
         "pdf_url": null,
@@ -2500,11 +2506,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.6231,
+      "fwci": 3.5669,
       "has_fulltext": false,
-      "cited_by_count": 72,
+      "cited_by_count": 73,
       "citation_normalized_percentile": {
-        "value": 0.93600563,
+        "value": 0.93510577,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2789,6 +2795,7 @@
       "locations": [
         {
           "id": "doi:10.2113/geoarabia0504545",
+          "doi": "https://doi.org/10.2113/geoarabia0504545",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.2113/geoarabia0504545",
           "pdf_url": null,
@@ -2824,6 +2831,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.2113/geoarabia0504545",
+        "doi": "https://doi.org/10.2113/geoarabia0504545",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.2113/geoarabia0504545",
         "pdf_url": null,
@@ -2860,8 +2868,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -3833,7 +3841,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2016,
@@ -3856,7 +3864,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-09T09:14:12.587421",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3874,6 +3882,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2113/geoarabia130215",
+        "doi": "https://doi.org/10.2113/geoarabia130215",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.2113/geoarabia130215",
         "pdf_url": null,
@@ -3975,11 +3984,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7703,
+      "fwci": 0.7707,
       "has_fulltext": false,
       "cited_by_count": 54,
       "citation_normalized_percentile": {
-        "value": 0.7338826,
+        "value": 0.73401956,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4275,6 +4284,7 @@
       "locations": [
         {
           "id": "doi:10.2113/geoarabia130215",
+          "doi": "https://doi.org/10.2113/geoarabia130215",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.2113/geoarabia130215",
           "pdf_url": null,
@@ -4310,6 +4320,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.2113/geoarabia130215",
+        "doi": "https://doi.org/10.2113/geoarabia130215",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.2113/geoarabia130215",
         "pdf_url": null,
@@ -4346,8 +4357,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -5486,6 +5497,7 @@
       "language": "en",
       "primary_location": {
         "id": "mag:1565182374",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "https://vjs.pgi.gov.pl/article/download/26521/18228",
         "pdf_url": null,
@@ -5551,11 +5563,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0668,
+      "fwci": 1.0276,
       "has_fulltext": false,
       "cited_by_count": 51,
       "citation_normalized_percentile": {
-        "value": 0.74866574,
+        "value": 0.73854864,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5854,6 +5866,7 @@
       "locations": [
         {
           "id": "mag:1565182374",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://vjs.pgi.gov.pl/article/download/26521/18228",
           "pdf_url": null,
@@ -5888,8 +5901,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.6299999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -6713,6 +6726,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.gloplacha.2021.103424",
+        "doi": "https://doi.org/10.1016/j.gloplacha.2021.103424",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.gloplacha.2021.103424",
         "pdf_url": null,
@@ -7186,11 +7200,11 @@
         "value_usd": 3150
       },
       "apc_paid": null,
-      "fwci": 4.146,
+      "fwci": 3.5753,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.94002909,
+        "value": 0.93143892,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7453,6 +7467,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.gloplacha.2021.103424",
+          "doi": "https://doi.org/10.1016/j.gloplacha.2021.103424",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.gloplacha.2021.103424",
           "pdf_url": null,
@@ -7495,20 +7510,20 @@
       "sustainable_development_goals": [
         {
           "score": 1,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         },
         {
           "score": 0.685699999332428,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -7745,6 +7760,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.47894/mpal.64.6.02",
+        "doi": "https://doi.org/10.47894/mpal.64.6.02",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.47894/mpal.64.6.02",
         "pdf_url": null,
@@ -7821,11 +7837,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3453,
+      "fwci": 1.1129,
       "has_fulltext": false,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.8042759,
+        "value": 0.76022611,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8134,6 +8150,7 @@
       "locations": [
         {
           "id": "doi:10.47894/mpal.64.6.02",
+          "doi": "https://doi.org/10.47894/mpal.64.6.02",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.47894/mpal.64.6.02",
           "pdf_url": null,
@@ -8177,8 +8194,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -8972,6 +8989,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2113/geoarabia180157",
+        "doi": "https://doi.org/10.2113/geoarabia180157",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.2113/geoarabia180157",
         "pdf_url": null,
@@ -9043,11 +9061,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4958,
+      "fwci": 0.459,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.66844208,
+        "value": 0.63976552,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9303,6 +9321,7 @@
       "locations": [
         {
           "id": "doi:10.2113/geoarabia180157",
+          "doi": "https://doi.org/10.2113/geoarabia180157",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.2113/geoarabia180157",
           "pdf_url": null,
@@ -9338,6 +9357,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.2113/geoarabia180157",
+        "doi": "https://doi.org/10.2113/geoarabia180157",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.2113/geoarabia180157",
         "pdf_url": null,
@@ -9373,15 +9393,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -10203,6 +10223,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2113/geoarabia150117",
+        "doi": "https://doi.org/10.2113/geoarabia150117",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.2113/geoarabia150117",
         "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/15/1/17/5444772/hughes.pdf",
@@ -10274,11 +10295,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2408,
+      "fwci": 0.2401,
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.59732527,
+        "value": 0.59463446,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10502,6 +10523,7 @@
       "locations": [
         {
           "id": "doi:10.2113/geoarabia150117",
+          "doi": "https://doi.org/10.2113/geoarabia150117",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.2113/geoarabia150117",
           "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/15/1/17/5444772/hughes.pdf",
@@ -10537,6 +10559,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.2113/geoarabia150117",
+        "doi": "https://doi.org/10.2113/geoarabia150117",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.2113/geoarabia150117",
         "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/15/1/17/5444772/hughes.pdf",
@@ -10573,8 +10596,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -11029,6 +11052,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2113/geoarabia190459",
+        "doi": "https://doi.org/10.2113/geoarabia190459",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.2113/geoarabia190459",
         "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/19/4/59/5447708/hughes.pdf",
@@ -11100,11 +11124,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7374,
+      "fwci": 0.7327,
       "has_fulltext": true,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.68708695,
+        "value": 0.68194172,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11340,6 +11364,7 @@
       "locations": [
         {
           "id": "doi:10.2113/geoarabia190459",
+          "doi": "https://doi.org/10.2113/geoarabia190459",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.2113/geoarabia190459",
           "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/19/4/59/5447708/hughes.pdf",
@@ -11375,6 +11400,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.2113/geoarabia190459",
+        "doi": "https://doi.org/10.2113/geoarabia190459",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.2113/geoarabia190459",
         "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/19/4/59/5447708/hughes.pdf",
@@ -11411,8 +11437,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -12731,6 +12757,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1144/tms001.7",
+        "doi": "https://doi.org/10.1144/tms001.7",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1144/tms001.7",
         "pdf_url": null,
@@ -12800,7 +12827,7 @@
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.26805556,
+        "value": 0.26993007,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13020,6 +13047,7 @@
       "locations": [
         {
           "id": "doi:10.1144/tms001.7",
+          "doi": "https://doi.org/10.1144/tms001.7",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1144/tms001.7",
           "pdf_url": null,
@@ -13052,8 +13080,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.6700000166893005,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -13471,1071 +13499,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W1972254595",
-      "doi": "https://doi.org/10.1016/0899-5362(96)00035-8",
-      "title": "Late cretaceous to recent palaeoenvironments of the Saudi Arabian Red Sea",
-      "display_name": "Late cretaceous to recent palaeoenvironments of the Saudi Arabian Red Sea",
-      "publication_year": 1996,
-      "publication_date": "1996-05-01",
-      "ids": {
-        "openalex": "https://openalex.org/W1972254595",
-        "doi": "https://doi.org/10.1016/0899-5362(96)00035-8",
-        "mag": "1972254595"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/0899-5362(96)00035-8",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/0899-5362(96)00035-8",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S125636905",
-          "display_name": "Journal of African Earth Sciences",
-          "issn_l": "0899-5362",
-          "issn": [
-            "0899-5362",
-            "1464-343X",
-            "1879-1956"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-1",
-            "ki-jl-1",
-            "norway-1"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of African Earth Sciences",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5027634361",
-            "display_name": "John Filatoff",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "John Filatoff",
-          "raw_affiliation_strings": [
-            "Geological Department, R and D Division, Saudi Arabian Oil Company, PO Box 5000, Dhahran 31311, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geological Department, R and D Division, Saudi Arabian Oil Company, PO Box 5000, Dhahran 31311, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5055315910",
-            "display_name": "Geraint Wyn ap Gwilym Hughes",
-            "orcid": "https://orcid.org/0000-0002-7791-5677",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7791-5677"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "G. Wyn Hughes",
-          "raw_affiliation_strings": [
-            "Geological Department, R and D Division, Saudi Arabian Oil Company, PO Box 5000, Dhahran 31311, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geological Department, R and D Division, Saudi Arabian Oil Company, PO Box 5000, Dhahran 31311, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210143841"
-      ],
-      "apc_list": {
-        "value": 3370,
-        "currency": "USD",
-        "value_usd": 3370
-      },
-      "apc_paid": null,
-      "fwci": 0.5484,
-      "has_fulltext": false,
-      "cited_by_count": 18,
-      "citation_normalized_percentile": {
-        "value": 0.64813008,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 88,
-        "max": 96
-      },
-      "biblio": {
-        "volume": "22",
-        "issue": "4",
-        "first_page": "535",
-        "last_page": "548"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.7851999998092651,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.7851999998092651,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T14047",
-          "display_name": "Marine and environmental studies",
-          "score": 0.11219999939203262,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1910",
-            "display_name": "Oceanography"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.07320000231266022,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/red-sea",
-          "display_name": "Red Sea",
-          "score": 0.7129999995231628
-        },
-        {
-          "id": "https://openalex.org/keywords/paleoenvironment",
-          "display_name": "paleoenvironment",
-          "score": 0.9390000104904175
-        },
-        {
-          "id": "https://openalex.org/keywords/late-cretaceous",
-          "display_name": "Late Cretaceous",
-          "score": 0.8069999814033508
-        },
-        {
-          "id": "https://openalex.org/keywords/miocene",
-          "display_name": "Miocene",
-          "score": 0.9419999718666077
-        },
-        {
-          "id": "https://openalex.org/keywords/oligocene",
-          "display_name": "Oligocene",
-          "score": 0.7559999823570251
-        },
-        {
-          "id": "https://openalex.org/keywords/eocene",
-          "display_name": "Eocene",
-          "score": 0.574999988079071
-        },
-        {
-          "id": "https://openalex.org/keywords/hypersaline-lakes",
-          "display_name": "hypersaline lakes",
-          "score": 0.8849999904632568
-        },
-        {
-          "id": "https://openalex.org/keywords/eustasy",
-          "display_name": "eustasy",
-          "score": 0.8320000171661377
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-evolution",
-          "display_name": "structural evolution",
-          "score": 0.7099999785423279
-        },
-        {
-          "id": "https://openalex.org/keywords/micropaleontology",
-          "display_name": "micropaleontology",
-          "score": 0.7120000123977661
-        },
-        {
-          "id": "https://openalex.org/keywords/palynology",
-          "display_name": "palynology",
-          "score": 0.9850000143051147
-        },
-        {
-          "id": "https://openalex.org/keywords/lithology",
-          "display_name": "lithology",
-          "score": 0.8199999928474426
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8825916051864624
-        },
-        {
-          "id": "https://openalex.org/C186660238",
-          "wikidata": "https://www.wikidata.org/wiki/Q637600",
-          "display_name": "Sabkha",
-          "level": 4,
-          "score": 0.7391610145568848
-        },
-        {
-          "id": "https://openalex.org/C34221334",
-          "wikidata": "https://www.wikidata.org/wiki/Q491689",
-          "display_name": "Evaporite",
-          "level": 3,
-          "score": 0.7110979557037354
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.7003381252288818
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.6675795316696167
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.6285910606384277
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.4595225751399994
-        },
-        {
-          "id": "https://openalex.org/C2779421809",
-          "wikidata": "https://www.wikidata.org/wiki/Q6495247",
-          "display_name": "Late Miocene",
-          "level": 3,
-          "score": 0.4562777578830719
-        },
-        {
-          "id": "https://openalex.org/C74501621",
-          "wikidata": "https://www.wikidata.org/wiki/Q125465",
-          "display_name": "Sea level",
-          "level": 2,
-          "score": 0.4137412905693054
-        },
-        {
-          "id": "https://openalex.org/C77271252",
-          "wikidata": "https://www.wikidata.org/wiki/Q301920",
-          "display_name": "Marine transgression",
-          "level": 3,
-          "score": 0.4116089940071106
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.32686856389045715
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.32036930322647095
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/0899-5362(96)00035-8",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/0899-5362(96)00035-8",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S125636905",
-            "display_name": "Journal of African Earth Sciences",
-            "issn_l": "0899-5362",
-            "issn": [
-              "0899-5362",
-              "1464-343X",
-              "1879-1956"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "jufo-1",
-              "ki-jl-1",
-              "norway-1"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of African Earth Sciences",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
-        }
-      ],
-      "sustainable_development_goals_aurora": [
-        {
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 13,
-      "referenced_works": [
-        "https://openalex.org/W62718268",
-        "https://openalex.org/W1544473627",
-        "https://openalex.org/W1985428716",
-        "https://openalex.org/W2001636832",
-        "https://openalex.org/W2018557271",
-        "https://openalex.org/W2068837342",
-        "https://openalex.org/W2078711059",
-        "https://openalex.org/W2122379499",
-        "https://openalex.org/W2187045719",
-        "https://openalex.org/W3162865324",
-        "https://openalex.org/W6602529312",
-        "https://openalex.org/W6632499925",
-        "https://openalex.org/W6795417268"
-      ],
-      "related_works": [
-        "https://openalex.org/W2834216551",
-        "https://openalex.org/W2613490734",
-        "https://openalex.org/W2091735807",
-        "https://openalex.org/W2025905766",
-        "https://openalex.org/W1977956194",
-        "https://openalex.org/W1799946908",
-        "https://openalex.org/W1974941963",
-        "https://openalex.org/W1633252436",
-        "https://openalex.org/W4249075896",
-        "https://openalex.org/W1967663177"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-09-22T06:50:58.402377",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2079191931",
-      "doi": "https://doi.org/10.1016/s0016-6995(98)80073-9",
-      "title": "Middle East Aptian rudist-foraminiferal-algal associations and their possible modern Arabian Gulf analogue",
-      "display_name": "Middle East Aptian rudist-foraminiferal-algal associations and their possible modern Arabian Gulf analogue",
-      "publication_year": 1998,
-      "publication_date": "1998-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2079191931",
-        "doi": "https://doi.org/10.1016/s0016-6995(98)80073-9",
-        "mag": "2079191931"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/s0016-6995(98)80073-9",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/s0016-6995(98)80073-9",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S19370311",
-          "display_name": "Geobios",
-          "issn_l": "0016-6995",
-          "issn": [
-            "0016-6995",
-            "1777-5728"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-1",
-            "norway-1"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geobios",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5055315910",
-            "display_name": "Geraint Wyn ap Gwilym Hughes",
-            "orcid": "https://orcid.org/0000-0002-7791-5677",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7791-5677"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "G. Wyn Hughes",
-          "raw_affiliation_strings": [
-            "Saudi Aramco, Geological DepartmentResearch and Development Division X-4935, Box 5000 Dhahran 31311, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco, Geological DepartmentResearch and Development Division X-4935, Box 5000 Dhahran 31311, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5055315910"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210143841"
-      ],
-      "apc_list": {
-        "value": 3030,
-        "currency": "USD",
-        "value_usd": 3030
-      },
-      "apc_paid": null,
-      "fwci": 0.7875,
-      "has_fulltext": false,
-      "cited_by_count": 11,
-      "citation_normalized_percentile": {
-        "value": 0.72224622,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 96
-      },
-      "biblio": {
-        "volume": "31",
-        "issue": null,
-        "first_page": "147",
-        "last_page": "158"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.6050000190734863,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.6050000190734863,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.34860000014305115,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T14047",
-          "display_name": "Marine and environmental studies",
-          "score": 0.010900000110268593,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1910",
-            "display_name": "Oceanography"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/rudists",
-          "display_name": "rudists",
-          "score": 0.8309999704360962
-        },
-        {
-          "id": "https://openalex.org/keywords/aptian",
-          "display_name": "Aptian",
-          "score": 0.8379999995231628
-        },
-        {
-          "id": "https://openalex.org/keywords/shuaiba-formation",
-          "display_name": "Shuaiba Formation",
-          "score": 0.9290000200271606
-        },
-        {
-          "id": "https://openalex.org/keywords/persian-gulf",
-          "display_name": "Persian Gulf",
-          "score": 0.7730000019073486
-        },
-        {
-          "id": "https://openalex.org/keywords/pinna-bicolor",
-          "display_name": "Pinna bicolor",
-          "score": 0.7990000247955322
-        },
-        {
-          "id": "https://openalex.org/keywords/pinna-muricata",
-          "display_name": "Pinna muricata",
-          "score": 0.9950000047683716
-        },
-        {
-          "id": "https://openalex.org/keywords/modern-analogues",
-          "display_name": "modern analogues",
-          "score": 0.49000000953674316
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-platform",
-          "display_name": "carbonate platform",
-          "score": 0.574999988079071
-        },
-        {
-          "id": "https://openalex.org/keywords/oil-reservoirs",
-          "display_name": "hydrocarbon reservoirs",
-          "score": 0.7239999771118164
-        },
-        {
-          "id": "https://openalex.org/keywords/micropaleontology",
-          "display_name": "micropaleontology",
-          "score": 0.796999990940094
-        },
-        {
-          "id": "https://openalex.org/keywords/bivalve-shells",
-          "display_name": "bivalve shells",
-          "score": 0.367000013589859
-        },
-        {
-          "id": "https://openalex.org/keywords/arabian-peninsula",
-          "display_name": "Arabian Peninsula",
-          "score": 0.3540000021457672
-        },
-        {
-          "id": "https://openalex.org/keywords/oman",
-          "display_name": "Oman",
-          "score": 0.5799999833106995
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.838397741317749
-        },
-        {
-          "id": "https://openalex.org/C189473229",
-          "wikidata": "https://www.wikidata.org/wiki/Q622265",
-          "display_name": "Aptian",
-          "level": 3,
-          "score": 0.6998569369316101
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6859937906265259
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.5243282914161682
-        },
-        {
-          "id": "https://openalex.org/C186847809",
-          "wikidata": "https://www.wikidata.org/wiki/Q853800",
-          "display_name": "Ichnology",
-          "level": 3,
-          "score": 0.5202466249465942
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.49709585309028625
-        },
-        {
-          "id": "https://openalex.org/C121327165",
-          "wikidata": "https://www.wikidata.org/wiki/Q2811",
-          "display_name": "Submarine",
-          "level": 2,
-          "score": 0.47282350063323975
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.4570363759994507
-        },
-        {
-          "id": "https://openalex.org/C2780659211",
-          "wikidata": "https://www.wikidata.org/wiki/Q181699",
-          "display_name": "Carbonate",
-          "level": 2,
-          "score": 0.44379910826683044
-        },
-        {
-          "id": "https://openalex.org/C32277403",
-          "wikidata": "https://www.wikidata.org/wiki/Q740445",
-          "display_name": "Ridge",
-          "level": 2,
-          "score": 0.4409213066101074
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.42096707224845886
-        },
-        {
-          "id": "https://openalex.org/C104873425",
-          "wikidata": "https://www.wikidata.org/wiki/Q205768",
-          "display_name": "Sedimentology",
-          "level": 2,
-          "score": 0.41143715381622314
-        },
-        {
-          "id": "https://openalex.org/C160937034",
-          "wikidata": "https://www.wikidata.org/wiki/Q853800",
-          "display_name": "Trace fossil",
-          "level": 2,
-          "score": 0.12895768880844116
-        },
-        {
-          "id": "https://openalex.org/C191897082",
-          "wikidata": "https://www.wikidata.org/wiki/Q11467",
-          "display_name": "Metallurgy",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/s0016-6995(98)80073-9",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/s0016-6995(98)80073-9",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S19370311",
-            "display_name": "Geobios",
-            "issn_l": "0016-6995",
-            "issn": [
-              "0016-6995",
-              "1777-5728"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "jufo-1",
-              "norway-1"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geobios",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
-        }
-      ],
-      "sustainable_development_goals_aurora": [
-        {
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320324706",
-          "display_name": "Saudi Aramco",
-          "ror": "https://ror.org/03ypap427"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 42,
-      "referenced_works": [
-        "https://openalex.org/W4219107",
-        "https://openalex.org/W56285850",
-        "https://openalex.org/W192399012",
-        "https://openalex.org/W582984162",
-        "https://openalex.org/W592937935",
-        "https://openalex.org/W648861950",
-        "https://openalex.org/W650689462",
-        "https://openalex.org/W1539997818",
-        "https://openalex.org/W1567684566",
-        "https://openalex.org/W1580687896",
-        "https://openalex.org/W1601198624",
-        "https://openalex.org/W1761232662",
-        "https://openalex.org/W1968246389",
-        "https://openalex.org/W1994289936",
-        "https://openalex.org/W1997401669",
-        "https://openalex.org/W2000545800",
-        "https://openalex.org/W2005211505",
-        "https://openalex.org/W2011817796",
-        "https://openalex.org/W2016825400",
-        "https://openalex.org/W2063868183",
-        "https://openalex.org/W2065898417",
-        "https://openalex.org/W2068849041",
-        "https://openalex.org/W2071057618",
-        "https://openalex.org/W2073254592",
-        "https://openalex.org/W2097248634",
-        "https://openalex.org/W2122966081",
-        "https://openalex.org/W2124157627",
-        "https://openalex.org/W2147369712",
-        "https://openalex.org/W2150512152",
-        "https://openalex.org/W2161126934",
-        "https://openalex.org/W2285970185",
-        "https://openalex.org/W2333503337",
-        "https://openalex.org/W2500774038",
-        "https://openalex.org/W2585459439",
-        "https://openalex.org/W2769611808",
-        "https://openalex.org/W2978645908",
-        "https://openalex.org/W6600180509",
-        "https://openalex.org/W6674264767",
-        "https://openalex.org/W6683970409",
-        "https://openalex.org/W6695930718",
-        "https://openalex.org/W6733565694",
-        "https://openalex.org/W6768807964"
-      ],
-      "related_works": [
-        "https://openalex.org/W4320012175",
-        "https://openalex.org/W2386399249",
-        "https://openalex.org/W3205927058",
-        "https://openalex.org/W2082285446",
-        "https://openalex.org/W3146945214",
-        "https://openalex.org/W583387922",
-        "https://openalex.org/W2312331846",
-        "https://openalex.org/W2566972602",
-        "https://openalex.org/W2014211438",
-        "https://openalex.org/W1976751722"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2017,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-09-22T06:50:58.402377",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2764087124",
       "doi": "https://doi.org/10.1144/tms6.12",
       "title": "Micropalaeontologists of Saudi Arabia and other Gulf countries",
@@ -14550,6 +13513,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1144/tms6.12",
+        "doi": "https://doi.org/10.1144/tms6.12",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1144/tms6.12",
         "pdf_url": null,
@@ -14619,17 +13583,17 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.3169,
+      "fwci": 6.1971,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.96762518,
+        "value": 0.96696666,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
-        "max": 96
+        "min": 88,
+        "max": 97
       },
       "biblio": {
         "volume": null,
@@ -14841,6 +13805,7 @@
       "locations": [
         {
           "id": "doi:10.1144/tms6.12",
+          "doi": "https://doi.org/10.1144/tms6.12",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1144/tms6.12",
           "pdf_url": null,
@@ -15363,6 +14328,1075 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W1972254595",
+      "doi": "https://doi.org/10.1016/0899-5362(96)00035-8",
+      "title": "Late cretaceous to recent palaeoenvironments of the Saudi Arabian Red Sea",
+      "display_name": "Late cretaceous to recent palaeoenvironments of the Saudi Arabian Red Sea",
+      "publication_year": 1996,
+      "publication_date": "1996-05-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1972254595",
+        "doi": "https://doi.org/10.1016/0899-5362(96)00035-8",
+        "mag": "1972254595"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/0899-5362(96)00035-8",
+        "doi": "https://doi.org/10.1016/0899-5362(96)00035-8",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/0899-5362(96)00035-8",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S125636905",
+          "display_name": "Journal of African Earth Sciences",
+          "issn_l": "0899-5362",
+          "issn": [
+            "0899-5362",
+            "1464-343X",
+            "1879-1956"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "ki-jl-1",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of African Earth Sciences",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5027634361",
+            "display_name": "John Filatoff",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "John Filatoff",
+          "raw_affiliation_strings": [
+            "Geological Department, R and D Division, Saudi Arabian Oil Company, PO Box 5000, Dhahran 31311, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geological Department, R and D Division, Saudi Arabian Oil Company, PO Box 5000, Dhahran 31311, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5055315910",
+            "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "orcid": "https://orcid.org/0000-0002-7791-5677",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7791-5677"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "G. Wyn Hughes",
+          "raw_affiliation_strings": [
+            "Geological Department, R and D Division, Saudi Arabian Oil Company, PO Box 5000, Dhahran 31311, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geological Department, R and D Division, Saudi Arabian Oil Company, PO Box 5000, Dhahran 31311, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841"
+      ],
+      "apc_list": {
+        "value": 3370,
+        "currency": "USD",
+        "value_usd": 3370
+      },
+      "apc_paid": null,
+      "fwci": 0.5425,
+      "has_fulltext": false,
+      "cited_by_count": 18,
+      "citation_normalized_percentile": {
+        "value": 0.64447732,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "22",
+        "issue": "4",
+        "first_page": "535",
+        "last_page": "548"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.7851999998092651,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.7851999998092651,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14047",
+          "display_name": "Marine and environmental studies",
+          "score": 0.11219999939203262,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1910",
+            "display_name": "Oceanography"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.07320000231266022,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/red-sea",
+          "display_name": "Red Sea",
+          "score": 0.7129999995231628
+        },
+        {
+          "id": "https://openalex.org/keywords/paleoenvironment",
+          "display_name": "paleoenvironment",
+          "score": 0.9390000104904175
+        },
+        {
+          "id": "https://openalex.org/keywords/late-cretaceous",
+          "display_name": "Late Cretaceous",
+          "score": 0.8069999814033508
+        },
+        {
+          "id": "https://openalex.org/keywords/miocene",
+          "display_name": "Miocene",
+          "score": 0.9419999718666077
+        },
+        {
+          "id": "https://openalex.org/keywords/oligocene",
+          "display_name": "Oligocene",
+          "score": 0.7559999823570251
+        },
+        {
+          "id": "https://openalex.org/keywords/eocene",
+          "display_name": "Eocene",
+          "score": 0.574999988079071
+        },
+        {
+          "id": "https://openalex.org/keywords/hypersaline-lakes",
+          "display_name": "hypersaline lakes",
+          "score": 0.8849999904632568
+        },
+        {
+          "id": "https://openalex.org/keywords/eustasy",
+          "display_name": "eustasy",
+          "score": 0.8320000171661377
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-evolution",
+          "display_name": "structural evolution",
+          "score": 0.7099999785423279
+        },
+        {
+          "id": "https://openalex.org/keywords/micropaleontology",
+          "display_name": "micropaleontology",
+          "score": 0.7120000123977661
+        },
+        {
+          "id": "https://openalex.org/keywords/palynology",
+          "display_name": "palynology",
+          "score": 0.9850000143051147
+        },
+        {
+          "id": "https://openalex.org/keywords/lithology",
+          "display_name": "lithology",
+          "score": 0.8199999928474426
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8825916051864624
+        },
+        {
+          "id": "https://openalex.org/C186660238",
+          "wikidata": "https://www.wikidata.org/wiki/Q637600",
+          "display_name": "Sabkha",
+          "level": 4,
+          "score": 0.7391610145568848
+        },
+        {
+          "id": "https://openalex.org/C34221334",
+          "wikidata": "https://www.wikidata.org/wiki/Q491689",
+          "display_name": "Evaporite",
+          "level": 3,
+          "score": 0.7110979557037354
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.7003381252288818
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.6675795316696167
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.6285910606384277
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.4595225751399994
+        },
+        {
+          "id": "https://openalex.org/C2779421809",
+          "wikidata": "https://www.wikidata.org/wiki/Q6495247",
+          "display_name": "Late Miocene",
+          "level": 3,
+          "score": 0.4562777578830719
+        },
+        {
+          "id": "https://openalex.org/C74501621",
+          "wikidata": "https://www.wikidata.org/wiki/Q125465",
+          "display_name": "Sea level",
+          "level": 2,
+          "score": 0.4137412905693054
+        },
+        {
+          "id": "https://openalex.org/C77271252",
+          "wikidata": "https://www.wikidata.org/wiki/Q301920",
+          "display_name": "Marine transgression",
+          "level": 3,
+          "score": 0.4116089940071106
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.32686856389045715
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.32036930322647095
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/0899-5362(96)00035-8",
+          "doi": "https://doi.org/10.1016/0899-5362(96)00035-8",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/0899-5362(96)00035-8",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S125636905",
+            "display_name": "Journal of African Earth Sciences",
+            "issn_l": "0899-5362",
+            "issn": [
+              "0899-5362",
+              "1464-343X",
+              "1879-1956"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "ki-jl-1",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of African Earth Sciences",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.5769000053405762,
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "sustainable_development_goals_aurora": [
+        {
+          "score": 0.8899999856948853,
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 13,
+      "referenced_works": [
+        "https://openalex.org/W62718268",
+        "https://openalex.org/W1544473627",
+        "https://openalex.org/W1985428716",
+        "https://openalex.org/W2001636832",
+        "https://openalex.org/W2018557271",
+        "https://openalex.org/W2068837342",
+        "https://openalex.org/W2078711059",
+        "https://openalex.org/W2122379499",
+        "https://openalex.org/W2187045719",
+        "https://openalex.org/W3162865324",
+        "https://openalex.org/W6602529312",
+        "https://openalex.org/W6632499925",
+        "https://openalex.org/W6795417268"
+      ],
+      "related_works": [
+        "https://openalex.org/W2834216551",
+        "https://openalex.org/W2613490734",
+        "https://openalex.org/W2091735807",
+        "https://openalex.org/W2025905766",
+        "https://openalex.org/W1977956194",
+        "https://openalex.org/W1799946908",
+        "https://openalex.org/W1974941963",
+        "https://openalex.org/W1633252436",
+        "https://openalex.org/W4249075896",
+        "https://openalex.org/W1967663177"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-22T06:50:58.402377",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2079191931",
+      "doi": "https://doi.org/10.1016/s0016-6995(98)80073-9",
+      "title": "Middle East Aptian rudist-foraminiferal-algal associations and their possible modern Arabian Gulf analogue",
+      "display_name": "Middle East Aptian rudist-foraminiferal-algal associations and their possible modern Arabian Gulf analogue",
+      "publication_year": 1998,
+      "publication_date": "1998-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2079191931",
+        "doi": "https://doi.org/10.1016/s0016-6995(98)80073-9",
+        "mag": "2079191931"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/s0016-6995(98)80073-9",
+        "doi": "https://doi.org/10.1016/s0016-6995(98)80073-9",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/s0016-6995(98)80073-9",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S19370311",
+          "display_name": "Geobios",
+          "issn_l": "0016-6995",
+          "issn": [
+            "0016-6995",
+            "1777-5728"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geobios",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5055315910",
+            "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "orcid": "https://orcid.org/0000-0002-7791-5677",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7791-5677"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "G. Wyn Hughes",
+          "raw_affiliation_strings": [
+            "Saudi Aramco, Geological DepartmentResearch and Development Division X-4935, Box 5000 Dhahran 31311, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco, Geological DepartmentResearch and Development Division X-4935, Box 5000 Dhahran 31311, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5055315910"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841"
+      ],
+      "apc_list": {
+        "value": 3030,
+        "currency": "USD",
+        "value_usd": 3030
+      },
+      "apc_paid": null,
+      "fwci": 0.7899,
+      "has_fulltext": false,
+      "cited_by_count": 11,
+      "citation_normalized_percentile": {
+        "value": 0.72323928,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "31",
+        "issue": null,
+        "first_page": "147",
+        "last_page": "158"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.6050000190734863,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.6050000190734863,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.34860000014305115,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14047",
+          "display_name": "Marine and environmental studies",
+          "score": 0.010900000110268593,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1910",
+            "display_name": "Oceanography"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/rudists",
+          "display_name": "rudists",
+          "score": 0.8309999704360962
+        },
+        {
+          "id": "https://openalex.org/keywords/aptian",
+          "display_name": "Aptian",
+          "score": 0.8379999995231628
+        },
+        {
+          "id": "https://openalex.org/keywords/shuaiba-formation",
+          "display_name": "Shuaiba Formation",
+          "score": 0.9290000200271606
+        },
+        {
+          "id": "https://openalex.org/keywords/persian-gulf",
+          "display_name": "Persian Gulf",
+          "score": 0.7730000019073486
+        },
+        {
+          "id": "https://openalex.org/keywords/pinna-bicolor",
+          "display_name": "Pinna bicolor",
+          "score": 0.7990000247955322
+        },
+        {
+          "id": "https://openalex.org/keywords/pinna-muricata",
+          "display_name": "Pinna muricata",
+          "score": 0.9950000047683716
+        },
+        {
+          "id": "https://openalex.org/keywords/modern-analogues",
+          "display_name": "modern analogues",
+          "score": 0.49000000953674316
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-platform",
+          "display_name": "carbonate platform",
+          "score": 0.574999988079071
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-reservoirs",
+          "display_name": "hydrocarbon reservoirs",
+          "score": 0.7239999771118164
+        },
+        {
+          "id": "https://openalex.org/keywords/micropaleontology",
+          "display_name": "micropaleontology",
+          "score": 0.796999990940094
+        },
+        {
+          "id": "https://openalex.org/keywords/bivalve-shells",
+          "display_name": "bivalve shells",
+          "score": 0.367000013589859
+        },
+        {
+          "id": "https://openalex.org/keywords/arabian-peninsula",
+          "display_name": "Arabian Peninsula",
+          "score": 0.3540000021457672
+        },
+        {
+          "id": "https://openalex.org/keywords/oman",
+          "display_name": "Oman",
+          "score": 0.5799999833106995
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.838397741317749
+        },
+        {
+          "id": "https://openalex.org/C189473229",
+          "wikidata": "https://www.wikidata.org/wiki/Q622265",
+          "display_name": "Aptian",
+          "level": 3,
+          "score": 0.6998569369316101
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6859937906265259
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.5243282914161682
+        },
+        {
+          "id": "https://openalex.org/C186847809",
+          "wikidata": "https://www.wikidata.org/wiki/Q853800",
+          "display_name": "Ichnology",
+          "level": 3,
+          "score": 0.5202466249465942
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.49709585309028625
+        },
+        {
+          "id": "https://openalex.org/C121327165",
+          "wikidata": "https://www.wikidata.org/wiki/Q2811",
+          "display_name": "Submarine",
+          "level": 2,
+          "score": 0.47282350063323975
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.4570363759994507
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.44379910826683044
+        },
+        {
+          "id": "https://openalex.org/C32277403",
+          "wikidata": "https://www.wikidata.org/wiki/Q740445",
+          "display_name": "Ridge",
+          "level": 2,
+          "score": 0.4409213066101074
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.42096707224845886
+        },
+        {
+          "id": "https://openalex.org/C104873425",
+          "wikidata": "https://www.wikidata.org/wiki/Q205768",
+          "display_name": "Sedimentology",
+          "level": 2,
+          "score": 0.41143715381622314
+        },
+        {
+          "id": "https://openalex.org/C160937034",
+          "wikidata": "https://www.wikidata.org/wiki/Q853800",
+          "display_name": "Trace fossil",
+          "level": 2,
+          "score": 0.12895768880844116
+        },
+        {
+          "id": "https://openalex.org/C191897082",
+          "wikidata": "https://www.wikidata.org/wiki/Q11467",
+          "display_name": "Metallurgy",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/s0016-6995(98)80073-9",
+          "doi": "https://doi.org/10.1016/s0016-6995(98)80073-9",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/s0016-6995(98)80073-9",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S19370311",
+            "display_name": "Geobios",
+            "issn_l": "0016-6995",
+            "issn": [
+              "0016-6995",
+              "1777-5728"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geobios",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.5769000053405762,
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "sustainable_development_goals_aurora": [
+        {
+          "score": 0.8899999856948853,
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 42,
+      "referenced_works": [
+        "https://openalex.org/W4219107",
+        "https://openalex.org/W56285850",
+        "https://openalex.org/W192399012",
+        "https://openalex.org/W582984162",
+        "https://openalex.org/W592937935",
+        "https://openalex.org/W648861950",
+        "https://openalex.org/W650689462",
+        "https://openalex.org/W1539997818",
+        "https://openalex.org/W1567684566",
+        "https://openalex.org/W1580687896",
+        "https://openalex.org/W1601198624",
+        "https://openalex.org/W1761232662",
+        "https://openalex.org/W1968246389",
+        "https://openalex.org/W1994289936",
+        "https://openalex.org/W1997401669",
+        "https://openalex.org/W2000545800",
+        "https://openalex.org/W2005211505",
+        "https://openalex.org/W2011817796",
+        "https://openalex.org/W2016825400",
+        "https://openalex.org/W2063868183",
+        "https://openalex.org/W2065898417",
+        "https://openalex.org/W2068849041",
+        "https://openalex.org/W2071057618",
+        "https://openalex.org/W2073254592",
+        "https://openalex.org/W2097248634",
+        "https://openalex.org/W2122966081",
+        "https://openalex.org/W2124157627",
+        "https://openalex.org/W2147369712",
+        "https://openalex.org/W2150512152",
+        "https://openalex.org/W2161126934",
+        "https://openalex.org/W2285970185",
+        "https://openalex.org/W2333503337",
+        "https://openalex.org/W2500774038",
+        "https://openalex.org/W2585459439",
+        "https://openalex.org/W2769611808",
+        "https://openalex.org/W2978645908",
+        "https://openalex.org/W6600180509",
+        "https://openalex.org/W6674264767",
+        "https://openalex.org/W6683970409",
+        "https://openalex.org/W6695930718",
+        "https://openalex.org/W6733565694",
+        "https://openalex.org/W6768807964"
+      ],
+      "related_works": [
+        "https://openalex.org/W4320012175",
+        "https://openalex.org/W2386399249",
+        "https://openalex.org/W3205927058",
+        "https://openalex.org/W2082285446",
+        "https://openalex.org/W3146945214",
+        "https://openalex.org/W583387922",
+        "https://openalex.org/W2312331846",
+        "https://openalex.org/W2566972602",
+        "https://openalex.org/W2014211438",
+        "https://openalex.org/W1976751722"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2017,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-09-22T06:50:58.402377",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4288831739",
       "doi": "https://doi.org/10.47894/mpal.65.4.06",
       "title": "Turonian microcrinoids from the lower Aruma Formation of Saudi Arabia",
@@ -15376,6 +15410,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.47894/mpal.65.4.06",
+        "doi": "https://doi.org/10.47894/mpal.65.4.06",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.47894/mpal.65.4.06",
         "pdf_url": null,
@@ -15452,11 +15487,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.218,
+      "fwci": 0.1918,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.61773781,
+        "value": 0.55651378,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15683,6 +15718,7 @@
       "locations": [
         {
           "id": "doi:10.47894/mpal.65.4.06",
+          "doi": "https://doi.org/10.47894/mpal.65.4.06",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.47894/mpal.65.4.06",
           "pdf_url": null,
@@ -15725,15 +15761,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -16499,6 +16535,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.3997/2214-4609-pdb.246.180",
+        "doi": "https://doi.org/10.3997/2214-4609-pdb.246.180",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.246.180",
         "pdf_url": null,
@@ -16598,7 +16635,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.30982906,
+        "value": 0.31049251,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16854,6 +16891,7 @@
       "locations": [
         {
           "id": "doi:10.3997/2214-4609-pdb.246.180",
+          "doi": "https://doi.org/10.3997/2214-4609-pdb.246.180",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.246.180",
           "pdf_url": null,
@@ -16886,8 +16924,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.5099999904632568,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -17467,6 +17505,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1201/9781003321415-23",
+        "doi": "https://doi.org/10.1201/9781003321415-23",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1201/9781003321415-23",
         "pdf_url": null,
@@ -17552,11 +17591,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.4524,
+      "fwci": 4.4332,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.91121872,
+        "value": 0.91116544,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17835,6 +17874,7 @@
       "locations": [
         {
           "id": "doi:10.1201/9781003321415-23",
+          "doi": "https://doi.org/10.1201/9781003321415-23",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1201/9781003321415-23",
           "pdf_url": null,
@@ -17873,8 +17913,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -18376,6 +18416,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.4154/gc.2004.04",
+        "doi": "https://doi.org/10.4154/gc.2004.04",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.4154/gc.2004.04",
         "pdf_url": "https://doi.org/10.4154/gc.2004.04",
@@ -18608,7 +18649,7 @@
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.23668416,
+        "value": 0.23664641,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18847,6 +18888,7 @@
       "locations": [
         {
           "id": "doi:10.4154/gc.2004.04",
+          "doi": "https://doi.org/10.4154/gc.2004.04",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.4154/gc.2004.04",
           "pdf_url": "https://doi.org/10.4154/gc.2004.04",
@@ -18886,6 +18928,7 @@
         },
         {
           "id": "pmh:oai:hrcak.srce.hr:3686",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "http://hrcak.srce.hr/3686",
           "pdf_url": "http://hrcak.srce.hr/3686",
@@ -18916,6 +18959,7 @@
         },
         {
           "id": "pmh:oai:doaj.org/article:5c679785733f4d3cb009312f96ccf639",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://doaj.org/article/5c679785733f4d3cb009312f96ccf639",
           "pdf_url": null,
@@ -18945,6 +18989,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.4154/gc.2004.04",
+        "doi": "https://doi.org/10.4154/gc.2004.04",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.4154/gc.2004.04",
         "pdf_url": "https://doi.org/10.4154/gc.2004.04",
@@ -18986,8 +19031,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "display_name": "Life on land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -19333,6 +19378,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.3997/2214-4609.20142775",
+        "doi": "https://doi.org/10.3997/2214-4609.20142775",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.3997/2214-4609.20142775",
         "pdf_url": null,
@@ -19444,7 +19490,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.08422376,
+        "value": 0.08490566,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19724,6 +19770,7 @@
       "locations": [
         {
           "id": "doi:10.3997/2214-4609.20142775",
+          "doi": "https://doi.org/10.3997/2214-4609.20142775",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.3997/2214-4609.20142775",
           "pdf_url": null,
@@ -19760,8 +19807,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -20148,6 +20195,7 @@
       "language": "en",
       "primary_location": {
         "id": "mag:2309143216",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "http://userpage.fu-berlin.de/leinfelder/palaeo_de/leinfelder/research/abstracts/LeietalabstrCoimbra04.pdf",
         "pdf_url": null,
@@ -20283,7 +20331,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.19740445,
+        "value": 0.20204853,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20499,6 +20547,7 @@
       "locations": [
         {
           "id": "mag:2309143216",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://userpage.fu-berlin.de/leinfelder/palaeo_de/leinfelder/research/abstracts/LeietalabstrCoimbra04.pdf",
           "pdf_url": null,
@@ -20516,15 +20565,15 @@
       "sustainable_development_goals": [
         {
           "score": 1,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -20579,6 +20628,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2113/geoarabia1802215",
+        "doi": "https://doi.org/10.2113/geoarabia1802215",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.2113/geoarabia1802215",
         "pdf_url": null,
@@ -20692,7 +20742,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.41490001,
+        "value": 0.41549175,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20961,6 +21011,7 @@
       "locations": [
         {
           "id": "doi:10.2113/geoarabia1802215",
+          "doi": "https://doi.org/10.2113/geoarabia1802215",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.2113/geoarabia1802215",
           "pdf_url": null,
@@ -20996,6 +21047,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.2113/geoarabia1802215",
+        "doi": "https://doi.org/10.2113/geoarabia1802215",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.2113/geoarabia1802215",
         "pdf_url": null,
@@ -21032,8 +21084,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -21430,6 +21482,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.3997/2214-4609-pdb.248.195",
+        "doi": "https://doi.org/10.3997/2214-4609-pdb.248.195",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.248.195",
         "pdf_url": null,
@@ -21513,7 +21566,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.42030568,
+        "value": 0.42202835,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21752,6 +21805,7 @@
       "locations": [
         {
           "id": "doi:10.3997/2214-4609-pdb.248.195",
+          "doi": "https://doi.org/10.3997/2214-4609-pdb.248.195",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.248.195",
           "pdf_url": null,
@@ -21784,8 +21838,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -22355,6 +22409,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.3997/2214-4609-pdb.248.182",
+        "doi": "https://doi.org/10.3997/2214-4609-pdb.248.182",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.248.182",
         "pdf_url": null,
@@ -22454,7 +22509,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37373865,
+        "value": 0.37413511,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22699,6 +22754,7 @@
       "locations": [
         {
           "id": "doi:10.3997/2214-4609-pdb.248.182",
+          "doi": "https://doi.org/10.3997/2214-4609-pdb.248.182",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.248.182",
           "pdf_url": null,
@@ -22731,8 +22787,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -23258,6 +23314,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.3997/2214-4609-pdb.248.194",
+        "doi": "https://doi.org/10.3997/2214-4609-pdb.248.194",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.248.194",
         "pdf_url": null,
@@ -23341,7 +23398,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.50258488,
+        "value": 0.50258416,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23636,6 +23693,7 @@
       "locations": [
         {
           "id": "doi:10.3997/2214-4609-pdb.248.194",
+          "doi": "https://doi.org/10.3997/2214-4609-pdb.248.194",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.248.194",
           "pdf_url": null,
@@ -23668,8 +23726,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -24212,6 +24270,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.14293/s2199-1006.1.sor-earth.azsbmk.v1.rdriad",
+        "doi": "https://doi.org/10.14293/s2199-1006.1.sor-earth.azsbmk.v1.rdriad",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.14293/s2199-1006.1.sor-earth.azsbmk.v1.rdriad",
         "pdf_url": null,
@@ -24430,6 +24489,7 @@
       "locations": [
         {
           "id": "doi:10.14293/s2199-1006.1.sor-earth.azsbmk.v1.rdriad",
+          "doi": "https://doi.org/10.14293/s2199-1006.1.sor-earth.azsbmk.v1.rdriad",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.14293/s2199-1006.1.sor-earth.azsbmk.v1.rdriad",
           "pdf_url": null,
@@ -24445,6 +24505,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.14293/s2199-1006.1.sor-earth.azsbmk.v1.rdriad",
+        "doi": "https://doi.org/10.14293/s2199-1006.1.sor-earth.azsbmk.v1.rdriad",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.14293/s2199-1006.1.sor-earth.azsbmk.v1.rdriad",
         "pdf_url": null,
@@ -24500,6 +24561,7 @@
       "language": "en",
       "primary_location": {
         "id": "mag:862223865",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BSL6-0018-0018",
         "pdf_url": null,
@@ -24631,7 +24693,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.06593807,
+        "value": 0.06598615,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24772,6 +24834,7 @@
       "locations": [
         {
           "id": "mag:862223865",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.baztech-article-BSL6-0018-0018",
           "pdf_url": null,

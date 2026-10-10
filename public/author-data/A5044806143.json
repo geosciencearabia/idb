@@ -33,12 +33,12 @@
       "Mohammed A. K. El-Ghali"
     ],
     "full_name": "Mohamed A. K. El‐Ghali",
-    "works_count": 98,
-    "cited_by_count": 1477,
+    "works_count": 97,
+    "cited_by_count": 1461,
     "summary_stats": {
-      "2yr_mean_citedness": 2.048780487804878,
+      "2yr_mean_citedness": 2.05,
       "h_index": 21,
-      "i10_index": 32
+      "i10_index": 31
     },
     "ids": {
       "openalex": "https://openalex.org/A5044806143",
@@ -233,7 +233,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0001155,
+        "value": 0.0001167,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -250,7 +250,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0001044,
+        "value": 0.0001051,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -267,7 +267,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.000098,
+        "value": 0.0000988,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -284,7 +284,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000647,
+        "value": 0.0000664,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -301,7 +301,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.000041,
+        "value": 0.0000416,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -359,19 +359,19 @@
         "year": 2006,
         "works_count": 6,
         "oa_works_count": 0,
-        "cited_by_count": 225
+        "cited_by_count": 224
       },
       {
         "year": 2007,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 209
+        "cited_by_count": 207
       },
       {
         "year": 2008,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 73
+        "cited_by_count": 72
       },
       {
         "year": 2009,
@@ -389,25 +389,25 @@
         "year": 2011,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 63
+        "cited_by_count": 62
       },
       {
         "year": 2012,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 80
+        "cited_by_count": 79
       },
       {
         "year": 2013,
         "works_count": 4,
         "oa_works_count": 1,
-        "cited_by_count": 178
+        "cited_by_count": 176
       },
       {
         "year": 2015,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 36
+        "cited_by_count": 35
       },
       {
         "year": 2017,
@@ -425,19 +425,19 @@
         "year": 2019,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 42
+        "cited_by_count": 41
       },
       {
         "year": 2020,
         "works_count": 4,
         "oa_works_count": 1,
-        "cited_by_count": 53
+        "cited_by_count": 52
       },
       {
         "year": 2021,
         "works_count": 6,
         "oa_works_count": 2,
-        "cited_by_count": 46
+        "cited_by_count": 44
       },
       {
         "year": 2022,
@@ -449,18 +449,18 @@
         "year": 2023,
         "works_count": 10,
         "oa_works_count": 3,
-        "cited_by_count": 76
+        "cited_by_count": 75
       },
       {
         "year": 2024,
         "works_count": 24,
         "oa_works_count": 6,
-        "cited_by_count": 69
+        "cited_by_count": 67
       },
       {
         "year": 2025,
-        "works_count": 13,
-        "oa_works_count": 5,
+        "works_count": 12,
+        "oa_works_count": 4,
         "cited_by_count": 15
       },
       {
@@ -498,7 +498,7 @@
     ],
     "block_key": "m el-ghali",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044806143",
-    "updated_date": "2026-10-05T12:30:24",
+    "updated_date": "2026-10-08T12:30:13",
     "created_date": "2018-05-17T00:00:00"
   },
   "works": [
@@ -517,6 +517,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.marpetgeo.2007.07.012",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2007.07.012",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2007.07.012",
         "pdf_url": null,
@@ -1009,11 +1010,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 4.5306,
+      "fwci": 4.5313,
       "has_fulltext": false,
       "cited_by_count": 207,
       "citation_normalized_percentile": {
-        "value": 0.93800398,
+        "value": 0.93805079,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1265,6 +1266,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.marpetgeo.2007.07.012",
+          "doi": "https://doi.org/10.1016/j.marpetgeo.2007.07.012",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2007.07.012",
           "pdf_url": null,
@@ -1304,6 +1306,7 @@
         },
         {
           "id": "pmh:oai:cris.unibo.it:11585/68656",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://hdl.handle.net/11585/68656",
           "pdf_url": null,
@@ -1346,8 +1349,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 108,
@@ -1553,6 +1556,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.marpetgeo.2023.106611",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106611",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2023.106611",
         "pdf_url": null,
@@ -2031,7 +2035,7 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 6.1144,
+      "fwci": 6.0989,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
@@ -2350,6 +2354,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.marpetgeo.2023.106611",
+          "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106611",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2023.106611",
           "pdf_url": null,
@@ -2407,8 +2412,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
@@ -2563,6 +2568,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.oregeorev.2013.02.008",
+        "doi": "https://doi.org/10.1016/j.oregeorev.2013.02.008",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.oregeorev.2013.02.008",
         "pdf_url": null,
@@ -2908,11 +2914,11 @@
         "value_usd": 3310
       },
       "apc_paid": null,
-      "fwci": 7.6798,
+      "fwci": 7.6788,
       "has_fulltext": false,
       "cited_by_count": 91,
       "citation_normalized_percentile": {
-        "value": 0.97142897,
+        "value": 0.97141616,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3195,6 +3201,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.oregeorev.2013.02.008",
+          "doi": "https://doi.org/10.1016/j.oregeorev.2013.02.008",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.oregeorev.2013.02.008",
           "pdf_url": null,
@@ -3290,8 +3297,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -3459,6 +3466,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.sedgeo.2006.05.021",
+        "doi": "https://doi.org/10.1016/j.sedgeo.2006.05.021",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.sedgeo.2006.05.021",
         "pdf_url": null,
@@ -4072,6 +4080,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.sedgeo.2006.05.021",
+          "doi": "https://doi.org/10.1016/j.sedgeo.2006.05.021",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.sedgeo.2006.05.021",
           "pdf_url": null,
@@ -4134,8 +4143,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -4306,6 +4315,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.marpetgeo.2012.03.009",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2012.03.009",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2012.03.009",
         "pdf_url": null,
@@ -4686,11 +4696,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 2.9647,
+      "fwci": 2.9654,
       "has_fulltext": false,
       "cited_by_count": 79,
       "citation_normalized_percentile": {
-        "value": 0.88947882,
+        "value": 0.88952891,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4975,6 +4985,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.marpetgeo.2012.03.009",
+          "doi": "https://doi.org/10.1016/j.marpetgeo.2012.03.009",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2012.03.009",
           "pdf_url": null,
@@ -5037,8 +5048,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 98,
@@ -5231,6 +5242,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.sedgeo.2005.02.006",
+        "doi": "https://doi.org/10.1016/j.sedgeo.2005.02.006",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.sedgeo.2005.02.006",
         "pdf_url": null,
@@ -5335,11 +5347,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 6.203,
+      "fwci": 6.217,
       "has_fulltext": false,
       "cited_by_count": 72,
       "citation_normalized_percentile": {
-        "value": 0.95433071,
+        "value": 0.95436664,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5611,6 +5623,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.sedgeo.2005.02.006",
+          "doi": "https://doi.org/10.1016/j.sedgeo.2005.02.006",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.sedgeo.2005.02.006",
           "pdf_url": null,
@@ -5662,8 +5675,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -5821,6 +5834,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2110/jsr.2009.060",
+        "doi": "https://doi.org/10.2110/jsr.2009.060",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2110/jsr.2009.060",
         "pdf_url": null,
@@ -6341,11 +6355,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1694,
+      "fwci": 3.167,
       "has_fulltext": false,
       "cited_by_count": 62,
       "citation_normalized_percentile": {
-        "value": 0.90337112,
+        "value": 0.90338164,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6630,6 +6644,7 @@
       "locations": [
         {
           "id": "doi:10.2110/jsr.2009.060",
+          "doi": "https://doi.org/10.2110/jsr.2009.060",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2110/jsr.2009.060",
           "pdf_url": null,
@@ -6670,6 +6685,7 @@
         },
         {
           "id": "pmh:oai:HAL:hal-00495021v1",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://hal.science/hal-00495021",
           "pdf_url": null,
@@ -6712,8 +6728,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -7555,6 +7571,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1002/gj.1178",
+        "doi": "https://doi.org/10.1002/gj.1178",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1002/gj.1178",
         "pdf_url": null,
@@ -7860,11 +7877,11 @@
         "value_usd": 3540
       },
       "apc_paid": null,
-      "fwci": 1.2113,
+      "fwci": 1.2127,
       "has_fulltext": false,
       "cited_by_count": 55,
       "citation_normalized_percentile": {
-        "value": 0.77426756,
+        "value": 0.77427903,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8111,6 +8128,7 @@
       "locations": [
         {
           "id": "doi:10.1002/gj.1178",
+          "doi": "https://doi.org/10.1002/gj.1178",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1002/gj.1178",
           "pdf_url": null,
@@ -8162,8 +8180,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -8753,6 +8771,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.marpetgeo.2013.04.019",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2013.04.019",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2013.04.019",
         "pdf_url": null,
@@ -9055,11 +9074,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 3.1188,
+      "fwci": 3.1362,
       "has_fulltext": false,
-      "cited_by_count": 49,
+      "cited_by_count": 50,
       "citation_normalized_percentile": {
-        "value": 0.89666123,
+        "value": 0.89752407,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9353,6 +9372,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.marpetgeo.2013.04.019",
+          "doi": "https://doi.org/10.1016/j.marpetgeo.2013.04.019",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2013.04.019",
           "pdf_url": null,
@@ -9392,6 +9412,7 @@
         },
         {
           "id": "pmh:oai:pure.qub.ac.uk/portal:publications/b1dc05b9-8c33-4e39-b94a-f9616bca18b2",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://pure.qub.ac.uk/en/publications/b1dc05b9-8c33-4e39-b94a-f9616bca18b2",
           "pdf_url": null,
@@ -9450,8 +9471,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -9568,7 +9589,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2016,
@@ -9583,7 +9604,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-09T09:14:12.587421",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9601,6 +9622,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.marpetgeo.2020.104509",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2020.104509",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2020.104509",
         "pdf_url": null,
@@ -10034,11 +10056,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 2.8067,
+      "fwci": 2.8066,
       "has_fulltext": false,
       "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.90535096,
+        "value": 0.90536067,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10407,6 +10429,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.marpetgeo.2020.104509",
+          "doi": "https://doi.org/10.1016/j.marpetgeo.2020.104509",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2020.104509",
           "pdf_url": null,
@@ -10484,8 +10507,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 108,
@@ -10656,6 +10679,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1111/jpg.12607",
+        "doi": "https://doi.org/10.1111/jpg.12607",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1111/jpg.12607",
         "pdf_url": null,
@@ -10961,7 +10985,7 @@
       "has_fulltext": false,
       "cited_by_count": 35,
       "citation_normalized_percentile": {
-        "value": 0.69459259,
+        "value": 0.69463188,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11230,6 +11254,7 @@
       "locations": [
         {
           "id": "doi:10.1111/jpg.12607",
+          "doi": "https://doi.org/10.1111/jpg.12607",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1111/jpg.12607",
           "pdf_url": null,
@@ -11269,6 +11294,7 @@
         },
         {
           "id": "pmh:oai:pure.qub.ac.uk/portal:publications/a5fc9981-6be6-42aa-aac4-f64ede1952b5",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://pure.qub.ac.uk/en/publications/a5fc9981-6be6-42aa-aac4-f64ede1952b5",
           "pdf_url": null,
@@ -11311,8 +11337,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -12235,6 +12261,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.petrol.2019.106771",
+        "doi": "https://doi.org/10.1016/j.petrol.2019.106771",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.petrol.2019.106771",
         "pdf_url": null,
@@ -12706,11 +12733,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 3.1817,
+      "fwci": 3.2052,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.91382296,
+        "value": 0.915614,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12975,6 +13002,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.petrol.2019.106771",
+          "doi": "https://doi.org/10.1016/j.petrol.2019.106771",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.petrol.2019.106771",
           "pdf_url": null,
@@ -13012,6 +13040,7 @@
         },
         {
           "id": "pmh:oai:HAL:hal-02402439v1",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://hal.science/hal-02402439",
           "pdf_url": null,
@@ -13054,8 +13083,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -13185,6 +13214,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.marpetgeo.2008.02.001",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2008.02.001",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2008.02.001",
         "pdf_url": null,
@@ -13517,11 +13547,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 2.0443,
+      "fwci": 2.0556,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.85638014,
+        "value": 0.85644041,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13805,6 +13835,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.marpetgeo.2008.02.001",
+          "doi": "https://doi.org/10.1016/j.marpetgeo.2008.02.001",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2008.02.001",
           "pdf_url": null,
@@ -13856,8 +13887,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -14013,6 +14044,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1111/gbi.12557",
+        "doi": "https://doi.org/10.1111/gbi.12557",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1111/gbi.12557",
         "pdf_url": null,
@@ -14602,11 +14634,11 @@
         "value_usd": 4430
       },
       "apc_paid": null,
-      "fwci": 6.6814,
+      "fwci": 5.5417,
       "has_fulltext": true,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.97855828,
+        "value": 0.97486115,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15046,6 +15078,7 @@
       "locations": [
         {
           "id": "doi:10.1111/gbi.12557",
+          "doi": "https://doi.org/10.1111/gbi.12557",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1111/gbi.12557",
           "pdf_url": null,
@@ -15087,6 +15120,7 @@
         },
         {
           "id": "pmid:37157927",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37157927",
           "pdf_url": null,
@@ -15117,6 +15151,7 @@
         },
         {
           "id": "pmh:oai:pure.atira.dk:openaire_cris_publications/f32c8be5-d819-4a72-8ec0-55b5c10a1141",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://researchprofiles.ku.dk/da/publications/f32c8be5-d819-4a72-8ec0-55b5c10a1141",
           "pdf_url": null,
@@ -15148,6 +15183,7 @@
       ],
       "best_oa_location": {
         "id": "pmh:oai:pure.atira.dk:openaire_cris_publications/f32c8be5-d819-4a72-8ec0-55b5c10a1141",
+        "doi": null,
         "is_oa": true,
         "landing_page_url": "https://researchprofiles.ku.dk/da/publications/f32c8be5-d819-4a72-8ec0-55b5c10a1141",
         "pdf_url": null,
@@ -15261,8 +15297,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -15949,6 +15985,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1002/gj.4553",
+        "doi": "https://doi.org/10.1002/gj.4553",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1002/gj.4553",
         "pdf_url": null,
@@ -16586,11 +16623,11 @@
         "value_usd": 3650
       },
       "apc_paid": null,
-      "fwci": 3.5885,
+      "fwci": 3.5529,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.93928158,
+        "value": 0.93980052,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16791,6 +16828,7 @@
       "locations": [
         {
           "id": "doi:10.1002/gj.4553",
+          "doi": "https://doi.org/10.1002/gj.4553",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1002/gj.4553",
           "pdf_url": null,
@@ -16875,8 +16913,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -17576,6 +17614,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.jksus.2022.102287",
+        "doi": "https://doi.org/10.1016/j.jksus.2022.102287",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/j.jksus.2022.102287",
         "pdf_url": null,
@@ -17963,11 +18002,11 @@
         "currency": "USD",
         "value_usd": 1350
       },
-      "fwci": 1.432,
+      "fwci": 1.4203,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.77448686,
+        "value": 0.77283021,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18223,6 +18262,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.jksus.2022.102287",
+          "doi": "https://doi.org/10.1016/j.jksus.2022.102287",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1016/j.jksus.2022.102287",
           "pdf_url": null,
@@ -18261,6 +18301,7 @@
         },
         {
           "id": "pmh:oai:doaj.org/article:b12d1fd64843441eb26807650cfeb9bd",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://doaj.org/article/b12d1fd64843441eb26807650cfeb9bd",
           "pdf_url": null,
@@ -18290,6 +18331,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.1016/j.jksus.2022.102287",
+        "doi": "https://doi.org/10.1016/j.jksus.2022.102287",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/j.jksus.2022.102287",
         "pdf_url": null,
@@ -18362,8 +18404,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -18994,6 +19036,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.jksus.2024.103221",
+        "doi": "https://doi.org/10.1016/j.jksus.2024.103221",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/j.jksus.2024.103221",
         "pdf_url": null,
@@ -19339,11 +19382,11 @@
         "currency": "USD",
         "value_usd": 1600
       },
-      "fwci": 2.1706,
+      "fwci": 2.135,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.86285207,
+        "value": 0.86010974,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19584,6 +19627,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.jksus.2024.103221",
+          "doi": "https://doi.org/10.1016/j.jksus.2024.103221",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1016/j.jksus.2024.103221",
           "pdf_url": null,
@@ -19622,6 +19666,7 @@
         },
         {
           "id": "pmh:oai:doaj.org/article:3b5817452bc0414fa76256e35029cc25",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://doaj.org/article/3b5817452bc0414fa76256e35029cc25",
           "pdf_url": null,
@@ -19651,6 +19696,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.1016/j.jksus.2024.103221",
+        "doi": "https://doi.org/10.1016/j.jksus.2024.103221",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/j.jksus.2024.103221",
         "pdf_url": null,
@@ -19712,8 +19758,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -20409,6 +20455,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.sedgeo.2006.05.020",
+        "doi": "https://doi.org/10.1016/j.sedgeo.2006.05.020",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.sedgeo.2006.05.020",
         "pdf_url": null,
@@ -20710,11 +20757,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 2.1414,
+      "fwci": 2.1445,
       "has_fulltext": false,
       "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.85998786,
+        "value": 0.85988577,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20950,6 +20997,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.sedgeo.2006.05.020",
+          "doi": "https://doi.org/10.1016/j.sedgeo.2006.05.020",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.sedgeo.2006.05.020",
           "pdf_url": null,
@@ -20989,6 +21037,7 @@
         },
         {
           "id": "pmh:oai:boris.unibe.ch:26023",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://boris.unibe.ch/26023/",
           "pdf_url": null,
@@ -21042,8 +21091,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 101,
@@ -21239,6 +21288,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.gexplo.2006.02.001",
+        "doi": "https://doi.org/10.1016/j.gexplo.2006.02.001",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.gexplo.2006.02.001",
         "pdf_url": null,
@@ -21487,11 +21537,11 @@
         "value_usd": 3570
       },
       "apc_paid": null,
-      "fwci": 1.0707,
+      "fwci": 1.0722,
       "has_fulltext": false,
       "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.78785671,
+        "value": 0.78745899,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21727,6 +21777,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.gexplo.2006.02.001",
+          "doi": "https://doi.org/10.1016/j.gexplo.2006.02.001",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.gexplo.2006.02.001",
           "pdf_url": null,
@@ -21779,8 +21830,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -21897,6 +21948,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.marpetgeo.2008.08.003",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2008.08.003",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2008.08.003",
         "pdf_url": null,
@@ -22327,11 +22379,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 1.0259,
+      "fwci": 1.0278,
       "has_fulltext": false,
       "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.77794401,
+        "value": 0.77797969,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22580,6 +22632,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.marpetgeo.2008.08.003",
+          "doi": "https://doi.org/10.1016/j.marpetgeo.2008.08.003",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2008.08.003",
           "pdf_url": null,
@@ -22642,8 +22695,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 85,
@@ -22815,6 +22868,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s13146-011-0071-4",
+        "doi": "https://doi.org/10.1007/s13146-011-0071-4",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s13146-011-0071-4",
         "pdf_url": null,
@@ -23157,11 +23211,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 2.0652,
+      "fwci": 2.0643,
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.88229934,
+        "value": 0.88227726,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23433,6 +23487,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s13146-011-0071-4",
+          "doi": "https://doi.org/10.1007/s13146-011-0071-4",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s13146-011-0071-4",
           "pdf_url": null,
@@ -23486,8 +23541,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -23608,6 +23663,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.3749/canmin.47.4.801",
+        "doi": "https://doi.org/10.3749/canmin.47.4.801",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.3749/canmin.47.4.801",
         "pdf_url": null,
@@ -23878,11 +23934,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6056,
+      "fwci": 0.6063,
       "has_fulltext": false,
-      "cited_by_count": 34,
+      "cited_by_count": 35,
       "citation_normalized_percentile": {
-        "value": 0.69917049,
+        "value": 0.69889149,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24081,6 +24137,7 @@
       "locations": [
         {
           "id": "doi:10.3749/canmin.47.4.801",
+          "doi": "https://doi.org/10.3749/canmin.47.4.801",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.3749/canmin.47.4.801",
           "pdf_url": null,
@@ -24126,8 +24183,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -24507,7 +24564,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -24558,7 +24615,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-09T09:14:12.587421",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24576,6 +24633,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.marpetgeo.2006.02.002",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2006.02.002",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2006.02.002",
         "pdf_url": null,
@@ -24863,7 +24921,7 @@
       "has_fulltext": false,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.13661202,
+        "value": 0.13671163,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25126,6 +25184,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.marpetgeo.2006.02.002",
+          "doi": "https://doi.org/10.1016/j.marpetgeo.2006.02.002",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2006.02.002",
           "pdf_url": null,
@@ -25177,8 +25236,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -25308,6 +25367,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1180/claymin.2011.046.3.495",
+        "doi": "https://doi.org/10.1180/claymin.2011.046.3.495",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1180/claymin.2011.046.3.495",
         "pdf_url": null,
@@ -25493,11 +25553,11 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 0.5722,
+      "fwci": 0.5744,
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.71501331,
+        "value": 0.71494208,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25815,6 +25875,7 @@
       "locations": [
         {
           "id": "doi:10.1180/claymin.2011.046.3.495",
+          "doi": "https://doi.org/10.1180/claymin.2011.046.3.495",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1180/claymin.2011.046.3.495",
           "pdf_url": null,
@@ -25862,8 +25923,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -26437,6 +26498,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.19026/rjees.5.5705",
+        "doi": "https://doi.org/10.19026/rjees.5.5705",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.19026/rjees.5.5705",
         "pdf_url": null,
@@ -26761,11 +26823,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3366,
+      "fwci": 1.3441,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.80945842,
+        "value": 0.80974897,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26938,6 +27000,7 @@
       "locations": [
         {
           "id": "doi:10.19026/rjees.5.5705",
+          "doi": "https://doi.org/10.19026/rjees.5.5705",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.19026/rjees.5.5705",
           "pdf_url": null,
@@ -26974,6 +27037,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.19026/rjees.5.5705",
+        "doi": "https://doi.org/10.19026/rjees.5.5705",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.19026/rjees.5.5705",
         "pdf_url": null,
@@ -27019,8 +27083,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -27736,6 +27800,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.3390/geosciences8040145",
+        "doi": "https://doi.org/10.3390/geosciences8040145",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3390/geosciences8040145",
         "pdf_url": "https://www.mdpi.com/2076-3263/8/4/145/pdf?version=1525349591",
@@ -28008,11 +28073,11 @@
         "currency": "CHF",
         "value_usd": 2172
       },
-      "fwci": 1.428,
+      "fwci": 1.4077,
       "has_fulltext": true,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.84699181,
+        "value": 0.84391746,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28289,6 +28354,7 @@
       "locations": [
         {
           "id": "doi:10.3390/geosciences8040145",
+          "doi": "https://doi.org/10.3390/geosciences8040145",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.3390/geosciences8040145",
           "pdf_url": "https://www.mdpi.com/2076-3263/8/4/145/pdf?version=1525349591",
@@ -28327,6 +28393,7 @@
         },
         {
           "id": "pmh:oai:doaj.org/article:ac64d4846bd4410daedfb646cdb85776",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://doaj.org/article/ac64d4846bd4410daedfb646cdb85776",
           "pdf_url": null,
@@ -28356,6 +28423,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.3390/geosciences8040145",
+        "doi": "https://doi.org/10.3390/geosciences8040145",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3390/geosciences8040145",
         "pdf_url": "https://www.mdpi.com/2076-3263/8/4/145/pdf?version=1525349591",
@@ -28417,8 +28485,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2801087535.pdf",
@@ -28995,6 +29063,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s12517-021-06541-5",
+        "doi": "https://doi.org/10.1007/s12517-021-06541-5",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s12517-021-06541-5",
         "pdf_url": null,
@@ -29391,11 +29460,11 @@
         "value_usd": 2780
       },
       "apc_paid": null,
-      "fwci": 1.4667,
+      "fwci": 1.461,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.77307255,
+        "value": 0.77251964,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29609,6 +29678,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s12517-021-06541-5",
+          "doi": "https://doi.org/10.1007/s12517-021-06541-5",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s12517-021-06541-5",
           "pdf_url": null,
@@ -29660,8 +29730,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 114,
@@ -29834,6 +29904,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1002/gj.4157",
+        "doi": "https://doi.org/10.1002/gj.4157",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1002/gj.4157",
         "pdf_url": null,
@@ -30225,11 +30296,11 @@
         "value_usd": 3500
       },
       "apc_paid": null,
-      "fwci": 1.5513,
+      "fwci": 1.5504,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.78853235,
+        "value": 0.78848785,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30518,6 +30589,7 @@
       "locations": [
         {
           "id": "doi:10.1002/gj.4157",
+          "doi": "https://doi.org/10.1002/gj.4157",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1002/gj.4157",
           "pdf_url": null,
@@ -30557,6 +30629,7 @@
         },
         {
           "id": "pmh:oai:qspace.qu.edu.qa:10576/21424",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85105967637&origin=inward",
           "pdf_url": null,
@@ -30599,8 +30672,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 111,
@@ -31394,6 +31467,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.marpetgeo.2022.106066",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2022.106066",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2022.106066",
         "pdf_url": null,
@@ -31779,11 +31853,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.367,
+      "fwci": 1.3535,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.77937428,
+        "value": 0.77606269,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32064,6 +32138,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.marpetgeo.2022.106066",
+          "doi": "https://doi.org/10.1016/j.marpetgeo.2022.106066",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2022.106066",
           "pdf_url": null,
@@ -32128,8 +32203,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -32270,6 +32345,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s12517-021-08853-y",
+        "doi": "https://doi.org/10.1007/s12517-021-08853-y",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s12517-021-08853-y",
         "pdf_url": null,
@@ -32541,11 +32617,11 @@
         "value_usd": 2780
       },
       "apc_paid": null,
-      "fwci": 0.4476,
+      "fwci": 0.4474,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.53627087,
+        "value": 0.53621306,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32870,6 +32946,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s12517-021-08853-y",
+          "doi": "https://doi.org/10.1007/s12517-021-08853-y",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s12517-021-08853-y",
           "pdf_url": null,
@@ -32921,8 +32998,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -33003,6 +33080,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.heliyon.2024.e38178",
+        "doi": "https://doi.org/10.1016/j.heliyon.2024.e38178",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/j.heliyon.2024.e38178",
         "pdf_url": null,
@@ -33430,11 +33508,11 @@
         "currency": "USD",
         "value_usd": 2100
       },
-      "fwci": 2.0005,
+      "fwci": 1.9444,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.84306569,
+        "value": 0.83875481,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33636,6 +33714,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.heliyon.2024.e38178",
+          "doi": "https://doi.org/10.1016/j.heliyon.2024.e38178",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1016/j.heliyon.2024.e38178",
           "pdf_url": null,
@@ -33675,6 +33754,7 @@
         },
         {
           "id": "pmid:39381251",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39381251",
           "pdf_url": null,
@@ -33705,6 +33785,7 @@
         },
         {
           "id": "pmh:oai:pubmedcentral.nih.gov:11458966",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11458966",
           "pdf_url": null,
@@ -33735,6 +33816,7 @@
         },
         {
           "id": "pmh:oai:doaj.org/article:4c03c3043c8b41498a97b010d01f12c6",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://doaj.org/article/4c03c3043c8b41498a97b010d01f12c6",
           "pdf_url": null,
@@ -33764,6 +33846,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.1016/j.heliyon.2024.e38178",
+        "doi": "https://doi.org/10.1016/j.heliyon.2024.e38178",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/j.heliyon.2024.e38178",
         "pdf_url": null,
@@ -33839,8 +33922,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -34570,6 +34653,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s12517-024-12094-0",
+        "doi": "https://doi.org/10.1007/s12517-024-12094-0",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s12517-024-12094-0",
         "pdf_url": null,
@@ -34828,11 +34912,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 1.7147,
+      "fwci": 1.6667,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.82093978,
+        "value": 0.81578641,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35043,6 +35127,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s12517-024-12094-0",
+          "doi": "https://doi.org/10.1007/s12517-024-12094-0",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s12517-024-12094-0",
           "pdf_url": null,
@@ -35102,8 +35187,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -35229,6 +35314,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s12517-024-11929-0",
+        "doi": "https://doi.org/10.1007/s12517-024-11929-0",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s12517-024-11929-0",
         "pdf_url": null,
@@ -35489,11 +35575,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 1.4289,
+      "fwci": 1.3889,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.75638686,
+        "value": 0.74897983,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35727,6 +35813,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s12517-024-11929-0",
+          "doi": "https://doi.org/10.1007/s12517-024-11929-0",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s12517-024-11929-0",
           "pdf_url": null,
@@ -35804,8 +35891,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -35880,6 +35967,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.sedgeo.2023.106573",
+        "doi": "https://doi.org/10.1016/j.sedgeo.2023.106573",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.sedgeo.2023.106573",
         "pdf_url": null,
@@ -36343,11 +36431,11 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 1.7347,
+      "fwci": 1.3159,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.79365197,
+        "value": 0.72681827,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36639,6 +36727,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.sedgeo.2023.106573",
+          "doi": "https://doi.org/10.1016/j.sedgeo.2023.106573",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.sedgeo.2023.106573",
           "pdf_url": null,
@@ -36709,8 +36798,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -36839,6 +36928,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s11631-024-00735-w",
+        "doi": "https://doi.org/10.1007/s11631-024-00735-w",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s11631-024-00735-w",
         "pdf_url": null,
@@ -37164,11 +37254,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.4782,
+      "fwci": 0.4768,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.55665025,
+        "value": 0.55595049,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37425,6 +37515,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s11631-024-00735-w",
+          "doi": "https://doi.org/10.1007/s11631-024-00735-w",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s11631-024-00735-w",
           "pdf_url": null,
@@ -37515,8 +37606,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -37617,6 +37708,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.gexplo.2005.11.030",
+        "doi": "https://doi.org/10.1016/j.gexplo.2005.11.030",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.gexplo.2005.11.030",
         "pdf_url": null,
@@ -37806,7 +37898,7 @@
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.14863388,
+        "value": 0.14862073,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38045,6 +38137,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.gexplo.2005.11.030",
+          "doi": "https://doi.org/10.1016/j.gexplo.2005.11.030",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.gexplo.2005.11.030",
           "pdf_url": null,
@@ -38097,8 +38190,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -38187,6 +38280,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/978-3-030-01452-0_36",
+        "doi": "https://doi.org/10.1007/978-3-030-01452-0_36",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/978-3-030-01452-0_36",
         "pdf_url": null,
@@ -38405,11 +38499,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.004,
+      "fwci": 1.0037,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.65388899,
+        "value": 0.6538533,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38665,6 +38759,7 @@
       "locations": [
         {
           "id": "doi:10.1007/978-3-030-01452-0_36",
+          "doi": "https://doi.org/10.1007/978-3-030-01452-0_36",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/978-3-030-01452-0_36",
           "pdf_url": null,
@@ -38718,8 +38813,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -38781,6 +38876,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.3390/app12199470",
+        "doi": "https://doi.org/10.3390/app12199470",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3390/app12199470",
         "pdf_url": "https://www.mdpi.com/2076-3417/12/19/9470/pdf?version=1663765529",
@@ -39186,11 +39282,11 @@
         "currency": "CHF",
         "value_usd": 2408
       },
-      "fwci": 0.6609,
+      "fwci": 0.6555,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.57953353,
+        "value": 0.57523669,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39507,6 +39603,7 @@
       "locations": [
         {
           "id": "doi:10.3390/app12199470",
+          "doi": "https://doi.org/10.3390/app12199470",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.3390/app12199470",
           "pdf_url": "https://www.mdpi.com/2076-3417/12/19/9470/pdf?version=1663765529",
@@ -39545,6 +39642,7 @@
         },
         {
           "id": "pmh:oai:doaj.org/article:8db2ed2826d64d26aa50184e10a76b54",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://doaj.org/article/8db2ed2826d64d26aa50184e10a76b54",
           "pdf_url": null,
@@ -39574,6 +39672,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.3390/app12199470",
+        "doi": "https://doi.org/10.3390/app12199470",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3390/app12199470",
         "pdf_url": "https://www.mdpi.com/2076-3417/12/19/9470/pdf?version=1663765529",
@@ -39649,8 +39748,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4296742037.pdf",
@@ -40383,6 +40482,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.marpetgeo.2024.106961",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2024.106961",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2024.106961",
         "pdf_url": null,
@@ -40678,11 +40778,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 1.6711,
+      "fwci": 1.6667,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.79909049,
+        "value": 0.79829777,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40929,6 +41029,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.marpetgeo.2024.106961",
+          "doi": "https://doi.org/10.1016/j.marpetgeo.2024.106961",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2024.106961",
           "pdf_url": null,
@@ -40980,8 +41081,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 101,
@@ -41132,6 +41233,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s13369-024-09135-x",
+        "doi": "https://doi.org/10.1007/s13369-024-09135-x",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s13369-024-09135-x",
         "pdf_url": null,
@@ -41419,11 +41521,11 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 1.4289,
+      "fwci": 1.3889,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.76186131,
+        "value": 0.75469278,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41629,6 +41731,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s13369-024-09135-x",
+          "doi": "https://doi.org/10.1007/s13369-024-09135-x",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s13369-024-09135-x",
           "pdf_url": null,
@@ -41683,8 +41786,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -41767,6 +41870,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s13146-024-01023-7",
+        "doi": "https://doi.org/10.1007/s13146-024-01023-7",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s13146-024-01023-7",
         "pdf_url": null,
@@ -42031,11 +42135,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.9161,
+      "fwci": 0.886,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.72924627,
+        "value": 0.72134952,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42242,6 +42346,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s13146-024-01023-7",
+          "doi": "https://doi.org/10.1007/s13146-024-01023-7",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s13146-024-01023-7",
           "pdf_url": null,
@@ -42295,8 +42400,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -42410,6 +42515,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s13146-025-01082-4",
+        "doi": "https://doi.org/10.1007/s13146-025-01082-4",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s13146-025-01082-4",
         "pdf_url": null,
@@ -42660,11 +42766,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.3488,
+      "fwci": 1.3143,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.75687334,
+        "value": 0.75085169,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42867,6 +42973,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s13146-025-01082-4",
+          "doi": "https://doi.org/10.1007/s13146-025-01082-4",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s13146-025-01082-4",
           "pdf_url": null,
@@ -42920,8 +43027,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -43061,6 +43168,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/978-3-031-43222-4_18",
+        "doi": "https://doi.org/10.1007/978-3-031-43222-4_18",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/978-3-031-43222-4_18",
         "pdf_url": null,
@@ -43562,11 +43670,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.4244,
+      "fwci": 4.21,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.95207787,
+        "value": 0.94955334,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -43745,6 +43853,7 @@
       "locations": [
         {
           "id": "doi:10.1007/978-3-031-43222-4_18",
+          "doi": "https://doi.org/10.1007/978-3-031-43222-4_18",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/978-3-031-43222-4_18",
           "pdf_url": null,
@@ -43786,6 +43895,7 @@
         },
         {
           "id": "pmh:oai:qspace.qu.edu.qa:10576/56512",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://hdl.handle.net/10576/56512",
           "pdf_url": null,
@@ -43828,8 +43938,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -43878,6 +43988,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.53539/squjs.vol29iss1pp68-85",
+        "doi": "https://doi.org/10.53539/squjs.vol29iss1pp68-85",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.53539/squjs.vol29iss1pp68-85",
         "pdf_url": "https://squjs.squ.edu.om/cgi/viewcontent.cgi?article=1341&context=squjs",
@@ -44138,16 +44249,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8574,
+      "fwci": 0.8333,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.64564325,
+        "value": 0.63565349,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 97
       },
       "biblio": {
@@ -44330,6 +44441,7 @@
       "locations": [
         {
           "id": "doi:10.53539/squjs.vol29iss1pp68-85",
+          "doi": "https://doi.org/10.53539/squjs.vol29iss1pp68-85",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.53539/squjs.vol29iss1pp68-85",
           "pdf_url": "https://squjs.squ.edu.om/cgi/viewcontent.cgi?article=1341&context=squjs",
@@ -44368,6 +44480,7 @@
         },
         {
           "id": "pmh:oai:doaj.org/article:f1a8bcc322e9425091c9eb47d2643324",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://doaj.org/article/f1a8bcc322e9425091c9eb47d2643324",
           "pdf_url": null,
@@ -44397,6 +44510,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.53539/squjs.vol29iss1pp68-85",
+        "doi": "https://doi.org/10.53539/squjs.vol29iss1pp68-85",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.53539/squjs.vol29iss1pp68-85",
         "pdf_url": "https://squjs.squ.edu.om/cgi/viewcontent.cgi?article=1341&context=squjs",
@@ -44445,8 +44559,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4395117463.pdf",
@@ -45056,6 +45170,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s13146-025-01081-5",
+        "doi": "https://doi.org/10.1007/s13146-025-01081-5",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s13146-025-01081-5",
         "pdf_url": null,
@@ -45247,11 +45362,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 2.1322,
+      "fwci": 2.036,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.83916159,
+        "value": 0.8310989,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45457,6 +45572,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s13146-025-01081-5",
+          "doi": "https://doi.org/10.1007/s13146-025-01081-5",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s13146-025-01081-5",
           "pdf_url": null,
@@ -45510,8 +45626,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -45642,6 +45758,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.3390/geosciences16010015",
+        "doi": "https://doi.org/10.3390/geosciences16010015",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3390/geosciences16010015",
         "pdf_url": "https://www.mdpi.com/2076-3263/16/1/15/pdf",
@@ -45960,11 +46077,11 @@
         "currency": "CHF",
         "value_usd": 2172
       },
-      "fwci": 1.3524,
+      "fwci": 1.2846,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.80818674,
+        "value": 0.7978224,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46287,6 +46404,7 @@
       "locations": [
         {
           "id": "doi:10.3390/geosciences16010015",
+          "doi": "https://doi.org/10.3390/geosciences16010015",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.3390/geosciences16010015",
           "pdf_url": "https://www.mdpi.com/2076-3263/16/1/15/pdf",
@@ -46325,6 +46443,7 @@
         },
         {
           "id": "pmh:oai:doaj.org/article:76ba818a82d9411bb7d79ee341d9fb03",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://doaj.org/article/76ba818a82d9411bb7d79ee341d9fb03",
           "pdf_url": null,
@@ -46354,6 +46473,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.3390/geosciences16010015",
+        "doi": "https://doi.org/10.3390/geosciences16010015",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3390/geosciences16010015",
         "pdf_url": "https://www.mdpi.com/2076-3263/16/1/15/pdf",
@@ -46416,8 +46536,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7117119321.pdf",
@@ -47021,6 +47141,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.4314/jfas.v9i2.13",
+        "doi": "https://doi.org/10.4314/jfas.v9i2.13",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.4314/jfas.v9i2.13",
         "pdf_url": "https://www.ajol.info/index.php/jfas/article/download/156138/145757",
@@ -47234,11 +47355,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3987,
+      "fwci": 0.398,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.57565927,
+        "value": 0.57386438,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47505,6 +47626,7 @@
       "locations": [
         {
           "id": "doi:10.4314/jfas.v9i2.13",
+          "doi": "https://doi.org/10.4314/jfas.v9i2.13",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.4314/jfas.v9i2.13",
           "pdf_url": "https://www.ajol.info/index.php/jfas/article/download/156138/145757",
@@ -47543,6 +47665,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.4314/jfas.v9i2.13",
+        "doi": "https://doi.org/10.4314/jfas.v9i2.13",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.4314/jfas.v9i2.13",
         "pdf_url": "https://www.ajol.info/index.php/jfas/article/download/156138/145757",
@@ -47590,8 +47713,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2611104737.pdf",
@@ -48024,6 +48147,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1029/2020jb021290",
+        "doi": "https://doi.org/10.1029/2020jb021290",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1029/2020jb021290",
         "pdf_url": null,
@@ -48444,11 +48568,11 @@
         "value_usd": 3500
       },
       "apc_paid": null,
-      "fwci": 0.3241,
+      "fwci": 0.3202,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.5043475,
+        "value": 0.49346896,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48727,6 +48851,7 @@
       "locations": [
         {
           "id": "doi:10.1029/2020jb021290",
+          "doi": "https://doi.org/10.1029/2020jb021290",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1029/2020jb021290",
           "pdf_url": null,
@@ -48791,8 +48916,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 107,
@@ -49551,6 +49676,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1111/sed.12809",
+        "doi": "https://doi.org/10.1111/sed.12809",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1111/sed.12809",
         "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sed.12809",
@@ -49806,11 +49932,11 @@
         "value_usd": 3700
       },
       "apc_paid": null,
-      "fwci": 0.3168,
+      "fwci": 0.3161,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.56196213,
+        "value": 0.55444503,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -50019,6 +50145,7 @@
       "locations": [
         {
           "id": "doi:10.1111/sed.12809",
+          "doi": "https://doi.org/10.1111/sed.12809",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1111/sed.12809",
           "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sed.12809",
@@ -50059,6 +50186,7 @@
         },
         {
           "id": "pmh:oai:nora.nerc.ac.uk:529435",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/529435/1/El-Hawat%20et%20al_2020_Sedimentology.pdf",
           "pdf_url": "http://nora.nerc.ac.uk/id/eprint/529435/1/El-Hawat%20et%20al_2020_Sedimentology.pdf",
@@ -50090,6 +50218,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.1111/sed.12809",
+        "doi": "https://doi.org/10.1111/sed.12809",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1111/sed.12809",
         "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/sed.12809",
@@ -50180,8 +50309,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3113005327.pdf",
@@ -50918,6 +51047,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.cretres.2022.105290",
+        "doi": "https://doi.org/10.1016/j.cretres.2022.105290",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.cretres.2022.105290",
         "pdf_url": null,
@@ -51130,10 +51260,8 @@
           "author": {
             "id": "https://openalex.org/A5091285560",
             "display_name": "Levent Sina Erkızan",
-            "orcid": "https://orcid.org/0009-0005-5737-8578",
-            "observed_orcids": [
-              "https://orcid.org/0009-0005-5737-8578"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -51346,11 +51474,11 @@
         "value_usd": 3050
       },
       "apc_paid": null,
-      "fwci": 0.8572,
+      "fwci": 0.7237,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.68313052,
+        "value": 0.61667794,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -51563,6 +51691,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.cretres.2022.105290",
+          "doi": "https://doi.org/10.1016/j.cretres.2022.105290",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.cretres.2022.105290",
           "pdf_url": null,
@@ -51602,6 +51731,7 @@
         },
         {
           "id": "pmh:oai:openaccess.firat.edu.tr:11508/41955",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.cretres.2022.105290",
           "pdf_url": null,
@@ -51632,6 +51762,7 @@
         },
         {
           "id": "pmh:oai:polen.itu.edu.tr:11527/28774",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://hdl.handle.net/11527/28774",
           "pdf_url": null,
@@ -51688,8 +51819,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -51773,7 +51904,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-03T13:16:28.481748",
+      "updated_date": "2026-10-09T09:14:12.587421",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -51791,6 +51922,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1002/gj.4044",
+        "doi": "https://doi.org/10.1002/gj.4044",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1002/gj.4044",
         "pdf_url": null,
@@ -52117,11 +52249,11 @@
         "value_usd": 3500
       },
       "apc_paid": null,
-      "fwci": 0.1552,
+      "fwci": 0.1542,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.45023331,
+        "value": 0.43484955,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -52415,6 +52547,7 @@
       "locations": [
         {
           "id": "doi:10.1002/gj.4044",
+          "doi": "https://doi.org/10.1002/gj.4044",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1002/gj.4044",
           "pdf_url": null,
@@ -52460,8 +52593,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 71,
@@ -52961,6 +53094,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.3389/feart.2023.1270795",
+        "doi": "https://doi.org/10.3389/feart.2023.1270795",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3389/feart.2023.1270795",
         "pdf_url": "https://www.frontiersin.org/articles/10.3389/feart.2023.1270795/pdf?isPublishedV2=False",
@@ -53375,11 +53509,11 @@
         "currency": "USD",
         "value_usd": 3295
       },
-      "fwci": 0.9898,
+      "fwci": 0.821,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.71853748,
+        "value": 0.65760499,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -53658,6 +53792,7 @@
       "locations": [
         {
           "id": "doi:10.3389/feart.2023.1270795",
+          "doi": "https://doi.org/10.3389/feart.2023.1270795",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.3389/feart.2023.1270795",
           "pdf_url": "https://www.frontiersin.org/articles/10.3389/feart.2023.1270795/pdf?isPublishedV2=False",
@@ -53698,6 +53833,7 @@
         },
         {
           "id": "pmh:oai:doaj.org/article:addb55b2ad5a45a585830cb13849fe69",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://doaj.org/article/addb55b2ad5a45a585830cb13849fe69",
           "pdf_url": null,
@@ -53726,6 +53862,7 @@
         },
         {
           "id": "pmh:oai:figshare.com:article/29445368",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://figshare.com/articles/journal_contribution/Gamma-ray_stable_carbon_and_oxygen_isotope_chemostratigraphy_and_sequence_stratigraphy_of_the_Lower_Mahil_Formation_KS-1_Khuff-Equivalent_Northern_Oman/29445368",
           "pdf_url": null,
@@ -53757,6 +53894,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.3389/feart.2023.1270795",
+        "doi": "https://doi.org/10.3389/feart.2023.1270795",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3389/feart.2023.1270795",
         "pdf_url": "https://www.frontiersin.org/articles/10.3389/feart.2023.1270795/pdf?isPublishedV2=False",
@@ -53818,8 +53956,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387133041.pdf",
@@ -54658,6 +54796,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/978-3-031-48758-3_8",
+        "doi": "https://doi.org/10.1007/978-3-031-48758-3_8",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/978-3-031-48758-3_8",
         "pdf_url": null,
@@ -55165,16 +55304,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.5954,
+      "fwci": 6.4197,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.95907066,
+        "value": 0.95817397,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 96
       },
       "biblio": {
@@ -55364,6 +55503,7 @@
       "locations": [
         {
           "id": "doi:10.1007/978-3-031-48758-3_8",
+          "doi": "https://doi.org/10.1007/978-3-031-48758-3_8",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/978-3-031-48758-3_8",
           "pdf_url": null,
@@ -55411,8 +55551,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -55475,6 +55615,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1002/gj.5205",
+        "doi": "https://doi.org/10.1002/gj.5205",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1002/gj.5205",
         "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/gj.5205",
@@ -55737,11 +55878,11 @@
         "value_usd": 3540
       },
       "apc_paid": null,
-      "fwci": 2.6873,
+      "fwci": 2.2471,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.8686663,
+        "value": 0.84321451,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -55957,6 +56098,7 @@
       "locations": [
         {
           "id": "doi:10.1002/gj.5205",
+          "doi": "https://doi.org/10.1002/gj.5205",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1002/gj.5205",
           "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/gj.5205",
@@ -55997,6 +56139,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.1002/gj.5205",
+        "doi": "https://doi.org/10.1002/gj.5205",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1002/gj.5205",
         "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/gj.5205",
@@ -56046,8 +56189,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4409325706.pdf",
@@ -56800,6 +56943,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.jseaes.2025.106656",
+        "doi": "https://doi.org/10.1016/j.jseaes.2025.106656",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.jseaes.2025.106656",
         "pdf_url": null,
@@ -57107,11 +57251,11 @@
         "value_usd": 3330
       },
       "apc_paid": null,
-      "fwci": 2.1322,
+      "fwci": 2.036,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.84076569,
+        "value": 0.83274725,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -57345,6 +57489,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.jseaes.2025.106656",
+          "doi": "https://doi.org/10.1016/j.jseaes.2025.106656",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.jseaes.2025.106656",
           "pdf_url": null,
@@ -57402,8 +57547,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -57525,6 +57670,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.15446/esrj.v26n3.96985",
+        "doi": "https://doi.org/10.15446/esrj.v26n3.96985",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.15446/esrj.v26n3.96985",
         "pdf_url": "https://revistas.unal.edu.co/index.php/esrj/article/download/96985/85316",
@@ -57728,11 +57874,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1055,
+      "fwci": 0.1033,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.43741994,
+        "value": 0.42152686,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -58013,6 +58159,7 @@
       "locations": [
         {
           "id": "doi:10.15446/esrj.v26n3.96985",
+          "doi": "https://doi.org/10.15446/esrj.v26n3.96985",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.15446/esrj.v26n3.96985",
           "pdf_url": "https://revistas.unal.edu.co/index.php/esrj/article/download/96985/85316",
@@ -58053,6 +58200,7 @@
         },
         {
           "id": "pmh:oai:ojs.unal.edu.co:article/96985",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://revistas.unal.edu.co/index.php/esrj/article/view/96985",
           "pdf_url": null,
@@ -58093,6 +58241,7 @@
         },
         {
           "id": "pmh:oai:www.revistas.unal.edu.co:article/96985",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://revistas.unal.edu.co/index.php/esrj/article/view/96985",
           "pdf_url": null,
@@ -58124,6 +58273,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.15446/esrj.v26n3.96985",
+        "doi": "https://doi.org/10.15446/esrj.v26n3.96985",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.15446/esrj.v26n3.96985",
         "pdf_url": "https://revistas.unal.edu.co/index.php/esrj/article/download/96985/85316",
@@ -58185,8 +58335,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4320057911.pdf",
@@ -58839,6 +58989,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2118/215995-ms",
+        "doi": "https://doi.org/10.2118/215995-ms",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2118/215995-ms",
         "pdf_url": null,
@@ -58933,16 +59084,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.9496,
+      "fwci": 2.8066,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.89829028,
+        "value": 0.89332633,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 96
       },
       "biblio": {
@@ -59191,6 +59342,7 @@
       "locations": [
         {
           "id": "doi:10.2118/215995-ms",
+          "doi": "https://doi.org/10.2118/215995-ms",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2118/215995-ms",
           "pdf_url": null,
@@ -59217,8 +59369,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -60207,6 +60359,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/978-3-031-43222-4_17",
+        "doi": "https://doi.org/10.1007/978-3-031-43222-4_17",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/978-3-031-43222-4_17",
         "pdf_url": null,
@@ -60476,11 +60629,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.8425,
+      "fwci": 5.6837,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.95590978,
+        "value": 0.95519776,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -60678,6 +60831,7 @@
       "locations": [
         {
           "id": "doi:10.1007/978-3-031-43222-4_17",
+          "doi": "https://doi.org/10.1007/978-3-031-43222-4_17",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/978-3-031-43222-4_17",
           "pdf_url": null,
@@ -60731,8 +60885,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -60782,6 +60936,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/978-3-031-48758-3_65",
+        "doi": "https://doi.org/10.1007/978-3-031-48758-3_65",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/978-3-031-48758-3_65",
         "pdf_url": null,
@@ -61051,11 +61206,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.3969,
+      "fwci": 4.2798,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.91248345,
+        "value": 0.90968538,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -61237,6 +61392,7 @@
       "locations": [
         {
           "id": "doi:10.1007/978-3-031-48758-3_65",
+          "doi": "https://doi.org/10.1007/978-3-031-48758-3_65",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/978-3-031-48758-3_65",
           "pdf_url": null,
@@ -61290,8 +61446,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -61347,6 +61503,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/978-3-031-48758-3_5",
+        "doi": "https://doi.org/10.1007/978-3-031-48758-3_5",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/978-3-031-48758-3_5",
         "pdf_url": null,
@@ -61610,11 +61767,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.6173,
+      "fwci": 3.5009,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.86570145,
+        "value": 0.86148301,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -61790,6 +61947,7 @@
       "locations": [
         {
           "id": "doi:10.1007/978-3-031-48758-3_5",
+          "doi": "https://doi.org/10.1007/978-3-031-48758-3_5",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/978-3-031-48758-3_5",
           "pdf_url": null,
@@ -61843,8 +62001,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -61895,6 +62053,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1002/gj.4542",
+        "doi": "https://doi.org/10.1002/gj.4542",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1002/gj.4542",
         "pdf_url": null,
@@ -62253,16 +62412,16 @@
         "value_usd": 3650
       },
       "apc_paid": null,
-      "fwci": 0.1709,
+      "fwci": 0.1692,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.40672074,
+        "value": 0.39313702,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 94
       },
       "biblio": {
@@ -62504,6 +62663,7 @@
       "locations": [
         {
           "id": "doi:10.1002/gj.4542",
+          "doi": "https://doi.org/10.1002/gj.4542",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1002/gj.4542",
           "pdf_url": null,
@@ -62543,6 +62703,7 @@
         },
         {
           "id": "pmh:oai:polen.itu.edu.tr:11527/32042",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://hdl.handle.net/11527/32042",
           "pdf_url": null,
@@ -62585,8 +62746,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -63586,6 +63747,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1130/abs/2022am-381879",
+        "doi": "https://doi.org/10.1130/abs/2022am-381879",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1130/abs/2022am-381879",
         "pdf_url": null,
@@ -64007,6 +64169,7 @@
       "locations": [
         {
           "id": "doi:10.1130/abs/2022am-381879",
+          "doi": "https://doi.org/10.1130/abs/2022am-381879",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1130/abs/2022am-381879",
           "pdf_url": null,
@@ -64061,8 +64224,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -64103,6 +64266,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/978-3-031-43222-4_10",
+        "doi": "https://doi.org/10.1007/978-3-031-43222-4_10",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/978-3-031-43222-4_10",
         "pdf_url": null,
@@ -64313,11 +64477,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8631,
+      "fwci": 1.848,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.88731014,
+        "value": 0.88646505,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -64537,6 +64701,7 @@
       "locations": [
         {
           "id": "doi:10.1007/978-3-031-43222-4_10",
+          "doi": "https://doi.org/10.1007/978-3-031-43222-4_10",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/978-3-031-43222-4_10",
           "pdf_url": null,
@@ -64590,8 +64755,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -64642,6 +64807,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/978-3-031-43222-4_7",
+        "doi": "https://doi.org/10.1007/978-3-031-43222-4_7",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/978-3-031-43222-4_7",
         "pdf_url": null,
@@ -64925,16 +65091,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8631,
+      "fwci": 1.848,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.88829005,
+        "value": 0.88745662,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 94
       },
       "biblio": {
@@ -65200,6 +65366,7 @@
       "locations": [
         {
           "id": "doi:10.1007/978-3-031-43222-4_7",
+          "doi": "https://doi.org/10.1007/978-3-031-43222-4_7",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/978-3-031-43222-4_7",
           "pdf_url": null,
@@ -65253,8 +65420,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -65300,6 +65467,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/978-3-031-43222-4_12",
+        "doi": "https://doi.org/10.1007/978-3-031-43222-4_12",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1007/978-3-031-43222-4_12",
         "pdf_url": "https://link.springer.com/content/pdf/10.1007/978-3-031-43222-4_12.pdf",
@@ -65766,16 +65934,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8631,
+      "fwci": 1.848,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.88926997,
+        "value": 0.88844819,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 94
       },
       "biblio": {
@@ -65986,6 +66154,7 @@
       "locations": [
         {
           "id": "doi:10.1007/978-3-031-43222-4_12",
+          "doi": "https://doi.org/10.1007/978-3-031-43222-4_12",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1007/978-3-031-43222-4_12",
           "pdf_url": "https://link.springer.com/content/pdf/10.1007/978-3-031-43222-4_12.pdf",
@@ -66028,6 +66197,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.1007/978-3-031-43222-4_12",
+        "doi": "https://doi.org/10.1007/978-3-031-43222-4_12",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1007/978-3-031-43222-4_12",
         "pdf_url": "https://link.springer.com/content/pdf/10.1007/978-3-031-43222-4_12.pdf",
@@ -66085,8 +66255,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4389914228.pdf",
@@ -66137,6 +66307,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/978-3-031-43222-4_11",
+        "doi": "https://doi.org/10.1007/978-3-031-43222-4_11",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/978-3-031-43222-4_11",
         "pdf_url": null,
@@ -66520,16 +66691,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8631,
+      "fwci": 1.848,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.88975992,
+        "value": 0.88894398,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 94
       },
       "biblio": {
@@ -66766,6 +66937,7 @@
       "locations": [
         {
           "id": "doi:10.1007/978-3-031-43222-4_11",
+          "doi": "https://doi.org/10.1007/978-3-031-43222-4_11",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/978-3-031-43222-4_11",
           "pdf_url": null,
@@ -66819,8 +66991,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -66868,6 +67040,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/978-3-031-48758-3_74",
+        "doi": "https://doi.org/10.1007/978-3-031-48758-3_74",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/978-3-031-48758-3_74",
         "pdf_url": null,
@@ -67019,11 +67192,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1985,
+      "fwci": 2.1399,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.78175033,
+        "value": 0.77569402,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -67299,6 +67472,7 @@
       "locations": [
         {
           "id": "doi:10.1007/978-3-031-48758-3_74",
+          "doi": "https://doi.org/10.1007/978-3-031-48758-3_74",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/978-3-031-48758-3_74",
           "pdf_url": null,
@@ -67352,8 +67526,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -67400,6 +67574,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.3126/jngs.v67i1.74589",
+        "doi": "https://doi.org/10.3126/jngs.v67i1.74589",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3126/jngs.v67i1.74589",
         "pdf_url": "https://www.nepjol.info/index.php/JNGS/article/download/74589/57793",
@@ -67756,16 +67931,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1162,
+      "fwci": 0.1126,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.43045478,
+        "value": 0.41476307,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 94
       },
       "biblio": {
@@ -67992,6 +68167,7 @@
       "locations": [
         {
           "id": "doi:10.3126/jngs.v67i1.74589",
+          "doi": "https://doi.org/10.3126/jngs.v67i1.74589",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.3126/jngs.v67i1.74589",
           "pdf_url": "https://www.nepjol.info/index.php/JNGS/article/download/74589/57793",
@@ -68024,6 +68200,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.3126/jngs.v67i1.74589",
+        "doi": "https://doi.org/10.3126/jngs.v67i1.74589",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3126/jngs.v67i1.74589",
         "pdf_url": "https://www.nepjol.info/index.php/JNGS/article/download/74589/57793",
@@ -68086,8 +68263,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407416987.pdf",
@@ -68696,6 +68873,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1002/9781118485347.ch15",
+        "doi": "https://doi.org/10.1002/9781118485347.ch15",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1002/9781118485347.ch15",
         "pdf_url": null,
@@ -69236,6 +69414,7 @@
       "locations": [
         {
           "id": "doi:10.1002/9781118485347.ch15",
+          "doi": "https://doi.org/10.1002/9781118485347.ch15",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1002/9781118485347.ch15",
           "pdf_url": null,
@@ -69268,8 +69447,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 71,
@@ -69696,6 +69875,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1190/iceg2023-077.1",
+        "doi": "https://doi.org/10.1190/iceg2023-077.1",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1190/iceg2023-077.1",
         "pdf_url": null,
@@ -70206,6 +70386,7 @@
       "locations": [
         {
           "id": "doi:10.1190/iceg2023-077.1",
+          "doi": "https://doi.org/10.1190/iceg2023-077.1",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1190/iceg2023-077.1",
           "pdf_url": null,
@@ -70232,8 +70413,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -70723,6 +70904,7 @@
       "language": "en",
       "primary_location": {
         "id": "mag:173315559",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "http://www.diva-portal.org/smash/record.jsf?pid=diva2:167429",
         "pdf_url": null,
@@ -70893,7 +71075,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.02506562,
+        "value": 0.0250459,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -71166,6 +71348,7 @@
       "locations": [
         {
           "id": "mag:173315559",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://www.diva-portal.org/smash/record.jsf?pid=diva2:167429",
           "pdf_url": null,
@@ -71217,8 +71400,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -71947,6 +72130,7 @@
       "language": "en",
       "primary_location": {
         "id": "pmh:oai:pure.qub.ac.uk/portal:publications/b1b72b4e-5fd1-43c7-97ea-10549980190e",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "https://pure.qub.ac.uk/en/publications/b1b72b4e-5fd1-43c7-97ea-10549980190e",
         "pdf_url": null,
@@ -72039,7 +72223,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3628692,
+        "value": 0.36317568,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -72324,6 +72508,7 @@
       "locations": [
         {
           "id": "pmh:oai:pure.qub.ac.uk/portal:publications/b1b72b4e-5fd1-43c7-97ea-10549980190e",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://pure.qub.ac.uk/en/publications/b1b72b4e-5fd1-43c7-97ea-10549980190e",
           "pdf_url": null,
@@ -72354,6 +72539,7 @@
         },
         {
           "id": "mag:2616529230",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://pure.qub.ac.uk/en/publications/sequence-stratigraphy-related-distribution-of-diagenetic-alterati",
           "pdf_url": null,
@@ -72380,8 +72566,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -72949,6 +73135,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.3997/2214-4609-pdb.248.365",
+        "doi": "https://doi.org/10.3997/2214-4609-pdb.248.365",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.248.365",
         "pdf_url": null,
@@ -73070,7 +73257,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.46210597,
+        "value": 0.46179625,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -73371,6 +73558,7 @@
       "locations": [
         {
           "id": "doi:10.3997/2214-4609-pdb.248.365",
+          "doi": "https://doi.org/10.3997/2214-4609-pdb.248.365",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.3997/2214-4609-pdb.248.365",
           "pdf_url": null,
@@ -73411,8 +73599,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -74022,6 +74210,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.21203/rs.3.rs-379392/v1",
+        "doi": "https://doi.org/10.21203/rs.3.rs-379392/v1",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.21203/rs.3.rs-379392/v1",
         "pdf_url": "https://www.researchsquare.com/article/rs-379392/v1.pdf",
@@ -74448,6 +74637,7 @@
       "locations": [
         {
           "id": "doi:10.21203/rs.3.rs-379392/v1",
+          "doi": "https://doi.org/10.21203/rs.3.rs-379392/v1",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.21203/rs.3.rs-379392/v1",
           "pdf_url": "https://www.researchsquare.com/article/rs-379392/v1.pdf",
@@ -74477,6 +74667,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.21203/rs.3.rs-379392/v1",
+        "doi": "https://doi.org/10.21203/rs.3.rs-379392/v1",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.21203/rs.3.rs-379392/v1",
         "pdf_url": "https://www.researchsquare.com/article/rs-379392/v1.pdf",
@@ -74515,8 +74706,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3155447873.pdf",
@@ -75190,6 +75381,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/978-3-030-72547-1_37",
+        "doi": "https://doi.org/10.1007/978-3-030-72547-1_37",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/978-3-030-72547-1_37",
         "pdf_url": null,
@@ -75381,7 +75573,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.00216099,
+        "value": 0.00218699,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -75633,6 +75825,7 @@
       "locations": [
         {
           "id": "doi:10.1007/978-3-030-72547-1_37",
+          "doi": "https://doi.org/10.1007/978-3-030-72547-1_37",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/978-3-030-72547-1_37",
           "pdf_url": null,
@@ -75686,8 +75879,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -75727,6 +75920,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2139/ssrn.4038045",
+        "doi": "https://doi.org/10.2139/ssrn.4038045",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.2139/ssrn.4038045",
         "pdf_url": null,
@@ -76327,6 +76521,7 @@
       "locations": [
         {
           "id": "doi:10.2139/ssrn.4038045",
+          "doi": "https://doi.org/10.2139/ssrn.4038045",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.2139/ssrn.4038045",
           "pdf_url": null,
@@ -76360,6 +76555,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.2139/ssrn.4038045",
+        "doi": "https://doi.org/10.2139/ssrn.4038045",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.2139/ssrn.4038045",
         "pdf_url": null,
@@ -76402,8 +76598,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -76439,6 +76635,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1002/essoar.10504741.1",
+        "doi": "https://doi.org/10.1002/essoar.10504741.1",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1002/essoar.10504741.1",
         "pdf_url": null,
@@ -76995,6 +77192,7 @@
       "locations": [
         {
           "id": "doi:10.1002/essoar.10504741.1",
+          "doi": "https://doi.org/10.1002/essoar.10504741.1",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1002/essoar.10504741.1",
           "pdf_url": null,
@@ -77021,8 +77219,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -77640,6 +77838,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1190/iceg2023-042.1",
+        "doi": "https://doi.org/10.1190/iceg2023-042.1",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1190/iceg2023-042.1",
         "pdf_url": null,
@@ -78003,6 +78202,7 @@
       "locations": [
         {
           "id": "doi:10.1190/iceg2023-042.1",
+          "doi": "https://doi.org/10.1190/iceg2023-042.1",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1190/iceg2023-042.1",
           "pdf_url": null,
@@ -78029,8 +78229,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -78515,6 +78715,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/978-3-031-48758-3_3",
+        "doi": "https://doi.org/10.1007/978-3-031-48758-3_3",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/978-3-031-48758-3_3",
         "pdf_url": null,
@@ -78906,7 +79107,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.04143784,
+        "value": 0.04273944,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -79121,6 +79322,7 @@
       "locations": [
         {
           "id": "doi:10.1007/978-3-031-48758-3_3",
+          "doi": "https://doi.org/10.1007/978-3-031-48758-3_3",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/978-3-031-48758-3_3",
           "pdf_url": null,
@@ -79174,8 +79376,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -79216,6 +79418,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/978-3-031-48758-3_10",
+        "doi": "https://doi.org/10.1007/978-3-031-48758-3_10",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/978-3-031-48758-3_10",
         "pdf_url": null,
@@ -79430,7 +79633,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.04193709,
+        "value": 0.04325438,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -79667,6 +79870,7 @@
       "locations": [
         {
           "id": "doi:10.1007/978-3-031-48758-3_10",
+          "doi": "https://doi.org/10.1007/978-3-031-48758-3_10",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/978-3-031-48758-3_10",
           "pdf_url": null,
@@ -79726,8 +79930,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -79774,6 +79978,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/978-3-031-48758-3_7",
+        "doi": "https://doi.org/10.1007/978-3-031-48758-3_7",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/978-3-031-48758-3_7",
         "pdf_url": null,
@@ -80165,7 +80370,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.04343485,
+        "value": 0.04479918,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -80366,6 +80571,7 @@
       "locations": [
         {
           "id": "doi:10.1007/978-3-031-48758-3_7",
+          "doi": "https://doi.org/10.1007/978-3-031-48758-3_7",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/978-3-031-48758-3_7",
           "pdf_url": null,
@@ -80419,8 +80625,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -80464,6 +80670,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/978-3-031-48758-3_4",
+        "doi": "https://doi.org/10.1007/978-3-031-48758-3_4",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/978-3-031-48758-3_4",
         "pdf_url": null,
@@ -80855,7 +81062,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.04443335,
+        "value": 0.04582904,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -81084,6 +81291,7 @@
       "locations": [
         {
           "id": "doi:10.1007/978-3-031-48758-3_4",
+          "doi": "https://doi.org/10.1007/978-3-031-48758-3_4",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/978-3-031-48758-3_4",
           "pdf_url": null,
@@ -81137,8 +81345,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -81180,6 +81388,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/978-3-031-48758-3_6",
+        "doi": "https://doi.org/10.1007/978-3-031-48758-3_6",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/978-3-031-48758-3_6",
         "pdf_url": null,
@@ -81571,7 +81780,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.04543185,
+        "value": 0.04685891,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -81776,6 +81985,7 @@
       "locations": [
         {
           "id": "doi:10.1007/978-3-031-48758-3_6",
+          "doi": "https://doi.org/10.1007/978-3-031-48758-3_6",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/978-3-031-48758-3_6",
           "pdf_url": null,
@@ -81829,8 +82039,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -81869,6 +82079,7 @@
       "language": "en",
       "primary_location": {
         "id": "pmh:oai:figshare.com:article/14723568",
+        "doi": null,
         "is_oa": true,
         "landing_page_url": "https://figshare.com/articles/dataset/Geochemical_and_C-O_isotopic_study_of_ophiolite-derived_carbonates_of_the_Barzaman_Formation_Oman_Evidence_of_natural_CO2_sequestration_via_carbonation_of_ultramafic_clasts/14723568",
         "pdf_url": null,
@@ -82261,6 +82472,7 @@
       "locations": [
         {
           "id": "pmh:oai:figshare.com:article/14723568",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://figshare.com/articles/dataset/Geochemical_and_C-O_isotopic_study_of_ophiolite-derived_carbonates_of_the_Barzaman_Formation_Oman_Evidence_of_natural_CO2_sequestration_via_carbonation_of_ultramafic_clasts/14723568",
           "pdf_url": null,
@@ -82291,6 +82503,7 @@
         },
         {
           "id": "doi:10.6084/m9.figshare.14723568",
+          "doi": "https://doi.org/10.6084/m9.figshare.14723568",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.6084/m9.figshare.14723568",
           "pdf_url": null,
@@ -82321,6 +82534,7 @@
         },
         {
           "id": "doi:10.6084/m9.figshare.14723568.v1",
+          "doi": "https://doi.org/10.6084/m9.figshare.14723568.v1",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.6084/m9.figshare.14723568.v1",
           "pdf_url": null,
@@ -82352,6 +82566,7 @@
       ],
       "best_oa_location": {
         "id": "pmh:oai:figshare.com:article/14723568",
+        "doi": null,
         "is_oa": true,
         "landing_page_url": "https://figshare.com/articles/dataset/Geochemical_and_C-O_isotopic_study_of_ophiolite-derived_carbonates_of_the_Barzaman_Formation_Oman_Evidence_of_natural_CO2_sequestration_via_carbonation_of_ultramafic_clasts/14723568",
         "pdf_url": null,
@@ -82392,8 +82607,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -82561,6 +82776,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2139/ssrn.4871920",
+        "doi": "https://doi.org/10.2139/ssrn.4871920",
         "is_oa": true,
         "landing_page_url": "http://dx.doi.org/10.2139/ssrn.4871920",
         "pdf_url": null,
@@ -83213,6 +83429,7 @@
       "locations": [
         {
           "id": "doi:10.2139/ssrn.4871920",
+          "doi": "https://doi.org/10.2139/ssrn.4871920",
           "is_oa": true,
           "landing_page_url": "http://dx.doi.org/10.2139/ssrn.4871920",
           "pdf_url": null,
@@ -83246,6 +83463,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.2139/ssrn.4871920",
+        "doi": "https://doi.org/10.2139/ssrn.4871920",
         "is_oa": true,
         "landing_page_url": "http://dx.doi.org/10.2139/ssrn.4871920",
         "pdf_url": null,
@@ -83288,8 +83506,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -83388,6 +83606,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2139/ssrn.4877538",
+        "doi": "https://doi.org/10.2139/ssrn.4877538",
         "is_oa": true,
         "landing_page_url": "http://doi.org/10.2139/ssrn.4877538",
         "pdf_url": null,
@@ -83787,6 +84006,7 @@
       "locations": [
         {
           "id": "doi:10.2139/ssrn.4877538",
+          "doi": "https://doi.org/10.2139/ssrn.4877538",
           "is_oa": true,
           "landing_page_url": "http://doi.org/10.2139/ssrn.4877538",
           "pdf_url": null,
@@ -83820,6 +84040,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.2139/ssrn.4877538",
+        "doi": "https://doi.org/10.2139/ssrn.4877538",
         "is_oa": true,
         "landing_page_url": "http://doi.org/10.2139/ssrn.4877538",
         "pdf_url": null,
@@ -83868,8 +84089,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -83956,6 +84177,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1002/gj.5205/v2/response1",
+        "doi": "https://doi.org/10.1002/gj.5205/v2/response1",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1002/gj.5205/v2/response1",
         "pdf_url": null,
@@ -84248,6 +84470,7 @@
       "locations": [
         {
           "id": "doi:10.1002/gj.5205/v2/response1",
+          "doi": "https://doi.org/10.1002/gj.5205/v2/response1",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1002/gj.5205/v2/response1",
           "pdf_url": null,
@@ -84274,8 +84497,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -84311,6 +84534,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s12517-025-12331-0",
+        "doi": "https://doi.org/10.1007/s12517-025-12331-0",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s12517-025-12331-0",
         "pdf_url": null,
@@ -84659,7 +84883,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.17237059,
+        "value": 0.19930358,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -84943,6 +85167,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s12517-025-12331-0",
+          "doi": "https://doi.org/10.1007/s12517-025-12331-0",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s12517-025-12331-0",
           "pdf_url": null,
@@ -85002,8 +85227,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -85098,6 +85323,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/978-3-031-87558-8_11",
+        "doi": "https://doi.org/10.1007/978-3-031-87558-8_11",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/978-3-031-87558-8_11",
         "pdf_url": null,
@@ -85563,7 +85789,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3575,
+        "value": 0.36271401,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -85883,6 +86109,7 @@
       "locations": [
         {
           "id": "doi:10.1007/978-3-031-87558-8_11",
+          "doi": "https://doi.org/10.1007/978-3-031-87558-8_11",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/978-3-031-87558-8_11",
           "pdf_url": null,
@@ -85936,8 +86163,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -85976,6 +86203,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/978-3-031-87558-8_63",
+        "doi": "https://doi.org/10.1007/978-3-031-87558-8_63",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/978-3-031-87558-8_63",
         "pdf_url": null,
@@ -86381,7 +86609,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.45331964,
+        "value": 0.46815583,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -86683,6 +86911,7 @@
       "locations": [
         {
           "id": "doi:10.1007/978-3-031-87558-8_63",
+          "doi": "https://doi.org/10.1007/978-3-031-87558-8_63",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/978-3-031-87558-8_63",
           "pdf_url": null,
@@ -86730,8 +86959,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -86770,6 +86999,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/978-981-95-0716-0_27",
+        "doi": "https://doi.org/10.1007/978-981-95-0716-0_27",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/978-981-95-0716-0_27",
         "pdf_url": null,
@@ -87117,7 +87347,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.44983462,
+        "value": 0.4614949,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -87400,6 +87630,7 @@
       "locations": [
         {
           "id": "doi:10.1007/978-981-95-0716-0_27",
+          "doi": "https://doi.org/10.1007/978-981-95-0716-0_27",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/978-981-95-0716-0_27",
           "pdf_url": null,
@@ -87445,8 +87676,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -87477,6 +87708,7 @@
       "language": null,
       "primary_location": {
         "id": "doi:10.21203/rs.3.rs-7858452/v1",
+        "doi": "https://doi.org/10.21203/rs.3.rs-7858452/v1",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.21203/rs.3.rs-7858452/v1",
         "pdf_url": "https://www.researchsquare.com/article/rs-7858452/latest.pdf",
@@ -88078,6 +88310,7 @@
       "locations": [
         {
           "id": "doi:10.21203/rs.3.rs-7858452/v1",
+          "doi": "https://doi.org/10.21203/rs.3.rs-7858452/v1",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.21203/rs.3.rs-7858452/v1",
           "pdf_url": "https://www.researchsquare.com/article/rs-7858452/latest.pdf",
@@ -88107,6 +88340,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.21203/rs.3.rs-7858452/v1",
+        "doi": "https://doi.org/10.21203/rs.3.rs-7858452/v1",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.21203/rs.3.rs-7858452/v1",
         "pdf_url": "https://www.researchsquare.com/article/rs-7858452/latest.pdf",
@@ -88150,8 +88384,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4416331979.pdf",
@@ -88210,6 +88444,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.3390/earth6040157",
+        "doi": "https://doi.org/10.3390/earth6040157",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3390/earth6040157",
         "pdf_url": "https://www.mdpi.com/2673-4834/6/4/157/pdf?version=1765542124",
@@ -88559,7 +88794,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.23844494,
+        "value": 0.24117194,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -88952,6 +89187,7 @@
       "locations": [
         {
           "id": "doi:10.3390/earth6040157",
+          "doi": "https://doi.org/10.3390/earth6040157",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.3390/earth6040157",
           "pdf_url": "https://www.mdpi.com/2673-4834/6/4/157/pdf?version=1765542124",
@@ -88989,6 +89225,7 @@
         },
         {
           "id": "pmh:oai:doaj.org/article:b14b07addacb4bf0b667415c9f9503b9",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://doaj.org/article/b14b07addacb4bf0b667415c9f9503b9",
           "pdf_url": null,
@@ -89018,6 +89255,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.3390/earth6040157",
+        "doi": "https://doi.org/10.3390/earth6040157",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3390/earth6040157",
         "pdf_url": "https://www.mdpi.com/2673-4834/6/4/157/pdf?version=1765542124",
@@ -89076,8 +89314,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4417275861.pdf",
@@ -89541,6 +89779,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.3390/hydrology13010018",
+        "doi": "https://doi.org/10.3390/hydrology13010018",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3390/hydrology13010018",
         "pdf_url": "https://www.mdpi.com/2306-5338/13/1/18/pdf",
@@ -89864,7 +90103,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.01366821,
+        "value": 0.01358824,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -90233,6 +90472,7 @@
       "locations": [
         {
           "id": "doi:10.3390/hydrology13010018",
+          "doi": "https://doi.org/10.3390/hydrology13010018",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.3390/hydrology13010018",
           "pdf_url": "https://www.mdpi.com/2306-5338/13/1/18/pdf",
@@ -90271,6 +90511,7 @@
         },
         {
           "id": "doi:10.20944/preprints202511.0338.v1",
+          "doi": "https://doi.org/10.20944/preprints202511.0338.v1",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.20944/preprints202511.0338.v1",
           "pdf_url": "https://www.preprints.org/frontend/manuscript/5ee8ede70abf17b27d1baf0a6437b9f5/download_pub",
@@ -90303,6 +90544,7 @@
         },
         {
           "id": "pmh:oai:doaj.org/article:8493d47a45cd4edc8b14fd22e5f0877c",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://doaj.org/article/8493d47a45cd4edc8b14fd22e5f0877c",
           "pdf_url": null,
@@ -90332,6 +90574,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.3390/hydrology13010018",
+        "doi": "https://doi.org/10.3390/hydrology13010018",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3390/hydrology13010018",
         "pdf_url": "https://www.mdpi.com/2306-5338/13/1/18/pdf",
@@ -90370,19 +90613,14 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157,
-          "display_name": "Clean water and sanitation"
-        },
-        {
           "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
           "display_name": "Climate action"
         },
         {
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5142999887466431,
-          "display_name": "Sustainable cities and communities"
+          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.4390000104904175,
+          "display_name": "Life on land"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -90396,8 +90634,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7118183296.pdf",
@@ -91090,7 +91328,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-09T09:14:12.587421",
       "created_date": "2026-01-05T00:00:00"
     },
     {
@@ -91108,6 +91346,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1038/s41598-026-35935-2",
+        "doi": "https://doi.org/10.1038/s41598-026-35935-2",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1038/s41598-026-35935-2",
         "pdf_url": "https://www.nature.com/articles/s41598-026-35935-2.pdf",
@@ -91349,7 +91588,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.08770794,
+        "value": 0.08338373,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -91714,6 +91953,7 @@
       "locations": [
         {
           "id": "doi:10.1038/s41598-026-35935-2",
+          "doi": "https://doi.org/10.1038/s41598-026-35935-2",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1038/s41598-026-35935-2",
           "pdf_url": "https://www.nature.com/articles/s41598-026-35935-2.pdf",
@@ -91758,6 +91998,7 @@
         },
         {
           "id": "pmid:41673025",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41673025",
           "pdf_url": null,
@@ -91788,6 +92029,7 @@
         },
         {
           "id": "pmh:oai:pubmedcentral.nih.gov:12972080",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41673025/",
           "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12972080/pdf/41598_2026_Article_35935.pdf",
@@ -91818,6 +92060,7 @@
         },
         {
           "id": "pmh:oai:doaj.org/article:0907d3a310c44189bc964fdedf74c7b9",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://doaj.org/article/0907d3a310c44189bc964fdedf74c7b9",
           "pdf_url": null,
@@ -91847,6 +92090,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.1038/s41598-026-35935-2",
+        "doi": "https://doi.org/10.1038/s41598-026-35935-2",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1038/s41598-026-35935-2",
         "pdf_url": "https://www.nature.com/articles/s41598-026-35935-2.pdf",
@@ -91901,8 +92145,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7128590603.pdf",
@@ -92530,6 +92774,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s10347-026-00725-9",
+        "doi": "https://doi.org/10.1007/s10347-026-00725-9",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1007/s10347-026-00725-9",
         "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10347-026-00725-9.pdf",
@@ -92880,7 +93125,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.0881837,
+        "value": 0.08000649,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -93237,6 +93482,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s10347-026-00725-9",
+          "doi": "https://doi.org/10.1007/s10347-026-00725-9",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1007/s10347-026-00725-9",
           "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10347-026-00725-9.pdf",
@@ -93279,6 +93525,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.1007/s10347-026-00725-9",
+        "doi": "https://doi.org/10.1007/s10347-026-00725-9",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1007/s10347-026-00725-9",
         "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10347-026-00725-9.pdf",
@@ -93336,8 +93583,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7128594328.pdf",
@@ -93955,6 +94202,7 @@
       "language": null,
       "primary_location": {
         "id": "doi:10.5194/egusphere-egu26-16562",
+        "doi": "https://doi.org/10.5194/egusphere-egu26-16562",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.5194/egusphere-egu26-16562",
         "pdf_url": null,
@@ -94522,6 +94770,7 @@
       "locations": [
         {
           "id": "doi:10.5194/egusphere-egu26-16562",
+          "doi": "https://doi.org/10.5194/egusphere-egu26-16562",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.5194/egusphere-egu26-16562",
           "pdf_url": null,
@@ -94537,6 +94786,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.5194/egusphere-egu26-16562",
+        "doi": "https://doi.org/10.5194/egusphere-egu26-16562",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.5194/egusphere-egu26-16562",
         "pdf_url": null,
@@ -94561,8 +94811,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

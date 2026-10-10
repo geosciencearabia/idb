@@ -12,7 +12,7 @@
     ],
     "full_name": "Hussain F. Al Ajmi",
     "works_count": 17,
-    "cited_by_count": 108,
+    "cited_by_count": 106,
     "summary_stats": {
       "2yr_mean_citedness": 5.5,
       "h_index": 5,
@@ -160,7 +160,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000252,
+        "value": 0.0000255,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -177,7 +177,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000171,
+        "value": 0.0000173,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -194,7 +194,7 @@
       {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "value": 0.0000165,
+        "value": 0.0000167,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -211,7 +211,7 @@
       {
         "id": "https://openalex.org/T10894",
         "display_name": "Groundwater flow and contamination studies",
-        "value": 0.0000162,
+        "value": 0.0000164,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -228,7 +228,7 @@
       {
         "id": "https://openalex.org/T10398",
         "display_name": "Groundwater and Isotope Geochemistry",
-        "value": 0.0000144,
+        "value": 0.0000147,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -310,7 +310,7 @@
         "year": 2014,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 15
+        "cited_by_count": 14
       },
       {
         "year": 2017,
@@ -322,7 +322,7 @@
         "year": 2018,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 29
+        "cited_by_count": 28
       },
       {
         "year": 2025,
@@ -345,7 +345,7 @@
     ],
     "block_key": "h al ajmi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5047482366",
-    "updated_date": "2026-10-05T12:30:24",
+    "updated_date": "2026-10-08T12:30:13",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -363,6 +363,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.3390/rs17050766",
+        "doi": "https://doi.org/10.3390/rs17050766",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3390/rs17050766",
         "pdf_url": null,
@@ -660,11 +661,11 @@
         "currency": "CHF",
         "value_usd": 3258
       },
-      "fwci": 3.3707,
+      "fwci": 3.2072,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.92105468,
+        "value": 0.91619873,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -863,6 +864,7 @@
       "locations": [
         {
           "id": "doi:10.3390/rs17050766",
+          "doi": "https://doi.org/10.3390/rs17050766",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.3390/rs17050766",
           "pdf_url": null,
@@ -902,6 +904,7 @@
         },
         {
           "id": "pmh:oai:USBKOELN.ub.uni-koeln.de:79449",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://orcid.org/0000-0003-3182-0071>,",
           "pdf_url": null,
@@ -932,6 +935,7 @@
         },
         {
           "id": "pmh:oai:doaj.org/article:0dee69d7e36c4dbe8407ad485151022f",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://doaj.org/article/0dee69d7e36c4dbe8407ad485151022f",
           "pdf_url": null,
@@ -961,6 +965,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.3390/rs17050766",
+        "doi": "https://doi.org/10.3390/rs17050766",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3390/rs17050766",
         "pdf_url": null,
@@ -1001,8 +1006,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.965499997138977,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -1010,8 +1015,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -1795,6 +1800,7 @@
       "language": "no",
       "primary_location": {
         "id": "doi:10.1007/s00767-017-0388-6",
+        "doi": "https://doi.org/10.1007/s00767-017-0388-6",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s00767-017-0388-6",
         "pdf_url": null,
@@ -1967,11 +1973,11 @@
         "value_usd": 2290
       },
       "apc_paid": null,
-      "fwci": 0.6915,
+      "fwci": 0.691,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.66559642,
+        "value": 0.66559611,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2217,6 +2223,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s00767-017-0388-6",
+          "doi": "https://doi.org/10.1007/s00767-017-0388-6",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s00767-017-0388-6",
           "pdf_url": null,
@@ -2258,6 +2265,7 @@
         },
         {
           "id": "pmh:oai:digitalcommons.usf.edu:kip_articles-7875",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://digitalcommons.usf.edu/kip_articles/6875",
           "pdf_url": null,
@@ -2291,23 +2299,23 @@
       "sustainable_development_goals": [
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -2392,6 +2400,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s10040-010-0609-x",
+        "doi": "https://doi.org/10.1007/s10040-010-0609-x",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s10040-010-0609-x",
         "pdf_url": null,
@@ -2667,11 +2676,11 @@
         "value_usd": 2390
       },
       "apc_paid": null,
-      "fwci": 1.8099,
+      "fwci": 1.8254,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.84517559,
+        "value": 0.84556459,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2921,6 +2930,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s10040-010-0609-x",
+          "doi": "https://doi.org/10.1007/s10040-010-0609-x",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s10040-010-0609-x",
           "pdf_url": null,
@@ -2962,6 +2972,7 @@
         },
         {
           "id": "pmh:oai:tubiblio.ulb.tu-darmstadt.de:40458",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://link.springer.com/article/10.1007/s10040-010-0609-x",
           "pdf_url": null,
@@ -2998,8 +3009,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -3140,6 +3151,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s00767-014-0258-4",
+        "doi": "https://doi.org/10.1007/s00767-014-0258-4",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s00767-014-0258-4",
         "pdf_url": null,
@@ -3540,11 +3552,11 @@
         "value_usd": 2290
       },
       "apc_paid": null,
-      "fwci": 1.5186,
+      "fwci": 1.5182,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.81083409,
+        "value": 0.81082079,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3795,6 +3807,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s00767-014-0258-4",
+          "doi": "https://doi.org/10.1007/s00767-014-0258-4",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s00767-014-0258-4",
           "pdf_url": null,
@@ -3836,6 +3849,7 @@
         },
         {
           "id": "pmh:oai:tubiblio.ulb.tu-darmstadt.de:74128",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://link.springer.com/article/10.1007/s00767-014-0258-4",
           "pdf_url": null,
@@ -3872,8 +3886,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -3953,6 +3967,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s12517-013-0918-1",
+        "doi": "https://doi.org/10.1007/s12517-013-0918-1",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s12517-013-0918-1",
         "pdf_url": null,
@@ -4181,11 +4196,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.3366,
+      "fwci": 1.3441,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.79915887,
+        "value": 0.7994326,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4422,6 +4437,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s12517-013-0918-1",
+          "doi": "https://doi.org/10.1007/s12517-013-0918-1",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s12517-013-0918-1",
           "pdf_url": null,
@@ -4465,16 +4481,16 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -4549,6 +4565,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s12517-016-2800-4",
+        "doi": "https://doi.org/10.1007/s12517-016-2800-4",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s12517-016-2800-4",
         "pdf_url": null,
@@ -4721,16 +4738,16 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.8168,
+      "fwci": 0.8279,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.71002132,
+        "value": 0.709668,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 95
       },
       "biblio": {
@@ -4993,6 +5010,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s12517-016-2800-4",
+          "doi": "https://doi.org/10.1007/s12517-016-2800-4",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s12517-016-2800-4",
           "pdf_url": null,
@@ -5036,16 +5054,16 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -5130,6 +5148,7 @@
       "language": "en",
       "primary_location": {
         "id": "mag:1957217261",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "https://tubiblio.ulb.tu-darmstadt.de/74220/",
         "pdf_url": null,
@@ -5229,11 +5248,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6023,
+      "fwci": 1.6014,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.80729086,
+        "value": 0.80723486,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5410,6 +5429,7 @@
       "locations": [
         {
           "id": "mag:1957217261",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://tubiblio.ulb.tu-darmstadt.de/74220/",
           "pdf_url": null,
@@ -5430,8 +5450,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -5492,6 +5512,7 @@
       "language": "en",
       "primary_location": {
         "id": "pmh:oai:tubiblio.ulb.tu-darmstadt.de:40460",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "http://tubiblio.ulb.tu-darmstadt.de/40460/",
         "pdf_url": null,
@@ -5935,6 +5956,7 @@
       "locations": [
         {
           "id": "pmh:oai:tubiblio.ulb.tu-darmstadt.de:40460",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://tubiblio.ulb.tu-darmstadt.de/40460/",
           "pdf_url": null,
@@ -5965,6 +5987,7 @@
         },
         {
           "id": "mag:1039998118",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://www.psipw.org/attachments/article/300/IJWRAE_1(1)33-37.pdf",
           "pdf_url": null,
@@ -5982,23 +6005,23 @@
       "sustainable_development_goals": [
         {
           "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6482,6 +6505,7 @@
       "language": "en",
       "primary_location": {
         "id": "pmh:oai:tuprints.ulb.tu-darmstadt.de:3581",
+        "doi": null,
         "is_oa": true,
         "landing_page_url": "https://tuprints.ulb.tu-darmstadt.de/3581/7/Annex.zip",
         "pdf_url": null,
@@ -6547,7 +6571,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7273,
+      "fwci": 0.7285,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
@@ -6773,6 +6797,7 @@
       "locations": [
         {
           "id": "pmh:oai:tuprints.ulb.tu-darmstadt.de:3581",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://tuprints.ulb.tu-darmstadt.de/3581/7/Annex.zip",
           "pdf_url": null,
@@ -6803,6 +6828,7 @@
         },
         {
           "id": "pmh:oai:tuprints.ulb.tu-darmstadt.de:3416",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://tuprints.ulb.tu-darmstadt.de/3416/7/Annex.zip",
           "pdf_url": "https://tuprints.ulb.tu-darmstadt.de/3416/1/PhD%20thesis%20Al-Ajmi.pdf",
@@ -6833,6 +6859,7 @@
         },
         {
           "id": "pmh:oai:tuprints.ulb.tu-darmstadt.de:tuda/14482",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.26083/tuprints-00003416",
           "pdf_url": null,
@@ -6863,6 +6890,7 @@
         },
         {
           "id": "pmh:oai:tuprints.ulb.tu-darmstadt.de:tuda/14483",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.26083/tuprints-00003581",
           "pdf_url": null,
@@ -6893,6 +6921,7 @@
         },
         {
           "id": "doi:10.26083/tuprints-00003416",
+          "doi": "https://doi.org/10.26083/tuprints-00003416",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.26083/tuprints-00003416",
           "pdf_url": null,
@@ -6923,6 +6952,7 @@
         },
         {
           "id": "doi:10.26083/tuprints-00003581",
+          "doi": "https://doi.org/10.26083/tuprints-00003581",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.26083/tuprints-00003581",
           "pdf_url": null,
@@ -6953,6 +6983,7 @@
         },
         {
           "id": "mag:1747876392",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://tubiblio.ulb.tu-darmstadt.de/62445/",
           "pdf_url": null,
@@ -6968,6 +6999,7 @@
       ],
       "best_oa_location": {
         "id": "pmh:oai:tuprints.ulb.tu-darmstadt.de:3581",
+        "doi": null,
         "is_oa": true,
         "landing_page_url": "https://tuprints.ulb.tu-darmstadt.de/3581/7/Annex.zip",
         "pdf_url": null,
@@ -7002,8 +7034,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9852,6 +9884,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/978-3-642-24076-8_3",
+        "doi": "https://doi.org/10.1007/978-3-642-24076-8_3",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/978-3-642-24076-8_3",
         "pdf_url": null,
@@ -10056,16 +10089,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7385,
+      "fwci": 0.7396,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.67301587,
+        "value": 0.67303609,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 93
       },
       "biblio": {
@@ -10293,6 +10326,7 @@
       "locations": [
         {
           "id": "doi:10.1007/978-3-642-24076-8_3",
+          "doi": "https://doi.org/10.1007/978-3-642-24076-8_3",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/978-3-642-24076-8_3",
           "pdf_url": null,
@@ -10325,6 +10359,7 @@
         },
         {
           "id": "pmh:oai:iris.unife.it:11392/1532994",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://link.springer.com/chapter/10.1007/978-3-642-24076-8_33",
           "pdf_url": null,
@@ -10361,8 +10396,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -10408,6 +10443,7 @@
       "language": "en",
       "primary_location": {
         "id": "pmh:oai:tubiblio.ulb.tu-darmstadt.de:40525",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "http://tubiblio.ulb.tu-darmstadt.de/40525/",
         "pdf_url": null,
@@ -10549,7 +10585,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.05683646,
+        "value": 0.05717368,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10777,6 +10813,7 @@
       "locations": [
         {
           "id": "pmh:oai:tubiblio.ulb.tu-darmstadt.de:40525",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://tubiblio.ulb.tu-darmstadt.de/40525/",
           "pdf_url": null,
@@ -10807,6 +10844,7 @@
         },
         {
           "id": "mag:1768466306",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://tubiblio.ulb.tu-darmstadt.de/40525/",
           "pdf_url": null,
@@ -10825,16 +10863,16 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.6299999952316284,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11003,6 +11041,7 @@
       "language": "en",
       "primary_location": {
         "id": "mag:1772965597",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "https://tubiblio.ulb.tu-darmstadt.de/40524/",
         "pdf_url": null,
@@ -11106,7 +11145,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.11732141,
+        "value": 0.11735889,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11303,6 +11342,7 @@
       "locations": [
         {
           "id": "mag:1772965597",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://tubiblio.ulb.tu-darmstadt.de/40524/",
           "pdf_url": null,
@@ -11323,8 +11363,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11370,6 +11410,7 @@
       "language": "en",
       "primary_location": {
         "id": "pmh:oai:tubiblio.ulb.tu-darmstadt.de:40456",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "http://tubiblio.ulb.tu-darmstadt.de/40456/",
         "pdf_url": null,
@@ -11489,7 +11530,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.05790885,
+        "value": 0.05825243,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11705,6 +11746,7 @@
       "locations": [
         {
           "id": "pmh:oai:tubiblio.ulb.tu-darmstadt.de:40456",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://tubiblio.ulb.tu-darmstadt.de/40456/",
           "pdf_url": null,
@@ -11735,6 +11777,7 @@
         },
         {
           "id": "pmh:oai:tubiblio.ulb.tu-darmstadt.de:40527",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "http://tubiblio.ulb.tu-darmstadt.de/40527/",
           "pdf_url": "http://sarv.gi.ee/igcp503/pdfs/copenhagen2009_abstracts.pdf",
@@ -11765,6 +11808,7 @@
         },
         {
           "id": "mag:1821045717",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://tubiblio.ulb.tu-darmstadt.de/40527/",
           "pdf_url": null,
@@ -11780,6 +11824,7 @@
       ],
       "best_oa_location": {
         "id": "pmh:oai:tubiblio.ulb.tu-darmstadt.de:40527",
+        "doi": null,
         "is_oa": true,
         "landing_page_url": "http://tubiblio.ulb.tu-darmstadt.de/40527/",
         "pdf_url": "http://sarv.gi.ee/igcp503/pdfs/copenhagen2009_abstracts.pdf",
@@ -11814,8 +11859,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1821045717.pdf",
@@ -12419,6 +12464,7 @@
       "language": "en",
       "primary_location": {
         "id": "pmh:oai:tubiblio.ulb.tu-darmstadt.de:40454",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "http://tubiblio.ulb.tu-darmstadt.de/40454/",
         "pdf_url": null,
@@ -12706,6 +12752,7 @@
       "locations": [
         {
           "id": "pmh:oai:tubiblio.ulb.tu-darmstadt.de:40454",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://tubiblio.ulb.tu-darmstadt.de/40454/",
           "pdf_url": null,
@@ -12736,6 +12783,7 @@
         },
         {
           "id": "pmh:oai:tubiblio.ulb.tu-darmstadt.de:40528",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://tubiblio.ulb.tu-darmstadt.de/40528/",
           "pdf_url": null,
@@ -12766,6 +12814,7 @@
         },
         {
           "id": "mag:1930551987",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://tubiblio.ulb.tu-darmstadt.de/40454/",
           "pdf_url": null,
@@ -12784,16 +12833,16 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.6000000238418579,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -12844,6 +12893,7 @@
       "language": "en",
       "primary_location": {
         "id": "mag:436324498",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "https://tubiblio.ulb.tu-darmstadt.de/40461/",
         "pdf_url": null,
@@ -12947,7 +12997,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.06008634,
+        "value": 0.0602304,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13127,6 +13177,7 @@
       "locations": [
         {
           "id": "mag:436324498",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://tubiblio.ulb.tu-darmstadt.de/40461/",
           "pdf_url": null,
@@ -13147,8 +13198,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13194,6 +13245,7 @@
       "language": null,
       "primary_location": {
         "id": "doi:10.2118/232716-ms",
+        "doi": "https://doi.org/10.2118/232716-ms",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2118/232716-ms",
         "pdf_url": null,
@@ -13722,7 +13774,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.27870813,
+        "value": 0.27961076,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14005,6 +14057,7 @@
       "locations": [
         {
           "id": "doi:10.2118/232716-ms",
+          "doi": "https://doi.org/10.2118/232716-ms",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2118/232716-ms",
           "pdf_url": null,
@@ -14037,16 +14090,16 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.6469302177429199,
-          "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14580,6 +14633,7 @@
       "language": "en",
       "primary_location": {
         "id": "pmh:oai:tubiblio.ulb.tu-darmstadt.de:74336",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "http://tubiblio.ulb.tu-darmstadt.de/74336/",
         "pdf_url": null,
@@ -14767,7 +14821,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.05633803,
+        "value": 0.05630027,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14941,6 +14995,7 @@
       "locations": [
         {
           "id": "pmh:oai:tubiblio.ulb.tu-darmstadt.de:74336",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://tubiblio.ulb.tu-darmstadt.de/74336/",
           "pdf_url": null,
@@ -14971,6 +15026,7 @@
         },
         {
           "id": "mag:958515711",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://tubiblio.ulb.tu-darmstadt.de/74336/",
           "pdf_url": null,
@@ -14991,8 +15047,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

@@ -16,7 +16,7 @@
     ],
     "full_name": "Mohammed A. Al-Masrahy",
     "works_count": 17,
-    "cited_by_count": 268,
+    "cited_by_count": 267,
     "summary_stats": {
       "2yr_mean_citedness": 2.2857142857142856,
       "h_index": 5,
@@ -192,7 +192,7 @@
       {
         "id": "https://openalex.org/T12383",
         "display_name": "Aeolian processes and effects",
-        "value": 0.000081,
+        "value": 0.0000824,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -209,7 +209,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000264,
+        "value": 0.0000267,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -226,7 +226,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000261,
+        "value": 0.0000263,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -243,7 +243,7 @@
       {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "value": 0.000011,
+        "value": 0.0000111,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -324,7 +324,7 @@
         "year": 2015,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 157
+        "cited_by_count": 156
       },
       {
         "year": 2017,
@@ -379,7 +379,7 @@
     ],
     "block_key": "m al-masrahy",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5042665751",
-    "updated_date": "2026-10-05T12:30:24",
+    "updated_date": "2026-10-08T12:30:13",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -398,6 +398,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.aeolia.2015.01.010",
+        "doi": "https://doi.org/10.1016/j.aeolia.2015.01.010",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.aeolia.2015.01.010",
         "pdf_url": null,
@@ -556,11 +557,11 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 14.0043,
+      "fwci": 13.999,
       "has_fulltext": true,
-      "cited_by_count": 156,
+      "cited_by_count": 157,
       "citation_normalized_percentile": {
-        "value": 0.99310684,
+        "value": 0.99310798,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -739,6 +740,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.aeolia.2015.01.010",
+          "doi": "https://doi.org/10.1016/j.aeolia.2015.01.010",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.aeolia.2015.01.010",
           "pdf_url": null,
@@ -778,6 +780,7 @@
         },
         {
           "id": "pmh:oai:eprints.whiterose.ac.uk:89057",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://eprints.whiterose.ac.uk/89057/1/Almasrahy%20and%20Mountney%202015%20Aeolian%20Research.pdf",
           "pdf_url": "https://eprints.whiterose.ac.uk/89057/1/Almasrahy%20and%20Mountney%202015%20Aeolian%20Research.pdf",
@@ -809,6 +812,7 @@
       ],
       "best_oa_location": {
         "id": "pmh:oai:eprints.whiterose.ac.uk:89057",
+        "doi": null,
         "is_oa": true,
         "landing_page_url": "https://eprints.whiterose.ac.uk/89057/1/Almasrahy%20and%20Mountney%202015%20Aeolian%20Research.pdf",
         "pdf_url": "https://eprints.whiterose.ac.uk/89057/1/Almasrahy%20and%20Mountney%202015%20Aeolian%20Research.pdf",
@@ -860,8 +864,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1999436875.pdf",
@@ -1003,7 +1007,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 10
+          "cited_by_count": 11
         },
         {
           "year": 2025,
@@ -1054,7 +1058,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-09T09:14:12.587421",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1072,6 +1076,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.aeolia.2013.06.004",
+        "doi": "https://doi.org/10.1016/j.aeolia.2013.06.004",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.aeolia.2013.06.004",
         "pdf_url": null,
@@ -1230,11 +1235,11 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 3.1188,
+      "fwci": 3.1362,
       "has_fulltext": false,
       "cited_by_count": 75,
       "citation_normalized_percentile": {
-        "value": 0.89194061,
+        "value": 0.8926238,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1433,6 +1438,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.aeolia.2013.06.004",
+          "doi": "https://doi.org/10.1016/j.aeolia.2013.06.004",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.aeolia.2013.06.004",
           "pdf_url": null,
@@ -1472,6 +1478,7 @@
         },
         {
           "id": "pmh:oai:eprints.whiterose.ac.uk:80266",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://eprints.whiterose.ac.uk/80266/1/Remote%20sensing%20of%20spatial%20variability%20in%20aeolian%20dune%20and%20interdune%20morphology.pdf",
           "pdf_url": "http://eprints.whiterose.ac.uk/80266/1/Remote%20sensing%20of%20spatial%20variability%20in%20aeolian%20dune%20and%20interdune%20morphology.pdf",
@@ -1520,8 +1527,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -1696,6 +1703,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2118/188092-ms",
+        "doi": "https://doi.org/10.2118/188092-ms",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2118/188092-ms",
         "pdf_url": null,
@@ -1799,11 +1807,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.3519,
+      "fwci": 8.4469,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.96024233,
+        "value": 0.96077685,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1995,6 +2003,7 @@
       "locations": [
         {
           "id": "doi:10.2118/188092-ms",
+          "doi": "https://doi.org/10.2118/188092-ms",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2118/188092-ms",
           "pdf_url": null,
@@ -2041,8 +2050,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -2955,6 +2964,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2523/iptc-24446-ea",
+        "doi": "https://doi.org/10.2523/iptc-24446-ea",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2523/iptc-24446-ea",
         "pdf_url": null,
@@ -3126,11 +3136,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 14.4693,
+      "fwci": 14.0036,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.98602097,
+        "value": 0.98609681,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3357,6 +3367,7 @@
       "locations": [
         {
           "id": "doi:10.2523/iptc-24446-ea",
+          "doi": "https://doi.org/10.2523/iptc-24446-ea",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2523/iptc-24446-ea",
           "pdf_url": null,
@@ -3391,8 +3402,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -4182,6 +4193,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s13369-023-08590-2",
+        "doi": "https://doi.org/10.1007/s13369-023-08590-2",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s13369-023-08590-2",
         "pdf_url": null,
@@ -4654,11 +4666,11 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 1.2403,
+      "fwci": 1.22,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.71639178,
+        "value": 0.71137378,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4895,6 +4907,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s13369-023-08590-2",
+          "doi": "https://doi.org/10.1007/s13369-023-08590-2",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s13369-023-08590-2",
           "pdf_url": null,
@@ -4957,8 +4970,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -5070,6 +5083,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2523/19635-abstract",
+        "doi": "https://doi.org/10.2523/19635-abstract",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2523/19635-abstract",
         "pdf_url": null,
@@ -5135,11 +5149,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5593,
+      "fwci": 1.5647,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.86329588,
+        "value": 0.86269592,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5309,6 +5323,7 @@
       "locations": [
         {
           "id": "doi:10.2523/19635-abstract",
+          "doi": "https://doi.org/10.2523/19635-abstract",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2523/19635-abstract",
           "pdf_url": null,
@@ -5349,8 +5364,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -5438,6 +5453,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1111/sed.70000",
+        "doi": "https://doi.org/10.1111/sed.70000",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1111/sed.70000",
         "pdf_url": null,
@@ -5728,16 +5744,16 @@
         "currency": "USD",
         "value_usd": 4250
       },
-      "fwci": 2.1322,
+      "fwci": 2.036,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.82900225,
+        "value": 0.82087912,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 97
       },
       "biblio": {
@@ -5953,6 +5969,7 @@
       "locations": [
         {
           "id": "doi:10.1111/sed.70000",
+          "doi": "https://doi.org/10.1111/sed.70000",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1111/sed.70000",
           "pdf_url": null,
@@ -5993,6 +6010,7 @@
         },
         {
           "id": "pmh:oai:eprints.whiterose.ac.uk:229314",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://eprints.whiterose.ac.uk/id/eprint/229314/1/Sedimentology%20-%202025%20-%20Cosgrove%20-%20Quantitative%20sedimentological%20analysis%20of%20the%20aeolian%20fluvial%20Triassic%20Sherwood%20Sandstone.pdf",
           "pdf_url": "https://eprints.whiterose.ac.uk/id/eprint/229314/1/Sedimentology%20-%202025%20-%20Cosgrove%20-%20Quantitative%20sedimentological%20analysis%20of%20the%20aeolian%20fluvial%20Triassic%20Sherwood%20Sandstone.pdf",
@@ -6024,6 +6042,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.1111/sed.70000",
+        "doi": "https://doi.org/10.1111/sed.70000",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1111/sed.70000",
         "pdf_url": null,
@@ -6124,8 +6143,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 127,
@@ -7049,6 +7068,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2523/iptc-19635-abstract",
+        "doi": "https://doi.org/10.2523/iptc-19635-abstract",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2523/iptc-19635-abstract",
         "pdf_url": null,
@@ -7152,11 +7172,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5593,
+      "fwci": 1.5647,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.74157303,
+        "value": 0.74043887,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7386,6 +7406,7 @@
       "locations": [
         {
           "id": "doi:10.2523/iptc-19635-abstract",
+          "doi": "https://doi.org/10.2523/iptc-19635-abstract",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2523/iptc-19635-abstract",
           "pdf_url": null,
@@ -7426,8 +7447,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -8346,6 +8367,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2110/jsr.2020.077",
+        "doi": "https://doi.org/10.2110/jsr.2020.077",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2110/jsr.2020.077",
         "pdf_url": null,
@@ -8614,11 +8636,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3449,
+      "fwci": 0.3445,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.53442758,
+        "value": 0.5263601,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8838,6 +8860,7 @@
       "locations": [
         {
           "id": "doi:10.2110/jsr.2020.077",
+          "doi": "https://doi.org/10.2110/jsr.2020.077",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2110/jsr.2020.077",
           "pdf_url": null,
@@ -8878,6 +8901,7 @@
         },
         {
           "id": "pmh:oai:eprints.whiterose.ac.uk:174387",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://eprints.whiterose.ac.uk/174387/1/Alshammari%20et%20al_2021_JSR%20accepted%20version.pdf",
           "pdf_url": "https://eprints.whiterose.ac.uk/174387/1/Alshammari%20et%20al_2021_JSR%20accepted%20version.pdf",
@@ -8920,8 +8944,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 117,
@@ -9861,6 +9885,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2118/227114-ms",
+        "doi": "https://doi.org/10.2118/227114-ms",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2118/227114-ms",
         "pdf_url": null,
@@ -10064,16 +10089,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.2504,
+      "fwci": 5.9322,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.9456787,
+        "value": 0.94189602,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 94
       },
       "biblio": {
@@ -10381,6 +10406,7 @@
       "locations": [
         {
           "id": "doi:10.2118/227114-ms",
+          "doi": "https://doi.org/10.2118/227114-ms",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2118/227114-ms",
           "pdf_url": null,
@@ -10415,8 +10441,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -11146,6 +11172,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2118/148362-ms",
+        "doi": "https://doi.org/10.2118/148362-ms",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2118/148362-ms",
         "pdf_url": null,
@@ -11401,7 +11428,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.1443609,
+        "value": 0.14567527,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11645,6 +11672,7 @@
       "locations": [
         {
           "id": "doi:10.2118/148362-ms",
+          "doi": "https://doi.org/10.2118/148362-ms",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2118/148362-ms",
           "pdf_url": null,
@@ -11679,8 +11707,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -12199,6 +12227,7 @@
       "language": "en",
       "primary_location": {
         "id": "pmh:oai:etheses.whiterose.ac.uk:12689",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "http://etheses.whiterose.ac.uk/12689/1/Almasrahy%20200667207%20Final%20Thesis.pdf",
         "pdf_url": "http://etheses.whiterose.ac.uk/12689/1/Almasrahy%20200667207%20Final%20Thesis.pdf",
@@ -12459,6 +12488,7 @@
       "locations": [
         {
           "id": "pmh:oai:etheses.whiterose.ac.uk:12689",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://etheses.whiterose.ac.uk/12689/1/Almasrahy%20200667207%20Final%20Thesis.pdf",
           "pdf_url": "http://etheses.whiterose.ac.uk/12689/1/Almasrahy%20200667207%20Final%20Thesis.pdf",
@@ -12489,6 +12519,7 @@
         },
         {
           "id": "mag:2362747289",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://etheses.whiterose.ac.uk/12689/",
           "pdf_url": null,
@@ -12509,8 +12540,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13193,6 +13224,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.3997/2214-4609.2022627031",
+        "doi": "https://doi.org/10.3997/2214-4609.2022627031",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.3997/2214-4609.2022627031",
         "pdf_url": null,
@@ -13399,7 +13431,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37169098,
+        "value": 0.37561509,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13590,6 +13622,7 @@
       "locations": [
         {
           "id": "doi:10.3997/2214-4609.2022627031",
+          "doi": "https://doi.org/10.3997/2214-4609.2022627031",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.3997/2214-4609.2022627031",
           "pdf_url": null,
@@ -13616,8 +13649,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14200,6 +14233,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2118/227188-ms",
+        "doi": "https://doi.org/10.2118/227188-ms",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2118/227188-ms",
         "pdf_url": null,
@@ -14353,7 +14387,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37375965,
+        "value": 0.38335221,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14631,6 +14665,7 @@
       "locations": [
         {
           "id": "doi:10.2118/227188-ms",
+          "doi": "https://doi.org/10.2118/227188-ms",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2118/227188-ms",
           "pdf_url": null,
@@ -14665,8 +14700,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -15687,6 +15722,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2118/226915-ms",
+        "doi": "https://doi.org/10.2118/226915-ms",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2118/226915-ms",
         "pdf_url": null,
@@ -15891,7 +15927,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.39581036,
+        "value": 0.40600227,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16166,6 +16202,7 @@
       "locations": [
         {
           "id": "doi:10.2118/226915-ms",
+          "doi": "https://doi.org/10.2118/226915-ms",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2118/226915-ms",
           "pdf_url": null,
@@ -16200,8 +16237,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -17243,6 +17280,7 @@
       "language": "en",
       "primary_location": {
         "id": "pmh:oai:eprints.kfupm.edu.sa:138468",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "https://eprints.kfupm.edu.sa/id/eprint/138468/1/Aspects_of_Permian_Paleowind_Directions_in_the_Unayzah_A_Reservoir_Subsurface_Eastern_Central_Saudi_Arabia_Utilizing_Integrated_Core_and_Image__Log_Data.pdf",
         "pdf_url": "https://eprints.kfupm.edu.sa/id/eprint/138468/1/Aspects_of_Permian_Paleowind_Directions_in_the_Unayzah_A_Reservoir_Subsurface_Eastern_Central_Saudi_Arabia_Utilizing_Integrated_Core_and_Image__Log_Data.pdf",
@@ -17486,6 +17524,7 @@
       "locations": [
         {
           "id": "pmh:oai:eprints.kfupm.edu.sa:138468",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://eprints.kfupm.edu.sa/id/eprint/138468/1/Aspects_of_Permian_Paleowind_Directions_in_the_Unayzah_A_Reservoir_Subsurface_Eastern_Central_Saudi_Arabia_Utilizing_Integrated_Core_and_Image__Log_Data.pdf",
           "pdf_url": "https://eprints.kfupm.edu.sa/id/eprint/138468/1/Aspects_of_Permian_Paleowind_Directions_in_the_Unayzah_A_Reservoir_Subsurface_Eastern_Central_Saudi_Arabia_Utilizing_Integrated_Core_and_Image__Log_Data.pdf",
@@ -17522,8 +17561,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17548,6 +17587,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.marger.2026.207851",
+        "doi": "https://doi.org/10.1016/j.marger.2026.207851",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.marger.2026.207851",
         "pdf_url": null,
@@ -17763,7 +17803,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.52591293,
+        "value": 0.50048685,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17985,6 +18025,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.marger.2026.207851",
+          "doi": "https://doi.org/10.1016/j.marger.2026.207851",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.marger.2026.207851",
           "pdf_url": null,
@@ -18031,8 +18072,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,

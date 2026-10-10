@@ -12,7 +12,7 @@
     ],
     "full_name": "Ammar J. Abdlmutalib",
     "works_count": 32,
-    "cited_by_count": 143,
+    "cited_by_count": 144,
     "summary_stats": {
       "2yr_mean_citedness": 2.7,
       "h_index": 7,
@@ -154,7 +154,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000546,
+        "value": 0.0000549,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -171,7 +171,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000326,
+        "value": 0.0000329,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -188,7 +188,7 @@
       {
         "id": "https://openalex.org/T12157",
         "display_name": "Geochemistry and Geologic Mapping",
-        "value": 0.0000252,
+        "value": 0.0000254,
         "subfield": {
           "id": "https://openalex.org/subfields/1702",
           "display_name": "Artificial Intelligence"
@@ -205,7 +205,7 @@
       {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "value": 0.000022,
+        "value": 0.0000222,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -222,7 +222,7 @@
       {
         "id": "https://openalex.org/T10491",
         "display_name": "Enhanced Oil Recovery Techniques",
-        "value": 0.0000211,
+        "value": 0.0000212,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -280,7 +280,7 @@
         "year": 2017,
         "works_count": 4,
         "oa_works_count": 0,
-        "cited_by_count": 36
+        "cited_by_count": 37
       },
       {
         "year": 2018,
@@ -337,7 +337,7 @@
     ],
     "block_key": "a abdlmutalib",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5006844997",
-    "updated_date": "2026-10-07T12:33:31",
+    "updated_date": "2026-10-08T12:30:13",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -356,6 +356,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.marpetgeo.2017.11.010",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2017.11.010",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2017.11.010",
         "pdf_url": null,
@@ -656,11 +657,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 1.5949,
+      "fwci": 1.592,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.80590728,
+        "value": 0.80534903,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -982,6 +983,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.marpetgeo.2017.11.010",
+          "doi": "https://doi.org/10.1016/j.marpetgeo.2017.11.010",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2017.11.010",
           "pdf_url": null,
@@ -1024,9 +1026,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -1154,6 +1156,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.marpetgeo.2022.105607",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2022.105607",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2022.105607",
         "pdf_url": null,
@@ -1469,11 +1472,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.7624,
+      "fwci": 1.748,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.81629139,
+        "value": 0.81558484,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1701,6 +1704,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.marpetgeo.2022.105607",
+          "doi": "https://doi.org/10.1016/j.marpetgeo.2022.105607",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2022.105607",
           "pdf_url": null,
@@ -1743,9 +1747,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -1879,6 +1883,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.coal.2025.104767",
+        "doi": "https://doi.org/10.1016/j.coal.2025.104767",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.coal.2025.104767",
         "pdf_url": null,
@@ -2144,11 +2149,11 @@
         "value_usd": 4090
       },
       "apc_paid": null,
-      "fwci": 2.0232,
+      "fwci": 1.9714,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.84520762,
+        "value": 0.84084257,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2415,6 +2420,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.coal.2025.104767",
+          "doi": "https://doi.org/10.1016/j.coal.2025.104767",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.coal.2025.104767",
           "pdf_url": null,
@@ -2587,6 +2593,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1371/journal.pone.0327738",
+        "doi": "https://doi.org/10.1371/journal.pone.0327738",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1371/journal.pone.0327738",
         "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0327738&type=printable",
@@ -2895,11 +2902,11 @@
         "currency": "USD",
         "value_usd": 2382
       },
-      "fwci": 2.3639,
+      "fwci": 2.2478,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.89569335,
+        "value": 0.88982489,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3269,6 +3276,7 @@
       "locations": [
         {
           "id": "doi:10.1371/journal.pone.0327738",
+          "doi": "https://doi.org/10.1371/journal.pone.0327738",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1371/journal.pone.0327738",
           "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0327738&type=printable",
@@ -3312,6 +3320,7 @@
         },
         {
           "id": "pmid:40680021",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40680021",
           "pdf_url": null,
@@ -3342,6 +3351,7 @@
         },
         {
           "id": "pmh:oai:pubmedcentral.nih.gov:12273977",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12273977",
           "pdf_url": null,
@@ -3372,6 +3382,7 @@
         },
         {
           "id": "pmh:oai:doaj.org/article:6a4f94e65b8e47c894a9acbb06e6a1bb",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://doaj.org/article/6a4f94e65b8e47c894a9acbb06e6a1bb",
           "pdf_url": null,
@@ -3401,6 +3412,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.1371/journal.pone.0327738",
+        "doi": "https://doi.org/10.1371/journal.pone.0327738",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1371/journal.pone.0327738",
         "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0327738&type=printable",
@@ -3445,9 +3457,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -4043,6 +4055,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.jafrearsci.2018.10.005",
+        "doi": "https://doi.org/10.1016/j.jafrearsci.2018.10.005",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.jafrearsci.2018.10.005",
         "pdf_url": null,
@@ -4267,16 +4280,16 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 1.1359,
+      "fwci": 1.1277,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.73408479,
+        "value": 0.73202209,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 98
       },
       "biblio": {
@@ -4591,6 +4604,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.jafrearsci.2018.10.005",
+          "doi": "https://doi.org/10.1016/j.jafrearsci.2018.10.005",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.jafrearsci.2018.10.005",
           "pdf_url": null,
@@ -4635,9 +4649,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -4740,6 +4754,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.marpetgeo.2024.106758",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2024.106758",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2024.106758",
         "pdf_url": null,
@@ -4884,11 +4899,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 2.0611,
+      "fwci": 1.9935,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.85811046,
+        "value": 0.85255266,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5095,6 +5110,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.marpetgeo.2024.106758",
+          "doi": "https://doi.org/10.1016/j.marpetgeo.2024.106758",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2024.106758",
           "pdf_url": null,
@@ -5137,9 +5153,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -5243,6 +5259,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s11053-022-10097-w",
+        "doi": "https://doi.org/10.1007/s11053-022-10097-w",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s11053-022-10097-w",
         "pdf_url": null,
@@ -5588,16 +5605,16 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 1.2117,
+      "fwci": 1.2018,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.72985769,
+        "value": 0.72767455,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 97
       },
       "biblio": {
@@ -5941,6 +5958,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s11053-022-10097-w",
+          "doi": "https://doi.org/10.1007/s11053-022-10097-w",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s11053-022-10097-w",
           "pdf_url": null,
@@ -6127,6 +6145,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.marpetgeo.2021.105048",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2021.105048",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2021.105048",
         "pdf_url": null,
@@ -6391,11 +6410,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 0.7333,
+      "fwci": 0.7305,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.60624225,
+        "value": 0.60397797,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6635,6 +6654,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.marpetgeo.2021.105048",
+          "doi": "https://doi.org/10.1016/j.marpetgeo.2021.105048",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2021.105048",
           "pdf_url": null,
@@ -6677,9 +6697,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -6847,6 +6867,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s13369-017-2522-2",
+        "doi": "https://doi.org/10.1007/s13369-017-2522-2",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s13369-017-2522-2",
         "pdf_url": null,
@@ -6998,7 +7019,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.4905819,
+        "value": 0.49060768,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7250,6 +7271,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s13369-017-2522-2",
+          "doi": "https://doi.org/10.1007/s13369-017-2522-2",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s13369-017-2522-2",
           "pdf_url": null,
@@ -7402,6 +7424,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.jafrearsci.2021.104354",
+        "doi": "https://doi.org/10.1016/j.jafrearsci.2021.104354",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.jafrearsci.2021.104354",
         "pdf_url": null,
@@ -7588,16 +7611,16 @@
         "value_usd": 2570
       },
       "apc_paid": null,
-      "fwci": 0.6111,
+      "fwci": 0.6088,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.57999173,
+        "value": 0.57722325,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 97
       },
       "biblio": {
@@ -7806,6 +7829,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.jafrearsci.2021.104354",
+          "doi": "https://doi.org/10.1016/j.jafrearsci.2021.104354",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.jafrearsci.2021.104354",
           "pdf_url": null,
@@ -7850,9 +7874,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -7959,6 +7983,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s13369-024-09451-2",
+        "doi": "https://doi.org/10.1007/s13369-024-09451-2",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s13369-024-09451-2",
         "pdf_url": null,
@@ -8105,11 +8130,11 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 0.6155,
+      "fwci": 0.61,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.56089793,
+        "value": 0.5569458,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8409,6 +8434,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s13369-024-09451-2",
+          "doi": "https://doi.org/10.1007/s13369-024-09451-2",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s13369-024-09451-2",
           "pdf_url": null,
@@ -8553,6 +8579,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s12517-015-1957-6",
+        "doi": "https://doi.org/10.1007/s12517-015-1957-6",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s12517-015-1957-6",
         "pdf_url": null,
@@ -8805,11 +8832,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.2536,
+      "fwci": 1.2514,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.77408153,
+        "value": 0.77370435,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9124,6 +9151,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s12517-015-1957-6",
+          "doi": "https://doi.org/10.1007/s12517-015-1957-6",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s12517-015-1957-6",
           "pdf_url": null,
@@ -9288,6 +9316,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.aiig.2026.100229",
+        "doi": "https://doi.org/10.1016/j.aiig.2026.100229",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/j.aiig.2026.100229",
         "pdf_url": null,
@@ -9556,11 +9585,11 @@
         "currency": "USD",
         "value_usd": 700
       },
-      "fwci": 3.4952,
+      "fwci": 3.2165,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.93378623,
+        "value": 0.927182,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9815,6 +9844,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.aiig.2026.100229",
+          "doi": "https://doi.org/10.1016/j.aiig.2026.100229",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1016/j.aiig.2026.100229",
           "pdf_url": null,
@@ -9854,6 +9884,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.1016/j.aiig.2026.100229",
+        "doi": "https://doi.org/10.1016/j.aiig.2026.100229",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/j.aiig.2026.100229",
         "pdf_url": null,
@@ -10683,6 +10714,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s13369-021-05396-y",
+        "doi": "https://doi.org/10.1007/s13369-021-05396-y",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s13369-021-05396-y",
         "pdf_url": null,
@@ -10910,11 +10942,11 @@
         "value_usd": 2780
       },
       "apc_paid": null,
-      "fwci": 0.3667,
+      "fwci": 0.3653,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.45871228,
+        "value": 0.45404714,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11151,6 +11183,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s13369-021-05396-y",
+          "doi": "https://doi.org/10.1007/s13369-021-05396-y",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s13369-021-05396-y",
           "pdf_url": null,
@@ -11196,9 +11229,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -11295,6 +11328,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2523/19527-ms",
+        "doi": "https://doi.org/10.2523/19527-ms",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2523/19527-ms",
         "pdf_url": null,
@@ -11380,7 +11414,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.62407614,
+        "value": 0.62419338,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11583,6 +11617,7 @@
       "locations": [
         {
           "id": "doi:10.2523/19527-ms",
+          "doi": "https://doi.org/10.2523/19527-ms",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2523/19527-ms",
           "pdf_url": null,
@@ -11671,6 +11706,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s13369-024-08796-y",
+        "doi": "https://doi.org/10.1007/s13369-024-08796-y",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s13369-024-08796-y",
         "pdf_url": null,
@@ -11883,16 +11919,16 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 0.155,
+      "fwci": 0.1525,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.30530322,
+        "value": 0.2964207,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 94
       },
       "biblio": {
@@ -12124,6 +12160,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s13369-024-08796-y",
+          "doi": "https://doi.org/10.1007/s13369-024-08796-y",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s13369-024-08796-y",
           "pdf_url": null,
@@ -12246,6 +12283,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2118/204558-ms",
+        "doi": "https://doi.org/10.2118/204558-ms",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2118/204558-ms",
         "pdf_url": null,
@@ -12493,11 +12531,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7677,
+      "fwci": 1.772,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.8703591,
+        "value": 0.86940527,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12808,6 +12846,7 @@
       "locations": [
         {
           "id": "doi:10.2118/204558-ms",
+          "doi": "https://doi.org/10.2118/204558-ms",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2118/204558-ms",
           "pdf_url": null,
@@ -12839,9 +12878,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -13861,6 +13900,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1190/ice2015-2210798",
+        "doi": "https://doi.org/10.1190/ice2015-2210798",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1190/ice2015-2210798",
         "pdf_url": null,
@@ -14394,6 +14434,7 @@
       "locations": [
         {
           "id": "doi:10.1190/ice2015-2210798",
+          "doi": "https://doi.org/10.1190/ice2015-2210798",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1190/ice2015-2210798",
           "pdf_url": null,
@@ -14953,6 +14994,7 @@
       "language": "en",
       "primary_location": {
         "id": "mag:2736408311",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "https://www.waset.org/abstracts/13575",
         "pdf_url": null,
@@ -15036,7 +15078,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3218742,
+        "value": 0.32231884,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15236,6 +15278,7 @@
       "locations": [
         {
           "id": "mag:2736408311",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://www.waset.org/abstracts/13575",
           "pdf_url": null,
@@ -15318,6 +15361,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2523/iptc-19527-ms",
+        "doi": "https://doi.org/10.2523/iptc-19527-ms",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2523/iptc-19527-ms",
         "pdf_url": null,
@@ -15449,7 +15493,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.02464599,
+        "value": 0.02553389,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15760,6 +15804,7 @@
       "locations": [
         {
           "id": "doi:10.2523/iptc-19527-ms",
+          "doi": "https://doi.org/10.2523/iptc-19527-ms",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2523/iptc-19527-ms",
           "pdf_url": null,
@@ -16498,6 +16543,7 @@
       "language": "en",
       "primary_location": {
         "id": "mag:3013935184",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "http://ui.adsabs.harvard.edu/abs/2017EGUGA..1911614A/abstract",
         "pdf_url": null,
@@ -16583,7 +16629,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.32089552,
+        "value": 0.32401908,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16774,6 +16820,7 @@
       "locations": [
         {
           "id": "mag:3013935184",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://ui.adsabs.harvard.edu/abs/2017EGUGA..1911614A/abstract",
           "pdf_url": null,
@@ -16857,6 +16904,7 @@
       "language": "en",
       "primary_location": {
         "id": "mag:3014205103",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "https://ui.adsabs.harvard.edu/abs/2019EGUGA..2114178O/abstract",
         "pdf_url": null,
@@ -16996,7 +17044,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.2047992,
+        "value": 0.20678541,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17165,6 +17213,7 @@
       "locations": [
         {
           "id": "mag:3014205103",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://ui.adsabs.harvard.edu/abs/2019EGUGA..2114178O/abstract",
           "pdf_url": null,
@@ -17248,6 +17297,7 @@
       "language": "en",
       "primary_location": {
         "id": "mag:3043255605",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "http://ui.adsabs.harvard.edu/abs/2017EGUGA..19.9899A/abstract",
         "pdf_url": null,
@@ -17381,7 +17431,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.21660782,
+        "value": 0.26663171,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17586,6 +17636,7 @@
       "locations": [
         {
           "id": "mag:3043255605",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://ui.adsabs.harvard.edu/abs/2017EGUGA..19.9899A/abstract",
           "pdf_url": null,
@@ -17669,6 +17720,7 @@
       "language": "en",
       "primary_location": {
         "id": "mag:3043255856",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "http://ui.adsabs.harvard.edu/abs/2018EGUGA..2011611A/abstract",
         "pdf_url": null,
@@ -17752,7 +17804,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.58481675,
+        "value": 0.58595388,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17954,6 +18006,7 @@
       "locations": [
         {
           "id": "mag:3043255856",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://ui.adsabs.harvard.edu/abs/2018EGUGA..2011611A/abstract",
           "pdf_url": null,
@@ -18014,6 +18067,7 @@
       "language": "en",
       "primary_location": {
         "id": "mag:3134864009",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "http://ui.adsabs.harvard.edu/abs/2015EGUGA..17.6602A/abstract",
         "pdf_url": null,
@@ -18097,7 +18151,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.45048544,
+        "value": 0.47119528,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18253,6 +18307,7 @@
       "locations": [
         {
           "id": "mag:3134864009",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://ui.adsabs.harvard.edu/abs/2015EGUGA..17.6602A/abstract",
           "pdf_url": null,
@@ -18334,6 +18389,7 @@
       "language": "en",
       "primary_location": {
         "id": "mag:3138456400",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "http://ui.adsabs.harvard.edu/abs/2018EGUGA..20.7042A/abstract",
         "pdf_url": null,
@@ -18417,7 +18473,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.62408377,
+        "value": 0.62526205,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18611,6 +18667,7 @@
       "locations": [
         {
           "id": "mag:3138456400",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "http://ui.adsabs.harvard.edu/abs/2018EGUGA..20.7042A/abstract",
           "pdf_url": null,
@@ -18641,16 +18698,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -18705,6 +18762,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.5194/egusphere-egu2020-1481",
+        "doi": "https://doi.org/10.5194/egusphere-egu2020-1481",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.5194/egusphere-egu2020-1481",
         "pdf_url": null,
@@ -19090,6 +19148,7 @@
       "locations": [
         {
           "id": "doi:10.5194/egusphere-egu2020-1481",
+          "doi": "https://doi.org/10.5194/egusphere-egu2020-1481",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.5194/egusphere-egu2020-1481",
           "pdf_url": null,
@@ -19105,6 +19164,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.5194/egusphere-egu2020-1481",
+        "doi": "https://doi.org/10.5194/egusphere-egu2020-1481",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.5194/egusphere-egu2020-1481",
         "pdf_url": null,
@@ -19119,16 +19179,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.46149998903274536,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -20079,6 +20139,7 @@
       "language": "en",
       "primary_location": {
         "id": "mag:3165062536",
+        "doi": null,
         "is_oa": false,
         "landing_page_url": "https://ui.adsabs.harvard.edu/abs/2019EGUGA..2114835A/abstract",
         "pdf_url": null,
@@ -20216,7 +20277,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.56902357,
+        "value": 0.57051282,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20457,6 +20518,7 @@
       "locations": [
         {
           "id": "mag:3165062536",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://ui.adsabs.harvard.edu/abs/2019EGUGA..2114835A/abstract",
           "pdf_url": null,
@@ -20538,6 +20600,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.5194/egusphere-egu24-7168",
+        "doi": "https://doi.org/10.5194/egusphere-egu24-7168",
         "is_oa": true,
         "landing_page_url": "http://dx.doi.org/10.5194/egusphere-egu24-7168",
         "pdf_url": null,
@@ -20874,6 +20937,7 @@
       "locations": [
         {
           "id": "doi:10.5194/egusphere-egu24-7168",
+          "doi": "https://doi.org/10.5194/egusphere-egu24-7168",
           "is_oa": true,
           "landing_page_url": "http://dx.doi.org/10.5194/egusphere-egu24-7168",
           "pdf_url": null,
@@ -20889,6 +20953,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.5194/egusphere-egu24-7168",
+        "doi": "https://doi.org/10.5194/egusphere-egu24-7168",
         "is_oa": true,
         "landing_page_url": "http://dx.doi.org/10.5194/egusphere-egu24-7168",
         "pdf_url": null,
@@ -20904,9 +20969,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -21569,6 +21634,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1038/s41598-025-20817-w",
+        "doi": "https://doi.org/10.1038/s41598-025-20817-w",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1038/s41598-025-20817-w",
         "pdf_url": "https://www.nature.com/articles/s41598-025-20817-w.pdf",
@@ -21813,7 +21879,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.20609258,
+        "value": 0.21101889,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22198,6 +22264,7 @@
       "locations": [
         {
           "id": "doi:10.1038/s41598-025-20817-w",
+          "doi": "https://doi.org/10.1038/s41598-025-20817-w",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1038/s41598-025-20817-w",
           "pdf_url": "https://www.nature.com/articles/s41598-025-20817-w.pdf",
@@ -22242,6 +22309,7 @@
         },
         {
           "id": "pmid:41125647",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41125647",
           "pdf_url": null,
@@ -22272,6 +22340,7 @@
         },
         {
           "id": "pmh:oai:europepmc.org:11354418",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12546600",
           "pdf_url": null,
@@ -22302,6 +22371,7 @@
         },
         {
           "id": "pmh:oai:doaj.org/article:6a58a1f771004793b01293a18b1edae5",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "https://doaj.org/article/6a58a1f771004793b01293a18b1edae5",
           "pdf_url": null,
@@ -22331,6 +22401,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.1038/s41598-025-20817-w",
+        "doi": "https://doi.org/10.1038/s41598-025-20817-w",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1038/s41598-025-20817-w",
         "pdf_url": "https://www.nature.com/articles/s41598-025-20817-w.pdf",
@@ -22968,6 +23039,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s11004-025-10270-w",
+        "doi": "https://doi.org/10.1007/s11004-025-10270-w",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s11004-025-10270-w",
         "pdf_url": null,
@@ -23196,7 +23268,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.0571679,
+        "value": 0.05510928,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23527,6 +23599,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s11004-025-10270-w",
+          "doi": "https://doi.org/10.1007/s11004-025-10270-w",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s11004-025-10270-w",
           "pdf_url": null,
@@ -23665,6 +23738,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.acags.2026.100397",
+        "doi": "https://doi.org/10.1016/j.acags.2026.100397",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/j.acags.2026.100397",
         "pdf_url": null,
@@ -23806,7 +23880,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71969389,
+        "value": 0.67962476,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24024,6 +24098,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.acags.2026.100397",
+          "doi": "https://doi.org/10.1016/j.acags.2026.100397",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1016/j.acags.2026.100397",
           "pdf_url": null,
@@ -24063,6 +24138,7 @@
         },
         {
           "id": "pmh:oai:doaj.org/article:341a7856dd70489eaf44f91bd63425c0",
+          "doi": null,
           "is_oa": false,
           "landing_page_url": "https://doaj.org/article/341a7856dd70489eaf44f91bd63425c0",
           "pdf_url": null,
@@ -24092,6 +24168,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.1016/j.acags.2026.100397",
+        "doi": "https://doi.org/10.1016/j.acags.2026.100397",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/j.acags.2026.100397",
         "pdf_url": null,

@@ -12,7 +12,7 @@
     ],
     "full_name": "Kanfar, Rayan",
     "works_count": 8,
-    "cited_by_count": 112,
+    "cited_by_count": 111,
     "summary_stats": {
       "2yr_mean_citedness": 8.5,
       "h_index": 4,
@@ -162,7 +162,7 @@
       {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "value": 0.000022,
+        "value": 0.0000222,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -179,7 +179,7 @@
       {
         "id": "https://openalex.org/T11801",
         "display_name": "Reservoir Engineering and Simulation Methods",
-        "value": 0.0000173,
+        "value": 0.0000174,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -196,7 +196,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000168,
+        "value": 0.000017,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -213,7 +213,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000164,
+        "value": 0.0000166,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -230,7 +230,7 @@
       {
         "id": "https://openalex.org/T11206",
         "display_name": "Model Reduction and Neural Networks",
-        "value": 0.0000151,
+        "value": 0.0000156,
         "subfield": {
           "id": "https://openalex.org/subfields/3109",
           "display_name": "Statistical and Nonlinear Physics"
@@ -288,7 +288,7 @@
         "year": 2023,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 18
+        "cited_by_count": 17
       },
       {
         "year": 2024,
@@ -309,7 +309,7 @@
     ],
     "block_key": "r kanfar",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5071165005",
-    "updated_date": "2026-10-05T12:30:24",
+    "updated_date": "2026-10-08T12:30:13",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -327,6 +327,7 @@
       "language": "lv",
       "primary_location": {
         "id": "doi:10.1016/j.cageo.2024.105711",
+        "doi": "https://doi.org/10.1016/j.cageo.2024.105711",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.cageo.2024.105711",
         "pdf_url": null,
@@ -633,11 +634,11 @@
         "value_usd": 3670
       },
       "apc_paid": null,
-      "fwci": 4.4066,
+      "fwci": 4.259,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.95685104,
+        "value": 0.95509,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -804,6 +805,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.cageo.2024.105711",
+          "doi": "https://doi.org/10.1016/j.cageo.2024.105711",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.cageo.2024.105711",
           "pdf_url": null,
@@ -845,15 +847,15 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.685699999332428,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/10",
           "score": 0.5600000023841858,
+          "id": "https://metadata.un.org/sdg/10",
           "display_name": "Reduced inequalities"
         }
       ],
@@ -861,8 +863,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -965,6 +967,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2523/iptc-19693-ms",
+        "doi": "https://doi.org/10.2523/iptc-19693-ms",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2523/iptc-19693-ms",
         "pdf_url": null,
@@ -1172,16 +1175,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 20.2218,
+      "fwci": 20.2848,
       "has_fulltext": false,
       "cited_by_count": 60,
       "citation_normalized_percentile": {
-        "value": 0.99817251,
+        "value": 0.99829122,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 97,
         "max": 99
       },
       "biblio": {
@@ -1465,6 +1468,7 @@
       "locations": [
         {
           "id": "doi:10.2523/iptc-19693-ms",
+          "doi": "https://doi.org/10.2523/iptc-19693-ms",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2523/iptc-19693-ms",
           "pdf_url": null,
@@ -1493,6 +1497,7 @@
         },
         {
           "id": "pmh:oai:arXiv.org:2001.10156",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "http://arxiv.org/abs/2001.10156",
           "pdf_url": "https://arxiv.org/pdf/2001.10156",
@@ -1525,6 +1530,7 @@
         },
         {
           "id": "doi:10.48550/arxiv.2001.10156",
+          "doi": "https://doi.org/10.48550/arxiv.2001.10156",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.48550/arxiv.2001.10156",
           "pdf_url": null,
@@ -1558,6 +1564,7 @@
       ],
       "best_oa_location": {
         "id": "pmh:oai:arXiv.org:2001.10156",
+        "doi": null,
         "is_oa": true,
         "landing_page_url": "http://arxiv.org/abs/2001.10156",
         "pdf_url": "https://arxiv.org/pdf/2001.10156",
@@ -1591,8 +1598,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7099999785423279,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -1600,8 +1607,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -2241,6 +2248,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1007/s11004-023-10088-4",
+        "doi": "https://doi.org/10.1007/s11004-023-10088-4",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1007/s11004-023-10088-4",
         "pdf_url": null,
@@ -2402,11 +2410,11 @@
         "value_usd": 2780
       },
       "apc_paid": null,
-      "fwci": 1.3184,
+      "fwci": 1.2937,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.7648146,
+        "value": 0.7595577,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2660,6 +2668,7 @@
       "locations": [
         {
           "id": "doi:10.1007/s11004-023-10088-4",
+          "doi": "https://doi.org/10.1007/s11004-023-10088-4",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1007/s11004-023-10088-4",
           "pdf_url": null,
@@ -2704,8 +2713,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/8",
           "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/8",
           "display_name": "Decent work and economic growth"
         }
       ],
@@ -2719,11 +2728,11 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 36,
+      "referenced_works_count": 37,
       "referenced_works": [
         "https://openalex.org/W18847906",
         "https://openalex.org/W71764628",
@@ -2760,7 +2769,8 @@
         "https://openalex.org/W3201152061",
         "https://openalex.org/W4200622624",
         "https://openalex.org/W4285093386",
-        "https://openalex.org/W6893670671"
+        "https://openalex.org/W6893670671",
+        "https://openalex.org/W6948500947"
       ],
       "related_works": [
         "https://openalex.org/W3203010359",
@@ -2789,7 +2799,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-02T10:15:12.560889",
+      "updated_date": "2026-10-09T09:14:12.587421",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2806,6 +2816,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.geoen.2025.214342",
+        "doi": "https://doi.org/10.1016/j.geoen.2025.214342",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/j.geoen.2025.214342",
         "pdf_url": null,
@@ -3174,11 +3185,11 @@
         "currency": "USD",
         "value_usd": 3640
       },
-      "fwci": 1.5957,
+      "fwci": 1.5109,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.83066712,
+        "value": 0.82182589,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3502,6 +3513,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.geoen.2025.214342",
+          "doi": "https://doi.org/10.1016/j.geoen.2025.214342",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1016/j.geoen.2025.214342",
           "pdf_url": null,
@@ -3541,6 +3553,7 @@
       ],
       "best_oa_location": {
         "id": "doi:10.1016/j.geoen.2025.214342",
+        "doi": "https://doi.org/10.1016/j.geoen.2025.214342",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/j.geoen.2025.214342",
         "pdf_url": null,
@@ -3594,8 +3607,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -4449,6 +4462,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1190/tle44020142.1",
+        "doi": "https://doi.org/10.1190/tle44020142.1",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1190/tle44020142.1",
         "pdf_url": null,
@@ -4739,16 +4753,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.0287,
+      "fwci": 1.9269,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.81616084,
+        "value": 0.806363,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 90,
         "max": 97
       },
       "biblio": {
@@ -4947,6 +4961,7 @@
       "locations": [
         {
           "id": "doi:10.1190/tle44020142.1",
+          "doi": "https://doi.org/10.1190/tle44020142.1",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1190/tle44020142.1",
           "pdf_url": null,
@@ -4991,8 +5006,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -5493,6 +5508,7 @@
       "language": "en",
       "primary_location": {
         "id": "pmh:oai:arXiv.org:2306.09648",
+        "doi": null,
         "is_oa": true,
         "landing_page_url": "http://arxiv.org/abs/2306.09648",
         "pdf_url": "https://arxiv.org/pdf/2306.09648",
@@ -5888,6 +5904,7 @@
       "locations": [
         {
           "id": "pmh:oai:arXiv.org:2306.09648",
+          "doi": null,
           "is_oa": true,
           "landing_page_url": "http://arxiv.org/abs/2306.09648",
           "pdf_url": "https://arxiv.org/pdf/2306.09648",
@@ -5920,6 +5937,7 @@
         },
         {
           "id": "doi:10.48550/arxiv.2306.09648",
+          "doi": "https://doi.org/10.48550/arxiv.2306.09648",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.48550/arxiv.2306.09648",
           "pdf_url": null,
@@ -5953,6 +5971,7 @@
       ],
       "best_oa_location": {
         "id": "pmh:oai:arXiv.org:2306.09648",
+        "doi": null,
         "is_oa": true,
         "landing_page_url": "http://arxiv.org/abs/2306.09648",
         "pdf_url": "https://arxiv.org/pdf/2306.09648",
@@ -5985,15 +6004,15 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.685699999332428,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/10",
           "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/10",
           "display_name": "Reduced inequalities"
         }
       ],
@@ -6001,8 +6020,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6477,6 +6496,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1190/image2023-3905116.1",
+        "doi": "https://doi.org/10.1190/image2023-3905116.1",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1190/image2023-3905116.1",
         "pdf_url": null,
@@ -6667,7 +6687,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.58371041,
+        "value": 0.59139785,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6891,6 +6911,7 @@
       "locations": [
         {
           "id": "doi:10.1190/image2023-3905116.1",
+          "doi": "https://doi.org/10.1190/image2023-3905116.1",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1190/image2023-3905116.1",
           "pdf_url": null,
@@ -6925,8 +6946,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -7198,6 +7219,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.2523/iptc-24209-ms",
+        "doi": "https://doi.org/10.2523/iptc-24209-ms",
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.2523/iptc-24209-ms",
         "pdf_url": null,
@@ -7405,7 +7427,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03251121,
+        "value": 0.03317445,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7580,6 +7602,7 @@
       "locations": [
         {
           "id": "doi:10.2523/iptc-24209-ms",
+          "doi": "https://doi.org/10.2523/iptc-24209-ms",
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.2523/iptc-24209-ms",
           "pdf_url": null,
@@ -7614,8 +7637,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
