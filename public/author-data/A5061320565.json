@@ -171,7 +171,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000237,
+        "value": 0.0000239,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -188,7 +188,7 @@
       {
         "id": "https://openalex.org/T13193",
         "display_name": "Geological Studies and Exploration",
-        "value": 0.0000196,
+        "value": 0.0000197,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -205,7 +205,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.000014,
+        "value": 0.0000141,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -222,7 +222,7 @@
       {
         "id": "https://openalex.org/T10491",
         "display_name": "Enhanced Oil Recovery Techniques",
-        "value": 0.0000105,
+        "value": 0.0000106,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -239,7 +239,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000099,
+        "value": 0.0000102,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -432,6 +432,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -723,17 +724,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -1193,6 +1194,10 @@
         "raw_source_name": "Future Petroleum Provinces of the World",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W188107018",
+        "display_name": "Future Petroleum Provinces of the World"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -1494,17 +1499,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -1792,7 +1797,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-19T07:32:40.446753",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1848,6 +1853,7 @@
         "raw_source_name": "Journal of Petroleum Exploration and Production Technology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -2403,17 +2409,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life on land",
           "score": 0.5099999904632568,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2169570507.pdf",
@@ -2874,6 +2880,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -3350,9 +3357,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life on land",
           "score": 0.5099999904632568,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -3370,8 +3377,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -3478,6 +3485,7 @@
         "raw_source_name": "Geological Society of America Bulletin",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -3831,17 +3839,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4841,6 +4849,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -5169,17 +5178,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -5307,6 +5316,7 @@
         "raw_source_name": "Journal of Petroleum Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -5797,17 +5807,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -5940,6 +5950,7 @@
         "raw_source_name": "TURKISH JOURNAL OF EARTH SCIENCES",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -6580,9 +6591,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life on land",
           "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -6600,8 +6611,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2167330935.pdf",
@@ -7230,6 +7241,7 @@
         "raw_source_name": "Journal of King Abdulaziz University-Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -7464,8 +7476,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7523,6 +7535,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -7768,17 +7781,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -8414,6 +8427,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -8756,17 +8770,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9537,6 +9551,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -9845,17 +9860,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10486,6 +10501,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -10740,17 +10756,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10826,6 +10842,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -11126,17 +11143,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12085,6 +12102,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "preprint",
       "indexed_in": [
         "crossref"
@@ -12685,17 +12703,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

@@ -187,7 +187,7 @@
       {
         "id": "https://openalex.org/T11801",
         "display_name": "Reservoir Engineering and Simulation Methods",
-        "value": 0.0000289,
+        "value": 0.000029,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -375,6 +375,7 @@
         "raw_source_name": "Journal of Petroleum Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -964,9 +965,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6299999952316284,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -979,8 +980,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -1147,6 +1148,7 @@
         "raw_source_name": "Energies",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -1945,9 +1947,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -1968,8 +1970,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3085505323.pdf",
@@ -2766,6 +2768,7 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -3444,9 +3447,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -3472,8 +3475,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -4096,6 +4099,7 @@
         "raw_source_name": "Geoenergy Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -4850,8 +4854,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -5743,6 +5747,7 @@
         "raw_source_name": "Polymers",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -6453,17 +6458,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6399999856948853,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2971780062.pdf",
@@ -7101,6 +7106,7 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -7808,8 +7814,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -7965,6 +7971,7 @@
         "raw_source_name": "IEEE Transactions on Geoscience and Remote Sensing",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -8518,8 +8525,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -9228,6 +9235,7 @@
         "raw_source_name": "Journal of CO2 Utilization",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -9928,14 +9936,14 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         },
         {
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.5690000057220459,
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -9969,8 +9977,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -10674,6 +10682,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -11284,9 +11293,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.9786999821662903,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -11294,8 +11303,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12251,6 +12260,7 @@
         "raw_source_name": "International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -12748,22 +12758,22 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.4099999964237213,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         },
         {
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4000000059604645,
-          "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -13434,6 +13444,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "preprint",
       "indexed_in": [
         "crossref"
@@ -13941,8 +13952,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14005,6 +14016,7 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -14650,19 +14662,19 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         },
         {
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.5690000057220459,
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         },
         {
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.5171999931335449,
-          "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -14670,8 +14682,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -15419,6 +15431,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "preprint",
       "indexed_in": [
         "crossref"
@@ -15840,9 +15853,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -15850,8 +15863,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -15923,6 +15936,7 @@
         "raw_source_name": "Second EAGE Workshop on Advances in Carbonate Reservoirs: from Prospects to Development",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -16490,8 +16504,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16941,6 +16955,7 @@
         "raw_source_name": "Second EAGE Workshop on Advances in Carbonate Reservoirs: from Prospects to Development",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -17448,17 +17463,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/10",
           "score": 0.4007032513618469,
-          "display_name": "Reduced inequalities",
-          "id": "https://metadata.un.org/sdg/10"
+          "display_name": "Reduced inequalities"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18009,6 +18024,7 @@
         "raw_source_name": "International Journal of Coal Science &amp; Technology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -18725,16 +18741,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.9786999821662903,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.48193252086639404,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -18767,8 +18783,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7171327959.pdf",

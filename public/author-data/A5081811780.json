@@ -17,7 +17,7 @@
     ],
     "full_name": "Moujahed I. Al-Husseini",
     "works_count": 71,
-    "cited_by_count": 2541,
+    "cited_by_count": 2544,
     "summary_stats": {
       "2yr_mean_citedness": 4.4,
       "h_index": 24,
@@ -527,7 +527,7 @@
         "year": 2010,
         "works_count": 10,
         "oa_works_count": 6,
-        "cited_by_count": 289
+        "cited_by_count": 291
       },
       {
         "year": 2011,
@@ -539,7 +539,7 @@
         "year": 2012,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 152
+        "cited_by_count": 153
       },
       {
         "year": 2013,
@@ -607,7 +607,7 @@
     ],
     "block_key": "m al-husseini",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5081811780",
-    "updated_date": "2026-10-08T12:30:13",
+    "updated_date": "2026-10-09T12:31:04",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -659,6 +659,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -1005,17 +1006,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -1788,6 +1789,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -2183,17 +2185,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -2942,6 +2944,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -3427,17 +3430,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2948813096.pdf",
@@ -4413,6 +4416,7 @@
         "raw_source_name": "Gondwana Research",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -4930,17 +4934,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3006915709.pdf",
@@ -5783,6 +5787,10 @@
         "raw_source_name": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 1)",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W3122357362",
+        "display_name": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 1)"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -5886,7 +5894,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 39.6138,
+      "fwci": 39.8416,
       "has_fulltext": false,
       "cited_by_count": 146,
       "citation_normalized_percentile": {
@@ -6181,8 +6189,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 90,
@@ -7130,7 +7138,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-10-09T09:14:12.587421",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -7187,6 +7195,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -7530,17 +7539,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -8216,6 +8225,7 @@
         "raw_source_name": "Terra Nova",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -8807,16 +8817,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.685699999332428
+          "score": 0.685699999332428,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -8834,8 +8844,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -9337,6 +9347,7 @@
         "raw_source_name": "Tectonophysics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -9683,17 +9694,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -9864,6 +9875,7 @@
         "raw_source_name": "Geological Society, London, Special Publications",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -10139,17 +10151,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -10902,6 +10914,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -11552,17 +11565,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -12839,6 +12852,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -13255,8 +13269,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -14611,6 +14625,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -14988,8 +15003,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3093533935.pdf",
@@ -15818,6 +15833,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -16325,17 +16341,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -17553,6 +17569,7 @@
         "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -17967,24 +17984,24 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.685699999332428
+          "score": 0.685699999332428,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6100000143051147
+          "score": 0.6100000143051147,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 141,
@@ -18717,6 +18734,7 @@
         "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -19174,24 +19192,24 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -19357,6 +19375,7 @@
         "raw_source_name": "Gondwana Research",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -19726,8 +19745,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -20196,6 +20215,7 @@
         "raw_source_name": "Biophysical Economics and Sustainability",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -20630,8 +20650,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -20732,6 +20752,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -21041,17 +21062,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -21623,6 +21644,7 @@
         "raw_source_name": "Geophysics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -22034,8 +22056,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -22786,6 +22808,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -23155,24 +23178,24 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46149998903274536
+          "score": 0.46149998903274536,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2922003475.pdf",
@@ -23602,6 +23625,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -23937,17 +23961,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6399999856948853
+          "score": 0.6399999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2946023000.pdf",
@@ -25172,6 +25196,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -25559,17 +25584,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2998820729.pdf",
@@ -26554,6 +26579,10 @@
         "raw_source_name": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 1)",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W3122357362",
+        "display_name": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 1)"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -26808,17 +26837,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -28100,7 +28129,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2021-05-10T00:00:00"
     },
     {
@@ -28153,6 +28182,10 @@
         "is_published": true,
         "raw_source_name": "Stratigraphy &amp; Timescales",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4236152913",
+        "display_name": "Carbon Isotope Stratigraphy"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -28282,11 +28315,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 12.6353,
+      "fwci": 12.7553,
       "has_fulltext": false,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.9863354,
+        "value": 0.98695652,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -28587,24 +28620,24 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7599999904632568
+          "score": 0.7599999904632568,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 140,
@@ -28789,7 +28822,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28840,6 +28873,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -29245,17 +29279,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2202216454.pdf",
@@ -30222,6 +30256,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -30557,17 +30592,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2967258048.pdf",
@@ -31504,6 +31539,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -31872,17 +31908,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3004523161.pdf",
@@ -32946,6 +32982,10 @@
         "raw_source_name": "Carboniferous, Permian and Early Triassic Arabian Stratigraphy",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W7167692888",
+        "display_name": "Carboniferous, Permian and Early Triassic Arabian Stratigraphy"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -33241,17 +33281,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7200000286102295
+          "score": 0.7200000286102295,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -34222,7 +34262,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-10-06T10:28:23.643775",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2021-05-10T00:00:00"
     },
     {
@@ -34273,6 +34313,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -34676,17 +34717,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2951871263.pdf",
@@ -35585,6 +35626,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -35920,17 +35962,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -36036,6 +36078,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -36450,17 +36493,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5799999833106995
+          "score": 0.5799999833106995,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2972289394.pdf",
@@ -37586,6 +37629,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -37907,17 +37951,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2990369555.pdf",
@@ -38661,6 +38705,10 @@
         "raw_source_name": "Carboniferous, Permian and Early Triassic Arabian Stratigraphy",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W7167692888",
+        "display_name": "Carboniferous, Permian and Early Triassic Arabian Stratigraphy"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -39093,17 +39141,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -40264,7 +40312,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2021-03-29T00:00:00"
     },
     {
@@ -40315,6 +40363,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -40756,17 +40805,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.699999988079071
+          "score": 0.699999988079071,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2574973601.pdf",
@@ -42114,6 +42163,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -42529,17 +42579,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -42905,6 +42955,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -43197,8 +43248,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2970361768.pdf",
@@ -43588,6 +43639,10 @@
         "raw_source_name": "Stratigraphy &amp; Timescales",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4236152913",
+        "display_name": "Carbon Isotope Stratigraphy"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -43674,11 +43729,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2686,
+      "fwci": 2.3764,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.91287129,
+        "value": 0.91528789,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -44023,17 +44078,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 148,
@@ -44226,7 +44281,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -44279,6 +44334,10 @@
         "is_published": true,
         "raw_source_name": "Stratigraphy &amp; Timescales",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4239722177",
+        "display_name": "Cyclostratigraphy and Astrochronology"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -44621,17 +44680,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
@@ -44768,7 +44827,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -44823,6 +44882,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -45470,9 +45530,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7300000190734863
+          "score": 0.7300000190734863,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -45495,8 +45555,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4393192528.pdf",
@@ -46061,6 +46121,7 @@
         "raw_source_name": "International Geology Review",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -46411,17 +46472,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -47170,6 +47231,7 @@
         "raw_source_name": "Gondwana Research",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -47687,8 +47749,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -48474,6 +48536,7 @@
         "raw_source_name": "Lithosphere",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -48938,8 +49001,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -49570,6 +49633,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -49946,17 +50010,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2782942463.pdf",
@@ -50795,6 +50859,7 @@
         "raw_source_name": "Geophysics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -51237,8 +51302,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -51857,6 +51922,10 @@
         "raw_source_name": "Carboniferous, Permian and Early Triassic Arabian Stratigraphy",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W7167692888",
+        "display_name": "Carboniferous, Permian and Early Triassic Arabian Stratigraphy"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -52159,8 +52228,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -53128,7 +53197,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2021-04-26T00:00:00"
     },
     {
@@ -53173,6 +53242,7 @@
         "raw_source_name": "Middle East Oil Show",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -53568,17 +53638,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -54313,6 +54383,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -54654,17 +54725,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3094434653.pdf",
@@ -54830,6 +54901,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -55190,8 +55262,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2150065718.pdf",
@@ -55848,6 +55920,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -56200,17 +56273,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3011458131.pdf",
@@ -57236,6 +57309,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -57696,9 +57770,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -57711,8 +57785,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2955710534.pdf",
@@ -59223,6 +59297,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -59598,17 +59673,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2964097576.pdf",
@@ -60278,6 +60353,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -60703,17 +60779,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3083121467.pdf",
@@ -61745,6 +61821,7 @@
         "raw_source_name": null,
         "raw_type": "edited-book"
       },
+      "volume": null,
       "type": "book",
       "indexed_in": [
         "crossref"
@@ -62052,17 +62129,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -62151,6 +62228,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -62550,8 +62628,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -63725,6 +63803,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -64052,17 +64131,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3123020830.pdf",
@@ -64952,6 +65031,7 @@
         "raw_source_name": "13th World Petroleum Congress",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -65222,8 +65302,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65316,6 +65396,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -65748,17 +65829,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2968475188.pdf",
@@ -66328,6 +66409,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -66628,17 +66710,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3128531337.pdf",
@@ -66727,6 +66809,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -67066,17 +67149,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6499999761581421
+          "score": 0.6499999761581421,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3012103603.pdf",
@@ -67151,6 +67234,7 @@
         "raw_source_name": "Proceedings of Middle East Oil Show",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -67397,8 +67481,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -67481,6 +67565,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -67839,17 +67924,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2952036994.pdf",
@@ -67901,6 +67986,7 @@
         "raw_source_name": null,
         "raw_type": "book"
       },
+      "volume": null,
       "type": "book",
       "indexed_in": [
         "crossref"
@@ -68203,17 +68289,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7835737466812134
+          "score": 0.7835737466812134,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -68272,6 +68358,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -68573,17 +68660,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2967961194.pdf",
@@ -68668,6 +68755,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -69058,17 +69146,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -69644,6 +69732,10 @@
         "raw_source_name": "Carboniferous, Permian and Early Triassic Arabian Stratigraphy",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W7167692888",
+        "display_name": "Carboniferous, Permian and Early Triassic Arabian Stratigraphy"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -69969,17 +70061,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8761091828346252
+          "score": 0.8761091828346252,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -71044,7 +71136,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2026-07-11T00:00:00"
     },
     {
@@ -71090,6 +71182,7 @@
         "raw_source_name": "Commission Internationale de Microflore du Paléozoïque, Pisa, Italy [IT], 11-15 September",
         "raw_type": "info:eu-repo/semantics/conferencePaper"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -71399,17 +71492,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -71484,6 +71577,7 @@
         "raw_source_name": "Commission Internationale de Microflore du Paléozoïque, Pisa, Italy [IT], 11-15 September",
         "raw_type": "info:eu-repo/semantics/conferencePaper"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -71821,8 +71915,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -71881,6 +71975,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -72220,24 +72315,24 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -72636,6 +72731,7 @@
         "raw_source_name": null,
         "raw_type": "book"
       },
+      "volume": null,
       "type": "book",
       "indexed_in": [
         "crossref"
@@ -72888,8 +72984,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -72926,6 +73022,10 @@
         "is_published": true,
         "raw_source_name": "Arabian Plate Sequence Stratigraphy",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W7167724021",
+        "display_name": "Arabian Plate Sequence Stratigraphy"
       },
       "type": "paratext",
       "indexed_in": [
@@ -73017,8 +73117,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -73026,7 +73126,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2026-07-11T00:00:00"
     },
     {
@@ -73055,6 +73155,10 @@
         "is_published": true,
         "raw_source_name": "Carboniferous, Permian and Early Triassic Arabian Stratigraphy",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W7167692888",
+        "display_name": "Carboniferous, Permian and Early Triassic Arabian Stratigraphy"
       },
       "type": "paratext",
       "indexed_in": [
@@ -73146,8 +73250,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -73161,7 +73265,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2026-07-11T00:00:00"
     }
   ]

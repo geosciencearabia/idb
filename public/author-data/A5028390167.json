@@ -228,7 +228,7 @@
       {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "value": 0.0002169,
+        "value": 0.0002172,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -245,7 +245,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0001741,
+        "value": 0.0001742,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -508,6 +508,10 @@
         "raw_source_name": "Earth and Environmental Sciences Library",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4312542218",
+        "display_name": "Geological and Geostatistical Aquifer Characterization of Wajid Sandstone, Saudi Arabia"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -649,11 +653,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 11.4497,
+      "fwci": 11.5415,
       "has_fulltext": false,
       "cited_by_count": 201,
       "citation_normalized_percentile": {
-        "value": 0.99097331,
+        "value": 0.99060298,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -875,8 +879,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -960,7 +964,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-01-15T23:16:33.117629",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1016,6 +1020,7 @@
         "raw_source_name": "Sedimentary Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -1429,17 +1434,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.44999998807907104
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -1607,6 +1612,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -1999,9 +2005,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -2019,8 +2025,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -2180,6 +2186,7 @@
         "raw_source_name": "Sedimentary Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -2654,9 +2661,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -2687,8 +2694,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -2843,6 +2850,7 @@
         "raw_source_name": "Journal of Sedimentary Environments",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -3443,17 +3451,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 90,
@@ -3647,6 +3655,7 @@
         "raw_source_name": "Arabian Journal for Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -4156,8 +4165,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -4300,6 +4309,7 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -4853,17 +4863,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -5028,6 +5038,7 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -5454,8 +5465,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -5638,6 +5649,7 @@
         "raw_source_name": "Journal of Asian Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -6163,17 +6175,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4699999988079071
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -6346,6 +6358,7 @@
         "raw_source_name": "Bulletin of the International Association of Engineering Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -6763,8 +6776,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -6905,6 +6918,7 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -7423,8 +7437,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -8221,6 +8235,7 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -8758,9 +8773,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7099999785423279,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7099999785423279
         }
       ],
       "study_designs": [],
@@ -8773,8 +8788,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -8922,6 +8937,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -9430,8 +9446,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -9587,6 +9603,7 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -9999,8 +10016,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -10128,6 +10145,7 @@
         "raw_source_name": "Journal of Petroleum Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -10724,9 +10742,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7900000214576721
         }
       ],
       "study_designs": [],
@@ -10744,8 +10762,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 95,
@@ -10948,6 +10966,7 @@
         "raw_source_name": "Arabian Journal for Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -11337,17 +11356,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -11505,6 +11524,7 @@
         "raw_source_name": "Petroleum Geoscience",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -12160,8 +12180,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -12721,6 +12741,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -13240,8 +13261,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -13402,6 +13423,7 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -13852,8 +13874,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -13976,6 +13998,7 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -14585,8 +14608,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -14747,6 +14770,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -15210,8 +15234,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -15371,6 +15395,7 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -15920,8 +15945,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -16049,6 +16074,7 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -16518,8 +16544,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -16639,6 +16665,7 @@
         "raw_source_name": "Journal of Petroleum Exploration and Production Technology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -17351,9 +17378,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -17366,8 +17393,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3170579962.pdf",
@@ -18165,6 +18192,7 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -18719,9 +18747,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4000000059604645,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4000000059604645
         }
       ],
       "study_designs": [],
@@ -18739,8 +18767,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -18865,6 +18893,7 @@
         "raw_source_name": "International Journal of Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -19395,8 +19424,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -19549,6 +19578,7 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -20068,9 +20098,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -20083,8 +20113,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -20674,6 +20704,7 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -21214,9 +21245,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -21237,8 +21268,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -21367,6 +21398,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -21938,8 +21970,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -22075,6 +22107,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -22678,8 +22711,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -22838,6 +22871,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -23286,8 +23320,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2283305001.pdf",
@@ -23949,6 +23983,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -24398,9 +24433,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.41999998688697815
         }
       ],
       "study_designs": [],
@@ -24413,8 +24448,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -24567,6 +24602,7 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -25008,16 +25044,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.8999999761581421
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7300000190734863,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.7300000190734863
         }
       ],
       "study_designs": [],
@@ -25030,8 +25066,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -25149,6 +25185,7 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -25614,9 +25651,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.41999998688697815
         }
       ],
       "study_designs": [],
@@ -25637,8 +25674,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -25796,6 +25833,7 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -26425,9 +26463,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6100000143051147,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6100000143051147
         }
       ],
       "study_designs": [],
@@ -26445,8 +26483,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 71,
@@ -27319,6 +27357,7 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -27799,9 +27838,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.5099999904632568
         }
       ],
       "study_designs": [],
@@ -27814,8 +27853,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -27959,6 +27998,7 @@
         "raw_source_name": "International Journal of Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -28556,8 +28596,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -28693,6 +28733,7 @@
         "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -29205,9 +29246,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -29228,8 +29269,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 93,
@@ -29427,6 +29468,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -29873,8 +29915,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -29986,6 +30028,7 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -30500,9 +30543,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8199999928474426,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8199999928474426
         }
       ],
       "study_designs": [],
@@ -30515,8 +30558,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -30697,6 +30740,7 @@
         "raw_source_name": "Abu Dhabi International Petroleum Exhibition and Conference",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -31226,9 +31270,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.821399986743927,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.821399986743927
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -31247,8 +31291,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -32045,6 +32089,7 @@
         "raw_source_name": "Arabian Journal for Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -32463,8 +32508,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -32601,6 +32646,7 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -33036,9 +33082,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "display_name": "Life on land",
+          "score": 0.5199999809265137
         }
       ],
       "study_designs": [],
@@ -33056,8 +33102,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -33178,6 +33224,7 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -33588,9 +33635,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -33611,8 +33658,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -33735,6 +33782,7 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -34472,9 +34520,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8299999833106995
         }
       ],
       "study_designs": [],
@@ -34487,8 +34535,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 134,
@@ -34712,6 +34760,7 @@
         "raw_source_name": "International Journal of Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -35335,16 +35384,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8299999833106995
         }
       ],
       "study_designs": [],
@@ -35365,8 +35414,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 118,
@@ -35570,6 +35619,7 @@
         "raw_source_name": "Journal of Sedimentary Environments",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -36101,8 +36151,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -36231,6 +36281,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -36817,8 +36868,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -36969,6 +37020,7 @@
         "raw_source_name": "Petroleum Geoscience",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -37509,17 +37561,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.75
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -38322,6 +38374,7 @@
         "raw_source_name": "Journal of Petroleum Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -38886,9 +38939,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -38901,8 +38954,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -39020,6 +39073,7 @@
         "raw_source_name": "Journal of Petroleum Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -39604,9 +39658,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -39627,8 +39681,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -39789,6 +39843,7 @@
         "raw_source_name": "SPE Middle East Oil and Gas Show and Conference",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -40204,17 +40259,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6899999976158142,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.6899999976158142
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -40304,6 +40359,7 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -40817,9 +40873,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -40840,8 +40896,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 85,
@@ -41008,6 +41064,7 @@
         "raw_source_name": "Proceedings of the 5th Unconventional Resources Technology Conference",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -41370,8 +41427,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41458,6 +41515,7 @@
         "raw_source_name": "Arabian Journal for Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -41946,9 +42004,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4699999988079071
         }
       ],
       "study_designs": [],
@@ -41981,8 +42039,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -42138,6 +42196,7 @@
         "raw_source_name": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -42606,8 +42665,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -43309,6 +43368,10 @@
         "raw_source_name": "Earth and Environmental Sciences Library",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4312542218",
+        "display_name": "Geological and Geostatistical Aquifer Characterization of Wajid Sandstone, Saudi Arabia"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -43450,13 +43513,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.192,
+      "fwci": 2.4276,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.898017,
+        "value": 0.9002849,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 94,
@@ -43723,9 +43786,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.6618000268936157
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -43733,8 +43796,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -43807,7 +43870,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2023-01-04T00:00:00"
     },
     {
@@ -43863,6 +43926,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -44321,8 +44385,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -44454,6 +44518,7 @@
         "raw_source_name": "Arabian Journal for Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -44928,9 +44993,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -44943,8 +45008,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -45055,6 +45120,7 @@
         "raw_source_name": "81st EAGE Conference and Exhibition 2019",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -45591,17 +45657,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.4699999988079071
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -46149,6 +46215,7 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -46671,17 +46738,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -47205,6 +47272,10 @@
         "raw_source_name": "Earth and Environmental Sciences Library",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4312542218",
+        "display_name": "Geological and Geostatistical Aquifer Characterization of Wajid Sandstone, Saudi Arabia"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -47346,11 +47417,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.192,
+      "fwci": 2.4276,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.90084986,
+        "value": 0.9031339,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -47569,9 +47640,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.53329998254776,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.53329998254776
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -47579,8 +47650,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -47633,7 +47704,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -47678,6 +47749,7 @@
         "raw_source_name": "SPE Middle East Oil &amp; Gas Show and Conference",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -48200,9 +48272,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.9786999821662903
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -48221,8 +48293,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -48933,6 +49005,7 @@
         "raw_source_name": "72nd EAGE Conference and Exhibition - Workshops and Fieldtrips",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -49233,8 +49306,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -49493,6 +49566,7 @@
         "raw_source_name": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -49914,17 +49988,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6499999761581421,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6499999761581421
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -50611,6 +50685,7 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -50907,8 +50982,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -50988,6 +51063,7 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -51227,8 +51303,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -51306,6 +51382,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -51616,17 +51693,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6000000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6000000238418579
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -51704,6 +51781,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -51984,8 +52062,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -52066,6 +52144,7 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "datacite"
@@ -52473,17 +52552,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -53111,6 +53190,7 @@
         "raw_source_name": "Proceedings of the 9th Unconventional Resources Technology Conference",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -53489,8 +53569,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -53558,6 +53638,7 @@
         "raw_source_name": "International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -53855,8 +53936,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -53950,6 +54031,7 @@
         "raw_source_name": "Arabian Journal for Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -54412,8 +54494,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -54526,6 +54608,7 @@
         "raw_source_name": "Journal of Sedimentary Environments",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -55090,8 +55173,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -55198,6 +55281,7 @@
         "raw_source_name": "SPE Middle East Oil and Gas Show and Conference",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -55724,9 +55808,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8199999928474426,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8199999928474426
         }
       ],
       "study_designs": [],
@@ -55739,8 +55823,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -56647,6 +56731,7 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -57035,17 +57120,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -57561,6 +57646,7 @@
         "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -58066,17 +58152,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6200000047683716,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.6200000047683716
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -58576,6 +58662,7 @@
         "raw_source_name": "SPE Middle East Oil and Gas Show and Conference",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -59052,9 +59139,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -59072,8 +59159,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -60064,6 +60151,7 @@
         "raw_source_name": "SPE Middle East Oil and Gas Show and Conference",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -60651,8 +60739,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -61542,6 +61630,7 @@
         "raw_source_name": "SPE Middle East Oil and Gas Show and Conference",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -62075,8 +62164,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -62785,6 +62874,7 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -63136,8 +63226,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -63216,6 +63306,7 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -63601,17 +63692,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.44999998807907104
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -64058,6 +64149,7 @@
         "raw_source_name": "SPE Middle East Oil &amp; Gas Show and Conference",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -64626,17 +64718,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -65661,6 +65753,7 @@
         "raw_source_name": "Global Meeting Abstracts",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -66121,8 +66214,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -66907,6 +67000,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [],
       "open_access": {
@@ -67152,17 +67246,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -67240,6 +67334,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [],
       "open_access": {
@@ -67637,17 +67732,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6200000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6200000047683716
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -68205,6 +68300,7 @@
         "raw_source_name": "Global Meeting Abstracts",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -68747,8 +68843,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -69327,6 +69423,7 @@
         "raw_source_name": "Journal of Earth Science",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -69645,17 +69742,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6000000238418579,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6000000238418579
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -69714,6 +69811,7 @@
         "raw_source_name": "BULLETIN DE L'ASSOCIATION INTERNATIONALE DE GEOLOGIE DE L'INGENIEUR",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -69941,17 +70039,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5799999833106995,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "display_name": "Life on land",
+          "score": 0.5799999833106995
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -70192,6 +70290,7 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -70600,8 +70699,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -71262,6 +71361,7 @@
         "raw_source_name": "IPTC 2014: International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -71669,17 +71769,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -72089,6 +72189,7 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -72503,17 +72604,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "display_name": "Life on land",
+          "score": 0.41999998688697815
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2028898510.pdf",
@@ -73135,6 +73236,7 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -73512,16 +73614,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.975600004196167,
           "id": "https://metadata.un.org/sdg/4",
-          "display_name": "Quality education"
+          "display_name": "Quality education",
+          "score": 0.975600004196167
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/8",
-          "display_name": "Decent work and economic growth"
+          "display_name": "Decent work and economic growth",
+          "score": 0.46000000834465027
         }
       ],
       "study_designs": [],
@@ -73534,8 +73636,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -73585,6 +73687,7 @@
         "raw_source_name": "Global Meeting Abstracts",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -74070,17 +74173,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5199999809265137
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -74706,6 +74809,7 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -75259,17 +75363,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2539001916.pdf",
@@ -75985,6 +76089,7 @@
         "raw_source_name": "78th EAGE Conference and Exhibition 2016",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -76368,8 +76473,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -76902,6 +77007,7 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -77424,17 +77530,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5899999737739563,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "display_name": "Life on land",
+          "score": 0.5899999737739563
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -77946,6 +78052,7 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -78296,17 +78403,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.5099999904632568
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -78818,6 +78925,7 @@
         "raw_source_name": "World Academy of Science, Engineering and Technology, International Journal of Geotechnical and Geological Engineering",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -79110,8 +79218,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -79193,6 +79301,7 @@
         "raw_source_name": "Geological Society of America Abstracts with Programs",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -79712,17 +79821,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.41999998688697815
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2902775908.pdf",
@@ -80348,6 +80457,7 @@
         "raw_source_name": "SPE Middle East Oil and Gas Show and Conference",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -80798,8 +80908,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -81576,6 +81686,10 @@
         "raw_source_name": "Geoscientific Research in Northeast Africa",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W3004176399",
+        "display_name": "Geoscientific Research in Northeast Africa"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -81633,7 +81747,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37825733,
+        "value": 0.37779585,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -81875,8 +81989,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -82210,7 +82324,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-04T09:36:47.201465",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -82255,6 +82369,7 @@
         "raw_source_name": "International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -82706,8 +82821,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -83442,6 +83557,7 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -83741,8 +83857,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -83892,6 +84008,7 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -84343,17 +84460,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5299999713897705
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -84421,6 +84538,7 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -84726,17 +84844,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.5199999809265137
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -84911,6 +85029,7 @@
         "raw_source_name": "Geological Society of America Abstracts with Programs",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -85439,8 +85558,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -85504,6 +85623,7 @@
         "raw_source_name": "81st EAGE Conference and Exhibition 2019",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -85895,17 +86015,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -86339,6 +86459,7 @@
         "raw_source_name": "81st EAGE Conference and Exhibition 2019",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -86713,17 +86834,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -87216,6 +87337,7 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -87511,17 +87633,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -87594,6 +87716,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -87902,8 +88025,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -87978,6 +88101,7 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -88263,8 +88387,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -88339,6 +88463,7 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -88681,8 +88806,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -88757,6 +88882,7 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -89074,8 +89200,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -89150,6 +89276,7 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -89511,8 +89638,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -89585,6 +89712,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -89877,17 +90005,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.5
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -89961,6 +90089,7 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -90359,17 +90488,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.41999998688697815
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -90833,6 +90962,7 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -91148,8 +91278,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -91223,6 +91353,7 @@
         "raw_source_name": "GEO 2008",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -91576,8 +91707,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -92187,6 +92318,7 @@
         "raw_source_name": "GEO 2008",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -92534,8 +92666,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -93123,6 +93255,7 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -93393,17 +93526,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.41999998688697815
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -93478,6 +93611,7 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -93825,8 +93959,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -93899,6 +94033,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -94193,8 +94328,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -94248,6 +94383,7 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -94575,8 +94711,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -94649,6 +94785,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -94934,9 +95071,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.6618000268936157
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -94944,8 +95081,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -95018,6 +95155,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -95314,17 +95452,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.75
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -95397,6 +95535,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -95677,8 +95816,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -95738,6 +95877,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -96134,17 +96274,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -96850,6 +96990,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -97288,17 +97429,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7900000214576721
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -97942,6 +98083,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -98481,17 +98623,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -99255,6 +99397,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -99592,17 +99735,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7599999904632568,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.7599999904632568
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -99675,6 +99818,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -99985,8 +100129,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -100059,6 +100203,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -100389,17 +100534,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5600000023841858,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5600000023841858
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -100472,6 +100617,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -100720,8 +100866,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -100794,6 +100940,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -101076,24 +101223,24 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4399999976158142
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5199999809265137
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -101166,6 +101313,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -101419,8 +101567,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -101480,6 +101628,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -101884,24 +102033,24 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.46149998903274536,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.46149998903274536
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -102871,6 +103020,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -103258,8 +103408,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -103332,6 +103482,7 @@
         "raw_source_name": "International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -103721,9 +103872,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -103736,8 +103887,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -104696,6 +104847,10 @@
         "raw_source_name": "Earth and Environmental Sciences Library",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4312542218",
+        "display_name": "Geological and Geostatistical Aquifer Characterization of Wajid Sandstone, Saudi Arabia"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -104841,7 +104996,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.40440324,
+        "value": 0.40487239,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -105124,17 +105279,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -105174,7 +105329,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -105227,6 +105382,7 @@
         "raw_source_name": "Earth and Environmental Sciences Library",
         "raw_type": "book"
       },
+      "volume": null,
       "type": "book",
       "indexed_in": [
         "crossref"
@@ -105642,8 +105798,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -105714,6 +105870,10 @@
         "is_published": true,
         "raw_source_name": "Earth and Environmental Sciences Library",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4312542218",
+        "display_name": "Geological and Geostatistical Aquifer Characterization of Wajid Sandstone, Saudi Arabia"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -105860,7 +106020,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.52124646,
+        "value": 0.52136752,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -106199,8 +106359,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -106219,7 +106379,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -106271,6 +106431,10 @@
         "is_published": true,
         "raw_source_name": "Earth and Environmental Sciences Library",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4312542218",
+        "display_name": "Geological and Geostatistical Aquifer Characterization of Wajid Sandstone, Saudi Arabia"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -106417,7 +106581,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.5325779,
+        "value": 0.53276353,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -106693,8 +106857,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -106731,7 +106895,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -106761,6 +106925,7 @@
         "raw_source_name": "2019 AAPG Middle East Region Geoscience Technology Workshop: Low Resistivity Pay",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -106998,17 +107163,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4099999964237213
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -107057,6 +107222,7 @@
         "raw_source_name": "2019 Middle East Geoscience Technology Workshop Integrated Emerging Exploration Concepts - Challenges, Future Trends and Opportunities",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -107336,17 +107502,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -107409,6 +107575,7 @@
         "raw_source_name": "2019 AAPG Annual Convention and Exhibition",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -107714,17 +107881,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7799999713897705,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.7799999713897705
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -107773,6 +107940,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -108129,17 +108297,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8299999833106995
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -108806,6 +108974,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -109129,8 +109298,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -109864,6 +110033,7 @@
         "raw_source_name": "Journal of Sedimentary Environments",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -110403,17 +110573,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5299999713897705
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -110514,6 +110684,7 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -111042,8 +111213,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,

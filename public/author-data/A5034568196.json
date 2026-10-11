@@ -160,7 +160,7 @@
       {
         "id": "https://openalex.org/T11490",
         "display_name": "Hydrological Forecasting Using AI",
-        "value": 0.0002073,
+        "value": 0.0002087,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -194,7 +194,7 @@
       {
         "id": "https://openalex.org/T10398",
         "display_name": "Groundwater and Isotope Geochemistry",
-        "value": 0.0001124,
+        "value": 0.0001125,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -228,7 +228,7 @@
       {
         "id": "https://openalex.org/T12543",
         "display_name": "Groundwater and Watershed Analysis",
-        "value": 0.0000647,
+        "value": 0.0000648,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -422,6 +422,7 @@
         "raw_source_name": "Chemosphere",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -1418,14 +1419,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Good health and well-being",
+          "score": 0.8371999859809875,
           "id": "https://metadata.un.org/sdg/3",
-          "score": 0.8371999859809875
+          "display_name": "Good health and well-being"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -1433,8 +1434,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -1594,6 +1595,7 @@
         "raw_source_name": "Remote Sensing",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -2303,26 +2305,26 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 0.5142999887466431,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5142999887466431
+          "display_name": "Sustainable cities and communities"
         },
         {
-          "display_name": "Climate action",
+          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
+          "score": 0.6100000143051147,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6100000143051147
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -2335,8 +2337,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4308105876.pdf",
@@ -3060,6 +3062,7 @@
         "raw_source_name": "Ecological Informatics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -3750,16 +3753,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.4000000059604645,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4000000059604645
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -3782,8 +3785,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -3940,6 +3943,7 @@
         "raw_source_name": "Journal of Cleaner Production",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -4462,14 +4466,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Responsible consumption and production",
+          "score": 0.5925999879837036,
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5925999879837036
+          "display_name": "Responsible consumption and production"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -4477,8 +4481,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
@@ -4676,6 +4680,7 @@
         "raw_source_name": "Chemosphere",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -5576,24 +5581,24 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.8580999970436096,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8580999970436096
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8700000047683716
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -5748,6 +5753,7 @@
         "raw_source_name": "Science of The Total Environment",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -6486,9 +6492,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.9090999960899353,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -6496,8 +6502,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 97,
@@ -6690,6 +6696,7 @@
         "raw_source_name": "Ain Shams Engineering Journal",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -7327,9 +7334,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.965499997138977,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -7351,8 +7358,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4286265175.pdf",
@@ -8138,6 +8145,7 @@
         "raw_source_name": "Molecules",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -9150,16 +9158,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.9090999960899353,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
+          "score": 0.6299999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6299999952316284
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -9172,8 +9180,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4304806286.pdf",
@@ -9953,6 +9961,7 @@
         "raw_source_name": "Sustainability",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -10652,16 +10661,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.9090999960899353,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.5899999737739563,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5899999737739563
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -10687,8 +10696,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4382136343.pdf",
@@ -11616,6 +11625,7 @@
         "raw_source_name": "Journal of King Saud University - Computer and Information Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -12163,16 +12173,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.9556000232696533,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9556000232696533
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.41999998688697815
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -12193,8 +12203,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4289597232.pdf",
@@ -12941,6 +12951,7 @@
         "raw_source_name": "Heliyon",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -13764,9 +13775,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -13793,8 +13804,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -14210,6 +14221,7 @@
         "raw_source_name": "Water",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -14652,9 +14664,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.965499997138977,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -14676,8 +14688,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4399208527.pdf",
@@ -15348,6 +15360,7 @@
         "raw_source_name": "Molecules",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -15946,21 +15959,21 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Zero hunger",
+          "score": 0.40450000762939453,
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.40450000762939453
+          "display_name": "Zero hunger"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -15981,8 +15994,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4362580681.pdf",
@@ -16733,6 +16746,7 @@
         "raw_source_name": "Groundwater for Sustainable Development",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -17155,16 +17169,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.9090999960899353,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
+          "score": 0.7300000190734863,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7300000190734863
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -17177,8 +17191,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -17339,6 +17353,7 @@
         "raw_source_name": "Sustainability",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -17949,9 +17964,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.965499997138977,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -17965,8 +17980,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4212839989.pdf",
@@ -18763,6 +18778,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -19155,9 +19171,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -19175,8 +19191,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -19337,6 +19353,7 @@
         "raw_source_name": "International Journal of Applied Earth Observation and Geoinformation",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -20147,9 +20164,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -20163,8 +20180,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -20856,6 +20873,7 @@
         "raw_source_name": "Desalination",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -21309,29 +21327,29 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.7778000235557556,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7778000235557556
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Affordable and clean energy",
+          "score": 0.5690000057220459,
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5690000057220459
+          "display_name": "Affordable and clean energy"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -21485,6 +21503,7 @@
         "raw_source_name": "Geofluids",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -22214,9 +22233,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life on land",
+          "score": 0.6200000047683716,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.6200000047683716
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -22229,8 +22248,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2939371353.pdf",
@@ -22989,6 +23008,7 @@
         "raw_source_name": "Environmental Science: Advances",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -23558,21 +23578,21 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Responsible consumption and production",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/12",
-          "score": 1
+          "display_name": "Responsible consumption and production"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.550000011920929,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.550000011920929
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -23593,8 +23613,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386774596.pdf",
@@ -23807,6 +23827,7 @@
         "raw_source_name": "Sustainability",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -24512,9 +24533,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -24522,8 +24543,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4213328516.pdf",
@@ -25214,6 +25235,7 @@
         "raw_source_name": "Chemical Engineering Research and Design",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -26058,24 +26080,24 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.5,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -26247,6 +26269,7 @@
         "raw_source_name": "Geomatics, Natural Hazards and Risk",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -26999,34 +27022,34 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Climate action",
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 0.5142999887466431,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5142999887466431
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8600000143051147
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -27807,6 +27830,7 @@
         "raw_source_name": "Heliyon",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -28580,16 +28604,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.965499997138977,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
+          "score": 0.7400000095367432,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7400000095367432
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -28615,8 +28639,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -29398,6 +29422,7 @@
         "raw_source_name": "Geophysics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -29893,17 +29918,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
+          "score": 0.7599999904632568,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7599999904632568
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -30563,6 +30588,7 @@
         "raw_source_name": "Journal of King Saud University - Science",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -31115,29 +31141,29 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Climate action",
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.6200000047683716,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6200000047683716
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -31797,6 +31823,7 @@
         "raw_source_name": "Journal of Alloys and Compounds",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -32428,16 +32455,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "score": 0.75,
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.75
+          "display_name": "Affordable and clean energy"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Affordable and clean energy",
+          "score": 0.8100000023841858,
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8100000023841858
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -32450,8 +32477,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -32611,6 +32638,7 @@
         "raw_source_name": "Arabian Journal for Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -33267,14 +33295,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Good health and well-being",
+          "score": 0.5683000087738037,
           "id": "https://metadata.un.org/sdg/3",
-          "score": 0.5683000087738037
+          "display_name": "Good health and well-being"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -33296,8 +33324,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
@@ -33490,6 +33518,7 @@
         "raw_source_name": "Advances in Space Research",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -34196,9 +34225,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.8571000099182129,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8571000099182129
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -34212,8 +34241,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 74,
@@ -34305,6 +34334,806 @@
       "created_date": "2025-12-01T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4407686865",
+      "doi": "https://doi.org/10.1016/j.ocecoaman.2025.107591",
+      "title": "Tracking the trace element pollution and associated health risk in urban coastal groundwater, eastern Saudi Arabia",
+      "display_name": "Tracking the trace element pollution and associated health risk in urban coastal groundwater, eastern Saudi Arabia",
+      "publication_year": 2025,
+      "publication_date": "2025-02-18",
+      "ids": {
+        "openalex": "https://openalex.org/W4407686865",
+        "doi": "https://doi.org/10.1016/j.ocecoaman.2025.107591"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.ocecoaman.2025.107591",
+        "doi": "https://doi.org/10.1016/j.ocecoaman.2025.107591",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.ocecoaman.2025.107591",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S8178725",
+          "display_name": "Ocean & Coastal Management",
+          "issn_l": "0964-5691",
+          "issn": [
+            "0964-5691",
+            "1873-524X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "jufo-1",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Ocean &amp; Coastal Management",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5034568196",
+            "display_name": "Mohammed Benaafi",
+            "orcid": "https://orcid.org/0000-0001-6246-7835",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6246-7835"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Mohammed Benaafi",
+          "raw_affiliation_strings": [
+            "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, 31261, Saudi Arabia",
+            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074883327",
+            "display_name": "Bassam Tawabini",
+            "orcid": "https://orcid.org/0000-0002-0096-2723",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0096-2723"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bassam Tawabini",
+          "raw_affiliation_strings": [
+            "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, 31261, Saudi Arabia",
+            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5062674165",
+            "display_name": "Shehzada Muhammad Sajid Jillani",
+            "orcid": "https://orcid.org/0000-0002-4442-9154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4442-9154"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Shehzada Muhammad Sajid Jillani",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080914340",
+            "display_name": "Ali Mohammed Babalghaith",
+            "orcid": "https://orcid.org/0000-0003-3736-8813",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3736-8813"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ali Mohammed Babalghaith",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Construction and Building Materials, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Construction and Building Materials, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5030371811",
+            "display_name": "Isam H. Aljundi",
+            "orcid": "https://orcid.org/0000-0002-0714-8580",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0714-8580"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Isam H. Aljundi",
+          "raw_affiliation_strings": [
+            "Department of Chemical Engineering, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Chemical Engineering, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5034568196"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 4350,
+        "currency": "USD",
+        "value_usd": 4350
+      },
+      "apc_paid": null,
+      "fwci": 1.7989,
+      "has_fulltext": false,
+      "cited_by_count": 7,
+      "citation_normalized_percentile": {
+        "value": 0.82358392,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "262",
+        "issue": null,
+        "first_page": "107591",
+        "last_page": "107591"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11634",
+        "display_name": "Water Quality and Pollution Assessment",
+        "score": 0.9380000233650208,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2312",
+          "display_name": "Water Science and Technology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11634",
+          "display_name": "Water Quality and Pollution Assessment",
+          "score": 0.9380000233650208,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2312",
+            "display_name": "Water Science and Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10139",
+          "display_name": "Heavy metals in environment",
+          "score": 0.05730000138282776,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2310",
+            "display_name": "Pollution"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10710",
+          "display_name": "Arsenic contamination and mitigation",
+          "score": 0.0013000000035390258,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2304",
+            "display_name": "Environmental Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/trace-element-pollution",
+          "display_name": "trace element contamination",
+          "score": 0.7429999709129333
+        },
+        {
+          "id": "https://openalex.org/keywords/toxic-elements",
+          "display_name": "toxic elements",
+          "score": 0.5989999771118164
+        },
+        {
+          "id": "https://openalex.org/keywords/groundwater-quality",
+          "display_name": "groundwater quality",
+          "score": 0.7820000052452087
+        },
+        {
+          "id": "https://openalex.org/keywords/human-health-risk",
+          "display_name": "human health risk",
+          "score": 0.8029999732971191
+        },
+        {
+          "id": "https://openalex.org/keywords/ecological-risk",
+          "display_name": "ecological risk",
+          "score": 0.8730000257492065
+        },
+        {
+          "id": "https://openalex.org/keywords/arsenic",
+          "display_name": "arsenic",
+          "score": 0.9559999704360962
+        },
+        {
+          "id": "https://openalex.org/keywords/chromium",
+          "display_name": "chromium",
+          "score": 0.996999979019165
+        },
+        {
+          "id": "https://openalex.org/keywords/cancer-risk",
+          "display_name": "cancer risk",
+          "score": 0.9549999833106995
+        },
+        {
+          "id": "https://openalex.org/keywords/non-carcinogenic-risk",
+          "display_name": "non-carcinogenic risk",
+          "score": 0.9879999756813049
+        },
+        {
+          "id": "https://openalex.org/keywords/child-health",
+          "display_name": "child health",
+          "score": 0.6140000224113464
+        },
+        {
+          "id": "https://openalex.org/keywords/water-quality-index",
+          "display_name": "water quality index",
+          "score": 0.902999997138977
+        },
+        {
+          "id": "https://openalex.org/keywords/pollution-index",
+          "display_name": "pollution index",
+          "score": 0.9679999947547913
+        },
+        {
+          "id": "https://openalex.org/keywords/spatial-distribution-of-pollution",
+          "display_name": "spatial distribution of pollution",
+          "score": 0.7059999704360962
+        },
+        {
+          "id": "https://openalex.org/keywords/pollution-hotspots",
+          "display_name": "pollution hotspots",
+          "score": 0.7509999871253967
+        },
+        {
+          "id": "https://openalex.org/keywords/eastern-saudi-arabia",
+          "display_name": "eastern Saudi Arabia",
+          "score": 0.9470000267028809
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C76177295",
+          "wikidata": "https://www.wikidata.org/wiki/Q161598",
+          "display_name": "Groundwater",
+          "level": 2,
+          "score": 0.6200513243675232
+        },
+        {
+          "id": "https://openalex.org/C524765639",
+          "wikidata": "https://www.wikidata.org/wiki/Q1501619",
+          "display_name": "Water resource management",
+          "level": 1,
+          "score": 0.6061922907829285
+        },
+        {
+          "id": "https://openalex.org/C521259446",
+          "wikidata": "https://www.wikidata.org/wiki/Q58734",
+          "display_name": "Pollution",
+          "level": 2,
+          "score": 0.5994036197662354
+        },
+        {
+          "id": "https://openalex.org/C34682378",
+          "wikidata": "https://www.wikidata.org/wiki/Q351792",
+          "display_name": "Trace element",
+          "level": 2,
+          "score": 0.5663323998451233
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.5289547443389893
+        },
+        {
+          "id": "https://openalex.org/C75291252",
+          "wikidata": "https://www.wikidata.org/wiki/Q1315756",
+          "display_name": "TRACE (psycholinguistics)",
+          "level": 2,
+          "score": 0.4865102171897888
+        },
+        {
+          "id": "https://openalex.org/C2778192778",
+          "wikidata": "https://www.wikidata.org/wiki/Q20113712",
+          "display_name": "Groundwater pollution",
+          "level": 4,
+          "score": 0.44646385312080383
+        },
+        {
+          "id": "https://openalex.org/C526734887",
+          "wikidata": "https://www.wikidata.org/wiki/Q832237",
+          "display_name": "Environmental protection",
+          "level": 1,
+          "score": 0.43098631501197815
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.3608294725418091
+        },
+        {
+          "id": "https://openalex.org/C91375879",
+          "wikidata": "https://www.wikidata.org/wiki/Q15473274",
+          "display_name": "Environmental planning",
+          "level": 1,
+          "score": 0.35755854845046997
+        },
+        {
+          "id": "https://openalex.org/C99454951",
+          "wikidata": "https://www.wikidata.org/wiki/Q932068",
+          "display_name": "Environmental health",
+          "level": 1,
+          "score": 0.3441775441169739
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.14557427167892456
+        },
+        {
+          "id": "https://openalex.org/C75622301",
+          "wikidata": "https://www.wikidata.org/wiki/Q208791",
+          "display_name": "Aquifer",
+          "level": 3,
+          "score": 0.09054553508758545
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.06430080533027649
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.06380406022071838
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C41895202",
+          "wikidata": "https://www.wikidata.org/wiki/Q8162",
+          "display_name": "Linguistics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.ocecoaman.2025.107591",
+          "doi": "https://doi.org/10.1016/j.ocecoaman.2025.107591",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.ocecoaman.2025.107591",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S8178725",
+            "display_name": "Ocean & Coastal Management",
+            "issn_l": "0964-5691",
+            "issn": [
+              "0964-5691",
+              "1873-524X"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "anvur-scientific",
+              "cwts-core",
+              "jufo-1",
+              "norway-1",
+              "poland-70",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Ocean &amp; Coastal Management",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
+        },
+        {
+          "score": 0.8371999859809875,
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "sustainable_development_goals_aurora": [
+        {
+          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities"
+        }
+      ],
+      "study_designs": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G1455575538",
+          "display_name": null,
+          "funder_award_id": "INMW2407",
+          "funder_id": "https://openalex.org/F4320322323",
+          "funder_display_name": "King Fahd University of Petroleum and Minerals"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 66,
+      "referenced_works": [
+        "https://openalex.org/W1972568665",
+        "https://openalex.org/W1982546148",
+        "https://openalex.org/W1985493764",
+        "https://openalex.org/W1993830555",
+        "https://openalex.org/W1997424481",
+        "https://openalex.org/W2065567367",
+        "https://openalex.org/W2083622187",
+        "https://openalex.org/W2091972260",
+        "https://openalex.org/W2319564997",
+        "https://openalex.org/W2520502497",
+        "https://openalex.org/W2580315315",
+        "https://openalex.org/W2800954078",
+        "https://openalex.org/W2893832240",
+        "https://openalex.org/W2916186978",
+        "https://openalex.org/W2917287538",
+        "https://openalex.org/W2944711102",
+        "https://openalex.org/W2950409247",
+        "https://openalex.org/W2964068274",
+        "https://openalex.org/W2980658109",
+        "https://openalex.org/W2993709659",
+        "https://openalex.org/W2995880951",
+        "https://openalex.org/W3008355957",
+        "https://openalex.org/W3016534488",
+        "https://openalex.org/W3022062147",
+        "https://openalex.org/W3025717827",
+        "https://openalex.org/W3041265605",
+        "https://openalex.org/W3041516997",
+        "https://openalex.org/W3080172069",
+        "https://openalex.org/W3090854057",
+        "https://openalex.org/W3094120648",
+        "https://openalex.org/W3094992263",
+        "https://openalex.org/W3122218096",
+        "https://openalex.org/W3133013600",
+        "https://openalex.org/W3163916939",
+        "https://openalex.org/W3179531231",
+        "https://openalex.org/W3208459767",
+        "https://openalex.org/W4206481551",
+        "https://openalex.org/W4211170063",
+        "https://openalex.org/W4220711740",
+        "https://openalex.org/W4224035754",
+        "https://openalex.org/W4224988009",
+        "https://openalex.org/W4225245161",
+        "https://openalex.org/W4284959154",
+        "https://openalex.org/W4285585763",
+        "https://openalex.org/W4304806286",
+        "https://openalex.org/W4311767241",
+        "https://openalex.org/W4313419023",
+        "https://openalex.org/W4324325010",
+        "https://openalex.org/W4362580681",
+        "https://openalex.org/W4377193509",
+        "https://openalex.org/W4380894080",
+        "https://openalex.org/W4383215822",
+        "https://openalex.org/W4384818539",
+        "https://openalex.org/W4386365539",
+        "https://openalex.org/W4394837151",
+        "https://openalex.org/W4399386927",
+        "https://openalex.org/W4401046387",
+        "https://openalex.org/W6726870297",
+        "https://openalex.org/W6766742308",
+        "https://openalex.org/W6775711945",
+        "https://openalex.org/W6809926912",
+        "https://openalex.org/W6810140540",
+        "https://openalex.org/W6852247737",
+        "https://openalex.org/W6854045679",
+        "https://openalex.org/W6868675492",
+        "https://openalex.org/W6871119251"
+      ],
+      "related_works": [
+        "https://openalex.org/W2241336222",
+        "https://openalex.org/W2496777983",
+        "https://openalex.org/W48228245",
+        "https://openalex.org/W2363906946",
+        "https://openalex.org/W2367003325",
+        "https://openalex.org/W2889121619",
+        "https://openalex.org/W2382147790",
+        "https://openalex.org/W2357847693",
+        "https://openalex.org/W2348764464",
+        "https://openalex.org/W2361954106"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-10-10T09:11:00.788812",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4411711243",
       "doi": "https://doi.org/10.1016/j.ceja.2025.100798",
       "title": "Enhanced electrochemical performance and boron removal capacity of Mg-Al layered double hydroxide composite for membrane-free capacitive deionization applications",
@@ -34356,6 +35185,7 @@
         "raw_source_name": "Chemical Engineering Journal Advances",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -35097,9 +35927,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -35113,8 +35943,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -35807,6 +36637,7 @@
         "raw_source_name": "Chemosphere",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -36644,21 +37475,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Responsible consumption and production",
+          "score": 0.7811999917030334,
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.7811999917030334
+          "display_name": "Responsible consumption and production"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.831631600856781,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.831631600856781
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -36671,8 +37502,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -36792,6 +37623,7 @@
         "raw_source_name": "Hydrology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -37470,9 +38302,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.9090999960899353,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -37486,8 +38318,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415680432.pdf",
@@ -38230,6 +39062,7 @@
         "raw_source_name": "Water",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -38680,16 +39513,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.9090999960899353,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.7599999904632568,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7599999904632568
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -38702,8 +39535,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3179531231.pdf"
@@ -39444,6 +40277,7 @@
         "raw_source_name": "Arabian Journal for Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -39955,17 +40789,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life on land",
+          "score": 0.5,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -40108,6 +40942,7 @@
         "raw_source_name": "Molecules",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -41139,16 +41974,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life on land",
+          "score": 0.4390000104904175,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4390000104904175
+          "display_name": "Life on land"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life on land",
+          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.49000000953674316
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -41169,8 +42004,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4283746594.pdf",
@@ -41919,6 +42754,7 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -42459,9 +43295,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -42482,8 +43318,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -42611,6 +43447,7 @@
         "raw_source_name": "Chemometrics and Intelligent Laboratory Systems",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -43205,24 +44042,24 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8999999761581421
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.699999988079071,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.699999988079071
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 95,
@@ -43408,6 +44245,7 @@
         "raw_source_name": "Arabian Journal for Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -43987,9 +44825,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -43997,8 +44835,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -44065,797 +44903,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4407686865",
-      "doi": "https://doi.org/10.1016/j.ocecoaman.2025.107591",
-      "title": "Tracking the trace element pollution and associated health risk in urban coastal groundwater, eastern Saudi Arabia",
-      "display_name": "Tracking the trace element pollution and associated health risk in urban coastal groundwater, eastern Saudi Arabia",
-      "publication_year": 2025,
-      "publication_date": "2025-02-18",
-      "ids": {
-        "openalex": "https://openalex.org/W4407686865",
-        "doi": "https://doi.org/10.1016/j.ocecoaman.2025.107591"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.ocecoaman.2025.107591",
-        "doi": "https://doi.org/10.1016/j.ocecoaman.2025.107591",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.ocecoaman.2025.107591",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S8178725",
-          "display_name": "Ocean & Coastal Management",
-          "issn_l": "0964-5691",
-          "issn": [
-            "0964-5691",
-            "1873-524X"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-1",
-            "norway-1"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Ocean &amp; Coastal Management",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5034568196",
-            "display_name": "Mohammed Benaafi",
-            "orcid": "https://orcid.org/0000-0001-6246-7835",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6246-7835"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Mohammed Benaafi",
-          "raw_affiliation_strings": [
-            "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, 31261, Saudi Arabia",
-            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5074883327",
-            "display_name": "Bassam Tawabini",
-            "orcid": "https://orcid.org/0000-0002-0096-2723",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-0096-2723"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Bassam Tawabini",
-          "raw_affiliation_strings": [
-            "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, 31261, Saudi Arabia",
-            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5062674165",
-            "display_name": "Shehzada Muhammad Sajid Jillani",
-            "orcid": "https://orcid.org/0000-0002-4442-9154",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-4442-9154"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Shehzada Muhammad Sajid Jillani",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5080914340",
-            "display_name": "Ali Mohammed Babalghaith",
-            "orcid": "https://orcid.org/0000-0003-3736-8813",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-3736-8813"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ali Mohammed Babalghaith",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Construction and Building Materials, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Construction and Building Materials, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5030371811",
-            "display_name": "Isam H. Aljundi",
-            "orcid": "https://orcid.org/0000-0002-0714-8580",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-0714-8580"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Isam H. Aljundi",
-          "raw_affiliation_strings": [
-            "Department of Chemical Engineering, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Chemical Engineering, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5034568196"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 4350,
-        "currency": "USD",
-        "value_usd": 4350
-      },
-      "apc_paid": null,
-      "fwci": 1.5451,
-      "has_fulltext": false,
-      "cited_by_count": 6,
-      "citation_normalized_percentile": {
-        "value": 0.79357246,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 96,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "262",
-        "issue": null,
-        "first_page": "107591",
-        "last_page": "107591"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11634",
-        "display_name": "Water Quality and Pollution Assessment",
-        "score": 0.9380000233650208,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2312",
-          "display_name": "Water Science and Technology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11634",
-          "display_name": "Water Quality and Pollution Assessment",
-          "score": 0.9380000233650208,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2312",
-            "display_name": "Water Science and Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10139",
-          "display_name": "Heavy metals in environment",
-          "score": 0.05730000138282776,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2310",
-            "display_name": "Pollution"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10710",
-          "display_name": "Arsenic contamination and mitigation",
-          "score": 0.0013000000035390258,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2304",
-            "display_name": "Environmental Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/trace-element-pollution",
-          "display_name": "trace element contamination",
-          "score": 0.7429999709129333
-        },
-        {
-          "id": "https://openalex.org/keywords/toxic-elements",
-          "display_name": "toxic elements",
-          "score": 0.5989999771118164
-        },
-        {
-          "id": "https://openalex.org/keywords/groundwater-quality",
-          "display_name": "groundwater quality",
-          "score": 0.7820000052452087
-        },
-        {
-          "id": "https://openalex.org/keywords/human-health-risk",
-          "display_name": "human health risk",
-          "score": 0.8029999732971191
-        },
-        {
-          "id": "https://openalex.org/keywords/ecological-risk",
-          "display_name": "ecological risk",
-          "score": 0.8730000257492065
-        },
-        {
-          "id": "https://openalex.org/keywords/arsenic",
-          "display_name": "arsenic",
-          "score": 0.9559999704360962
-        },
-        {
-          "id": "https://openalex.org/keywords/chromium",
-          "display_name": "chromium",
-          "score": 0.996999979019165
-        },
-        {
-          "id": "https://openalex.org/keywords/cancer-risk",
-          "display_name": "cancer risk",
-          "score": 0.9549999833106995
-        },
-        {
-          "id": "https://openalex.org/keywords/non-carcinogenic-risk",
-          "display_name": "non-carcinogenic risk",
-          "score": 0.9879999756813049
-        },
-        {
-          "id": "https://openalex.org/keywords/child-health",
-          "display_name": "child health",
-          "score": 0.6140000224113464
-        },
-        {
-          "id": "https://openalex.org/keywords/water-quality-index",
-          "display_name": "water quality index",
-          "score": 0.902999997138977
-        },
-        {
-          "id": "https://openalex.org/keywords/pollution-index",
-          "display_name": "pollution index",
-          "score": 0.9679999947547913
-        },
-        {
-          "id": "https://openalex.org/keywords/spatial-distribution-of-pollution",
-          "display_name": "spatial distribution of pollution",
-          "score": 0.7059999704360962
-        },
-        {
-          "id": "https://openalex.org/keywords/pollution-hotspots",
-          "display_name": "pollution hotspots",
-          "score": 0.7509999871253967
-        },
-        {
-          "id": "https://openalex.org/keywords/eastern-saudi-arabia",
-          "display_name": "eastern Saudi Arabia",
-          "score": 0.9470000267028809
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C76177295",
-          "wikidata": "https://www.wikidata.org/wiki/Q161598",
-          "display_name": "Groundwater",
-          "level": 2,
-          "score": 0.6200513243675232
-        },
-        {
-          "id": "https://openalex.org/C524765639",
-          "wikidata": "https://www.wikidata.org/wiki/Q1501619",
-          "display_name": "Water resource management",
-          "level": 1,
-          "score": 0.6061922907829285
-        },
-        {
-          "id": "https://openalex.org/C521259446",
-          "wikidata": "https://www.wikidata.org/wiki/Q58734",
-          "display_name": "Pollution",
-          "level": 2,
-          "score": 0.5994036197662354
-        },
-        {
-          "id": "https://openalex.org/C34682378",
-          "wikidata": "https://www.wikidata.org/wiki/Q351792",
-          "display_name": "Trace element",
-          "level": 2,
-          "score": 0.5663323998451233
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.5289547443389893
-        },
-        {
-          "id": "https://openalex.org/C75291252",
-          "wikidata": "https://www.wikidata.org/wiki/Q1315756",
-          "display_name": "TRACE (psycholinguistics)",
-          "level": 2,
-          "score": 0.4865102171897888
-        },
-        {
-          "id": "https://openalex.org/C2778192778",
-          "wikidata": "https://www.wikidata.org/wiki/Q20113712",
-          "display_name": "Groundwater pollution",
-          "level": 4,
-          "score": 0.44646385312080383
-        },
-        {
-          "id": "https://openalex.org/C526734887",
-          "wikidata": "https://www.wikidata.org/wiki/Q832237",
-          "display_name": "Environmental protection",
-          "level": 1,
-          "score": 0.43098631501197815
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.3608294725418091
-        },
-        {
-          "id": "https://openalex.org/C91375879",
-          "wikidata": "https://www.wikidata.org/wiki/Q15473274",
-          "display_name": "Environmental planning",
-          "level": 1,
-          "score": 0.35755854845046997
-        },
-        {
-          "id": "https://openalex.org/C99454951",
-          "wikidata": "https://www.wikidata.org/wiki/Q932068",
-          "display_name": "Environmental health",
-          "level": 1,
-          "score": 0.3441775441169739
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.14557427167892456
-        },
-        {
-          "id": "https://openalex.org/C75622301",
-          "wikidata": "https://www.wikidata.org/wiki/Q208791",
-          "display_name": "Aquifer",
-          "level": 3,
-          "score": 0.09054553508758545
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.06430080533027649
-        },
-        {
-          "id": "https://openalex.org/C71924100",
-          "wikidata": "https://www.wikidata.org/wiki/Q11190",
-          "display_name": "Medicine",
-          "level": 0,
-          "score": 0.06380406022071838
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C41895202",
-          "wikidata": "https://www.wikidata.org/wiki/Q8162",
-          "display_name": "Linguistics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C138885662",
-          "wikidata": "https://www.wikidata.org/wiki/Q5891",
-          "display_name": "Philosophy",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.ocecoaman.2025.107591",
-          "doi": "https://doi.org/10.1016/j.ocecoaman.2025.107591",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.ocecoaman.2025.107591",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S8178725",
-            "display_name": "Ocean & Coastal Management",
-            "issn_l": "0964-5691",
-            "issn": [
-              "0964-5691",
-              "1873-524X"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "jufo-1",
-              "norway-1"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Ocean &amp; Coastal Management",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 1
-        },
-        {
-          "display_name": "Good health and well-being",
-          "id": "https://metadata.un.org/sdg/3",
-          "score": 0.8371999859809875
-        }
-      ],
-      "sustainable_development_goals_aurora": [
-        {
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.4300000071525574
-        }
-      ],
-      "study_designs": [],
-      "awards": [
-        {
-          "id": "https://openalex.org/G1455575538",
-          "display_name": null,
-          "funder_award_id": "INMW2407",
-          "funder_id": "https://openalex.org/F4320322323",
-          "funder_display_name": "King Fahd University of Petroleum and Minerals"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320322323",
-          "display_name": "King Fahd University of Petroleum and Minerals",
-          "ror": "https://ror.org/03yez3163"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 66,
-      "referenced_works": [
-        "https://openalex.org/W1972568665",
-        "https://openalex.org/W1982546148",
-        "https://openalex.org/W1985493764",
-        "https://openalex.org/W1993830555",
-        "https://openalex.org/W1997424481",
-        "https://openalex.org/W2065567367",
-        "https://openalex.org/W2083622187",
-        "https://openalex.org/W2091972260",
-        "https://openalex.org/W2319564997",
-        "https://openalex.org/W2520502497",
-        "https://openalex.org/W2580315315",
-        "https://openalex.org/W2800954078",
-        "https://openalex.org/W2893832240",
-        "https://openalex.org/W2916186978",
-        "https://openalex.org/W2917287538",
-        "https://openalex.org/W2944711102",
-        "https://openalex.org/W2950409247",
-        "https://openalex.org/W2964068274",
-        "https://openalex.org/W2980658109",
-        "https://openalex.org/W2993709659",
-        "https://openalex.org/W2995880951",
-        "https://openalex.org/W3008355957",
-        "https://openalex.org/W3016534488",
-        "https://openalex.org/W3022062147",
-        "https://openalex.org/W3025717827",
-        "https://openalex.org/W3041265605",
-        "https://openalex.org/W3041516997",
-        "https://openalex.org/W3080172069",
-        "https://openalex.org/W3090854057",
-        "https://openalex.org/W3094120648",
-        "https://openalex.org/W3094992263",
-        "https://openalex.org/W3122218096",
-        "https://openalex.org/W3133013600",
-        "https://openalex.org/W3163916939",
-        "https://openalex.org/W3179531231",
-        "https://openalex.org/W3208459767",
-        "https://openalex.org/W4206481551",
-        "https://openalex.org/W4211170063",
-        "https://openalex.org/W4220711740",
-        "https://openalex.org/W4224035754",
-        "https://openalex.org/W4224988009",
-        "https://openalex.org/W4225245161",
-        "https://openalex.org/W4284959154",
-        "https://openalex.org/W4285585763",
-        "https://openalex.org/W4304806286",
-        "https://openalex.org/W4311767241",
-        "https://openalex.org/W4313419023",
-        "https://openalex.org/W4324325010",
-        "https://openalex.org/W4362580681",
-        "https://openalex.org/W4377193509",
-        "https://openalex.org/W4380894080",
-        "https://openalex.org/W4383215822",
-        "https://openalex.org/W4384818539",
-        "https://openalex.org/W4386365539",
-        "https://openalex.org/W4394837151",
-        "https://openalex.org/W4399386927",
-        "https://openalex.org/W4401046387",
-        "https://openalex.org/W6726870297",
-        "https://openalex.org/W6766742308",
-        "https://openalex.org/W6775711945",
-        "https://openalex.org/W6809926912",
-        "https://openalex.org/W6810140540",
-        "https://openalex.org/W6852247737",
-        "https://openalex.org/W6854045679",
-        "https://openalex.org/W6868675492",
-        "https://openalex.org/W6871119251"
-      ],
-      "related_works": [
-        "https://openalex.org/W2241336222",
-        "https://openalex.org/W2496777983",
-        "https://openalex.org/W48228245",
-        "https://openalex.org/W2363906946",
-        "https://openalex.org/W2367003325",
-        "https://openalex.org/W2889121619",
-        "https://openalex.org/W2382147790",
-        "https://openalex.org/W2357847693",
-        "https://openalex.org/W2348764464",
-        "https://openalex.org/W2361954106"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 3
-        }
-      ],
-      "updated_date": "2026-09-02T07:38:04.252551",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4410077348",
       "doi": "https://doi.org/10.1007/s42947-025-00552-1",
       "title": "Analysis of Performance Grades for Polymer-Modified Asphalt: A Technical Note",
@@ -44908,6 +44955,7 @@
         "raw_source_name": "International Journal of Pavement Research and Technology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -45407,8 +45455,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -45513,9 +45561,14 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
             "doaj",
-            "norway-1"
+            "dongbi-b",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320547",
           "host_organization_name": "Taylor & Francis",
@@ -45537,6 +45590,7 @@
         "raw_source_name": "Geocarto International",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -45574,7 +45628,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -45639,7 +45693,7 @@
             "KR",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -46203,11 +46257,11 @@
         "currency": "AUD",
         "value_usd": 2390
       },
-      "fwci": 1.3092,
+      "fwci": 1.3042,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.80463726,
+        "value": 0.80384836,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46547,9 +46601,14 @@
             "is_in_doaj": true,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
               "doaj",
-              "norway-1"
+              "dongbi-b",
+              "norway-1",
+              "poland-70",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320547",
             "host_organization_name": "Taylor & Francis",
@@ -46619,9 +46678,14 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
             "doaj",
-            "norway-1"
+            "dongbi-b",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320547",
           "host_organization_name": "Taylor & Francis",
@@ -46645,14 +46709,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 1
+          "display_name": "Sustainable cities and communities"
         },
         {
-          "display_name": "Climate action",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -46674,8 +46738,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -47185,7 +47249,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-09T09:14:12.587421",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-11-23T00:00:00"
     },
     {
@@ -47241,6 +47305,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -47690,9 +47755,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.41999998688697815
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -47705,8 +47770,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -47859,6 +47924,7 @@
         "raw_source_name": "Arabian Journal for Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -48520,29 +48586,29 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8999999761581421
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Climate action",
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Responsible consumption and production",
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4099999964237213
+          "display_name": "Responsible consumption and production"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -48682,6 +48748,7 @@
         "raw_source_name": "Geophysics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -49063,16 +49130,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Zero hunger",
+          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.4699999988079071
+          "display_name": "Zero hunger"
         }
       ],
       "study_designs": [],
@@ -49098,8 +49165,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -49689,6 +49756,7 @@
         "raw_source_name": "Earth Science Informatics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -50337,24 +50405,24 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.9710999727249146,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9710999727249146
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
+          "score": 0.6700000166893005,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6700000166893005
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4405386656.pdf",
@@ -50514,6 +50582,7 @@
         "raw_source_name": "Surfaces and Interfaces",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -51061,16 +51130,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "score": 0.8485000133514404,
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8485000133514404
+          "display_name": "Affordable and clean energy"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Affordable and clean energy",
+          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.4699999988079071
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -51091,8 +51160,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 98,
@@ -51253,9 +51322,13 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-2",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -51277,6 +51350,7 @@
         "raw_source_name": "Theoretical and Applied Climatology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -51539,7 +51613,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahmudur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, 1230, Bangladesh",
@@ -51623,7 +51697,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahmudur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, 1230, Bangladesh",
@@ -52014,7 +52088,8 @@
       "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5036616600",
-        "https://openalex.org/A5122575736"
+        "https://openalex.org/A5122575736",
+        "https://openalex.org/A5129661867"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113",
@@ -52026,11 +52101,11 @@
         "value_usd": 3190
       },
       "apc_paid": null,
-      "fwci": 6.832,
+      "fwci": 6.7786,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.94408247,
+        "value": 0.94365267,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -52405,9 +52480,13 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-2",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -52433,34 +52512,34 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Zero hunger",
+          "score": 0.4359000027179718,
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.4359000027179718
+          "display_name": "Zero hunger"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
+          "score": 0.41343632340431213,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.41343632340431213
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -52553,7 +52632,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-09T09:14:12.587421",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2026-01-10T00:00:00"
     },
     {
@@ -52586,10 +52665,15 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
             "doaj",
+            "dongbi-d",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320547",
           "host_organization_name": "Taylor & Francis",
@@ -52611,6 +52695,7 @@
         "raw_source_name": "Geomatics, Natural Hazards and Risk",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -52657,7 +52742,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology",
@@ -52715,7 +52800,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology",
@@ -52874,7 +52959,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahmudur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology",
@@ -52932,7 +53017,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahmudur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology",
@@ -53045,7 +53130,7 @@
       "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5100671390",
-        "https://openalex.org/A5129708590"
+        "https://openalex.org/A5104113562"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113",
@@ -53061,11 +53146,11 @@
         "currency": "GBP",
         "value_usd": 1790
       },
-      "fwci": 6.832,
+      "fwci": 6.7786,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.94738309,
+        "value": 0.94686947,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -53413,10 +53498,15 @@
             "is_in_doaj": true,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
               "doaj",
+              "dongbi-d",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320547",
             "host_organization_name": "Taylor & Francis",
@@ -53486,10 +53576,15 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
             "doaj",
+            "dongbi-d",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320547",
           "host_organization_name": "Taylor & Francis",
@@ -53513,36 +53608,36 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 1
+          "display_name": "Sustainable cities and communities"
         },
         {
-          "display_name": "Climate action",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.4943999946117401,
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4943999946117401
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
+          "score": 0.5333158373832703,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5333158373832703
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 0.40034809708595276,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.40034809708595276
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "study_designs": [],
@@ -53555,8 +53650,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7125473168.pdf",
@@ -54133,7 +54228,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-09T09:14:12.587421",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2026-01-24T00:00:00"
     },
     {
@@ -54186,6 +54281,7 @@
         "raw_source_name": "TURKISH JOURNAL OF EARTH SCIENCES",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -54826,9 +54922,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life on land",
+          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4699999988079071
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -54846,8 +54942,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2167330935.pdf",
@@ -55482,6 +55578,7 @@
         "raw_source_name": "Journal of Petroleum Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -56066,9 +56163,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -56089,8 +56186,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -56260,6 +56357,7 @@
         "raw_source_name": "Water",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -56906,9 +57004,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
+          "score": 0.7300000190734863,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7300000190734863
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -56929,8 +57027,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3009319440.pdf",
@@ -57681,6 +57779,7 @@
         "raw_source_name": "Arabian Journal for Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -58298,29 +58397,29 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/7",
-          "score": 1
+          "display_name": "Affordable and clean energy"
         },
         {
-          "display_name": "Climate action",
+          "score": 0.821399986743927,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.821399986743927
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Affordable and clean energy",
+          "score": 0.5899999737739563,
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5899999737739563
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -58455,6 +58554,7 @@
         "raw_source_name": "Journal of Hydrology: Regional Studies",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -58946,14 +59046,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.8598999977111816,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8598999977111816
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Climate action",
+          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -58975,8 +59075,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 74,
@@ -59720,6 +59820,7 @@
         "raw_source_name": "Paddy and Water Environment",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -60699,14 +60800,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.7778000235557556,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7778000235557556
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Zero hunger",
+          "score": 0.6875,
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.6875
+          "display_name": "Zero hunger"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -60714,8 +60815,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -60861,6 +60962,7 @@
         "raw_source_name": "Earth",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -61538,21 +61640,21 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Good health and well-being",
+          "score": 0.4043000042438507,
           "id": "https://metadata.un.org/sdg/3",
-          "score": 0.4043000042438507
+          "display_name": "Good health and well-being"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.5572254657745361,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5572254657745361
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -61573,8 +61675,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7165841200.pdf",
@@ -62299,6 +62401,7 @@
         "raw_source_name": "53rd U.S. Rock Mechanics/Geomechanics Symposium",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -62840,17 +62943,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Zero hunger",
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.41999998688697815
+          "display_name": "Zero hunger"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -62945,6 +63048,7 @@
         "raw_source_name": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -63366,17 +63470,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
+          "score": 0.6499999761581421,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6499999761581421
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -64064,6 +64168,7 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "datacite"
@@ -64471,17 +64576,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65121,6 +65226,7 @@
         "raw_source_name": "Earth Science Informatics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -65610,9 +65716,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -65620,8 +65726,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -65749,6 +65855,7 @@
         "raw_source_name": "82nd EAGE Annual Conference &amp; Exhibition",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -66184,17 +66291,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
+          "score": 0.6700000166893005,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6700000166893005
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -66719,6 +66826,7 @@
         "raw_source_name": "Geofluids",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -67366,9 +67474,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life on land",
+          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5099999904632568
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -67386,8 +67494,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4315434479.pdf",
@@ -68166,6 +68274,7 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -68719,17 +68828,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2539001916.pdf",
@@ -69445,6 +69554,7 @@
         "raw_source_name": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -69936,8 +70046,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -70812,6 +70922,7 @@
         "raw_source_name": "SPE Middle East Oil and Gas Show and Conference",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -71262,8 +71373,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -72035,6 +72146,7 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -72325,8 +72437,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -72401,6 +72513,7 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -72728,8 +72841,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -72802,6 +72915,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -73192,17 +73306,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.6700000166893005,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6700000166893005
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -73261,6 +73375,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -73750,24 +73865,24 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Zero hunger",
+          "score": 0.6875,
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.6875
+          "display_name": "Zero hunger"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Zero hunger",
+          "score": 0.7400000095367432,
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.7400000095367432
+          "display_name": "Zero hunger"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -74305,6 +74420,7 @@
         "raw_source_name": "SSRN Electronic Journal",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "preprint",
       "indexed_in": [
         "crossref"
@@ -74832,24 +74948,24 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.9090999960899353,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
+          "score": 0.7699999809265137,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -74898,6 +75014,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -75299,24 +75416,24 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.9090999960899353,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
+          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -76050,6 +76167,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -76484,29 +76602,29 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.9090999960899353,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Good health and well-being",
+          "score": 0.5683000087738037,
           "id": "https://metadata.un.org/sdg/3",
-          "score": 0.5683000087738037
+          "display_name": "Good health and well-being"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
+          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -77287,6 +77405,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -77796,9 +77915,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.965499997138977,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -77806,8 +77925,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -78432,6 +78551,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -78794,14 +78914,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.965499997138977,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Good health and well-being",
+          "score": 0.9074000120162964,
           "id": "https://metadata.un.org/sdg/3",
-          "score": 0.9074000120162964
+          "display_name": "Good health and well-being"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -78809,8 +78929,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -79270,6 +79390,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "preprint",
       "indexed_in": [
         "crossref"
@@ -79773,9 +79894,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.965499997138977,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -79783,8 +79904,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -79847,6 +79968,7 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -80358,9 +80480,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.7778000235557556,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7778000235557556
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -80368,8 +80490,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -80969,6 +81091,7 @@
         "raw_source_name": "Journal of King Saud University – Science",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -81740,16 +81863,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Zero hunger",
+          "score": 0.4535079300403595,
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.4535079300403595
+          "display_name": "Zero hunger"
         }
       ],
       "study_designs": [],
@@ -81762,8 +81885,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7128452096.pdf",
@@ -82444,6 +82567,7 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -84406,34 +84530,34 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Responsible consumption and production",
+          "score": 0.5171999931335449,
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5171999931335449
+          "display_name": "Responsible consumption and production"
         },
         {
-          "display_name": "Good health and well-being",
+          "score": 0.4043000042438507,
           "id": "https://metadata.un.org/sdg/3",
-          "score": 0.4043000042438507
+          "display_name": "Good health and well-being"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.7608427405357361,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7608427405357361
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7128704649.pdf",
@@ -85096,6 +85220,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -85647,14 +85772,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Responsible consumption and production",
+          "score": 0.7811999917030334,
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.7811999917030334
+          "display_name": "Responsible consumption and production"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -85662,8 +85787,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -86313,6 +86438,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -86805,24 +86931,24 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.965499997138977,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
+          "score": 0.8431621193885803,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8431621193885803
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -87668,6 +87794,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -88133,34 +88260,34 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.9090999960899353,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 0.8787999749183655,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.8787999749183655
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 0.6082315444946289,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.6082315444946289
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -88753,9 +88880,14 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-d",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -88775,6 +88907,7 @@
         "raw_source_name": "Physics and Chemistry of the Earth, Parts A/B/C",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -88822,7 +88955,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, 1230, Bangladesh",
@@ -88880,7 +89013,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, 1230, Bangladesh",
@@ -89123,7 +89256,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13153028,
+        "value": 0.13063462,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -89386,9 +89519,14 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
+              "dongbi-d",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -89412,29 +89550,29 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 1
+          "display_name": "Sustainable cities and communities"
         },
         {
-          "display_name": "Climate action",
+          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 0.6109220385551453,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.6109220385551453
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -89469,7 +89607,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2026-03-18T00:00:00"
     },
     {
@@ -89530,6 +89668,7 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "erratum",
       "indexed_in": [
         "crossref",
@@ -90192,24 +90331,24 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.965499997138977,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.6860736012458801,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6860736012458801
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7155098166.pdf"
@@ -90319,10 +90458,15 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
             "ki-jl-1",
-            "norway-1"
+            "norway-1",
+            "poland-40",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -90344,6 +90488,7 @@
         "raw_source_name": "Environment, Development and Sustainability",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -90391,7 +90536,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh",
@@ -90449,7 +90594,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh",
@@ -90813,7 +90958,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.29827682,
+        "value": 0.29624422,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -91097,10 +91242,15 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
               "ki-jl-1",
-              "norway-1"
+              "norway-1",
+              "poland-40",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -91126,29 +91276,29 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.965499997138977,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
+          "score": 0.4835779368877411,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4835779368877411
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -91222,7 +91372,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-09T09:14:12.587421",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2026-05-05T00:00:00"
     },
     {
@@ -91266,6 +91416,7 @@
         "raw_source_name": "2025 IEEE MIT Undergraduate Research Technology Conference (URTC)",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -91636,29 +91787,29 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Responsible consumption and production",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/12",
-          "score": 1
+          "display_name": "Responsible consumption and production"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.8365907669067383,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8365907669067383
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -92099,6 +92250,7 @@
         "raw_source_name": null,
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -92609,9 +92761,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -92619,8 +92771,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -92723,6 +92875,7 @@
         "raw_source_name": "Physics and Chemistry of the Earth, Parts A/B/C",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -93308,9 +93461,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -93332,8 +93485,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -93429,6 +93582,7 @@
         "raw_source_name": null,
         "raw_type": "Thesis"
       },
+      "volume": null,
       "type": "dissertation",
       "indexed_in": [],
       "open_access": {
@@ -93721,8 +93875,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7167195421.pdf",
@@ -93796,6 +93950,7 @@
         "raw_source_name": "Water",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -94432,14 +94587,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.965499997138977,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.4943999946117401,
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4943999946117401
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -94447,8 +94602,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -95097,6 +95252,7 @@
         "raw_source_name": "Journal of Water Resources Planning and Management",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -95657,34 +95813,34 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 1
+          "display_name": "Sustainable cities and communities"
         },
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Climate action",
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 0.5538976192474365,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5538976192474365
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -96237,6 +96393,7 @@
         "raw_source_name": "Remote Sensing",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "paratext",
       "indexed_in": [
         "crossref",
@@ -97005,8 +97162,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -97682,6 +97839,7 @@
         "raw_source_name": "Earth",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -98377,26 +98535,26 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 0.9333000183105469,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.9333000183105469
+          "display_name": "Sustainable cities and communities"
         },
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.8571000099182129,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8571000099182129
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Climate action",
+          "score": 0.821399986743927,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.821399986743927
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 0.5348670482635498,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5348670482635498
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "study_designs": [],
@@ -98409,8 +98567,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -99133,6 +99291,7 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -99857,29 +100016,29 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 1,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 1
+          "display_name": "Sustainable cities and communities"
         },
         {
-          "display_name": "Climate action",
+          "score": 0.821399986743927,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.821399986743927
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 0.7846640348434448,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.7846640348434448
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7202130880.pdf",
@@ -100463,6 +100622,7 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -101084,16 +101244,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.9090999960899353,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
+          "score": 0.8302261233329773,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8302261233329773
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -101106,8 +101266,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7203693229.pdf",

@@ -29,7 +29,7 @@
     ],
     "full_name": "Abdullatif Abdulrahman Al-Shuhail",
     "works_count": 173,
-    "cited_by_count": 1426,
+    "cited_by_count": 1427,
     "summary_stats": {
       "2yr_mean_citedness": 4.066666666666666,
       "h_index": 22,
@@ -275,7 +275,7 @@
       {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "value": 0.0005144,
+        "value": 0.0005157,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -292,7 +292,7 @@
       {
         "id": "https://openalex.org/T11757",
         "display_name": "Seismic Waves and Analysis",
-        "value": 0.0003084,
+        "value": 0.0003093,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -309,7 +309,7 @@
       {
         "id": "https://openalex.org/T13018",
         "display_name": "Seismology and Earthquake Studies",
-        "value": 0.0002754,
+        "value": 0.0002782,
         "subfield": {
           "id": "https://openalex.org/subfields/1702",
           "display_name": "Artificial Intelligence"
@@ -343,7 +343,7 @@
       {
         "id": "https://openalex.org/T11609",
         "display_name": "Geophysical Methods and Applications",
-        "value": 0.0001474,
+        "value": 0.0001475,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -497,7 +497,7 @@
         "year": 2022,
         "works_count": 13,
         "oa_works_count": 10,
-        "cited_by_count": 100
+        "cited_by_count": 101
       },
       {
         "year": 2023,
@@ -547,7 +547,7 @@
     ],
     "block_key": "a al-shuhail",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054922583",
-    "updated_date": "2026-10-08T12:30:13",
+    "updated_date": "2026-10-09T12:31:04",
     "created_date": "2016-11-30T00:00:00"
   },
   "works": [
@@ -602,6 +602,7 @@
         "raw_source_name": "Journal of Petroleum Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -1271,6 +1272,7 @@
         "raw_source_name": "Geophysics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -1714,8 +1716,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8299999833106995,
           "display_name": "Affordable and clean energy"
         }
       ],
@@ -2289,9 +2291,13 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
             "ki-jl-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -2311,6 +2317,7 @@
         "raw_source_name": "Journal of Environmental Chemical Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -2585,11 +2592,11 @@
         "value_usd": 3250
       },
       "apc_paid": null,
-      "fwci": 6.0798,
+      "fwci": 6.1956,
       "has_fulltext": false,
-      "cited_by_count": 51,
+      "cited_by_count": 52,
       "citation_normalized_percentile": {
-        "value": 0.97882955,
+        "value": 0.97950475,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2899,9 +2906,13 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
               "ki-jl-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -2925,8 +2936,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.9786999821662903,
           "display_name": "Climate action"
         }
       ],
@@ -3140,7 +3151,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 18
+          "cited_by_count": 19
         },
         {
           "year": 2025,
@@ -3151,7 +3162,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3202,6 +3213,7 @@
         "raw_source_name": "Synthesis Lectures on Signal Processing",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -3681,6 +3693,7 @@
         "raw_source_name": "Journal of Petroleum Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -4359,6 +4372,7 @@
         "raw_source_name": "Mitigation and Adaptation Strategies for Global Change",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -4864,15 +4878,15 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 1,
           "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.8399999737739563,
           "display_name": "Climate action"
         }
       ],
@@ -5080,6 +5094,7 @@
         "raw_source_name": "Journal of Geophysics and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -6282,6 +6297,7 @@
         "raw_source_name": "Environmental Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -6728,8 +6744,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.9786999821662903,
           "display_name": "Climate action"
         }
       ],
@@ -6903,6 +6919,7 @@
         "raw_source_name": "Pure and Applied Geophysics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -7573,6 +7590,7 @@
         "raw_source_name": "Sustainability",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -8138,8 +8156,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.46149998903274536,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.46149998903274536,
           "display_name": "Climate action"
         }
       ],
@@ -8810,6 +8828,7 @@
         "raw_source_name": "Geophysics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -9235,8 +9254,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8899999856948853,
           "display_name": "Affordable and clean energy"
         }
       ],
@@ -9748,6 +9767,7 @@
         "raw_source_name": "Sustainability",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -10417,30 +10437,30 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.8999999761581421,
           "display_name": "Clean water and sanitation"
         },
         {
-          "score": 0.8518999814987183,
           "id": "https://metadata.un.org/sdg/15",
+          "score": 0.8518999814987183,
           "display_name": "Life on land"
         },
         {
-          "score": 0.821399986743927,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.821399986743927,
           "display_name": "Climate action"
         },
         {
-          "score": 0.7250000238418579,
           "id": "https://metadata.un.org/sdg/11",
+          "score": 0.7250000238418579,
           "display_name": "Sustainable cities and communities"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/11",
+          "score": 0.7900000214576721,
           "display_name": "Sustainable cities and communities"
         }
       ],
@@ -10985,6 +11005,7 @@
         "raw_source_name": "IEEE Access",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -12417,6 +12438,7 @@
         "raw_source_name": "Environmental Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -12875,8 +12897,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4399999976158142,
           "display_name": "Climate action"
         }
       ],
@@ -13048,6 +13070,7 @@
         "raw_source_name": null,
         "raw_type": "monograph"
       },
+      "volume": null,
       "type": "book",
       "indexed_in": [
         "crossref"
@@ -13408,8 +13431,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7300000190734863,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.7300000190734863,
           "display_name": "Climate action"
         }
       ],
@@ -13524,6 +13547,7 @@
         "raw_source_name": "IEEE Signal Processing Magazine",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -14622,6 +14646,7 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -15531,6 +15556,7 @@
         "raw_source_name": "International Journal of Global Warming",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -15999,8 +16025,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.685699999332428,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.685699999332428,
           "display_name": "Climate action"
         }
       ],
@@ -16473,6 +16499,7 @@
         "raw_source_name": "Applied Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -17036,13 +17063,13 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5,
           "display_name": "Life below water"
         },
         {
-          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/11",
+          "score": 0.46000000834465027,
           "display_name": "Sustainable cities and communities"
         }
       ],
@@ -17649,6 +17676,7 @@
         "raw_source_name": "IEEE Access",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "arxiv",
@@ -18269,8 +18297,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.800000011920929,
           "display_name": "Affordable and clean energy"
         }
       ],
@@ -18793,6 +18821,7 @@
         "raw_source_name": "International Journal of Geomechanics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -19238,15 +19267,15 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651,
           "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.44999998807907104,
           "display_name": "Life below water"
         }
       ],
@@ -19745,6 +19774,7 @@
         "raw_source_name": "Marine Geophysical Research",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -20255,8 +20285,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7099999785423279,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7099999785423279,
           "display_name": "Life below water"
         }
       ],
@@ -20437,6 +20467,7 @@
         "raw_source_name": "Geophysics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -20932,8 +20963,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7599999904632568,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7599999904632568,
           "display_name": "Life below water"
         }
       ],
@@ -21604,6 +21635,7 @@
         "raw_source_name": "International Journal of Hydrogen Energy",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -22174,13 +22206,13 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.75,
           "display_name": "Affordable and clean energy"
         },
         {
-          "score": 0.46149998903274536,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.46149998903274536,
           "display_name": "Climate action"
         }
       ],
@@ -23079,6 +23111,7 @@
         "raw_source_name": "IEEE Transactions on Geoscience and Remote Sensing",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -24160,6 +24193,7 @@
         "raw_source_name": "Journal of Petroleum Exploration and Production Technology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -24779,8 +24813,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/15",
+          "score": 0.5099999904632568,
           "display_name": "Life on land"
         }
       ],
@@ -25275,6 +25309,7 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -26009,8 +26044,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5899999737739563,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5899999737739563,
           "display_name": "Life below water"
         }
       ],
@@ -26704,6 +26739,7 @@
         "raw_source_name": "Earth and Space Science",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -27341,8 +27377,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.428600013256073,
           "id": "https://metadata.un.org/sdg/9",
+          "score": 0.428600013256073,
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
@@ -28006,6 +28042,7 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -29416,6 +29453,7 @@
         "raw_source_name": "Earth and Space Science",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "arxiv",
@@ -30811,6 +30849,7 @@
         "raw_source_name": "Geophysical Prospecting",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -32075,6 +32114,7 @@
         "raw_source_name": "Environmental Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -32575,8 +32615,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.685699999332428,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.685699999332428,
           "display_name": "Climate action"
         }
       ],
@@ -32762,6 +32802,7 @@
         "raw_source_name": "Journal of Applied Geophysics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "arxiv",
@@ -33585,6 +33626,7 @@
         "raw_source_name": "Applied Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -34830,6 +34872,7 @@
         "raw_source_name": "Earth and Space Science",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -35597,8 +35640,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5400000214576721,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5400000214576721,
           "display_name": "Life below water"
         }
       ],
@@ -36318,6 +36361,7 @@
         "raw_source_name": "Journal of Applied Geophysics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -36997,8 +37041,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
           "display_name": "Life below water"
         }
       ],
@@ -37150,6 +37194,7 @@
         "raw_source_name": "Sensors",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -38333,6 +38378,7 @@
         "raw_source_name": "Geophysics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -39283,6 +39329,7 @@
         "raw_source_name": "Geophysics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -40525,6 +40572,7 @@
         "raw_source_name": "Arabian Journal for Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -40992,8 +41040,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6200000047683716,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6200000047683716,
           "display_name": "Climate action"
         }
       ],
@@ -41121,6 +41169,7 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -41703,8 +41752,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/11",
+          "score": 0.5199999809265137,
           "display_name": "Sustainable cities and communities"
         }
       ],
@@ -42641,6 +42690,7 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -44224,6 +44274,7 @@
         "raw_source_name": "SPE Middle East Oil and Gas Show and Conference",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -45454,6 +45505,7 @@
         "raw_source_name": "Journal of Environmental and Engineering Geophysics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -46624,6 +46676,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -47244,7 +47297,9 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
-            "cwts-core"
+            "cwts-core",
+            "poland-20",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -47266,6 +47321,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -47285,46 +47341,6 @@
             "orcid": "https://orcid.org/0000-0002-2171-0154",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2171-0154"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdullatif A. Al-Shuhail",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5111604304",
-            "display_name": "Abdullah A. Alshuhail",
-            "orcid": "https://orcid.org/0000-0001-5392-3261",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5392-3261"
             ]
           },
           "institutions": [
@@ -47383,6 +47399,46 @@
             "SA"
           ],
           "is_corresponding": false,
+          "raw_author_name": "Abdullatif A. Al-Shuhail",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111604304",
+            "display_name": "Abdullah A. Alshuhail",
+            "orcid": "https://orcid.org/0000-0001-5392-3261",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5392-3261"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
           "raw_author_name": "Abdullah A. Alshuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -47429,7 +47485,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Abdullah A. Alshuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -47890,6 +47946,7 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
+        "https://openalex.org/A5054922583",
         "https://openalex.org/A5111604304"
       ],
       "corresponding_institution_ids": [
@@ -47901,11 +47958,11 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.6995,
+      "fwci": 1.6994,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.80608752,
+        "value": 0.80603887,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48173,7 +48230,9 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
-              "cwts-core"
+              "cwts-core",
+              "poland-20",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -48200,8 +48259,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7099999785423279,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.7099999785423279,
           "display_name": "Climate action"
         }
       ],
@@ -48297,7 +48356,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-09T09:14:12.587421",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -48351,6 +48410,7 @@
         "raw_source_name": "Applied Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -49726,6 +49786,7 @@
         "raw_source_name": "Seismological Research Letters",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -51032,6 +51093,7 @@
         "raw_source_name": "Interpretation",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -52079,6 +52141,7 @@
         "raw_source_name": "Synthesis Lectures on Signal Processing",
         "raw_type": "book"
       },
+      "volume": null,
       "type": "book",
       "indexed_in": [
         "crossref"
@@ -52494,6 +52557,7 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -53070,8 +53134,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/12",
+          "score": 0.4300000071525574,
           "display_name": "Responsible consumption and production"
         }
       ],
@@ -53781,6 +53845,7 @@
         "raw_source_name": "Petroleum Geoscience",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -55336,6 +55401,7 @@
         "raw_source_name": "Volume 2: Computational Fluid Dynamics",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -56118,6 +56184,7 @@
         "raw_source_name": "Minerals",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -56660,8 +56727,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5,
           "display_name": "Life below water"
         }
       ],
@@ -57219,6 +57286,7 @@
         "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -58099,6 +58167,7 @@
         "raw_source_name": "IEEE Transactions on Geoscience and Remote Sensing",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -58668,8 +58737,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8999999761581421,
           "display_name": "Affordable and clean energy"
         }
       ],
@@ -59237,6 +59306,7 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -59825,8 +59895,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4399999976158142,
           "display_name": "Climate action"
         }
       ],
@@ -60049,6 +60119,7 @@
         "raw_source_name": "Results in Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -61207,6 +61278,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -61760,6 +61832,7 @@
         "raw_source_name": "IEEE Access",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -62961,6 +63034,7 @@
         "raw_source_name": "International Geology Review",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -63375,8 +63449,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.550000011920929,
           "id": "https://metadata.un.org/sdg/15",
+          "score": 0.550000011920929,
           "display_name": "Life on land"
         }
       ],
@@ -63768,6 +63842,7 @@
         "raw_source_name": "The Leading Edge",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -64161,8 +64236,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water"
         }
       ],
@@ -64406,6 +64481,7 @@
         "raw_source_name": "Journal of Environmental and Engineering Geophysics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -65529,6 +65605,7 @@
         "raw_source_name": "Arabian Journal for Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -66044,6 +66121,7 @@
         "raw_source_name": "Geophysical Journal International",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -67682,6 +67760,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -68226,6 +68305,7 @@
         "raw_source_name": "Water",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -68872,8 +68952,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7300000190734863,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7300000190734863,
           "display_name": "Life below water"
         }
       ],
@@ -69643,6 +69723,7 @@
         "raw_source_name": "Advances in Oil and Gas Exploration &amp; Production",
         "raw_type": "book"
       },
+      "volume": null,
       "type": "book",
       "indexed_in": [
         "crossref"
@@ -70008,8 +70089,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.7900000214576721,
           "display_name": "Climate action"
         }
       ],
@@ -70103,6 +70184,7 @@
         "raw_source_name": "International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -71192,6 +71274,10 @@
         "raw_source_name": "Advances in Oil and Gas Exploration &amp; Production",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W2985349608",
+        "display_name": "Attenuation of Incoherent Seismic Noise"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -71295,11 +71381,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6602,
+      "fwci": 1.6682,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.83388704,
+        "value": 0.8340708,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -71517,8 +71603,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.41999998688697815,
           "display_name": "Climate action"
         }
       ],
@@ -71569,7 +71655,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -71614,6 +71700,7 @@
         "raw_source_name": "68th EAGE Conference and Exhibition incorporating SPE EUROPEC 2006",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -72239,6 +72326,7 @@
         "raw_source_name": "World Environmental and Water Resources Congress 2020",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -72632,8 +72720,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.9786999821662903,
           "display_name": "Climate action"
         }
       ],
@@ -73128,6 +73216,7 @@
         "raw_source_name": "Journal of Geophysics and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -73498,8 +73587,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8399999737739563,
           "display_name": "Life below water"
         }
       ],
@@ -74054,6 +74143,7 @@
         "raw_source_name": "Sensors",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -75840,6 +75930,7 @@
         "raw_source_name": "Arabian Journal for Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -76660,6 +76751,7 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -77927,6 +78019,7 @@
         "raw_source_name": "Geophysical Journal International",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -78550,8 +78643,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8700000047683716,
           "display_name": "Affordable and clean energy"
         }
       ],
@@ -79377,6 +79470,7 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -79931,15 +80025,15 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 1,
           "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6800000071525574,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6800000071525574,
           "display_name": "Climate action"
         }
       ],
@@ -80525,6 +80619,7 @@
         "raw_source_name": "World Environmental and Water Resources Congress 2022",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -80851,15 +80946,15 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.9786999821662903,
           "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.800000011920929,
           "display_name": "Climate action"
         }
       ],
@@ -81471,6 +81566,7 @@
         "raw_source_name": "6th Asia Pacific Meeting on Near Surface Geoscience and Engineering",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -81952,8 +82048,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.699999988079071,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.699999988079071,
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -82512,6 +82608,7 @@
         "raw_source_name": "Geophysical Prospecting",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "arxiv",
@@ -83702,6 +83799,7 @@
         "raw_source_name": "The Leading Edge",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -84149,8 +84247,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
           "display_name": "Life below water"
         }
       ],
@@ -84518,6 +84616,7 @@
         "raw_source_name": "Journal of Petroleum Exploration and Production Technology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -85540,6 +85639,7 @@
         "raw_source_name": "Applied Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -86722,6 +86822,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -87121,8 +87222,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6100000143051147,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6100000143051147,
           "display_name": "Climate action"
         }
       ],
@@ -87232,6 +87333,7 @@
         "raw_source_name": "The Leading Edge",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -87575,8 +87677,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5899999737739563,
           "id": "https://metadata.un.org/sdg/11",
+          "score": 0.5899999737739563,
           "display_name": "Sustainable cities and communities"
         }
       ],
@@ -87891,6 +87993,7 @@
         "raw_source_name": "Geophysics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -88928,6 +89031,7 @@
         "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -89901,6 +90005,7 @@
         "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -90234,8 +90339,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5799999833106995,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5799999833106995,
           "display_name": "Climate action"
         }
       ],
@@ -90420,6 +90525,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -90757,8 +90863,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5199999809265137,
           "display_name": "Life below water"
         }
       ],
@@ -91263,6 +91369,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -92165,6 +92272,7 @@
         "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -92710,8 +92818,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6399999856948853,
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.6399999856948853,
           "display_name": "Affordable and clean energy"
         }
       ],
@@ -93183,6 +93291,7 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -94050,6 +94159,7 @@
         "raw_source_name": "Signal, Image and Video Processing",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -94537,6 +94647,7 @@
         "raw_source_name": "78th EAGE Conference and Exhibition 2016",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -95246,6 +95357,10 @@
         "raw_source_name": "Advances in Oil and Gas Exploration &amp; Production",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W2985349608",
+        "display_name": "Attenuation of Incoherent Seismic Noise"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -95349,11 +95464,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9187,
+      "fwci": 0.9578,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.76792508,
+        "value": 0.76983895,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -95576,8 +95691,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/10",
+          "score": 0.4099999964237213,
           "display_name": "Reduced inequalities"
         }
       ],
@@ -95628,7 +95743,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -95684,6 +95799,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -96180,6 +96296,7 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -96552,8 +96669,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/10",
+          "score": 0.800000011920929,
           "display_name": "Reduced inequalities"
         }
       ],
@@ -96938,6 +97055,7 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -97263,8 +97381,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7799999713897705,
           "id": "https://metadata.un.org/sdg/10",
+          "score": 0.7799999713897705,
           "display_name": "Reduced inequalities"
         }
       ],
@@ -97809,6 +97927,10 @@
         "raw_source_name": "Advances in Oil and Gas Exploration &amp; Production",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W2985349608",
+        "display_name": "Attenuation of Incoherent Seismic Noise"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -97912,11 +98034,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4593,
+      "fwci": 0.4789,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.65291191,
+        "value": 0.65417277,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -98258,7 +98380,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -98313,6 +98435,7 @@
         "raw_source_name": "Journal of Petroleum Exploration and Production Technology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -99361,6 +99484,7 @@
         "raw_source_name": "Applied Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -100557,6 +100681,7 @@
         "raw_source_name": "GEM - International Journal on Geomathematics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -101432,6 +101557,7 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -102013,8 +102139,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6800000071525574,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6800000071525574,
           "display_name": "Life below water"
         }
       ],
@@ -102521,6 +102647,7 @@
         "raw_source_name": "Journal of seismic exploration",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -102936,8 +103063,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5799999833106995,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5799999833106995,
           "display_name": "Climate action"
         }
       ],
@@ -103037,6 +103164,7 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -103820,6 +103948,7 @@
         "raw_source_name": "World Environmental and Water Resources Congress 2018",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -104204,8 +104333,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.821399986743927,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.821399986743927,
           "display_name": "Climate action"
         }
       ],
@@ -104648,6 +104777,7 @@
         "raw_source_name": "Interpretation",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -105893,6 +106023,7 @@
         "raw_source_name": "Exploration Geophysics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -106974,6 +107105,7 @@
         "raw_source_name": "81st EAGE Conference and Exhibition 2019",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -107933,6 +108065,7 @@
         "raw_source_name": "GEO 2008",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -108266,8 +108399,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/11",
+          "score": 0.4300000071525574,
           "display_name": "Sustainable cities and communities"
         }
       ],
@@ -108889,6 +109022,7 @@
         "raw_source_name": "82nd EAGE Annual Conference &amp; Exhibition",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -109324,8 +109458,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6700000166893005,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6700000166893005,
           "display_name": "Life below water"
         }
       ],
@@ -109852,6 +109986,10 @@
         "raw_source_name": "Synthesis Lectures on Signal Processing",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4302320831",
+        "display_name": "Processing of Seismic Reflection Data Using MATLAB™"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -109957,7 +110095,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.46332046,
+        "value": 0.46143959,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -110126,8 +110264,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5899999737739563,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5899999737739563,
           "display_name": "Climate action"
         }
       ],
@@ -110160,7 +110298,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -110190,6 +110328,7 @@
         "raw_source_name": "2018 Middle East Geosciences Conference and Exhibition",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -110415,8 +110554,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6899999976158142,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6899999976158142,
           "display_name": "Climate action"
         }
       ],
@@ -110494,6 +110633,7 @@
         "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -110823,8 +110963,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6000000238418579,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6000000238418579,
           "display_name": "Climate action"
         }
       ],
@@ -111340,6 +111480,10 @@
         "raw_source_name": "Seismic Data Interpretation using Digital Image Processing",
         "raw_type": "other"
       },
+      "volume": {
+        "id": "https://openalex.org/W2620867814",
+        "display_name": "Seismic Data Interpretation using Digital Image Processing"
+      },
       "type": "other",
       "indexed_in": [
         "crossref"
@@ -111788,8 +111932,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8199999928474426,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.8199999928474426,
           "display_name": "Climate action"
         }
       ],
@@ -112160,7 +112304,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2017-06-09T00:00:00"
     },
     {
@@ -112190,6 +112334,10 @@
         "is_published": true,
         "raw_source_name": "Seismic Data Interpretation using Digital Image Processing",
         "raw_type": "other"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2620867814",
+        "display_name": "Seismic Data Interpretation using Digital Image Processing"
       },
       "type": "other",
       "indexed_in": [
@@ -112629,8 +112777,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.550000011920929,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.550000011920929,
           "display_name": "Climate action"
         }
       ],
@@ -113028,7 +113176,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2017-06-09T00:00:00"
     },
     {
@@ -113057,6 +113205,10 @@
         "is_published": true,
         "raw_source_name": "Seismic Data Interpretation using Digital Image Processing",
         "raw_type": "other"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2620867814",
+        "display_name": "Seismic Data Interpretation using Digital Image Processing"
       },
       "type": "other",
       "indexed_in": [
@@ -113534,8 +113686,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6600000262260437,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6600000262260437,
           "display_name": "Climate action"
         }
       ],
@@ -113924,7 +114076,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -113976,6 +114128,7 @@
         "raw_source_name": "Sustainability",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "erratum",
       "indexed_in": [
         "crossref"
@@ -114507,15 +114660,15 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.9090999960899353,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.9090999960899353,
           "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/12",
+          "score": 0.4399999976158142,
           "display_name": "Responsible consumption and production"
         }
       ],
@@ -114643,6 +114796,10 @@
         "raw_source_name": "Synthesis Lectures on Signal Processing",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4302320831",
+        "display_name": "Processing of Seismic Reflection Data Using MATLAB™"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -114748,7 +114905,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.46653797,
+        "value": 0.46465296,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -114935,8 +115092,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.75,
           "display_name": "Climate action"
         }
       ],
@@ -114964,7 +115121,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -115020,6 +115177,7 @@
         "raw_source_name": "Computers &amp; Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -115331,8 +115489,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.699999988079071,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.699999988079071,
           "display_name": "Climate action"
         }
       ],
@@ -115429,6 +115587,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -115764,8 +115923,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6000000238418579,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6000000238418579,
           "display_name": "Climate action"
         }
       ],
@@ -115850,6 +116009,7 @@
         "raw_source_name": "EAGE Workshop on Non-Seismic Methods",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -116669,6 +116829,7 @@
         "raw_source_name": "Global Meeting Abstracts",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -117165,8 +117326,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5099999904632568,
           "display_name": "Affordable and clean energy"
         }
       ],
@@ -117908,6 +118069,7 @@
         "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -118619,6 +118781,10 @@
         "is_published": true,
         "raw_source_name": "Seismic Data Interpretation using Digital Image Processing",
         "raw_type": "other"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2620867814",
+        "display_name": "Seismic Data Interpretation using Digital Image Processing"
       },
       "type": "other",
       "indexed_in": [
@@ -119388,7 +119554,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2017-06-09T00:00:00"
     },
     {
@@ -119418,6 +119584,10 @@
         "is_published": true,
         "raw_source_name": "Seismic Data Interpretation using Digital Image Processing",
         "raw_type": "other"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2620867814",
+        "display_name": "Seismic Data Interpretation using Digital Image Processing"
       },
       "type": "other",
       "indexed_in": [
@@ -120202,7 +120372,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2017-06-09T00:00:00"
     },
     {
@@ -120247,6 +120417,7 @@
         "raw_source_name": "80th EAGE Conference &amp; Exhibition 2018 Workshop Programme",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -120569,8 +120740,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -121125,6 +121296,7 @@
         "raw_source_name": null,
         "raw_type": "text"
       },
+      "volume": null,
       "type": "preprint",
       "indexed_in": [
         "arxiv",
@@ -122347,6 +122519,10 @@
         "raw_source_name": "Advances in Oil and Gas Exploration &amp; Production",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W2985349608",
+        "display_name": "Attenuation of Incoherent Seismic Noise"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -122454,7 +122630,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.23909862,
+        "value": 0.23953148,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -122681,8 +122857,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/11",
+          "score": 0.5299999713897705,
           "display_name": "Sustainable cities and communities"
         }
       ],
@@ -122710,7 +122886,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -122763,6 +122939,10 @@
         "is_published": true,
         "raw_source_name": "Advances in Oil and Gas Exploration &amp; Production",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2985349608",
+        "display_name": "Attenuation of Incoherent Seismic Noise"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -122871,7 +123051,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.24846356,
+        "value": 0.2489019,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -123145,7 +123325,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -123198,6 +123378,10 @@
         "is_published": true,
         "raw_source_name": "Advances in Oil and Gas Exploration &amp; Production",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2985349608",
+        "display_name": "Attenuation of Incoherent Seismic Noise"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -123306,7 +123490,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.24916944,
+        "value": 0.25,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -123528,8 +123712,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4000000059604645,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4000000059604645,
           "display_name": "Climate action"
         }
       ],
@@ -123562,7 +123746,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -123608,6 +123792,7 @@
         "raw_source_name": "AGUFM",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -123914,6 +124099,7 @@
         "raw_source_name": "GEO 2008",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -124807,6 +124993,7 @@
         "raw_source_name": "GEO 2008",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -125467,6 +125654,7 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -125762,8 +125950,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.46000000834465027,
           "display_name": "Climate action"
         }
       ],
@@ -126191,6 +126379,7 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -127012,6 +127201,7 @@
         "raw_source_name": "The Leading Edge",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -127940,6 +128130,7 @@
         "raw_source_name": "World Environmental and Water Resources Congress 2021",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -128410,8 +128601,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 1,
           "display_name": "Climate action"
         }
       ],
@@ -129099,6 +129290,7 @@
         "raw_source_name": "AGU Fall Meeting Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [],
       "open_access": {
@@ -129354,8 +129546,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4399999976158142,
           "display_name": "Climate action"
         }
       ],
@@ -129422,6 +129614,10 @@
         "is_published": true,
         "raw_source_name": "Seismic Data Interpretation using Digital Image Processing",
         "raw_type": "other"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2620867814",
+        "display_name": "Seismic Data Interpretation using Digital Image Processing"
       },
       "type": "paratext",
       "indexed_in": [
@@ -129761,7 +129957,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -129790,6 +129986,10 @@
         "is_published": true,
         "raw_source_name": "Seismic Data Interpretation using Digital Image Processing",
         "raw_type": "other"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2620867814",
+        "display_name": "Seismic Data Interpretation using Digital Image Processing"
       },
       "type": "other",
       "indexed_in": [
@@ -130613,7 +130813,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -130642,6 +130842,10 @@
         "is_published": true,
         "raw_source_name": "Seismic Data Interpretation using Digital Image Processing",
         "raw_type": "other"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2620867814",
+        "display_name": "Seismic Data Interpretation using Digital Image Processing"
       },
       "type": "paratext",
       "indexed_in": [
@@ -131004,7 +131208,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -131056,6 +131260,10 @@
         "is_published": true,
         "raw_source_name": "Advances in Oil and Gas Exploration &amp; Production",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2985349608",
+        "display_name": "Attenuation of Incoherent Seismic Noise"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -131164,7 +131372,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.40678958,
+        "value": 0.40732064,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -131626,7 +131834,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -131655,6 +131863,10 @@
         "is_published": true,
         "raw_source_name": "Seismic Data Interpretation using Digital Image Processing",
         "raw_type": "other"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2620867814",
+        "display_name": "Seismic Data Interpretation using Digital Image Processing"
       },
       "type": "paratext",
       "indexed_in": [
@@ -131886,8 +132098,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4000000059604645,
           "id": "https://metadata.un.org/sdg/9",
+          "score": 0.4000000059604645,
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
@@ -131915,7 +132127,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -131944,6 +132156,10 @@
         "is_published": true,
         "raw_source_name": "Seismic Data Interpretation using Digital Image Processing",
         "raw_type": "other"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2620867814",
+        "display_name": "Seismic Data Interpretation using Digital Image Processing"
       },
       "type": "supplementary-materials",
       "indexed_in": [
@@ -132177,7 +132393,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -132229,6 +132445,10 @@
         "is_published": true,
         "raw_source_name": "Advances in Oil and Gas Exploration &amp; Production",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2985349608",
+        "display_name": "Attenuation of Incoherent Seismic Noise"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -132337,7 +132557,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.46883231,
+        "value": 0.46939971,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -132595,7 +132815,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -132649,6 +132869,7 @@
         "raw_source_name": "Energies",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -133624,6 +133845,10 @@
         "raw_source_name": "Synthesis Lectures on Signal Processing",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4302320831",
+        "display_name": "Processing of Seismic Reflection Data Using MATLAB™"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -133729,7 +133954,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7031651,
+        "value": 0.70212766,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -133890,7 +134115,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -133940,6 +134165,10 @@
         "is_published": true,
         "raw_source_name": "Synthesis Lectures on Signal Processing",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4302320831",
+        "display_name": "Processing of Seismic Reflection Data Using MATLAB™"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -134046,7 +134275,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.46267696,
+        "value": 0.46079692,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -134240,7 +134469,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-10-01T00:00:00"
     },
     {
@@ -134290,6 +134519,10 @@
         "is_published": true,
         "raw_source_name": "Synthesis Lectures on Signal Processing",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4302320831",
+        "display_name": "Processing of Seismic Reflection Data Using MATLAB™"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -134396,7 +134629,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.46396396,
+        "value": 0.46208226,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -134625,8 +134858,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7200000286102295,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.7200000286102295,
           "display_name": "Climate action"
         }
       ],
@@ -134654,7 +134887,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -134704,6 +134937,10 @@
         "is_published": true,
         "raw_source_name": "Synthesis Lectures on Signal Processing",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4302320831",
+        "display_name": "Processing of Seismic Reflection Data Using MATLAB™"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -134810,7 +135047,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.46460746,
+        "value": 0.46272494,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -134987,8 +135224,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6800000071525574,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6800000071525574,
           "display_name": "Climate action"
         }
       ],
@@ -135016,7 +135253,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -135066,6 +135303,10 @@
         "is_published": true,
         "raw_source_name": "Synthesis Lectures on Signal Processing",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4302320831",
+        "display_name": "Processing of Seismic Reflection Data Using MATLAB™"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -135172,7 +135413,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.46589447,
+        "value": 0.46401028,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -135394,8 +135635,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.800000011920929,
           "display_name": "Climate action"
         }
       ],
@@ -135423,7 +135664,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -135473,6 +135714,10 @@
         "is_published": true,
         "raw_source_name": "Synthesis Lectures on Signal Processing",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4302320831",
+        "display_name": "Processing of Seismic Reflection Data Using MATLAB™"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -135579,7 +135824,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.46846847,
+        "value": 0.46658098,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -135853,7 +136098,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-10-05T00:00:00"
     },
     {
@@ -135903,6 +136148,10 @@
         "is_published": true,
         "raw_source_name": "Synthesis Lectures on Signal Processing",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4302320831",
+        "display_name": "Processing of Seismic Reflection Data Using MATLAB™"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -136009,7 +136258,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.46911197,
+        "value": 0.46722365,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -136193,8 +136442,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6000000238418579,
           "id": "https://metadata.un.org/sdg/10",
+          "score": 0.6000000238418579,
           "display_name": "Reduced inequalities"
         }
       ],
@@ -136479,7 +136728,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-10-05T00:00:00"
     },
     {
@@ -136533,6 +136782,7 @@
         "raw_source_name": "The Leading Edge",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -137059,6 +137309,7 @@
         "raw_source_name": "2018 Middle East Geosciences Conference and Exhibition",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -137390,8 +137641,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5199999809265137,
           "display_name": "Life below water"
         }
       ],
@@ -137492,6 +137743,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -138068,20 +138320,20 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.75,
           "display_name": "Affordable and clean energy"
         },
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4399999976158142,
           "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/9",
+          "score": 0.4699999988079071,
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
@@ -138604,6 +138856,7 @@
         "raw_source_name": "",
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -139040,6 +139293,7 @@
         "raw_source_name": "85th EAGE Annual Conference &amp; Exhibition",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -139605,13 +139859,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.9786999821662903,
           "display_name": "Climate action"
         },
         {
-          "score": 0.5690000057220459,
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459,
           "display_name": "Affordable and clean energy"
         }
       ],
@@ -140162,6 +140416,7 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -141407,6 +141662,7 @@
         "raw_source_name": "Geophysics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -142427,6 +142683,7 @@
         "raw_source_name": "6th Asia Pacific Meeting on Near Surface Geoscience and Engineering",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -142891,8 +143148,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.699999988079071,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.699999988079071,
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -143452,6 +143709,7 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -144079,15 +144337,15 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5142999887466431,
           "id": "https://metadata.un.org/sdg/11",
+          "score": 0.5142999887466431,
           "display_name": "Sustainable cities and communities"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4300000071525574,
           "display_name": "Climate action"
         }
       ],
@@ -144666,6 +144924,7 @@
         "raw_source_name": "EAGE Workshop on Advanced Seismic Solutions for Complex Reservoir Challenges",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -145714,6 +145973,7 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -146912,6 +147172,7 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -147439,8 +147700,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.428600013256073,
           "id": "https://metadata.un.org/sdg/9",
+          "score": 0.428600013256073,
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
@@ -148119,6 +148380,7 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -149408,6 +149670,7 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -150492,6 +150755,7 @@
         "raw_source_name": "Scientific Reports",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -151633,6 +151897,7 @@
         "raw_source_name": "First EAGE/ AAPG/ SEG Carbon Capture Utilisation and Storage Workshop (CCUS)",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -152031,8 +152296,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.9786999821662903,
           "display_name": "Climate action"
         }
       ],
@@ -152411,6 +152676,7 @@
         "raw_source_name": "Carbonates and Evaporites",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"

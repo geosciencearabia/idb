@@ -21,7 +21,7 @@
     ],
     "full_name": "Abdulrahman S. Alsharhan",
     "works_count": 176,
-    "cited_by_count": 3931,
+    "cited_by_count": 3938,
     "summary_stats": {
       "2yr_mean_citedness": 1.5,
       "h_index": 35,
@@ -243,7 +243,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0001019,
+        "value": 0.000102,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -260,7 +260,7 @@
       {
         "id": "https://openalex.org/T12543",
         "display_name": "Groundwater and Watershed Analysis",
-        "value": 0.0000777,
+        "value": 0.0000778,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -312,7 +312,7 @@
         "year": 1985,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 77
+        "cited_by_count": 78
       },
       {
         "year": 1986,
@@ -324,7 +324,7 @@
         "year": 1987,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 48
+        "cited_by_count": 49
       },
       {
         "year": 1988,
@@ -366,7 +366,7 @@
         "year": 1995,
         "works_count": 10,
         "oa_works_count": 0,
-        "cited_by_count": 307
+        "cited_by_count": 309
       },
       {
         "year": 1996,
@@ -390,7 +390,7 @@
         "year": 2000,
         "works_count": 11,
         "oa_works_count": 2,
-        "cited_by_count": 244
+        "cited_by_count": 246
       },
       {
         "year": 2001,
@@ -408,7 +408,7 @@
         "year": 2003,
         "works_count": 25,
         "oa_works_count": 0,
-        "cited_by_count": 801
+        "cited_by_count": 802
       },
       {
         "year": 2004,
@@ -524,7 +524,7 @@
     ],
     "block_key": "a alsharhan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5010401681",
-    "updated_date": "2026-10-08T12:30:13",
+    "updated_date": "2026-10-09T12:31:04",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -581,6 +581,7 @@
         "raw_source_name": "Earth-Science Reviews",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -989,16 +990,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "score": 0.5769000053405762,
+          "display_name": "Life below water"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -1264,6 +1265,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -1647,9 +1649,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -2683,6 +2685,7 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -3134,9 +3137,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -3579,6 +3582,10 @@
         "raw_source_name": "Developments in Water Science",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W2253996630",
+        "display_name": "Water Resources Perspectives: Evaluation, Management and Policy"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -3680,11 +3687,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8348,
+      "fwci": 2.8688,
       "has_fulltext": false,
       "cited_by_count": 92,
       "citation_normalized_percentile": {
-        "value": 0.88012618,
+        "value": 0.88151659,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4058,16 +4065,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -4163,7 +4170,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4219,6 +4226,7 @@
         "raw_source_name": "Geological Society, London, Special Publications",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -4580,9 +4588,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -5678,6 +5686,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -6075,9 +6084,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -6835,6 +6844,7 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -7222,9 +7232,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -7948,6 +7958,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -8372,9 +8383,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -9567,6 +9578,7 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -10028,9 +10040,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -10439,6 +10451,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -10812,9 +10825,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -11446,6 +11459,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -11762,9 +11776,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -12609,6 +12623,7 @@
         "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -13004,9 +13019,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "No poverty",
           "id": "https://metadata.un.org/sdg/1",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "display_name": "No poverty"
         }
       ],
       "study_designs": [],
@@ -13181,6 +13196,7 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -13600,9 +13616,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -14309,6 +14325,7 @@
         "raw_source_name": "Bulletin of Canadian Petroleum Geology",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -14690,9 +14707,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -15996,6 +16013,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -16382,9 +16400,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -17159,6 +17177,10 @@
         "raw_source_name": "Cretaceous Carbonate Platforms",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W1761232662",
+        "display_name": "Cretaceous Carbonate Platforms"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -17214,7 +17236,7 @@
       "has_fulltext": false,
       "cited_by_count": 68,
       "citation_normalized_percentile": {
-        "value": 0.1002445,
+        "value": 0.09975669,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17862,7 +17884,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-26T08:19:03.415552",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17916,6 +17938,7 @@
         "raw_source_name": "Journal of Coastal Research",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -18351,9 +18374,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -18999,6 +19022,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -19420,9 +19444,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -20056,6 +20080,10 @@
         "raw_source_name": "Middle East Models of Jurassic/Cretaceous Carbonate Systems",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4242811202",
+        "display_name": "Middle East Models of Jurassic/Cretaceous Carbonate Systems"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -20151,11 +20179,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2352,
+      "fwci": 2.2313,
       "has_fulltext": false,
       "cited_by_count": 58,
       "citation_normalized_percentile": {
-        "value": 0.87602689,
+        "value": 0.87537313,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21005,7 +21033,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-09T09:14:12.587421",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21062,6 +21090,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -21429,9 +21458,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -22217,6 +22246,7 @@
         "raw_source_name": "Journal of Petroleum Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -22614,9 +22644,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -22778,6 +22808,7 @@
         "raw_source_name": "Carbonates and Evaporites",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -23174,9 +23205,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -23329,6 +23360,7 @@
         "raw_source_name": "World Water Resources",
         "raw_type": "book"
       },
+      "volume": null,
       "type": "book",
       "indexed_in": [
         "crossref"
@@ -23673,16 +23705,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -23812,6 +23844,7 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -24118,9 +24151,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -24661,6 +24694,10 @@
         "raw_source_name": "Tasks for Vegetation Science",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4244950643",
+        "display_name": "Sabkha Ecosystems"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -24745,7 +24782,7 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8934,
+      "fwci": 3.4064,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
@@ -25021,16 +25058,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7400000095367432
+          "score": 0.7400000095367432,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -25126,7 +25163,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25179,6 +25216,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -25261,11 +25302,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.3678,
+      "fwci": 4.3687,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.93292683,
+        "value": 0.93333333,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -25572,16 +25613,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7778000235557556
+          "score": 0.7778000235557556,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6299999952316284
+          "score": 0.6299999952316284,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -25655,7 +25696,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25712,6 +25753,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -26064,9 +26106,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -27111,6 +27153,7 @@
         "raw_source_name": "Cretaceous Research",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -27506,9 +27549,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -27688,6 +27731,7 @@
         "raw_source_name": null,
         "raw_type": "edited-book"
       },
+      "volume": null,
       "type": "book",
       "indexed_in": [
         "crossref"
@@ -28047,9 +28091,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -28518,6 +28562,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -28826,9 +28871,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -29786,6 +29831,7 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -30197,9 +30243,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -30683,6 +30729,7 @@
         "raw_source_name": "Sedimentary Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -31095,9 +31142,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -31254,6 +31301,7 @@
         "raw_source_name": "Sedimentary Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -31694,9 +31742,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -31865,6 +31913,7 @@
         "raw_source_name": "Facies",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -32325,9 +32374,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -32504,6 +32553,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -32840,9 +32890,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -33558,6 +33608,10 @@
         "raw_source_name": "Developments in Water Science",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W2253996630",
+        "display_name": "Water Resources Perspectives: Evaluation, Management and Policy"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -34004,16 +34058,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -34131,7 +34185,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34175,6 +34229,10 @@
         "is_published": true,
         "raw_source_name": "Middle East Models of Jurassic/Cretaceous Carbonate Systems",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4242811202",
+        "display_name": "Middle East Models of Jurassic/Cretaceous Carbonate Systems"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -35068,7 +35126,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -35125,6 +35183,7 @@
         "raw_source_name": "0016-7746",
         "raw_type": "info:eu-repo/semantics/article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -36202,6 +36261,7 @@
         "raw_source_name": "Sedimentary Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -36597,9 +36657,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -36762,6 +36822,7 @@
         "raw_source_name": "Geological Society, London, Special Publications",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -37859,6 +37920,7 @@
         "raw_source_name": "Bulletin of Canadian Petroleum Geology",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -38244,9 +38306,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -39888,6 +39950,7 @@
         "raw_source_name": "Bulletin of Canadian Petroleum Geology",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -40254,9 +40317,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -41433,6 +41496,10 @@
         "raw_source_name": "Middle East Models of Jurassic/Cretaceous Carbonate Systems",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4242811202",
+        "display_name": "Middle East Models of Jurassic/Cretaceous Carbonate Systems"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -41560,11 +41627,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2352,
+      "fwci": 2.2313,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.86333084,
+        "value": 0.86268657,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42779,7 +42846,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -42828,6 +42895,7 @@
         "raw_source_name": null,
         "raw_type": "edited-book"
       },
+      "volume": null,
       "type": "book",
       "indexed_in": [
         "crossref"
@@ -43205,16 +43273,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46149998903274536
+          "score": 0.46149998903274536,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -44370,6 +44438,7 @@
         "raw_source_name": "Carbonates and Evaporites",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -44880,16 +44949,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -45475,6 +45544,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -45888,6 +45958,7 @@
         "raw_source_name": "Hydrogeology Journal",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -46367,16 +46438,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -46518,6 +46589,7 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -46997,9 +47069,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -47119,6 +47191,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -47468,9 +47541,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -48281,6 +48354,7 @@
         "raw_source_name": "Sedimentary Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -48712,9 +48786,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -48869,6 +48943,7 @@
         "raw_source_name": "Carbonates and Evaporites",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -49342,16 +49417,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "score": 0.5769000053405762,
+          "display_name": "Life below water"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -49506,6 +49581,7 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -49917,9 +49993,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -50658,6 +50734,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -51074,6 +51151,10 @@
         "raw_source_name": "Middle East Models of Jurassic/Cretaceous Carbonate Systems",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4242811202",
+        "display_name": "Middle East Models of Jurassic/Cretaceous Carbonate Systems"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -51209,11 +51290,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2352,
+      "fwci": 2.2313,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.85959671,
+        "value": 0.85895522,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -51489,9 +51570,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -52345,7 +52426,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-09T09:14:12.587421",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -52403,6 +52484,7 @@
         "raw_source_name": "Carbonates and Evaporites",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -52982,6 +53064,7 @@
         "raw_source_name": "Neues Jahrbuch für Geologie und Paläontologie - Monatshefte",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -53982,6 +54065,7 @@
         "raw_source_name": "Cretaceous Research",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -54397,9 +54481,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -54490,6 +54574,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -54888,6 +54973,10 @@
         "raw_source_name": "Memoir 106: Petroleum Systems of the Tethyan Region",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4250163215",
+        "display_name": "Memoir 106: Petroleum Systems of the Tethyan Region"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -54957,11 +55046,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.935,
+      "fwci": 2.9233,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.92346425,
+        "value": 0.92482341,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -55230,7 +55319,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -55286,6 +55375,7 @@
         "raw_source_name": "Cretaceous Research",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -55718,9 +55808,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -55826,6 +55916,10 @@
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -55907,11 +56001,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.0166,
+      "fwci": 2.0416,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.86858316,
+        "value": 0.86892539,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -56283,16 +56377,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7778000235557556
+          "score": 0.7778000235557556,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "study_designs": [],
@@ -56360,7 +56454,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -56408,6 +56502,10 @@
         "is_published": true,
         "raw_source_name": "Sedimentary Basins and Petroleum Geology of the Middle East",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W578079095",
+        "display_name": "Sedimentary Basins and Petroleum Geology of the Middle East"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -56508,7 +56606,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.25377644,
+        "value": 0.25151515,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -56780,9 +56878,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -56826,7 +56924,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -56879,6 +56977,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -56961,11 +57063,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2759,
+      "fwci": 3.2765,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.9018847,
+        "value": 0.90222222,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -57296,21 +57398,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "score": 0.9090999960899353,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7599999904632568
+          "score": 0.7599999904632568,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -57354,7 +57456,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -57407,6 +57509,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -57489,11 +57595,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.4598,
+      "fwci": 5.4609,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.95121951,
+        "value": 0.95166667,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -57799,16 +57905,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7599999904632568
+          "score": 0.7599999904632568,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -57884,7 +57990,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -57937,6 +58043,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -58019,11 +58129,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.4103,
+      "fwci": 3.4341,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.92597765,
+        "value": 0.92662474,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -58277,26 +58387,26 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.833299994468689
+          "score": 0.833299994468689,
+          "display_name": "Responsible consumption and production"
         },
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5142999887466431
+          "score": 0.5142999887466431,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7900000214576721
+          "score": 0.7900000214576721,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -58355,7 +58465,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -58408,6 +58518,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -58490,11 +58604,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6821,
+      "fwci": 0.6868,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.69832402,
+        "value": 0.69951083,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -58828,16 +58942,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -58904,7 +59018,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -58959,6 +59073,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -59368,14 +59483,14 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.48041895031929016
+          "score": 0.48041895031929016,
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.44219717383384705
+          "score": 0.44219717383384705,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -59482,6 +59597,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -59892,9 +60008,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -60503,6 +60619,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -60974,9 +61091,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -61602,6 +61719,7 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -62028,9 +62146,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -62163,6 +62281,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -62445,9 +62564,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "score": 0.5769000053405762,
+          "display_name": "Life below water"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -62576,6 +62695,7 @@
         "raw_source_name": "Carbonates and Evaporites",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -63030,9 +63150,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -63170,6 +63290,7 @@
         "raw_source_name": "Journal of African Earth Sciences (and the Middle East)",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -63505,9 +63626,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -63614,6 +63735,7 @@
         "raw_source_name": "Middle East Oil Show",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -63996,9 +64118,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -64888,6 +65010,7 @@
         "raw_source_name": "Facies",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -65393,6 +65516,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -65629,9 +65753,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -65751,6 +65875,7 @@
         "raw_source_name": "Carbonates and Evaporites",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -66197,9 +66322,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -66334,6 +66459,7 @@
         "raw_source_name": "Journal of African Earth Sciences (1983)",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -66736,9 +66862,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -66868,6 +66994,10 @@
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -66949,11 +67079,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2042,
+      "fwci": 3.2373,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.91804708,
+        "value": 0.91837625,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -67261,16 +67391,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7599999904632568
+          "score": 0.7599999904632568,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -67346,7 +67476,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -67394,6 +67524,10 @@
         "is_published": true,
         "raw_source_name": "Sedimentary Basins and Petroleum Geology of the Middle East",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W578079095",
+        "display_name": "Sedimentary Basins and Petroleum Geology of the Middle East"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -67494,7 +67628,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.44984424,
+        "value": 0.44950125,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -67717,9 +67851,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -67763,7 +67897,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -67816,6 +67950,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -67898,7 +68036,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0083,
+      "fwci": 1.0208,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
@@ -68194,21 +68332,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8571000099182129
+          "score": 0.8571000099182129,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Peace, justice, and strong institutions",
           "id": "https://metadata.un.org/sdg/16",
-          "score": 0.6601999998092651
+          "score": 0.6601999998092651,
+          "display_name": "Peace, justice, and strong institutions"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5
+          "score": 0.5,
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -68252,7 +68390,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -68305,6 +68443,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -68387,11 +68529,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.637,
+      "fwci": 0.641,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.64394288,
+        "value": 0.643186,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -68665,16 +68807,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6200000047683716
+          "score": 0.6200000047683716,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -68734,7 +68876,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -68787,6 +68929,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -68869,11 +69015,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5041,
+      "fwci": 0.5104,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.66632444,
+        "value": 0.66666667,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -69219,16 +69365,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -69330,7 +69476,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -69377,6 +69523,10 @@
         "is_published": true,
         "raw_source_name": "Environmental Sciences",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4403890495",
+        "display_name": "Advances in Coastal Ecology - Processes, Patterns, and Services"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -69460,11 +69610,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.0388,
+      "fwci": 5.1473,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.89163916,
+        "value": 0.88931718,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -69795,9 +69945,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "score": 0.5769000053405762,
+          "display_name": "Life below water"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -70298,7 +70448,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -70346,6 +70496,10 @@
         "is_published": true,
         "raw_source_name": "The Permian of Northern Pangea",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4298164915",
+        "display_name": "The Permian of Northern Pangea"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -70446,7 +70600,7 @@
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.05541562,
+        "value": 0.05527638,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -70709,9 +70863,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -70817,7 +70971,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-04T09:36:47.201465",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -70847,6 +71001,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -71064,9 +71219,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6399999856948853
+          "score": 0.6399999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -71176,6 +71331,10 @@
         "is_published": true,
         "raw_source_name": "Sedimentary Basins and Petroleum Geology of the Middle East",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W578079095",
+        "display_name": "Sedimentary Basins and Petroleum Geology of the Middle East"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -71480,9 +71639,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -71530,7 +71689,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-14T07:06:38.338062",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -71582,6 +71741,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -71664,11 +71827,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9109,
+      "fwci": 1.923,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.87839705,
+        "value": 0.87799263,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -72016,21 +72179,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46149998903274536
+          "score": 0.46149998903274536,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6100000143051147
+          "score": 0.6100000143051147,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -72077,7 +72240,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -72134,6 +72297,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -72403,9 +72567,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7200000286102295
+          "score": 0.7200000286102295,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -72493,6 +72657,7 @@
         "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -72894,9 +73059,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -73023,6 +73188,7 @@
         "raw_source_name": "Marine Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -73549,9 +73715,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -73721,6 +73887,10 @@
         "raw_source_name": "Middle East Models of Jurassic/Cretaceous Carbonate Systems",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4242811202",
+        "display_name": "Middle East Models of Jurassic/Cretaceous Carbonate Systems"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -73804,11 +73974,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1176,
+      "fwci": 1.1156,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.78640777,
+        "value": 0.7858209,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -74712,7 +74882,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-26T08:19:03.415552",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -74756,6 +74926,10 @@
         "is_published": true,
         "raw_source_name": "Middle East Models of Jurassic/Cretaceous Carbonate Systems",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4242811202",
+        "display_name": "Middle East Models of Jurassic/Cretaceous Carbonate Systems"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -75143,9 +75317,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -75549,7 +75723,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-17T06:14:20.161405",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -75599,6 +75773,10 @@
         "is_published": true,
         "raw_source_name": "Quaternary Deserts and Climatic Change",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2904132173",
+        "display_name": "Quaternary Deserts and Climatic Change"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -75683,11 +75861,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9234,
+      "fwci": 0.9597,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.7875,
+        "value": 0.78909741,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -76436,7 +76614,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-04T09:36:47.201465",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -76484,6 +76662,10 @@
         "is_published": true,
         "raw_source_name": "Sedimentary Basins and Petroleum Geology of the Middle East",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W578079095",
+        "display_name": "Sedimentary Basins and Petroleum Geology of the Middle East"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -76584,7 +76766,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.03738318,
+        "value": 0.03740648,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -76916,7 +77098,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -76966,6 +77148,10 @@
         "is_published": true,
         "raw_source_name": "Desertification in the Third Millennium",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W1475497799",
+        "display_name": "Desertification in the Third Millennium"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -77056,7 +77242,7 @@
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.2745098,
+        "value": 0.27540984,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -77373,21 +77559,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903
+          "score": 0.9786999821662903,
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4390000104904175
+          "score": 0.4390000104904175,
+          "display_name": "Life on land"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -78131,7 +78317,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-05T09:50:58.205359",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -78179,6 +78365,10 @@
         "is_published": true,
         "raw_source_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W649820064",
+        "display_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -78595,16 +78785,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -78656,7 +78846,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2020-05-13T00:00:00"
     },
     {
@@ -78704,6 +78894,10 @@
         "is_published": true,
         "raw_source_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W649820064",
+        "display_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -79267,16 +79461,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.53329998254776
+          "score": 0.53329998254776,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7900000214576721
+          "score": 0.7900000214576721,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -79320,7 +79514,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -79370,6 +79564,10 @@
         "is_published": true,
         "raw_source_name": "Desertification in the Third Millennium",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W1475497799",
+        "display_name": "Desertification in the Third Millennium"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -79478,7 +79676,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.22964763,
+        "value": 0.22909091,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -79786,7 +79984,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-05T09:50:58.205359",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -79834,6 +80032,10 @@
         "is_published": true,
         "raw_source_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W649820064",
+        "display_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -80057,7 +80259,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.10621762,
+        "value": 0.10594315,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -80350,16 +80552,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9878000020980835
+          "score": 0.9878000020980835,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7099999785423279
+          "score": 0.7099999785423279,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -80403,7 +80605,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -80461,6 +80663,7 @@
         "raw_source_name": "Facies",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -80947,9 +81150,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -81060,6 +81263,10 @@
         "is_published": true,
         "raw_source_name": "Middle East Models of Jurassic/Cretaceous Carbonate Systems",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4242811202",
+        "display_name": "Middle East Models of Jurassic/Cretaceous Carbonate Systems"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -81473,9 +81680,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -82083,7 +82290,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -82131,6 +82338,10 @@
         "is_published": true,
         "raw_source_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W649820064",
+        "display_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -82661,16 +82872,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7778000235557556
+          "score": 0.7778000235557556,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -82710,7 +82921,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -82760,6 +82971,10 @@
         "is_published": true,
         "raw_source_name": "Desertification in the Third Millennium",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W1475497799",
+        "display_name": "Desertification in the Third Millennium"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -82816,7 +83031,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.17967332,
+        "value": 0.17818182,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -83063,9 +83278,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -83716,7 +83931,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-04T09:36:47.201465",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -83764,6 +83979,10 @@
         "is_published": true,
         "raw_source_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W649820064",
+        "display_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -84147,9 +84366,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -84189,7 +84408,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -84237,6 +84456,10 @@
         "is_published": true,
         "raw_source_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W649820064",
+        "display_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -84750,9 +84973,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -84792,7 +85015,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -84840,6 +85063,10 @@
         "is_published": true,
         "raw_source_name": "Sedimentary Basins and Petroleum Geology of the Middle East",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W578079095",
+        "display_name": "Sedimentary Basins and Petroleum Geology of the Middle East"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -84940,7 +85167,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.42866044,
+        "value": 0.42830424,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -85163,9 +85390,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -85205,7 +85432,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -85249,6 +85476,10 @@
         "is_published": true,
         "raw_source_name": "Middle East Models of Jurassic/Cretaceous Carbonate Systems",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4242811202",
+        "display_name": "Middle East Models of Jurassic/Cretaceous Carbonate Systems"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -86003,7 +86234,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -86053,6 +86284,10 @@
         "is_published": true,
         "raw_source_name": "Underground Aqueducts Handbook",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2551983092",
+        "display_name": "Underground Aqueducts Handbook"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -86105,11 +86340,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8125,
+      "fwci": 0.8252,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.8108851,
+        "value": 0.81167401,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -86324,16 +86559,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "score": 0.9090999960899353,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -86685,7 +86920,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-05T09:50:58.205359",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -86733,6 +86968,10 @@
         "is_published": true,
         "raw_source_name": "Sedimentary Basins and Petroleum Geology of the Middle East",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W578079095",
+        "display_name": "Sedimentary Basins and Petroleum Geology of the Middle East"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -87113,7 +87352,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -87166,6 +87405,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -87248,11 +87491,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.637,
+      "fwci": 0.641,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.64210041,
+        "value": 0.64134438,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -87566,16 +87809,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -87627,7 +87870,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -87680,6 +87923,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -87762,11 +88009,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.092,
+      "fwci": 1.0922,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.71175166,
+        "value": 0.71277778,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -88093,14 +88340,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -88142,7 +88389,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -88195,6 +88442,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -88277,11 +88528,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.75,
+      "fwci": 1.7682,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.78235294,
+        "value": 0.78431373,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -88551,16 +88802,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.896399974822998
+          "score": 0.896399974822998,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -88614,7 +88865,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -88664,6 +88915,10 @@
         "is_published": true,
         "raw_source_name": "Quaternary Deserts and Climatic Change",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2904132173",
+        "display_name": "Quaternary Deserts and Climatic Change"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -88769,7 +89024,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.20892857,
+        "value": 0.20911528,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -89025,9 +89280,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7300000190734863
+          "score": 0.7300000190734863,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -90043,7 +90298,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-04T09:36:47.201465",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -90093,6 +90348,10 @@
         "is_published": true,
         "raw_source_name": "Quaternary Deserts and Climatic Change",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2904132173",
+        "display_name": "Quaternary Deserts and Climatic Change"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -90196,11 +90455,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9234,
+      "fwci": 0.9597,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.79107143,
+        "value": 0.79267203,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -90456,16 +90715,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "score": 0.5769000053405762,
+          "display_name": "Life below water"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -91042,7 +91301,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-04T09:36:47.201465",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -91094,6 +91353,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -91176,11 +91439,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.75,
+      "fwci": 1.7682,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.87843137,
+        "value": 0.88039216,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -91484,9 +91747,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8571000099182129
+          "score": 0.8571000099182129,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -91543,7 +91806,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -91595,6 +91858,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -91677,7 +91944,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5041,
+      "fwci": 0.5104,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
@@ -91909,9 +92176,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8571000099182129
+          "score": 0.8571000099182129,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -91982,7 +92249,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -92030,6 +92297,10 @@
         "is_published": true,
         "raw_source_name": "Sedimentary Basins and Petroleum Geology of the Middle East",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W578079095",
+        "display_name": "Sedimentary Basins and Petroleum Geology of the Middle East"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -92130,7 +92401,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.03021148,
+        "value": 0.03030303,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -92426,9 +92697,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -92460,7 +92731,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -92508,6 +92779,10 @@
         "is_published": true,
         "raw_source_name": "Sedimentary Basins and Petroleum Geology of the Middle East",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W578079095",
+        "display_name": "Sedimentary Basins and Petroleum Geology of the Middle East"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -92586,7 +92861,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.0694864,
+        "value": 0.06969697,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -92793,9 +93068,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721
+          "score": 0.7900000214576721,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -92827,7 +93102,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -92857,6 +93132,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -93205,9 +93481,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -93852,6 +94128,10 @@
         "raw_source_name": "Sedimentary Basins and Petroleum Geology of the Middle East",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W578079095",
+        "display_name": "Sedimentary Basins and Petroleum Geology of the Middle East"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -93951,7 +94231,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.26283988,
+        "value": 0.26060606,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -94208,9 +94488,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -94242,7 +94522,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -94290,6 +94570,10 @@
         "is_published": true,
         "raw_source_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W649820064",
+        "display_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -94855,16 +95139,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6200000047683716
+          "score": 0.6200000047683716,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -94896,7 +95180,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -94949,6 +95233,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -95035,7 +95323,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.04379157,
+        "value": 0.04388889,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -95345,21 +95633,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "score": 1,
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -95412,7 +95700,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -95468,6 +95756,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -95831,9 +96120,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -96411,6 +96700,10 @@
         "raw_source_name": "Sedimentary Basins and Petroleum Geology of the Middle East",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W578079095",
+        "display_name": "Sedimentary Basins and Petroleum Geology of the Middle East"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -96488,7 +96781,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.01510574,
+        "value": 0.01515152,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -96728,9 +97021,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -96762,7 +97055,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -96815,6 +97108,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -96897,11 +97194,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.637,
+      "fwci": 0.641,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.64532474,
+        "value": 0.64456722,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -97237,16 +97534,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -97284,7 +97581,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -97332,6 +97629,10 @@
         "is_published": true,
         "raw_source_name": "Sedimentary Basins and Petroleum Geology of the Middle East",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W578079095",
+        "display_name": "Sedimentary Basins and Petroleum Geology of the Middle East"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -97432,7 +97733,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.23867069,
+        "value": 0.23636364,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -97646,9 +97947,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5899999737739563
+          "score": 0.5899999737739563,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -97680,7 +97981,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -97733,6 +98034,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -97815,13 +98120,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.5,
+      "fwci": 3.5363,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.89803922,
+        "value": 0.9,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 88,
@@ -98124,16 +98429,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.75
+          "score": 0.75,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -98220,7 +98525,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -98273,6 +98578,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -98355,11 +98664,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2739,
+      "fwci": 1.282,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.78581299,
+        "value": 0.78499079,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -98594,16 +98903,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.75
+          "score": 0.75,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -98663,7 +98972,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -98716,6 +99025,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -98798,11 +99111,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.5,
+      "fwci": 3.5363,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.9,
+        "value": 0.90196078,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -99045,9 +99358,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -99092,7 +99405,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -99140,6 +99453,10 @@
         "is_published": true,
         "raw_source_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W649820064",
+        "display_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -99266,7 +99583,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.20717234,
+        "value": 0.20691434,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -99487,21 +99804,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Peace, justice, and strong institutions",
           "id": "https://metadata.un.org/sdg/16",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "display_name": "Peace, justice, and strong institutions"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5
+          "score": 0.5,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -99533,7 +99850,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -99586,6 +99903,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -99668,11 +99989,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5787,
+      "fwci": 0.5731,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.70633139,
+        "value": 0.70493274,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -100018,31 +100339,31 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.9208999872207642
+          "score": 0.9208999872207642,
+          "display_name": "Zero hunger"
         },
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4390000104904175
+          "score": 0.4390000104904175,
+          "display_name": "Life on land"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "display_name": "Zero hunger"
         },
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -100081,7 +100402,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -100134,6 +100455,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -100216,11 +100541,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.637,
+      "fwci": 0.641,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.6444035,
+        "value": 0.64364641,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -100533,16 +100858,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -100584,7 +100909,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -100637,6 +100962,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -100719,11 +101048,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.75,
+      "fwci": 1.7682,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.78431373,
+        "value": 0.78627451,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -101055,16 +101384,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -101111,7 +101440,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -101163,6 +101492,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -101245,11 +101578,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.75,
+      "fwci": 1.7682,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.8745098,
+        "value": 0.87647059,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -101567,16 +101900,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -101618,7 +101951,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -101670,6 +102003,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -101752,11 +102089,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.637,
+      "fwci": 0.641,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.76969139,
+        "value": 0.76887661,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -102046,7 +102383,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -102076,6 +102413,10 @@
         "is_published": true,
         "raw_source_name": "Quaternary carbonate and evaporite sedimentary facies and their ancient analogues",
         "raw_type": "other"
+      },
+      "volume": {
+        "id": "https://openalex.org/W634411109",
+        "display_name": "Quaternary carbonate and evaporite sedimentary facies and their ancient analogues"
       },
       "type": "other",
       "indexed_in": [
@@ -102552,7 +102893,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-26T08:19:03.415552",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -102601,6 +102942,7 @@
         "raw_source_name": "Encyclopedia of Geology",
         "raw_type": "book-chapter"
       },
+      "volume": null,
       "type": "reference-entry",
       "indexed_in": [
         "crossref"
@@ -102926,6 +103268,10 @@
         "is_published": true,
         "raw_source_name": "Quaternary carbonate and evaporite sedimentary facies and their ancient analogues",
         "raw_type": "other"
+      },
+      "volume": {
+        "id": "https://openalex.org/W634411109",
+        "display_name": "Quaternary carbonate and evaporite sedimentary facies and their ancient analogues"
       },
       "type": "other",
       "indexed_in": [
@@ -103273,16 +103619,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "score": 0.5769000053405762,
+          "display_name": "Life below water"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721
+          "score": 0.7900000214576721,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -103452,7 +103798,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -103509,6 +103855,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -103884,6 +104231,10 @@
         "raw_source_name": "Sedimentary Basins and Petroleum Geology of the Middle East",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W578079095",
+        "display_name": "Sedimentary Basins and Petroleum Geology of the Middle East"
+      },
       "type": "paratext",
       "indexed_in": [
         "crossref"
@@ -104048,7 +104399,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-26T08:19:03.415552",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -104104,6 +104455,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -104473,9 +104825,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -105113,6 +105465,10 @@
         "raw_source_name": "Quaternary Deserts and Climatic Change",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W2904132173",
+        "display_name": "Quaternary Deserts and Climatic Change"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -105218,7 +105574,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.22232143,
+        "value": 0.22252011,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -106023,7 +106379,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-04T09:36:47.201465",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -106080,6 +106436,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -106344,9 +106701,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -106421,6 +106778,10 @@
         "is_published": true,
         "raw_source_name": "Sedimentary Basins and Petroleum Geology of the Middle East",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W578079095",
+        "display_name": "Sedimentary Basins and Petroleum Geology of the Middle East"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -106758,7 +107119,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -106809,6 +107170,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -107256,6 +107618,7 @@
         "raw_source_name": "Developments in Water Science",
         "raw_type": "book-chapter"
       },
+      "volume": null,
       "type": "paratext",
       "indexed_in": [
         "crossref"
@@ -107460,6 +107823,7 @@
         "raw_source_name": "Research Square",
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "preprint",
       "indexed_in": [
         "crossref"
@@ -107782,9 +108146,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -108524,6 +108888,7 @@
         "raw_source_name": "64th EAGE Conference &amp; Exhibition",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -108801,9 +109166,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6100000143051147
+          "score": 0.6100000143051147,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -108967,6 +109332,7 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -109302,9 +109668,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -109650,6 +110016,7 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -109950,16 +110317,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -110042,6 +110409,7 @@
         "raw_source_name": "Journal of Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -110453,9 +110821,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -110528,6 +110896,7 @@
         "raw_source_name": "Geol. Soc. Am., Abstr. Programs; (United States)",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -110903,9 +111272,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -111476,6 +111845,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -111834,9 +112204,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -112424,6 +112794,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -112663,9 +113034,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4555000066757202
+          "score": 0.4555000066757202,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -112733,6 +113104,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [],
       "open_access": {
@@ -112944,9 +113316,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -113013,6 +113385,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [],
       "open_access": {
@@ -113318,9 +113691,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -113375,6 +113748,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -113738,9 +114112,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -114583,6 +114957,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -114957,9 +115332,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -115855,6 +116230,7 @@
         "raw_source_name": "AAPG Bulletin",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -116202,6 +116578,10 @@
         "raw_source_name": "Desertification in the Third Millennium",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W1475497799",
+        "display_name": "Desertification in the Third Millennium"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -116291,7 +116671,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.23593466,
+        "value": 0.23454545,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -116525,16 +116905,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "score": 1,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -116571,7 +116951,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-04T09:36:47.201465",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -116619,6 +116999,10 @@
         "is_published": true,
         "raw_source_name": "Sedimentary Basins and Petroleum Geology of the Middle East",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W578079095",
+        "display_name": "Sedimentary Basins and Petroleum Geology of the Middle East"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -116719,7 +117103,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.27287582,
+        "value": 0.27377049,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -117032,9 +117416,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -117061,7 +117445,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -117109,6 +117493,10 @@
         "is_published": true,
         "raw_source_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W649820064",
+        "display_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -117332,7 +117720,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.42118863,
+        "value": 0.42227979,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -117681,9 +118069,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -117711,7 +118099,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -117761,6 +118149,10 @@
         "is_published": true,
         "raw_source_name": "Quaternary Deserts and Climatic Change",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2904132173",
+        "display_name": "Quaternary Deserts and Climatic Change"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -117839,7 +118231,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.00892857,
+        "value": 0.00893655,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -118062,9 +118454,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -118663,7 +119055,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-04T09:36:47.201465",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -118711,6 +119103,10 @@
         "is_published": true,
         "raw_source_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W649820064",
+        "display_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -118934,7 +119330,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.21972534,
+        "value": 0.21890547,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -119267,9 +119663,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -119296,7 +119692,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -119326,6 +119722,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -119700,6 +120097,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -120124,21 +120525,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7400000095367432
+          "score": 0.7400000095367432,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -120175,7 +120576,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -120228,6 +120629,10 @@
         "is_published": true,
         "raw_source_name": "World Water Resources",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W3011694704",
+        "display_name": "Water Resources and Integrated Management of the United Arab Emirates"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -120605,16 +121010,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -120664,7 +121069,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -120709,6 +121114,7 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -121058,9 +121464,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -121757,6 +122163,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -122134,9 +122541,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137
+          "score": 0.7699999809265137,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -122228,6 +122635,7 @@
         "raw_source_name": "Episodes",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -123397,6 +123805,7 @@
         "raw_source_name": "Journal of Soils and Sediments",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -123969,6 +124378,10 @@
         "raw_source_name": "Quaternary carbonate and evaporite sedimentary facies and their ancient analogues",
         "raw_type": "other"
       },
+      "volume": {
+        "id": "https://openalex.org/W634411109",
+        "display_name": "Quaternary carbonate and evaporite sedimentary facies and their ancient analogues"
+      },
       "type": "paratext",
       "indexed_in": [
         "crossref"
@@ -124330,7 +124743,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -124374,6 +124787,7 @@
         "raw_source_name": "A.A. Balkema eBooks",
         "raw_type": null
       },
+      "volume": null,
       "type": "book",
       "indexed_in": [],
       "open_access": {
@@ -124675,9 +125089,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -124834,6 +125248,7 @@
         "raw_source_name": "Proceedings of the CEReS international symposium = CEReS国際シンポジウム資料集",
         "raw_type": "conference output"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -125114,9 +125529,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -125184,6 +125599,10 @@
         "is_published": true,
         "raw_source_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W649820064",
+        "display_name": "Hydrogeology of an Arid Region: The Arabian Gulf and Adjoining Areas"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -125727,9 +126146,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -125756,7 +126175,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     }
   ]

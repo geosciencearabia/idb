@@ -299,7 +299,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0001957,
+        "value": 0.0001958,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -333,7 +333,7 @@
       {
         "id": "https://openalex.org/T11354",
         "display_name": "Evolution and Paleontology Studies",
-        "value": 0.0001305,
+        "value": 0.0001306,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -718,7 +718,7 @@
     ],
     "block_key": "r enay",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5084630459",
-    "updated_date": "2026-10-08T12:30:13",
+    "updated_date": "2026-10-09T12:31:04",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -775,6 +775,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -1023,9 +1024,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -1165,6 +1166,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -1607,9 +1609,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -1769,6 +1771,7 @@
         "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -2165,9 +2168,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -2481,6 +2484,10 @@
         "is_published": true,
         "raw_source_name": "The Geology of Central Europe Volume 2: Mesozoic and Cenozoic",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2214509940",
+        "display_name": "The Geology of Central Europe Volume 2: Mesozoic and Cenozoic"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -2915,11 +2922,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1814,
+      "fwci": 3.1857,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.90887097,
+        "value": 0.90909091,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3213,9 +3220,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -3928,7 +3935,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -3984,6 +3991,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -4643,9 +4651,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -4765,6 +4773,7 @@
         "raw_source_name": "Facies",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -5658,9 +5667,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -5838,6 +5847,7 @@
         "raw_source_name": "Episodes",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -6142,9 +6152,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Climate action",
           "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -6280,6 +6290,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -6633,9 +6644,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -6820,6 +6831,7 @@
         "raw_source_name": "Nouvelles archives du Muséum d'histoire naturelle de Lyon",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -7266,6 +7278,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -7734,9 +7747,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -7883,6 +7896,7 @@
         "raw_source_name": "Palaeontology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -8440,9 +8454,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.7200000286102295,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -9119,6 +9133,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -9545,9 +9560,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -10414,6 +10429,7 @@
         "raw_source_name": "Cretaceous Research",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -11442,6 +11458,7 @@
         "raw_source_name": null,
         "raw_type": "article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -11736,9 +11753,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -14339,6 +14356,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -14944,6 +14962,7 @@
         "raw_source_name": "https://vjs.pgi.gov.pl/article/view/26592",
         "raw_type": "info:eu-repo/semantics/article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -16004,9 +16023,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -16205,6 +16224,7 @@
         "raw_source_name": "Global and Planetary Change",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -17752,9 +17772,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -17990,6 +18010,7 @@
         "raw_source_name": "Treatise Online",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -18416,6 +18437,7 @@
         "raw_source_name": "Bulletin de la Société Géologique de France",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -18779,9 +18801,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -19617,6 +19639,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -19947,9 +19970,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -20205,6 +20228,7 @@
         "raw_source_name": "Bulletin de la Société Géologique de France",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -21007,6 +21031,7 @@
         "raw_source_name": "Journal of Asian Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -21394,9 +21419,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.5299999713897705,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -21659,6 +21684,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -22002,9 +22028,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.5899999737739563,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -22153,6 +22179,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -22697,9 +22724,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -22980,6 +23007,7 @@
         "raw_source_name": "Bulletin de la Société Géologique de France",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -23904,6 +23932,7 @@
         "raw_source_name": "Comptes rendus de l'Académie des sciences. Série 2, Mécanique, Physique, Chimie, Sciences de l'univers, Sciences de la Terre",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -24217,9 +24246,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -24473,6 +24502,7 @@
         "raw_source_name": null,
         "raw_type": "article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -26430,6 +26460,7 @@
         "raw_source_name": "Comptes Rendus Palevol",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -27032,9 +27063,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.6200000047683716,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -27372,6 +27403,7 @@
         "raw_source_name": "Comptes Rendus de l'Académie des Sciences - Series IIA - Earth and Planetary Science",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -27833,9 +27865,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -27945,6 +27977,7 @@
         "raw_source_name": "Comptes Rendus de l'Académie des Sciences - Series IIA - Earth and Planetary Science",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -28281,9 +28314,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -28402,6 +28435,7 @@
         "raw_source_name": "Bulletin de la Société Géologique de France",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -28692,9 +28726,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -29258,6 +29292,7 @@
         "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -29694,9 +29729,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -29819,6 +29854,7 @@
         "raw_source_name": "Bulletin de la Société Géologique de France",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -30678,6 +30714,7 @@
         "raw_source_name": "Comptes Rendus. Géoscience",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -31699,6 +31736,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -32174,9 +32212,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -32315,6 +32353,7 @@
         "raw_source_name": "Bulletin de la Société Géologique de France",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -32573,9 +32612,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.5,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -32697,6 +32736,7 @@
         "raw_source_name": "Palaeontology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -33350,16 +33390,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -33918,6 +33958,7 @@
         "raw_source_name": "Bulletin de la Société Géologique de France",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -34190,9 +34231,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -34664,6 +34705,7 @@
         "raw_source_name": "Comptes Rendus de l'Académie des Sciences - Series IIA - Earth and Planetary Science",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -35038,9 +35080,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.6800000071525574,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -35150,6 +35192,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -35591,9 +35634,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -35747,6 +35790,7 @@
         "raw_source_name": "Bulletin de la Société Géologique de France",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -36554,9 +36598,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -36993,6 +37037,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -37418,9 +37463,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.5,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -37569,6 +37614,7 @@
         "raw_source_name": "Comptes Rendus de l'Académie des Sciences - Series IIA - Earth and Planetary Science",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -37950,9 +37996,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -38061,6 +38107,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -38503,9 +38550,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.7200000286102295,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -38559,6 +38606,732 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W40211962",
+      "doi": "https://doi.org/10.1007/978-1-4899-1558-0_6",
+      "title": "Paleogeography and Paleoenvironment of the Tethyan Realm During the Jurassic Breakup of Pangea",
+      "display_name": "Paleogeography and Paleoenvironment of the Tethyan Realm During the Jurassic Breakup of Pangea",
+      "publication_year": 1995,
+      "publication_date": "1995-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W40211962",
+        "doi": "https://doi.org/10.1007/978-1-4899-1558-0_6",
+        "mag": "40211962"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/978-1-4899-1558-0_6",
+        "doi": "https://doi.org/10.1007/978-1-4899-1558-0_6",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-1-4899-1558-0_6",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306463937",
+          "display_name": "Springer eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Tethys Ocean",
+        "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2475708567",
+        "display_name": "The Tethys Ocean"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5111600467",
+            "display_name": "Éric Fourcade",
+            "orcid": "https://orcid.org/0000-0002-2704-8229",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2704-8229"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405264447",
+              "display_name": "Université Pierre-et-Marie-Curie",
+              "ror": "https://ror.org/01yvrd251",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4405264447"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Eric Fourcade",
+          "raw_affiliation_strings": [
+            "CNRS URA 1761, Département de Géologie Sédimentaire, Université Pierre et Marie Curie, Paris, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "CNRS URA 1761, Département de Géologie Sédimentaire, Université Pierre et Marie Curie, Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4405264447"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5114260129",
+            "display_name": "Jacques Azéma",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405264447",
+              "display_name": "Université Pierre-et-Marie-Curie",
+              "ror": "https://ror.org/01yvrd251",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4405264447"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jacques Azéma",
+          "raw_affiliation_strings": [
+            "CNRS URA 1761, Département de Géologie Sédimentaire, Université Pierre et Marie Curie, Paris, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "CNRS URA 1761, Département de Géologie Sédimentaire, Université Pierre et Marie Curie, Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4405264447"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5064236729",
+            "display_name": "Jean-Paul Bassoullet",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405264447",
+              "display_name": "Université Pierre-et-Marie-Curie",
+              "ror": "https://ror.org/01yvrd251",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4405264447"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jean-Paul Bassoullet",
+          "raw_affiliation_strings": [
+            "CNRS URA 1761, Département de Géologie Sédimentaire, Université Pierre et Marie Curie, Paris, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "CNRS URA 1761, Département de Géologie Sédimentaire, Université Pierre et Marie Curie, Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4405264447"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5057776445",
+            "display_name": "Fabrizio Cecca",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405264447",
+              "display_name": "Université Pierre-et-Marie-Curie",
+              "ror": "https://ror.org/01yvrd251",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4405264447"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Fabrizio Cecca",
+          "raw_affiliation_strings": [
+            "CNRS URA 1761, Département de Géologie Sédimentaire, Université Pierre et Marie Curie, Paris, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "CNRS URA 1761, Département de Géologie Sédimentaire, Université Pierre et Marie Curie, Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4405264447"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5003392843",
+            "display_name": "Jean Dercourt",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405264447",
+              "display_name": "Université Pierre-et-Marie-Curie",
+              "ror": "https://ror.org/01yvrd251",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4405264447"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jean Dercourt",
+          "raw_affiliation_strings": [
+            "CNRS URA 1761, Département de Géologie Sédimentaire, Université Pierre et Marie Curie, Paris, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "CNRS URA 1761, Département de Géologie Sédimentaire, Université Pierre et Marie Curie, Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4405264447"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5084630459",
+            "display_name": "Raymond Énay",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Lyon 1 Université",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Raymond Enay",
+          "raw_affiliation_strings": [
+            "URAM, Université Lyon 1, Villeurbanne, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "URAM, Université Lyon 1, Villeurbanne, France",
+              "institution_ids": [
+                "https://openalex.org/I100532134"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5010229092",
+            "display_name": "René Guiraud",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I198415970",
+              "display_name": "Université d'Avignon et des Pays de Vaucluse",
+              "ror": "https://ror.org/00mfpxb84",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I198415970"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "René Guiraud",
+          "raw_affiliation_strings": [
+            "Faculté des Sciences, Université d’Avignon, Avignon, France",
+            "Faculté des Sciences, Université d'Avignon, Avignon, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculté des Sciences, Université d’Avignon, Avignon, France",
+              "institution_ids": [
+                "https://openalex.org/I198415970"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Faculté des Sciences, Université d'Avignon, Avignon, France",
+              "institution_ids": [
+                "https://openalex.org/I198415970"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 8,
+      "citation_normalized_percentile": {
+        "value": 0.01879699,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 96
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "191",
+        "last_page": "214"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13177",
+        "display_name": "Geological and Geophysical Studies",
+        "score": 0.43849998712539673,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.43849998712539673,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.43209999799728394,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.03830000013113022,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/tethys-ocean",
+          "display_name": "Tethys",
+          "score": 0.7990000247955322
+        },
+        {
+          "id": "https://openalex.org/keywords/paleogeography",
+          "display_name": "paleogeography",
+          "score": 0.8610000014305115
+        },
+        {
+          "id": "https://openalex.org/keywords/paleoenvironment",
+          "display_name": "paleoenvironment",
+          "score": 0.9470000267028809
+        },
+        {
+          "id": "https://openalex.org/keywords/jurassic",
+          "display_name": "Jurassic",
+          "score": 0.878000020980835
+        },
+        {
+          "id": "https://openalex.org/keywords/pangea-breakup",
+          "display_name": "Pangea breakup",
+          "score": 0.9549999833106995
+        },
+        {
+          "id": "https://openalex.org/keywords/sea-level-change",
+          "display_name": "sea-level change",
+          "score": 0.6579999923706055
+        },
+        {
+          "id": "https://openalex.org/keywords/callovian",
+          "display_name": "Callovian",
+          "score": 0.8579999804496765
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7218194007873535
+        },
+        {
+          "id": "https://openalex.org/C2778757428",
+          "wikidata": "https://www.wikidata.org/wiki/Q1250464",
+          "display_name": "Realm",
+          "level": 2,
+          "score": 0.6315476894378662
+        },
+        {
+          "id": "https://openalex.org/C2777871205",
+          "wikidata": "https://www.wikidata.org/wiki/Q100926628",
+          "display_name": "Breakup",
+          "level": 2,
+          "score": 0.5787560343742371
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.3887113928794861
+        },
+        {
+          "id": "https://openalex.org/C95457728",
+          "wikidata": "https://www.wikidata.org/wiki/Q309",
+          "display_name": "History",
+          "level": 0,
+          "score": 0.06379932165145874
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.06378155946731567
+        },
+        {
+          "id": "https://openalex.org/C57879066",
+          "wikidata": "https://www.wikidata.org/wiki/Q41217",
+          "display_name": "Mechanics",
+          "level": 1,
+          "score": 0.060819000005722046
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.02244347333908081
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/978-1-4899-1558-0_6",
+          "doi": "https://doi.org/10.1007/978-1-4899-1558-0_6",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/978-1-4899-1558-0_6",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306463937",
+            "display_name": "Springer eBooks",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4310319965",
+            "host_organization_name": "Springer Nature",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Nature"
+            ],
+            "type": "ebook platform"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "The Tethys Ocean",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
+        {
+          "display_name": "Life below water",
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 48,
+      "referenced_works": [
+        "https://openalex.org/W57810535",
+        "https://openalex.org/W119777211",
+        "https://openalex.org/W131819430",
+        "https://openalex.org/W580888509",
+        "https://openalex.org/W588730671",
+        "https://openalex.org/W878004301",
+        "https://openalex.org/W1488485799",
+        "https://openalex.org/W1532018330",
+        "https://openalex.org/W1533286238",
+        "https://openalex.org/W1539997818",
+        "https://openalex.org/W2010269787",
+        "https://openalex.org/W2017523377",
+        "https://openalex.org/W2023910005",
+        "https://openalex.org/W2029814898",
+        "https://openalex.org/W2037223408",
+        "https://openalex.org/W2041150091",
+        "https://openalex.org/W2048410163",
+        "https://openalex.org/W2048888468",
+        "https://openalex.org/W2051611059",
+        "https://openalex.org/W2056950411",
+        "https://openalex.org/W2068451724",
+        "https://openalex.org/W2070249965",
+        "https://openalex.org/W2075565064",
+        "https://openalex.org/W2077864992",
+        "https://openalex.org/W2083110893",
+        "https://openalex.org/W2084049583",
+        "https://openalex.org/W2112243095",
+        "https://openalex.org/W2115305977",
+        "https://openalex.org/W2142537332",
+        "https://openalex.org/W2157616299",
+        "https://openalex.org/W2168352585",
+        "https://openalex.org/W2170095604",
+        "https://openalex.org/W2267110518",
+        "https://openalex.org/W2319623492",
+        "https://openalex.org/W2492671665",
+        "https://openalex.org/W2494739113",
+        "https://openalex.org/W2499049219",
+        "https://openalex.org/W2499392562",
+        "https://openalex.org/W2593988451",
+        "https://openalex.org/W2599426384",
+        "https://openalex.org/W2603528832",
+        "https://openalex.org/W2620976855",
+        "https://openalex.org/W2759227314",
+        "https://openalex.org/W2795718478",
+        "https://openalex.org/W2909323391",
+        "https://openalex.org/W4246732990",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W6608634479"
+      ],
+      "related_works": [
+        "https://openalex.org/W2359053655",
+        "https://openalex.org/W2387777532",
+        "https://openalex.org/W2382709029",
+        "https://openalex.org/W2389147080",
+        "https://openalex.org/W2377883125",
+        "https://openalex.org/W2362479786",
+        "https://openalex.org/W2392455911",
+        "https://openalex.org/W2374248756",
+        "https://openalex.org/W2375492428",
+        "https://openalex.org/W2350419982"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-10-10T09:11:00.788812",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4287110371",
       "doi": "https://doi.org/10.5281/zenodo.5008787",
       "title": "Jurassic ammonites from Central Saudi Arabia (Jebel Tuwaiq and adjacent areas)",
@@ -38601,6 +39374,7 @@
         "raw_source_name": "Revue de Paléobiologie 40(1) 1-198",
         "raw_type": "info:eu-repo/semantics/article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "datacite"
@@ -40047,6 +40821,7 @@
         "raw_source_name": "Comptes Rendus de l'Académie des Sciences - Series IIA - Earth and Planetary Science",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -40516,6 +41291,7 @@
         "raw_source_name": "Bulletin de la Société Géologique de France",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -40819,9 +41595,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -41188,6 +41964,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -41505,9 +42282,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.6399999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -42067,6 +42844,7 @@
         "raw_source_name": "reponame:RepHipUNR (UNR)",
         "raw_type": "http://purl.org/coar/resource_type/c_6501"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -42519,9 +43297,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.6100000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -43059,6 +43837,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -43333,9 +44112,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.5400000214576721,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -43465,6 +44244,7 @@
         "raw_source_name": "Bulletin de la Société Géologique de France",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -44948,6 +45728,7 @@
         "raw_source_name": "Comptes Rendus de l'Académie des Sciences - Series IIA - Earth and Planetary Science",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -45426,9 +46207,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -45541,6 +46322,7 @@
         "raw_source_name": "Acta Geologica Polonica",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -45924,6 +46706,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -46294,9 +47077,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -46441,6 +47224,7 @@
         "raw_source_name": "Comptes Rendus de l'Académie des Sciences - Series IIA - Earth and Planetary Science",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -46863,9 +47647,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.6000000238418579,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -46964,6 +47748,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -47325,9 +48110,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -47422,6 +48207,7 @@
         "raw_source_name": "Bulletin mensuel de la Société linnéenne de Lyon",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -47645,9 +48431,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.6899999976158142,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -47690,724 +48476,6 @@
         }
       ],
       "updated_date": "2026-10-01T08:54:57.152042",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W40211962",
-      "doi": "https://doi.org/10.1007/978-1-4899-1558-0_6",
-      "title": "Paleogeography and Paleoenvironment of the Tethyan Realm During the Jurassic Breakup of Pangea",
-      "display_name": "Paleogeography and Paleoenvironment of the Tethyan Realm During the Jurassic Breakup of Pangea",
-      "publication_year": 1995,
-      "publication_date": "1995-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W40211962",
-        "doi": "https://doi.org/10.1007/978-1-4899-1558-0_6",
-        "mag": "40211962"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/978-1-4899-1558-0_6",
-        "doi": "https://doi.org/10.1007/978-1-4899-1558-0_6",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1007/978-1-4899-1558-0_6",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306463937",
-          "display_name": "Springer eBooks",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4310319965",
-          "host_organization_name": "Springer Nature",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Nature"
-          ],
-          "type": "ebook platform"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "The Tethys Ocean",
-        "raw_type": "book-chapter"
-      },
-      "type": "book-chapter",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5111600467",
-            "display_name": "Éric Fourcade",
-            "orcid": "https://orcid.org/0000-0002-2704-8229",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-2704-8229"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4405264447",
-              "display_name": "Université Pierre-et-Marie-Curie",
-              "ror": "https://ror.org/01yvrd251",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I39804081",
-                "https://openalex.org/I4405264447"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Eric Fourcade",
-          "raw_affiliation_strings": [
-            "CNRS URA 1761, Département de Géologie Sédimentaire, Université Pierre et Marie Curie, Paris, France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "CNRS URA 1761, Département de Géologie Sédimentaire, Université Pierre et Marie Curie, Paris, France",
-              "institution_ids": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I4405264447"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5114260129",
-            "display_name": "Jacques Azéma",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4405264447",
-              "display_name": "Université Pierre-et-Marie-Curie",
-              "ror": "https://ror.org/01yvrd251",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I39804081",
-                "https://openalex.org/I4405264447"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jacques Azéma",
-          "raw_affiliation_strings": [
-            "CNRS URA 1761, Département de Géologie Sédimentaire, Université Pierre et Marie Curie, Paris, France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "CNRS URA 1761, Département de Géologie Sédimentaire, Université Pierre et Marie Curie, Paris, France",
-              "institution_ids": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I4405264447"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5064236729",
-            "display_name": "Jean-Paul Bassoullet",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4405264447",
-              "display_name": "Université Pierre-et-Marie-Curie",
-              "ror": "https://ror.org/01yvrd251",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I39804081",
-                "https://openalex.org/I4405264447"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jean-Paul Bassoullet",
-          "raw_affiliation_strings": [
-            "CNRS URA 1761, Département de Géologie Sédimentaire, Université Pierre et Marie Curie, Paris, France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "CNRS URA 1761, Département de Géologie Sédimentaire, Université Pierre et Marie Curie, Paris, France",
-              "institution_ids": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I4405264447"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5057776445",
-            "display_name": "Fabrizio Cecca",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4405264447",
-              "display_name": "Université Pierre-et-Marie-Curie",
-              "ror": "https://ror.org/01yvrd251",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I39804081",
-                "https://openalex.org/I4405264447"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Fabrizio Cecca",
-          "raw_affiliation_strings": [
-            "CNRS URA 1761, Département de Géologie Sédimentaire, Université Pierre et Marie Curie, Paris, France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "CNRS URA 1761, Département de Géologie Sédimentaire, Université Pierre et Marie Curie, Paris, France",
-              "institution_ids": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I4405264447"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5003392843",
-            "display_name": "Jean Dercourt",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4405264447",
-              "display_name": "Université Pierre-et-Marie-Curie",
-              "ror": "https://ror.org/01yvrd251",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I39804081",
-                "https://openalex.org/I4405264447"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jean Dercourt",
-          "raw_affiliation_strings": [
-            "CNRS URA 1761, Département de Géologie Sédimentaire, Université Pierre et Marie Curie, Paris, France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "CNRS URA 1761, Département de Géologie Sédimentaire, Université Pierre et Marie Curie, Paris, France",
-              "institution_ids": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I4405264447"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5084630459",
-            "display_name": "Raymond Énay",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Lyon 1 Université",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Raymond Enay",
-          "raw_affiliation_strings": [
-            "URAM, Université Lyon 1, Villeurbanne, France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "URAM, Université Lyon 1, Villeurbanne, France",
-              "institution_ids": [
-                "https://openalex.org/I100532134"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5010229092",
-            "display_name": "René Guiraud",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I198415970",
-              "display_name": "Université d'Avignon et des Pays de Vaucluse",
-              "ror": "https://ror.org/00mfpxb84",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I198415970"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "René Guiraud",
-          "raw_affiliation_strings": [
-            "Faculté des Sciences, Université d’Avignon, Avignon, France",
-            "Faculté des Sciences, Université d'Avignon, Avignon, France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Faculté des Sciences, Université d’Avignon, Avignon, France",
-              "institution_ids": [
-                "https://openalex.org/I198415970"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Faculté des Sciences, Université d'Avignon, Avignon, France",
-              "institution_ids": [
-                "https://openalex.org/I198415970"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 7,
-      "citation_normalized_percentile": {
-        "value": 0.01865672,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 94
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "191",
-        "last_page": "214"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13177",
-        "display_name": "Geological and Geophysical Studies",
-        "score": 0.43849998712539673,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.43849998712539673,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.43209999799728394,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.03830000013113022,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/tethys-ocean",
-          "display_name": "Tethys",
-          "score": 0.7990000247955322
-        },
-        {
-          "id": "https://openalex.org/keywords/paleogeography",
-          "display_name": "paleogeography",
-          "score": 0.8610000014305115
-        },
-        {
-          "id": "https://openalex.org/keywords/paleoenvironment",
-          "display_name": "paleoenvironment",
-          "score": 0.9470000267028809
-        },
-        {
-          "id": "https://openalex.org/keywords/jurassic",
-          "display_name": "Jurassic",
-          "score": 0.878000020980835
-        },
-        {
-          "id": "https://openalex.org/keywords/pangea-breakup",
-          "display_name": "Pangea breakup",
-          "score": 0.9549999833106995
-        },
-        {
-          "id": "https://openalex.org/keywords/sea-level-change",
-          "display_name": "sea-level change",
-          "score": 0.6579999923706055
-        },
-        {
-          "id": "https://openalex.org/keywords/callovian",
-          "display_name": "Callovian",
-          "score": 0.8579999804496765
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7218194007873535
-        },
-        {
-          "id": "https://openalex.org/C2778757428",
-          "wikidata": "https://www.wikidata.org/wiki/Q1250464",
-          "display_name": "Realm",
-          "level": 2,
-          "score": 0.6315476894378662
-        },
-        {
-          "id": "https://openalex.org/C2777871205",
-          "wikidata": "https://www.wikidata.org/wiki/Q100926628",
-          "display_name": "Breakup",
-          "level": 2,
-          "score": 0.5787560343742371
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.3887113928794861
-        },
-        {
-          "id": "https://openalex.org/C95457728",
-          "wikidata": "https://www.wikidata.org/wiki/Q309",
-          "display_name": "History",
-          "level": 0,
-          "score": 0.06379932165145874
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.06378155946731567
-        },
-        {
-          "id": "https://openalex.org/C57879066",
-          "wikidata": "https://www.wikidata.org/wiki/Q41217",
-          "display_name": "Mechanics",
-          "level": 1,
-          "score": 0.060819000005722046
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0.02244347333908081
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/978-1-4899-1558-0_6",
-          "doi": "https://doi.org/10.1007/978-1-4899-1558-0_6",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1007/978-1-4899-1558-0_6",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306463937",
-            "display_name": "Springer eBooks",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4310319965",
-            "host_organization_name": "Springer Nature",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Nature"
-            ],
-            "type": "ebook platform"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "The Tethys Ocean",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "sustainable_development_goals_aurora": [
-        {
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 48,
-      "referenced_works": [
-        "https://openalex.org/W57810535",
-        "https://openalex.org/W119777211",
-        "https://openalex.org/W131819430",
-        "https://openalex.org/W580888509",
-        "https://openalex.org/W588730671",
-        "https://openalex.org/W878004301",
-        "https://openalex.org/W1488485799",
-        "https://openalex.org/W1532018330",
-        "https://openalex.org/W1533286238",
-        "https://openalex.org/W1539997818",
-        "https://openalex.org/W2010269787",
-        "https://openalex.org/W2017523377",
-        "https://openalex.org/W2023910005",
-        "https://openalex.org/W2029814898",
-        "https://openalex.org/W2037223408",
-        "https://openalex.org/W2041150091",
-        "https://openalex.org/W2048410163",
-        "https://openalex.org/W2048888468",
-        "https://openalex.org/W2051611059",
-        "https://openalex.org/W2056950411",
-        "https://openalex.org/W2068451724",
-        "https://openalex.org/W2070249965",
-        "https://openalex.org/W2075565064",
-        "https://openalex.org/W2077864992",
-        "https://openalex.org/W2083110893",
-        "https://openalex.org/W2084049583",
-        "https://openalex.org/W2112243095",
-        "https://openalex.org/W2115305977",
-        "https://openalex.org/W2142537332",
-        "https://openalex.org/W2157616299",
-        "https://openalex.org/W2168352585",
-        "https://openalex.org/W2170095604",
-        "https://openalex.org/W2267110518",
-        "https://openalex.org/W2319623492",
-        "https://openalex.org/W2492671665",
-        "https://openalex.org/W2494739113",
-        "https://openalex.org/W2499049219",
-        "https://openalex.org/W2499392562",
-        "https://openalex.org/W2593988451",
-        "https://openalex.org/W2599426384",
-        "https://openalex.org/W2603528832",
-        "https://openalex.org/W2620976855",
-        "https://openalex.org/W2759227314",
-        "https://openalex.org/W2795718478",
-        "https://openalex.org/W2909323391",
-        "https://openalex.org/W4246732990",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W6608634479"
-      ],
-      "related_works": [
-        "https://openalex.org/W2359053655",
-        "https://openalex.org/W2387777532",
-        "https://openalex.org/W2382709029",
-        "https://openalex.org/W2389147080",
-        "https://openalex.org/W2377883125",
-        "https://openalex.org/W2362479786",
-        "https://openalex.org/W2392455911",
-        "https://openalex.org/W2374248756",
-        "https://openalex.org/W2375492428",
-        "https://openalex.org/W2350419982"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-10-07T09:51:55.459714",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -48463,6 +48531,7 @@
         "raw_source_name": "Newsletters on Stratigraphy",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -48745,9 +48814,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Climate action",
           "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -48827,6 +48896,7 @@
         "raw_source_name": null,
         "raw_type": "article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -49178,9 +49248,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -50070,6 +50140,7 @@
         "raw_source_name": "Revue de l'Institut Français du Pétrole",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -50565,16 +50636,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -50998,6 +51069,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -51236,9 +51308,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -51319,6 +51391,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -51825,16 +51898,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life on land",
           "score": 0.7605999708175659,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -51935,6 +52008,7 @@
         "raw_source_name": null,
         "raw_type": "article-journal"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "datacite"
@@ -52330,6 +52404,7 @@
         "raw_source_name": "Bulletin mensuel de la Société linnéenne de Lyon",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -52534,9 +52609,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -52615,6 +52690,7 @@
         "raw_source_name": null,
         "raw_type": "article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -53134,6 +53210,7 @@
         "raw_source_name": "Bulletin de la Société Géologique de France",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -53950,6 +54027,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -54382,16 +54460,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -55095,6 +55173,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -55420,9 +55499,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -55514,6 +55593,7 @@
         "raw_source_name": "Paleontological Contributions",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -55911,9 +55991,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life on land",
           "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -56137,6 +56217,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -56478,6 +56559,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -56898,9 +56980,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.49000000953674316,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -56984,6 +57066,7 @@
         "raw_source_name": "Nouvelles archives du Muséum d'histoire naturelle de Lyon",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -57395,6 +57478,7 @@
         "raw_source_name": "Comptes Rendus De L Academie Des Sciences Serie Ii Fascicule A-sciences De La Terre Et Des Planetes",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -57776,9 +57860,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -57852,6 +57936,7 @@
         "raw_source_name": "1st EAGE North African/Mediterranean Petroleum &amp; Geosciences Conference &amp; Exhibition",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -58235,16 +58320,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -58601,6 +58686,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "book-review",
       "indexed_in": [
         "crossref"
@@ -58824,9 +58910,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.6100000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -58906,6 +58992,7 @@
         "raw_source_name": null,
         "raw_type": "article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -59180,9 +59267,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life on land",
           "score": 0.6100000143051147,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -59377,6 +59464,7 @@
         "raw_source_name": "Journal of iberian geology: an international publication of earth sciences",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -59651,9 +59739,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -59888,6 +59976,7 @@
         "raw_source_name": "Bulletin de la Société Géologique de France",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -60152,9 +60241,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -60370,6 +60459,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -60592,9 +60682,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.5600000023841858,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -60810,6 +60900,7 @@
         "raw_source_name": null,
         "raw_type": "article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -61086,9 +61177,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -61266,6 +61357,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -61652,9 +61744,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -61751,6 +61843,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -62129,9 +62222,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -62235,6 +62328,7 @@
         "raw_source_name": "Bulletin de la Société Géologique de France",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -62542,9 +62636,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.5299999713897705,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -63069,6 +63163,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "book-review",
       "indexed_in": [
         "crossref"
@@ -63263,6 +63358,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -63487,6 +63583,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -63774,6 +63871,7 @@
         "raw_source_name": "ISSN: 0567-655X",
         "raw_type": "info:eu-repo/semantics/article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -64101,9 +64199,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -64353,6 +64451,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "book-review",
       "indexed_in": [
         "crossref"
@@ -64554,6 +64653,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -64755,6 +64855,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "book-review",
       "indexed_in": [
         "crossref"
@@ -64956,6 +65057,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -65154,6 +65256,7 @@
         "raw_source_name": "Paleontological Contributions",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -65563,9 +65666,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -65723,6 +65826,7 @@
         "raw_source_name": "Kaupia, 2005, 14, pp.27-31",
         "raw_type": "info:eu-repo/semantics/article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -66171,6 +66275,7 @@
         "raw_source_name": "Geobios",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -66435,6 +66540,7 @@
         "raw_source_name": "Volumina Jurassica",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -66679,6 +66785,7 @@
         "raw_source_name": null,
         "raw_type": "article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -66920,9 +67027,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -67129,6 +67236,7 @@
         "raw_source_name": null,
         "raw_type": "article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -67512,6 +67620,7 @@
         "raw_source_name": "Volumina Jurassica",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -67936,9 +68045,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Peace, justice, and strong institutions",
           "score": 0.7699999809265137,
-          "id": "https://metadata.un.org/sdg/16",
-          "display_name": "Peace, justice, and strong institutions"
+          "id": "https://metadata.un.org/sdg/16"
         }
       ],
       "study_designs": [],
@@ -68335,6 +68444,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -68600,6 +68710,7 @@
         "raw_source_name": null,
         "raw_type": "article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -68976,6 +69087,7 @@
         "raw_source_name": "Revue de Paléobiologie, 2005, 24 (1), pp.97-109",
         "raw_type": "info:eu-repo/semantics/article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -69298,6 +69410,7 @@
         "raw_source_name": "Revue de Paléobiologie, 2011, 30 (1), pp.133-166",
         "raw_type": "info:eu-repo/semantics/article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -69532,9 +69645,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -69631,6 +69744,7 @@
         "raw_source_name": "“Biodiversité, Stratigraphie, Paléogéographie Paléo-environnements, Paléoclimats, Géo-ressources du Jurassique » Journée du Cinquantenaire du Groupe Français d’Etude du Jurassique, Dec 2018, Paris, France",
         "raw_type": "info:eu-repo/semantics/conferenceObject"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -70479,9 +70593,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.821399986743927,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -70561,6 +70675,7 @@
         "raw_source_name": "M-fed Conference & Workshop “M-fed Microbialites: formation, evolution, diagenesis”, Oct 2019, Dijon, France",
         "raw_type": "info:eu-repo/semantics/conferenceObject"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -71348,16 +71463,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.6700000166893005,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -71436,6 +71551,7 @@
         "raw_source_name": "https://ims2017.sciencesconf.org/data/IMS_2017_Abstracts_book.pdf",
         "raw_type": "info:eu-repo/semantics/conferenceObject"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -72107,6 +72223,7 @@
         "raw_source_name": "Pienkowski , G , Schudack , M , Bosák , P , Enay , R , Feldman-Olszewska , A , Golonka , J , Gutowski , J , Herngreen , J G F W , Jordan , P , Krobicki , M , Lathuiliere , B , Leinfelder , R , Michalik , J , Mönnig , E , Noe-Nygaard , N , Palfy , J , Pint , A , Rasser , M W , Reisdorf , A G , Schmid , D U , Schweigert , G , Surlyk , F , Wetzel , A & Wong , T E 2008 , Jurassic . in T McCann (ed.) , The Geology of Central Europe . vol. 2 , Geological Society , London , pp. 823–922 .",
         "raw_type": "bookPart"
       },
+      "volume": null,
       "type": "book-chapter",
       "indexed_in": [],
       "open_access": {

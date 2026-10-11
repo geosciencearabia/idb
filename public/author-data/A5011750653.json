@@ -332,7 +332,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0001996,
+        "value": 0.0001997,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -366,7 +366,7 @@
       {
         "id": "https://openalex.org/T10001",
         "display_name": "Geological and Geochemical Analysis",
-        "value": 0.0001592,
+        "value": 0.0001593,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -673,6 +673,7 @@
         "raw_source_name": "Nature",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -1363,8 +1364,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -1564,6 +1565,7 @@
         "raw_source_name": "Lithosphere",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -2137,8 +2139,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -3033,8 +3035,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-2",
-            "norway-2"
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -3056,6 +3061,7 @@
         "raw_source_name": "Contributions to Mineralogy and Petrology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -3164,11 +3170,11 @@
         "value_usd": 3990
       },
       "apc_paid": null,
-      "fwci": 13.2117,
+      "fwci": 13.2078,
       "has_fulltext": false,
-      "cited_by_count": 431,
+      "cited_by_count": 432,
       "citation_normalized_percentile": {
-        "value": 0.99200772,
+        "value": 0.99200587,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -3402,8 +3408,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-2",
-              "norway-2"
+              "norway-2",
+              "poland-200",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -3430,8 +3439,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -3531,7 +3540,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 23
+          "cited_by_count": 24
         },
         {
           "year": 2025,
@@ -3590,7 +3599,7 @@
           "cited_by_count": 14
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3647,6 +3656,7 @@
         "raw_source_name": "Geochemistry, Geophysics, Geosystems",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -5424,8 +5434,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -6431,6 +6441,7 @@
         "raw_source_name": "International Geology Review",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -8412,8 +8423,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -9130,6 +9141,7 @@
         "raw_source_name": "Gondwana Research",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -9539,8 +9551,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -9831,6 +9843,7 @@
         "raw_source_name": "Geochemistry, Geophysics, Geosystems",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -11340,8 +11353,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.5,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -12151,6 +12164,7 @@
         "raw_source_name": "Lithos",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -14415,8 +14429,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -14703,6 +14717,7 @@
         "raw_source_name": "International Journal of Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -15661,6 +15676,7 @@
         "raw_source_name": "International Geology Review",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -16119,8 +16135,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -16928,6 +16944,7 @@
         "raw_source_name": "Geochemistry",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -17857,6 +17874,7 @@
         "raw_source_name": "International Geology Review",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -19568,6 +19586,7 @@
         "raw_source_name": "International Geology Review",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -21530,6 +21549,7 @@
         "raw_source_name": "Geochemistry, Geophysics, Geosystems",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -22113,8 +22133,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -23043,6 +23063,7 @@
         "raw_source_name": "Lithos",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -23431,8 +23452,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -23709,6 +23730,7 @@
         "raw_source_name": "Chemical Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -25040,8 +25062,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8600000143051147,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -25257,6 +25279,7 @@
         "raw_source_name": "American Mineralogist",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -26301,8 +26324,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -27203,6 +27226,7 @@
         "raw_source_name": "Precambrian Research",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -27603,8 +27627,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.550000011920929,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -27826,6 +27850,10 @@
         "is_published": true,
         "raw_source_name": "Proceedings of the International Ocean Discovery Program",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2936792846",
+        "display_name": "Izu-Bonin-Mariana Fore Arc"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -29628,7 +29656,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-09-26T08:19:03.415552",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29690,6 +29718,7 @@
         "raw_source_name": "Nature Communications",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -30345,8 +30374,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -30926,6 +30955,7 @@
         "raw_source_name": "GSA Bulletin",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -31954,8 +31984,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -32843,6 +32873,7 @@
         "raw_source_name": "Journal of Geophysical Research: Solid Earth",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -33523,8 +33554,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -34370,6 +34401,7 @@
         "raw_source_name": "Gondwana Research",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -34822,8 +34854,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -35073,6 +35105,7 @@
         "raw_source_name": "Lithos",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -35625,8 +35658,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8999999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -35853,6 +35886,7 @@
         "raw_source_name": "Gondwana Research",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -36744,6 +36778,7 @@
         "raw_source_name": "Frontiers in Earth Science",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -37198,8 +37233,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -37976,6 +38011,7 @@
         "raw_source_name": "Journal of Petrology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -38576,8 +38612,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -39643,6 +39679,7 @@
         "raw_source_name": "Chemical Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -41057,8 +41094,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8100000023841858,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -41269,6 +41306,7 @@
         "raw_source_name": "Frontiers in Earth Science",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -42146,8 +42184,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -42788,6 +42826,7 @@
         "raw_source_name": "Lithos",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -43798,6 +43837,7 @@
         "raw_source_name": "Contributions to Mineralogy and Petrology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -44383,8 +44423,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -45534,6 +45574,7 @@
         "raw_source_name": "Lithos",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -46178,8 +46219,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.44999998807907104,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -46394,6 +46435,7 @@
         "raw_source_name": "Precambrian Research",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -47034,8 +47076,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.800000011920929,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -47229,6 +47271,7 @@
         "raw_source_name": "International Journal of Hydrogen Energy",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -47799,13 +47842,13 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.75,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7"
         },
         {
-          "display_name": "Climate action",
           "score": 0.46149998903274536,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -48706,6 +48749,7 @@
         "raw_source_name": "International Geology Review",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -49377,8 +49421,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.6499999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -50388,6 +50432,7 @@
         "raw_source_name": "ACS Omega",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -52143,6 +52188,7 @@
         "raw_source_name": "Geochemistry",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -52773,8 +52819,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.6399999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -53013,6 +53059,7 @@
         "raw_source_name": "Journal of Geochemical Exploration",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -54731,6 +54778,7 @@
         "raw_source_name": "Precambrian Research",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -55667,6 +55715,7 @@
         "raw_source_name": "Ore Geology Reviews",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -57322,6 +57371,7 @@
         "raw_source_name": "Journal of Structural Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -57996,8 +58046,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.5600000023841858,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -58309,6 +58359,7 @@
         "raw_source_name": "Earth and Planetary Science Letters",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -58855,8 +58906,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -59052,6 +59103,7 @@
         "raw_source_name": "Lithos",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -59531,8 +59583,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.6000000238418579,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -59807,6 +59859,7 @@
         "raw_source_name": "Journal of the Geological Society",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -60329,8 +60382,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8299999833106995,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -60967,6 +61020,7 @@
         "raw_source_name": "Lithos",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -61547,8 +61601,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8100000023841858,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -61853,6 +61907,7 @@
         "raw_source_name": "International Geology Review",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -62405,8 +62460,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8399999737739563,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -63333,6 +63388,7 @@
         "raw_source_name": "Geochimica et Cosmochimica Acta",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -63994,6 +64050,10 @@
         "is_published": true,
         "raw_source_name": "Proceedings of the International Ocean Discovery Program",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2936792846",
+        "display_name": "Izu-Bonin-Mariana Fore Arc"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -65708,7 +65768,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-26T08:19:03.415552",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -65755,6 +65815,7 @@
         "raw_source_name": "International Ocean Discovery Program Preliminary Report",
         "raw_type": "monograph"
       },
+      "volume": null,
       "type": "book",
       "indexed_in": [
         "crossref"
@@ -66561,8 +66622,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -68013,6 +68074,7 @@
         "raw_source_name": "Geocarto International",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -68562,8 +68624,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.5199999809265137,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -69055,6 +69117,10 @@
         "is_published": true,
         "raw_source_name": "Proceedings of the International Ocean Discovery Program",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2936792846",
+        "display_name": "Izu-Bonin-Mariana Fore Arc"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -70197,7 +70263,7 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8639,
+      "fwci": 2.8573,
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
@@ -70704,7 +70770,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -70759,6 +70825,7 @@
         "raw_source_name": "Gondwana Research",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -71218,8 +71285,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -71506,6 +71573,7 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -72184,8 +72252,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -72839,6 +72907,7 @@
         "raw_source_name": "International Geology Review",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -73328,8 +73397,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.6600000262260437,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -74029,6 +74098,7 @@
         "raw_source_name": "Journal of the Geological Society",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -75788,6 +75858,7 @@
         "raw_source_name": "Precambrian Research",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -76321,8 +76392,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.699999988079071,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -76504,6 +76575,7 @@
         "raw_source_name": "International Geology Review",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -78079,6 +78151,7 @@
         "raw_source_name": "Renewable Energy",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -78496,8 +78569,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.875,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7"
         }
       ],
@@ -78644,6 +78717,7 @@
         "raw_source_name": "Earth and Planetary Science Letters",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -79189,8 +79263,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.7300000190734863,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -79412,6 +79486,7 @@
         "raw_source_name": "New Zealand Journal of Geology and Geophysics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -80002,8 +80077,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.6600000262260437,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -80438,6 +80513,7 @@
         "raw_source_name": "Lithos",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -81110,8 +81186,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.46000000834465027,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -81352,6 +81428,10 @@
         "is_published": true,
         "raw_source_name": "Proceedings of the International Ocean Discovery Program",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2936792846",
+        "display_name": "Izu-Bonin-Mariana Fore Arc"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -82765,7 +82845,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -82821,6 +82901,7 @@
         "raw_source_name": "Lithos",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -83420,8 +83501,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.44999998807907104,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -83649,6 +83730,7 @@
         "raw_source_name": "Geochimica et Cosmochimica Acta",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -84555,6 +84637,7 @@
         "raw_source_name": "Science Bulletin",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -84979,8 +85062,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.6499999761581421,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -85092,6 +85175,7 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -85956,6 +86040,7 @@
         "raw_source_name": "IEEE Transactions on Geoscience and Remote Sensing",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -87218,6 +87303,7 @@
         "raw_source_name": "Journal of Applied Geophysics",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -87874,6 +87960,7 @@
         "raw_source_name": "Geophysical Research Letters",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -88980,6 +89067,7 @@
         "raw_source_name": "Earth and Planetary Science Letters",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -90447,6 +90535,10 @@
         "raw_source_name": "Proceedings of the International Ocean Discovery Program",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W2936792846",
+        "display_name": "Izu-Bonin-Mariana Fore Arc"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -91841,7 +91933,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -91898,6 +91990,7 @@
         "raw_source_name": "International Geology Review",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -92264,8 +92357,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -93069,6 +93162,7 @@
         "raw_source_name": "Geochemistry",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -94007,6 +94101,7 @@
         "raw_source_name": "Journal of the Geological Society",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -95286,6 +95381,10 @@
         "raw_source_name": "Natural Hydrogen Systems",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4412891011",
+        "display_name": "Natural Hydrogen Systems"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -95467,11 +95566,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.0388,
+      "fwci": 5.1473,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.93069307,
+        "value": 0.9284141,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -95661,13 +95760,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.9853000044822693,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7"
         },
         {
-          "display_name": "Climate action",
           "score": 0.9786999821662903,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -96228,7 +96327,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-04T09:36:47.201465",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -96272,6 +96371,7 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -96751,8 +96851,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.5692999958992004,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7"
         }
       ],
@@ -97474,6 +97574,7 @@
         "raw_source_name": "2015 AGU Fall Meeting",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -97961,6 +98062,7 @@
         "raw_source_name": null,
         "raw_type": "Conference Publication"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -98697,6 +98799,7 @@
         "raw_source_name": "Lunar and Planetary Science Conference",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -99092,6 +99195,7 @@
         "raw_source_name": "Lithos",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -99936,6 +100040,7 @@
         "raw_source_name": "Geological Society of America Abstracts with Programs",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -101436,6 +101541,10 @@
         "raw_source_name": "Proceedings of the International Ocean Discovery Program",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W2936792846",
+        "display_name": "Izu-Bonin-Mariana Fore Arc"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -102803,7 +102912,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -102865,6 +102974,7 @@
         "raw_source_name": "Nature Communications",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "letter",
       "indexed_in": [
         "crossref",
@@ -103445,8 +103555,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -103749,6 +103859,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "preprint",
       "indexed_in": [
         "crossref"
@@ -104457,8 +104568,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.6800000071525574,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -104541,6 +104652,7 @@
         "raw_source_name": "AGU Fall Meeting Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [],
       "open_access": {
@@ -105015,8 +105127,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.5199999809265137,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -105093,6 +105205,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -105703,8 +105816,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.9786999821662903,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -106670,6 +106783,7 @@
         "raw_source_name": "Research Square",
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "preprint",
       "indexed_in": [
         "crossref"
@@ -107585,8 +107699,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.7900000214576721,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -108410,6 +108524,7 @@
         "raw_source_name": null,
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -109374,6 +109489,7 @@
         "raw_source_name": "SSRN Electronic Journal",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "preprint",
       "indexed_in": [
         "crossref"
@@ -110052,8 +110168,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.46000000834465027,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -110116,6 +110232,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -110396,8 +110513,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Good health and well-being",
           "score": 0.8371999859809875,
+          "display_name": "Good health and well-being",
           "id": "https://metadata.un.org/sdg/3"
         }
       ],
@@ -110480,6 +110597,7 @@
         "raw_source_name": "대한지질학회 학술대회",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -110722,8 +110840,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8299999833106995,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -110805,6 +110923,7 @@
         "raw_source_name": "대한지질학회 학술대회",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -111151,6 +111270,7 @@
         "raw_source_name": "The University of Hong Kong",
         "raw_type": "dissertation"
       },
+      "volume": null,
       "type": "dissertation",
       "indexed_in": [
         "crossref"
@@ -111482,6 +111602,7 @@
         "raw_source_name": "香港大學學位論文",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -111777,6 +111898,7 @@
         "raw_source_name": "Geological Society of America Abstracts with Programs",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -112427,8 +112549,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8299999833106995,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -113165,6 +113287,7 @@
         "raw_source_name": "Geological Society of America Abstracts with Programs",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -113455,8 +113578,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.49000000953674316,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -113530,6 +113653,7 @@
         "raw_source_name": "2014 AGU Fall Meeting",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -113863,8 +113987,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.6700000166893005,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -113950,6 +114074,7 @@
         "raw_source_name": "Japan Geoscience Union",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -114504,8 +114629,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.75,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -114573,6 +114698,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -115436,6 +115562,7 @@
         "raw_source_name": "",
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -116311,6 +116438,7 @@
         "raw_source_name": "AGU Fall Meeting Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [],
       "open_access": {
@@ -116618,8 +116746,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.7400000095367432,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -116703,6 +116831,7 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -117036,8 +117165,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.6499999761581421,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -117121,6 +117250,7 @@
         "raw_source_name": "AGUFM",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -117365,8 +117495,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.800000011920929,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -117450,6 +117580,7 @@
         "raw_source_name": "AGU Fall Meeting Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [],
       "open_access": {
@@ -117704,8 +117835,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Sustainable cities and communities",
           "score": 0.44999998807907104,
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11"
         }
       ],
@@ -117789,6 +117920,7 @@
         "raw_source_name": "AGU Fall Meeting Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [],
       "open_access": {
@@ -118277,15 +118409,15 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5769000053405762,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.5199999809265137,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -118369,6 +118501,7 @@
         "raw_source_name": "AGU Fall Meeting Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [],
       "open_access": {
@@ -118670,8 +118803,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.6100000143051147,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -118755,6 +118888,7 @@
         "raw_source_name": "AGU Fall Meeting Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [],
       "open_access": {
@@ -119051,8 +119185,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.550000011920929,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -119136,6 +119270,7 @@
         "raw_source_name": "AGU Fall Meeting Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [],
       "open_access": {
@@ -119371,8 +119506,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.4399999976158142,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -119454,6 +119589,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -119913,8 +120049,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8399999737739563,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -119996,6 +120132,7 @@
         "raw_source_name": null,
         "raw_type": "Conference Publication"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -120603,6 +120740,7 @@
         "raw_source_name": "Lunar and Planetary Science Conference",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -120985,6 +121123,7 @@
         "raw_source_name": "AGU Fall Meeting Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [],
       "open_access": {
@@ -121244,8 +121383,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.75,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -121329,6 +121468,7 @@
         "raw_source_name": "Lunar and Planetary Science Conference",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -121659,6 +121799,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -121967,8 +122108,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -123076,6 +123217,7 @@
         "raw_source_name": "Goldschmidt Abstracts",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -123536,6 +123678,7 @@
         "raw_source_name": "Lithos",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "editorial",
       "indexed_in": [
         "crossref"
@@ -124106,6 +124249,7 @@
         "raw_source_name": "Mineralogy and Petrology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -124730,8 +124874,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.7400000095367432,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -124864,6 +125008,7 @@
         "raw_source_name": "Goldschmidt2022 abstracts",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -125200,8 +125345,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.44999998807907104,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -125280,6 +125425,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "preprint",
       "indexed_in": [
         "crossref"
@@ -125853,6 +125999,7 @@
         "raw_source_name": "Goldschmidt2023 abstracts",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -126266,8 +126413,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -126344,6 +126491,7 @@
         "raw_source_name": "Goldschmidt2023 abstracts",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -126889,6 +127037,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -127435,8 +127584,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -128551,6 +128700,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -130295,6 +130445,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -130871,20 +131022,20 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.75,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7"
         },
         {
-          "display_name": "Climate action",
           "score": 0.4399999976158142,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 0.4699999988079071,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9"
         }
       ],
@@ -131391,6 +131542,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -131843,8 +131995,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8999999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -132842,6 +132994,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref",
@@ -133463,8 +133616,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -134412,6 +134565,7 @@
         "raw_source_name": null,
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -135379,6 +135533,7 @@
         "raw_source_name": null,
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -136328,6 +136483,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -137259,6 +137415,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -138231,6 +138388,7 @@
         "raw_source_name": null,
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -139145,6 +139303,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -140140,6 +140299,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -141311,6 +141471,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -142446,6 +142607,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -143734,6 +143896,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -144684,6 +144847,7 @@
         "raw_source_name": null,
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -145728,6 +145892,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -146643,6 +146808,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -147585,6 +147751,7 @@
         "raw_source_name": null,
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -148454,6 +148621,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -149621,6 +149789,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -150617,6 +150786,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -151615,6 +151785,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -152514,6 +152685,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -153572,6 +153744,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -154709,6 +154882,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -155735,6 +155909,7 @@
         "raw_source_name": null,
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -156725,6 +156900,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -157736,6 +157912,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -158693,6 +158870,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -159738,6 +159916,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -160786,6 +160965,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -161827,6 +162007,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -162884,6 +163065,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -163942,6 +164124,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -165044,6 +165227,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -166206,6 +166390,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -167294,6 +167479,7 @@
         "raw_source_name": null,
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -168327,6 +168513,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -169560,6 +169747,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -170559,6 +170747,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -171578,6 +171767,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -172554,6 +172744,7 @@
         "raw_source_name": null,
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -173517,6 +173708,7 @@
         "raw_source_name": "",
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -174605,6 +174797,7 @@
         "raw_source_name": null,
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -175620,6 +175813,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -176609,6 +176803,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -177641,6 +177836,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -178959,6 +179155,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -180149,6 +180346,7 @@
         "raw_source_name": null,
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -181106,6 +181304,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -182150,6 +182349,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -183169,6 +183369,7 @@
         "raw_source_name": "",
         "raw_type": "dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -184233,6 +184434,7 @@
         "raw_source_name": "",
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -185543,6 +185745,7 @@
         "raw_source_name": "",
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -186451,6 +186654,7 @@
         "raw_source_name": "",
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -187212,6 +187416,7 @@
         "raw_source_name": null,
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -188171,6 +188376,7 @@
         "raw_source_name": null,
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -189260,6 +189466,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "preprint",
       "indexed_in": [
         "crossref"
@@ -190062,6 +190269,7 @@
         "raw_source_name": "85th EAGE Annual Conference &amp; Exhibition",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -190627,13 +190835,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.9786999821662903,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         },
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7"
         }
       ],
@@ -191178,6 +191386,7 @@
         "raw_source_name": "Lithos",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -191725,8 +191934,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.7599999904632568,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -191915,6 +192124,7 @@
         "raw_source_name": "Icarus",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -193314,6 +193524,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -193694,13 +193905,13 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.571399986743927,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7"
         },
         {
-          "display_name": "Climate action",
           "score": 0.4399999976158142,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -194410,6 +194621,7 @@
         "raw_source_name": "NSG 2025: 6th Conference on Geophysics for Mineral Exploration and Mining",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -194860,8 +195072,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.571399986743927,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7"
         }
       ],
@@ -195385,6 +195597,7 @@
         "raw_source_name": "Frontiers in Earth Science",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "editorial",
       "indexed_in": [
         "crossref",
@@ -198715,6 +198928,7 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -200238,6 +200452,7 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -200883,18 +201098,18 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         },
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7"
         },
         {
-          "display_name": "Responsible consumption and production",
           "score": 0.5171999931335449,
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12"
         }
       ],
@@ -201650,6 +201865,7 @@
         "raw_source_name": null,
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -202817,6 +203033,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "preprint",
       "indexed_in": [
         "crossref"
@@ -203238,8 +203455,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -203320,6 +203537,7 @@
         "raw_source_name": "https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/154068",
         "raw_type": "Conference Publication"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -203874,6 +204092,7 @@
         "raw_source_name": "Lithos",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -204657,6 +204876,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "preprint",
       "indexed_in": [
         "crossref"
@@ -205275,8 +205495,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Sustainable cities and communities",
           "score": 0.7345947027206421,
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11"
         }
       ],
@@ -205339,6 +205559,7 @@
         "raw_source_name": null,
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"
@@ -206323,6 +206544,7 @@
         "raw_source_name": null,
         "raw_type": "Dataset"
       },
+      "volume": null,
       "type": "dataset",
       "indexed_in": [
         "datacite"

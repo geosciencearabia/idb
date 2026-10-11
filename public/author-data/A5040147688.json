@@ -24,7 +24,7 @@
     ],
     "full_name": "Michael  Henry Stephenson",
     "works_count": 155,
-    "cited_by_count": 2878,
+    "cited_by_count": 2879,
     "summary_stats": {
       "2yr_mean_citedness": 2,
       "h_index": 31,
@@ -305,7 +305,7 @@
       {
         "id": "https://openalex.org/T13811",
         "display_name": "Earth Systems and Cosmic Evolution",
-        "value": 0.0001458,
+        "value": 0.0001461,
         "subfield": {
           "id": "https://openalex.org/subfields/1902",
           "display_name": "Atmospheric Science"
@@ -322,7 +322,7 @@
       {
         "id": "https://openalex.org/T12615",
         "display_name": "Climate Change and Geoengineering",
-        "value": 0.0001149,
+        "value": 0.0001155,
         "subfield": {
           "id": "https://openalex.org/subfields/2306",
           "display_name": "Global and Planetary Change"
@@ -356,7 +356,7 @@
       {
         "id": "https://openalex.org/T12639",
         "display_name": "Global Energy and Sustainability Research",
-        "value": 0.0000938,
+        "value": 0.0000939,
         "subfield": {
           "id": "https://openalex.org/subfields/2105",
           "display_name": "Renewable Energy, Sustainability and the Environment"
@@ -546,7 +546,7 @@
         "year": 2021,
         "works_count": 4,
         "oa_works_count": 2,
-        "cited_by_count": 146
+        "cited_by_count": 147
       },
       {
         "year": 2022,
@@ -597,7 +597,7 @@
     ],
     "block_key": "m stephenson",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5040147688",
-    "updated_date": "2026-10-08T12:30:13",
+    "updated_date": "2026-10-09T12:31:04",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -654,6 +654,7 @@
         "raw_source_name": "Earth-Science Reviews",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -2254,6 +2255,7 @@
         "raw_source_name": "National Science Review",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -3459,9 +3461,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4300000071525574,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.4300000071525574
         }
       ],
       "study_designs": [],
@@ -4023,6 +4025,7 @@
         "raw_source_name": "International Journal of Coal Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -4755,9 +4758,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4699999988079071,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.4699999988079071
         }
       ],
       "study_designs": [],
@@ -5497,6 +5500,7 @@
         "raw_source_name": "Earth and Planetary Science Letters",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -6368,16 +6372,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.9786999821662903
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8399999737739563,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8399999737739563
         }
       ],
       "study_designs": [],
@@ -7347,6 +7351,7 @@
         "raw_source_name": "International Journal of Coal Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -8487,6 +8492,7 @@
         "raw_source_name": "Geological Society, London, Special Publications",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -9497,6 +9503,7 @@
         "raw_source_name": "Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -10031,16 +10038,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6399999856948853,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.6399999856948853
         }
       ],
       "study_designs": [],
@@ -10579,6 +10586,7 @@
         "raw_source_name": "Journal of Sedimentary Research",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -11032,9 +11040,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -12116,6 +12124,7 @@
         "raw_source_name": "Nature Communications",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -12950,9 +12959,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -13192,6 +13201,7 @@
         "raw_source_name": "Geological Society, London, Special Publications",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -13823,9 +13833,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -15091,6 +15101,7 @@
         "raw_source_name": "Lethaia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -15963,9 +15974,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -16933,6 +16944,7 @@
         "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -17912,21 +17924,21 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6710000038146973,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.6710000038146973
         },
         {
-          "score": 0.5351999998092651,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6700000166893005,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.6700000166893005
         }
       ],
       "study_designs": [],
@@ -18249,6 +18261,7 @@
         "raw_source_name": "Journal of the Geological Society",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -19002,16 +19015,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.5769000053405762
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -19913,6 +19926,7 @@
         "raw_source_name": "Petroleum Geoscience",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -20571,21 +20585,21 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         },
         {
-          "score": 0.9090999960899353,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.9090999960899353
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.47999998927116394,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.47999998927116394
         }
       ],
       "study_designs": [],
@@ -21212,6 +21226,7 @@
         "raw_source_name": "Energy Science &amp; Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -21752,16 +21767,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.5690000057220459
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.46000000834465027,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.46000000834465027
         }
       ],
       "study_designs": [],
@@ -22451,6 +22466,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -22733,9 +22749,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5400000214576721,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5400000214576721
         }
       ],
       "study_designs": [],
@@ -23390,6 +23406,7 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -24112,9 +24129,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -25289,6 +25306,7 @@
         "raw_source_name": "Journal of the Geological Society",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -25838,9 +25856,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.821399986743927,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.821399986743927
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -26386,6 +26404,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -26784,9 +26803,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7900000214576721,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.7900000214576721
         }
       ],
       "study_designs": [],
@@ -27783,6 +27802,7 @@
         "raw_source_name": "Sedimentology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -28491,9 +28511,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -29521,6 +29541,7 @@
         "raw_source_name": "",
         "raw_type": "Publication - Article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "datacite",
@@ -29935,9 +29956,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -30479,6 +30500,7 @@
         "raw_source_name": "Palaeontology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -31708,9 +31730,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.5769000053405762
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -32550,6 +32572,7 @@
         "raw_source_name": "Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -33008,9 +33031,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8100000023841858,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8100000023841858
         }
       ],
       "study_designs": [],
@@ -33697,6 +33720,7 @@
         "raw_source_name": "Chemical Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -35472,6 +35496,7 @@
         "raw_source_name": "Episodes",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -36581,6 +36606,7 @@
         "raw_source_name": "Episodes",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -38444,6 +38470,7 @@
         "raw_source_name": "Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -39211,9 +39238,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5600000023841858,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5600000023841858
         }
       ],
       "study_designs": [],
@@ -40013,6 +40040,7 @@
         "raw_source_name": "Stratigraphy and Geological Correlation",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -40473,9 +40501,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -41179,6 +41207,7 @@
         "raw_source_name": "International Biodeterioration &amp; Biodegradation",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -41771,9 +41800,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5099999904632568,
+          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "score": 0.5099999904632568
         }
       ],
       "study_designs": [],
@@ -41948,6 +41977,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -42348,9 +42378,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -43238,6 +43268,7 @@
         "raw_source_name": "Special Paper 441: Resolving the Late Paleozoic Ice Age in Time and Space",
         "raw_type": "book-chapter"
       },
+      "volume": null,
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -43569,9 +43600,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -44245,6 +44276,7 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -44713,9 +44745,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8100000023841858,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8100000023841858
         }
       ],
       "study_designs": [],
@@ -44945,6 +44977,7 @@
         "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -45820,9 +45853,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -46056,6 +46089,7 @@
         "raw_source_name": "Journal of the Geological Society",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -46551,16 +46585,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -47240,6 +47274,7 @@
         "raw_source_name": "International Journal of Greenhouse Gas Control",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -48802,9 +48837,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -49033,6 +49068,7 @@
         "raw_source_name": "Gondwana Research",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -49460,9 +49496,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8500000238418579,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8500000238418579
         }
       ],
       "study_designs": [],
@@ -49651,6 +49687,10 @@
         "is_published": true,
         "raw_source_name": "Deep-Time Perspectives on Climate Change: Marrying the Signal from Computer Models and Biological Proxies",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W1854715208",
+        "display_name": "Deep-Time Perspectives on Climate Change: Marrying the Signal from Computer Models and Biological Proxies"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -50127,16 +50167,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.9786999821662903
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7699999809265137,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.7699999809265137
         }
       ],
       "study_designs": [],
@@ -50664,7 +50704,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -50720,6 +50760,7 @@
         "raw_source_name": "Terra Nova",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -51470,9 +51511,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.5769000053405762
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -52078,6 +52119,7 @@
         "raw_source_name": "Journal of the Geological Society",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -52722,16 +52764,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.685699999332428,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.685699999332428
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -53478,6 +53520,7 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -54414,9 +54457,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -55584,6 +55627,7 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -56230,9 +56274,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -56487,6 +56531,7 @@
         "raw_source_name": "Proceedings of the Yorkshire Geological Society",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -57122,9 +57167,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5699999928474426,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.5699999928474426
         }
       ],
       "study_designs": [],
@@ -57702,6 +57747,7 @@
         "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -58555,9 +58601,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -59792,6 +59838,7 @@
         "raw_source_name": "Geochemistry, Geophysics, Geosystems",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -61252,6 +61299,7 @@
         "raw_source_name": "RIVISTA ITALIANA DI PALEONTOLOGIA E STRATIGRAFIA ; Vol. 120 No. 2 (2014)",
         "raw_type": "info:eu-repo/semantics/article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "datacite",
@@ -61646,9 +61694,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -62225,6 +62273,7 @@
         "raw_source_name": "Episodes",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -62897,9 +62946,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -63569,6 +63618,7 @@
         "raw_source_name": "Journal of Asian Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -64193,9 +64243,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8999999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8999999761581421
         }
       ],
       "study_designs": [],
@@ -64456,6 +64506,7 @@
         "raw_source_name": null,
         "raw_type": "info:eu-repo/semantics/article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "datacite",
@@ -65012,9 +65063,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8999999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8999999761581421
         }
       ],
       "study_designs": [],
@@ -65770,6 +65821,7 @@
         "raw_source_name": "Geological Society, London, Special Publications",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -66663,6 +66715,7 @@
         "raw_source_name": "Episodes",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -67530,9 +67583,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -67777,6 +67830,7 @@
         "raw_source_name": "Facies",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -69328,6 +69382,7 @@
         "raw_source_name": "Petroleum Geoscience",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -70289,6 +70344,7 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -70857,9 +70913,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -70969,6 +71025,7 @@
         "raw_source_name": "Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -71307,9 +71364,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8999999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8999999761581421
         }
       ],
       "study_designs": [],
@@ -71398,6 +71455,7 @@
         "raw_source_name": "Journal of Micropalaeontology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -72031,9 +72089,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -72662,6 +72720,7 @@
         "raw_source_name": "Earth and Environmental Science Transactions of the Royal Society of Edinburgh",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -73319,16 +73378,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.4399999976158142
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7900000214576721,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.7900000214576721
         }
       ],
       "study_designs": [],
@@ -74075,6 +74134,7 @@
         "raw_source_name": "Rivista Italiana di Paleontologia e Stratigrafia (Research In Paleontology and Stratigraphy); V. 122, N. 3 (2016)",
         "raw_type": "info:eu-repo/semantics/article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "datacite",
@@ -74652,9 +74712,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8500000238418579,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8500000238418579
         }
       ],
       "study_designs": [],
@@ -75368,6 +75428,10 @@
         "raw_source_name": "Carboniferous, Permian and Early Triassic Arabian Stratigraphy",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W7167692888",
+        "display_name": "Carboniferous, Permian and Early Triassic Arabian Stratigraphy"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -75800,9 +75864,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5600000023841858,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5600000023841858
         }
       ],
       "study_designs": [],
@@ -76971,7 +77035,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2021-03-29T00:00:00"
     },
     {
@@ -77027,6 +77091,7 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -77427,9 +77492,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -77597,7 +77662,8 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
-            "norway-1"
+            "norway-1",
+            "poland-20"
           ],
           "host_organization": "https://openalex.org/P4310320595",
           "host_organization_name": "Wiley",
@@ -77616,6 +77682,10 @@
         "is_published": true,
         "raw_source_name": "Fossils and Strata",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4376480082",
+        "display_name": "Brachiopoda: Fossil and Recent"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -77718,11 +77788,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.0881,
+      "fwci": 2.0875,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.86565272,
+        "value": 0.86513995,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -77948,7 +78018,8 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
-              "norway-1"
+              "norway-1",
+              "poland-20"
             ],
             "host_organization": "https://openalex.org/P4310320595",
             "host_organization_name": "Wiley",
@@ -78490,7 +78561,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -78546,6 +78617,10 @@
         "is_published": true,
         "raw_source_name": "Sustainable Development Goals Series",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4231823521",
+        "display_name": "Geosciences and the Sustainable Development Goals"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -78612,11 +78687,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.9551,
+      "fwci": 6.0316,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.97740638,
+        "value": 0.97737837,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -78812,21 +78887,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.9786999821662903
         },
         {
-          "score": 0.878000020980835,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.878000020980835
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.47999998927116394,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.47999998927116394
         }
       ],
       "study_designs": [],
@@ -78910,7 +78985,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -78966,6 +79041,7 @@
         "raw_source_name": "Proceedings of the Yorkshire Geological Society",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -79835,9 +79911,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8600000143051147,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8600000143051147
         }
       ],
       "study_designs": [],
@@ -80625,6 +80701,7 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -80998,9 +81075,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6700000166893005,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.6700000166893005
         }
       ],
       "study_designs": [],
@@ -81148,6 +81225,7 @@
         "raw_source_name": "Revue de Micropaléontologie",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -81521,9 +81599,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.800000011920929,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.800000011920929
         }
       ],
       "study_designs": [],
@@ -81651,6 +81729,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -81940,9 +82019,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4099999964237213,
+          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "score": 0.4099999964237213
         }
       ],
       "study_designs": [],
@@ -82063,6 +82142,7 @@
         "raw_source_name": "Geoenergy",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -82748,14 +82828,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.75,
+          "display_name": "Partnerships for the goals",
           "id": "https://metadata.un.org/sdg/17",
-          "display_name": "Partnerships for the goals"
+          "score": 0.75
         },
         {
-          "score": 0.5378999710083008,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.5378999710083008
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -83367,6 +83447,7 @@
         "raw_source_name": "RIVISTA ITALIANA DI PALEONTOLOGIA E STRATIGRAFIA ; Vol. 127 No. 3 (2021)",
         "raw_type": "info:eu-repo/semantics/article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "datacite",
@@ -84189,6 +84270,7 @@
         "raw_source_name": "Geoenergy",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -84981,24 +85063,24 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.685699999332428,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.685699999332428
         },
         {
-          "score": 0.47189998626708984,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.47189998626708984
         },
         {
-          "score": 0.428600013256073,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.428600013256073
         },
         {
-          "score": 0.4000000059604645,
+          "display_name": "Reduced inequalities",
           "id": "https://metadata.un.org/sdg/10",
-          "display_name": "Reduced inequalities"
+          "score": 0.4000000059604645
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -85570,6 +85652,10 @@
         "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W7167665245",
+        "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -85915,9 +86001,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5799999833106995,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.5799999833106995
         }
       ],
       "study_designs": [],
@@ -86249,7 +86335,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2021-05-24T00:00:00"
     },
     {
@@ -86279,6 +86365,10 @@
         "is_published": true,
         "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W7167665245",
+        "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -86625,9 +86715,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4300000071525574,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.4300000071525574
         }
       ],
       "study_designs": [],
@@ -87033,7 +87123,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2021-04-26T00:00:00"
     },
     {
@@ -87091,6 +87181,7 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -87389,9 +87480,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8500000238418579,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8500000238418579
         }
       ],
       "study_designs": [],
@@ -87523,6 +87614,7 @@
         "raw_source_name": "Earth-Science Reviews",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -88082,9 +88174,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.4399999976158142
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -88315,6 +88407,7 @@
         "raw_source_name": "",
         "raw_type": "Publication - Article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -88713,6 +88806,7 @@
         "raw_source_name": "",
         "raw_type": "Publication - Article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "datacite",
@@ -89267,9 +89361,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -89832,6 +89926,7 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
             "norway-1"
           ],
@@ -89852,6 +89947,10 @@
         "is_published": true,
         "raw_source_name": "Energy and Climate Change",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W6884305052",
+        "display_name": "Energy and Climate Change"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -89896,11 +89995,11 @@
         "value_usd": 3570
       },
       "apc_paid": null,
-      "fwci": 1.9414,
+      "fwci": 1.9234,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.8543578,
+        "value": 0.85305344,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -90188,6 +90287,7 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
               "norway-1"
             ],
@@ -90213,21 +90313,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         },
         {
-          "score": 0.75,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.75
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -90279,7 +90379,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -90336,6 +90436,7 @@
         "raw_source_name": "Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -91105,6 +91206,7 @@
         "raw_source_name": "Acta Geologica Sinica - English Edition",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -91870,9 +91972,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8199999928474426,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8199999928474426
         }
       ],
       "study_designs": [],
@@ -92463,6 +92565,7 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -92807,9 +92910,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.800000011920929,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.800000011920929
         }
       ],
       "study_designs": [],
@@ -92943,6 +93046,7 @@
         "raw_source_name": "Greenhouse Gases: Science and Technology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -93523,14 +93627,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         },
         {
-          "score": 0.571399986743927,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.571399986743927
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -94095,6 +94199,7 @@
         "raw_source_name": "Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -95056,6 +95161,10 @@
         "raw_source_name": "Shale Gas and Fracking",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4235173206",
+        "display_name": "Shale Gas and Fracking"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -95095,11 +95204,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8126,
+      "fwci": 0.8185,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.73506769,
+        "value": 0.73618491,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -95436,7 +95545,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -95494,6 +95603,7 @@
         "raw_source_name": "Acta Palaeontologica Polonica",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -96205,6 +96315,10 @@
         "raw_source_name": "Returning Coal and Carbon to Nature",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4246786965",
+        "display_name": "Returning Coal and Carbon to Nature"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -96244,11 +96358,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.6803,
+      "fwci": 2.716,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.8882938,
+        "value": 0.88846448,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -96451,16 +96565,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7799999713897705,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.7799999713897705
         }
       ],
       "study_designs": [],
@@ -96509,7 +96623,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-06T10:28:23.643775",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -96565,6 +96679,7 @@
         "raw_source_name": "RIVISTA ITALIANA DI PALEONTOLOGIA E STRATIGRAFIA",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -97077,9 +97192,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -97699,6 +97814,7 @@
         "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -98823,6 +98939,7 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
             "norway-1"
           ],
@@ -98843,6 +98960,10 @@
         "is_published": true,
         "raw_source_name": "Energy and Climate Change",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W6884305052",
+        "display_name": "Energy and Climate Change"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -98891,7 +99012,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.03481648,
+        "value": 0.03477255,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -99168,6 +99289,7 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
               "norway-1"
             ],
@@ -99193,26 +99315,26 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.875,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.875
         },
         {
-          "score": 0.6773999929428101,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.6773999929428101
         },
         {
-          "score": 0.4399999976158142,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.4399999976158142
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.44999998807907104,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.44999998807907104
         }
       ],
       "study_designs": [],
@@ -99276,7 +99398,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -99332,6 +99454,7 @@
         "raw_source_name": "Acta Geologica Sinica - English Edition",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -99647,9 +99770,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6299999952316284,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.6299999952316284
         }
       ],
       "study_designs": [],
@@ -99756,6 +99879,7 @@
         "raw_source_name": "Micropaleontology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -100252,9 +100376,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8100000023841858,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8100000023841858
         }
       ],
       "study_designs": [],
@@ -100680,6 +100804,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -101204,16 +101329,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7778000235557556,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.7778000235557556
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -101894,6 +102019,7 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -102316,9 +102442,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6800000071525574,
+          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "score": 0.6800000071525574
         }
       ],
       "study_designs": [],
@@ -102497,6 +102623,7 @@
         "raw_source_name": "RIVISTA ITALIANA DI PALEONTOLOGIA E STRATIGRAFIA ; Vol. 117 No. 2 (2011)",
         "raw_type": "info:eu-repo/semantics/article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "datacite",
@@ -102875,9 +103002,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -103266,6 +103393,7 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
             "norway-1"
           ],
@@ -103286,6 +103414,10 @@
         "is_published": true,
         "raw_source_name": "Energy and Climate Change",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W6884305052",
+        "display_name": "Energy and Climate Change"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -103330,11 +103462,11 @@
         "value_usd": 3570
       },
       "apc_paid": null,
-      "fwci": 0.5949,
+      "fwci": 0.5997,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.69946333,
+        "value": 0.69759144,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -103619,6 +103751,7 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
               "norway-1"
             ],
@@ -103644,21 +103777,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         },
         {
-          "score": 0.75,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.75
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4699999988079071,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.4699999988079071
         }
       ],
       "study_designs": [],
@@ -103715,7 +103848,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -103772,6 +103905,7 @@
         "raw_source_name": "Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -104201,9 +104335,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5299999713897705,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.5299999713897705
         }
       ],
       "study_designs": [],
@@ -104923,6 +105057,10 @@
         "raw_source_name": "Returning Coal and Carbon to Nature",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4246786965",
+        "display_name": "Returning Coal and Carbon to Nature"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -104962,11 +105100,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1504,
+      "fwci": 1.1336,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.77347611,
+        "value": 0.77366255,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -105271,19 +105409,19 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         },
         {
-          "score": 0.9090999960899353,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.9090999960899353
         },
         {
-          "score": 0.8970999717712402,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.8970999717712402
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -105322,7 +105460,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -105368,6 +105506,7 @@
         "raw_source_name": "",
         "raw_type": "Publication - Book Section"
       },
+      "volume": null,
       "type": "book-chapter",
       "indexed_in": [],
       "open_access": {
@@ -105793,26 +105932,26 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.9853000044822693,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.9853000044822693
         },
         {
-          "score": 0.821399986743927,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.821399986743927
         },
         {
-          "score": 0.5925999879837036,
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "score": 0.5925999879837036
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.699999988079071,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.699999988079071
         }
       ],
       "study_designs": [],
@@ -106868,6 +107007,7 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
             "norway-1"
           ],
@@ -106888,6 +107028,10 @@
         "is_published": true,
         "raw_source_name": "Energy and Climate Change",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W6884305052",
+        "display_name": "Energy and Climate Change"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -106936,7 +107080,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.03937309,
+        "value": 0.03931298,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -107215,6 +107359,7 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
               "norway-1"
             ],
@@ -107240,14 +107385,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         },
         {
-          "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.5690000057220459
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -107304,7 +107449,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -107353,6 +107498,10 @@
         "raw_source_name": "Shale Gas and Fracking",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4235173206",
+        "display_name": "Shale Gas and Fracking"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -107392,11 +107541,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2483,
+      "fwci": 1.3021,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.72988832,
+        "value": 0.73149905,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -107646,7 +107795,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -107695,6 +107844,10 @@
         "raw_source_name": "Returning Coal and Carbon to Nature",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4246786965",
+        "display_name": "Returning Coal and Carbon to Nature"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -107738,7 +107891,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.13335063,
+        "value": 0.13328147,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -108039,14 +108192,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         },
         {
-          "score": 0.4000000059604645,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.4000000059604645
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -108086,7 +108239,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -108135,6 +108288,10 @@
         "raw_source_name": "Shale Gas and Fracking",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4235173206",
+        "display_name": "Shale Gas and Fracking"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -108178,7 +108335,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.2632613,
+        "value": 0.26248776,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -108449,9 +108606,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.75
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -108494,7 +108651,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -108543,6 +108700,10 @@
         "raw_source_name": "Returning Coal and Carbon to Nature",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4246786965",
+        "display_name": "Returning Coal and Carbon to Nature"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -108582,11 +108743,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1983,
+      "fwci": 1.1861,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.83710608,
+        "value": 0.83592018,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -108783,21 +108944,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.75
         },
         {
-          "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.5690000057220459
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.49000000953674316,
+          "display_name": "No poverty",
           "id": "https://metadata.un.org/sdg/1",
-          "display_name": "No poverty"
+          "score": 0.49000000953674316
         }
       ],
       "study_designs": [],
@@ -108838,7 +108999,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -108893,6 +109054,7 @@
         "raw_source_name": "Geological Society, London, Special Publications",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -109529,6 +109691,7 @@
         "raw_source_name": "Geological Society, London, Special Publications",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -110051,9 +110214,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7799999713897705,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.7799999713897705
         }
       ],
       "study_designs": [],
@@ -111034,6 +111197,7 @@
         "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -111754,9 +111918,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.75,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.75
         }
       ],
       "study_designs": [],
@@ -111967,6 +112131,7 @@
         "raw_source_name": "Acta Geologica Sinica - English Edition",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -112426,6 +112591,10 @@
         "raw_source_name": "Returning Coal and Carbon to Nature",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4246786965",
+        "display_name": "Returning Coal and Carbon to Nature"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -112469,7 +112638,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.23770492,
+        "value": 0.23818182,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -112776,9 +112945,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -112828,7 +112997,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -112862,6 +113031,7 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
             "norway-1"
           ],
@@ -112882,6 +113052,10 @@
         "is_published": true,
         "raw_source_name": "Energy and Climate Change",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W6884305052",
+        "display_name": "Energy and Climate Change"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -112926,7 +113100,7 @@
         "value_usd": 3570
       },
       "apc_paid": null,
-      "fwci": 0.4879,
+      "fwci": 0.4862,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
@@ -113212,6 +113386,7 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
               "norway-1"
             ],
@@ -113237,26 +113412,26 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         },
         {
-          "score": 0.878000020980835,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.878000020980835
         },
         {
-          "score": 0.7811999917030334,
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "score": 0.7811999917030334
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.800000011920929,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.800000011920929
         }
       ],
       "study_designs": [],
@@ -113312,7 +113487,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -113364,6 +113539,7 @@
         "raw_source_name": "Geological Society of America Abstracts with Programs",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -113906,6 +114082,7 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "editorial",
       "indexed_in": [
         "crossref"
@@ -114635,16 +114812,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4390000104904175,
+          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "score": 0.4390000104904175
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6399999856948853,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.6399999856948853
         }
       ],
       "study_designs": [],
@@ -114738,6 +114915,7 @@
         "raw_source_name": "Oil & gas journal/Oil and gas journal",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -115062,9 +115240,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7300000190734863,
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "score": 0.7300000190734863
         }
       ],
       "study_designs": [],
@@ -115416,6 +115594,10 @@
         "raw_source_name": "Shale Gas and Fracking",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4235173206",
+        "display_name": "Shale Gas and Fracking"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -115459,7 +115641,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.00308761,
+        "value": 0.00309478,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -115742,21 +115924,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         },
         {
-          "score": 0.9853000044822693,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.9853000044822693
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4300000071525574,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.4300000071525574
         }
       ],
       "study_designs": [],
@@ -115791,7 +115973,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -115821,6 +116003,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -116175,21 +116358,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.9786999821662903
         },
         {
-          "score": 0.5378999710083008,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.5378999710083008
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.44999998807907104,
+          "display_name": "Partnerships for the goals",
           "id": "https://metadata.un.org/sdg/17",
-          "display_name": "Partnerships for the goals"
+          "score": 0.44999998807907104
         }
       ],
       "study_designs": [],
@@ -116584,6 +116767,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -116778,16 +116962,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -116854,6 +117038,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -117446,6 +117631,7 @@
         "raw_source_name": "Earth and Planetary Science Letters",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "erratum",
       "indexed_in": [
         "crossref"
@@ -118135,9 +118321,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -118260,6 +118446,7 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -118564,6 +118751,7 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -119000,21 +119188,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9853000044822693,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.9853000044822693
         },
         {
-          "score": 0.8970999717712402,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.8970999717712402
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6000000238418579,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.6000000238418579
         }
       ],
       "study_designs": [],
@@ -119376,6 +119564,7 @@
         "raw_source_name": "",
         "raw_type": "Publication - Conference Item"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -119758,9 +119947,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8600000143051147,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8600000143051147
         }
       ],
       "study_designs": [],
@@ -120050,6 +120239,7 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [],
       "open_access": {
@@ -120862,6 +121052,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -121207,21 +121398,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.571399986743927,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.571399986743927
         },
         {
-          "score": 0.46149998903274536,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.46149998903274536
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8100000023841858,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.8100000023841858
         }
       ],
       "study_designs": [],
@@ -121370,6 +121561,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -121831,9 +122023,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6299999952316284,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.6299999952316284
         }
       ],
       "study_designs": [],
@@ -121919,6 +122111,10 @@
         "raw_source_name": "Shale Gas and Fracking",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4235173206",
+        "display_name": "Shale Gas and Fracking"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -121962,7 +122158,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.26632595,
+        "value": 0.26679317,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -122249,7 +122445,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -122298,6 +122494,10 @@
         "raw_source_name": "Shale Gas and Fracking",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4235173206",
+        "display_name": "Shale Gas and Fracking"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -122341,7 +122541,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.30451866,
+        "value": 0.3036239,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -122564,9 +122764,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -122599,7 +122799,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -122648,6 +122848,10 @@
         "raw_source_name": "Shale Gas and Fracking",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4235173206",
+        "display_name": "Shale Gas and Fracking"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -122691,7 +122895,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.2346695,
+        "value": 0.23485654,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -122969,9 +123173,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5199999809265137,
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "score": 0.5199999809265137
         }
       ],
       "study_designs": [],
@@ -123002,7 +123206,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -123051,6 +123255,10 @@
         "raw_source_name": "Returning Coal and Carbon to Nature",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4246786965",
+        "display_name": "Returning Coal and Carbon to Nature"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -123094,7 +123302,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.30986993,
+        "value": 0.31016043,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -123330,16 +123538,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.9786999821662903
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8399999737739563,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8399999737739563
         }
       ],
       "study_designs": [],
@@ -123371,7 +123579,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2016-08-23T00:00:00"
     },
     {
@@ -123424,6 +123632,7 @@
         "raw_source_name": "Geological Society of America Abstracts with Programs",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -123827,6 +124036,7 @@
         "raw_source_name": "GEO 2008",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -124276,16 +124486,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.5769000053405762
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -124984,6 +125194,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -125298,9 +125509,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8600000143051147,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8600000143051147
         }
       ],
       "study_designs": [],
@@ -125786,6 +125997,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -126297,6 +126509,7 @@
         "raw_source_name": null,
         "raw_type": "text"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -126527,9 +126740,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.75
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -126677,6 +126890,7 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
             "norway-1"
           ],
@@ -126697,6 +126911,10 @@
         "is_published": true,
         "raw_source_name": "Energy and Climate Change",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W6884305052",
+        "display_name": "Energy and Climate Change"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -126745,7 +126963,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.02236136,
+        "value": 0.02230152,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -126987,6 +127205,7 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
               "norway-1"
             ],
@@ -127012,16 +127231,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8299999833106995,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.8299999833106995
         }
       ],
       "study_designs": [],
@@ -127070,7 +127289,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -127104,6 +127323,7 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
             "norway-1"
           ],
@@ -127124,6 +127344,10 @@
         "is_published": true,
         "raw_source_name": "Energy and Climate Change",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W6884305052",
+        "display_name": "Energy and Climate Change"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -127172,7 +127396,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.02446184,
+        "value": 0.0244858,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -127395,6 +127619,7 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
               "norway-1"
             ],
@@ -127421,9 +127646,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.49000000953674316,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.49000000953674316
         }
       ],
       "study_designs": [],
@@ -127462,7 +127687,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -127496,6 +127721,7 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
             "norway-1"
           ],
@@ -127516,6 +127742,10 @@
         "is_published": true,
         "raw_source_name": "Energy and Climate Change",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W6884305052",
+        "display_name": "Energy and Climate Change"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -127564,7 +127794,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03698129,
+        "value": 0.0369972,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -127791,6 +128021,7 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
               "norway-1"
             ],
@@ -127816,9 +128047,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -127857,7 +128088,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -127891,6 +128122,7 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
             "norway-1"
           ],
@@ -127911,6 +128143,10 @@
         "is_published": true,
         "raw_source_name": "Energy and Climate Change",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W6884305052",
+        "display_name": "Energy and Climate Change"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -127959,7 +128195,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.04628099,
+        "value": 0.04638321,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -128271,6 +128507,7 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
               "norway-1"
             ],
@@ -128296,21 +128533,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.9786999821662903
         },
         {
-          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.6618000268936157
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8600000143051147,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.8600000143051147
         }
       ],
       "study_designs": [],
@@ -128366,7 +128603,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -128396,6 +128633,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -128814,16 +129052,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.4399999976158142
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6600000262260437,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.6600000262260437
         }
       ],
       "study_designs": [],
@@ -128890,6 +129128,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -129250,16 +129489,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.5769000053405762
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8399999737739563,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8399999737739563
         }
       ],
       "study_designs": [],
@@ -129326,6 +129565,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -129734,16 +129974,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7300000190734863,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.7300000190734863
         }
       ],
       "study_designs": [],
@@ -129794,6 +130034,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -130111,9 +130352,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.47999998927116394,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.47999998927116394
         }
       ],
       "study_designs": [],
@@ -130189,6 +130430,7 @@
         "raw_source_name": "GEO 2008",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -130499,9 +130741,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.44999998807907104,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.44999998807907104
         }
       ],
       "study_designs": [],
@@ -131130,6 +131372,10 @@
         "raw_source_name": "Shale Gas and Fracking",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4235173206",
+        "display_name": "Shale Gas and Fracking"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -131173,7 +131419,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.44440678,
+        "value": 0.44489658,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -131400,9 +131646,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47620001435279846,
+          "display_name": "Peace, justice, and strong institutions",
           "id": "https://metadata.un.org/sdg/16",
-          "display_name": "Peace, justice, and strong institutions"
+          "score": 0.47620001435279846
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -131435,7 +131681,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2020-05-13T00:00:00"
     },
     {
@@ -131465,6 +131711,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "book",
       "indexed_in": [],
       "open_access": {
@@ -131700,6 +131947,7 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -132148,6 +132396,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -132629,6 +132878,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -132945,9 +133195,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5299999713897705,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.5299999713897705
         }
       ],
       "study_designs": [],
@@ -133012,6 +133262,10 @@
         "raw_source_name": "Shale Gas and Fracking",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4235173206",
+        "display_name": "Shale Gas and Fracking"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -133055,7 +133309,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.00185824,
+        "value": 0.00185972,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -133343,9 +133597,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4099999964237213,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 0.4099999964237213
         }
       ],
       "study_designs": [],
@@ -133381,7 +133635,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -133427,6 +133681,7 @@
         "raw_source_name": "Goldschmidt Abstracts",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -134358,9 +134613,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7200000286102295,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.7200000286102295
         }
       ],
       "study_designs": [],
@@ -134437,6 +134692,10 @@
         "is_published": true,
         "raw_source_name": "Urban Air Quality — Recent Advances",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2488834884",
+        "display_name": "Urban Air Quality — Recent Advances"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -134818,9 +135077,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8600000143051147,
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "score": 0.8600000143051147
         }
       ],
       "study_designs": [],
@@ -134857,7 +135116,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-05T09:50:58.205359",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -134905,6 +135164,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "preprint",
       "indexed_in": [
         "crossref"
@@ -135443,16 +135703,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7400000095367432,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.7400000095367432
         }
       ],
       "study_designs": [],
@@ -135532,6 +135792,7 @@
         "raw_source_name": "Geoenergy",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "erratum",
       "indexed_in": [
         "crossref"
@@ -136146,6 +136407,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -136408,9 +136670,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.44999998807907104,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.44999998807907104
         }
       ],
       "study_designs": [],
@@ -136487,6 +136749,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "preprint",
       "indexed_in": [
         "crossref"
@@ -136932,9 +137195,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8690484762191772,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8690484762191772
         }
       ],
       "study_designs": [],
@@ -137042,6 +137305,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -137540,16 +137804,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.75,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.75
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4088655114173889,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.4088655114173889
         }
       ],
       "study_designs": [],
@@ -138269,6 +138533,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -138919,14 +139184,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         },
         {
-          "score": 0.9090999960899353,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.9090999960899353
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -139865,6 +140130,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "preprint",
       "indexed_in": [
         "crossref"
@@ -141103,6 +141369,7 @@
         "raw_source_name": "Geoenergy",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "letter",
       "indexed_in": [
         "crossref"
@@ -142035,14 +142302,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.75
         },
         {
-          "score": 0.4399999976158142,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.4399999976158142
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -142111,6 +142378,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "preprint",
       "indexed_in": [
         "crossref"
@@ -142598,9 +142866,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7890809178352356,
+          "display_name": "Quality education",
           "id": "https://metadata.un.org/sdg/4",
-          "display_name": "Quality education"
+          "score": 0.7890809178352356
         }
       ],
       "study_designs": [],

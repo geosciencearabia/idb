@@ -13,7 +13,7 @@
     ],
     "full_name": "Septriandi Asmaidi Chan",
     "works_count": 30,
-    "cited_by_count": 208,
+    "cited_by_count": 209,
     "summary_stats": {
       "2yr_mean_citedness": 2,
       "h_index": 9,
@@ -298,7 +298,7 @@
         "year": 2021,
         "works_count": 3,
         "oa_works_count": 2,
-        "cited_by_count": 43
+        "cited_by_count": 44
       },
       {
         "year": 2022,
@@ -338,7 +338,7 @@
     ],
     "block_key": "s chan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5080643603",
-    "updated_date": "2026-10-08T12:30:13",
+    "updated_date": "2026-10-09T12:31:04",
     "created_date": "2018-12-11T00:00:00"
   },
   "works": [
@@ -395,6 +395,7 @@
         "raw_source_name": "Palaeogeography, Palaeoclimatology, Palaeoecology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -894,8 +895,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -1133,6 +1134,7 @@
         "raw_source_name": "Journal of Petroleum Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -2505,6 +2507,7 @@
         "raw_source_name": "Arabian Journal for Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -3091,8 +3094,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/8",
+          "score": 0.4099999964237213,
           "display_name": "Decent work and economic growth"
         }
       ],
@@ -3235,6 +3238,7 @@
         "raw_source_name": "International Journal of Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -3915,6 +3919,7 @@
         "raw_source_name": "Stratigraphy",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -4309,8 +4314,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8999999761581421,
           "display_name": "Life below water"
         }
       ],
@@ -4681,6 +4686,7 @@
         "raw_source_name": "Proceedings of the 10th Unconventional Resources Technology Conference",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -5839,6 +5845,7 @@
         "raw_source_name": "Marine Micropaleontology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -6477,8 +6484,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -7335,6 +7342,7 @@
         "raw_source_name": "Journal of African Earth Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -7851,8 +7859,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7400000095367432,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7400000095367432,
           "display_name": "Life below water"
         }
       ],
@@ -7991,6 +7999,7 @@
         "raw_source_name": "Stratigraphy",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -8465,7 +8474,9 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
-            "cwts-core"
+            "cwts-core",
+            "poland-20",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -8487,6 +8498,7 @@
         "raw_source_name": "Arabian Journal of Geosciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -8506,46 +8518,6 @@
             "orcid": "https://orcid.org/0000-0002-2171-0154",
             "observed_orcids": [
               "https://orcid.org/0000-0002-2171-0154"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdullatif A. Al-Shuhail",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5111604304",
-            "display_name": "Abdullah A. Alshuhail",
-            "orcid": "https://orcid.org/0000-0001-5392-3261",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5392-3261"
             ]
           },
           "institutions": [
@@ -8604,6 +8576,46 @@
             "SA"
           ],
           "is_corresponding": false,
+          "raw_author_name": "Abdullatif A. Al-Shuhail",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111604304",
+            "display_name": "Abdullah A. Alshuhail",
+            "orcid": "https://orcid.org/0000-0001-5392-3261",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5392-3261"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
           "raw_author_name": "Abdullah A. Alshuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -8650,7 +8662,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Abdullah A. Alshuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -9111,6 +9123,7 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
+        "https://openalex.org/A5054922583",
         "https://openalex.org/A5111604304"
       ],
       "corresponding_institution_ids": [
@@ -9122,11 +9135,11 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.6995,
+      "fwci": 1.6994,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.80608752,
+        "value": 0.80603887,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9394,7 +9407,9 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
-              "cwts-core"
+              "cwts-core",
+              "poland-20",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -9421,8 +9436,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7099999785423279,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.7099999785423279,
           "display_name": "Climate action"
         }
       ],
@@ -9518,7 +9533,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-09T09:14:12.587421",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9573,6 +9588,7 @@
         "raw_source_name": "Marine and Petroleum Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -11062,6 +11078,7 @@
         "raw_source_name": "Journal of Asian Earth Sciences: X",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -12693,6 +12710,7 @@
         "raw_source_name": "MethodsX",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -13984,6 +14002,7 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -14993,6 +15012,7 @@
         "raw_source_name": "MethodsX",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -15627,8 +15647,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/12",
+          "score": 0.4699999988079071,
           "display_name": "Responsible consumption and production"
         }
       ],
@@ -16312,6 +16332,7 @@
         "raw_source_name": "2020 AAPG Middle East Region Geosciences Technology Workshop: Carbonate Reservoirs of the Middle East",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -16707,6 +16728,7 @@
         "raw_source_name": "SPE Conference at Oman Petroleum &amp; Energy Show",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -17865,6 +17887,7 @@
         "raw_source_name": "Applied Sciences",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -19046,6 +19069,7 @@
         "raw_source_name": "Micropaleontology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -19396,15 +19420,15 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5769000053405762,
           "display_name": "Life below water"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8999999761581421,
           "display_name": "Life below water"
         }
       ],
@@ -19699,6 +19723,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -20114,8 +20139,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7799999713897705,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.7799999713897705,
           "display_name": "Climate action"
         }
       ],
@@ -20216,6 +20241,7 @@
         "raw_source_name": "Journal of Petroleum Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "erratum",
       "indexed_in": [
         "crossref"
@@ -20892,6 +20918,7 @@
         "raw_source_name": "Geological Society of America Abstracts with Programs",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -21411,8 +21438,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.41999998688697815,
           "display_name": "Life below water"
         }
       ],
@@ -22046,6 +22073,7 @@
         "raw_source_name": "EGU General Assembly Conference Abstracts",
         "raw_type": null
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -22423,6 +22451,7 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -22848,6 +22877,7 @@
         "raw_source_name": "EGUGA",
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -23120,8 +23150,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6800000071525574,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6800000071525574,
           "display_name": "Climate action"
         }
       ],
@@ -23189,6 +23219,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref"
@@ -23618,8 +23649,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -24162,6 +24193,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "preprint",
       "indexed_in": [
         "crossref"
@@ -24774,6 +24806,7 @@
         "raw_source_name": "Arabian Journal for Science and Engineering",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -25301,8 +25334,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5699999928474426,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5699999928474426,
           "display_name": "Climate action"
         }
       ],
@@ -25431,6 +25464,7 @@
         "raw_source_name": "Middle East Oil, Gas and Geosciences Show (MEOS GEO)",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -26834,6 +26868,10 @@
         "raw_source_name": "Advances in the Understanding and Interpretation of Carbonates",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4415354273",
+        "display_name": "Advances in the Understanding and Interpretation of Carbonates"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -26990,7 +27028,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63909774,
+        "value": 0.6375,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27635,7 +27673,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-21T00:00:00"
     }
   ]

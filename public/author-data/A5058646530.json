@@ -18,7 +18,7 @@
     ],
     "full_name": "DROSTE, HENK, Shell Research B.V.,",
     "works_count": 44,
-    "cited_by_count": 2270,
+    "cited_by_count": 2275,
     "summary_stats": {
       "2yr_mean_citedness": 9.5,
       "h_index": 19,
@@ -385,7 +385,7 @@
         "year": 2002,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 374
+        "cited_by_count": 375
       },
       {
         "year": 2003,
@@ -427,7 +427,7 @@
         "year": 2010,
         "works_count": 14,
         "oa_works_count": 0,
-        "cited_by_count": 413
+        "cited_by_count": 417
       },
       {
         "year": 2011,
@@ -484,7 +484,7 @@
     ],
     "block_key": "h droste",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5058646530",
-    "updated_date": "2026-10-08T12:30:13",
+    "updated_date": "2026-10-09T12:31:04",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -536,6 +536,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -1034,9 +1035,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -2052,6 +2053,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -2752,9 +2754,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -3849,6 +3851,7 @@
         "raw_source_name": "Petroleum Geoscience",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -4283,9 +4286,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4000000059604645,
-          "display_name": "Life below water"
+          "score": 0.4000000059604645
         }
       ],
       "study_designs": [],
@@ -5330,6 +5333,7 @@
         "raw_source_name": "Sedimentology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -6033,9 +6037,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "score": 0.8399999737739563
         }
       ],
       "study_designs": [],
@@ -6635,6 +6639,7 @@
         "raw_source_name": "Sedimentology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -7132,9 +7137,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -8165,6 +8170,10 @@
         "raw_source_name": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 1)",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W3122357362",
+        "display_name": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 1)"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -8268,7 +8277,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 39.6138,
+      "fwci": 39.8416,
       "has_fulltext": false,
       "cited_by_count": 146,
       "citation_normalized_percentile": {
@@ -9512,7 +9521,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-10-09T09:14:12.587421",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -9569,6 +9578,7 @@
         "raw_source_name": "Journal of Sedimentary Research",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -10293,16 +10303,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651,
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7599999904632568,
-          "display_name": "Life below water"
+          "score": 0.7599999904632568
         }
       ],
       "study_designs": [],
@@ -11341,6 +11351,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -11740,9 +11751,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -12363,6 +12374,7 @@
         "raw_source_name": "Sedimentary Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -12692,9 +12704,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -12867,6 +12879,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -14779,6 +14792,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -15264,9 +15278,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -16325,6 +16339,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "book",
       "indexed_in": [],
       "open_access": {
@@ -16661,9 +16676,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -18194,6 +18209,10 @@
         "is_published": true,
         "raw_source_name": "Seismic Imaging of Carbonate Reservoirs and Systems",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W2138863895",
+        "display_name": "Seismic Imaging of Carbonate Reservoirs and Systems"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -20007,7 +20026,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-26T08:19:03.415552",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20063,6 +20082,7 @@
         "raw_source_name": "Geosphere",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref",
@@ -20729,9 +20749,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -21470,6 +21490,7 @@
         "raw_source_name": "Geological Society, London, Special Publications",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -22007,9 +22028,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -23361,6 +23382,7 @@
         "raw_source_name": "Geological Society, London, Special Publications",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -23715,9 +23737,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.699999988079071,
-          "display_name": "Life below water"
+          "score": 0.699999988079071
         }
       ],
       "study_designs": [],
@@ -24464,6 +24486,10 @@
         "raw_source_name": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 2)",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W7213224513",
+        "display_name": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 2)"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -24634,11 +24660,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 11.6511,
+      "fwci": 11.7181,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.98512586,
+        "value": 0.98509174,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24888,9 +24914,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5099999904632568,
-          "display_name": "Climate action"
+          "score": 0.5099999904632568
         }
       ],
       "study_designs": [],
@@ -26163,7 +26189,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-09T09:14:12.587421",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2021-06-07T00:00:00"
     },
     {
@@ -26193,6 +26219,10 @@
         "is_published": true,
         "raw_source_name": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 2)",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W7213224513",
+        "display_name": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 2)"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -26332,11 +26362,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 10.486,
+      "fwci": 10.5463,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.9805492,
+        "value": 0.98050459,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -26592,9 +26622,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.7400000095367432,
-          "display_name": "Sustainable cities and communities"
+          "score": 0.7400000095367432
         }
       ],
       "study_designs": [],
@@ -27341,7 +27371,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-09T09:14:12.587421",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2021-06-22T00:00:00"
     },
     {
@@ -27392,6 +27422,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -27898,9 +27929,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -29055,6 +29086,7 @@
         "raw_source_name": "First Break",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -29554,9 +29586,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -29970,6 +30002,10 @@
         "raw_source_name": "Memoir 106: Petroleum Systems of the Tethyan Region",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4250163215",
+        "display_name": "Memoir 106: Petroleum Systems of the Tethyan Region"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -30009,11 +30045,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8103,
+      "fwci": 0.8152,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.78961385,
+        "value": 0.79038718,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30203,9 +30239,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5899999737739563,
-          "display_name": "Climate action"
+          "score": 0.5899999737739563
         }
       ],
       "study_designs": [],
@@ -30253,7 +30289,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30306,6 +30342,7 @@
         "raw_source_name": "Geological Society, London, Petroleum Geology Conference Series",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -30711,9 +30748,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -31248,6 +31285,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -31479,9 +31517,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5899999737739563,
-          "display_name": "Climate action"
+          "score": 0.5899999737739563
         }
       ],
       "study_designs": [],
@@ -31594,6 +31632,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -32055,6 +32094,10 @@
         "raw_source_name": "Developments in Palaeontology and Stratigraphy",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W4205966803",
+        "display_name": "Evolutionary biology of ostracoda: its fundamentals and applications - Proceedings of the Ninth International Symposium on Ostracoda"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -32455,16 +32498,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 1,
-          "display_name": "Life below water"
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -32537,7 +32580,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -32567,6 +32610,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -33133,6 +33177,7 @@
         "raw_source_name": null,
         "raw_type": "edited-book"
       },
+      "volume": null,
       "type": "book",
       "indexed_in": [
         "crossref"
@@ -33440,9 +33485,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426,
-          "display_name": "Life below water"
+          "score": 0.8199999928474426
         }
       ],
       "study_designs": [],
@@ -33518,6 +33563,10 @@
         "is_published": true,
         "raw_source_name": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 2)",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W7213224513",
+        "display_name": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 2)"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -33704,11 +33753,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.3965,
+      "fwci": 3.3077,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.9296875,
+        "value": 0.92607004,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -33894,9 +33943,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "No poverty",
           "id": "https://metadata.un.org/sdg/1",
-          "score": 0.7200000286102295,
-          "display_name": "No poverty"
+          "score": 0.7200000286102295
         }
       ],
       "study_designs": [],
@@ -34462,7 +34511,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-09T09:14:12.587421",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2021-04-13T00:00:00"
     },
     {
@@ -34511,6 +34560,7 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -34730,9 +34780,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6499999761581421,
-          "display_name": "Climate action"
+          "score": 0.6499999761581421
         }
       ],
       "study_designs": [],
@@ -34833,6 +34883,7 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -35223,6 +35274,7 @@
         "raw_source_name": null,
         "raw_type": "book"
       },
+      "volume": null,
       "type": "book",
       "indexed_in": [
         "crossref"
@@ -35525,9 +35577,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7835737466812134,
-          "display_name": "Life below water"
+          "score": 0.7835737466812134
         }
       ],
       "study_designs": [],
@@ -35588,6 +35640,7 @@
         "raw_source_name": "70th EAGE Conference and Exhibition incorporating SPE EUROPEC 2008",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -35991,9 +36044,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -36873,6 +36926,7 @@
         "raw_source_name": "70th EAGE Conference and Exhibition incorporating SPE EUROPEC 2008",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -37188,9 +37242,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -38034,6 +38088,7 @@
         "raw_source_name": "Proceedings",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -38347,6 +38402,7 @@
         "raw_source_name": "EAGE workshop on Developments in Land Seismic Acquisition for Exploration",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -38726,9 +38782,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -38976,6 +39032,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -39267,9 +39324,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -40153,6 +40210,7 @@
         "raw_source_name": "International Petroleum Technology Conference",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -40714,9 +40772,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426,
-          "display_name": "Life below water"
+          "score": 0.8199999928474426
         }
       ],
       "study_designs": [],
@@ -41497,6 +41555,7 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -41782,9 +41841,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4000000059604645,
-          "display_name": "Climate action"
+          "score": 0.4000000059604645
         }
       ],
       "study_designs": [],
@@ -41994,6 +42053,7 @@
         "raw_source_name": "GEO 2008",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -43011,6 +43071,7 @@
         "raw_source_name": "GEO 2010",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -43500,6 +43561,7 @@
         "raw_source_name": "GEO 2008",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -43899,16 +43961,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "score": 0.4399999976158142
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6499999761581421,
-          "display_name": "Climate action"
+          "score": 0.6499999761581421
         }
       ],
       "study_designs": [],
@@ -44568,6 +44630,7 @@
         "raw_source_name": "GEO 2008",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -44916,9 +44979,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4300000071525574,
-          "display_name": "Life below water"
+          "score": 0.4300000071525574
         }
       ],
       "study_designs": [],
@@ -45600,6 +45663,7 @@
         "raw_source_name": null,
         "raw_type": "posted-content"
       },
+      "volume": null,
       "type": "conference-abstract",
       "indexed_in": [
         "crossref",
@@ -46021,9 +46085,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -47078,6 +47142,10 @@
         "raw_source_name": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 1)",
         "raw_type": "book-chapter"
       },
+      "volume": {
+        "id": "https://openalex.org/W3122357362",
+        "display_name": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 1)"
+      },
       "type": "book-chapter",
       "indexed_in": [
         "crossref"
@@ -47121,7 +47189,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7208238,
+        "value": 0.72247706,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47445,9 +47513,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.871906042098999,
-          "display_name": "Life below water"
+          "score": 0.871906042098999
         }
       ],
       "study_designs": [],
@@ -48393,7 +48461,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2026-07-17T00:00:00"
     }
   ]

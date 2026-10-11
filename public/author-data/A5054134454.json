@@ -421,6 +421,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -919,9 +920,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -934,8 +935,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2939888277.pdf",
@@ -1942,6 +1943,7 @@
         "raw_source_name": "Geology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -2400,9 +2402,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5,
-          "display_name": "Life on land"
+          "score": 0.5
         }
       ],
       "study_designs": [],
@@ -2425,8 +2427,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -3343,6 +3345,7 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -3706,9 +3709,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721,
-          "display_name": "Life below water"
+          "score": 0.7900000214576721
         }
       ],
       "study_designs": [],
@@ -3721,8 +3724,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -3885,6 +3888,7 @@
         "raw_source_name": "GeoArabia",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -4411,17 +4415,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6200000047683716,
-          "display_name": "Life below water"
+          "score": 0.6200000047683716
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -4982,6 +4986,7 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -5471,17 +5476,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -5646,6 +5651,7 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -6277,9 +6283,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.699999988079071,
-          "display_name": "Life below water"
+          "score": 0.699999988079071
         }
       ],
       "study_designs": [],
@@ -6297,8 +6303,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -6492,6 +6498,10 @@
         "is_published": true,
         "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W7167665245",
+        "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -6883,8 +6893,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7496,7 +7506,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2017-06-05T00:00:00"
     },
     {
@@ -7551,6 +7561,7 @@
         "raw_source_name": "Revue de Micropaléontologie",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -8007,9 +8018,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.6600000262260437,
-          "display_name": "Life on land"
+          "score": 0.6600000262260437
         }
       ],
       "study_designs": [],
@@ -8022,8 +8033,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -8181,6 +8192,7 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -8646,17 +8658,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426,
-          "display_name": "Life below water"
+          "score": 0.8199999928474426
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -8819,6 +8831,7 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -9343,9 +9356,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -9373,8 +9386,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -9523,6 +9536,7 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -9906,17 +9920,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5699999928474426,
-          "display_name": "Life below water"
+          "score": 0.5699999928474426
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -10058,6 +10072,7 @@
         "raw_source_name": "Geobios",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -10486,16 +10501,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "score": 0.5769000053405762
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -10508,8 +10523,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -10609,6 +10624,10 @@
         "is_published": true,
         "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W7167665245",
+        "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -10967,8 +10986,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -11177,7 +11196,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -11207,6 +11226,10 @@
         "is_published": true,
         "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W7167665245",
+        "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -11648,8 +11671,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -12002,7 +12025,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2020-11-23T00:00:00"
     },
     {
@@ -12048,6 +12071,7 @@
         "raw_source_name": "IPC, Sep 2008, Bonn, Germany. pp.215",
         "raw_type": "info:eu-repo/semantics/conferenceObject"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -12440,17 +12464,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "score": 0.8399999737739563
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12547,6 +12571,7 @@
         "raw_source_name": "Review of Palaeobotany and Palynology",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -13001,8 +13026,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13105,6 +13130,7 @@
         "raw_source_name": "Revue de Micropaléontologie",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -13889,9 +13915,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "score": 0.8999999761581421
         }
       ],
       "study_designs": [],
@@ -13904,8 +13930,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2233849553.pdf",
@@ -14086,6 +14112,10 @@
         "is_published": true,
         "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W7167665245",
+        "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -14419,8 +14449,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -15072,7 +15102,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2021-04-13T00:00:00"
     },
     {
@@ -15102,6 +15132,10 @@
         "is_published": true,
         "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W7167665245",
+        "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -15505,8 +15539,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -15902,7 +15936,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2021-04-13T00:00:00"
     },
     {
@@ -15948,6 +15982,7 @@
         "raw_source_name": "IPC, Sep 2009, Bonn, Germany. pp.216",
         "raw_type": "info:eu-repo/semantics/conferenceObject"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -16314,17 +16349,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16411,6 +16446,7 @@
         "raw_source_name": "IPC, Sep 2008, Bonn, Germany. pp.12",
         "raw_type": "info:eu-repo/semantics/conferenceObject"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -16778,24 +16814,24 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "score": 0.5769000053405762
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "score": 0.8999999761581421
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16891,6 +16927,7 @@
         "raw_source_name": "Revue de Micropaléontologie",
         "raw_type": "journal-article"
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [
         "crossref"
@@ -17324,8 +17361,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -17402,6 +17439,7 @@
         "raw_source_name": "Geoarabia, 562-563 (1998)",
         "raw_type": "http://purl.org/coar/resource_type/c_3248"
       },
+      "volume": null,
       "type": "book-chapter",
       "indexed_in": [],
       "open_access": {
@@ -17715,17 +17753,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4300000071525574,
-          "display_name": "Climate action"
+          "score": 0.4300000071525574
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17807,6 +17845,7 @@
         "raw_source_name": "CIMP meeting 2015, Bergen, Norway [NO], Septembre 17-18 2015",
         "raw_type": "info:eu-repo/semantics/conferencePaper"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -18183,17 +18222,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "score": 0.8600000143051147
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18247,6 +18286,7 @@
         "raw_source_name": "CIMP Symposium and Workshops, Pisa, Italy [IT], 11-15 September",
         "raw_type": "info:eu-repo/semantics/conferencePaper"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -18541,17 +18581,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.550000011920929,
-          "display_name": "Climate action"
+          "score": 0.550000011920929
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18607,6 +18647,7 @@
         "raw_source_name": "Geo2000, 4th Middle East Geosciences Conference and Exhibition, Bahrain, Bahrain [BH], 25-27 March",
         "raw_type": "info:eu-repo/semantics/conferencePaper"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -19190,8 +19231,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2263524228.pdf"
@@ -19740,6 +19781,7 @@
         "raw_source_name": "XIV IPC, Salvador do Bahia, Brazil [BR], 23-28 Octobre 2016",
         "raw_type": "info:eu-repo/semantics/conferencePaper"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -20176,8 +20218,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20252,6 +20294,7 @@
         "raw_source_name": "PPMB-MVP meeting, Liège, Belgium [BE], December 21, 2016",
         "raw_type": "info:eu-repo/semantics/conferencePaper"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -20682,17 +20725,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.41999998688697815,
-          "display_name": "Climate action"
+          "score": 0.41999998688697815
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20756,6 +20799,7 @@
         "raw_source_name": "EPPC 2018, Dublin, Ireland [IE], from 12-08-2018 to 18-08-2018",
         "raw_type": "info:eu-repo/semantics/conferencePaper"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [],
       "open_access": {
@@ -21138,17 +21182,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.41999998688697815,
-          "display_name": "Life below water"
+          "score": 0.41999998688697815
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21203,6 +21247,7 @@
         "raw_source_name": null,
         "raw_type": null
       },
+      "volume": null,
       "type": "article",
       "indexed_in": [],
       "open_access": {
@@ -21542,17 +21587,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46000000834465027,
-          "display_name": "Climate action"
+          "score": 0.46000000834465027
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21611,6 +21656,7 @@
         "raw_source_name": "Proceedings of Asia Pacific Oil and Gas Conference and Exhibition",
         "raw_type": "proceedings-article"
       },
+      "volume": null,
       "type": "conference-paper",
       "indexed_in": [
         "crossref"
@@ -21882,17 +21928,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5299999713897705,
-          "display_name": "Climate action"
+          "score": 0.5299999713897705
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21940,6 +21986,10 @@
         "is_published": true,
         "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
         "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W7167665245",
+        "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
       },
       "type": "book-chapter",
       "indexed_in": [
@@ -22080,8 +22130,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22089,7 +22139,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-10T09:11:00.788812",
       "created_date": "2026-07-11T00:00:00"
     }
   ]
