@@ -29,9 +29,9 @@
     ],
     "full_name": "Abdullatif Abdulrahman Al-Shuhail",
     "works_count": 173,
-    "cited_by_count": 1427,
+    "cited_by_count": 1428,
     "summary_stats": {
-      "2yr_mean_citedness": 4.066666666666666,
+      "2yr_mean_citedness": 4.1,
       "h_index": 22,
       "i10_index": 47
     },
@@ -275,7 +275,7 @@
       {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "value": 0.0005157,
+        "value": 0.0005156,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -326,7 +326,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0001663,
+        "value": 0.0001662,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -509,7 +509,7 @@
         "year": 2024,
         "works_count": 12,
         "oa_works_count": 8,
-        "cited_by_count": 95
+        "cited_by_count": 96
       },
       {
         "year": 2025,
@@ -547,7 +547,7 @@
     ],
     "block_key": "a al-shuhail",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054922583",
-    "updated_date": "2026-10-09T12:31:04",
+    "updated_date": "2026-10-10T12:59:14",
     "created_date": "2016-11-30T00:00:00"
   },
   "works": [
@@ -47358,7 +47358,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -47398,7 +47398,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -47946,7 +47946,6 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
-        "https://openalex.org/A5054922583",
         "https://openalex.org/A5111604304"
       ],
       "corresponding_institution_ids": [
@@ -47958,11 +47957,11 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.6994,
+      "fwci": 1.6992,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.80603887,
+        "value": 0.80600603,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48356,7 +48355,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-10T09:11:00.788812",
+      "updated_date": "2026-10-11T09:32:39.932853",
       "created_date": "2025-10-10T00:00:00"
     },
     {
