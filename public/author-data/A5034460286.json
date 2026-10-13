@@ -166,7 +166,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000549,
+        "value": 0.0000548,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -183,7 +183,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000376,
+        "value": 0.0000372,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -200,7 +200,7 @@
       {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "value": 0.0000251,
+        "value": 0.000025,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -217,7 +217,7 @@
       {
         "id": "https://openalex.org/T12247",
         "display_name": "Microbial Applications in Construction Materials",
-        "value": 0.0000251,
+        "value": 0.000025,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -234,7 +234,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000221,
+        "value": 0.0000218,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -923,9 +923,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -1131,8 +1131,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -1301,11 +1305,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 2.4239,
+      "fwci": 2.2929,
       "has_fulltext": false,
-      "cited_by_count": 28,
+      "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.88524212,
+        "value": 0.87592847,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1592,8 +1596,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -1680,9 +1688,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5299999713897705,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -1844,14 +1852,14 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 10
+          "cited_by_count": 9
         },
         {
           "year": 2021,
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1884,9 +1892,14 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
             "doaj",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-2",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310310987",
           "host_organization_name": "Multidisciplinary Digital Publishing Institute",
@@ -2127,12 +2140,10 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5091334502",
-            "display_name": "Hani Al Mukainah",
-            "orcid": "https://orcid.org/0000-0002-6422-8560",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-6422-8560"
-            ]
+            "id": "https://openalex.org/A5024882078",
+            "display_name": "Hani Salman Al-Mukainah",
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -2224,11 +2235,11 @@
         "currency": "CHF",
         "value_usd": 2160
       },
-      "fwci": 1.2175,
+      "fwci": 1.2193,
       "has_fulltext": true,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.73433218,
+        "value": 0.73442761,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2540,9 +2551,14 @@
             "is_in_doaj": true,
             "is_core": true,
             "listed_in": [
+              "anvur-class-a",
+              "anvur-scientific",
               "cwts-core",
               "doaj",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-2",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310310987",
             "host_organization_name": "Multidisciplinary Digital Publishing Institute",
@@ -2640,9 +2656,14 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
             "doaj",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-2",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310310987",
           "host_organization_name": "Multidisciplinary Digital Publishing Institute",
@@ -2665,9 +2686,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6200000047683716,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -3518,7 +3539,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-01T08:31:24.195828",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3552,7 +3573,9 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
-            "cwts-core"
+            "cwts-core",
+            "poland-20",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -3743,11 +3766,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.9318,
+      "fwci": 1.9237,
       "has_fulltext": false,
-      "cited_by_count": 27,
+      "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.8396456,
+        "value": 0.8388203,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4047,7 +4070,9 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
-              "cwts-core"
+              "cwts-core",
+              "poland-20",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -4159,7 +4184,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 6
+          "cited_by_count": 4
         },
         {
           "year": 2021,
@@ -4182,7 +4207,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4939,10 +4964,10 @@
     {
       "id": "https://openalex.org/W4305072486",
       "doi": "https://doi.org/10.1016/j.marpetgeo.2022.105954",
-      "title": "Factors controlling sonic velocity in dolostones",
-      "display_name": "Factors controlling sonic velocity in dolostones",
+      "title": "Factors Controlling Sonic Velocity in Dolostones",
+      "display_name": "Factors Controlling Sonic Velocity in Dolostones",
       "publication_year": 2022,
-      "publication_date": "2022-10-13",
+      "publication_date": "2022-01-01",
       "ids": {
         "openalex": "https://openalex.org/W4305072486",
         "doi": "https://doi.org/10.1016/j.marpetgeo.2022.105954"
@@ -4967,8 +4992,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -4994,10 +5023,10 @@
         "crossref"
       ],
       "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://doi.org/10.2139/ssrn.4070110",
+        "any_repository_has_fulltext": true
       },
       "authorships": [
         {
@@ -5286,11 +5315,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 0.8739,
+      "fwci": 0.8692,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.66032286,
+        "value": 0.65692629,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5572,7 +5601,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 3,
       "locations": [
         {
           "id": "doi:10.1016/j.marpetgeo.2022.105954",
@@ -5593,8 +5622,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -5612,6 +5645,39 @@
           "is_accepted": true,
           "is_published": true,
           "raw_source_name": "Marine and Petroleum Geology",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "doi:10.2139/ssrn.4070110",
+          "doi": "https://doi.org/10.2139/ssrn.4070110",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.2139/ssrn.4070110",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210172589",
+            "display_name": "SSRN Electronic Journal",
+            "issn_l": "1556-5068",
+            "issn": [
+              "1556-5068"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1318003438",
+            "host_organization_name": "RELX Group (Netherlands)",
+            "host_organization_lineage": [
+              "https://openalex.org/I1318003438"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "SSRN Electronic Journal",
           "raw_type": "journal-article"
         },
         {
@@ -5646,7 +5712,39 @@
           "raw_type": "info:eu-repo/semantics/article"
         }
       ],
-      "best_oa_location": null,
+      "best_oa_location": {
+        "id": "doi:10.2139/ssrn.4070110",
+        "doi": "https://doi.org/10.2139/ssrn.4070110",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2139/ssrn.4070110",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210172589",
+          "display_name": "SSRN Electronic Journal",
+          "issn_l": "1556-5068",
+          "issn": [
+            "1556-5068"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1318003438",
+          "host_organization_name": "RELX Group (Netherlands)",
+          "host_organization_lineage": [
+            "https://openalex.org/I1318003438"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "SSRN Electronic Journal",
+        "raw_type": "journal-article"
+      },
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [],
       "study_designs": [],
@@ -5657,19 +5755,22 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 103,
+      "referenced_works_count": 109,
       "referenced_works": [
         "https://openalex.org/W195523536",
         "https://openalex.org/W570692802",
         "https://openalex.org/W627907298",
         "https://openalex.org/W639475909",
+        "https://openalex.org/W1007026350",
         "https://openalex.org/W1177237354",
         "https://openalex.org/W1505668941",
         "https://openalex.org/W1533729466",
         "https://openalex.org/W1552146141",
+        "https://openalex.org/W1564076024",
         "https://openalex.org/W1571804710",
         "https://openalex.org/W1580174060",
         "https://openalex.org/W1597080842",
+        "https://openalex.org/W1608886808",
         "https://openalex.org/W1614963665",
         "https://openalex.org/W1968584894",
         "https://openalex.org/W1973826423",
@@ -5690,6 +5791,7 @@
         "https://openalex.org/W2037415830",
         "https://openalex.org/W2044081648",
         "https://openalex.org/W2048412128",
+        "https://openalex.org/W2055676062",
         "https://openalex.org/W2067604403",
         "https://openalex.org/W2070381308",
         "https://openalex.org/W2074321084",
@@ -5749,6 +5851,8 @@
         "https://openalex.org/W3204732570",
         "https://openalex.org/W4234735774",
         "https://openalex.org/W4250980847",
+        "https://openalex.org/W4252593548",
+        "https://openalex.org/W4256129314",
         "https://openalex.org/W6606368445",
         "https://openalex.org/W6620149880",
         "https://openalex.org/W6632973950",
@@ -5794,7 +5898,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-09T09:14:12.587421",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6587,9 +6691,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8299999833106995,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -13050,9 +13154,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7900000214576721,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -14244,9 +14348,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -17250,519 +17354,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4226368428",
-      "doi": "https://doi.org/10.2139/ssrn.4070110",
-      "title": "Factors Controlling Sonic Velocity in Dolostones",
-      "display_name": "Factors Controlling Sonic Velocity in Dolostones",
-      "publication_year": 2022,
-      "publication_date": "2022-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W4226368428",
-        "doi": "https://doi.org/10.2139/ssrn.4070110"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2139/ssrn.4070110",
-        "doi": "https://doi.org/10.2139/ssrn.4070110",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.2139/ssrn.4070110",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210172589",
-          "display_name": "SSRN Electronic Journal",
-          "issn_l": "1556-5068",
-          "issn": [
-            "1556-5068"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/I1318003438",
-          "host_organization_name": "RELX Group (Netherlands)",
-          "host_organization_lineage": [
-            "https://openalex.org/I1318003438"
-          ],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "SSRN Electronic Journal",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "preprint",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "https://doi.org/10.2139/ssrn.4070110",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5034460286",
-            "display_name": "Moaz Salih",
-            "orcid": "https://orcid.org/0000-0002-6155-0845",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-6155-0845"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Moaz Salih",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Ammar El-Husseiny",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Ammar El-Husseiny",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5079698878",
-            "display_name": "John J. G. Reijmer",
-            "orcid": "https://orcid.org/0000-0001-5807-1256",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5807-1256"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "John J. G. Reijmer",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5040857714",
-            "display_name": "Hassan A. Eltom",
-            "orcid": "https://orcid.org/0000-0002-3515-0127",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-3515-0127"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Hassan Eltom",
-          "raw_affiliation_strings": [
-            "King Fahd University of Petroleum and Minerals (KFUPM)"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals (KFUPM)",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5080820696",
-            "display_name": "Abdallah A. Abdelkarim",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Abdallah Abdelkarim",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5034460286"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": null,
-      "has_fulltext": false,
-      "cited_by_count": 0,
-      "citation_normalized_percentile": null,
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10271",
-        "display_name": "Seismic Imaging and Inversion Techniques",
-        "score": 0.5640000104904175,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10271",
-          "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.5640000104904175,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.3970000147819519,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.0034000000450760126,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/dolostone",
-          "display_name": "dolostone",
-          "score": 0.8650000095367432
-        },
-        {
-          "id": "https://openalex.org/keywords/sonic-velocity",
-          "display_name": "sonic velocity",
-          "score": 0.9890000224113464
-        },
-        {
-          "id": "https://openalex.org/keywords/pore-types",
-          "display_name": "pore types",
-          "score": 0.7739999890327454
-        },
-        {
-          "id": "https://openalex.org/keywords/intercrystalline-pores",
-          "display_name": "intercrystalline pores",
-          "score": 0.8259999752044678
-        },
-        {
-          "id": "https://openalex.org/keywords/moldic-pores",
-          "display_name": "moldic pores",
-          "score": 0.9259999990463257
-        },
-        {
-          "id": "https://openalex.org/keywords/interparticle-pores",
-          "display_name": "interparticle pores",
-          "score": 0.7350000143051147
-        },
-        {
-          "id": "https://openalex.org/keywords/differential-effective-medium-theory",
-          "display_name": "differential effective medium theory",
-          "score": 0.9160000085830688
-        },
-        {
-          "id": "https://openalex.org/keywords/rock-physics-modeling",
-          "display_name": "rock physics modeling",
-          "score": 0.8399999737739563
-        },
-        {
-          "id": "https://openalex.org/keywords/seismic-impedance",
-          "display_name": "seismic impedance",
-          "score": 0.4230000078678131
-        },
-        {
-          "id": "https://openalex.org/keywords/oil-reservoirs",
-          "display_name": "hydrocarbon reservoirs",
-          "score": 0.703000009059906
-        },
-        {
-          "id": "https://openalex.org/keywords/arabian-plate",
-          "display_name": "Arabian Plate",
-          "score": 0.9279999732971191
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.331851601600647
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2139/ssrn.4070110",
-          "doi": "https://doi.org/10.2139/ssrn.4070110",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.2139/ssrn.4070110",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210172589",
-            "display_name": "SSRN Electronic Journal",
-            "issn_l": "1556-5068",
-            "issn": [
-              "1556-5068"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1318003438",
-            "host_organization_name": "RELX Group (Netherlands)",
-            "host_organization_lineage": [
-              "https://openalex.org/I1318003438"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "SSRN Electronic Journal",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.2139/ssrn.4070110",
-        "doi": "https://doi.org/10.2139/ssrn.4070110",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.2139/ssrn.4070110",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210172589",
-          "display_name": "SSRN Electronic Journal",
-          "issn_l": "1556-5068",
-          "issn": [
-            "1556-5068"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/I1318003438",
-          "host_organization_name": "RELX Group (Netherlands)",
-          "host_organization_lineage": [
-            "https://openalex.org/I1318003438"
-          ],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "SSRN Electronic Journal",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "sustainable_development_goals_aurora": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 88,
-      "referenced_works": [
-        "https://openalex.org/W570692802",
-        "https://openalex.org/W639475909",
-        "https://openalex.org/W1007026350",
-        "https://openalex.org/W1177237354",
-        "https://openalex.org/W1533729466",
-        "https://openalex.org/W1564076024",
-        "https://openalex.org/W1571804710",
-        "https://openalex.org/W1580174060",
-        "https://openalex.org/W1597080842",
-        "https://openalex.org/W1608886808",
-        "https://openalex.org/W1614963665",
-        "https://openalex.org/W1968584894",
-        "https://openalex.org/W1975155518",
-        "https://openalex.org/W1979428491",
-        "https://openalex.org/W1979795977",
-        "https://openalex.org/W1989881476",
-        "https://openalex.org/W1993339967",
-        "https://openalex.org/W2002934066",
-        "https://openalex.org/W2009157371",
-        "https://openalex.org/W2011116619",
-        "https://openalex.org/W2011927596",
-        "https://openalex.org/W2019949259",
-        "https://openalex.org/W2029837300",
-        "https://openalex.org/W2030569016",
-        "https://openalex.org/W2035331497",
-        "https://openalex.org/W2035508669",
-        "https://openalex.org/W2037415830",
-        "https://openalex.org/W2044081648",
-        "https://openalex.org/W2048412128",
-        "https://openalex.org/W2055676062",
-        "https://openalex.org/W2067604403",
-        "https://openalex.org/W2070381308",
-        "https://openalex.org/W2074321084",
-        "https://openalex.org/W2074903244",
-        "https://openalex.org/W2078277224",
-        "https://openalex.org/W2078474490",
-        "https://openalex.org/W2083312390",
-        "https://openalex.org/W2083826621",
-        "https://openalex.org/W2108986389",
-        "https://openalex.org/W2111958334",
-        "https://openalex.org/W2124549336",
-        "https://openalex.org/W2126127598",
-        "https://openalex.org/W2129709937",
-        "https://openalex.org/W2132125273",
-        "https://openalex.org/W2142156816",
-        "https://openalex.org/W2145794341",
-        "https://openalex.org/W2153573425",
-        "https://openalex.org/W2156321957",
-        "https://openalex.org/W2159220388",
-        "https://openalex.org/W2166209577",
-        "https://openalex.org/W2168562010",
-        "https://openalex.org/W2168932378",
-        "https://openalex.org/W2195678586",
-        "https://openalex.org/W2215060042",
-        "https://openalex.org/W2287111010",
-        "https://openalex.org/W2482201593",
-        "https://openalex.org/W2525116058",
-        "https://openalex.org/W2561718206",
-        "https://openalex.org/W2767607556",
-        "https://openalex.org/W2767810597",
-        "https://openalex.org/W2919016321",
-        "https://openalex.org/W2944267028",
-        "https://openalex.org/W2964097576",
-        "https://openalex.org/W2978412508",
-        "https://openalex.org/W2981138633",
-        "https://openalex.org/W2981429514",
-        "https://openalex.org/W3011869128",
-        "https://openalex.org/W3014355492",
-        "https://openalex.org/W3035008434",
-        "https://openalex.org/W3085505323",
-        "https://openalex.org/W3091929695",
-        "https://openalex.org/W3092335825",
-        "https://openalex.org/W3109838794",
-        "https://openalex.org/W3110520361",
-        "https://openalex.org/W3127689467",
-        "https://openalex.org/W3134055622",
-        "https://openalex.org/W3154231331",
-        "https://openalex.org/W3156145138",
-        "https://openalex.org/W3189518765",
-        "https://openalex.org/W3204732570",
-        "https://openalex.org/W4234735774",
-        "https://openalex.org/W4241868443",
-        "https://openalex.org/W4246451635",
-        "https://openalex.org/W4252593548",
-        "https://openalex.org/W4256129314",
-        "https://openalex.org/W4299370737",
-        "https://openalex.org/W6687464672",
-        "https://openalex.org/W6722296048"
-      ],
-      "related_works": [
-        "https://openalex.org/W2748952813",
-        "https://openalex.org/W3120165752",
-        "https://openalex.org/W3158585187",
-        "https://openalex.org/W2344506138",
-        "https://openalex.org/W4211064241",
-        "https://openalex.org/W1964191721",
-        "https://openalex.org/W85411530",
-        "https://openalex.org/W2485179383",
-        "https://openalex.org/W2597744361",
-        "https://openalex.org/W3195275078"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [],
-      "updated_date": "2026-10-08T09:06:37.294493",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4312359787",
       "doi": "https://doi.org/10.3997/2214-4609.2022617012",
       "title": "Distinct Petro-acoustic signature for sonic-derived porosity prediction in dolostones",
@@ -19281,9 +18872,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.47999998927116394,
-          "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -20600,9 +20191,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6800000071525574,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -23959,9 +23550,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6074142456054688,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -25186,9 +24777,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.42386606335639954,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -25935,24 +25526,24 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/9",
           "score": 1,
-          "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "display_name": "Industry, innovation and infrastructure"
         },
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.9786999821662903,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         },
         {
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.8799999952316284,
-          "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         },
         {
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.75,
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         }
       ],
       "sustainable_development_goals_aurora": [],

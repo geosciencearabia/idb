@@ -122,7 +122,7 @@
       {
         "id": "https://openalex.org/T14506",
         "display_name": "Historical and Architectural Studies",
-        "value": 0.0000121,
+        "value": 0.000012,
         "subfield": {
           "id": "https://openalex.org/subfields/1204",
           "display_name": "Archeology"
@@ -190,7 +190,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0000098,
+        "value": 0.0000097,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -8366,7 +8366,9 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
-            "cwts-core"
+            "cwts-core",
+            "poland-20",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -8509,7 +8511,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.06340891,
+        "value": 0.06366959,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8786,7 +8788,9 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
-              "cwts-core"
+              "cwts-core",
+              "poland-20",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -8826,7 +8830,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 24,
+      "referenced_works_count": 25,
       "referenced_works": [
         "https://openalex.org/W92189430",
         "https://openalex.org/W1201381923",
@@ -8837,6 +8841,7 @@
         "https://openalex.org/W2012150341",
         "https://openalex.org/W2012622951",
         "https://openalex.org/W2035164034",
+        "https://openalex.org/W2042548111",
         "https://openalex.org/W2048331546",
         "https://openalex.org/W2058059973",
         "https://openalex.org/W2065503524",
@@ -8867,7 +8872,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9034,10 +9039,12 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5134553090",
+            "id": "https://openalex.org/A5067454334",
             "display_name": "Andrea Zerboni",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0002-6844-8528",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6844-8528"
+            ]
           },
           "institutions": [],
           "countries": [],
@@ -9059,7 +9066,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.19570355,
+        "value": 0.19184393,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9795,7 +9802,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2026-04-25T00:00:00"
     },
     {
@@ -9827,10 +9834,16 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
             "doaj",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320547",
           "host_organization_name": "Taylor & Francis",
@@ -10207,7 +10220,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.19681882,
+        "value": 0.19294966,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10445,10 +10458,16 @@
             "is_in_doaj": true,
             "is_core": true,
             "listed_in": [
+              "anvur-class-a",
+              "anvur-scientific",
               "cwts-core",
               "doaj",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320547",
             "host_organization_name": "Taylor & Francis",
@@ -10548,10 +10567,16 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
             "doaj",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320547",
           "host_organization_name": "Taylor & Francis",
@@ -10602,7 +10627,7 @@
         "pdf": "https://content.openalex.org/works/W7155534781.pdf",
         "grobid_xml": "https://content.openalex.org/works/W7155534781.grobid-xml"
       },
-      "referenced_works_count": 51,
+      "referenced_works_count": 52,
       "referenced_works": [
         "https://openalex.org/W112984935",
         "https://openalex.org/W1514213934",
@@ -10627,6 +10652,7 @@
         "https://openalex.org/W2167767686",
         "https://openalex.org/W2259645488",
         "https://openalex.org/W2315819912",
+        "https://openalex.org/W2437003282",
         "https://openalex.org/W2586620042",
         "https://openalex.org/W2789576189",
         "https://openalex.org/W2790496950",
@@ -11024,7 +11050,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2026-04-25T00:00:00"
     },
     {
@@ -12122,8 +12148,8 @@
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5135872672",
-            "display_name": "Rudolf Dellmour",
+            "id": "https://openalex.org/A5029051993",
+            "display_name": "Rudolf W. Dellmour",
             "orcid": null,
             "observed_orcids": []
           },
@@ -12217,11 +12243,11 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5144230459",
-            "display_name": "Eren Metin",
-            "orcid": "https://orcid.org/0000-0003-0849-2049",
+            "id": "https://openalex.org/A5043172674",
+            "display_name": "Metin I. Eren",
+            "orcid": "https://orcid.org/0000-0003-3576-6076",
             "observed_orcids": [
-              "https://orcid.org/0000-0003-0849-2049"
+              "https://orcid.org/0000-0003-3576-6076"
             ]
           },
           "institutions": [],
@@ -13028,7 +13054,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2026-08-03T00:00:00"
     }
   ]

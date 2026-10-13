@@ -183,7 +183,7 @@
       {
         "id": "https://openalex.org/T11278",
         "display_name": "Calcium Carbonate Crystallization and Inhibition",
-        "value": 0.0000197,
+        "value": 0.0000196,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -200,7 +200,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0000197,
+        "value": 0.0000194,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -217,7 +217,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000166,
+        "value": 0.0000165,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -234,7 +234,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000141,
+        "value": 0.000014,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -251,7 +251,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.000013,
+        "value": 0.0000128,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -385,8 +385,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-2"
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310320595",
           "host_organization_name": "Wiley",
@@ -775,11 +778,11 @@
         "value_usd": 4310
       },
       "apc_paid": null,
-      "fwci": 2.8821,
+      "fwci": 2.8748,
       "has_fulltext": false,
-      "cited_by_count": 40,
+      "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.88939941,
+        "value": 0.88925538,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1047,8 +1050,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-2"
+              "norway-2",
+              "poland-140",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310320595",
             "host_organization_name": "Wiley",
@@ -1916,7 +1922,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 5
+          "cited_by_count": 4
         },
         {
           "year": 2022,
@@ -1951,7 +1957,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2482,8 +2488,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6800000071525574,
           "display_name": "Zero hunger",
+          "score": 0.6800000071525574,
           "id": "https://metadata.un.org/sdg/2"
         }
       ],
@@ -3256,7 +3262,9 @@
           "listed_in": [
             "cwts-core",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310315672",
           "host_organization_name": "University of Chicago Press",
@@ -3562,11 +3570,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.5291,
+      "fwci": 4.5176,
       "has_fulltext": false,
-      "cited_by_count": 32,
+      "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.93895635,
+        "value": 0.93881422,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3867,7 +3875,9 @@
             "listed_in": [
               "cwts-core",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310315672",
             "host_organization_name": "University of Chicago Press",
@@ -3925,8 +3935,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5899999737739563,
           "display_name": "Life below water",
+          "score": 0.5899999737739563,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -4412,7 +4422,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 2
+          "cited_by_count": 1
         },
         {
           "year": 2022,
@@ -4443,7 +4453,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4478,8 +4488,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310311650",
           "host_organization_name": "Geological Society of London",
@@ -4729,11 +4742,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7904,
+      "fwci": 1.7838,
       "has_fulltext": false,
-      "cited_by_count": 27,
+      "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.83613086,
+        "value": 0.83550914,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4985,8 +4998,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310311650",
             "host_organization_name": "Geological Society of London",
@@ -5788,7 +5804,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 2
+          "cited_by_count": 1
         },
         {
           "year": 2022,
@@ -5823,7 +5839,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T17:25:34.749102",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6282,8 +6298,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -7320,8 +7336,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5299999713897705,
           "display_name": "Life below water",
+          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -8421,8 +8437,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.75,
           "display_name": "Life below water",
+          "score": 0.75,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -9612,13 +9628,13 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.49000000953674316,
           "display_name": "Peace, justice, and strong institutions",
+          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/16"
         },
         {
-          "score": 0.4699999988079071,
           "display_name": "Reduced inequalities",
+          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/10"
         }
       ],
@@ -11171,15 +11187,15 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
           "display_name": "Climate action",
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8669640421867371,
           "display_name": "Life below water",
+          "score": 0.8669640421867371,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -11761,8 +11777,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Life below water",
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -15542,15 +15558,15 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
           "display_name": "Climate action",
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8427148461341858,
           "display_name": "Life below water",
+          "score": 0.8427148461341858,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],

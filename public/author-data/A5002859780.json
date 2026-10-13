@@ -499,7 +499,7 @@
       "has_fulltext": false,
       "cited_by_count": 57,
       "citation_normalized_percentile": {
-        "value": 0.4886421,
+        "value": 0.49117747,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -803,9 +803,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -1631,11 +1631,11 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 5
+          "cited_by_count": 4
         },
         {
           "year": 2022,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2021,
@@ -1674,7 +1674,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-18T07:38:42.748307",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2141,9 +2141,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Affordable and clean energy",
           "score": 0.875,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -2712,9 +2712,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -4050,8 +4050,8 @@
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5025657675",
-            "display_name": "Abdulfattah A. Al-Dajani",
+            "id": "https://openalex.org/A5112038707",
+            "display_name": "AbdulFattah Al‐Dajani",
             "orcid": null,
             "observed_orcids": []
           },
@@ -4091,7 +4091,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.44883578,
+        "value": 0.45076923,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5073,7 +5073,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5578,19 +5578,19 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Responsible consumption and production",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "id": "https://metadata.un.org/sdg/12"
         },
         {
+          "display_name": "Affordable and clean energy",
           "score": 0.5690000057220459,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
+          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -6103,6 +6103,789 @@
       },
       "counts_by_year": [],
       "updated_date": "2026-07-29T14:22:42.915294",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2029365051",
+      "doi": "https://doi.org/10.3997/2214-4609.20147151",
+      "title": "The Use of Bulk Modulus as a Fluid Indicator in Tight Clastic Reservoirs",
+      "display_name": "The Use of Bulk Modulus as a Fluid Indicator in Tight Clastic Reservoirs",
+      "publication_year": 2009,
+      "publication_date": "2009-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2029365051",
+        "doi": "https://doi.org/10.3997/2214-4609.20147151",
+        "mag": "2029365051"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3997/2214-4609.20147151",
+        "doi": "https://doi.org/10.3997/2214-4609.20147151",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.3997/2214-4609.20147151",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "First EAGE Workshop on Tight Gas Reservoirs 2009",
+        "raw_type": "proceedings-article"
+      },
+      "volume": null,
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5032369254",
+            "display_name": "Mohammed G. Al-Otaibi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M.G Al-Otaibi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5065819322",
+            "display_name": "M.A. Al-Duhailan",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M.A. Al-Duhailan",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5067739868",
+            "display_name": "Mohammed J. Al-Mahmoud",
+            "orcid": "https://orcid.org/0009-0001-8203-5279",
+            "observed_orcids": [
+              "https://orcid.org/0009-0001-8203-5279"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M.J. Al-Mahmoud",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5002859780",
+            "display_name": "Abdulaziz A. Al-Duaiji",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A.A. Al-Duaiji",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.12624909,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10271",
+        "display_name": "Seismic Imaging and Inversion Techniques",
+        "score": 0.9740999937057495,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.9740999937057495,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.02250000089406967,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10635",
+          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+          "score": 0.0006000000284984708,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/bulk-modulus",
+          "display_name": "bulk modulus",
+          "score": 0.9869999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/seismic-modeling",
+          "display_name": "seismic modeling",
+          "score": 0.5040000081062317
+        },
+        {
+          "id": "https://openalex.org/keywords/acoustic-impedance",
+          "display_name": "acoustic impedance",
+          "score": 0.7139999866485596
+        },
+        {
+          "id": "https://openalex.org/keywords/poisson-s-ratio",
+          "display_name": "Poisson's ratio",
+          "score": 0.996999979019165
+        },
+        {
+          "id": "https://openalex.org/keywords/low-porosity-reservoirs",
+          "display_name": "low porosity reservoirs",
+          "score": 0.8619999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/fluid-saturation",
+          "display_name": "fluid saturation",
+          "score": 0.5860000252723694
+        },
+        {
+          "id": "https://openalex.org/keywords/natural-gas-exploration",
+          "display_name": "natural gas exploration",
+          "score": 0.5460000038146973
+        },
+        {
+          "id": "https://openalex.org/keywords/unconventional-reservoirs",
+          "display_name": "unconventional reservoirs",
+          "score": 0.6790000200271606
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C94406020",
+          "wikidata": "https://www.wikidata.org/wiki/Q900371",
+          "display_name": "Bulk modulus",
+          "level": 2,
+          "score": 0.7454564571380615
+        },
+        {
+          "id": "https://openalex.org/C193867417",
+          "wikidata": "https://www.wikidata.org/wiki/Q6889814",
+          "display_name": "Modulus",
+          "level": 2,
+          "score": 0.6232158541679382
+        },
+        {
+          "id": "https://openalex.org/C43486711",
+          "wikidata": "https://www.wikidata.org/wiki/Q192005",
+          "display_name": "Elastic modulus",
+          "level": 2,
+          "score": 0.6133118867874146
+        },
+        {
+          "id": "https://openalex.org/C149505630",
+          "wikidata": "https://www.wikidata.org/wiki/Q190453",
+          "display_name": "Poisson's ratio",
+          "level": 3,
+          "score": 0.5681238174438477
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5607962608337402
+        },
+        {
+          "id": "https://openalex.org/C121089165",
+          "wikidata": "https://www.wikidata.org/wiki/Q6889796",
+          "display_name": "Moduli",
+          "level": 2,
+          "score": 0.5089466571807861
+        },
+        {
+          "id": "https://openalex.org/C138170599",
+          "wikidata": "https://www.wikidata.org/wiki/Q612133",
+          "display_name": "Clastic rock",
+          "level": 3,
+          "score": 0.45733362436294556
+        },
+        {
+          "id": "https://openalex.org/C2777447996",
+          "wikidata": "https://www.wikidata.org/wiki/Q3991263",
+          "display_name": "Tight gas",
+          "level": 3,
+          "score": 0.44364187121391296
+        },
+        {
+          "id": "https://openalex.org/C18762648",
+          "wikidata": "https://www.wikidata.org/wiki/Q42213",
+          "display_name": "Work (physics)",
+          "level": 2,
+          "score": 0.43612852692604065
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.43119773268699646
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.40218251943588257
+        },
+        {
+          "id": "https://openalex.org/C100906024",
+          "wikidata": "https://www.wikidata.org/wiki/Q205692",
+          "display_name": "Poisson distribution",
+          "level": 2,
+          "score": 0.37323644757270813
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.3286336064338684
+        },
+        {
+          "id": "https://openalex.org/C2779096232",
+          "wikidata": "https://www.wikidata.org/wiki/Q890794",
+          "display_name": "Hydraulic fracturing",
+          "level": 2,
+          "score": 0.24643203616142273
+        },
+        {
+          "id": "https://openalex.org/C159985019",
+          "wikidata": "https://www.wikidata.org/wiki/Q181790",
+          "display_name": "Composite material",
+          "level": 1,
+          "score": 0.2224450409412384
+        },
+        {
+          "id": "https://openalex.org/C97355855",
+          "wikidata": "https://www.wikidata.org/wiki/Q11473",
+          "display_name": "Thermodynamics",
+          "level": 1,
+          "score": 0.1227644681930542
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.10053882002830505
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.09194469451904297
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.08966150879859924
+        },
+        {
+          "id": "https://openalex.org/C105795698",
+          "wikidata": "https://www.wikidata.org/wiki/Q12483",
+          "display_name": "Statistics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C62520636",
+          "wikidata": "https://www.wikidata.org/wiki/Q944",
+          "display_name": "Quantum mechanics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.3997/2214-4609.20147151",
+          "doi": "https://doi.org/10.3997/2214-4609.20147151",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.3997/2214-4609.20147151",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "First EAGE Workshop on Tight Gas Reservoirs 2009",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
+        {
+          "display_name": "Reduced inequalities",
+          "score": 0.699999988079071,
+          "id": "https://metadata.un.org/sdg/10"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2118173942",
+        "https://openalex.org/W2069424847",
+        "https://openalex.org/W2021514111",
+        "https://openalex.org/W2389027070",
+        "https://openalex.org/W2529335127",
+        "https://openalex.org/W2335648515",
+        "https://openalex.org/W2904189605",
+        "https://openalex.org/W2394018321",
+        "https://openalex.org/W2084944775",
+        "https://openalex.org/W1969530877"
+      ],
+      "abstract_inverted_index": {
+        "Unconventional": [
+          0
+        ],
+        "new": [
+          1
+        ],
+        "methods": [
+          2
+        ],
+        "capable": [
+          3
+        ],
+        "of": [
+          4,
+          108,
+          115
+        ],
+        "identifying": [
+          5
+        ],
+        "pore": [
+          6,
+          42,
+          66,
+          103,
+          121
+        ],
+        "fluid": [
+          7,
+          43,
+          82,
+          122
+        ],
+        "types": [
+          8
+        ],
+        "in": [
+          9,
+          19,
+          62,
+          81
+        ],
+        "the": [
+          10,
+          31,
+          52,
+          55,
+          96
+        ],
+        "subsurface": [
+          11
+        ],
+        "can": [
+          12
+        ],
+        "add": [
+          13
+        ],
+        "significant": [
+          14
+        ],
+        "contributions": [
+          15
+        ],
+        "to": [
+          16,
+          41,
+          73,
+          119
+        ],
+        "gas": [
+          17
+        ],
+        "exploration": [
+          18
+        ],
+        "tight": [
+          20
+        ],
+        "reservoirs.": [
+          21
+        ],
+        "We": [
+          22
+        ],
+        "present": [
+          23
+        ],
+        "a": [
+          24,
+          59
+        ],
+        "method": [
+          25
+        ],
+        "for": [
+          26
+        ],
+        "identifying,": [
+          27
+        ],
+        "and": [
+          28
+        ],
+        "hence": [
+          29
+        ],
+        "selecting,": [
+          30
+        ],
+        "appropriate": [
+          32
+        ],
+        "elastic": [
+          33,
+          69
+        ],
+        "rock": [
+          34,
+          70
+        ],
+        "modulus": [
+          35,
+          57,
+          71,
+          98,
+          117
+        ],
+        "(or": [
+          36
+        ],
+        "moduli)": [
+          37
+        ],
+        "that": [
+          38,
+          95
+        ],
+        "are": [
+          39
+        ],
+        "sensitive": [
+          40
+        ],
+        "types.": [
+          44
+        ],
+        "Seismic": [
+          45
+        ],
+        "modeling": [
+          46
+        ],
+        "work": [
+          47,
+          92
+        ],
+        "showed": [
+          48
+        ],
+        "that,": [
+          49
+        ],
+        "among": [
+          50
+        ],
+        "all": [
+          51
+        ],
+        "moduli": [
+          53
+        ],
+        "studied,": [
+          54
+        ],
+        "bulk": [
+          56,
+          97,
+          116
+        ],
+        "holds": [
+          58
+        ],
+        "great": [
+          60
+        ],
+        "promise": [
+          61
+        ],
+        "discriminating": [
+          63
+        ],
+        "between": [
+          64
+        ],
+        "different": [
+          65,
+          120
+        ],
+        "fluids.": [
+          67
+        ],
+        "This": [
+          68,
+          91
+        ],
+        "proved": [
+          72
+        ],
+        "be": [
+          74,
+          125
+        ],
+        "more": [
+          75
+        ],
+        "robust": [
+          76
+        ],
+        "than": [
+          77
+        ],
+        "other": [
+          78
+        ],
+        "techniques": [
+          79
+        ],
+        "used": [
+          80
+        ],
+        "distinction": [
+          83
+        ],
+        "such": [
+          84
+        ],
+        "as": [
+          85
+        ],
+        "acoustic": [
+          86
+        ],
+        "impedance": [
+          87
+        ],
+        "or": [
+          88
+        ],
+        "Poisson’s": [
+          89
+        ],
+        "ratio.": [
+          90
+        ],
+        "also": [
+          93
+        ],
+        "reveals": [
+          94
+        ],
+        "provides": [
+          99
+        ],
+        "good": [
+          100
+        ],
+        "insight": [
+          101
+        ],
+        "about": [
+          102
+        ],
+        "fluids": [
+          104
+        ],
+        "discrimination": [
+          105
+        ],
+        "within": [
+          106
+        ],
+        "reservoirs": [
+          107
+        ],
+        "low": [
+          109
+        ],
+        "porosities": [
+          110
+        ],
+        "(below": [
+          111
+        ],
+        "10%).": [
+          112
+        ],
+        "Several": [
+          113
+        ],
+        "examples": [
+          114
+        ],
+        "sensitivity": [
+          118
+        ],
+        "saturations": [
+          123
+        ],
+        "will": [
+          124
+        ],
+        "shown": [
+          126
+        ],
+        "from": [
+          127
+        ],
+        "Saudi": [
+          128
+        ],
+        "Arabian": [
+          129
+        ],
+        "fields.": [
+          130
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6622,8 +7405,8 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5096958626",
-            "display_name": "Homoud R. Al Anzi",
+            "id": "https://openalex.org/A5012638560",
+            "display_name": "Homoud Al-Anzi",
             "orcid": null,
             "observed_orcids": []
           },
@@ -6923,9 +7706,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -7528,7 +8311,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7917,9 +8700,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "score": 0.6200000047683716,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],

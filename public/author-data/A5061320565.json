@@ -171,7 +171,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000239,
+        "value": 0.0000238,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -205,7 +205,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000141,
+        "value": 0.000014,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -239,7 +239,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000102,
+        "value": 0.0000101,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -411,8 +411,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-2"
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310316082",
           "host_organization_name": "American Association of Petroleum Geologists",
@@ -470,11 +473,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5088,
+      "fwci": 0.5063,
       "has_fulltext": false,
-      "cited_by_count": 67,
+      "cited_by_count": 66,
       "citation_normalized_percentile": {
-        "value": 0.72296296,
+        "value": 0.72277964,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -698,8 +701,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-2"
+              "norway-2",
+              "poland-140",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310316082",
             "host_organization_name": "American Association of Petroleum Geologists",
@@ -724,9 +730,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -1106,11 +1112,11 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 8
+          "cited_by_count": 7
         },
         {
           "year": 2022,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2021,
@@ -1145,7 +1151,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1499,9 +1505,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8999999761581421
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -2409,9 +2415,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land",
-          "score": 0.5099999904632568
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -3357,9 +3363,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land",
-          "score": 0.5099999904632568
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -3839,9 +3845,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -5178,9 +5184,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -5807,9 +5813,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -6591,9 +6597,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land",
-          "score": 0.4699999988079071
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -7564,8 +7570,8 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5089883683",
-            "display_name": "B. H. Walthall",
+            "id": "https://openalex.org/A5047248248",
+            "display_name": "Bennie H. Walthall",
             "orcid": null,
             "observed_orcids": []
           },
@@ -7589,7 +7595,7 @@
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.1340356,
+        "value": 0.13476991,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7781,9 +7787,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -8397,7 +8403,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8770,9 +8776,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -9860,9 +9866,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -10756,9 +10762,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.550000011920929,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.550000011920929
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -11143,9 +11149,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -12703,9 +12709,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.4699999988079071
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],

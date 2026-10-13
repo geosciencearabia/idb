@@ -15,7 +15,7 @@
     ],
     "full_name": "Benaafi, Mohammed",
     "works_count": 93,
-    "cited_by_count": 1139,
+    "cited_by_count": 1140,
     "summary_stats": {
       "2yr_mean_citedness": 4.191489361702128,
       "h_index": 21,
@@ -160,7 +160,7 @@
       {
         "id": "https://openalex.org/T11490",
         "display_name": "Hydrological Forecasting Using AI",
-        "value": 0.0002085,
+        "value": 0.0002083,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -177,7 +177,7 @@
       {
         "id": "https://openalex.org/T13563",
         "display_name": "Chemical Analysis and Environmental Impact",
-        "value": 0.0001461,
+        "value": 0.0001459,
         "subfield": {
           "id": "https://openalex.org/subfields/2307",
           "display_name": "Health, Toxicology and Mutagenesis"
@@ -194,7 +194,7 @@
       {
         "id": "https://openalex.org/T10398",
         "display_name": "Groundwater and Isotope Geochemistry",
-        "value": 0.0001125,
+        "value": 0.0001119,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -211,7 +211,7 @@
       {
         "id": "https://openalex.org/T11634",
         "display_name": "Water Quality and Pollution Assessment",
-        "value": 0.0000961,
+        "value": 0.000096,
         "subfield": {
           "id": "https://openalex.org/subfields/2312",
           "display_name": "Water Science and Technology"
@@ -334,7 +334,7 @@
         "year": 2023,
         "works_count": 14,
         "oa_works_count": 8,
-        "cited_by_count": 387
+        "cited_by_count": 388
       },
       {
         "year": 2024,
@@ -364,7 +364,7 @@
     ],
     "block_key": "m benaafi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5034568196",
-    "updated_date": "2026-10-10T12:59:14",
+    "updated_date": "2026-10-11T12:31:35",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -399,10 +399,14 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
             "jufo-1",
             "medline",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -726,11 +730,11 @@
         "value_usd": 3610
       },
       "apc_paid": null,
-      "fwci": 6.0491,
+      "fwci": 5.9393,
       "has_fulltext": false,
-      "cited_by_count": 79,
+      "cited_by_count": 78,
       "citation_normalized_percentile": {
-        "value": 0.97786856,
+        "value": 0.97750091,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1361,10 +1365,14 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
               "jufo-1",
               "medline",
-              "norway-1"
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -1529,7 +1537,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 27
+          "cited_by_count": 26
         },
         {
           "year": 2024,
@@ -1540,7 +1548,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1572,10 +1580,15 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
             "doaj",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310310987",
           "host_organization_name": "Multidisciplinary Digital Publishing Institute",
@@ -1875,11 +1888,11 @@
         "currency": "CHF",
         "value_usd": 2618
       },
-      "fwci": 5.5286,
+      "fwci": 5.389,
       "has_fulltext": true,
-      "cited_by_count": 68,
+      "cited_by_count": 67,
       "citation_normalized_percentile": {
-        "value": 0.97181508,
+        "value": 0.9711845,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2181,10 +2194,15 @@
             "is_in_doaj": true,
             "is_core": true,
             "listed_in": [
+              "anvur-class-a",
+              "anvur-scientific",
               "cwts-core",
               "doaj",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310310987",
             "host_organization_name": "Multidisciplinary Digital Publishing Institute",
@@ -2280,10 +2298,15 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
             "doaj",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310310987",
           "host_organization_name": "Multidisciplinary Digital Publishing Institute",
@@ -3003,10 +3026,10 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 13
+          "cited_by_count": 12
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2022-11-08T00:00:00"
     },
     {
@@ -3921,9 +3944,15 @@
           "is_core": true,
           "listed_in": [
             "abdc-c",
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
+            "fnege-3",
             "jufo-2",
-            "norway-2"
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -4178,11 +4207,11 @@
         "value_usd": 3970
       },
       "apc_paid": null,
-      "fwci": 4.0583,
+      "fwci": 3.9595,
       "has_fulltext": false,
-      "cited_by_count": 53,
+      "cited_by_count": 52,
       "citation_normalized_percentile": {
-        "value": 0.95144999,
+        "value": 0.94995893,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4440,9 +4469,15 @@
             "is_core": true,
             "listed_in": [
               "abdc-c",
+              "anvur-class-a",
+              "anvur-scientific",
               "cwts-core",
+              "fnege-3",
               "jufo-2",
-              "norway-2"
+              "norway-2",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -4616,14 +4651,14 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 20
+          "cited_by_count": 19
         },
         {
           "year": 2023,
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-10-06T10:28:23.643775",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -31809,10 +31844,15 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
             "ki-jl-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -32141,11 +32181,11 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 0.8643,
+      "fwci": 0.8621,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.67186312,
+        "value": 0.67068266,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32437,10 +32477,15 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
               "ki-jl-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -32543,7 +32588,6 @@
         "https://openalex.org/W4389454517",
         "https://openalex.org/W4389980812",
         "https://openalex.org/W4390145993",
-        "https://openalex.org/W4390241077",
         "https://openalex.org/W4390350965",
         "https://openalex.org/W4390411688",
         "https://openalex.org/W4390577788",
@@ -32556,6 +32600,7 @@
         "https://openalex.org/W4391480521",
         "https://openalex.org/W4391616456",
         "https://openalex.org/W4391708345",
+        "https://openalex.org/W4391994052",
         "https://openalex.org/W4392126419",
         "https://openalex.org/W6851532488",
         "https://openalex.org/W6860125971",
@@ -32589,7 +32634,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35173,8 +35218,10 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "dongbi-d",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-20"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -35552,11 +35599,11 @@
         "currency": "USD",
         "value_usd": 2050
       },
-      "fwci": 1.2046,
+      "fwci": 1.1938,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.75969961,
+        "value": 0.7576407,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35822,7 +35869,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 3,
       "locations": [
         {
           "id": "doi:10.1016/j.ceja.2025.100798",
@@ -35843,8 +35890,10 @@
             "listed_in": [
               "cwts-core",
               "doaj",
+              "dongbi-d",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-20"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -35863,6 +35912,39 @@
           "is_published": true,
           "raw_source_name": "Chemical Engineering Journal Advances",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "doi:10.2139/ssrn.5238207",
+          "doi": "https://doi.org/10.2139/ssrn.5238207",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.2139/ssrn.5238207",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210172589",
+            "display_name": "SSRN Electronic Journal",
+            "issn_l": "1556-5068",
+            "issn": [
+              "1556-5068"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1318003438",
+            "host_organization_name": "RELX Group (Netherlands)",
+            "host_organization_lineage": [
+              "https://openalex.org/I1318003438"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "posted-content"
         },
         {
           "id": "pmh:oai:doaj.org/article:13c0cbb648d74be8a68298ead78b6aae",
@@ -35913,8 +35995,10 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "dongbi-d",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-20"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -36589,7 +36673,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-10-02T10:15:12.560889",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -45637,7 +45721,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -45702,7 +45786,7 @@
             "KR",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -46266,11 +46350,11 @@
         "currency": "AUD",
         "value_usd": 2390
       },
-      "fwci": 1.301,
+      "fwci": 1.2899,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.80365019,
+        "value": 0.80177681,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47258,7 +47342,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-11T09:32:39.932853",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-11-23T00:00:00"
     },
     {
@@ -50569,9 +50653,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-d",
             "jufo-1",
             "ki-jl-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -50859,11 +50946,11 @@
         "value_usd": 2670
       },
       "apc_paid": null,
-      "fwci": 0.4256,
+      "fwci": 0.4239,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.4840322,
+        "value": 0.48099464,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -51113,9 +51200,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-d",
               "jufo-1",
               "ki-jl-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -51231,7 +51321,6 @@
         "https://openalex.org/W4389454517",
         "https://openalex.org/W4389914485",
         "https://openalex.org/W4389923799",
-        "https://openalex.org/W4390241077",
         "https://openalex.org/W4390350965",
         "https://openalex.org/W4390411688",
         "https://openalex.org/W4390561441",
@@ -51240,6 +51329,7 @@
         "https://openalex.org/W4391044745",
         "https://openalex.org/W4391431388",
         "https://openalex.org/W4391616456",
+        "https://openalex.org/W4391994052",
         "https://openalex.org/W4393282349",
         "https://openalex.org/W4393930773",
         "https://openalex.org/W4394964670",
@@ -51297,7 +51387,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -51759,8 +51849,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5143749118",
-            "display_name": "Ahadul Islam Patwary",
+            "id": "https://openalex.org/A5031593698",
+            "display_name": "Md. Ahadul Islam Patwary",
             "orcid": null,
             "observed_orcids": []
           },
@@ -52109,11 +52199,11 @@
         "value_usd": 3190
       },
       "apc_paid": null,
-      "fwci": 6.7349,
+      "fwci": 6.6627,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.94339863,
+        "value": 0.942815,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -52640,7 +52730,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-11T09:32:39.932853",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2026-01-10T00:00:00"
     },
     {
@@ -59805,8 +59895,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-2",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -60213,7 +60307,7 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5001435644",
+            "id": "https://openalex.org/A5090295879",
             "display_name": "Pahmi Husain",
             "orcid": null,
             "observed_orcids": []
@@ -60429,11 +60523,11 @@
         "value_usd": 3890
       },
       "apc_paid": null,
-      "fwci": 0.2916,
+      "fwci": 0.289,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.56211562,
+        "value": 0.55787492,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -60781,8 +60875,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-2",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -60917,7 +61015,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-12-29T00:00:00"
     },
     {
@@ -79354,588 +79452,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4409994417",
-      "doi": "https://doi.org/10.2139/ssrn.5238207",
-      "title": "Enhanced Electrochemical Performance and Boron Removal Capacity of Mg–Al Layered Double Hydroxide Composite for Membrane-Free Capacitive Deionization Applications",
-      "display_name": "Enhanced Electrochemical Performance and Boron Removal Capacity of Mg–Al Layered Double Hydroxide Composite for Membrane-Free Capacitive Deionization Applications",
-      "publication_year": 2025,
-      "publication_date": "2025-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W4409994417",
-        "doi": "https://doi.org/10.2139/ssrn.5238207"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2139/ssrn.5238207",
-        "doi": "https://doi.org/10.2139/ssrn.5238207",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.2139/ssrn.5238207",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210172589",
-          "display_name": "SSRN Electronic Journal",
-          "issn_l": "1556-5068",
-          "issn": [
-            "1556-5068"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/I1318003438",
-          "host_organization_name": "RELX Group (Netherlands)",
-          "host_organization_lineage": [
-            "https://openalex.org/I1318003438"
-          ],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "acceptedVersion",
-        "is_accepted": true,
-        "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "posted-content"
-      },
-      "volume": null,
-      "type": "preprint",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "https://doi.org/10.2139/ssrn.5238207",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5076251382",
-            "display_name": "Billel Salhi",
-            "orcid": "https://orcid.org/0000-0002-7671-7257",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7671-7257"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "billel salhi",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5072286524",
-            "display_name": "Jamilu Usman",
-            "orcid": "https://orcid.org/0000-0002-3800-423X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-3800-423X"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jamilu Usman",
-          "raw_affiliation_strings": [
-            "King Fahd University of Petroleum and Minerals"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5030121582",
-            "display_name": "Ismail Abdulazeez",
-            "orcid": "https://orcid.org/0000-0001-8098-5433",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8098-5433"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Ismail Abdulazeez",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5044973807",
-            "display_name": "Niaz Ali Khan",
-            "orcid": "https://orcid.org/0000-0001-7076-3001",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-7076-3001"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Niaz Khan",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5034568196",
-            "display_name": "Mohammed Benaafi",
-            "orcid": "https://orcid.org/0000-0001-6246-7835",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6246-7835"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed Benaafi",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5073043057",
-            "display_name": "Nadeem Baig",
-            "orcid": "https://orcid.org/0000-0003-2843-1980",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-2843-1980"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Nadeem Baig",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5030371811",
-            "display_name": "Isam H. Aljundi",
-            "orcid": "https://orcid.org/0000-0002-0714-8580",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-0714-8580"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Isam  H. Aljundi",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5076251382"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": null,
-      "has_fulltext": false,
-      "cited_by_count": 0,
-      "citation_normalized_percentile": null,
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12074",
-        "display_name": "Membrane-based Ion Separation Techniques",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2204",
-          "display_name": "Biomedical Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12074",
-          "display_name": "Membrane-based Ion Separation Techniques",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2204",
-            "display_name": "Biomedical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11582",
-          "display_name": "Nanopore and Nanochannel Transport Studies",
-          "score": 0,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2204",
-            "display_name": "Biomedical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10197",
-          "display_name": "Membrane Separation Technologies",
-          "score": 0,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2312",
-            "display_name": "Water Science and Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/boron-removal",
-          "display_name": "boron removal",
-          "score": 0.8429999947547913
-        },
-        {
-          "id": "https://openalex.org/keywords/capacitive-deionization",
-          "display_name": "capacitive deionization",
-          "score": 0.9359999895095825
-        },
-        {
-          "id": "https://openalex.org/keywords/mg-al-layered-double-hydroxide",
-          "display_name": "Mg-Al layered double hydroxide",
-          "score": 0.9070000052452087
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-paper-electrode",
-          "display_name": "carbon paper electrode",
-          "score": 0.7950000166893005
-        },
-        {
-          "id": "https://openalex.org/keywords/electrosorption",
-          "display_name": "electrosorption",
-          "score": 0.8190000057220459
-        },
-        {
-          "id": "https://openalex.org/keywords/ph-dependence",
-          "display_name": "pH dependence",
-          "score": 0.5830000042915344
-        },
-        {
-          "id": "https://openalex.org/keywords/charge-storage",
-          "display_name": "charge storage",
-          "score": 0.3930000066757202
-        },
-        {
-          "id": "https://openalex.org/keywords/cycling-stability",
-          "display_name": "cycling stability",
-          "score": 0.625
-        },
-        {
-          "id": "https://openalex.org/keywords/water-treatment",
-          "display_name": "water treatment",
-          "score": 0.7689999938011169
-        },
-        {
-          "id": "https://openalex.org/keywords/boric-acid",
-          "display_name": "boric acid",
-          "score": 0.6610000133514404
-        },
-        {
-          "id": "https://openalex.org/keywords/energy-consumption",
-          "display_name": "energy consumption",
-          "score": 0.4269999861717224
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2780987889",
-          "wikidata": "https://www.wikidata.org/wiki/Q3560785",
-          "display_name": "Capacitive deionization",
-          "level": 4,
-          "score": 0.949156641960144
-        },
-        {
-          "id": "https://openalex.org/C2775896084",
-          "wikidata": "https://www.wikidata.org/wiki/Q425597",
-          "display_name": "Hydroxide",
-          "level": 2,
-          "score": 0.6318904757499695
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.6169644594192505
-        },
-        {
-          "id": "https://openalex.org/C104779481",
-          "wikidata": "https://www.wikidata.org/wiki/Q50707",
-          "display_name": "Composite number",
-          "level": 2,
-          "score": 0.6135993003845215
-        },
-        {
-          "id": "https://openalex.org/C501308230",
-          "wikidata": "https://www.wikidata.org/wiki/Q618",
-          "display_name": "Boron",
-          "level": 2,
-          "score": 0.5747849941253662
-        },
-        {
-          "id": "https://openalex.org/C52859227",
-          "wikidata": "https://www.wikidata.org/wiki/Q7877",
-          "display_name": "Electrochemistry",
-          "level": 3,
-          "score": 0.5383857488632202
-        },
-        {
-          "id": "https://openalex.org/C41625074",
-          "wikidata": "https://www.wikidata.org/wiki/Q176088",
-          "display_name": "Membrane",
-          "level": 2,
-          "score": 0.5011284351348877
-        },
-        {
-          "id": "https://openalex.org/C206755178",
-          "wikidata": "https://www.wikidata.org/wiki/Q1131271",
-          "display_name": "Capacitive sensing",
-          "level": 2,
-          "score": 0.494368314743042
-        },
-        {
-          "id": "https://openalex.org/C42360764",
-          "wikidata": "https://www.wikidata.org/wiki/Q83588",
-          "display_name": "Chemical engineering",
-          "level": 1,
-          "score": 0.471027672290802
-        },
-        {
-          "id": "https://openalex.org/C159985019",
-          "wikidata": "https://www.wikidata.org/wiki/Q181790",
-          "display_name": "Composite material",
-          "level": 1,
-          "score": 0.2518996000289917
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.18040725588798523
-        },
-        {
-          "id": "https://openalex.org/C17525397",
-          "wikidata": "https://www.wikidata.org/wiki/Q176140",
-          "display_name": "Electrode",
-          "level": 2,
-          "score": 0.11884912848472595
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.0855521559715271
-        },
-        {
-          "id": "https://openalex.org/C119599485",
-          "wikidata": "https://www.wikidata.org/wiki/Q43035",
-          "display_name": "Electrical engineering",
-          "level": 1,
-          "score": 0.07697802782058716
-        },
-        {
-          "id": "https://openalex.org/C55493867",
-          "wikidata": "https://www.wikidata.org/wiki/Q7094",
-          "display_name": "Biochemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C147789679",
-          "wikidata": "https://www.wikidata.org/wiki/Q11372",
-          "display_name": "Physical chemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2139/ssrn.5238207",
-          "doi": "https://doi.org/10.2139/ssrn.5238207",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.2139/ssrn.5238207",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210172589",
-            "display_name": "SSRN Electronic Journal",
-            "issn_l": "1556-5068",
-            "issn": [
-              "1556-5068"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1318003438",
-            "host_organization_name": "RELX Group (Netherlands)",
-            "host_organization_lineage": [
-              "https://openalex.org/I1318003438"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "acceptedVersion",
-          "is_accepted": true,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "posted-content"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.2139/ssrn.5238207",
-        "doi": "https://doi.org/10.2139/ssrn.5238207",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.2139/ssrn.5238207",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210172589",
-          "display_name": "SSRN Electronic Journal",
-          "issn_l": "1556-5068",
-          "issn": [
-            "1556-5068"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/I1318003438",
-          "host_organization_name": "RELX Group (Netherlands)",
-          "host_organization_lineage": [
-            "https://openalex.org/I1318003438"
-          ],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "acceptedVersion",
-        "is_accepted": true,
-        "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "posted-content"
-      },
-      "sustainable_development_goals": [
-        {
-          "display_name": "Clean water and sanitation",
-          "score": 0.965499997138977,
-          "id": "https://metadata.un.org/sdg/6"
-        }
-      ],
-      "sustainable_development_goals_aurora": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2011313503",
-        "https://openalex.org/W2035659989",
-        "https://openalex.org/W3096678290",
-        "https://openalex.org/W4318481349",
-        "https://openalex.org/W4393120210",
-        "https://openalex.org/W2416805390",
-        "https://openalex.org/W2350309967",
-        "https://openalex.org/W2071421210",
-        "https://openalex.org/W1972503611",
-        "https://openalex.org/W1975243029"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [],
-      "updated_date": "2026-10-02T10:15:12.560889",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4414227001",
       "doi": "https://doi.org/10.2118/226945-ms",
       "title": "Geochemical Evolution of Coastal Groundwater in Eastern Saudi Arabia: Insights from Lab-Scale Experiment and Inverse Geochemical Modeling",
@@ -90862,10 +90378,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5146761130",
+            "id": "https://openalex.org/A5006012418",
             "display_name": "Golden Odey",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0002-9938-845X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9938-845X"
+            ]
           },
           "institutions": [
             {
@@ -90966,7 +90484,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.29505375,
+        "value": 0.29282996,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -91380,7 +90898,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-11T09:32:39.932853",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2026-05-05T00:00:00"
     },
     {
@@ -92861,9 +92379,14 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-d",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -93023,8 +92546,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5129062502",
-            "display_name": "Sherif Hanafy",
+            "id": "https://openalex.org/A5104116379",
+            "display_name": "Sherif Mahmoud Hanafy",
             "orcid": "https://orcid.org/0000-0003-4568-2941",
             "observed_orcids": [
               "https://orcid.org/0000-0003-4568-2941"
@@ -93120,7 +92643,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38511546,
+        "value": 0.3752988,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -93443,9 +92966,14 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
+              "dongbi-d",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -93545,7 +93073,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2026-06-19T00:00:00"
     },
     {

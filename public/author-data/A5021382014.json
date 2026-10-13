@@ -161,7 +161,7 @@
       {
         "id": "https://openalex.org/T14047",
         "display_name": "Marine and environmental studies",
-        "value": 0.0000111,
+        "value": 0.0000109,
         "subfield": {
           "id": "https://openalex.org/subfields/1910",
           "display_name": "Oceanography"
@@ -212,7 +212,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000051,
+        "value": 0.000005,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -338,10 +338,14 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-b",
             "erih-plus",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310311721",
           "host_organization_name": "Cambridge University Press",
@@ -809,11 +813,11 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 2.7032,
+      "fwci": 2.6922,
       "has_fulltext": false,
-      "cited_by_count": 49,
+      "cited_by_count": 50,
       "citation_normalized_percentile": {
-        "value": 0.8843014,
+        "value": 0.88374505,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1083,10 +1087,14 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
+              "dongbi-b",
               "erih-plus",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310311721",
             "host_organization_name": "Cambridge University Press",
@@ -1568,7 +1576,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -1623,7 +1631,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-12T09:40:04.860316",
       "created_date": "2025-10-10T00:00:00"
     },
     {
