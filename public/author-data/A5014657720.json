@@ -188,7 +188,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000955,
+        "value": 0.0000944,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -205,7 +205,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000875,
+        "value": 0.0000865,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -222,7 +222,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.000077,
+        "value": 0.0000751,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -239,7 +239,7 @@
       {
         "id": "https://openalex.org/T11852",
         "display_name": "Clay minerals and soil interactions",
-        "value": 0.0000462,
+        "value": 0.0000458,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -256,7 +256,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000385,
+        "value": 0.0000375,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -1083,8 +1083,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -2014,8 +2014,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -2173,10 +2173,16 @@
           "is_core": true,
           "listed_in": [
             "abdc-a",
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-b",
             "jufo-3",
             "ki-jl-1",
-            "norway-1"
+            "norway-1",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -2389,11 +2395,11 @@
         "currency": "USD",
         "value_usd": 4020
       },
-      "fwci": 2.9802,
+      "fwci": 2.9877,
       "has_fulltext": true,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.9143467,
+        "value": 0.91524818,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2633,10 +2639,16 @@
             "is_core": true,
             "listed_in": [
               "abdc-a",
+              "anvur-class-a",
+              "anvur-scientific",
               "cwts-core",
+              "dongbi-b",
               "jufo-3",
               "ki-jl-1",
-              "norway-1"
+              "norway-1",
+              "poland-200",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -2753,7 +2765,7 @@
           "id": "pmh:oai:aura.abdn.ac.uk:2164/24007",
           "doi": null,
           "is_oa": false,
-          "landing_page_url": "https://www.scopus.com/pages/publications/85140272188",
+          "landing_page_url": "https://hdl.handle.net/2164/24007",
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306400966",
@@ -2831,10 +2843,16 @@
           "is_core": true,
           "listed_in": [
             "abdc-a",
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-b",
             "jufo-3",
             "ki-jl-1",
-            "norway-1"
+            "norway-1",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -2858,8 +2876,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.5,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "display_name": "Life on land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -2884,7 +2902,7 @@
         "pdf": "https://content.openalex.org/works/W4306251871.pdf",
         "grobid_xml": "https://content.openalex.org/works/W4306251871.grobid-xml"
       },
-      "referenced_works_count": 46,
+      "referenced_works_count": 44,
       "referenced_works": [
         "https://openalex.org/W1976081739",
         "https://openalex.org/W1976411958",
@@ -2917,13 +2935,11 @@
         "https://openalex.org/W3205521595",
         "https://openalex.org/W3208096233",
         "https://openalex.org/W3212175142",
-        "https://openalex.org/W3212810272",
         "https://openalex.org/W3217665937",
         "https://openalex.org/W4200076748",
         "https://openalex.org/W4200437367",
         "https://openalex.org/W4200610845",
         "https://openalex.org/W4213454963",
-        "https://openalex.org/W4221081531",
         "https://openalex.org/W4229031389",
         "https://openalex.org/W4285206585",
         "https://openalex.org/W4385886977",
@@ -3515,7 +3531,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-06T10:28:23.643775",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4375,8 +4391,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -5983,8 +5999,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -10668,7 +10684,10 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310310987",
           "host_organization_name": "Multidisciplinary Digital Publishing Institute",
@@ -10885,11 +10904,11 @@
         "currency": "CHF",
         "value_usd": 2896
       },
-      "fwci": 3.2857,
+      "fwci": 3.2469,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.93445612,
+        "value": 0.93401639,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11175,7 +11194,10 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310310987",
             "host_organization_name": "Multidisciplinary Digital Publishing Institute",
@@ -11214,7 +11236,10 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310310987",
           "host_organization_name": "Multidisciplinary Digital Publishing Institute",
@@ -12560,8 +12585,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.6100000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -14460,8 +14485,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -15854,8 +15879,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.5,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "display_name": "Life on land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -16956,8 +16981,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -17734,8 +17759,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -18886,8 +18911,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -19879,8 +19904,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -21309,8 +21334,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -22913,8 +22938,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -24818,8 +24843,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.821399986743927,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -26100,11 +26125,11 @@
         "currency": "USD",
         "value_usd": 2950
       },
-      "fwci": 0.8765,
+      "fwci": 0.8768,
       "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.65549174,
+        "value": 0.65568591,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26462,8 +26487,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -26488,7 +26513,7 @@
         "pdf": "https://content.openalex.org/works/W4309609812.pdf",
         "grobid_xml": "https://content.openalex.org/works/W4309609812.grobid-xml"
       },
-      "referenced_works_count": 79,
+      "referenced_works_count": 78,
       "referenced_works": [
         "https://openalex.org/W67243371",
         "https://openalex.org/W332523065",
@@ -26531,7 +26556,6 @@
         "https://openalex.org/W2126248410",
         "https://openalex.org/W2129296842",
         "https://openalex.org/W2131465675",
-        "https://openalex.org/W2141799675",
         "https://openalex.org/W2143174663",
         "https://openalex.org/W2145401399",
         "https://openalex.org/W2152700594",
@@ -27366,7 +27390,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28091,8 +28115,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -28852,9 +28876,13 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "jufo-1",
             "ki-jl-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320006",
           "host_organization_name": "American Chemical Society",
@@ -29075,11 +29103,11 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 1.3113,
+      "fwci": 1.2966,
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.75986032,
+        "value": 0.75723417,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29317,9 +29345,13 @@
             "listed_in": [
               "cwts-core",
               "doaj",
+              "dongbi-c",
               "jufo-1",
               "ki-jl-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320006",
             "host_organization_name": "American Chemical Society",
@@ -29450,9 +29482,13 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "jufo-1",
             "ki-jl-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320006",
           "host_organization_name": "American Chemical Society",
@@ -29475,13 +29511,13 @@
       "sustainable_development_goals": [
         {
           "score": 0.9786999821662903,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
           "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -30570,8 +30606,8 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5112336168",
-            "display_name": "Moemen Ahmed",
+            "id": null,
+            "display_name": "M. K. Ahmed",
             "orcid": null,
             "observed_orcids": []
           },
@@ -30694,11 +30730,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7642,
+      "fwci": 0.7659,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.70463595,
+        "value": 0.70546284,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30968,20 +31004,20 @@
       "sustainable_development_goals": [
         {
           "score": 0.571399986743927,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "study_designs": [],
@@ -31542,7 +31578,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-06T10:28:23.643775",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -31576,8 +31612,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-a",
             "jufo-3",
-            "norway-2"
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319845",
           "host_organization_name": "Geological Society of America",
@@ -31786,11 +31826,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.5328,
+      "fwci": 4.4584,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.9556772,
+        "value": 0.95501422,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -32109,8 +32149,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-a",
               "jufo-3",
-              "norway-2"
+              "norway-2",
+              "poland-200",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319845",
             "host_organization_name": "Geological Society of America",
@@ -32657,8 +32701,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -32871,11 +32919,10 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5103082989",
+            "id": "https://openalex.org/A5059881838",
             "display_name": "Ardiansyah Koeshidayatullah",
-            "orcid": "https://orcid.org/0000-0003-0940-678X",
+            "orcid": "https://orcid.org/0000-0001-7558-8783",
             "observed_orcids": [
-              "https://orcid.org/0000-0003-0940-678X",
               "https://orcid.org/0000-0001-7558-8783"
             ]
           },
@@ -33077,11 +33124,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 1.9444,
+      "fwci": 1.9194,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.83490731,
+        "value": 0.83221397,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33264,8 +33311,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -33291,8 +33342,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -33303,7 +33354,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 138,
+      "referenced_works_count": 137,
       "referenced_works": [
         "https://openalex.org/W101633874",
         "https://openalex.org/W1513110486",
@@ -33388,7 +33439,6 @@
         "https://openalex.org/W2217301490",
         "https://openalex.org/W2243778953",
         "https://openalex.org/W2330463646",
-        "https://openalex.org/W2332143328",
         "https://openalex.org/W2346691606",
         "https://openalex.org/W2476623835",
         "https://openalex.org/W2504353116",
@@ -33475,7 +33525,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2024-07-27T00:00:00"
     },
     {
@@ -34031,8 +34081,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -35841,10 +35891,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": null,
-            "display_name": "Ali Garba Mohammed",
-            "orcid": null,
-            "observed_orcids": []
+            "id": "https://openalex.org/A5014203759",
+            "display_name": "Mohammed Ali Garba",
+            "orcid": "https://orcid.org/0000-0001-6247-8702",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6247-8702"
+            ]
           },
           "institutions": [
             {
@@ -36243,11 +36295,11 @@
         "currency": "USD",
         "value_usd": 2100
       },
-      "fwci": 2.3975,
+      "fwci": 2.3874,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.87975078,
+        "value": 0.87943925,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36634,8 +36686,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.5400000214576721,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -37529,7 +37581,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -38194,8 +38246,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -38453,7 +38505,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5012603201",
-            "display_name": "Simon  Valentin Hohl",
+            "display_name": "Simon V. Hohl",
             "orcid": "https://orcid.org/0000-0002-0522-4973",
             "observed_orcids": [
               "https://orcid.org/0000-0002-0522-4973"
@@ -38793,11 +38845,11 @@
         "value_usd": 2760
       },
       "apc_paid": null,
-      "fwci": 2.8621,
+      "fwci": 2.849,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.90941833,
+        "value": 0.90830481,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -39099,8 +39151,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -39246,7 +39298,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -39797,15 +39849,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "display_name": "Life on land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -41344,8 +41396,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -41491,9 +41543,13 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -41824,11 +41880,11 @@
         "value_usd": 3430
       },
       "apc_paid": null,
-      "fwci": 0.886,
+      "fwci": 0.8766,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.72420564,
+        "value": 0.72113133,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42039,9 +42095,13 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -42067,8 +42127,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -42085,7 +42145,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 126,
+      "referenced_works_count": 125,
       "referenced_works": [
         "https://openalex.org/W195523536",
         "https://openalex.org/W1479920861",
@@ -42189,7 +42249,6 @@
         "https://openalex.org/W3214510172",
         "https://openalex.org/W3217624113",
         "https://openalex.org/W4211186988",
-        "https://openalex.org/W4214840433",
         "https://openalex.org/W4224257417",
         "https://openalex.org/W4280633470",
         "https://openalex.org/W4291222571",
@@ -42237,7 +42296,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -43695,8 +43754,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -44617,9 +44676,13 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-d",
             "jufo-1",
             "ki-jl-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320006",
           "host_organization_name": "American Chemical Society",
@@ -44907,11 +44970,11 @@
         "value_usd": 5000
       },
       "apc_paid": null,
-      "fwci": 0.9828,
+      "fwci": 0.98,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.69910226,
+        "value": 0.69803247,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45167,9 +45230,13 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-d",
               "jufo-1",
               "ki-jl-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320006",
             "host_organization_name": "American Chemical Society",
@@ -45195,8 +45262,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.5,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "display_name": "Life on land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -46260,12 +46327,10 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5061745470",
-            "display_name": "Muhammad Umar",
-            "orcid": "https://orcid.org/0000-0003-0721-4805",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-0721-4805"
-            ]
+            "id": null,
+            "display_name": "M.A. Umar",
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [],
           "countries": [],
@@ -46302,11 +46367,11 @@
         "currency": "USD",
         "value_usd": 1030
       },
-      "fwci": 1.3888,
+      "fwci": 1.3829,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.77527322,
+        "value": 0.77430445,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46681,20 +46746,20 @@
       "sustainable_development_goals": [
         {
           "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         },
         {
           "score": 0.5378999710083008,
-          "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [],
@@ -47328,7 +47393,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -47364,7 +47429,10 @@
           "listed_in": [
             "cwts-core",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-40",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -47819,11 +47887,11 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 1.22,
+      "fwci": 1.2128,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.71137378,
+        "value": 0.70954657,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48079,7 +48147,10 @@
             "listed_in": [
               "cwts-core",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-40",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -48704,15 +48775,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.9789999723434448,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.7900000214576721,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [],
@@ -52705,20 +52776,20 @@
       "sustainable_development_goals": [
         {
           "score": 1,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         },
         {
           "score": 0.807699978351593,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [],
@@ -54322,20 +54393,20 @@
       "sustainable_development_goals": [
         {
           "score": 0.9090999960899353,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "study_designs": [],
@@ -55748,15 +55819,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8571000099182129,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.6399999856948853,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [],
@@ -56851,20 +56922,20 @@
       "sustainable_development_goals": [
         {
           "score": 0.821399986743927,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
           "score": 0.5690000057220459,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -58202,8 +58273,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8751643896102905,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -59224,8 +59295,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-3",
-            "norway-2"
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -59340,11 +59415,10 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5103082989",
+            "id": "https://openalex.org/A5059881838",
             "display_name": "Ardiansyah Koeshidayatullah",
-            "orcid": "https://orcid.org/0000-0003-0940-678X",
+            "orcid": "https://orcid.org/0000-0001-7558-8783",
             "observed_orcids": [
-              "https://orcid.org/0000-0003-0940-678X",
               "https://orcid.org/0000-0001-7558-8783"
             ]
           },
@@ -59565,11 +59639,11 @@
         "currency": "USD",
         "value_usd": 3600
       },
-      "fwci": 0.6787,
+      "fwci": 0.6673,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.6332967,
+        "value": 0.62894679,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -59833,8 +59907,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-3",
-              "norway-2"
+              "norway-2",
+              "poland-200",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -59874,8 +59952,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-3",
-            "norway-2"
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -59899,8 +59981,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -60690,7 +60772,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -61114,8 +61196,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -62090,8 +62172,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.5600000023841858,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -63485,8 +63567,8 @@
       "sustainable_development_goals": [
         {
           "score": 1,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -64128,8 +64210,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "study_designs": [],
@@ -64699,8 +64781,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -65624,11 +65706,10 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5103082989",
+            "id": "https://openalex.org/A5059881838",
             "display_name": "Ardiansyah Koeshidayatullah",
-            "orcid": "https://orcid.org/0000-0003-0940-678X",
+            "orcid": "https://orcid.org/0000-0001-7558-8783",
             "observed_orcids": [
-              "https://orcid.org/0000-0003-0940-678X",
               "https://orcid.org/0000-0001-7558-8783"
             ]
           },
@@ -65836,7 +65917,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.45125786,
+        "value": 0.4516129,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -66113,8 +66194,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -66903,7 +66984,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -68064,15 +68145,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.46149998903274536,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.5982216000556946,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -68520,7 +68601,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.35235444,
+        "value": 0.34608295,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -68887,8 +68968,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8707032203674316,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -68905,7 +68986,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 34,
+      "referenced_works_count": 33,
       "referenced_works": [
         "https://openalex.org/W1821990314",
         "https://openalex.org/W1851114627",
@@ -68926,7 +69007,6 @@
         "https://openalex.org/W2156433034",
         "https://openalex.org/W2169496533",
         "https://openalex.org/W2217301490",
-        "https://openalex.org/W2219454636",
         "https://openalex.org/W2285314033",
         "https://openalex.org/W2622268643",
         "https://openalex.org/W2932696668",
@@ -69943,7 +70023,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2026-05-31T00:00:00"
     },
     {
@@ -70280,10 +70360,12 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5146407060",
-            "display_name": "Kevin Taylor",
-            "orcid": null,
-            "observed_orcids": []
+            "id": "https://openalex.org/A5088735262",
+            "display_name": "Kevin G. Taylor",
+            "orcid": "https://orcid.org/0000-0001-7024-5001",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7024-5001"
+            ]
           },
           "institutions": [
             {
@@ -70404,7 +70486,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.35994223,
+        "value": 0.35390223,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -70722,8 +70804,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -70741,7 +70823,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 115,
+      "referenced_works_count": 113,
       "referenced_works": [
         "https://openalex.org/W60944675",
         "https://openalex.org/W66185056",
@@ -70841,8 +70923,6 @@
         "https://openalex.org/W4220912955",
         "https://openalex.org/W4229460467",
         "https://openalex.org/W4229524475",
-        "https://openalex.org/W4229554426",
-        "https://openalex.org/W4238791637",
         "https://openalex.org/W4254331893",
         "https://openalex.org/W4284969105",
         "https://openalex.org/W4293070431",
@@ -70862,7 +70942,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2026-06-13T00:00:00"
     },
     {
@@ -72283,8 +72363,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.4896319806575775,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -73742,8 +73822,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],

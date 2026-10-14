@@ -22,7 +22,7 @@
     ],
     "full_name": "Abdulkader M. Alafifi",
     "works_count": 76,
-    "cited_by_count": 1846,
+    "cited_by_count": 1847,
     "summary_stats": {
       "2yr_mean_citedness": 4.407407407407407,
       "h_index": 16,
@@ -224,7 +224,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0002148,
+        "value": 0.0002122,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -241,7 +241,7 @@
       {
         "id": "https://openalex.org/T10967",
         "display_name": "Carbon Dioxide Capture Technologies",
-        "value": 0.0001007,
+        "value": 0.0000997,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -258,7 +258,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0000899,
+        "value": 0.0000876,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -275,7 +275,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000489,
+        "value": 0.0000475,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -292,7 +292,7 @@
       {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "value": 0.0000469,
+        "value": 0.0000459,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -452,7 +452,7 @@
         "year": 2023,
         "works_count": 11,
         "oa_works_count": 10,
-        "cited_by_count": 313
+        "cited_by_count": 314
       },
       {
         "year": 2024,
@@ -489,7 +489,7 @@
     ],
     "block_key": "a alafifi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5074794653",
-    "updated_date": "2026-10-12T12:34:37",
+    "updated_date": "2026-10-13T12:33:52",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1040,9 +1040,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -3389,9 +3389,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -5133,21 +5133,21 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.9853000044822693,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.9853000044822693
         },
         {
-          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.8299999833106995
         }
       ],
       "study_designs": [],
@@ -6028,19 +6028,19 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         },
         {
-          "score": 0.833299994468689,
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.833299994468689
         },
         {
-          "score": 0.6773999929428101,
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.6773999929428101
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -7373,11 +7373,11 @@
         "currency": "USD",
         "value_usd": 4540
       },
-      "fwci": 6.9298,
+      "fwci": 6.9131,
       "has_fulltext": true,
       "cited_by_count": 83,
       "citation_normalized_percentile": {
-        "value": 0.98479549,
+        "value": 0.98461978,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7732,14 +7732,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         },
         {
-          "score": 0.8485000133514404,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.8485000133514404
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -7760,7 +7760,7 @@
         "pdf": "https://content.openalex.org/works/W4385728002.pdf",
         "grobid_xml": "https://content.openalex.org/works/W4385728002.grobid-xml"
       },
-      "referenced_works_count": 125,
+      "referenced_works_count": 124,
       "referenced_works": [
         "https://openalex.org/W203584942",
         "https://openalex.org/W578079095",
@@ -7859,7 +7859,6 @@
         "https://openalex.org/W4221124205",
         "https://openalex.org/W4225272938",
         "https://openalex.org/W4234645253",
-        "https://openalex.org/W4252874919",
         "https://openalex.org/W4281286051",
         "https://openalex.org/W4283323241",
         "https://openalex.org/W4295806883",
@@ -8744,7 +8743,7 @@
           "cited_by_count": 21
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9263,9 +9262,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -11146,9 +11145,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -12070,7 +12069,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5058263186",
-            "display_name": "Abdirizak Ali Omar",
+            "display_name": "Abdirizak Omar",
             "orcid": "https://orcid.org/0000-0003-1887-4411",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1887-4411"
@@ -12503,11 +12502,11 @@
         "currency": "USD",
         "value_usd": 2190
       },
-      "fwci": 2.5318,
+      "fwci": 2.5316,
       "has_fulltext": true,
       "cited_by_count": 46,
       "citation_normalized_percentile": {
-        "value": 0.89630056,
+        "value": 0.89634287,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13047,21 +13046,21 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         },
         {
-          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.6618000268936157
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.46000000834465027
         }
       ],
       "study_designs": [],
@@ -13755,1588 +13754,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4406872080",
-      "doi": "https://doi.org/10.1016/j.ccst.2025.100375",
-      "title": "Decarbonizing Saudi Arabia energy and industrial sectors: Assessment of carbon capture cost",
-      "display_name": "Decarbonizing Saudi Arabia energy and industrial sectors: Assessment of carbon capture cost",
-      "publication_year": 2025,
-      "publication_date": "2025-01-27",
-      "ids": {
-        "openalex": "https://openalex.org/W4406872080",
-        "doi": "https://doi.org/10.1016/j.ccst.2025.100375"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.ccst.2025.100375",
-        "doi": "https://doi.org/10.1016/j.ccst.2025.100375",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.ccst.2025.100375",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210236580",
-          "display_name": "Carbon Capture Science & Technology",
-          "issn_l": "2772-6568",
-          "issn": [
-            "2772-6568"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "doaj",
-            "jufo-1",
-            "norway-1"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Carbon Capture Science &amp; Technology",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://doi.org/10.1016/j.ccst.2025.100375",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5050034030",
-            "display_name": "Feras Rowaihy",
-            "orcid": "https://orcid.org/0000-0002-0240-4290",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-0240-4290"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Feras Rowaihy",
-          "raw_affiliation_strings": [
-            "King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5069874671",
-            "display_name": "Ali Hamieh",
-            "orcid": "https://orcid.org/0000-0002-5218-3617",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-5218-3617"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ali Hamieh",
-          "raw_affiliation_strings": [
-            "King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5114305640",
-            "display_name": "Naser Odeh",
-            "orcid": "https://orcid.org/0009-0007-8206-1024",
-            "observed_orcids": [
-              "https://orcid.org/0009-0007-8206-1024"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210095435",
-              "display_name": "King Abdullah Petroleum Studies and Research Center",
-              "ror": "https://ror.org/00qd31w11",
-              "country_code": "SA",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210095435"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Naser Odeh",
-          "raw_affiliation_strings": [
-            "King Abdullah Petroleum Studies and Research Center (KAPSARC), Riyadh 11672, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Abdullah Petroleum Studies and Research Center (KAPSARC), Riyadh 11672, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210095435"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5028526938",
-            "display_name": "Mohamad Issa Hejazi",
-            "orcid": "https://orcid.org/0000-0003-4194-2208",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-4194-2208"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210095435",
-              "display_name": "King Abdullah Petroleum Studies and Research Center",
-              "ror": "https://ror.org/00qd31w11",
-              "country_code": "SA",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210095435"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohamad Hejazi",
-          "raw_affiliation_strings": [
-            "King Abdullah Petroleum Studies and Research Center (KAPSARC), Riyadh 11672, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Abdullah Petroleum Studies and Research Center (KAPSARC), Riyadh 11672, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210095435"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5031210408",
-            "display_name": "Mohammed Al-Juaied",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed Al-Juaied",
-          "raw_affiliation_strings": [
-            "King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5074794653",
-            "display_name": "Abdulkader M. Afifi",
-            "orcid": "https://orcid.org/0000-0002-3193-4792",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-3193-4792"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdulkader M. Afifi",
-          "raw_affiliation_strings": [
-            "King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5067974945",
-            "display_name": "Hussein Hoteit",
-            "orcid": "https://orcid.org/0000-0002-3900-7272",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-3900-7272"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Hussein Hoteit",
-          "raw_affiliation_strings": [
-            "King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-3900-7272",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5050034030",
-        "https://openalex.org/A5067974945"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I71920554"
-      ],
-      "apc_list": {
-        "value": 2000,
-        "currency": "USD",
-        "value_usd": 2000
-      },
-      "apc_paid": {
-        "value": 2000,
-        "currency": "USD",
-        "value_usd": 2000
-      },
-      "fwci": 4.8215,
-      "has_fulltext": false,
-      "cited_by_count": 16,
-      "citation_normalized_percentile": {
-        "value": 0.96033824,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 99,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "14",
-        "issue": null,
-        "first_page": "100375",
-        "last_page": "100375"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10967",
-        "display_name": "Carbon Dioxide Capture Technologies",
-        "score": 0.9839000105857849,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2210",
-          "display_name": "Mechanical Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10967",
-          "display_name": "Carbon Dioxide Capture Technologies",
-          "score": 0.9839000105857849,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11302",
-          "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 0.0052999998442828655,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10471",
-          "display_name": "Climate Change Policy and Economics",
-          "score": 0.0032999999821186066,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2002",
-            "display_name": "Economics and Econometrics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/20",
-            "display_name": "Economics, Econometrics and Finance"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/co2-capture-cost",
-          "display_name": "CO2 capture cost",
-          "score": 0.7509999871253967
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-capture-utilization-and-storage",
-          "display_name": "carbon capture utilization and storage",
-          "score": 0.8479999899864197
-        },
-        {
-          "id": "https://openalex.org/keywords/saudi-arabia",
-          "display_name": "Saudi Arabia",
-          "score": 0.621999979019165
-        },
-        {
-          "id": "https://openalex.org/keywords/decarbonization",
-          "display_name": "decarbonization",
-          "score": 0.8930000066757202
-        },
-        {
-          "id": "https://openalex.org/keywords/co2-emissions",
-          "display_name": "CO2 emissions",
-          "score": 0.6729999780654907
-        },
-        {
-          "id": "https://openalex.org/keywords/ammonia-synthesis",
-          "display_name": "ammonia synthesis",
-          "score": 0.8109999895095825
-        },
-        {
-          "id": "https://openalex.org/keywords/petrochemicals",
-          "display_name": "petrochemicals",
-          "score": 0.6660000085830688
-        },
-        {
-          "id": "https://openalex.org/keywords/cement-industry",
-          "display_name": "cement industry",
-          "score": 0.6019999980926514
-        },
-        {
-          "id": "https://openalex.org/keywords/steelmaking",
-          "display_name": "steel industry",
-          "score": 0.9490000009536743
-        },
-        {
-          "id": "https://openalex.org/keywords/desalination",
-          "display_name": "desalination",
-          "score": 0.8790000081062317
-        },
-        {
-          "id": "https://openalex.org/keywords/refinery-emissions",
-          "display_name": "refinery emissions",
-          "score": 0.5979999899864197
-        },
-        {
-          "id": "https://openalex.org/keywords/economies-of-scale",
-          "display_name": "economies of scale",
-          "score": 0.6629999876022339
-        },
-        {
-          "id": "https://openalex.org/keywords/co2-concentration",
-          "display_name": "CO2 concentration",
-          "score": 0.949999988079071
-        },
-        {
-          "id": "https://openalex.org/keywords/mineral-carbonation",
-          "display_name": "CO2 mineralization",
-          "score": 0.6380000114440918
-        },
-        {
-          "id": "https://openalex.org/keywords/net-zero-emissions",
-          "display_name": "net-zero emissions",
-          "score": 0.7390000224113464
-        },
-        {
-          "id": "https://openalex.org/keywords/capital-and-operating-costs",
-          "display_name": "capital and operating costs",
-          "score": 0.6700000166893005
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C140205800",
-          "wikidata": "https://www.wikidata.org/wiki/Q5860",
-          "display_name": "Carbon fibers",
-          "level": 3,
-          "score": 0.5069699287414551
-        },
-        {
-          "id": "https://openalex.org/C175605778",
-          "wikidata": "https://www.wikidata.org/wiki/Q3299701",
-          "display_name": "Natural resource economics",
-          "level": 1,
-          "score": 0.476013720035553
-        },
-        {
-          "id": "https://openalex.org/C2985347565",
-          "wikidata": "https://www.wikidata.org/wiki/Q2151621",
-          "display_name": "Energy sector",
-          "level": 2,
-          "score": 0.4757654070854187
-        },
-        {
-          "id": "https://openalex.org/C144133560",
-          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
-          "display_name": "Business",
-          "level": 0,
-          "score": 0.44049936532974243
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.3613392412662506
-        },
-        {
-          "id": "https://openalex.org/C162324750",
-          "wikidata": "https://www.wikidata.org/wiki/Q8134",
-          "display_name": "Economics",
-          "level": 0,
-          "score": 0.21780037879943848
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.1492202877998352
-        },
-        {
-          "id": "https://openalex.org/C104779481",
-          "wikidata": "https://www.wikidata.org/wiki/Q50707",
-          "display_name": "Composite number",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C11413529",
-          "wikidata": "https://www.wikidata.org/wiki/Q8366",
-          "display_name": "Algorithm",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.ccst.2025.100375",
-          "doi": "https://doi.org/10.1016/j.ccst.2025.100375",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1016/j.ccst.2025.100375",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210236580",
-            "display_name": "Carbon Capture Science & Technology",
-            "issn_l": "2772-6568",
-            "issn": [
-              "2772-6568"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "doaj",
-              "jufo-1",
-              "norway-1"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Carbon Capture Science &amp; Technology",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:9297ffc8380b4527be79bb5914ba7d44",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://doaj.org/article/9297ffc8380b4527be79bb5914ba7d44",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Carbon Capture Science & Technology, Vol 14, Iss , Pp 100375- (2025)",
-          "raw_type": "article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1016/j.ccst.2025.100375",
-        "doi": "https://doi.org/10.1016/j.ccst.2025.100375",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.ccst.2025.100375",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210236580",
-          "display_name": "Carbon Capture Science & Technology",
-          "issn_l": "2772-6568",
-          "issn": [
-            "2772-6568"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "doaj",
-            "jufo-1",
-            "norway-1"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Carbon Capture Science &amp; Technology",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
-        },
-        {
-          "score": 0.7207000255584717,
-          "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
-        },
-        {
-          "score": 0.5925999879837036,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
-        },
-        {
-          "score": 0.5690000057220459,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
-        }
-      ],
-      "sustainable_development_goals_aurora": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 36,
-      "referenced_works": [
-        "https://openalex.org/W1968099746",
-        "https://openalex.org/W2007460821",
-        "https://openalex.org/W2094947092",
-        "https://openalex.org/W2748060881",
-        "https://openalex.org/W2767126550",
-        "https://openalex.org/W2988278250",
-        "https://openalex.org/W2992440055",
-        "https://openalex.org/W3026270809",
-        "https://openalex.org/W3043067650",
-        "https://openalex.org/W3129779870",
-        "https://openalex.org/W3159669572",
-        "https://openalex.org/W3174398210",
-        "https://openalex.org/W4200630664",
-        "https://openalex.org/W4221088905",
-        "https://openalex.org/W4226477006",
-        "https://openalex.org/W4230023958",
-        "https://openalex.org/W4238715790",
-        "https://openalex.org/W4295806883",
-        "https://openalex.org/W4308025008",
-        "https://openalex.org/W4312144002",
-        "https://openalex.org/W4315700944",
-        "https://openalex.org/W4367721558",
-        "https://openalex.org/W4383341015",
-        "https://openalex.org/W4389195056",
-        "https://openalex.org/W4390086245",
-        "https://openalex.org/W4390571943",
-        "https://openalex.org/W4398155118",
-        "https://openalex.org/W6601527305",
-        "https://openalex.org/W6769911908",
-        "https://openalex.org/W6770818547",
-        "https://openalex.org/W6781001975",
-        "https://openalex.org/W6801504114",
-        "https://openalex.org/W6842871623",
-        "https://openalex.org/W6887844090",
-        "https://openalex.org/W6906725848",
-        "https://openalex.org/W7028356184"
-      ],
-      "related_works": [
-        "https://openalex.org/W4391375266",
-        "https://openalex.org/W2808690239",
-        "https://openalex.org/W4237675832",
-        "https://openalex.org/W3106872178",
-        "https://openalex.org/W4313194930",
-        "https://openalex.org/W3007404728",
-        "https://openalex.org/W2374021052",
-        "https://openalex.org/W2110536732",
-        "https://openalex.org/W2765153054",
-        "https://openalex.org/W2596173151"
-      ],
-      "abstract_inverted_index": {
-        "2": [
-          110,
-          144
-        ],
-        "2022": [
-          106
-        ],
-        "The": [
-          0,
-          108,
-          136,
-          161,
-          256,
-          310
-        ],
-        "global": [
-          1,
-          291,
-          338
-        ],
-        "drive": [
-          2
-        ],
-        "for": [
-          3,
-          170,
-          271,
-          306,
-          332
-        ],
-        "net-zero": [
-          4,
-          61,
-          339
-        ],
-        "emissions": [
-          5,
-          21,
-          62,
-          85
-        ],
-        "has": [
-          6,
-          57
-        ],
-        "highlighted": [
-          7
-        ],
-        "carbon": [
-          8
-        ],
-        "capture,": [
-          9
-        ],
-        "utilization,": [
-          10
-        ],
-        "and": [
-          11,
-          24,
-          39,
-          101,
-          132,
-          157,
-          181,
-          228,
-          245,
-          253,
-          320,
-          326
-        ],
-        "storage": [
-          12,
-          283
-        ],
-        "(CCUS)": [
-          13
-        ],
-        "as": [
-          14,
-          201,
-          267,
-          286
-        ],
-        "a": [
-          15,
-          31,
-          158,
-          164,
-          330
-        ],
-        "critical": [
-          16
-        ],
-        "tool": [
-          17
-        ],
-        "to": [
-          18,
-          42,
-          59,
-          220,
-          315,
-          324,
-          337
-        ],
-        "reduce": [
-          19
-        ],
-        "CO₂": [
-          20,
-          36,
-          52,
-          84,
-          166,
-          188,
-          211,
-          229
-        ],
-        "from": [
-          22,
-          124
-        ],
-        "energy": [
-          23
-        ],
-        "industrial": [
-          25,
-          126,
-          247,
-          298
-        ],
-        "sectors.": [
-          26
-        ],
-        "Achieving": [
-          27
-        ],
-        "climate": [
-          28
-        ],
-        "goals": [
-          29
-        ],
-        "necessitates": [
-          30
-        ],
-        "comprehensive": [
-          32,
-          165
-        ],
-        "understanding": [
-          33
-        ],
-        "of": [
-          34,
-          49,
-          69,
-          83,
-          142,
-          176,
-          191,
-          226
-        ],
-        "regional": [
-          35,
-          325
-        ],
-        "emission": [
-          37,
-          118
-        ],
-        "profiles": [
-          38
-        ],
-        "capture": [
-          40,
-          111,
-          138,
-          167,
-          177,
-          189,
-          236,
-          292,
-          318
-        ],
-        "costs": [
-          41,
-          112,
-          178,
-          218,
-          293
-        ],
-        "inform": [
-          43
-        ],
-        "effective": [
-          44
-        ],
-        "decarbonization": [
-          45
-        ],
-        "strategies.": [
-          46
-        ],
-        "As": [
-          47
-        ],
-        "one": [
-          48
-        ],
-        "the": [
-          50,
-          66,
-          73,
-          174,
-          202,
-          251,
-          268,
-          276,
-          313,
-          333
-        ],
-        "largest": [
-          51
-        ],
-        "emitters": [
-          53
-        ],
-        "globally,": [
-          54
-        ],
-        "Saudi": [
-          55,
-          90,
-          171,
-          296
-        ],
-        "Arabia": [
-          56
-        ],
-        "committed": [
-          58
-        ],
-        "achieving": [
-          60
-        ],
-        "by": [
-          63,
-          115,
-          147,
-          208,
-          301
-        ],
-        "2060.": [
-          64
-        ],
-        "However,": [
-          65
-        ],
-        "economic": [
-          67,
-          155
-        ],
-        "implications": [
-          68
-        ],
-        "deploying": [
-          70
-        ],
-        "CCUS": [
-          71,
-          308
-        ],
-        "within": [
-          72
-        ],
-        "Kingdom": [
-          74
-        ],
-        "remain": [
-          75
-        ],
-        "insufficiently": [
-          76
-        ],
-        "explored.": [
-          77
-        ],
-        "This": [
-          78
-        ],
-        "work": [
-          79
-        ],
-        "provides": [
-          80
-        ],
-        "updated": [
-          81
-        ],
-        "estimates": [
-          82
-        ],
-        "across": [
-          86,
-          179,
-          196
-        ],
-        "key": [
-          87
-        ],
-        "sectors": [
-          88
-        ],
-        "in": [
-          89,
-          234,
-          242,
-          250,
-          264
-        ],
-        "Arabia,": [
-          91,
-          172
-        ],
-        "including": [
-          92,
-          128
-        ],
-        "electricity,": [
-          93
-        ],
-        "petrochemicals": [
-          94
-        ],
-        ",": [
-          95,
-          103
-        ],
-        "refineries,": [
-          96
-        ],
-        "cement,": [
-          97
-        ],
-        "steel,": [
-          98
-        ],
-        "ammonia": [
-          99,
-          243
-        ],
-        "production,": [
-          100
-        ],
-        "desalination": [
-          102
-        ],
-        "based": [
-          104
-        ],
-        "on": [
-          105,
-          282
-        ],
-        "data.": [
-          107
-        ],
-        "CO": [
-          109,
-          143
-        ],
-        "are": [
-          113
-        ],
-        "estimated": [
-          114
-        ],
-        "incorporating": [
-          116
-        ],
-        "stationary": [
-          117
-        ],
-        "plant": [
-          119
-        ],
-        "data": [
-          120
-        ],
-        "with": [
-          121,
-          193,
-          238,
-          259
-        ],
-        "reference": [
-          122
-        ],
-        "cases": [
-          123
-        ],
-        "analogous": [
-          125
-        ],
-        "sectors,": [
-          127
-        ],
-        "capital": [
-          129
-        ],
-        "expenditure": [
-          130,
-          134
-        ],
-        "(CAPEX)": [
-          131
-        ],
-        "operating": [
-          133
-        ],
-        "(OPEX).": [
-          135
-        ],
-        "total": [
-          137
-        ],
-        "cost": [
-          139,
-          150,
-          168,
-          190
-        ],
-        "per": [
-          140
-        ],
-        "ton": [
-          141
-        ],
-        "is": [
-          145,
-          304
-        ],
-        "determined": [
-          146
-        ],
-        "combining": [
-          148
-        ],
-        "these": [
-          149
-        ],
-        "components": [
-          151
-        ],
-        "using": [
-          152
-        ],
-        "an": [
-          153,
-          186
-        ],
-        "established": [
-          154
-        ],
-        "model": [
-          156
-        ],
-        "custom-developed": [
-          159
-        ],
-        "tool.": [
-          160
-        ],
-        "study": [
-          162,
-          311
-        ],
-        "constructs": [
-          163
-        ],
-        "curve": [
-          169
-        ],
-        "highlighting": [
-          173
-        ],
-        "variability": [
-          175,
-          195
-        ],
-        "regions": [
-          180
-        ],
-        "industries.": [
-          182,
-          197
-        ],
-        "Our": [
-          183
-        ],
-        "analysis": [
-          184
-        ],
-        "indicates": [
-          185
-        ],
-        "average": [
-          187
-        ],
-        "$69/tCO₂,": [
-          192
-        ],
-        "substantial": [
-          194
-        ],
-        "Ammonia": [
-          198
-        ],
-        "production": [
-          199,
-          244
-        ],
-        "emerges": [
-          200,
-          266
-        ],
-        "most": [
-          203,
-          269
-        ],
-        "cost-efficient": [
-          204
-        ],
-        "at": [
-          205
-        ],
-        "$11/tCO₂,": [
-          206
-        ],
-        "driven": [
-          207
-        ],
-        "its": [
-          209,
-          260
-        ],
-        "high": [
-          210
-        ],
-        "concentration,": [
-          212
-        ],
-        "whereas": [
-          213
-        ],
-        "smaller-scale": [
-          214
-        ],
-        "operations": [
-          215
-        ],
-        "can": [
-          216
-        ],
-        "incur": [
-          217
-        ],
-        "up": [
-          219
-        ],
-        "$189/tCO₂.": [
-          221
-        ],
-        "Results": [
-          222
-        ],
-        "show": [
-          223
-        ],
-        "that": [
-          224,
-          295
-        ],
-        "economies": [
-          225
-        ],
-        "scale": [
-          227
-        ],
-        "concentration": [
-          230
-        ],
-        "play": [
-          231
-        ],
-        "pivotal": [
-          232
-        ],
-        "roles": [
-          233
-        ],
-        "determining": [
-          235
-        ],
-        "feasibility,": [
-          237
-        ],
-        "low-cost": [
-          239,
-          317
-        ],
-        "opportunities": [
-          240,
-          319
-        ],
-        "identified": [
-          241
-        ],
-        "high-emission": [
-          246
-        ],
-        "clusters,": [
-          248
-        ],
-        "particularly": [
-          249
-        ],
-        "Eastern": [
-          252,
-          257
-        ],
-        "Western": [
-          254,
-          277
-        ],
-        "regions.": [
-          255
-        ],
-        "region,": [
-          258
-        ],
-        "planned": [
-          261
-        ],
-        "CCS": [
-          262
-        ],
-        "hub": [
-          263
-        ],
-        "Jubail,": [
-          265
-        ],
-        "promising": [
-          270
-        ],
-        "near-term": [
-          272
-        ],
-        "deployment.": [
-          273
-        ],
-        "In": [
-          274
-        ],
-        "contrast,": [
-          275
-        ],
-        "region": [
-          278
-        ],
-        "requires": [
-          279
-        ],
-        "additional": [
-          280
-        ],
-        "focus": [
-          281
-        ],
-        "alternatives": [
-          284
-        ],
-        "such": [
-          285
-        ],
-        "mineralization": [
-          287
-        ],
-        ".": [
-          288
-        ],
-        "Benchmarking": [
-          289
-        ],
-        "against": [
-          290
-        ],
-        "reveals": [
-          294
-        ],
-        "Arabia's": [
-          297
-        ],
-        "landscape,": [
-          299
-        ],
-        "characterized": [
-          300
-        ],
-        "large-scale": [
-          302
-        ],
-        "emitters,": [
-          303
-        ],
-        "well-positioned": [
-          305
-        ],
-        "cost-effective": [
-          307
-        ],
-        "implementation.": [
-          309
-        ],
-        "highlights": [
-          312
-        ],
-        "need": [
-          314
-        ],
-        "prioritize": [
-          316
-        ],
-        "develop": [
-          321
-        ],
-        "strategies": [
-          322
-        ],
-        "tailored": [
-          323
-        ],
-        "sector-specific": [
-          327
-        ],
-        "conditions,": [
-          328
-        ],
-        "offering": [
-          329
-        ],
-        "roadmap": [
-          331
-        ],
-        "Kingdom's": [
-          334
-        ],
-        "significant": [
-          335
-        ],
-        "contribution": [
-          336
-        ],
-        "ambitions.": [
-          340
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 7
-        }
-      ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17530,16 +15948,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4399999976158142
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -18378,8 +16796,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-a",
             "jufo-3",
-            "norway-2"
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -18727,11 +17149,11 @@
         "currency": "USD",
         "value_usd": 4940
       },
-      "fwci": 8.6439,
+      "fwci": 8.5223,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.98201439,
+        "value": 0.98199167,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18968,8 +17390,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-a",
               "jufo-3",
-              "norway-2"
+              "norway-2",
+              "poland-200",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -19040,8 +17466,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-a",
             "jufo-3",
-            "norway-2"
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -19064,9 +17494,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8500000238418579
         }
       ],
       "study_designs": [],
@@ -19693,8 +18123,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-a",
             "jufo-3",
-            "norway-2"
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319845",
           "host_organization_name": "Geological Society of America",
@@ -19993,11 +18427,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.6278,
+      "fwci": 4.6265,
       "has_fulltext": true,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.95126945,
+        "value": 0.95114943,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20305,8 +18739,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-a",
               "jufo-3",
-              "norway-2"
+              "norway-2",
+              "poland-200",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319845",
             "host_organization_name": "Geological Society of America",
@@ -20377,8 +18815,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-a",
             "jufo-3",
-            "norway-2"
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319845",
           "host_organization_name": "Geological Society of America",
@@ -20401,9 +18843,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -21630,9 +20072,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -22795,8 +21237,12 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319748",
           "host_organization_name": "EDP Sciences",
@@ -23045,11 +21491,11 @@
         "currency": "EUR",
         "value_usd": 539
       },
-      "fwci": 7.409,
+      "fwci": 7.3048,
       "has_fulltext": true,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.9750866,
+        "value": 0.97527214,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -23249,8 +21695,12 @@
             "listed_in": [
               "cwts-core",
               "doaj",
+              "dongbi-c",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319748",
             "host_organization_name": "EDP Sciences",
@@ -23415,8 +21865,12 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319748",
           "host_organization_name": "EDP Sciences",
@@ -23441,9 +21895,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -23946,6 +22400,1589 @@
       "created_date": "2024-04-13T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4406872080",
+      "doi": "https://doi.org/10.1016/j.ccst.2025.100375",
+      "title": "Decarbonizing Saudi Arabia energy and industrial sectors: Assessment of carbon capture cost",
+      "display_name": "Decarbonizing Saudi Arabia energy and industrial sectors: Assessment of carbon capture cost",
+      "publication_year": 2025,
+      "publication_date": "2025-01-27",
+      "ids": {
+        "openalex": "https://openalex.org/W4406872080",
+        "doi": "https://doi.org/10.1016/j.ccst.2025.100375"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.ccst.2025.100375",
+        "doi": "https://doi.org/10.1016/j.ccst.2025.100375",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.ccst.2025.100375",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210236580",
+          "display_name": "Carbon Capture Science & Technology",
+          "issn_l": "2772-6568",
+          "issn": [
+            "2772-6568"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "dongbi-d",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Carbon Capture Science &amp; Technology",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1016/j.ccst.2025.100375",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5050034030",
+            "display_name": "Feras Rowaihy",
+            "orcid": "https://orcid.org/0000-0002-0240-4290",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0240-4290"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Feras Rowaihy",
+          "raw_affiliation_strings": [
+            "King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5069874671",
+            "display_name": "Ali Hamieh",
+            "orcid": "https://orcid.org/0000-0002-5218-3617",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-5218-3617"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ali Hamieh",
+          "raw_affiliation_strings": [
+            "King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5114305640",
+            "display_name": "Naser A. Odeh",
+            "orcid": "https://orcid.org/0009-0007-8206-1024",
+            "observed_orcids": [
+              "https://orcid.org/0009-0007-8206-1024"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210095435",
+              "display_name": "King Abdullah Petroleum Studies and Research Center",
+              "ror": "https://ror.org/00qd31w11",
+              "country_code": "SA",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210095435"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Naser Odeh",
+          "raw_affiliation_strings": [
+            "King Abdullah Petroleum Studies and Research Center (KAPSARC), Riyadh 11672, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Abdullah Petroleum Studies and Research Center (KAPSARC), Riyadh 11672, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210095435"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5028526938",
+            "display_name": "Mohamad Issa Hejazi",
+            "orcid": "https://orcid.org/0000-0003-4194-2208",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-4194-2208"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210095435",
+              "display_name": "King Abdullah Petroleum Studies and Research Center",
+              "ror": "https://ror.org/00qd31w11",
+              "country_code": "SA",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210095435"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohamad Hejazi",
+          "raw_affiliation_strings": [
+            "King Abdullah Petroleum Studies and Research Center (KAPSARC), Riyadh 11672, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Abdullah Petroleum Studies and Research Center (KAPSARC), Riyadh 11672, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210095435"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5031210408",
+            "display_name": "Mohammed Al-Juaied",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Al-Juaied",
+          "raw_affiliation_strings": [
+            "King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074794653",
+            "display_name": "Abdulkader M. Afifi",
+            "orcid": "https://orcid.org/0000-0002-3193-4792",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3193-4792"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulkader M. Afifi",
+          "raw_affiliation_strings": [
+            "King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5067974945",
+            "display_name": "Hussein Hoteit",
+            "orcid": "https://orcid.org/0000-0002-3900-7272",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3900-7272"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Hussein Hoteit",
+          "raw_affiliation_strings": [
+            "King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-3900-7272",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5050034030",
+        "https://openalex.org/A5067974945"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I71920554"
+      ],
+      "apc_list": {
+        "value": 2000,
+        "currency": "USD",
+        "value_usd": 2000
+      },
+      "apc_paid": {
+        "value": 2000,
+        "currency": "USD",
+        "value_usd": 2000
+      },
+      "fwci": 4.7674,
+      "has_fulltext": false,
+      "cited_by_count": 16,
+      "citation_normalized_percentile": {
+        "value": 0.95977548,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 98,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "14",
+        "issue": null,
+        "first_page": "100375",
+        "last_page": "100375"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10967",
+        "display_name": "Carbon Dioxide Capture Technologies",
+        "score": 0.9839000105857849,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2210",
+          "display_name": "Mechanical Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10967",
+          "display_name": "Carbon Dioxide Capture Technologies",
+          "score": 0.9839000105857849,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 0.0052999998442828655,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10471",
+          "display_name": "Climate Change Policy and Economics",
+          "score": 0.0032999999821186066,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2002",
+            "display_name": "Economics and Econometrics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/20",
+            "display_name": "Economics, Econometrics and Finance"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/co2-capture-cost",
+          "display_name": "CO2 capture cost",
+          "score": 0.7509999871253967
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-capture-utilization-and-storage",
+          "display_name": "carbon capture utilization and storage",
+          "score": 0.8479999899864197
+        },
+        {
+          "id": "https://openalex.org/keywords/saudi-arabia",
+          "display_name": "Saudi Arabia",
+          "score": 0.621999979019165
+        },
+        {
+          "id": "https://openalex.org/keywords/decarbonization",
+          "display_name": "decarbonization",
+          "score": 0.8930000066757202
+        },
+        {
+          "id": "https://openalex.org/keywords/co2-emissions",
+          "display_name": "CO2 emissions",
+          "score": 0.6729999780654907
+        },
+        {
+          "id": "https://openalex.org/keywords/ammonia-synthesis",
+          "display_name": "ammonia synthesis",
+          "score": 0.8109999895095825
+        },
+        {
+          "id": "https://openalex.org/keywords/petrochemicals",
+          "display_name": "petrochemicals",
+          "score": 0.6660000085830688
+        },
+        {
+          "id": "https://openalex.org/keywords/cement-industry",
+          "display_name": "cement industry",
+          "score": 0.6019999980926514
+        },
+        {
+          "id": "https://openalex.org/keywords/steelmaking",
+          "display_name": "steel industry",
+          "score": 0.9490000009536743
+        },
+        {
+          "id": "https://openalex.org/keywords/desalination",
+          "display_name": "desalination",
+          "score": 0.8790000081062317
+        },
+        {
+          "id": "https://openalex.org/keywords/refinery-emissions",
+          "display_name": "refinery emissions",
+          "score": 0.5979999899864197
+        },
+        {
+          "id": "https://openalex.org/keywords/economies-of-scale",
+          "display_name": "economies of scale",
+          "score": 0.6629999876022339
+        },
+        {
+          "id": "https://openalex.org/keywords/co2-concentration",
+          "display_name": "CO2 concentration",
+          "score": 0.949999988079071
+        },
+        {
+          "id": "https://openalex.org/keywords/mineral-carbonation",
+          "display_name": "CO2 mineralization",
+          "score": 0.6380000114440918
+        },
+        {
+          "id": "https://openalex.org/keywords/net-zero-emissions",
+          "display_name": "net-zero emissions",
+          "score": 0.7390000224113464
+        },
+        {
+          "id": "https://openalex.org/keywords/capital-and-operating-costs",
+          "display_name": "capital and operating costs",
+          "score": 0.6700000166893005
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C140205800",
+          "wikidata": "https://www.wikidata.org/wiki/Q5860",
+          "display_name": "Carbon fibers",
+          "level": 3,
+          "score": 0.5069699287414551
+        },
+        {
+          "id": "https://openalex.org/C175605778",
+          "wikidata": "https://www.wikidata.org/wiki/Q3299701",
+          "display_name": "Natural resource economics",
+          "level": 1,
+          "score": 0.476013720035553
+        },
+        {
+          "id": "https://openalex.org/C2985347565",
+          "wikidata": "https://www.wikidata.org/wiki/Q2151621",
+          "display_name": "Energy sector",
+          "level": 2,
+          "score": 0.4757654070854187
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.44049936532974243
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.3613392412662506
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.21780037879943848
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.1492202877998352
+        },
+        {
+          "id": "https://openalex.org/C104779481",
+          "wikidata": "https://www.wikidata.org/wiki/Q50707",
+          "display_name": "Composite number",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C11413529",
+          "wikidata": "https://www.wikidata.org/wiki/Q8366",
+          "display_name": "Algorithm",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.ccst.2025.100375",
+          "doi": "https://doi.org/10.1016/j.ccst.2025.100375",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.ccst.2025.100375",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210236580",
+            "display_name": "Carbon Capture Science & Technology",
+            "issn_l": "2772-6568",
+            "issn": [
+              "2772-6568"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "dongbi-d",
+              "jufo-1",
+              "norway-1"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Carbon Capture Science &amp; Technology",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:9297ffc8380b4527be79bb5914ba7d44",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/9297ffc8380b4527be79bb5914ba7d44",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Carbon Capture Science & Technology, Vol 14, Iss , Pp 100375- (2025)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.ccst.2025.100375",
+        "doi": "https://doi.org/10.1016/j.ccst.2025.100375",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.ccst.2025.100375",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210236580",
+          "display_name": "Carbon Capture Science & Technology",
+          "issn_l": "2772-6568",
+          "issn": [
+            "2772-6568"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "dongbi-d",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Carbon Capture Science &amp; Technology",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
+          "score": 1
+        },
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.7207000255584717
+        },
+        {
+          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production",
+          "score": 0.5925999879837036
+        },
+        {
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
+          "score": 0.5690000057220459
+        }
+      ],
+      "sustainable_development_goals_aurora": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 35,
+      "referenced_works": [
+        "https://openalex.org/W1968099746",
+        "https://openalex.org/W2007460821",
+        "https://openalex.org/W2094947092",
+        "https://openalex.org/W2748060881",
+        "https://openalex.org/W2767126550",
+        "https://openalex.org/W2988278250",
+        "https://openalex.org/W2992440055",
+        "https://openalex.org/W3026270809",
+        "https://openalex.org/W3043067650",
+        "https://openalex.org/W3129779870",
+        "https://openalex.org/W3159669572",
+        "https://openalex.org/W3174398210",
+        "https://openalex.org/W4200630664",
+        "https://openalex.org/W4221088905",
+        "https://openalex.org/W4226477006",
+        "https://openalex.org/W4230023958",
+        "https://openalex.org/W4238715790",
+        "https://openalex.org/W4295806883",
+        "https://openalex.org/W4308025008",
+        "https://openalex.org/W4312144002",
+        "https://openalex.org/W4315700944",
+        "https://openalex.org/W4367721558",
+        "https://openalex.org/W4383341015",
+        "https://openalex.org/W4389195056",
+        "https://openalex.org/W4390086245",
+        "https://openalex.org/W4390571943",
+        "https://openalex.org/W4398155118",
+        "https://openalex.org/W6601527305",
+        "https://openalex.org/W6769911908",
+        "https://openalex.org/W6770818547",
+        "https://openalex.org/W6781001975",
+        "https://openalex.org/W6801504114",
+        "https://openalex.org/W6842871623",
+        "https://openalex.org/W6906725848",
+        "https://openalex.org/W7028356184"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2808690239",
+        "https://openalex.org/W4237675832",
+        "https://openalex.org/W3106872178",
+        "https://openalex.org/W4313194930",
+        "https://openalex.org/W3007404728",
+        "https://openalex.org/W2374021052",
+        "https://openalex.org/W2110536732",
+        "https://openalex.org/W2765153054",
+        "https://openalex.org/W2596173151"
+      ],
+      "abstract_inverted_index": {
+        "2": [
+          110,
+          144
+        ],
+        "2022": [
+          106
+        ],
+        "The": [
+          0,
+          108,
+          136,
+          161,
+          256,
+          310
+        ],
+        "global": [
+          1,
+          291,
+          338
+        ],
+        "drive": [
+          2
+        ],
+        "for": [
+          3,
+          170,
+          271,
+          306,
+          332
+        ],
+        "net-zero": [
+          4,
+          61,
+          339
+        ],
+        "emissions": [
+          5,
+          21,
+          62,
+          85
+        ],
+        "has": [
+          6,
+          57
+        ],
+        "highlighted": [
+          7
+        ],
+        "carbon": [
+          8
+        ],
+        "capture,": [
+          9
+        ],
+        "utilization,": [
+          10
+        ],
+        "and": [
+          11,
+          24,
+          39,
+          101,
+          132,
+          157,
+          181,
+          228,
+          245,
+          253,
+          320,
+          326
+        ],
+        "storage": [
+          12,
+          283
+        ],
+        "(CCUS)": [
+          13
+        ],
+        "as": [
+          14,
+          201,
+          267,
+          286
+        ],
+        "a": [
+          15,
+          31,
+          158,
+          164,
+          330
+        ],
+        "critical": [
+          16
+        ],
+        "tool": [
+          17
+        ],
+        "to": [
+          18,
+          42,
+          59,
+          220,
+          315,
+          324,
+          337
+        ],
+        "reduce": [
+          19
+        ],
+        "CO₂": [
+          20,
+          36,
+          52,
+          84,
+          166,
+          188,
+          211,
+          229
+        ],
+        "from": [
+          22,
+          124
+        ],
+        "energy": [
+          23
+        ],
+        "industrial": [
+          25,
+          126,
+          247,
+          298
+        ],
+        "sectors.": [
+          26
+        ],
+        "Achieving": [
+          27
+        ],
+        "climate": [
+          28
+        ],
+        "goals": [
+          29
+        ],
+        "necessitates": [
+          30
+        ],
+        "comprehensive": [
+          32,
+          165
+        ],
+        "understanding": [
+          33
+        ],
+        "of": [
+          34,
+          49,
+          69,
+          83,
+          142,
+          176,
+          191,
+          226
+        ],
+        "regional": [
+          35,
+          325
+        ],
+        "emission": [
+          37,
+          118
+        ],
+        "profiles": [
+          38
+        ],
+        "capture": [
+          40,
+          111,
+          138,
+          167,
+          177,
+          189,
+          236,
+          292,
+          318
+        ],
+        "costs": [
+          41,
+          112,
+          178,
+          218,
+          293
+        ],
+        "inform": [
+          43
+        ],
+        "effective": [
+          44
+        ],
+        "decarbonization": [
+          45
+        ],
+        "strategies.": [
+          46
+        ],
+        "As": [
+          47
+        ],
+        "one": [
+          48
+        ],
+        "the": [
+          50,
+          66,
+          73,
+          174,
+          202,
+          251,
+          268,
+          276,
+          313,
+          333
+        ],
+        "largest": [
+          51
+        ],
+        "emitters": [
+          53
+        ],
+        "globally,": [
+          54
+        ],
+        "Saudi": [
+          55,
+          90,
+          171,
+          296
+        ],
+        "Arabia": [
+          56
+        ],
+        "committed": [
+          58
+        ],
+        "achieving": [
+          60
+        ],
+        "by": [
+          63,
+          115,
+          147,
+          208,
+          301
+        ],
+        "2060.": [
+          64
+        ],
+        "However,": [
+          65
+        ],
+        "economic": [
+          67,
+          155
+        ],
+        "implications": [
+          68
+        ],
+        "deploying": [
+          70
+        ],
+        "CCUS": [
+          71,
+          308
+        ],
+        "within": [
+          72
+        ],
+        "Kingdom": [
+          74
+        ],
+        "remain": [
+          75
+        ],
+        "insufficiently": [
+          76
+        ],
+        "explored.": [
+          77
+        ],
+        "This": [
+          78
+        ],
+        "work": [
+          79
+        ],
+        "provides": [
+          80
+        ],
+        "updated": [
+          81
+        ],
+        "estimates": [
+          82
+        ],
+        "across": [
+          86,
+          179,
+          196
+        ],
+        "key": [
+          87
+        ],
+        "sectors": [
+          88
+        ],
+        "in": [
+          89,
+          234,
+          242,
+          250,
+          264
+        ],
+        "Arabia,": [
+          91,
+          172
+        ],
+        "including": [
+          92,
+          128
+        ],
+        "electricity,": [
+          93
+        ],
+        "petrochemicals": [
+          94
+        ],
+        ",": [
+          95,
+          103
+        ],
+        "refineries,": [
+          96
+        ],
+        "cement,": [
+          97
+        ],
+        "steel,": [
+          98
+        ],
+        "ammonia": [
+          99,
+          243
+        ],
+        "production,": [
+          100
+        ],
+        "desalination": [
+          102
+        ],
+        "based": [
+          104
+        ],
+        "on": [
+          105,
+          282
+        ],
+        "data.": [
+          107
+        ],
+        "CO": [
+          109,
+          143
+        ],
+        "are": [
+          113
+        ],
+        "estimated": [
+          114
+        ],
+        "incorporating": [
+          116
+        ],
+        "stationary": [
+          117
+        ],
+        "plant": [
+          119
+        ],
+        "data": [
+          120
+        ],
+        "with": [
+          121,
+          193,
+          238,
+          259
+        ],
+        "reference": [
+          122
+        ],
+        "cases": [
+          123
+        ],
+        "analogous": [
+          125
+        ],
+        "sectors,": [
+          127
+        ],
+        "capital": [
+          129
+        ],
+        "expenditure": [
+          130,
+          134
+        ],
+        "(CAPEX)": [
+          131
+        ],
+        "operating": [
+          133
+        ],
+        "(OPEX).": [
+          135
+        ],
+        "total": [
+          137
+        ],
+        "cost": [
+          139,
+          150,
+          168,
+          190
+        ],
+        "per": [
+          140
+        ],
+        "ton": [
+          141
+        ],
+        "is": [
+          145,
+          304
+        ],
+        "determined": [
+          146
+        ],
+        "combining": [
+          148
+        ],
+        "these": [
+          149
+        ],
+        "components": [
+          151
+        ],
+        "using": [
+          152
+        ],
+        "an": [
+          153,
+          186
+        ],
+        "established": [
+          154
+        ],
+        "model": [
+          156
+        ],
+        "custom-developed": [
+          159
+        ],
+        "tool.": [
+          160
+        ],
+        "study": [
+          162,
+          311
+        ],
+        "constructs": [
+          163
+        ],
+        "curve": [
+          169
+        ],
+        "highlighting": [
+          173
+        ],
+        "variability": [
+          175,
+          195
+        ],
+        "regions": [
+          180
+        ],
+        "industries.": [
+          182,
+          197
+        ],
+        "Our": [
+          183
+        ],
+        "analysis": [
+          184
+        ],
+        "indicates": [
+          185
+        ],
+        "average": [
+          187
+        ],
+        "$69/tCO₂,": [
+          192
+        ],
+        "substantial": [
+          194
+        ],
+        "Ammonia": [
+          198
+        ],
+        "production": [
+          199,
+          244
+        ],
+        "emerges": [
+          200,
+          266
+        ],
+        "most": [
+          203,
+          269
+        ],
+        "cost-efficient": [
+          204
+        ],
+        "at": [
+          205
+        ],
+        "$11/tCO₂,": [
+          206
+        ],
+        "driven": [
+          207
+        ],
+        "its": [
+          209,
+          260
+        ],
+        "high": [
+          210
+        ],
+        "concentration,": [
+          212
+        ],
+        "whereas": [
+          213
+        ],
+        "smaller-scale": [
+          214
+        ],
+        "operations": [
+          215
+        ],
+        "can": [
+          216
+        ],
+        "incur": [
+          217
+        ],
+        "up": [
+          219
+        ],
+        "$189/tCO₂.": [
+          221
+        ],
+        "Results": [
+          222
+        ],
+        "show": [
+          223
+        ],
+        "that": [
+          224,
+          295
+        ],
+        "economies": [
+          225
+        ],
+        "scale": [
+          227
+        ],
+        "concentration": [
+          230
+        ],
+        "play": [
+          231
+        ],
+        "pivotal": [
+          232
+        ],
+        "roles": [
+          233
+        ],
+        "determining": [
+          235
+        ],
+        "feasibility,": [
+          237
+        ],
+        "low-cost": [
+          239,
+          317
+        ],
+        "opportunities": [
+          240,
+          319
+        ],
+        "identified": [
+          241
+        ],
+        "high-emission": [
+          246
+        ],
+        "clusters,": [
+          248
+        ],
+        "particularly": [
+          249
+        ],
+        "Eastern": [
+          252,
+          257
+        ],
+        "Western": [
+          254,
+          277
+        ],
+        "regions.": [
+          255
+        ],
+        "region,": [
+          258
+        ],
+        "planned": [
+          261
+        ],
+        "CCS": [
+          262
+        ],
+        "hub": [
+          263
+        ],
+        "Jubail,": [
+          265
+        ],
+        "promising": [
+          270
+        ],
+        "near-term": [
+          272
+        ],
+        "deployment.": [
+          273
+        ],
+        "In": [
+          274
+        ],
+        "contrast,": [
+          275
+        ],
+        "region": [
+          278
+        ],
+        "requires": [
+          279
+        ],
+        "additional": [
+          280
+        ],
+        "focus": [
+          281
+        ],
+        "alternatives": [
+          284
+        ],
+        "such": [
+          285
+        ],
+        "mineralization": [
+          287
+        ],
+        ".": [
+          288
+        ],
+        "Benchmarking": [
+          289
+        ],
+        "against": [
+          290
+        ],
+        "reveals": [
+          294
+        ],
+        "Arabia's": [
+          297
+        ],
+        "landscape,": [
+          299
+        ],
+        "characterized": [
+          300
+        ],
+        "large-scale": [
+          302
+        ],
+        "emitters,": [
+          303
+        ],
+        "well-positioned": [
+          305
+        ],
+        "cost-effective": [
+          307
+        ],
+        "implementation.": [
+          309
+        ],
+        "highlights": [
+          312
+        ],
+        "need": [
+          314
+        ],
+        "prioritize": [
+          316
+        ],
+        "develop": [
+          321
+        ],
+        "strategies": [
+          322
+        ],
+        "tailored": [
+          323
+        ],
+        "sector-specific": [
+          327
+        ],
+        "conditions,": [
+          328
+        ],
+        "offering": [
+          329
+        ],
+        "roadmap": [
+          331
+        ],
+        "Kingdom's": [
+          334
+        ],
+        "significant": [
+          335
+        ],
+        "contribution": [
+          336
+        ],
+        "ambitions.": [
+          340
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 7
+        }
+      ],
+      "updated_date": "2026-10-14T16:39:01.820549",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4406675261",
       "doi": "https://doi.org/10.1016/j.ijggc.2025.104323",
       "title": "An experimental study of the mineral carbonation potential of the Jizan Group basalts",
@@ -24017,7 +24054,7 @@
           "author_position": "first",
           "author": {
             "id": "https://openalex.org/A5058263186",
-            "display_name": "Abdirizak Ali Omar",
+            "display_name": "Abdirizak Omar",
             "orcid": "https://orcid.org/0000-0003-1887-4411",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1887-4411"
@@ -24589,11 +24626,11 @@
         "currency": "USD",
         "value_usd": 4100
       },
-      "fwci": 3.1787,
+      "fwci": 3.153,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.91346335,
+        "value": 0.91243409,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24932,9 +24969,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.821399986743927,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.821399986743927
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -24957,7 +24994,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 70,
+      "referenced_works_count": 69,
       "referenced_works": [
         "https://openalex.org/W121832871",
         "https://openalex.org/W131810208",
@@ -25013,7 +25050,6 @@
         "https://openalex.org/W4200630664",
         "https://openalex.org/W4220771482",
         "https://openalex.org/W4240902832",
-        "https://openalex.org/W4293216217",
         "https://openalex.org/W4295806883",
         "https://openalex.org/W4310197281",
         "https://openalex.org/W4315472881",
@@ -25590,7 +25626,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25958,11 +25994,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3855,
+      "fwci": 1.3829,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.77945923,
+        "value": 0.77858881,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26318,9 +26354,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -26331,7 +26367,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 91,
+      "referenced_works_count": 90,
       "referenced_works": [
         "https://openalex.org/W197699760",
         "https://openalex.org/W203584942",
@@ -26422,8 +26458,7 @@
         "https://openalex.org/W4283021334",
         "https://openalex.org/W6754190996",
         "https://openalex.org/W6770530276",
-        "https://openalex.org/W6918148739",
-        "https://openalex.org/W6966558045"
+        "https://openalex.org/W6918148739"
       ],
       "related_works": [
         "https://openalex.org/W3006474185",
@@ -26971,7 +27006,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27004,13 +27039,19 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "doyens",
             "jufo-1",
             "ki-jl-1",
             "medline",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
@@ -27317,11 +27358,11 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 6.8149,
+      "fwci": 6.6645,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.96357492,
+        "value": 0.96362492,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -27507,13 +27548,19 @@
             "is_in_doaj": true,
             "is_core": true,
             "listed_in": [
+              "anvur-class-a",
+              "anvur-scientific",
               "cwts-core",
               "doaj",
+              "dongbi-c",
               "doyens",
               "jufo-1",
               "ki-jl-1",
               "medline",
-              "norway-1"
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319908",
             "host_organization_name": "Nature Portfolio",
@@ -27675,13 +27722,19 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "doyens",
             "jufo-1",
             "ki-jl-1",
             "medline",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
@@ -27705,16 +27758,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4399999976158142
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -27739,7 +27792,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 55,
+      "referenced_works_count": 54,
       "referenced_works": [
         "https://openalex.org/W2379105",
         "https://openalex.org/W11451966",
@@ -27786,7 +27839,6 @@
         "https://openalex.org/W3049397440",
         "https://openalex.org/W3123652700",
         "https://openalex.org/W3193537135",
-        "https://openalex.org/W4211024474",
         "https://openalex.org/W4284990887",
         "https://openalex.org/W4317600200",
         "https://openalex.org/W4317726608",
@@ -28290,7 +28342,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28572,7 +28624,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5058263186",
-            "display_name": "Abdirizak Ali Omar",
+            "display_name": "Abdirizak Omar",
             "orcid": "https://orcid.org/0000-0003-1887-4411",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1887-4411"
@@ -29000,11 +29052,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4578,
+      "fwci": 1.4332,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.77688646,
+        "value": 0.77297428,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29370,14 +29422,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5690000057220459,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.5690000057220459
         },
         {
-          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -30248,7 +30300,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-02T10:15:12.560889",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30911,9 +30963,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "study_designs": [],
@@ -32238,21 +32290,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9853000044822693,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.9853000044822693
         },
         {
-          "score": 0.685699999332428,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.685699999332428
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.8399999737739563
         }
       ],
       "study_designs": [],
@@ -33962,9 +34014,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.46000000834465027
         }
       ],
       "study_designs": [],
@@ -35091,9 +35143,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "study_designs": [],
@@ -35381,11 +35433,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.8256,
+      "fwci": 8.7592,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.98587361,
+        "value": 0.98536706,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -35616,19 +35668,19 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 1
         },
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 1
         },
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -35640,7 +35692,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 118,
+      "referenced_works_count": 117,
       "referenced_works": [
         "https://openalex.org/W203584942",
         "https://openalex.org/W1432124432",
@@ -35671,7 +35723,6 @@
         "https://openalex.org/W3093403940",
         "https://openalex.org/W3119950469",
         "https://openalex.org/W3120263324",
-        "https://openalex.org/W3126002064",
         "https://openalex.org/W3160605717",
         "https://openalex.org/W3164382478",
         "https://openalex.org/W3190333702",
@@ -36569,7 +36620,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -36920,7 +36971,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5058263186",
-            "display_name": "Abdirizak Ali Omar",
+            "display_name": "Abdirizak Omar",
             "orcid": "https://orcid.org/0000-0003-1887-4411",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1887-4411"
@@ -37266,11 +37317,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.3096,
+      "fwci": 3.2847,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.92565056,
+        "value": 0.92509921,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -37545,9 +37596,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.821399986743927,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.821399986743927
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -37587,7 +37638,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-07T09:51:55.459714",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -38645,11 +38696,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 0.9126,
+      "fwci": 0.9047,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.64082592,
+        "value": 0.63901945,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39437,9 +39488,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.9786999821662903
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -39465,7 +39516,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 79,
+      "referenced_works_count": 78,
       "referenced_works": [
         "https://openalex.org/W120789927",
         "https://openalex.org/W1525280696",
@@ -39531,7 +39582,6 @@
         "https://openalex.org/W3209645164",
         "https://openalex.org/W3212342108",
         "https://openalex.org/W4206106426",
-        "https://openalex.org/W4206911560",
         "https://openalex.org/W4211056572",
         "https://openalex.org/W4221018818",
         "https://openalex.org/W4225412119",
@@ -40068,7 +40118,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-04-05T00:00:00"
     },
     {
@@ -40207,11 +40257,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.882,
+      "fwci": 2.9079,
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.91189333,
+        "value": 0.91201969,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -40540,9 +40590,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4099999964237213
         }
       ],
       "study_designs": [],
@@ -40556,7 +40606,7 @@
         "pdf": "https://content.openalex.org/works/W2993803229.pdf",
         "grobid_xml": "https://content.openalex.org/works/W2993803229.grobid-xml"
       },
-      "referenced_works_count": 84,
+      "referenced_works_count": 83,
       "referenced_works": [
         "https://openalex.org/W151370141",
         "https://openalex.org/W203584942",
@@ -40625,7 +40675,6 @@
         "https://openalex.org/W3131458233",
         "https://openalex.org/W4232823791",
         "https://openalex.org/W4234354411",
-        "https://openalex.org/W4236839397",
         "https://openalex.org/W4243034119",
         "https://openalex.org/W4285719527",
         "https://openalex.org/W6606194255",
@@ -41227,7 +41276,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-07T09:51:55.459714",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41918,19 +41967,19 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         },
         {
-          "score": 0.5925999879837036,
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.5925999879837036
         },
         {
-          "score": 0.5378999710083008,
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.5378999710083008
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -43352,14 +43401,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.875,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.875
         },
         {
-          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -43927,11 +43976,16 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
             "doaj",
+            "dongbi-b",
             "jufo-1",
             "ki-jl-1",
-            "norway-1"
+            "norway-1",
+            "poland-20",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
@@ -44118,11 +44172,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 1.0173,
+      "fwci": 0.9999,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.71609439,
+        "value": 0.71102966,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44347,11 +44401,16 @@
             "is_in_doaj": true,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
               "doaj",
+              "dongbi-b",
               "jufo-1",
               "ki-jl-1",
-              "norway-1"
+              "norway-1",
+              "poland-20",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319908",
             "host_organization_name": "Nature Portfolio",
@@ -44451,11 +44510,16 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
             "doaj",
+            "dongbi-b",
             "jufo-1",
             "ki-jl-1",
-            "norway-1"
+            "norway-1",
+            "poland-20",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
@@ -44479,16 +44543,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7900000214576721
         }
       ],
       "study_designs": [],
@@ -44513,7 +44577,7 @@
         "pdf": "https://content.openalex.org/works/W4413118665.pdf",
         "grobid_xml": "https://content.openalex.org/works/W4413118665.grobid-xml"
       },
-      "referenced_works_count": 78,
+      "referenced_works_count": 77,
       "referenced_works": [
         "https://openalex.org/W178264291",
         "https://openalex.org/W1512318619",
@@ -44568,7 +44632,6 @@
         "https://openalex.org/W3088942682",
         "https://openalex.org/W3134437607",
         "https://openalex.org/W3198877835",
-        "https://openalex.org/W4211024474",
         "https://openalex.org/W4220732712",
         "https://openalex.org/W4224914405",
         "https://openalex.org/W4238916900",
@@ -45060,7 +45123,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -45293,7 +45356,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5058263186",
-            "display_name": "Abdirizak Ali Omar",
+            "display_name": "Abdirizak Omar",
             "orcid": "https://orcid.org/0000-0003-1887-4411",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1887-4411"
@@ -45722,11 +45785,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1009,
+      "fwci": 1.0949,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.68406696,
+        "value": 0.68315972,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46014,21 +46077,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         },
         {
-          "score": 0.4000000059604645,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.4000000059604645
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.49000000953674316
         }
       ],
       "study_designs": [],
@@ -46534,7 +46597,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -48411,9 +48474,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8501361608505249,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8501361608505249
         }
       ],
       "study_designs": [],
@@ -49805,9 +49868,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8299999833106995
         }
       ],
       "study_designs": [],
@@ -51147,9 +51210,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7799999713897705,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7799999713897705
         }
       ],
       "study_designs": [],
@@ -52184,14 +52247,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.6618000268936157
         },
         {
-          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -52666,21 +52729,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         },
         {
-          "score": 0.5690000057220459,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.5690000057220459
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7799999713897705,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7799999713897705
         }
       ],
       "study_designs": [],
@@ -54647,9 +54710,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -55745,16 +55808,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5769000053405762
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8399999737739563
         }
       ],
       "study_designs": [],
@@ -58500,16 +58563,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7400000095367432,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7400000095367432
         }
       ],
       "study_designs": [],
@@ -59835,21 +59898,21 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         },
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.75
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.41999998688697815
         }
       ],
       "study_designs": [],
@@ -61206,9 +61269,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -62413,9 +62476,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -63597,9 +63660,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8500000238418579
         }
       ],
       "study_designs": [],
@@ -64666,9 +64729,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.49000000953674316
         }
       ],
       "study_designs": [],
@@ -65239,9 +65302,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -66211,9 +66274,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5600000023841858,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5600000023841858
         }
       ],
       "study_designs": [],
@@ -66604,9 +66667,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.47999998927116394
         }
       ],
       "study_designs": [],
@@ -67274,16 +67337,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.800000011920929
         }
       ],
       "study_designs": [],
@@ -68293,9 +68356,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -69293,21 +69356,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         },
         {
-          "score": 0.571399986743927,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.571399986743927
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8399999737739563
         }
       ],
       "study_designs": [],
@@ -70355,9 +70418,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -71263,9 +71326,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8500000238418579
         }
       ],
       "study_designs": [],
@@ -72557,9 +72620,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.800000011920929
         }
       ],
       "study_designs": [],
@@ -72852,9 +72915,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5199999809265137
         }
       ],
       "study_designs": [],
@@ -73384,21 +73447,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         },
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.75
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8500000238418579
         }
       ],
       "study_designs": [],
@@ -74281,9 +74344,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -74820,9 +74883,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -76173,9 +76236,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5799999833106995,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5799999833106995
         }
       ],
       "study_designs": [],
@@ -76736,9 +76799,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.9786999821662903
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -76950,7 +77013,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5058263186",
-            "display_name": "Abdirizak Ali Omar",
+            "display_name": "Abdirizak Omar",
             "orcid": "https://orcid.org/0000-0003-1887-4411",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1887-4411"
@@ -77100,7 +77163,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.44708798,
+        "value": 0.44593254,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -77377,9 +77440,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4399999976158142
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -77410,7 +77473,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-07T09:51:55.459714",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -77444,6 +77507,7 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "dongbi-d",
             "jufo-1",
             "norway-1"
           ],
@@ -77702,7 +77766,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.04216803,
+        "value": 0.04183256,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -77941,6 +78005,7 @@
             "listed_in": [
               "cwts-core",
               "doaj",
+              "dongbi-d",
               "jufo-1",
               "norway-1"
             ],
@@ -78011,6 +78076,7 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "dongbi-d",
             "jufo-1",
             "norway-1"
           ],
@@ -78034,14 +78100,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         },
         {
-          "score": 0.5690000057220459,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.5690000057220459
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -79029,7 +79095,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.25500626,
+        "value": 0.25458536,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -79357,14 +79423,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9853000044822693,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.9853000044822693
         },
         {
-          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -79376,7 +79442,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 27,
+      "referenced_works_count": 26,
       "referenced_works": [
         "https://openalex.org/W27219116",
         "https://openalex.org/W656365742",
@@ -79402,7 +79468,6 @@
         "https://openalex.org/W4390943094",
         "https://openalex.org/W4401929766",
         "https://openalex.org/W4401935367",
-        "https://openalex.org/W4403967444",
         "https://openalex.org/W4404014166",
         "https://openalex.org/W4411037666"
       ],
@@ -80296,7 +80361,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -80394,7 +80459,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5058263186",
-            "display_name": "Abdirizak Ali Omar",
+            "display_name": "Abdirizak Omar",
             "orcid": "https://orcid.org/0000-0003-1887-4411",
             "observed_orcids": [
               "https://orcid.org/0000-0003-1887-4411"
@@ -80612,7 +80677,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.32564673,
+        "value": 0.32411854,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -80833,14 +80898,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.9786999821662903
         },
         {
-          "score": 0.5690000057220459,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.5690000057220459
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -80857,7 +80922,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-07T09:51:55.459714",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-24T00:00:00"
     },
     {
@@ -82254,8 +82319,10 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "dongbi-d",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-20"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -82372,7 +82439,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5114305640",
-            "display_name": "Naser Odeh",
+            "display_name": "Naser A. Odeh",
             "orcid": "https://orcid.org/0009-0007-8206-1024",
             "observed_orcids": [
               "https://orcid.org/0009-0007-8206-1024"
@@ -82591,7 +82658,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.01431121,
+        "value": 0.01394941,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -83020,8 +83087,10 @@
             "listed_in": [
               "cwts-core",
               "doaj",
+              "dongbi-d",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-20"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -83090,8 +83159,10 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "dongbi-d",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-20"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -83113,31 +83184,31 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 1
         },
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         },
         {
-          "score": 0.878000020980835,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.878000020980835
         },
         {
-          "score": 0.6000000238418579,
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.6000000238418579
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6405243277549744,
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.6405243277549744
         }
       ],
       "study_designs": [],
@@ -83767,7 +83838,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2026-01-09T00:00:00"
     },
     {
@@ -85324,16 +85395,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.9786999821662903
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8251040577888489,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8251040577888489
         }
       ],
       "study_designs": [],

@@ -4,7 +4,7 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Wed, 14 Oct 2026 00:10:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 23:42:39 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Geochemical and petrophysical responses of Bandera Grey sandstone to CO2-rich cushion gas and acetic-acidified brine during hydrogen geo-storage</title>
@@ -650,6 +650,20 @@
       <description>Topics: Convergence (economics), Sizing, Mathematical analysis, Finite element method, Computed tomography&#10;Venue: Mathematical Geosciences&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
+      <title>Uncertainties in supervised or unsupervised classification using sentinel-2 imagery for land use detection in the semi-arid region</title>
+      <link>https://doi.org/10.1007/s44288-026-00605-3</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7166877348</guid>
+      <dc:creator>Shahadat Baser, Muhammad Bilal, Ardiansyah Koeshidayatullah</dc:creator>
+      <dc:publisher>Discover Geoscience</dc:publisher>
+      <category>Remote sensing</category>
+      <category>Artificial intelligence</category>
+      <category>Computer science</category>
+      <category>Land use</category>
+      <category>Pattern recognition (psychology)</category>
+      <description>Abstract: Riyadh, the capital of Saudi Arabia, is currently undergoing one of the most rapid periods of urbanization and growth in the Gulf region. An accurate assessment of Land Use/Land Cover (LULC) mapping faces significant challenges in a unique semi-arid environment. Traditional pixel-based remote sensing classification methods often struggle in such contexts due to spectral confusion, particularly between built-up areas and desert landscapes. For this reason, this study aims to evaluate and investigate the performance and limitations of supervised (Maximum Likelihood) and unsupervised (K-means) classification techniques using Sentinel-2 level-2 imagery at 10 m resolution for semi-arid to arid regions and propose the most effective approach. Despite the moderate performance of these methods, a notable research gap exists in applying advanced techniques tailored for arid environments, where vegetation classification remains particularly challenging, yielding user accuracies of 28–44%. The findings indicate that while supervised classification outperformed unsupervised methods, achieving an overall accuracy of 64% (Kappa = 0.52) compared to 49% (Kappa = 0.32) for unsupervised approaches, both methods struggled with classifying spectrally similar regions, such as built-up and desert areas, yielding user accuracies of 28–44%. This research suggests that exploring advanced deep learning methods, specifically convolutional neural networks, could potentially address the limitations obser…&#10;Topics: Remote sensing, Artificial intelligence, Computer science, Land use, Pattern recognition (psychology)&#10;Venue: Discover Geoscience&#10;Year: 2026&#10;Citations: 1</description>
+    </item>
+    <item>
       <title>Hydrogeochemical Controls and Anthropogenic Impacts on Water Quality in an Arid Wadi-Dam System, Saudi Arabia</title>
       <link>https://doi.org/10.3390/earth7040107</link>
       <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
@@ -760,6 +774,20 @@
       <category>Oil shale</category>
       <category>Dolomite</category>
       <description>Abstract: The present work aims to quantify the Lam lithological and reservoir petrophysical characteristics of the Late Jurassic in the Habban oil field, Marib Shabwah Basin, Yemen, from the wireline logs and core data. The results revealed that the Lam Member rocks consist of an interbedded sequence of claystone, intercalated limestone, dolomite claystone, and sandstone. Lam Member lithology consists of clayey and strongly carbonate-cemented, very fine to coarse-grained Sandstone, divided into three main layers with possible reservoir units in the upper and lower sections. The Lam Member rocks are encountered with a relatively thick thickness reaching up to 5008 m and have reasonable porosity (11-25%), shale content (15-25 %), and high hydrocarbon saturation in the Habban oil field up to (70%) with maximum pay thicknesses reaching 40 m. A scatter plot of petrophysical gamma ray values versus core gamma ray values gave an approximate linear relationship. Also, Cross-plots of porosity-density values versus core values revealed a linear relationship between the two datasets. Poor-sorting, pore-filling with clay, and carbonate cementation are the main causes of poor reservoir quality. The Lam reservoir is a tight or unconventional that will rely on Perforating, natural fracturing, and/or fracture stimulation to produce oil.&#10;Topics: Petrophysics, Geology, Lithology, Oil shale, Dolomite&#10;Venue: Scientific Contributions Oil and Gas&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Vision-language models for automated carbonate petrography and depositional environment interpretation</title>
+      <link>https://doi.org/10.1016/j.aiig.2026.100230</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7163685777</guid>
+      <dc:creator>Joshua Atolagbe, Ardiansyah Koeshidayatullah</dc:creator>
+      <dc:publisher>Artificial Intelligence in Geosciences</dc:publisher>
+      <category>Geology</category>
+      <category>Petrography</category>
+      <category>Sedimentary depositional environment</category>
+      <category>Interpretation (philosophy)</category>
+      <category>Carbonate</category>
+      <description>Abstract: Carbonate petrographic analysis provides essential qualitative and semi-quantitative constraints on depositional environments and diagenetic evolution at microscale. However, conventional thin-section description and interpretation are labor-intensive, time-consuming, and susceptible to interpreter subjectivity, limiting reproducibility across studies. While recent deep learning methods have been applied to carbonate petrography, most are confined to narrow classification tasks and lack the holistic geologist-level capabilities required for comprehensive petrographic analysis. Advances in vision-language models (VLMs) offer new opportunities for joint image understanding and text generation, yet their application to carbonate petrography remains limited by vision encoders pretrained on natural images rather than geological textures. Here, we present a vision-language framework for automated carbonate petrographic description and depositional environment interpretation. The framework integrates an EVA vision encoder with a Llama2-based language model via a linear projection module to align visual and textual representations. A curated carbonate vision-language dataset (CarbonateVLD) comprising over 57,000 thin-section images, including augmented image-text pairs from diverse sources, was used for training to enhance generalizability across textures and facies. To translate generated descriptions into standard microfacies and facies-zone interpretations, a two-stage semantic re…&#10;Topics: Geology, Petrography, Sedimentary depositional environment, Interpretation (philosophy), Carbonate&#10;Venue: Artificial Intelligence in Geosciences&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
       <title>Hydrothermal Development of Authigenic Smectite and Its Subsequent Illitization: Experimental Insights from Glauconitic Greensand</title>
@@ -1028,6 +1056,20 @@
       <description>Abstract: Reservoir characterization workflows increasingly rely on image-based and machine-learning/deep learning or even generative AI approaches, but openly available geological image datasets suitable for reproducible benchmarking remain limited. Here we describe a high-resolution dataset of reservoir-property image slices derived from the Groningen static geological model. The dataset contains aligned two-dimensional PNG images representing facies, porosity, permeability, and water saturation, generated from three-dimensional reservoir grids and prepared for downstream visualization, segmentation, and image-to-image translation tasks. In addition to the deposited original image corpus, we provide an archived software workflow for reproducing augmentation, mask generation, paired-image construction, and example baseline experiments. The resource is designed to support benchmarking of geological image analysis methods and the study of cross-domain relationships among reservoir properties. By separating the fixed image dataset from the reproducible processing workflow, this work provides a transparent foundation for reuse in geoscience, reservoir modeling, and machine-learning applications.&#10;Topics: Workflow, Computer science, Benchmarking, Image (mathematics), Software&#10;Venue: arXiv (Cornell University)&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
+      <title>Robustness and Transferability of Pix2Geomodel for Bidirectional Facies Property Translation in a Complex Reservoir</title>
+      <link>https://openalex.org/W7160564922</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7160564922</guid>
+      <dc:creator>Abdulrahman Al‐Fakih, Nabil Sariah, Ardiansyah Koeshidayatullah, Sherif Mahmoud Hanafy, SanLinn I. Kaka</dc:creator>
+      <dc:publisher>arXiv (Cornell University)</dc:publisher>
+      <category>Facies</category>
+      <category>Petrophysics</category>
+      <category>Geology</category>
+      <category>Robustness (evolution)</category>
+      <category>Pixel</category>
+      <description>Abstract: Reservoir geomodeling is central to subsurface characterization, but it remains challenging because conditioning data are sparse, geological heterogeneity is strong, and conventional geostatistical workflows often struggle to capture nonlinear relationships between facies and petrophysical properties. This study evaluates the robustness and transferability of Pix2Geomodel on a different and more complex reservoir dataset with reduced vertical support. The new case includes a heterogeneous reservoir-quality classification and only 54 retained layers, providing a stricter test of whether Pix2Pix-based image-to-image translation can preserve facies-property relationships under constrained data conditions. Facies, porosity, permeability, and clay volume (VCL) were extracted from a reference reservoir model, exported as aligned two-dimensional slices, augmented using consistent geometric transformations, and assembled into paired image datasets. Six bidirectional tasks were evaluated: facies to porosity, facies to permeability, facies to VCL, porosity to facies, permeability to facies, and VCL to facies. The Pix2Pix model, consisting of a U-Net generator and PatchGAN discriminator, was evaluated using image-based metrics, visual comparison, and variogram-based spatial-continuity validation. Results show that the model preserves the dominant geological architecture and main spatial-continuity trends. Facies to porosity achieved the highest pixel accuracy and frequency-weighted inte…&#10;Topics: Facies, Petrophysics, Geology, Robustness (evolution), Pixel&#10;Venue: arXiv (Cornell University)&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
+    <item>
       <title>Early Devonian trace fossils from a marginal-marine deltaic setting of the Rhenish Slate Mountains (SW Germany)</title>
       <link>https://doi.org/10.1080/10420940.2026.2662014</link>
       <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
@@ -1228,7 +1270,7 @@
       <link>https://doi.org/10.1144/geoenergy2026-004</link>
       <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
       <guid isPermaLink="false">https://openalex.org/W7154993656</guid>
-      <dc:creator>Michael  Henry Stephenson, John Ludden, Jennifer M. McKinley, Natarajan Ishwaran, Susan Smith Nash, David Leary, Yichuan Shi, Chengshan Wang, Hassina Mouri, Olugbenga Okunlola, Monica Chamussa, Cheng Li, M Wang, Yu Zhao, Liying Yang, Liping Gu, Shadrach Sheriff</dc:creator>
+      <dc:creator>Michael H. Stephenson, John Ludden, Jennifer M. McKinley, Natarajan Ishwaran, Susan Smith Nash, David Leary, Yichuan Shi, Chengshan Wang, Hassina Mouri, Olugbenga Okunlola, Monica Chamussa, Cheng Li, M Wang, Yu Zhao, Liying Yang, Liping Gu, Shadrach Sheriff</dc:creator>
       <dc:publisher>Geoenergy</dc:publisher>
       <category>Raw material</category>
       <category>Engineering ethics</category>
@@ -1362,48 +1404,6 @@
       <category>Sedimentary depositional environment</category>
       <category>Source rock</category>
       <description>Topics: Geology, Diagenesis, Geochemistry, Sedimentary depositional environment, Source rock&#10;Venue: Journal of African Earth Sciences&#10;Year: 2026&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Impact of hydrothermal conversion of organic-rich carbonate rock of the Natih Formation in North Oman on organic matter characteristics and mechanism of chemical reactions</title>
-      <link>https://doi.org/10.1007/s13146-026-01254-w</link>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7140210132</guid>
-      <dc:creator>Aliia N. Khamieva, Ameen  Ahmed Al-Muntaser, Muneer Abdo Suwaid, Mohammed Hail Hakimi, Shadi A. Saeed, Mikhail Alekseevich Varfolomeev, Aref Lashin, S. M. Talha Qadri, Ahmed Naabi, Rashid Said Al Busaidi, Majid Hasani</dc:creator>
-      <dc:publisher>Carbonates and Evaporites</dc:publisher>
-      <category>Kerogen</category>
-      <category>Carbonate</category>
-      <category>Organic matter</category>
-      <category>Facies</category>
-      <category>Oil shale</category>
-      <description>Topics: Kerogen, Carbonate, Organic matter, Facies, Oil shale&#10;Venue: Carbonates and Evaporites&#10;Year: 2026&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Molecular and surface transformations governing hydrogen generation in thermally treated organic-rich mudrocks</title>
-      <link>https://doi.org/10.1016/j.fuel.2026.139207</link>
-      <pubDate>Sat, 21 Mar 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7139968901</guid>
-      <dc:creator>Adamu Kimayim Gaduwang, Bassam Tawabini, Israa S. Abu‐Mahfouz, Kion Norrman, Ahmed Zarzor Al-Yaseri</dc:creator>
-      <dc:publisher>Fuel</dc:publisher>
-      <category>Materials science</category>
-      <category>Chemical engineering</category>
-      <category>Hydrogen</category>
-      <category>Hydrogen production</category>
-      <category>Surface (topology)</category>
-      <description>Topics: Materials science, Chemical engineering, Hydrogen, Hydrogen production, Surface (topology)&#10;Venue: Fuel&#10;Year: 2026&#10;Citations: 3</description>
-    </item>
-    <item>
-      <title>Methodological workflow for assessing heterogeneity in immature organic-rich carbonate reservoirs</title>
-      <link>https://doi.org/10.1016/j.mex.2026.103875</link>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7139925539</guid>
-      <dc:creator>Samer Aljurf, Israa S. Abu‐Mahfouz, Septriandi A. Chan</dc:creator>
-      <dc:publisher>MethodsX</dc:publisher>
-      <category>Workflow</category>
-      <category>Carbonate</category>
-      <category>Environmental science</category>
-      <category>Petroleum engineering</category>
-      <category>Geology</category>
-      <description>Abstract: Understanding the vertical and lateral heterogeneity of immature organic-rich carbonate reservoirs is essential for predicting reservoir quality, maintaining wellbore stability, and identifying sweet-spot intervals in unconventional systems. Although geological, geochemical, petrophysical, and mechanical techniques are extensively employed for rock characterization, they are frequently applied in isolation, which can hinder a systematic assessment of variability. This paper introduces a structured, reproducible workflow that integrates lithological description, multivariate geochemical classification, continuous petrophysical profiling, and non-destructive mechanical testing into a unified framework for evaluating heterogeneity. The methodological innovation resides not in the individual analytical techniques but in their sequential integration into a facies-guided workflow that seamlessly links continuous non-destructive measurements with targeted laboratory analyses and predictive data integration. The workflow combines lithological descriptions, rock classification using unsupervised machine learning methods such as silhouette analysis, principal component analysis (PCA), and hierarchical clustering on principal component analysis (HCPC), bulk geochemistry, petrophysical profiling, non-destructive rock mechanical testing, and integrated data interpretation. This integrated method allows for accurate characterization of these complex reservoirs, supporting a systematic asse…&#10;Topics: Workflow, Carbonate, Environmental science, Petroleum engineering, Geology&#10;Venue: MethodsX&#10;Year: 2026&#10;Citations: 2</description>
     </item>
   </channel>
 </rss>

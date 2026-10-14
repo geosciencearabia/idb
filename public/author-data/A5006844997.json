@@ -155,7 +155,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000629,
+        "value": 0.0000622,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -172,7 +172,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000308,
+        "value": 0.00003,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -189,7 +189,7 @@
       {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "value": 0.0000261,
+        "value": 0.0000255,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -206,7 +206,7 @@
       {
         "id": "https://openalex.org/T10161",
         "display_name": "Rock Mechanics and Modeling",
-        "value": 0.0000248,
+        "value": 0.0000245,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -223,7 +223,7 @@
       {
         "id": "https://openalex.org/T12157",
         "display_name": "Geochemistry and Geologic Mapping",
-        "value": 0.000024,
+        "value": 0.0000235,
         "subfield": {
           "id": "https://openalex.org/subfields/1702",
           "display_name": "Artificial Intelligence"
@@ -949,9 +949,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -1355,11 +1355,11 @@
         "value_usd": 4090
       },
       "apc_paid": null,
-      "fwci": 1.9626,
+      "fwci": 2.2728,
       "has_fulltext": false,
-      "cited_by_count": 6,
+      "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.84010899,
+        "value": 0.86894889,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1777,14 +1777,14 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1817,14 +1817,20 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "doyens",
             "erih-plus",
             "jufo-1",
             "ki-jl-1",
             "medline",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310315706",
           "host_organization_name": "Public Library of Science",
@@ -2112,11 +2118,11 @@
         "currency": "USD",
         "value_usd": 2382
       },
-      "fwci": 2.2478,
+      "fwci": 2.1955,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.88982489,
+        "value": 0.88732822,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2501,14 +2507,20 @@
             "is_in_doaj": true,
             "is_core": true,
             "listed_in": [
+              "anvur-class-a",
+              "anvur-scientific",
               "cwts-core",
               "doaj",
+              "dongbi-c",
               "doyens",
               "erih-plus",
               "jufo-1",
               "ki-jl-1",
               "medline",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310315706",
             "host_organization_name": "Public Library of Science",
@@ -2637,14 +2649,20 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "doyens",
             "erih-plus",
             "jufo-1",
             "ki-jl-1",
             "medline",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310315706",
           "host_organization_name": "Public Library of Science",
@@ -2667,9 +2685,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -3944,9 +3962,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -4670,9 +4688,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -4792,8 +4810,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -4921,11 +4943,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 1.9935,
+      "fwci": 1.9724,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.85255266,
+        "value": 0.85209872,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5149,8 +5171,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -5175,9 +5201,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -6729,9 +6755,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -7908,9 +7934,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -8036,7 +8062,10 @@
           "listed_in": [
             "cwts-core",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-40",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -8165,11 +8194,11 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 0.61,
+      "fwci": 0.6064,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.5569458,
+        "value": 0.55388193,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8488,7 +8517,10 @@
             "listed_in": [
               "cwts-core",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-40",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -9339,6 +9371,724 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W7127902974",
+      "doi": "https://doi.org/10.1007/s11004-025-10270-w",
+      "title": "Well Log-Based Prediction of Elemental Composition: A Machine Learning Approach for Classifying Stratigraphic Members in the Epeiric Homoclinal Ramps",
+      "display_name": "Well Log-Based Prediction of Elemental Composition: A Machine Learning Approach for Classifying Stratigraphic Members in the Epeiric Homoclinal Ramps",
+      "publication_year": 2026,
+      "publication_date": "2026-02-05",
+      "ids": {
+        "openalex": "https://openalex.org/W7127902974",
+        "doi": "https://doi.org/10.1007/s11004-025-10270-w"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/s11004-025-10270-w",
+        "doi": "https://doi.org/10.1007/s11004-025-10270-w",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/s11004-025-10270-w",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210237802",
+          "display_name": "Mathematical Geosciences",
+          "issn_l": "1874-8953",
+          "issn": [
+            "1874-8953",
+            "1874-8961"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-b",
+            "jufo-1",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-2",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Mathematical Geosciences",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5080820696",
+            "display_name": "Abdallah A. Abdelkarim",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Abdallah Abdelkarim",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5006844997",
+            "display_name": "Ammar J. Abdlmutalib",
+            "orcid": "https://orcid.org/0000-0003-3580-9136",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3580-9136"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ammar Abdlmutalib",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5082826691",
+            "display_name": "JOHN D. HUMPHREY",
+            "orcid": "https://orcid.org/0000-0002-8927-2322",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8927-2322"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "John Humphrey",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5085007251",
+            "display_name": "Khalid A. Al-Ramadan",
+            "orcid": "https://orcid.org/0000-0002-4872-6201",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4872-6201"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Khalid Al-Ramadan",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5080820696"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 3090,
+        "currency": "USD",
+        "value_usd": 3090
+      },
+      "apc_paid": null,
+      "fwci": 2.0337,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.8056617,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 93,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "58",
+        "issue": "5",
+        "first_page": "1517",
+        "last_page": "1560"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.4717000126838684,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.4717000126838684,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12157",
+          "display_name": "Geochemistry and Geologic Mapping",
+          "score": 0.3955000042915344,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11948",
+          "display_name": "Machine Learning in Materials Science",
+          "score": 0.044599998742341995,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2505",
+            "display_name": "Materials Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/25",
+            "display_name": "Materials Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/well-log-prediction",
+          "display_name": "well log prediction",
+          "score": 0.5600000023841858
+        },
+        {
+          "id": "https://openalex.org/keywords/elemental-composition",
+          "display_name": "elemental composition",
+          "score": 0.8450000286102295
+        },
+        {
+          "id": "https://openalex.org/keywords/permian-triassic",
+          "display_name": "Permo-Triassic",
+          "score": 0.8859999775886536
+        },
+        {
+          "id": "https://openalex.org/keywords/random-forest",
+          "display_name": "random forest",
+          "score": 0.6679999828338623
+        },
+        {
+          "id": "https://openalex.org/keywords/gradient-boosting",
+          "display_name": "gradient boosting",
+          "score": 0.7540000081062317
+        },
+        {
+          "id": "https://openalex.org/keywords/xgboost",
+          "display_name": "XGBoost",
+          "score": 0.9269999861717224
+        },
+        {
+          "id": "https://openalex.org/keywords/multilayer-perceptron",
+          "display_name": "multilayer perceptron",
+          "score": 0.9570000171661377
+        },
+        {
+          "id": "https://openalex.org/keywords/decision-tree",
+          "display_name": "decision tree",
+          "score": 0.7820000052452087
+        },
+        {
+          "id": "https://openalex.org/keywords/sulfur",
+          "display_name": "sulfur",
+          "score": 0.5109999775886536
+        },
+        {
+          "id": "https://openalex.org/keywords/calcium",
+          "display_name": "calcium",
+          "score": 0.7329999804496765
+        },
+        {
+          "id": "https://openalex.org/keywords/silicon",
+          "display_name": "silicon",
+          "score": 0.8119999766349792
+        },
+        {
+          "id": "https://openalex.org/keywords/aluminum",
+          "display_name": "aluminum",
+          "score": 0.9959999918937683
+        },
+        {
+          "id": "https://openalex.org/keywords/well-to-well-correlation",
+          "display_name": "well-to-well correlation",
+          "score": 0.9700000286102295
+        },
+        {
+          "id": "https://openalex.org/keywords/chemostratigraphy",
+          "display_name": "chemostratigraphy",
+          "score": 0.9470000267028809
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C169258074",
+          "wikidata": "https://www.wikidata.org/wiki/Q245748",
+          "display_name": "Random forest",
+          "level": 2,
+          "score": 0.670799970626831
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.6624000072479248
+        },
+        {
+          "id": "https://openalex.org/C119857082",
+          "wikidata": "https://www.wikidata.org/wiki/Q2539",
+          "display_name": "Machine learning",
+          "level": 1,
+          "score": 0.6514999866485596
+        },
+        {
+          "id": "https://openalex.org/C84525736",
+          "wikidata": "https://www.wikidata.org/wiki/Q831366",
+          "display_name": "Decision tree",
+          "level": 2,
+          "score": 0.6238999962806702
+        },
+        {
+          "id": "https://openalex.org/C70153297",
+          "wikidata": "https://www.wikidata.org/wiki/Q5591907",
+          "display_name": "Gradient boosting",
+          "level": 3,
+          "score": 0.59579998254776
+        },
+        {
+          "id": "https://openalex.org/C27158222",
+          "wikidata": "https://www.wikidata.org/wiki/Q5532422",
+          "display_name": "Generalizability theory",
+          "level": 2,
+          "score": 0.47699999809265137
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.45590001344680786
+        },
+        {
+          "id": "https://openalex.org/C27438332",
+          "wikidata": "https://www.wikidata.org/wiki/Q2873",
+          "display_name": "Principal component analysis",
+          "level": 2,
+          "score": 0.44839999079704285
+        },
+        {
+          "id": "https://openalex.org/C46686674",
+          "wikidata": "https://www.wikidata.org/wiki/Q466303",
+          "display_name": "Boosting (machine learning)",
+          "level": 2,
+          "score": 0.4424000084400177
+        },
+        {
+          "id": "https://openalex.org/C179717631",
+          "wikidata": "https://www.wikidata.org/wiki/Q2991667",
+          "display_name": "Multilayer perceptron",
+          "level": 3,
+          "score": 0.4311000108718872
+        },
+        {
+          "id": "https://openalex.org/C50644808",
+          "wikidata": "https://www.wikidata.org/wiki/Q192776",
+          "display_name": "Artificial neural network",
+          "level": 2,
+          "score": 0.4154999852180481
+        },
+        {
+          "id": "https://openalex.org/C177212765",
+          "wikidata": "https://www.wikidata.org/wiki/Q627335",
+          "display_name": "Workflow",
+          "level": 2,
+          "score": 0.4043000042438507
+        },
+        {
+          "id": "https://openalex.org/C2778426922",
+          "wikidata": "https://www.wikidata.org/wiki/Q16868018",
+          "display_name": "Prospection",
+          "level": 2,
+          "score": 0.3343999981880188
+        },
+        {
+          "id": "https://openalex.org/C45942800",
+          "wikidata": "https://www.wikidata.org/wiki/Q245652",
+          "display_name": "Ensemble learning",
+          "level": 2,
+          "score": 0.29670000076293945
+        },
+        {
+          "id": "https://openalex.org/C141404830",
+          "wikidata": "https://www.wikidata.org/wiki/Q2823869",
+          "display_name": "AdaBoost",
+          "level": 3,
+          "score": 0.29109999537467957
+        },
+        {
+          "id": "https://openalex.org/C527412718",
+          "wikidata": "https://www.wikidata.org/wiki/Q855395",
+          "display_name": "Interpretation (philosophy)",
+          "level": 2,
+          "score": 0.287200003862381
+        },
+        {
+          "id": "https://openalex.org/C52001869",
+          "wikidata": "https://www.wikidata.org/wiki/Q812530",
+          "display_name": "Naive Bayes classifier",
+          "level": 3,
+          "score": 0.2865000069141388
+        },
+        {
+          "id": "https://openalex.org/C136389625",
+          "wikidata": "https://www.wikidata.org/wiki/Q334384",
+          "display_name": "Supervised learning",
+          "level": 3,
+          "score": 0.2833000123500824
+        },
+        {
+          "id": "https://openalex.org/C60908668",
+          "wikidata": "https://www.wikidata.org/wiki/Q690207",
+          "display_name": "Perceptron",
+          "level": 3,
+          "score": 0.28220000863075256
+        },
+        {
+          "id": "https://openalex.org/C2781067378",
+          "wikidata": "https://www.wikidata.org/wiki/Q17027399",
+          "display_name": "Interpretability",
+          "level": 2,
+          "score": 0.2669999897480011
+        },
+        {
+          "id": "https://openalex.org/C2781101838",
+          "wikidata": "https://www.wikidata.org/wiki/Q5470036",
+          "display_name": "Formation evaluation",
+          "level": 2,
+          "score": 0.2667999863624573
+        },
+        {
+          "id": "https://openalex.org/C153180895",
+          "wikidata": "https://www.wikidata.org/wiki/Q7148389",
+          "display_name": "Pattern recognition (psychology)",
+          "level": 2,
+          "score": 0.26570001244544983
+        },
+        {
+          "id": "https://openalex.org/C124101348",
+          "wikidata": "https://www.wikidata.org/wiki/Q172491",
+          "display_name": "Data mining",
+          "level": 1,
+          "score": 0.25360000133514404
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.2515999972820282
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/s11004-025-10270-w",
+          "doi": "https://doi.org/10.1007/s11004-025-10270-w",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/s11004-025-10270-w",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210237802",
+            "display_name": "Mathematical Geosciences",
+            "issn_l": "1874-8953",
+            "issn": [
+              "1874-8953",
+              "1874-8961"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "anvur-scientific",
+              "cwts-core",
+              "dongbi-b",
+              "jufo-1",
+              "norway-1",
+              "poland-70",
+              "russia-white-list-2",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Mathematical Geosciences",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320336956",
+          "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
+          "ror": null
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 58,
+      "referenced_works": [
+        "https://openalex.org/W203584942",
+        "https://openalex.org/W429766147",
+        "https://openalex.org/W1517624071",
+        "https://openalex.org/W1930624869",
+        "https://openalex.org/W1968763486",
+        "https://openalex.org/W1969456562",
+        "https://openalex.org/W1969634864",
+        "https://openalex.org/W1988790447",
+        "https://openalex.org/W2009632201",
+        "https://openalex.org/W2025227538",
+        "https://openalex.org/W2103919172",
+        "https://openalex.org/W2118666323",
+        "https://openalex.org/W2139711367",
+        "https://openalex.org/W2223885932",
+        "https://openalex.org/W2287111010",
+        "https://openalex.org/W2295598076",
+        "https://openalex.org/W2395047926",
+        "https://openalex.org/W2551032648",
+        "https://openalex.org/W2553478883",
+        "https://openalex.org/W2619365378",
+        "https://openalex.org/W2626176756",
+        "https://openalex.org/W2784277501",
+        "https://openalex.org/W2787894218",
+        "https://openalex.org/W2883318912",
+        "https://openalex.org/W2900657895",
+        "https://openalex.org/W2901901575",
+        "https://openalex.org/W2911964244",
+        "https://openalex.org/W2913911330",
+        "https://openalex.org/W2963819471",
+        "https://openalex.org/W2981138633",
+        "https://openalex.org/W3045843444",
+        "https://openalex.org/W3091516652",
+        "https://openalex.org/W3096845480",
+        "https://openalex.org/W3173149037",
+        "https://openalex.org/W3184337242",
+        "https://openalex.org/W3187000892",
+        "https://openalex.org/W4200222560",
+        "https://openalex.org/W4200232387",
+        "https://openalex.org/W4212864484",
+        "https://openalex.org/W4213045350",
+        "https://openalex.org/W4213256382",
+        "https://openalex.org/W4224324510",
+        "https://openalex.org/W4226265774",
+        "https://openalex.org/W4253667136",
+        "https://openalex.org/W4281667962",
+        "https://openalex.org/W4297916507",
+        "https://openalex.org/W4297957988",
+        "https://openalex.org/W4383619772",
+        "https://openalex.org/W4384023292",
+        "https://openalex.org/W4386136950",
+        "https://openalex.org/W4386587632",
+        "https://openalex.org/W4391850643",
+        "https://openalex.org/W4395956767",
+        "https://openalex.org/W4403267492",
+        "https://openalex.org/W4408327353",
+        "https://openalex.org/W4409106236",
+        "https://openalex.org/W4410291831",
+        "https://openalex.org/W4414484412"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-10-14T16:39:01.820549",
+      "created_date": "2026-02-07T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W7162121858",
       "doi": "https://doi.org/10.1016/j.aiig.2026.100229",
       "title": "Deep learning with Fourier Neural Operators for sedimentary structure recognition",
@@ -9369,6 +10119,7 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "norway-1"
           ],
           "host_organization": "https://openalex.org/P4310320990",
@@ -9622,11 +10373,11 @@
         "currency": "USD",
         "value_usd": 700
       },
-      "fwci": 3.2165,
+      "fwci": 3.1163,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.927182,
+        "value": 0.92430456,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9898,6 +10649,7 @@
             "listed_in": [
               "cwts-core",
               "doaj",
+              "dongbi-c",
               "norway-1"
             ],
             "host_organization": "https://openalex.org/P4310320990",
@@ -9938,6 +10690,7 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "norway-1"
           ],
           "host_organization": "https://openalex.org/P4310320990",
@@ -9974,7 +10727,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 28,
+      "referenced_works_count": 27,
       "referenced_works": [
         "https://openalex.org/W1975940921",
         "https://openalex.org/W2034662071",
@@ -9991,7 +10744,6 @@
         "https://openalex.org/W4224881269",
         "https://openalex.org/W4283528320",
         "https://openalex.org/W4301395778",
-        "https://openalex.org/W4312453657",
         "https://openalex.org/W4386241566",
         "https://openalex.org/W4387802821",
         "https://openalex.org/W4392610810",
@@ -10733,7 +11485,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2026-05-23T00:00:00"
     },
     {
@@ -11267,9 +12019,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -11764,7 +12516,10 @@
           "listed_in": [
             "cwts-core",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-40",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -11959,11 +12714,11 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 0.1525,
+      "fwci": 0.1516,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.2964207,
+        "value": 0.29016923,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12219,7 +12974,10 @@
             "listed_in": [
               "cwts-core",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-40",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -12572,7 +13330,7 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.772,
+      "fwci": 1.7836,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
@@ -12919,9 +13677,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -12932,7 +13690,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 16,
+      "referenced_works_count": 15,
       "referenced_works": [
         "https://openalex.org/W203584942",
         "https://openalex.org/W584173116",
@@ -12948,7 +13706,6 @@
         "https://openalex.org/W2932696668",
         "https://openalex.org/W3123652700",
         "https://openalex.org/W4238986447",
-        "https://openalex.org/W4252874919",
         "https://openalex.org/W6631678314"
       ],
       "related_works": [
@@ -13923,7 +14680,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-05T09:50:58.205359",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18748,16 +19505,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -19230,16 +19987,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.46149998903274536,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -21022,9 +21779,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -21939,7 +22696,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.21198648,
+        "value": 0.21123755,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22535,7 +23292,7 @@
         "pdf": "https://content.openalex.org/works/W4415407716.pdf",
         "grobid_xml": "https://content.openalex.org/works/W4415407716.grobid-xml"
       },
-      "referenced_works_count": 37,
+      "referenced_works_count": 36,
       "referenced_works": [
         "https://openalex.org/W1638092681",
         "https://openalex.org/W1866555191",
@@ -22561,7 +23318,6 @@
         "https://openalex.org/W3216352822",
         "https://openalex.org/W4221053048",
         "https://openalex.org/W4226317937",
-        "https://openalex.org/W4226339344",
         "https://openalex.org/W4291493338",
         "https://openalex.org/W4312497550",
         "https://openalex.org/W4320831569",
@@ -23095,708 +23851,8 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2025-10-22T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W7127902974",
-      "doi": "https://doi.org/10.1007/s11004-025-10270-w",
-      "title": "Well Log-Based Prediction of Elemental Composition: A Machine Learning Approach for Classifying Stratigraphic Members in the Epeiric Homoclinal Ramps",
-      "display_name": "Well Log-Based Prediction of Elemental Composition: A Machine Learning Approach for Classifying Stratigraphic Members in the Epeiric Homoclinal Ramps",
-      "publication_year": 2026,
-      "publication_date": "2026-02-05",
-      "ids": {
-        "openalex": "https://openalex.org/W7127902974",
-        "doi": "https://doi.org/10.1007/s11004-025-10270-w"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/s11004-025-10270-w",
-        "doi": "https://doi.org/10.1007/s11004-025-10270-w",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1007/s11004-025-10270-w",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210237802",
-          "display_name": "Mathematical Geosciences",
-          "issn_l": "1874-8953",
-          "issn": [
-            "1874-8953",
-            "1874-8961"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-1",
-            "norway-1"
-          ],
-          "host_organization": "https://openalex.org/P4310319900",
-          "host_organization_name": "Springer Science+Business Media",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319900",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Science+Business Media",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Mathematical Geosciences",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5080820696",
-            "display_name": "Abdallah A. Abdelkarim",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Abdallah Abdelkarim",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5006844997",
-            "display_name": "Ammar J. Abdlmutalib",
-            "orcid": "https://orcid.org/0000-0003-3580-9136",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-3580-9136"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ammar Abdlmutalib",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5082826691",
-            "display_name": "JOHN D. HUMPHREY",
-            "orcid": "https://orcid.org/0000-0002-8927-2322",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-8927-2322"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "John Humphrey",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid A. Al-Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-4872-6201"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Khalid Al-Ramadan",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5080820696"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 3090,
-        "currency": "USD",
-        "value_usd": 3090
-      },
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.05510928,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": "58",
-        "issue": "5",
-        "first_page": "1517",
-        "last_page": "1560"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.4717000126838684,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.4717000126838684,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.3955000042915344,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11948",
-          "display_name": "Machine Learning in Materials Science",
-          "score": 0.044599998742341995,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2505",
-            "display_name": "Materials Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/25",
-            "display_name": "Materials Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/well-log-prediction",
-          "display_name": "well log prediction",
-          "score": 0.5600000023841858
-        },
-        {
-          "id": "https://openalex.org/keywords/elemental-composition",
-          "display_name": "elemental composition",
-          "score": 0.8450000286102295
-        },
-        {
-          "id": "https://openalex.org/keywords/permian-triassic",
-          "display_name": "Permo-Triassic",
-          "score": 0.8859999775886536
-        },
-        {
-          "id": "https://openalex.org/keywords/random-forest",
-          "display_name": "random forest",
-          "score": 0.6679999828338623
-        },
-        {
-          "id": "https://openalex.org/keywords/gradient-boosting",
-          "display_name": "gradient boosting",
-          "score": 0.7540000081062317
-        },
-        {
-          "id": "https://openalex.org/keywords/xgboost",
-          "display_name": "XGBoost",
-          "score": 0.9269999861717224
-        },
-        {
-          "id": "https://openalex.org/keywords/multilayer-perceptron",
-          "display_name": "multilayer perceptron",
-          "score": 0.9570000171661377
-        },
-        {
-          "id": "https://openalex.org/keywords/decision-tree",
-          "display_name": "decision tree",
-          "score": 0.7820000052452087
-        },
-        {
-          "id": "https://openalex.org/keywords/sulfur",
-          "display_name": "sulfur",
-          "score": 0.5109999775886536
-        },
-        {
-          "id": "https://openalex.org/keywords/calcium",
-          "display_name": "calcium",
-          "score": 0.7329999804496765
-        },
-        {
-          "id": "https://openalex.org/keywords/silicon",
-          "display_name": "silicon",
-          "score": 0.8119999766349792
-        },
-        {
-          "id": "https://openalex.org/keywords/aluminum",
-          "display_name": "aluminum",
-          "score": 0.9959999918937683
-        },
-        {
-          "id": "https://openalex.org/keywords/well-to-well-correlation",
-          "display_name": "well-to-well correlation",
-          "score": 0.9700000286102295
-        },
-        {
-          "id": "https://openalex.org/keywords/chemostratigraphy",
-          "display_name": "chemostratigraphy",
-          "score": 0.9470000267028809
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C169258074",
-          "wikidata": "https://www.wikidata.org/wiki/Q245748",
-          "display_name": "Random forest",
-          "level": 2,
-          "score": 0.670799970626831
-        },
-        {
-          "id": "https://openalex.org/C154945302",
-          "wikidata": "https://www.wikidata.org/wiki/Q11660",
-          "display_name": "Artificial intelligence",
-          "level": 1,
-          "score": 0.6624000072479248
-        },
-        {
-          "id": "https://openalex.org/C119857082",
-          "wikidata": "https://www.wikidata.org/wiki/Q2539",
-          "display_name": "Machine learning",
-          "level": 1,
-          "score": 0.6514999866485596
-        },
-        {
-          "id": "https://openalex.org/C84525736",
-          "wikidata": "https://www.wikidata.org/wiki/Q831366",
-          "display_name": "Decision tree",
-          "level": 2,
-          "score": 0.6238999962806702
-        },
-        {
-          "id": "https://openalex.org/C70153297",
-          "wikidata": "https://www.wikidata.org/wiki/Q5591907",
-          "display_name": "Gradient boosting",
-          "level": 3,
-          "score": 0.59579998254776
-        },
-        {
-          "id": "https://openalex.org/C27158222",
-          "wikidata": "https://www.wikidata.org/wiki/Q5532422",
-          "display_name": "Generalizability theory",
-          "level": 2,
-          "score": 0.47699999809265137
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.45590001344680786
-        },
-        {
-          "id": "https://openalex.org/C27438332",
-          "wikidata": "https://www.wikidata.org/wiki/Q2873",
-          "display_name": "Principal component analysis",
-          "level": 2,
-          "score": 0.44839999079704285
-        },
-        {
-          "id": "https://openalex.org/C46686674",
-          "wikidata": "https://www.wikidata.org/wiki/Q466303",
-          "display_name": "Boosting (machine learning)",
-          "level": 2,
-          "score": 0.4424000084400177
-        },
-        {
-          "id": "https://openalex.org/C179717631",
-          "wikidata": "https://www.wikidata.org/wiki/Q2991667",
-          "display_name": "Multilayer perceptron",
-          "level": 3,
-          "score": 0.4311000108718872
-        },
-        {
-          "id": "https://openalex.org/C50644808",
-          "wikidata": "https://www.wikidata.org/wiki/Q192776",
-          "display_name": "Artificial neural network",
-          "level": 2,
-          "score": 0.4154999852180481
-        },
-        {
-          "id": "https://openalex.org/C177212765",
-          "wikidata": "https://www.wikidata.org/wiki/Q627335",
-          "display_name": "Workflow",
-          "level": 2,
-          "score": 0.4043000042438507
-        },
-        {
-          "id": "https://openalex.org/C2778426922",
-          "wikidata": "https://www.wikidata.org/wiki/Q16868018",
-          "display_name": "Prospection",
-          "level": 2,
-          "score": 0.3343999981880188
-        },
-        {
-          "id": "https://openalex.org/C45942800",
-          "wikidata": "https://www.wikidata.org/wiki/Q245652",
-          "display_name": "Ensemble learning",
-          "level": 2,
-          "score": 0.29670000076293945
-        },
-        {
-          "id": "https://openalex.org/C141404830",
-          "wikidata": "https://www.wikidata.org/wiki/Q2823869",
-          "display_name": "AdaBoost",
-          "level": 3,
-          "score": 0.29109999537467957
-        },
-        {
-          "id": "https://openalex.org/C527412718",
-          "wikidata": "https://www.wikidata.org/wiki/Q855395",
-          "display_name": "Interpretation (philosophy)",
-          "level": 2,
-          "score": 0.287200003862381
-        },
-        {
-          "id": "https://openalex.org/C52001869",
-          "wikidata": "https://www.wikidata.org/wiki/Q812530",
-          "display_name": "Naive Bayes classifier",
-          "level": 3,
-          "score": 0.2865000069141388
-        },
-        {
-          "id": "https://openalex.org/C136389625",
-          "wikidata": "https://www.wikidata.org/wiki/Q334384",
-          "display_name": "Supervised learning",
-          "level": 3,
-          "score": 0.2833000123500824
-        },
-        {
-          "id": "https://openalex.org/C60908668",
-          "wikidata": "https://www.wikidata.org/wiki/Q690207",
-          "display_name": "Perceptron",
-          "level": 3,
-          "score": 0.28220000863075256
-        },
-        {
-          "id": "https://openalex.org/C2781067378",
-          "wikidata": "https://www.wikidata.org/wiki/Q17027399",
-          "display_name": "Interpretability",
-          "level": 2,
-          "score": 0.2669999897480011
-        },
-        {
-          "id": "https://openalex.org/C2781101838",
-          "wikidata": "https://www.wikidata.org/wiki/Q5470036",
-          "display_name": "Formation evaluation",
-          "level": 2,
-          "score": 0.2667999863624573
-        },
-        {
-          "id": "https://openalex.org/C153180895",
-          "wikidata": "https://www.wikidata.org/wiki/Q7148389",
-          "display_name": "Pattern recognition (psychology)",
-          "level": 2,
-          "score": 0.26570001244544983
-        },
-        {
-          "id": "https://openalex.org/C124101348",
-          "wikidata": "https://www.wikidata.org/wiki/Q172491",
-          "display_name": "Data mining",
-          "level": 1,
-          "score": 0.25360000133514404
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.2515999972820282
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/s11004-025-10270-w",
-          "doi": "https://doi.org/10.1007/s11004-025-10270-w",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1007/s11004-025-10270-w",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210237802",
-            "display_name": "Mathematical Geosciences",
-            "issn_l": "1874-8953",
-            "issn": [
-              "1874-8953",
-              "1874-8961"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "jufo-1",
-              "norway-1"
-            ],
-            "host_organization": "https://openalex.org/P4310319900",
-            "host_organization_name": "Springer Science+Business Media",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319900",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Science+Business Media",
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Mathematical Geosciences",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "sustainable_development_goals_aurora": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320336956",
-          "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
-          "ror": null
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 58,
-      "referenced_works": [
-        "https://openalex.org/W203584942",
-        "https://openalex.org/W429766147",
-        "https://openalex.org/W1517624071",
-        "https://openalex.org/W1930624869",
-        "https://openalex.org/W1968763486",
-        "https://openalex.org/W1969456562",
-        "https://openalex.org/W1969634864",
-        "https://openalex.org/W1988790447",
-        "https://openalex.org/W2009632201",
-        "https://openalex.org/W2025227538",
-        "https://openalex.org/W2103919172",
-        "https://openalex.org/W2118666323",
-        "https://openalex.org/W2139711367",
-        "https://openalex.org/W2223885932",
-        "https://openalex.org/W2287111010",
-        "https://openalex.org/W2295598076",
-        "https://openalex.org/W2395047926",
-        "https://openalex.org/W2551032648",
-        "https://openalex.org/W2553478883",
-        "https://openalex.org/W2619365378",
-        "https://openalex.org/W2626176756",
-        "https://openalex.org/W2784277501",
-        "https://openalex.org/W2787894218",
-        "https://openalex.org/W2883318912",
-        "https://openalex.org/W2900657895",
-        "https://openalex.org/W2901901575",
-        "https://openalex.org/W2911964244",
-        "https://openalex.org/W2913911330",
-        "https://openalex.org/W2963819471",
-        "https://openalex.org/W2981138633",
-        "https://openalex.org/W3045843444",
-        "https://openalex.org/W3091516652",
-        "https://openalex.org/W3096845480",
-        "https://openalex.org/W3173149037",
-        "https://openalex.org/W3184337242",
-        "https://openalex.org/W3187000892",
-        "https://openalex.org/W4200222560",
-        "https://openalex.org/W4200232387",
-        "https://openalex.org/W4212864484",
-        "https://openalex.org/W4213045350",
-        "https://openalex.org/W4213256382",
-        "https://openalex.org/W4224324510",
-        "https://openalex.org/W4226265774",
-        "https://openalex.org/W4253667136",
-        "https://openalex.org/W4281667962",
-        "https://openalex.org/W4297916507",
-        "https://openalex.org/W4297957988",
-        "https://openalex.org/W4383619772",
-        "https://openalex.org/W4384023292",
-        "https://openalex.org/W4386136950",
-        "https://openalex.org/W4386587632",
-        "https://openalex.org/W4391850643",
-        "https://openalex.org/W4395956767",
-        "https://openalex.org/W4403267492",
-        "https://openalex.org/W4408327353",
-        "https://openalex.org/W4409106236",
-        "https://openalex.org/W4410291831",
-        "https://openalex.org/W4414484412"
-      ],
-      "related_works": [],
-      "abstract_inverted_index": null,
-      "counts_by_year": [],
-      "updated_date": "2026-09-23T09:40:40.371523",
-      "created_date": "2026-02-07T00:00:00"
     },
     {
       "id": "https://openalex.org/W7167172544",
@@ -24994,9 +25050,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.7608852982521057,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -25607,9 +25663,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.7608852982521057,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -25746,8 +25802,10 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "dongbi-d",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-20"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -25872,7 +25930,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.67962476,
+        "value": 0.66144373,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26107,8 +26165,10 @@
             "listed_in": [
               "cwts-core",
               "doaj",
+              "dongbi-d",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-20"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -26177,8 +26237,10 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "dongbi-d",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-20"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
