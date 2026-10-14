@@ -14,9 +14,9 @@
     ],
     "full_name": "Mohammad Eid Alsuwaidi",
     "works_count": 49,
-    "cited_by_count": 433,
+    "cited_by_count": 432,
     "summary_stats": {
-      "2yr_mean_citedness": 4.173913043478261,
+      "2yr_mean_citedness": 4.130434782608695,
       "h_index": 14,
       "i10_index": 16
     },
@@ -200,7 +200,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000715,
+        "value": 0.0000699,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -217,7 +217,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000578,
+        "value": 0.0000557,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -232,26 +232,9 @@
         }
       },
       {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "value": 0.0000434,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000406,
+        "value": 0.0000366,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -266,9 +249,26 @@
         }
       },
       {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "value": 0.000036,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
         "id": "https://openalex.org/T10491",
         "display_name": "Enhanced Oil Recovery Techniques",
-        "value": 0.0000265,
+        "value": 0.0000261,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -350,7 +350,7 @@
         "year": 2019,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 24
+        "cited_by_count": 25
       },
       {
         "year": 2020,
@@ -362,7 +362,7 @@
         "year": 2021,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 64
+        "cited_by_count": 63
       },
       {
         "year": 2022,
@@ -380,7 +380,7 @@
         "year": 2024,
         "works_count": 10,
         "oa_works_count": 5,
-        "cited_by_count": 76
+        "cited_by_count": 75
       },
       {
         "year": 2025,
@@ -403,7 +403,7 @@
     ],
     "block_key": "m alsuwaidi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5018306569",
-    "updated_date": "2026-10-10T12:59:14",
+    "updated_date": "2026-10-12T12:34:37",
     "created_date": "2020-09-14T00:00:00"
   },
   "works": [
@@ -738,11 +738,11 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 3.8139,
+      "fwci": 3.9208,
       "has_fulltext": true,
-      "cited_by_count": 34,
+      "cited_by_count": 35,
       "citation_normalized_percentile": {
-        "value": 0.95324052,
+        "value": 0.9559387,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1322,8 +1322,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -1780,7 +1780,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 13
+          "cited_by_count": 14
         },
         {
           "year": 2025,
@@ -1791,7 +1791,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-13T10:08:12.033832",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2548,8 +2548,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -3523,8 +3523,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -4269,8 +4269,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -5130,8 +5130,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "display_name": "Life on land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -6639,20 +6639,20 @@
       "sustainable_development_goals": [
         {
           "score": 0.5690000057220459,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -6777,6 +6777,1550 @@
         }
       ],
       "updated_date": "2026-10-12T09:40:04.860316",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4391640940",
+      "doi": "https://doi.org/10.1371/journal.pone.0295192",
+      "title": "Multiscale investigation of pore structure heterogeneity in carbonate rocks using digital imaging and SCAL measurements: A case study from Upper Jurassic limestones, Abu Dhabi, UAE",
+      "display_name": "Multiscale investigation of pore structure heterogeneity in carbonate rocks using digital imaging and SCAL measurements: A case study from Upper Jurassic limestones, Abu Dhabi, UAE",
+      "publication_year": 2024,
+      "publication_date": "2024-02-08",
+      "ids": {
+        "openalex": "https://openalex.org/W4391640940",
+        "doi": "https://doi.org/10.1371/journal.pone.0295192",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/38330093"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1371/journal.pone.0295192",
+        "doi": "https://doi.org/10.1371/journal.pone.0295192",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1371/journal.pone.0295192",
+        "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0295192&type=printable",
+        "source": {
+          "id": "https://openalex.org/S202381698",
+          "display_name": "PLoS ONE",
+          "issn_l": "1932-6203",
+          "issn": [
+            "1932-6203"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "doyens",
+            "erih-plus",
+            "jufo-1",
+            "ki-jl-1",
+            "medline",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310315706",
+          "host_organization_name": "Public Library of Science",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315706"
+          ],
+          "host_organization_lineage_names": [
+            "Public Library of Science"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "PLOS ONE",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0295192&type=printable",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5022931957",
+            "display_name": "Hind Sulieman",
+            "orcid": "https://orcid.org/0009-0008-4603-9644",
+            "observed_orcids": [
+              "https://orcid.org/0009-0008-4603-9644"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Hind Sulieman",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0008-4603-9644",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5009481606",
+            "display_name": "Mohamed Soufiane Jouini",
+            "orcid": "https://orcid.org/0000-0001-9741-0636",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9741-0636"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohamed Soufiane Jouini",
+          "raw_affiliation_strings": [
+            "Department of Mathematics, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9741-0636",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Mathematics, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5018306569",
+            "display_name": "Mohammad Alsuwaidi",
+            "orcid": "https://orcid.org/0000-0002-2477-0654",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2477-0654"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammad Alsuwaidi",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-2477-0654",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044402103",
+            "display_name": "Emad Walid Al-Shalabi",
+            "orcid": "https://orcid.org/0000-0003-2055-1398",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2055-1398"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Emad W. Al-Shalabi",
+          "raw_affiliation_strings": [
+            "Department of Chemical and Petroleum Engineering, Research and Innovation Center on CO2 and Hydrogen, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2055-1398",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Chemical and Petroleum Engineering, Research and Innovation Center on CO2 and Hydrogen, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5052331702",
+            "display_name": "Osama A. Al Jallad",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Osama A. Al Jallad",
+          "raw_affiliation_strings": [
+            "Halliburton Service in the Middle East and Asia Pacific Areas, Abu Dhabi, United Arab Emirates"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Halliburton Service in the Middle East and Asia Pacific Areas, Abu Dhabi, United Arab Emirates",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5022931957"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I176601375"
+      ],
+      "apc_list": {
+        "value": 2290,
+        "currency": "USD",
+        "value_usd": 2290
+      },
+      "apc_paid": {
+        "value": 2290,
+        "currency": "USD",
+        "value_usd": 2290
+      },
+      "fwci": 3.1889,
+      "has_fulltext": true,
+      "cited_by_count": 21,
+      "citation_normalized_percentile": {
+        "value": 0.92811555,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "19",
+        "issue": "2",
+        "first_page": "e0295192",
+        "last_page": "e0295192"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.7910000085830688,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.7910000085830688,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10491",
+          "display_name": "Enhanced Oil Recovery Techniques",
+          "score": 0.20250000059604645,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 0.0010000000474974513,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/pore-heterogeneity",
+          "display_name": "pore heterogeneity",
+          "score": 0.8949999809265137
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-reservoir-rocks",
+          "display_name": "carbonate reservoir rocks",
+          "score": 0.9610000252723694
+        },
+        {
+          "id": "https://openalex.org/keywords/multifractal-analysis",
+          "display_name": "multifractal analysis",
+          "score": 0.7369999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/mercury-injection-capillary-pressure",
+          "display_name": "mercury injection capillary pressure",
+          "score": 0.8489999771118164
+        },
+        {
+          "id": "https://openalex.org/keywords/pore-network-characterization",
+          "display_name": "pore network characterization",
+          "score": 0.5989999771118164
+        },
+        {
+          "id": "https://openalex.org/keywords/three-dimensional-computed-tomography",
+          "display_name": "three-dimensional computed tomography",
+          "score": 0.8209999799728394
+        },
+        {
+          "id": "https://openalex.org/keywords/fib-sem-imaging",
+          "display_name": "FIB-SEM imaging",
+          "score": 0.8100000023841858
+        },
+        {
+          "id": "https://openalex.org/keywords/thin-sections",
+          "display_name": "thin sections",
+          "score": 0.5139999985694885
+        },
+        {
+          "id": "https://openalex.org/keywords/permeability",
+          "display_name": "permeability",
+          "score": 0.5920000076293945
+        },
+        {
+          "id": "https://openalex.org/keywords/porosity",
+          "display_name": "porosity",
+          "score": 0.8799999952316284
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C26771246",
+          "wikidata": "https://www.wikidata.org/wiki/Q321095",
+          "display_name": "Scanning electron microscope",
+          "level": 2,
+          "score": 0.6777144074440002
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5630035400390625
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.5409274101257324
+        },
+        {
+          "id": "https://openalex.org/C161866238",
+          "wikidata": "https://www.wikidata.org/wiki/Q258563",
+          "display_name": "Focused ion beam",
+          "level": 3,
+          "score": 0.4793165922164917
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.4747465252876282
+        },
+        {
+          "id": "https://openalex.org/C114873805",
+          "wikidata": "https://www.wikidata.org/wiki/Q2122541",
+          "display_name": "Porosimetry",
+          "level": 4,
+          "score": 0.44154414534568787
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.36883386969566345
+        },
+        {
+          "id": "https://openalex.org/C159985019",
+          "wikidata": "https://www.wikidata.org/wiki/Q181790",
+          "display_name": "Composite material",
+          "level": 1,
+          "score": 0.18276232481002808
+        },
+        {
+          "id": "https://openalex.org/C6648577",
+          "wikidata": "https://www.wikidata.org/wiki/Q622669",
+          "display_name": "Porosity",
+          "level": 2,
+          "score": 0.1723930835723877
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.16238144040107727
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.12862145900726318
+        },
+        {
+          "id": "https://openalex.org/C105569014",
+          "wikidata": "https://www.wikidata.org/wiki/Q3271208",
+          "display_name": "Porous medium",
+          "level": 3,
+          "score": 0.0935695469379425
+        },
+        {
+          "id": "https://openalex.org/C145148216",
+          "wikidata": "https://www.wikidata.org/wiki/Q36496",
+          "display_name": "Ion",
+          "level": 2,
+          "score": 0.08520257472991943
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C191897082",
+          "wikidata": "https://www.wikidata.org/wiki/Q11467",
+          "display_name": "Metallurgy",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [
+        {
+          "descriptor_ui": "D002119",
+          "descriptor_name": "Calcium Carbonate",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D002119",
+          "descriptor_name": "Calcium Carbonate",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D002119",
+          "descriptor_name": "Calcium Carbonate",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D002119",
+          "descriptor_name": "Calcium Carbonate",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D002254",
+          "descriptor_name": "Carbonates",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D002254",
+          "descriptor_name": "Carbonates",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D002254",
+          "descriptor_name": "Carbonates",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D002254",
+          "descriptor_name": "Carbonates",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008855",
+          "descriptor_name": "Microscopy, Electron, Scanning",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008855",
+          "descriptor_name": "Microscopy, Electron, Scanning",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008855",
+          "descriptor_name": "Microscopy, Electron, Scanning",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D008855",
+          "descriptor_name": "Microscopy, Electron, Scanning",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D014479",
+          "descriptor_name": "United Arab Emirates",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D014479",
+          "descriptor_name": "United Arab Emirates",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D014479",
+          "descriptor_name": "United Arab Emirates",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D014479",
+          "descriptor_name": "United Arab Emirates",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D055114",
+          "descriptor_name": "X-Ray Microtomography",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D055114",
+          "descriptor_name": "X-Ray Microtomography",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D055114",
+          "descriptor_name": "X-Ray Microtomography",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D055114",
+          "descriptor_name": "X-Ray Microtomography",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": false
+        }
+      ],
+      "locations_count": 5,
+      "locations": [
+        {
+          "id": "doi:10.1371/journal.pone.0295192",
+          "doi": "https://doi.org/10.1371/journal.pone.0295192",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1371/journal.pone.0295192",
+          "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0295192&type=printable",
+          "source": {
+            "id": "https://openalex.org/S202381698",
+            "display_name": "PLoS ONE",
+            "issn_l": "1932-6203",
+            "issn": [
+              "1932-6203"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "anvur-class-a",
+              "anvur-scientific",
+              "cwts-core",
+              "doaj",
+              "dongbi-c",
+              "doyens",
+              "erih-plus",
+              "jufo-1",
+              "ki-jl-1",
+              "medline",
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310315706",
+            "host_organization_name": "Public Library of Science",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310315706"
+            ],
+            "host_organization_lineage_names": [
+              "Public Library of Science"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "PLOS ONE",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:38330093",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38330093",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "PloS one",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:10852275",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10852275",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10852275/pdf/pone.0295192.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "PLoS One",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:2cbb617532204e72966922c7fc059bd2",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/2cbb617532204e72966922c7fc059bd2",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "PLoS ONE, Vol 19, Iss 2 (2024)",
+          "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:4dd90660e75a482cab2d6405133f3145",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/4dd90660e75a482cab2d6405133f3145",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "PLoS ONE, Vol 19, Iss 2, p e0295192 (2024)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1371/journal.pone.0295192",
+        "doi": "https://doi.org/10.1371/journal.pone.0295192",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1371/journal.pone.0295192",
+        "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0295192&type=printable",
+        "source": {
+          "id": "https://openalex.org/S202381698",
+          "display_name": "PLoS ONE",
+          "issn_l": "1932-6203",
+          "issn": [
+            "1932-6203"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "doyens",
+            "erih-plus",
+            "jufo-1",
+            "ki-jl-1",
+            "medline",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310315706",
+          "host_organization_name": "Public Library of Science",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315706"
+          ],
+          "host_organization_lineage_names": [
+            "Public Library of Science"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "PLOS ONE",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [],
+      "study_designs": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G4371932456",
+          "display_name": null,
+          "funder_award_id": "CIRA 2019-92",
+          "funder_id": "https://openalex.org/F4320322334",
+          "funder_display_name": "Khalifa University of Science, Technology and Research"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320321399",
+          "display_name": "Abu Dhabi National Oil Company",
+          "ror": "https://ror.org/010e8pt90"
+        },
+        {
+          "id": "https://openalex.org/F4320322334",
+          "display_name": "Khalifa University of Science, Technology and Research",
+          "ror": "https://ror.org/05hffr360"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4391640940.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4391640940.grobid-xml"
+      },
+      "referenced_works_count": 46,
+      "referenced_works": [
+        "https://openalex.org/W1533729466",
+        "https://openalex.org/W1798935248",
+        "https://openalex.org/W1889936105",
+        "https://openalex.org/W1966061509",
+        "https://openalex.org/W1969984295",
+        "https://openalex.org/W1988903143",
+        "https://openalex.org/W1991539028",
+        "https://openalex.org/W2000545800",
+        "https://openalex.org/W2006372398",
+        "https://openalex.org/W2007971000",
+        "https://openalex.org/W2014988088",
+        "https://openalex.org/W2020716836",
+        "https://openalex.org/W2032135548",
+        "https://openalex.org/W2045241642",
+        "https://openalex.org/W2045396540",
+        "https://openalex.org/W2049659474",
+        "https://openalex.org/W2056915518",
+        "https://openalex.org/W2068224535",
+        "https://openalex.org/W2078046694",
+        "https://openalex.org/W2083045134",
+        "https://openalex.org/W2087249367",
+        "https://openalex.org/W2133059825",
+        "https://openalex.org/W2144654387",
+        "https://openalex.org/W2145794341",
+        "https://openalex.org/W2186549523",
+        "https://openalex.org/W2259823555",
+        "https://openalex.org/W2466725773",
+        "https://openalex.org/W2535571295",
+        "https://openalex.org/W2564318674",
+        "https://openalex.org/W2746428230",
+        "https://openalex.org/W2771087781",
+        "https://openalex.org/W2793847903",
+        "https://openalex.org/W2807364442",
+        "https://openalex.org/W2896537992",
+        "https://openalex.org/W2903049503",
+        "https://openalex.org/W2905078188",
+        "https://openalex.org/W2940313213",
+        "https://openalex.org/W2985126301",
+        "https://openalex.org/W2994434476",
+        "https://openalex.org/W2996650103",
+        "https://openalex.org/W3014355492",
+        "https://openalex.org/W3041290506",
+        "https://openalex.org/W3136453206",
+        "https://openalex.org/W3158594263",
+        "https://openalex.org/W4285261085",
+        "https://openalex.org/W4295166568"
+      ],
+      "related_works": [
+        "https://openalex.org/W2139793599",
+        "https://openalex.org/W2009076259",
+        "https://openalex.org/W2104674172",
+        "https://openalex.org/W2415142414",
+        "https://openalex.org/W2789763259",
+        "https://openalex.org/W2264159569",
+        "https://openalex.org/W3175214858",
+        "https://openalex.org/W2189087700",
+        "https://openalex.org/W3101085011",
+        "https://openalex.org/W2616898258"
+      ],
+      "abstract_inverted_index": {
+        "This": [
+          0
+        ],
+        "study": [
+          1,
+          39
+        ],
+        "presents": [
+          2
+        ],
+        "a": [
+          3,
+          10,
+          83
+        ],
+        "comprehensive": [
+          4
+        ],
+        "analysis": [
+          5,
+          33,
+          131
+        ],
+        "of": [
+          6,
+          13,
+          145,
+          170,
+          208
+        ],
+        "rock": [
+          7,
+          17,
+          85,
+          225
+        ],
+        "properties": [
+          8
+        ],
+        "for": [
+          9
+        ],
+        "selected": [
+          11
+        ],
+        "group": [
+          12
+        ],
+        "six": [
+          14
+        ],
+        "carbonate": [
+          15
+        ],
+        "reservoir": [
+          16
+        ],
+        "samples": [
+          18,
+          51,
+          153
+        ],
+        "revealing": [
+          19
+        ],
+        "complex": [
+          20
+        ],
+        "structures": [
+          21
+        ],
+        "at": [
+          22,
+          96
+        ],
+        "various": [
+          23
+        ],
+        "length": [
+          24,
+          98
+        ],
+        "scales.": [
+          25
+        ],
+        "Experimental": [
+          26
+        ],
+        "laboratory": [
+          27
+        ],
+        "methods": [
+          28
+        ],
+        "as": [
+          29,
+          31,
+          115,
+          117
+        ],
+        "well": [
+          30,
+          116
+        ],
+        "image": [
+          32
+        ],
+        "techniques": [
+          34
+        ],
+        "were": [
+          35,
+          71
+        ],
+        "conducted": [
+          36
+        ],
+        "in": [
+          37,
+          46,
+          148,
+          216,
+          221
+        ],
+        "this": [
+          38
+        ],
+        "to": [
+          40,
+          73,
+          90,
+          140,
+          194
+        ],
+        "characterize": [
+          41,
+          141
+        ],
+        "the": [
+          42,
+          53,
+          75,
+          129,
+          136,
+          143,
+          146,
+          149,
+          160,
+          168,
+          198,
+          206,
+          213,
+          217
+        ],
+        "macro-": [
+          43
+        ],
+        "and": [
+          44,
+          48,
+          67,
+          79,
+          93,
+          123,
+          138,
+          157,
+          181,
+          203,
+          212,
+          223
+        ],
+        "micro-pores": [
+          45
+        ],
+        "mud-": [
+          47
+        ],
+        "grain-dominated": [
+          49
+        ],
+        "limestones": [
+          50
+        ],
+        "from": [
+          52,
+          192
+        ],
+        "Upper": [
+          54
+        ],
+        "Jurassic": [
+          55
+        ],
+        "Arab": [
+          56
+        ],
+        "Formation": [
+          57
+        ],
+        "(Arab": [
+          58
+        ],
+        "D": [
+          59
+        ],
+        "member).": [
+          60
+        ],
+        "Mercury": [
+          61
+        ],
+        "Injection": [
+          62
+        ],
+        "Capillary": [
+          63
+        ],
+        "Pressure": [
+          64
+        ],
+        "(MICP),": [
+          65
+        ],
+        "porosimeter,": [
+          66
+        ],
+        "permeameter": [
+          68
+        ],
+        "lab": [
+          69
+        ],
+        "measurements": [
+          70
+        ],
+        "employed": [
+          72
+        ],
+        "assess": [
+          74
+        ],
+        "pore": [
+          76,
+          94,
+          186
+        ],
+        "network": [
+          77
+        ],
+        "heterogeneity": [
+          78,
+          144
+        ],
+        "complexity.": [
+          80
+        ],
+        "In": [
+          81
+        ],
+        "addition,": [
+          82
+        ],
+        "multiscale": [
+          84
+        ],
+        "imaging": [
+          86
+        ],
+        "approach": [
+          87
+        ],
+        "was": [
+          88,
+          133
+        ],
+        "implemented": [
+          89
+        ],
+        "detect": [
+          91
+        ],
+        "grain": [
+          92
+        ],
+        "phases": [
+          95
+        ],
+        "several": [
+          97
+        ],
+        "scales": [
+          99
+        ],
+        "using": [
+          100
+        ],
+        "Thin": [
+          101
+        ],
+        "Sections": [
+          102
+        ],
+        "(TS),": [
+          103
+        ],
+        "Scanning": [
+          104,
+          111
+        ],
+        "Electron": [
+          105,
+          112
+        ],
+        "Microscopy": [
+          106,
+          113
+        ],
+        "(SEM),": [
+          107
+        ],
+        "Focused": [
+          108
+        ],
+        "Ion": [
+          109
+        ],
+        "Beam": [
+          110
+        ],
+        "(FIB-SEM),": [
+          114
+        ],
+        "3D": [
+          118
+        ],
+        "X-ray": [
+          119
+        ],
+        "Computed": [
+          120
+        ],
+        "Tomography": [
+          121
+        ],
+        "(CT),": [
+          122
+        ],
+        "micro-computed": [
+          124
+        ],
+        "tomography": [
+          125
+        ],
+        "images": [
+          126
+        ],
+        "(MCT).": [
+          127
+        ],
+        "Furthermore,": [
+          128
+        ],
+        "multifractal": [
+          130,
+          209
+        ],
+        "method": [
+          132
+        ],
+        "applied": [
+          134
+        ],
+        "on": [
+          135,
+          174,
+          197
+        ],
+        "MICP": [
+          137,
+          199
+        ],
+        "FIB-SEM": [
+          139,
+          175
+        ],
+        "quantitatively": [
+          142
+        ],
+        "pores": [
+          147
+        ],
+        "studied": [
+          150
+        ],
+        "samples.": [
+          151
+        ],
+        "Heterogeneous": [
+          152
+        ],
+        "3R,": [
+          154,
+          180
+        ],
+        "4M,": [
+          155
+        ],
+        "5W,": [
+          156
+        ],
+        "6M": [
+          158
+        ],
+        "display": [
+          159
+        ],
+        "highest": [
+          161
+        ],
+        "non-uniformity": [
+          162
+        ],
+        "degree": [
+          163,
+          215
+        ],
+        "Δα": [
+          164,
+          189,
+          211
+        ],
+        "values,": [
+          165
+        ],
+        "falling": [
+          166
+        ],
+        "within": [
+          167
+        ],
+        "range": [
+          169
+        ],
+        "[1.21,": [
+          171
+        ],
+        "1.39]": [
+          172
+        ],
+        "based": [
+          173,
+          196
+        ],
+        "images.": [
+          176
+        ],
+        "Samples": [
+          177
+        ],
+        "1G,": [
+          178
+        ],
+        "2R,": [
+          179
+        ],
+        "5W": [
+          182
+        ],
+        "exhibit": [
+          183
+        ],
+        "more": [
+          184
+        ],
+        "heterogeneous": [
+          185
+        ],
+        "structure,": [
+          187
+        ],
+        "with": [
+          188
+        ],
+        "values": [
+          190
+        ],
+        "ranging": [
+          191
+        ],
+        "0.73": [
+          193
+        ],
+        "1.49": [
+          195
+        ],
+        "experiments.": [
+          200
+        ],
+        "The": [
+          201
+        ],
+        "results": [
+          202
+        ],
+        "findings": [
+          204
+        ],
+        "confirm": [
+          205
+        ],
+        "effectiveness": [
+          207
+        ],
+        "parameters": [
+          210
+        ],
+        "asymmetry": [
+          214
+        ],
+        "vertical": [
+          218
+        ],
+        "axis": [
+          219
+        ],
+        "Δf(α)": [
+          220
+        ],
+        "quantifying": [
+          222
+        ],
+        "characterizing": [
+          224
+        ],
+        "heterogeneity.": [
+          226
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 11
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-10-13T10:08:12.033832",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7524,15 +9068,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.821399986743927,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -8222,1532 +9766,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4391640940",
-      "doi": "https://doi.org/10.1371/journal.pone.0295192",
-      "title": "Multiscale investigation of pore structure heterogeneity in carbonate rocks using digital imaging and SCAL measurements: A case study from Upper Jurassic limestones, Abu Dhabi, UAE",
-      "display_name": "Multiscale investigation of pore structure heterogeneity in carbonate rocks using digital imaging and SCAL measurements: A case study from Upper Jurassic limestones, Abu Dhabi, UAE",
-      "publication_year": 2024,
-      "publication_date": "2024-02-08",
-      "ids": {
-        "openalex": "https://openalex.org/W4391640940",
-        "doi": "https://doi.org/10.1371/journal.pone.0295192",
-        "pmid": "https://pubmed.ncbi.nlm.nih.gov/38330093"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1371/journal.pone.0295192",
-        "doi": "https://doi.org/10.1371/journal.pone.0295192",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1371/journal.pone.0295192",
-        "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0295192&type=printable",
-        "source": {
-          "id": "https://openalex.org/S202381698",
-          "display_name": "PLoS ONE",
-          "issn_l": "1932-6203",
-          "issn": [
-            "1932-6203"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "doaj",
-            "doyens",
-            "erih-plus",
-            "jufo-1",
-            "ki-jl-1",
-            "medline",
-            "norway-1"
-          ],
-          "host_organization": "https://openalex.org/P4310315706",
-          "host_organization_name": "Public Library of Science",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310315706"
-          ],
-          "host_organization_lineage_names": [
-            "Public Library of Science"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "PLOS ONE",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj",
-        "pubmed"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0295192&type=printable",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5022931957",
-            "display_name": "Hind Sulieman",
-            "orcid": "https://orcid.org/0009-0008-4603-9644",
-            "observed_orcids": [
-              "https://orcid.org/0009-0008-4603-9644"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I176601375",
-              "display_name": "Khalifa University of Science and Technology",
-              "ror": "https://ror.org/05hffr360",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Hind Sulieman",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates"
-          ],
-          "raw_orcid": "https://orcid.org/0009-0008-4603-9644",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5009481606",
-            "display_name": "Mohamed Soufiane Jouini",
-            "orcid": "https://orcid.org/0000-0001-9741-0636",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-9741-0636"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I176601375",
-              "display_name": "Khalifa University of Science and Technology",
-              "ror": "https://ror.org/05hffr360",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohamed Soufiane Jouini",
-          "raw_affiliation_strings": [
-            "Department of Mathematics, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0001-9741-0636",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Mathematics, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5018306569",
-            "display_name": "Mohammad Alsuwaidi",
-            "orcid": "https://orcid.org/0000-0002-2477-0654",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-2477-0654"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I176601375",
-              "display_name": "Khalifa University of Science and Technology",
-              "ror": "https://ror.org/05hffr360",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammad Alsuwaidi",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-2477-0654",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5044402103",
-            "display_name": "Emad Walid Al-Shalabi",
-            "orcid": "https://orcid.org/0000-0003-2055-1398",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-2055-1398"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I176601375",
-              "display_name": "Khalifa University of Science and Technology",
-              "ror": "https://ror.org/05hffr360",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Emad W. Al-Shalabi",
-          "raw_affiliation_strings": [
-            "Department of Chemical and Petroleum Engineering, Research and Innovation Center on CO2 and Hydrogen, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0003-2055-1398",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Chemical and Petroleum Engineering, Research and Innovation Center on CO2 and Hydrogen, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I176601375"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5052331702",
-            "display_name": "Osama A. Al Jallad",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Osama A. Al Jallad",
-          "raw_affiliation_strings": [
-            "Halliburton Service in the Middle East and Asia Pacific Areas, Abu Dhabi, United Arab Emirates"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Halliburton Service in the Middle East and Asia Pacific Areas, Abu Dhabi, United Arab Emirates",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5022931957"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I176601375"
-      ],
-      "apc_list": {
-        "value": 2290,
-        "currency": "USD",
-        "value_usd": 2290
-      },
-      "apc_paid": {
-        "value": 2290,
-        "currency": "USD",
-        "value_usd": 2290
-      },
-      "fwci": 3.05,
-      "has_fulltext": true,
-      "cited_by_count": 20,
-      "citation_normalized_percentile": {
-        "value": 0.92067073,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 96,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "19",
-        "issue": "2",
-        "first_page": "e0295192",
-        "last_page": "e0295192"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.7910000085830688,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.7910000085830688,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10491",
-          "display_name": "Enhanced Oil Recovery Techniques",
-          "score": 0.20250000059604645,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11302",
-          "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 0.0010000000474974513,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/pore-heterogeneity",
-          "display_name": "pore heterogeneity",
-          "score": 0.8949999809265137
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-reservoir-rocks",
-          "display_name": "carbonate reservoir rocks",
-          "score": 0.9610000252723694
-        },
-        {
-          "id": "https://openalex.org/keywords/multifractal-analysis",
-          "display_name": "multifractal analysis",
-          "score": 0.7369999885559082
-        },
-        {
-          "id": "https://openalex.org/keywords/mercury-injection-capillary-pressure",
-          "display_name": "mercury injection capillary pressure",
-          "score": 0.8489999771118164
-        },
-        {
-          "id": "https://openalex.org/keywords/pore-network-characterization",
-          "display_name": "pore network characterization",
-          "score": 0.5989999771118164
-        },
-        {
-          "id": "https://openalex.org/keywords/three-dimensional-computed-tomography",
-          "display_name": "three-dimensional computed tomography",
-          "score": 0.8209999799728394
-        },
-        {
-          "id": "https://openalex.org/keywords/fib-sem-imaging",
-          "display_name": "FIB-SEM imaging",
-          "score": 0.8100000023841858
-        },
-        {
-          "id": "https://openalex.org/keywords/thin-sections",
-          "display_name": "thin sections",
-          "score": 0.5139999985694885
-        },
-        {
-          "id": "https://openalex.org/keywords/permeability",
-          "display_name": "permeability",
-          "score": 0.5920000076293945
-        },
-        {
-          "id": "https://openalex.org/keywords/porosity",
-          "display_name": "porosity",
-          "score": 0.8799999952316284
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C26771246",
-          "wikidata": "https://www.wikidata.org/wiki/Q321095",
-          "display_name": "Scanning electron microscope",
-          "level": 2,
-          "score": 0.6777144074440002
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5630035400390625
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.5409274101257324
-        },
-        {
-          "id": "https://openalex.org/C161866238",
-          "wikidata": "https://www.wikidata.org/wiki/Q258563",
-          "display_name": "Focused ion beam",
-          "level": 3,
-          "score": 0.4793165922164917
-        },
-        {
-          "id": "https://openalex.org/C2780659211",
-          "wikidata": "https://www.wikidata.org/wiki/Q181699",
-          "display_name": "Carbonate",
-          "level": 2,
-          "score": 0.4747465252876282
-        },
-        {
-          "id": "https://openalex.org/C114873805",
-          "wikidata": "https://www.wikidata.org/wiki/Q2122541",
-          "display_name": "Porosimetry",
-          "level": 4,
-          "score": 0.44154414534568787
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.36883386969566345
-        },
-        {
-          "id": "https://openalex.org/C159985019",
-          "wikidata": "https://www.wikidata.org/wiki/Q181790",
-          "display_name": "Composite material",
-          "level": 1,
-          "score": 0.18276232481002808
-        },
-        {
-          "id": "https://openalex.org/C6648577",
-          "wikidata": "https://www.wikidata.org/wiki/Q622669",
-          "display_name": "Porosity",
-          "level": 2,
-          "score": 0.1723930835723877
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.16238144040107727
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.12862145900726318
-        },
-        {
-          "id": "https://openalex.org/C105569014",
-          "wikidata": "https://www.wikidata.org/wiki/Q3271208",
-          "display_name": "Porous medium",
-          "level": 3,
-          "score": 0.0935695469379425
-        },
-        {
-          "id": "https://openalex.org/C145148216",
-          "wikidata": "https://www.wikidata.org/wiki/Q36496",
-          "display_name": "Ion",
-          "level": 2,
-          "score": 0.08520257472991943
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C191897082",
-          "wikidata": "https://www.wikidata.org/wiki/Q11467",
-          "display_name": "Metallurgy",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [
-        {
-          "descriptor_ui": "D002119",
-          "descriptor_name": "Calcium Carbonate",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D002119",
-          "descriptor_name": "Calcium Carbonate",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D002119",
-          "descriptor_name": "Calcium Carbonate",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D002119",
-          "descriptor_name": "Calcium Carbonate",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D002254",
-          "descriptor_name": "Carbonates",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D002254",
-          "descriptor_name": "Carbonates",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D002254",
-          "descriptor_name": "Carbonates",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D002254",
-          "descriptor_name": "Carbonates",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D008855",
-          "descriptor_name": "Microscopy, Electron, Scanning",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008855",
-          "descriptor_name": "Microscopy, Electron, Scanning",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008855",
-          "descriptor_name": "Microscopy, Electron, Scanning",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008855",
-          "descriptor_name": "Microscopy, Electron, Scanning",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D014479",
-          "descriptor_name": "United Arab Emirates",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D014479",
-          "descriptor_name": "United Arab Emirates",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D014479",
-          "descriptor_name": "United Arab Emirates",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D014479",
-          "descriptor_name": "United Arab Emirates",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D055114",
-          "descriptor_name": "X-Ray Microtomography",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D055114",
-          "descriptor_name": "X-Ray Microtomography",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D055114",
-          "descriptor_name": "X-Ray Microtomography",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D055114",
-          "descriptor_name": "X-Ray Microtomography",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": false
-        }
-      ],
-      "locations_count": 5,
-      "locations": [
-        {
-          "id": "doi:10.1371/journal.pone.0295192",
-          "doi": "https://doi.org/10.1371/journal.pone.0295192",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1371/journal.pone.0295192",
-          "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0295192&type=printable",
-          "source": {
-            "id": "https://openalex.org/S202381698",
-            "display_name": "PLoS ONE",
-            "issn_l": "1932-6203",
-            "issn": [
-              "1932-6203"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "doaj",
-              "doyens",
-              "erih-plus",
-              "jufo-1",
-              "ki-jl-1",
-              "medline",
-              "norway-1"
-            ],
-            "host_organization": "https://openalex.org/P4310315706",
-            "host_organization_name": "Public Library of Science",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310315706"
-            ],
-            "host_organization_lineage_names": [
-              "Public Library of Science"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "PLOS ONE",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmid:38330093",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/38330093",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306525036",
-            "display_name": "PubMed",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "PloS one",
-          "raw_type": "Journal Article"
-        },
-        {
-          "id": "pmh:oai:pubmedcentral.nih.gov:10852275",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10852275",
-          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10852275/pdf/pone.0295192.pdf",
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "PLoS One",
-          "raw_type": "Text"
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:2cbb617532204e72966922c7fc059bd2",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://doaj.org/article/2cbb617532204e72966922c7fc059bd2",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "PLoS ONE, Vol 19, Iss 2 (2024)",
-          "raw_type": "article"
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:4dd90660e75a482cab2d6405133f3145",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://doaj.org/article/4dd90660e75a482cab2d6405133f3145",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "PLoS ONE, Vol 19, Iss 2, p e0295192 (2024)",
-          "raw_type": "article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1371/journal.pone.0295192",
-        "doi": "https://doi.org/10.1371/journal.pone.0295192",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1371/journal.pone.0295192",
-        "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0295192&type=printable",
-        "source": {
-          "id": "https://openalex.org/S202381698",
-          "display_name": "PLoS ONE",
-          "issn_l": "1932-6203",
-          "issn": [
-            "1932-6203"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "doaj",
-            "doyens",
-            "erih-plus",
-            "jufo-1",
-            "ki-jl-1",
-            "medline",
-            "norway-1"
-          ],
-          "host_organization": "https://openalex.org/P4310315706",
-          "host_organization_name": "Public Library of Science",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310315706"
-          ],
-          "host_organization_lineage_names": [
-            "Public Library of Science"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "PLOS ONE",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "sustainable_development_goals_aurora": [],
-      "study_designs": [],
-      "awards": [
-        {
-          "id": "https://openalex.org/G4371932456",
-          "display_name": null,
-          "funder_award_id": "CIRA 2019-92",
-          "funder_id": "https://openalex.org/F4320322334",
-          "funder_display_name": "Khalifa University of Science, Technology and Research"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320321399",
-          "display_name": "Abu Dhabi National Oil Company",
-          "ror": "https://ror.org/010e8pt90"
-        },
-        {
-          "id": "https://openalex.org/F4320322334",
-          "display_name": "Khalifa University of Science, Technology and Research",
-          "ror": "https://ror.org/05hffr360"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": true,
-        "pdf": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4391640940.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W4391640940.grobid-xml"
-      },
-      "referenced_works_count": 46,
-      "referenced_works": [
-        "https://openalex.org/W1533729466",
-        "https://openalex.org/W1798935248",
-        "https://openalex.org/W1889936105",
-        "https://openalex.org/W1966061509",
-        "https://openalex.org/W1969984295",
-        "https://openalex.org/W1988903143",
-        "https://openalex.org/W1991539028",
-        "https://openalex.org/W2000545800",
-        "https://openalex.org/W2006372398",
-        "https://openalex.org/W2007971000",
-        "https://openalex.org/W2014988088",
-        "https://openalex.org/W2020716836",
-        "https://openalex.org/W2032135548",
-        "https://openalex.org/W2045241642",
-        "https://openalex.org/W2045396540",
-        "https://openalex.org/W2049659474",
-        "https://openalex.org/W2056915518",
-        "https://openalex.org/W2068224535",
-        "https://openalex.org/W2078046694",
-        "https://openalex.org/W2083045134",
-        "https://openalex.org/W2087249367",
-        "https://openalex.org/W2133059825",
-        "https://openalex.org/W2144654387",
-        "https://openalex.org/W2145794341",
-        "https://openalex.org/W2186549523",
-        "https://openalex.org/W2259823555",
-        "https://openalex.org/W2466725773",
-        "https://openalex.org/W2535571295",
-        "https://openalex.org/W2564318674",
-        "https://openalex.org/W2746428230",
-        "https://openalex.org/W2771087781",
-        "https://openalex.org/W2793847903",
-        "https://openalex.org/W2807364442",
-        "https://openalex.org/W2896537992",
-        "https://openalex.org/W2903049503",
-        "https://openalex.org/W2905078188",
-        "https://openalex.org/W2940313213",
-        "https://openalex.org/W2985126301",
-        "https://openalex.org/W2994434476",
-        "https://openalex.org/W2996650103",
-        "https://openalex.org/W3014355492",
-        "https://openalex.org/W3041290506",
-        "https://openalex.org/W3136453206",
-        "https://openalex.org/W3158594263",
-        "https://openalex.org/W4285261085",
-        "https://openalex.org/W4295166568"
-      ],
-      "related_works": [
-        "https://openalex.org/W2139793599",
-        "https://openalex.org/W2009076259",
-        "https://openalex.org/W2104674172",
-        "https://openalex.org/W2415142414",
-        "https://openalex.org/W2789763259",
-        "https://openalex.org/W2264159569",
-        "https://openalex.org/W3175214858",
-        "https://openalex.org/W2189087700",
-        "https://openalex.org/W3101085011",
-        "https://openalex.org/W2616898258"
-      ],
-      "abstract_inverted_index": {
-        "This": [
-          0
-        ],
-        "study": [
-          1,
-          39
-        ],
-        "presents": [
-          2
-        ],
-        "a": [
-          3,
-          10,
-          83
-        ],
-        "comprehensive": [
-          4
-        ],
-        "analysis": [
-          5,
-          33,
-          131
-        ],
-        "of": [
-          6,
-          13,
-          145,
-          170,
-          208
-        ],
-        "rock": [
-          7,
-          17,
-          85,
-          225
-        ],
-        "properties": [
-          8
-        ],
-        "for": [
-          9
-        ],
-        "selected": [
-          11
-        ],
-        "group": [
-          12
-        ],
-        "six": [
-          14
-        ],
-        "carbonate": [
-          15
-        ],
-        "reservoir": [
-          16
-        ],
-        "samples": [
-          18,
-          51,
-          153
-        ],
-        "revealing": [
-          19
-        ],
-        "complex": [
-          20
-        ],
-        "structures": [
-          21
-        ],
-        "at": [
-          22,
-          96
-        ],
-        "various": [
-          23
-        ],
-        "length": [
-          24,
-          98
-        ],
-        "scales.": [
-          25
-        ],
-        "Experimental": [
-          26
-        ],
-        "laboratory": [
-          27
-        ],
-        "methods": [
-          28
-        ],
-        "as": [
-          29,
-          31,
-          115,
-          117
-        ],
-        "well": [
-          30,
-          116
-        ],
-        "image": [
-          32
-        ],
-        "techniques": [
-          34
-        ],
-        "were": [
-          35,
-          71
-        ],
-        "conducted": [
-          36
-        ],
-        "in": [
-          37,
-          46,
-          148,
-          216,
-          221
-        ],
-        "this": [
-          38
-        ],
-        "to": [
-          40,
-          73,
-          90,
-          140,
-          194
-        ],
-        "characterize": [
-          41,
-          141
-        ],
-        "the": [
-          42,
-          53,
-          75,
-          129,
-          136,
-          143,
-          146,
-          149,
-          160,
-          168,
-          198,
-          206,
-          213,
-          217
-        ],
-        "macro-": [
-          43
-        ],
-        "and": [
-          44,
-          48,
-          67,
-          79,
-          93,
-          123,
-          138,
-          157,
-          181,
-          203,
-          212,
-          223
-        ],
-        "micro-pores": [
-          45
-        ],
-        "mud-": [
-          47
-        ],
-        "grain-dominated": [
-          49
-        ],
-        "limestones": [
-          50
-        ],
-        "from": [
-          52,
-          192
-        ],
-        "Upper": [
-          54
-        ],
-        "Jurassic": [
-          55
-        ],
-        "Arab": [
-          56
-        ],
-        "Formation": [
-          57
-        ],
-        "(Arab": [
-          58
-        ],
-        "D": [
-          59
-        ],
-        "member).": [
-          60
-        ],
-        "Mercury": [
-          61
-        ],
-        "Injection": [
-          62
-        ],
-        "Capillary": [
-          63
-        ],
-        "Pressure": [
-          64
-        ],
-        "(MICP),": [
-          65
-        ],
-        "porosimeter,": [
-          66
-        ],
-        "permeameter": [
-          68
-        ],
-        "lab": [
-          69
-        ],
-        "measurements": [
-          70
-        ],
-        "employed": [
-          72
-        ],
-        "assess": [
-          74
-        ],
-        "pore": [
-          76,
-          94,
-          186
-        ],
-        "network": [
-          77
-        ],
-        "heterogeneity": [
-          78,
-          144
-        ],
-        "complexity.": [
-          80
-        ],
-        "In": [
-          81
-        ],
-        "addition,": [
-          82
-        ],
-        "multiscale": [
-          84
-        ],
-        "imaging": [
-          86
-        ],
-        "approach": [
-          87
-        ],
-        "was": [
-          88,
-          133
-        ],
-        "implemented": [
-          89
-        ],
-        "detect": [
-          91
-        ],
-        "grain": [
-          92
-        ],
-        "phases": [
-          95
-        ],
-        "several": [
-          97
-        ],
-        "scales": [
-          99
-        ],
-        "using": [
-          100
-        ],
-        "Thin": [
-          101
-        ],
-        "Sections": [
-          102
-        ],
-        "(TS),": [
-          103
-        ],
-        "Scanning": [
-          104,
-          111
-        ],
-        "Electron": [
-          105,
-          112
-        ],
-        "Microscopy": [
-          106,
-          113
-        ],
-        "(SEM),": [
-          107
-        ],
-        "Focused": [
-          108
-        ],
-        "Ion": [
-          109
-        ],
-        "Beam": [
-          110
-        ],
-        "(FIB-SEM),": [
-          114
-        ],
-        "3D": [
-          118
-        ],
-        "X-ray": [
-          119
-        ],
-        "Computed": [
-          120
-        ],
-        "Tomography": [
-          121
-        ],
-        "(CT),": [
-          122
-        ],
-        "micro-computed": [
-          124
-        ],
-        "tomography": [
-          125
-        ],
-        "images": [
-          126
-        ],
-        "(MCT).": [
-          127
-        ],
-        "Furthermore,": [
-          128
-        ],
-        "multifractal": [
-          130,
-          209
-        ],
-        "method": [
-          132
-        ],
-        "applied": [
-          134
-        ],
-        "on": [
-          135,
-          174,
-          197
-        ],
-        "MICP": [
-          137,
-          199
-        ],
-        "FIB-SEM": [
-          139,
-          175
-        ],
-        "quantitatively": [
-          142
-        ],
-        "pores": [
-          147
-        ],
-        "studied": [
-          150
-        ],
-        "samples.": [
-          151
-        ],
-        "Heterogeneous": [
-          152
-        ],
-        "3R,": [
-          154,
-          180
-        ],
-        "4M,": [
-          155
-        ],
-        "5W,": [
-          156
-        ],
-        "6M": [
-          158
-        ],
-        "display": [
-          159
-        ],
-        "highest": [
-          161
-        ],
-        "non-uniformity": [
-          162
-        ],
-        "degree": [
-          163,
-          215
-        ],
-        "Δα": [
-          164,
-          189,
-          211
-        ],
-        "values,": [
-          165
-        ],
-        "falling": [
-          166
-        ],
-        "within": [
-          167
-        ],
-        "range": [
-          169
-        ],
-        "[1.21,": [
-          171
-        ],
-        "1.39]": [
-          172
-        ],
-        "based": [
-          173,
-          196
-        ],
-        "images.": [
-          176
-        ],
-        "Samples": [
-          177
-        ],
-        "1G,": [
-          178
-        ],
-        "2R,": [
-          179
-        ],
-        "5W": [
-          182
-        ],
-        "exhibit": [
-          183
-        ],
-        "more": [
-          184
-        ],
-        "heterogeneous": [
-          185
-        ],
-        "structure,": [
-          187
-        ],
-        "with": [
-          188
-        ],
-        "values": [
-          190
-        ],
-        "ranging": [
-          191
-        ],
-        "0.73": [
-          193
-        ],
-        "1.49": [
-          195
-        ],
-        "experiments.": [
-          200
-        ],
-        "The": [
-          201
-        ],
-        "results": [
-          202
-        ],
-        "findings": [
-          204
-        ],
-        "confirm": [
-          205
-        ],
-        "effectiveness": [
-          207
-        ],
-        "parameters": [
-          210
-        ],
-        "asymmetry": [
-          214
-        ],
-        "vertical": [
-          218
-        ],
-        "axis": [
-          219
-        ],
-        "Δf(α)": [
-          220
-        ],
-        "quantifying": [
-          222
-        ],
-        "characterizing": [
-          224
-        ],
-        "heterogeneity.": [
-          226
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 11
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 3
-        }
-      ],
-      "updated_date": "2026-09-22T06:50:58.402377",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W3022058378",
       "doi": "https://doi.org/10.1016/j.marpetgeo.2020.104425",
       "title": "Packstones and floatstones: Ambiguous textures and origins in need of critical appraisal",
@@ -10313,8 +10331,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "study_designs": [],
@@ -11285,8 +11303,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -12159,15 +12177,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.46149998903274536,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -14270,8 +14288,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.7699999809265137,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -16473,8 +16491,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -17275,15 +17293,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -20053,8 +20071,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -21326,15 +21344,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.46149998903274536,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -22142,8 +22160,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -22894,8 +22912,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -23479,20 +23497,20 @@
       "sustainable_development_goals": [
         {
           "score": 0.9853000044822693,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
@@ -25166,15 +25184,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -26918,15 +26936,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -27939,8 +27957,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.9786999821662903,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -29406,15 +29424,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8234000205993652,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.4302540421485901,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -30729,8 +30747,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -33614,8 +33632,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -34247,20 +34265,20 @@
       "sustainable_development_goals": [
         {
           "score": 1,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         },
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -35115,15 +35133,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.821399986743927,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.4364251494407654,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -36651,8 +36669,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8797712922096252,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -37958,8 +37976,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -38865,8 +38883,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.7699999809265137,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -42297,8 +42315,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "study_designs": [],
@@ -43455,8 +43473,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -44407,8 +44425,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.6700000166893005,
-          "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "study_designs": [],
@@ -44957,8 +44975,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.6700000166893005,
-          "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "study_designs": [],
@@ -45808,8 +45826,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -46427,15 +46445,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -47791,8 +47809,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -51330,8 +51348,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -52672,8 +52690,8 @@
       "sustainable_development_goals_aurora": [
         {
           "score": 0.8764263391494751,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],

@@ -7,6 +7,8 @@
     ],
     "display_name": "Henk Droste",
     "raw_author_names": [
+      "Droste, H.H.J.",
+      "Droste, Henk",
       "H. DROSTE",
       "H. Droste",
       "H. J. Droste",
@@ -17,12 +19,12 @@
       "Henk J. Droste"
     ],
     "full_name": "DROSTE, HENK, Shell Research B.V.,",
-    "works_count": 44,
-    "cited_by_count": 2275,
+    "works_count": 54,
+    "cited_by_count": 2283,
     "summary_stats": {
-      "2yr_mean_citedness": 9.5,
+      "2yr_mean_citedness": 3.5,
       "h_index": 19,
-      "i10_index": 25
+      "i10_index": 26
     },
     "ids": {
       "openalex": "https://openalex.org/A5058646530",
@@ -32,6 +34,22 @@
       ]
     },
     "affiliations": [
+      {
+        "institution": {
+          "id": "https://openalex.org/I2802626578",
+          "ror": "https://ror.org/0336mm561",
+          "display_name": "Oxford University Press (United Kingdom)",
+          "country_code": "GB",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I2802626578",
+            "https://openalex.org/I40120149"
+          ]
+        },
+        "years": [
+          2023
+        ]
+      },
       {
         "institution": {
           "id": "https://openalex.org/I40120149",
@@ -45,6 +63,7 @@
         },
         "years": [
           2024,
+          2023,
           2021
         ]
       },
@@ -148,7 +167,7 @@
       {
         "id": "https://openalex.org/T13193",
         "display_name": "Geological Studies and Exploration",
-        "count": 37,
+        "count": 42,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -165,7 +184,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "count": 32,
+        "count": 39,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -182,7 +201,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "count": 22,
+        "count": 28,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -199,7 +218,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "count": 20,
+        "count": 23,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -216,7 +235,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "count": 12,
+        "count": 14,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -235,7 +254,7 @@
       {
         "id": "https://openalex.org/T13193",
         "display_name": "Geological Studies and Exploration",
-        "value": 0.0000725,
+        "value": 0.0000775,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -250,26 +269,9 @@
         }
       },
       {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "value": 0.0000496,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000476,
+        "value": 0.0000536,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -284,9 +286,26 @@
         }
       },
       {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "value": 0.0000501,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000369,
+        "value": 0.0000417,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -303,7 +322,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000211,
+        "value": 0.0000221,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -377,15 +396,15 @@
       },
       {
         "year": 2001,
-        "works_count": 2,
+        "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 562
+        "cited_by_count": 573
       },
       {
         "year": 2002,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 375
+        "cited_by_count": 374
       },
       {
         "year": 2003,
@@ -395,13 +414,13 @@
       },
       {
         "year": 2004,
-        "works_count": 3,
+        "works_count": 4,
         "oa_works_count": 1,
         "cited_by_count": 181
       },
       {
         "year": 2005,
-        "works_count": 1,
+        "works_count": 2,
         "oa_works_count": 1,
         "cited_by_count": 0
       },
@@ -425,9 +444,9 @@
       },
       {
         "year": 2010,
-        "works_count": 14,
+        "works_count": 16,
         "oa_works_count": 0,
-        "cited_by_count": 417
+        "cited_by_count": 415
       },
       {
         "year": 2011,
@@ -445,7 +464,7 @@
         "year": 2013,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 7
+        "cited_by_count": 6
       },
       {
         "year": 2014,
@@ -457,7 +476,7 @@
         "year": 2016,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 11
+        "cited_by_count": 10
       },
       {
         "year": 2021,
@@ -466,13 +485,21 @@
         "cited_by_count": 21
       },
       {
+        "year": 2023,
+        "works_count": 1,
+        "oa_works_count": 1,
+        "cited_by_count": 0
+      },
+      {
         "year": 2024,
-        "works_count": 2,
-        "oa_works_count": 2,
-        "cited_by_count": 19
+        "works_count": 6,
+        "oa_works_count": 6,
+        "cited_by_count": 21
       }
     ],
     "display_name_alternatives": [
+      "Droste, H.H.J.",
+      "Droste, Henk",
       "H. DROSTE",
       "H. Droste",
       "H. J. Droste",
@@ -484,7 +511,7 @@
     ],
     "block_key": "h droste",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5058646530",
-    "updated_date": "2026-10-10T12:59:14",
+    "updated_date": "2026-10-12T12:34:37",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1035,8 +1062,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -2754,8 +2781,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -4286,8 +4313,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.4000000059604645,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -5311,9 +5338,14 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-a",
             "jufo-2",
-            "norway-2"
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320595",
           "host_organization_name": "Wiley",
@@ -5491,8 +5523,9 @@
           "author": {
             "id": "https://openalex.org/A5108118684",
             "display_name": "Philippe Razin",
-            "orcid": "https://orcid.org/0000-0002-4252-1344",
+            "orcid": "https://orcid.org/0000-0003-2936-5110",
             "observed_orcids": [
+              "https://orcid.org/0000-0003-2936-5110",
               "https://orcid.org/0000-0002-4252-1344"
             ]
           },
@@ -5639,11 +5672,11 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 6.4699,
+      "fwci": 6.4801,
       "has_fulltext": false,
       "cited_by_count": 150,
       "citation_normalized_percentile": {
-        "value": 0.96104299,
+        "value": 0.9615625,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5948,9 +5981,14 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
+              "dongbi-a",
               "jufo-2",
-              "norway-2"
+              "norway-2",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320595",
             "host_organization_name": "Wiley",
@@ -6037,8 +6075,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8399999737739563,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -6582,7 +6620,7 @@
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-13T10:08:12.033832",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -7147,8 +7185,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -9567,8 +9605,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310316185",
           "host_organization_name": "Society for Sedimentary Geology",
@@ -9774,8 +9816,9 @@
           "author": {
             "id": "https://openalex.org/A5108118684",
             "display_name": "Philippe Razin",
-            "orcid": "https://orcid.org/0000-0002-4252-1344",
+            "orcid": "https://orcid.org/0000-0003-2936-5110",
             "observed_orcids": [
+              "https://orcid.org/0000-0003-2936-5110",
               "https://orcid.org/0000-0002-4252-1344"
             ]
           },
@@ -9956,11 +9999,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.4992,
+      "fwci": 7.4901,
       "has_fulltext": false,
       "cited_by_count": 128,
       "citation_normalized_percentile": {
-        "value": 0.96897175,
+        "value": 0.96940059,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10257,8 +10300,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310316185",
             "host_organization_name": "Society for Sedimentary Geology",
@@ -10313,15 +10360,15 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.5351999998092651,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.7599999904632568,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -11310,7 +11357,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-13T10:08:12.033832",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11761,8 +11808,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -12714,8 +12761,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -14837,8 +14884,9 @@
           "author": {
             "id": "https://openalex.org/A5108118684",
             "display_name": "Philippe Razin",
-            "orcid": "https://orcid.org/0000-0002-4252-1344",
+            "orcid": "https://orcid.org/0000-0003-2936-5110",
             "observed_orcids": [
+              "https://orcid.org/0000-0003-2936-5110",
               "https://orcid.org/0000-0002-4252-1344"
             ]
           },
@@ -14944,11 +14992,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.1668,
+      "fwci": 6.1511,
       "has_fulltext": false,
       "cited_by_count": 63,
       "citation_normalized_percentile": {
-        "value": 0.95980759,
+        "value": 0.95952891,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15288,8 +15336,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -16319,7 +16367,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-13T10:08:12.033832",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16686,8 +16734,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -20759,8 +20807,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -21480,7 +21528,9 @@
           "listed_in": [
             "cwts-core",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310311650",
           "host_organization_name": "Geological Society of London",
@@ -21690,8 +21740,9 @@
           "author": {
             "id": "https://openalex.org/A5108118684",
             "display_name": "Philippe Razin",
-            "orcid": "https://orcid.org/0000-0002-4252-1344",
+            "orcid": "https://orcid.org/0000-0003-2936-5110",
             "observed_orcids": [
+              "https://orcid.org/0000-0003-2936-5110",
               "https://orcid.org/0000-0002-4252-1344"
             ]
           },
@@ -21782,11 +21833,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.2504,
+      "fwci": 6.1466,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.98343462,
+        "value": 0.98354115,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -21974,7 +22025,9 @@
             "listed_in": [
               "cwts-core",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310311650",
             "host_organization_name": "Geological Society of London",
@@ -22015,7 +22068,9 @@
           "listed_in": [
             "cwts-core",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310311650",
           "host_organization_name": "Geological Society of London",
@@ -22038,8 +22093,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -23336,7 +23391,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-13T10:08:12.033832",
       "created_date": "2024-06-05T00:00:00"
     },
     {
@@ -23747,8 +23802,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.699999988079071,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -24898,8 +24953,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Sustainable cities and communities",
           "score": 0.7400000095367432,
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11"
         }
       ],
@@ -26205,8 +26260,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -27765,8 +27820,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.5099999904632568,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -29600,8 +29655,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -30253,8 +30308,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.5899999737739563,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -30758,8 +30813,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -31527,8 +31582,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.5899999737739563,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -32961,15 +33016,15 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 1,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -33948,8 +34003,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8199999928474426,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -34406,8 +34461,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "No poverty",
           "score": 0.7200000286102295,
+          "display_name": "No poverty",
           "id": "https://metadata.un.org/sdg/1"
         }
       ],
@@ -35243,8 +35298,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.6499999761581421,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -36040,8 +36095,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.7835737466812134,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -36507,8 +36562,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -37705,8 +37760,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -39245,8 +39300,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -39787,8 +39842,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -41235,8 +41290,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8199999928474426,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -42304,8 +42359,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.4000000059604645,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -42551,8 +42606,9 @@
           "author": {
             "id": "https://openalex.org/A5108118684",
             "display_name": "Philippe Razin",
-            "orcid": "https://orcid.org/0000-0002-4252-1344",
+            "orcid": "https://orcid.org/0000-0003-2936-5110",
             "observed_orcids": [
+              "https://orcid.org/0000-0003-2936-5110",
               "https://orcid.org/0000-0002-4252-1344"
             ]
           },
@@ -43489,7 +43545,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-10-13T10:08:12.033832",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -44424,15 +44480,15 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.4399999976158142,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.6499999761581421,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -45442,8 +45498,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.4300000071525574,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -46463,8 +46519,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.6000000238418579,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -46944,8 +47000,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -48720,8 +48776,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.871906042098999,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],

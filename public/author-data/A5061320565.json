@@ -14,11 +14,12 @@
       "Abdulaziz AL-LABOUN",
       "Abdulaziz Abdullah Al-Laboun",
       "Abdulaziz Abdullah al-Laboun",
+      "Abdulaziz Al-laboun",
       "Abdulaziz AlLaboun"
     ],
     "full_name": "Abdulaziz Abdullah al-Laboun",
-    "works_count": 15,
-    "cited_by_count": 286,
+    "works_count": 16,
+    "cited_by_count": 285,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 9,
@@ -84,7 +85,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "count": 10,
+        "count": 11,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -99,12 +100,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T13193",
-        "display_name": "Geological Studies and Exploration",
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
         "count": 10,
         "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -116,12 +117,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "count": 9,
+        "id": "https://openalex.org/T13193",
+        "display_name": "Geological Studies and Exploration",
+        "count": 10,
         "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -171,7 +172,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000238,
+        "value": 0.0000256,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -188,7 +189,7 @@
       {
         "id": "https://openalex.org/T13193",
         "display_name": "Geological Studies and Exploration",
-        "value": 0.0000196,
+        "value": 0.0000185,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -203,26 +204,9 @@
         }
       },
       {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "value": 0.000014,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T10491",
         "display_name": "Enhanced Oil Recovery Techniques",
-        "value": 0.0000106,
+        "value": 0.0000156,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -237,9 +221,26 @@
         }
       },
       {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "value": 0.0000128,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000101,
+        "value": 0.0000089,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -303,7 +304,7 @@
         "year": 1987,
         "works_count": 3,
         "oa_works_count": 0,
-        "cited_by_count": 70
+        "cited_by_count": 69
       },
       {
         "year": 1988,
@@ -342,6 +343,12 @@
         "cited_by_count": 12
       },
       {
+        "year": 2016,
+        "works_count": 1,
+        "oa_works_count": 0,
+        "cited_by_count": 0
+      },
+      {
         "year": 2017,
         "works_count": 1,
         "oa_works_count": 0,
@@ -370,11 +377,12 @@
       "Abdulaziz AL-LABOUN",
       "Abdulaziz Abdullah Al-Laboun",
       "Abdulaziz Abdullah al-Laboun",
+      "Abdulaziz Al-laboun",
       "Abdulaziz AlLaboun"
     ],
     "block_key": "a al-laboun",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5061320565",
-    "updated_date": "2026-10-10T12:59:14",
+    "updated_date": "2026-10-12T12:34:37",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [

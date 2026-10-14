@@ -9,6 +9,7 @@
     "raw_author_names": [
       "BABALOLA, LAMEED OLABODE",
       "Babalola, L.O.",
+      "Babalola, Lamidi",
       "L. Babalola",
       "L. O. Babalola",
       "L.O. Babalola",
@@ -20,8 +21,8 @@
       "Lamidi O. Babalola"
     ],
     "full_name": "BABALOLA, LAMEED OLABODE",
-    "works_count": 74,
-    "cited_by_count": 596,
+    "works_count": 75,
+    "cited_by_count": 592,
     "summary_stats": {
       "2yr_mean_citedness": 5.5,
       "h_index": 14,
@@ -154,7 +155,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "count": 44,
+        "count": 45,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -171,7 +172,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "count": 35,
+        "count": 36,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -241,7 +242,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000834,
+        "value": 0.0000839,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -258,7 +259,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000682,
+        "value": 0.0000578,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -275,7 +276,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000553,
+        "value": 0.0000491,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -292,7 +293,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000492,
+        "value": 0.0000443,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -307,16 +308,16 @@
         }
       },
       {
-        "id": "https://openalex.org/T14047",
-        "display_name": "Marine and environmental studies",
-        "value": 0.0000381,
+        "id": "https://openalex.org/T10635",
+        "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+        "value": 0.0000318,
         "subfield": {
-          "id": "https://openalex.org/subfields/1910",
-          "display_name": "Oceanography"
+          "id": "https://openalex.org/subfields/2210",
+          "display_name": "Mechanical Engineering"
         },
         "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -325,6 +326,12 @@
       }
     ],
     "x_concepts": [
+      {
+        "id": "126753816",
+        "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+        "display_name": "Sedimentary depositional environment",
+        "score": 0.9430010914802551
+      },
       {
         "id": "127313418",
         "wikidata": "https://www.wikidata.org/wiki/Q1069",
@@ -348,12 +355,6 @@
         "wikidata": "https://www.wikidata.org/wiki/Q749565",
         "display_name": "Structural basin",
         "score": 0.5805057883262634
-      },
-      {
-        "id": "192562407",
-        "wikidata": "https://www.wikidata.org/wiki/Q228736",
-        "display_name": "Materials science",
-        "score": 0.5020542144775391
       }
     ],
     "counts_by_year": [
@@ -397,7 +398,7 @@
         "year": 2013,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 29
+        "cited_by_count": 28
       },
       {
         "year": 2015,
@@ -409,7 +410,7 @@
         "year": 2016,
         "works_count": 6,
         "oa_works_count": 0,
-        "cited_by_count": 79
+        "cited_by_count": 78
       },
       {
         "year": 2017,
@@ -421,7 +422,7 @@
         "year": 2018,
         "works_count": 7,
         "oa_works_count": 1,
-        "cited_by_count": 47
+        "cited_by_count": 46
       },
       {
         "year": 2019,
@@ -439,7 +440,7 @@
         "year": 2021,
         "works_count": 10,
         "oa_works_count": 1,
-        "cited_by_count": 70
+        "cited_by_count": 69
       },
       {
         "year": 2022,
@@ -457,6 +458,7 @@
     "display_name_alternatives": [
       "BABALOLA, LAMEED OLABODE",
       "Babalola, L.O.",
+      "Babalola, Lamidi",
       "L. Babalola",
       "L. O. Babalola",
       "L.O. Babalola",
@@ -469,7 +471,7 @@
     ],
     "block_key": "l babalola",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044235421",
-    "updated_date": "2026-10-10T12:59:14",
+    "updated_date": "2026-10-12T12:34:37",
     "created_date": "2018-12-11T00:00:00"
   },
   "works": [
@@ -7200,9 +7202,14 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
             "doaj",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-2",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310310987",
           "host_organization_name": "Multidisciplinary Digital Publishing Institute",
@@ -7400,8 +7407,10 @@
           "author": {
             "id": "https://openalex.org/A5086890284",
             "display_name": "Rahul Salin Babu",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0003-1934-8149",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1934-8149"
+            ]
           },
           "institutions": [
             {
@@ -7454,11 +7463,11 @@
         "currency": "CHF",
         "value_usd": 1824
       },
-      "fwci": 2.0612,
+      "fwci": 2.0592,
       "has_fulltext": true,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.85221713,
+        "value": 0.85211598,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7789,9 +7798,14 @@
             "is_in_doaj": true,
             "is_core": true,
             "listed_in": [
+              "anvur-class-a",
+              "anvur-scientific",
               "cwts-core",
               "doaj",
-              "norway-1"
+              "norway-1",
+              "poland-140",
+              "russia-white-list-2",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310310987",
             "host_organization_name": "Multidisciplinary Digital Publishing Institute",
@@ -7889,9 +7903,14 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
             "doaj",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-2",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310310987",
           "host_organization_name": "Multidisciplinary Digital Publishing Institute",
@@ -8697,7 +8716,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-13T10:08:12.033832",
       "created_date": "2019-11-22T00:00:00"
     },
     {

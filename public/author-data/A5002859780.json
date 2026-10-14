@@ -6,10 +6,11 @@
     "display_name": "Abdulaziz A. Al-Duaiji",
     "raw_author_names": [
       "A. Al-Duaiji",
+      "A.A. Al-Duaiji",
       "Abdulaziz A. Al-Duaiji"
     ],
     "full_name": "Abdulaziz A. Al-Duaiji",
-    "works_count": 8,
+    "works_count": 9,
     "cited_by_count": 66,
     "summary_stats": {
       "2yr_mean_citedness": 0,
@@ -73,7 +74,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "count": 6,
+        "count": 7,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -122,16 +123,16 @@
         }
       },
       {
-        "id": "https://openalex.org/T10088",
-        "display_name": "Thermochemical Biomass Conversion Processes",
-        "count": 1,
+        "id": "https://openalex.org/T10271",
+        "display_name": "Seismic Imaging and Inversion Techniques",
+        "count": 2,
         "subfield": {
-          "id": "https://openalex.org/subfields/2204",
-          "display_name": "Biomedical Engineering"
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -139,16 +140,16 @@
         }
       },
       {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "count": 1,
+        "id": "https://openalex.org/T10635",
+        "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+        "count": 2,
         "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
+          "id": "https://openalex.org/subfields/2210",
+          "display_name": "Mechanical Engineering"
         },
         "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -160,7 +161,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000143,
+        "value": 0.0000163,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -175,9 +176,26 @@
         }
       },
       {
+        "id": "https://openalex.org/T10635",
+        "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+        "value": 0.0000127,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2210",
+          "display_name": "Mechanical Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
         "id": "https://openalex.org/T13790",
         "display_name": "Waste Management and Environmental Impact",
-        "value": 0.0000132,
+        "value": 0.0000127,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -194,7 +212,7 @@
       {
         "id": "https://openalex.org/T11284",
         "display_name": "Coal Properties and Utilization",
-        "value": 0.0000106,
+        "value": 0.0000105,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -209,26 +227,9 @@
         }
       },
       {
-        "id": "https://openalex.org/T13193",
-        "display_name": "Geological Studies and Exploration",
-        "value": 0.0000098,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T12218",
         "display_name": "Coal and Its By-products",
-        "value": 0.0000095,
+        "value": 0.0000093,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -257,12 +258,6 @@
         "score": 0.7345849871635437
       },
       {
-        "id": "2777620812",
-        "wikidata": "https://www.wikidata.org/wiki/Q904896",
-        "display_name": "Transgressive",
-        "score": 0.709116518497467
-      },
-      {
         "id": "146588470",
         "wikidata": "https://www.wikidata.org/wiki/Q742139",
         "display_name": "Facies",
@@ -273,6 +268,12 @@
         "wikidata": "https://www.wikidata.org/wiki/Q749565",
         "display_name": "Structural basin",
         "score": 0.5100575089454651
+      },
+      {
+        "id": "199289684",
+        "wikidata": "https://www.wikidata.org/wiki/Q83353",
+        "display_name": "Mineralogy",
+        "score": 0.3643491864204407
       }
     ],
     "counts_by_year": [
@@ -295,6 +296,12 @@
         "cited_by_count": 1
       },
       {
+        "year": 2009,
+        "works_count": 1,
+        "oa_works_count": 0,
+        "cited_by_count": 0
+      },
+      {
         "year": 2010,
         "works_count": 1,
         "oa_works_count": 0,
@@ -315,11 +322,12 @@
     ],
     "display_name_alternatives": [
       "A. Al-Duaiji",
+      "A.A. Al-Duaiji",
       "Abdulaziz A. Al-Duaiji"
     ],
     "block_key": "a al-duaiji",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5002859780",
-    "updated_date": "2026-10-10T12:59:14",
+    "updated_date": "2026-10-12T12:34:37",
     "created_date": "2019-12-05T00:00:00"
   },
   "works": [
@@ -803,8 +811,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -2141,8 +2149,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.875,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7"
         }
       ],
@@ -2712,8 +2720,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -5578,18 +5586,18 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "score": 1,
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12"
         },
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7"
         },
         {
-          "display_name": "Climate action",
           "score": 0.5351999998092651,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -6528,8 +6536,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Reduced inequalities",
           "score": 0.699999988079071,
+          "display_name": "Reduced inequalities",
           "id": "https://metadata.un.org/sdg/10"
         }
       ],
@@ -7706,8 +7714,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -8700,8 +8708,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.6200000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],

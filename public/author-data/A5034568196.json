@@ -11,13 +11,14 @@
       "Benaafi, Mohammed",
       "M. Benaafi",
       "Mohammed BENAAFI",
-      "Mohammed Benaafi"
+      "Mohammed Benaafi",
+      "Mohammed Benaafi (17117663)"
     ],
     "full_name": "Benaafi, Mohammed",
-    "works_count": 93,
-    "cited_by_count": 1140,
+    "works_count": 94,
+    "cited_by_count": 1137,
     "summary_stats": {
-      "2yr_mean_citedness": 4.191489361702128,
+      "2yr_mean_citedness": 4.282608695652174,
       "h_index": 21,
       "i10_index": 33
     },
@@ -107,7 +108,7 @@
       {
         "id": "https://openalex.org/T11490",
         "display_name": "Hydrological Forecasting Using AI",
-        "count": 21,
+        "count": 22,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -124,7 +125,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "count": 13,
+        "count": 14,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -160,7 +161,7 @@
       {
         "id": "https://openalex.org/T11490",
         "display_name": "Hydrological Forecasting Using AI",
-        "value": 0.0002083,
+        "value": 0.000213,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -177,7 +178,7 @@
       {
         "id": "https://openalex.org/T13563",
         "display_name": "Chemical Analysis and Environmental Impact",
-        "value": 0.0001459,
+        "value": 0.0001433,
         "subfield": {
           "id": "https://openalex.org/subfields/2307",
           "display_name": "Health, Toxicology and Mutagenesis"
@@ -194,7 +195,7 @@
       {
         "id": "https://openalex.org/T10398",
         "display_name": "Groundwater and Isotope Geochemistry",
-        "value": 0.0001119,
+        "value": 0.0001055,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -211,7 +212,7 @@
       {
         "id": "https://openalex.org/T11634",
         "display_name": "Water Quality and Pollution Assessment",
-        "value": 0.000096,
+        "value": 0.0000911,
         "subfield": {
           "id": "https://openalex.org/subfields/2312",
           "display_name": "Water Science and Technology"
@@ -228,7 +229,7 @@
       {
         "id": "https://openalex.org/T12543",
         "display_name": "Groundwater and Watershed Analysis",
-        "value": 0.0000647,
+        "value": 0.0000604,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -302,8 +303,8 @@
       },
       {
         "year": 2018,
-        "works_count": 4,
-        "oa_works_count": 0,
+        "works_count": 5,
+        "oa_works_count": 1,
         "cited_by_count": 19
       },
       {
@@ -328,13 +329,13 @@
         "year": 2022,
         "works_count": 11,
         "oa_works_count": 9,
-        "cited_by_count": 368
+        "cited_by_count": 367
       },
       {
         "year": 2023,
-        "works_count": 14,
-        "oa_works_count": 8,
-        "cited_by_count": 388
+        "works_count": 15,
+        "oa_works_count": 9,
+        "cited_by_count": 386
       },
       {
         "year": 2024,
@@ -344,8 +345,8 @@
       },
       {
         "year": 2025,
-        "works_count": 13,
-        "oa_works_count": 5,
+        "works_count": 12,
+        "oa_works_count": 4,
         "cited_by_count": 37
       },
       {
@@ -360,11 +361,12 @@
       "Benaafi, Mohammed",
       "M. Benaafi",
       "Mohammed BENAAFI",
-      "Mohammed Benaafi"
+      "Mohammed Benaafi",
+      "Mohammed Benaafi (17117663)"
     ],
     "block_key": "m benaafi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5034568196",
-    "updated_date": "2026-10-11T12:31:35",
+    "updated_date": "2026-10-12T12:34:37",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1427,14 +1429,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 1
         },
         {
+          "id": "https://metadata.un.org/sdg/3",
           "display_name": "Good health and well-being",
-          "score": 0.8371999859809875,
-          "id": "https://metadata.un.org/sdg/3"
+          "score": 0.8371999859809875
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -1888,11 +1890,11 @@
         "currency": "CHF",
         "value_usd": 2618
       },
-      "fwci": 5.389,
+      "fwci": 5.3884,
       "has_fulltext": true,
-      "cited_by_count": 67,
+      "cited_by_count": 69,
       "citation_normalized_percentile": {
-        "value": 0.9711845,
+        "value": 0.97116126,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2328,26 +2330,26 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.6618000268936157
         },
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.5142999887466431,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.5142999887466431
         },
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.4399999976158142
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.6100000143051147,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.6100000143051147
         }
       ],
       "study_designs": [],
@@ -3014,7 +3016,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 12
+          "cited_by_count": 14
         },
         {
           "year": 2025,
@@ -3029,7 +3031,7 @@
           "cited_by_count": 12
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-13T10:08:12.033832",
       "created_date": "2022-11-08T00:00:00"
     },
     {
@@ -3776,16 +3778,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.4000000059604645
         }
       ],
       "study_designs": [],
@@ -4501,14 +4503,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 1
         },
         {
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "score": 0.5925999879837036,
-          "id": "https://metadata.un.org/sdg/12"
+          "score": 0.5925999879837036
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -5616,16 +5618,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.8580999970436096,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.8580999970436096
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -6527,9 +6529,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.9090999960899353,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.9090999960899353
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -7369,9 +7371,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.965499997138977,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.965499997138977
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -9193,16 +9195,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.9090999960899353,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.9090999960899353
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6299999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6299999952316284
         }
       ],
       "study_designs": [],
@@ -10696,16 +10698,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.9090999960899353,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.9090999960899353
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.5899999737739563,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.5899999737739563
         }
       ],
       "study_designs": [],
@@ -12208,16 +12210,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.9556000232696533,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.9556000232696533
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.41999998688697815
         }
       ],
       "study_designs": [],
@@ -13810,9 +13812,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -14699,9 +14701,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.965499997138977,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.965499997138977
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -16003,21 +16005,21 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 1
         },
         {
+          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger",
-          "score": 0.40450000762939453,
-          "id": "https://metadata.un.org/sdg/2"
+          "score": 0.40450000762939453
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8500000238418579
         }
       ],
       "study_designs": [],
@@ -17213,16 +17215,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.9090999960899353,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.9090999960899353
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7300000190734863
         }
       ],
       "study_designs": [],
@@ -18008,9 +18010,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.965499997138977,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.965499997138977
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -18800,7 +18802,9 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
-            "cwts-core"
+            "cwts-core",
+            "poland-20",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -18944,11 +18948,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 2.0587,
+      "fwci": 2.0528,
       "has_fulltext": false,
-      "cited_by_count": 37,
+      "cited_by_count": 38,
       "citation_normalized_percentile": {
-        "value": 0.84172957,
+        "value": 0.84111148,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19188,7 +19192,9 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
-              "cwts-core"
+              "cwts-core",
+              "poland-20",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -19215,9 +19221,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -19297,7 +19303,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -19340,7 +19346,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-12T09:15:50.089291",
+      "updated_date": "2026-10-13T10:08:12.033832",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20208,9 +20214,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.6618000268936157
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -21371,21 +21377,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.7778000235557556,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.7778000235557556
         },
         {
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.5690000057220459,
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.5690000057220459
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8600000143051147
         }
       ],
       "study_designs": [],
@@ -22277,9 +22283,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life on land",
-          "score": 0.6200000047683716,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.6200000047683716
         }
       ],
       "study_designs": [],
@@ -23622,21 +23628,21 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 1
         },
         {
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/12"
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.550000011920929
         }
       ],
       "study_designs": [],
@@ -24577,9 +24583,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.6618000268936157
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -26124,16 +26130,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.6618000268936157
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.5,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.5
         }
       ],
       "study_designs": [],
@@ -27066,26 +27072,26 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.6618000268936157
         },
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5351999998092651
         },
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.5142999887466431,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.5142999887466431
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.8600000143051147
         }
       ],
       "study_designs": [],
@@ -28648,16 +28654,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.965499997138977,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.965499997138977
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7400000095367432,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7400000095367432
         }
       ],
       "study_designs": [],
@@ -29962,9 +29968,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7599999904632568
         }
       ],
       "study_designs": [],
@@ -31185,21 +31191,21 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.6618000268936157
         },
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6200000047683716,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.6200000047683716
         }
       ],
       "study_designs": [],
@@ -32509,16 +32515,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.75,
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.75
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.8100000023841858
         }
       ],
       "study_designs": [],
@@ -33349,14 +33355,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 1
         },
         {
+          "id": "https://metadata.un.org/sdg/3",
           "display_name": "Good health and well-being",
-          "score": 0.5683000087738037,
-          "id": "https://metadata.un.org/sdg/3"
+          "score": 0.5683000087738037
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -34279,9 +34285,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.8571000099182129,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.8571000099182129
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -35053,21 +35059,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 1
         },
         {
+          "id": "https://metadata.un.org/sdg/3",
           "display_name": "Good health and well-being",
-          "score": 0.8371999859809875,
-          "id": "https://metadata.un.org/sdg/3"
+          "score": 0.8371999859809875
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.4300000071525574
         }
       ],
       "study_designs": [],
@@ -35599,11 +35605,11 @@
         "currency": "USD",
         "value_usd": 2050
       },
-      "fwci": 1.1938,
+      "fwci": 1.1897,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.7576407,
+        "value": 0.75680285,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36020,9 +36026,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.965499997138977
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -36673,7 +36679,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-13T10:08:12.033832",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37568,21 +37574,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 1
         },
         {
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "score": 0.7811999917030334,
-          "id": "https://metadata.un.org/sdg/12"
+          "score": 0.7811999917030334
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.831631600856781,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.831631600856781
         }
       ],
       "study_designs": [],
@@ -38395,9 +38401,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.9090999960899353,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.9090999960899353
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -39606,16 +39612,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.9090999960899353,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.9090999960899353
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.7599999904632568
         }
       ],
       "study_designs": [],
@@ -40882,9 +40888,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life on land",
-          "score": 0.5,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.5
         }
       ],
       "study_designs": [],
@@ -42067,16 +42073,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life on land",
-          "score": 0.4390000104904175,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.4390000104904175
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life on land",
-          "score": 0.49000000953674316,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.49000000953674316
         }
       ],
       "study_designs": [],
@@ -43388,9 +43394,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -44135,16 +44141,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.8999999761581421
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.699999988079071,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.699999988079071
         }
       ],
       "study_designs": [],
@@ -44918,9 +44924,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -46076,8 +46082,7 @@
             "display_name": "Md Masudur Rahman",
             "orcid": "https://orcid.org/0000-0001-5546-0491",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-5546-0491",
-              "https://orcid.org/0009-0004-1372-9260"
+              "https://orcid.org/0000-0001-5546-0491"
             ]
           },
           "institutions": [
@@ -46106,7 +46111,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Md Masudur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -46142,8 +46147,7 @@
             "display_name": "Md Masudur Rahman",
             "orcid": "https://orcid.org/0000-0001-5546-0491",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-5546-0491",
-              "https://orcid.org/0009-0004-1372-9260"
+              "https://orcid.org/0000-0001-5546-0491"
             ]
           },
           "institutions": [
@@ -46161,7 +46165,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Md Masudur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -46337,8 +46341,7 @@
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I120158604",
-        "https://openalex.org/I134085113",
-        "https://openalex.org/I4210132231"
+        "https://openalex.org/I134085113"
       ],
       "apc_list": {
         "value": 3265,
@@ -46350,11 +46353,11 @@
         "currency": "AUD",
         "value_usd": 2390
       },
-      "fwci": 1.2899,
+      "fwci": 1.2849,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.80177681,
+        "value": 0.80107801,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46802,14 +46805,14 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 1
         },
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -47342,7 +47345,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-13T10:08:12.033832",
       "created_date": "2025-11-23T00:00:00"
     },
     {
@@ -47848,9 +47851,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.41999998688697815
         }
       ],
       "study_designs": [],
@@ -48679,21 +48682,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.8999999761581421
         },
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/12"
+          "score": 0.4099999964237213
         }
       ],
       "study_designs": [],
@@ -49223,16 +49226,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.6618000268936157
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger",
-          "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/2"
+          "score": 0.4699999988079071
         }
       ],
       "study_designs": [],
@@ -50498,16 +50501,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.9710999727249146,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.9710999727249146
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6700000166893005,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6700000166893005
         }
       ],
       "study_designs": [],
@@ -51229,16 +51232,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.8485000133514404,
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.8485000133514404
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.4699999988079071
         }
       ],
       "study_designs": [],
@@ -51712,7 +51715,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahmudur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, 1230, Bangladesh",
@@ -51796,7 +51799,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahmudur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, 1230, Bangladesh",
@@ -52187,6 +52190,7 @@
       "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5122575736",
+        "https://openalex.org/A5129661867",
         "https://openalex.org/A5129708590"
       ],
       "corresponding_institution_ids": [
@@ -52199,11 +52203,11 @@
         "value_usd": 3190
       },
       "apc_paid": null,
-      "fwci": 6.6627,
+      "fwci": 6.6102,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.942815,
+        "value": 0.94214313,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -52610,26 +52614,26 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 1
         },
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.6618000268936157
         },
         {
+          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger",
-          "score": 0.4359000027179718,
-          "id": "https://metadata.un.org/sdg/2"
+          "score": 0.4359000027179718
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.41343632340431213,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.41343632340431213
         }
       ],
       "study_designs": [],
@@ -52730,7 +52734,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-13T10:08:12.033832",
       "created_date": "2026-01-10T00:00:00"
     },
     {
@@ -52840,7 +52844,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology",
@@ -52898,7 +52902,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology",
@@ -53228,7 +53232,7 @@
       "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5100671390",
-        "https://openalex.org/A5129708590"
+        "https://openalex.org/A5104113562"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113",
@@ -53244,11 +53248,11 @@
         "currency": "GBP",
         "value_usd": 1790
       },
-      "fwci": 6.7349,
+      "fwci": 6.6102,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.94662814,
+        "value": 0.94542126,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -53706,36 +53710,36 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 1
         },
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 1
         },
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.6618000268936157
         },
         {
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.4943999946117401,
-          "id": "https://metadata.un.org/sdg/9"
+          "score": 0.4943999946117401
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5333158373832703,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5333158373832703
         },
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.40034809708595276,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.40034809708595276
         }
       ],
       "study_designs": [],
@@ -54326,7 +54330,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-11T09:32:39.932853",
+      "updated_date": "2026-10-13T10:08:12.033832",
       "created_date": "2026-01-24T00:00:00"
     },
     {
@@ -55020,9 +55024,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life on land",
-          "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.4699999988079071
         }
       ],
       "study_designs": [],
@@ -56261,9 +56265,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -57102,9 +57106,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7300000190734863
         }
       ],
       "study_designs": [],
@@ -58495,21 +58499,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 1
         },
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.821399986743927,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.821399986743927
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.5899999737739563,
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.5899999737739563
         }
       ],
       "study_designs": [],
@@ -59144,14 +59148,14 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.8598999977111816,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.8598999977111816
         },
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.4399999976158142
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -60309,8 +60313,10 @@
           "author": {
             "id": "https://openalex.org/A5090295879",
             "display_name": "Pahmi Husain",
-            "orcid": null,
-            "observed_orcids": []
+            "orcid": "https://orcid.org/0000-0002-3185-7969",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3185-7969"
+            ]
           },
           "institutions": [
             {
@@ -60523,11 +60529,11 @@
         "value_usd": 3890
       },
       "apc_paid": null,
-      "fwci": 0.289,
+      "fwci": 0.2878,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.55787492,
+        "value": 0.55691232,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -60906,14 +60912,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.7778000235557556,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.7778000235557556
         },
         {
+          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger",
-          "score": 0.6875,
-          "id": "https://metadata.un.org/sdg/2"
+          "score": 0.6875
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -61015,7 +61021,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-13T10:08:12.033832",
       "created_date": "2025-12-29T00:00:00"
     },
     {
@@ -61746,21 +61752,21 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 1
         },
         {
+          "id": "https://metadata.un.org/sdg/3",
           "display_name": "Good health and well-being",
-          "score": 0.4043000042438507,
-          "id": "https://metadata.un.org/sdg/3"
+          "score": 0.4043000042438507
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.5572254657745361,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.5572254657745361
         }
       ],
       "study_designs": [],
@@ -63049,9 +63055,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger",
-          "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/2"
+          "score": 0.41999998688697815
         }
       ],
       "study_designs": [],
@@ -63576,9 +63582,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6499999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6499999761581421
         }
       ],
       "study_designs": [],
@@ -64682,9 +64688,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -65822,9 +65828,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -66397,9 +66403,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6700000166893005,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6700000166893005
         }
       ],
       "study_designs": [],
@@ -67580,9 +67586,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life on land",
-          "score": 0.5099999904632568,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.5099999904632568
         }
       ],
       "study_designs": [],
@@ -68934,9 +68940,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -73412,9 +73418,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6700000166893005,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.6700000166893005
         }
       ],
       "study_designs": [],
@@ -73971,16 +73977,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger",
-          "score": 0.6875,
-          "id": "https://metadata.un.org/sdg/2"
+          "score": 0.6875
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger",
-          "score": 0.7400000095367432,
-          "id": "https://metadata.un.org/sdg/2"
+          "score": 0.7400000095367432
         }
       ],
       "study_designs": [],
@@ -75054,16 +75060,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.9090999960899353,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.9090999960899353
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7699999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7699999809265137
         }
       ],
       "study_designs": [],
@@ -75522,16 +75528,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.9090999960899353,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.9090999960899353
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.800000011920929
         }
       ],
       "study_designs": [],
@@ -76708,21 +76714,21 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.9090999960899353,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.9090999960899353
         },
         {
+          "id": "https://metadata.un.org/sdg/3",
           "display_name": "Good health and well-being",
-          "score": 0.5683000087738037,
-          "id": "https://metadata.un.org/sdg/3"
+          "score": 0.5683000087738037
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8299999833106995
         }
       ],
       "study_designs": [],
@@ -78021,9 +78027,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.965499997138977,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.965499997138977
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -79020,14 +79026,14 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.965499997138977,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.965499997138977
         },
         {
+          "id": "https://metadata.un.org/sdg/3",
           "display_name": "Good health and well-being",
-          "score": 0.9074000120162964,
-          "id": "https://metadata.un.org/sdg/3"
+          "score": 0.9074000120162964
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -80004,9 +80010,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.7778000235557556,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.7778000235557556
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -81387,16 +81393,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger",
-          "score": 0.4535079300403595,
-          "id": "https://metadata.un.org/sdg/2"
+          "score": 0.4535079300403595
         }
       ],
       "study_designs": [],
@@ -84054,26 +84060,26 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 1
         },
         {
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "score": 0.5171999931335449,
-          "id": "https://metadata.un.org/sdg/12"
+          "score": 0.5171999931335449
         },
         {
+          "id": "https://metadata.un.org/sdg/3",
           "display_name": "Good health and well-being",
-          "score": 0.4043000042438507,
-          "id": "https://metadata.un.org/sdg/3"
+          "score": 0.4043000042438507
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.7608427405357361,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.7608427405357361
         }
       ],
       "study_designs": [],
@@ -85296,14 +85302,14 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 1
         },
         {
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "score": 0.7811999917030334,
-          "id": "https://metadata.un.org/sdg/12"
+          "score": 0.7811999917030334
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -86455,16 +86461,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.965499997138977,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.965499997138977
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8431621193885803,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8431621193885803
         }
       ],
       "study_designs": [],
@@ -87784,26 +87790,26 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 1
         },
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.9090999960899353,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.9090999960899353
         },
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.8787999749183655,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.8787999749183655
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.6082315444946289,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.6082315444946289
         }
       ],
       "study_designs": [],
@@ -88593,7 +88599,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahmudur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, 1230, Bangladesh",
@@ -88649,7 +88655,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahmudur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, 1230, Bangladesh",
@@ -88780,7 +88786,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.12991134,
+        "value": 0.12770195,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -89074,21 +89080,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 1
         },
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.9786999821662903,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.9786999821662903
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.6109220385551453,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.6109220385551453
         }
       ],
       "study_designs": [],
@@ -89131,7 +89137,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-11T09:32:39.932853",
+      "updated_date": "2026-10-13T10:08:12.033832",
       "created_date": "2026-03-18T00:00:00"
     },
     {
@@ -89855,16 +89861,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.965499997138977,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.965499997138977
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6860736012458801,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.6860736012458801
         }
       ],
       "study_designs": [],
@@ -90259,7 +90265,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahmudur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh",
@@ -90315,7 +90321,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahmudur Rahman",
           "raw_affiliation_strings": [
             "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh",
@@ -90484,7 +90490,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.29282996,
+        "value": 0.29105113,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -90802,21 +90808,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 1
         },
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.965499997138977,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.965499997138977
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.4835779368877411,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.4835779368877411
         }
       ],
       "study_designs": [],
@@ -90898,7 +90904,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-13T10:08:12.033832",
       "created_date": "2026-05-05T00:00:00"
     },
     {
@@ -91313,21 +91319,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 1
         },
         {
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/12"
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.8365907669067383,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.8365907669067383
         }
       ],
       "study_designs": [],
@@ -92287,9 +92293,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.6618000268936157
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -92997,9 +93003,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -94123,14 +94129,14 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.965499997138977,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.965499997138977
         },
         {
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.4943999946117401,
-          "id": "https://metadata.un.org/sdg/9"
+          "score": 0.4943999946117401
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -95349,26 +95355,26 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 1
         },
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.6618000268936157
         },
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.5538976192474365,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.5538976192474365
         }
       ],
       "study_designs": [],
@@ -98071,26 +98077,26 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.9333000183105469,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.9333000183105469
         },
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.8571000099182129,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.8571000099182129
         },
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.821399986743927,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.821399986743927
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.5348670482635498,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.5348670482635498
         }
       ],
       "study_designs": [],
@@ -99552,21 +99558,21 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 1
         },
         {
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.821399986743927,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.821399986743927
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.7846640348434448,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.7846640348434448
         }
       ],
       "study_designs": [],
@@ -100130,13 +100136,19 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "doyens",
             "jufo-1",
             "ki-jl-1",
             "medline",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
@@ -100265,7 +100277,6 @@
             "observed_orcids": [
               "https://orcid.org/0000-0003-3647-7137",
               "https://orcid.org/0000-0003-3344-214X",
-              "https://orcid.org/0000-0001-5979-9556",
               "https://orcid.org/0000-0002-8554-3121"
             ]
           },
@@ -100377,7 +100388,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.55557262,
+        "value": 0.53942129,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -100704,13 +100715,19 @@
             "is_in_doaj": true,
             "is_core": true,
             "listed_in": [
+              "anvur-class-a",
+              "anvur-scientific",
               "cwts-core",
               "doaj",
+              "dongbi-c",
               "doyens",
               "jufo-1",
               "ki-jl-1",
               "medline",
-              "norway-1"
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319908",
             "host_organization_name": "Nature Portfolio",
@@ -100750,13 +100767,19 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "doyens",
             "jufo-1",
             "ki-jl-1",
             "medline",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
@@ -100780,16 +100803,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.9090999960899353,
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.9090999960899353
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8302261233329773,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8302261233329773
         }
       ],
       "study_designs": [],
@@ -101456,7 +101479,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-13T10:08:12.033832",
       "created_date": "2026-08-19T00:00:00"
     }
   ]
